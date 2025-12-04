@@ -1,0 +1,1 @@
+# Nietzsche-KR-Translation
