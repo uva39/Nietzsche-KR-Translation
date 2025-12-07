@@ -18,7 +18,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [28[1]](javascript:;)
 ---------------------
 
-Allen Schaffenden geweiht.
+**Allen Schaffenden geweiht.**
 
   
 
@@ -50,7 +50,7 @@ und die Deutschen täglich flacher!
 [28[3]](javascript:;)
 ---------------------
 
-Sonnen-Bosheit.
+**Sonnen-Bosheit.**
 
   
 
@@ -197,7 +197,7 @@ Mit fliegendem Dolche in deren Haut — — —
 [28[6]](javascript:;)
 ---------------------
 
-Baum im Herbste
+**Baum im Herbste**
 
   
 
@@ -224,7 +224,7 @@ Goldreifer Früchte — an den Kopf.
 
 auf neuem Weg zum alten Griechenthum
 
-ich dachte in dir den Deutschen zu erlösen
+ich dachte **in dir den Deutschen** zu erlösen
 
 dein Siegfried-Zerrbild Parsifal!
 
@@ -256,7 +256,7 @@ Nun wird mir alles grau und leid
 | --- | --- |
 | Nun‚ da der Tag  Des Tages müde ward‚ und aller Sehnsucht Bäche  Von Neuem Trost plätschern‚  auch alle Himmel‚ aufgehängt in Gold-Spinnetzen‚  zu jedem Müden sprechen: „ruhe nun“‚ —  was ruhst du nicht‚ du dunkles Herz‚  was stachelt dich zu fußwunder Flucht   weß harrest du?   du Verzweifelnder! Weißt du auch‚ —  wie viel Muth machst du denen‚  die dir zuschaun | |
 | ach wie du klagst! | wohin meine Flucht? |
-| Ach wen du weidest!  Gefangne noch weidest du.  Wie sicher ist den Unstäten  doch ein Gefängniß!  wie ruhig schlafen verbrecherische  Seelen‚ eingefangen —   Nun‚ da die Maus den Berg gebar —   Wo bist du Schöpferisches?   Oh wärmt mich! liebt mich  gebt heiße Hände  erschreckt ob meines Eises nicht!  Zu lange gespensterhaft auf Gletschern — — —   umhergetrieben‚ aufgewirbelt  auf welchem Spiegel habe ich nicht gesessen —  ich Staub auf allen Oberflächen  außer sich‚ vor Hingebung  dem Hunde gleich   Hohl‚ Höhle‚ voller Gift und Nachtgeflügel  umsungen und umfürchtet‚  einsam —.   Ihr Wegelagerer! Euer bin ich nun!  Was wollt ihr Lösegelds?  Wollt Viel — so räth mein Stolz.  Und redet kurz — das räth mein andrer Stolz.   Ich liege still —  ausgestreckt‚  Halbtodtem gleich‚ dem man die Füße wärmt  — die Käfer fürchten sich vor mir   ihr fürchtet mich? Ihr fürchtet den gespannten Bogen nicht?  Wehe es könnte Einer seinen Pfeil dranlegen | |
+| Ach wen du weidest!  Gefangne noch weidest du.  Wie sicher ist den Unstäten  doch ein Gefängniß!  wie ruhig schlafen verbrecherische  Seelen‚ eingefangen —   Nun‚ da die Maus den Berg gebar —   Wo bist du Schöpferisches?   Oh wärmt mich! liebt mich  gebt heiße Hände  erschreckt ob meines Eises nicht!  Zu lange gespensterhaft auf Gletschern — — —   umhergetrieben‚ aufgewirbelt  auf welchem Spiegel habe ich nicht gesessen —  ich Staub auf allen Oberflächen  außer sich‚ vor Hingebung  dem Hunde gleich   Hohl‚ Höhle‚ voller Gift und Nachtgeflügel  umsungen und umfürchtet‚  einsam —.   Ihr Wegelagerer! Euer bin ich nun!  Was wollt ihr Lösegelds?  Wollt Viel — so räth mein Stolz.  Und redet kurz — das räth mein andrer Stolz.   Ich liege still —  ausgestreckt‚  Halbtodtem gleich‚ dem man die Füße wärmt  — die Käfer fürchten sich vor mir   ihr fürchtet mich? Ihr fürchtet den gespannten Bogen **nicht**?  Wehe es könnte Einer seinen Pfeil dranlegen | |
 
 [28[10]](javascript:;)
 ----------------------
@@ -316,7 +316,7 @@ Das schönste Musen-Schiff zu wenden
 [28[11]](javascript:;)
 ----------------------
 
-Arthur Schopenhauer.
+**Arthur Schopenhauer.**
 
   
 
@@ -334,7 +334,7 @@ Niemandem war er unterthan!
 |  |  |
 | --- | --- |
 | 1) | Ihr Wege-lagernden Gedanken  Fleiß ehemals  Qual des Schaffens |
-| 2) | nach *Erratum:*Nach *lies:*nach [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Liebe suchend — und immer die Larve‚  die verfluchte Larve finden und zerbrechen *Erratum:*zerbrechen *lies:*zerbrechen [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  müssen! |
+| 2) | nach *Erratum:*Nach *lies:*nach [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Liebe suchend — und immer die **Larve**‚  die verfluchte **Larve** finden und **zerbrechen** *Erratum:*zerbrechen *lies:***zerbrechen** [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  müssen! |
 
 [28[13]](javascript:;)
 ----------------------
@@ -346,7 +346,7 @@ Die heiß ersehnte!
 [28[14]](javascript:;)
 ----------------------
 
-Schafe.
+**Schafe.**
 
   
 
@@ -364,7 +364,7 @@ scharfen Zugs
 
 stürzt er auf seine Beute.
 
-Glaubt ihr wohl‚ daß es Hunger ist?
+Glaubt ihr wohl‚ daß es **Hunger** ist?
 
 Eingeweiden-Armut? —
 
@@ -372,7 +372,7 @@ Und auch Liebe ist es nicht
 
 — was ist ein Lamm einem Adler!
 
-er haß<t> die Schafe
+**er haß&amp;lt;t&amp;gt; die Schafe**
 
 Also stürze ich mich
 
@@ -420,7 +420,7 @@ kuhmüthiges Wohlwollen
 [28[20]](javascript:;)
 ----------------------
 
-Die Bösen liebend.
+**Die Bösen liebend.**
 
   
 
@@ -528,7 +528,7 @@ gleich buntgefleckten Raubthieren
 [28[22]](javascript:;)
 ----------------------
 
-Die Weltmüden
+**Die Weltmüden**
 
   
 
@@ -603,7 +603,7 @@ Gewissenhafte!
 [28[23]](javascript:;)
 ----------------------
 
-Jenseits der Zeit.
+**Jenseits der Zeit.**
 
   
 
@@ -655,7 +655,7 @@ Es erhob sich ein Geschrei um Mitternacht
 [28[25]](javascript:;)
 ----------------------
 
-Lob der Armut.
+**Lob der Armut.**
 
   
 
@@ -717,11 +717,11 @@ Mit Blüthen-Zweigen boshaft Schläfer weckend
 [28[27]](javascript:;)
 ----------------------
 
-6. Der Dichter — Qual des Schaffenden
+**6. Der Dichter — Qual des Schaffenden**
 
   
 
-Ach‚ Wegelagerer! Nun bin <ich> euer
+Ach‚ Wegelagerer! Nun bin &amp;lt;ich&amp;gt; euer
 
 Was wollt ihr‚ Lösegelds?
 
@@ -816,30 +816,30 @@ Drin eint sich Milch und Veilchen und Granit.
 
 |  |  |
 | --- | --- |
-| 1 | Das rothe Blatt  Daß mir Vieles Gute nicht entschlüpft und ich undankbar scheide |
-| 2 | an den Vormittag. |
-| 3 | allen Gefängnissen entschlüpft (Ehe Amt 1 Ort usw.) |
-| 4 | südliche Musik |
-| 5 | an die Griechen (in Verhältniß zu Deutschen) |
-| 6 | an die Christen (ich habe das Christenthum nicht nöthig) |
-| 7 | Haß gegen die Engeländer (dagegen deutsch-russisch) |
-| 8 | Sehnsucht nach einer hohen Seele |
-| 9 | Honigopfer-Dank |
-| 10 | gegen den Frühling (Hohn) |
-| 11 | Lob des kriegerischen Geistes als mich vorbereitend |
-| 12 | der ernsteste Knabe — oh daß du im Alter Kind wirst! |
-| 13 | an Schopenhauer als den philosophischen Jüngling |
+| 1 | **Das rothe Blatt**  Daß mir Vieles Gute nicht entschlüpft und ich undankbar scheide |
+| 2 | **an den Vormittag.** |
+| 3 | **allen Gefängnissen entschlüpft** (Ehe Amt 1 **Ort** usw.) |
+| 4 | **südliche Musik** |
+| 5 | **an die Griechen** (in Verhältniß zu Deutschen) |
+| 6 | **an die Christen** (ich habe das Christenthum nicht **nöthig**) |
+| 7 | **Haß gegen die Engeländer** (dagegen deutsch-russisch) |
+| 8 | **Sehnsucht nach einer hohen Seele** |
+| 9 | **Honigopfer**-Dank |
+| 10 | **gegen** den Frühling (Hohn) |
+| 11 | Lob des kriegerischen Geistes als **mich** vorbereitend |
+| 12 | der **ernsteste** Knabe — oh daß du im Alter Kind **wirst**! |
+| 13 | an **Schopenhauer** als den philosophischen **Jüngling** |
 | 14 | an Napoleon (Corsica) wo ist der Mann von Granit? |
-| 15 | Von der langen Leiter |
-| 16 | Mit Jedermann leutselig‚ auch mit Gräsern noch |
-| 17 | Humor eines‚ der über Alles gesiegt hat. |
-| 18 | Hohnlied über die Oberflächlichkeit der Menschen |
-| 19 | Der Verborgenste (Hohn eines ewig-unvermerkt Maskirten) |
+| 15 | Von der **langen Leiter** |
+| 16 | Mit Jedermann **leutselig**‚ auch mit Gräsern noch |
+| 17 | Humor eines‚ der über **Alles**gesiegt hat. |
+| 18 | Hohnlied über die **Oberflächlichkeit** der Menschen |
+| 19 | Der **Verborgenste** (Hohn eines ewig-unvermerkt Maskirten) |
 | 20 | An den Schlaf (3 Stunden Abwartens‚ segnend *Erratum:*sagend *lies:*segnend [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) ) |
-| 21 | kein Märtyrer! Dafür auch zu listig‚ ich entschlüpfe! (und ich habe es schlimmer gehabt als ihr Alle!) |
-| 22 | der gute Europäer |
-| 23 | die Mitternachts-Abreise |
-| 24 | Calina braunroth‚ alles zu scharf in der Nähe  im höchsten Sommer. Gespenstisch (meine jetzige Gefahr!) |
+| 21 | **kein** Märtyrer! Dafür auch zu **listig**‚ ich entschlüpfe! (und ich habe es **schlimmer** gehabt als ihr Alle!) |
+| 22 | der **gute Europäer** |
+| 23 | die **Mitternachts-Abreise** |
+| 24 | **Calina** braunroth‚ alles zu scharf in der Nähe  im höchsten Sommer. Gespenstisch (meine **jetzige** Gefahr!) |
 | 25 | an Richard Wagner |
 
 [Z II 7a]
@@ -847,7 +847,7 @@ Drin eint sich Milch und Veilchen und Granit.
 [28[33]](javascript:;)
 ----------------------
 
-„Mittags-Gedanken.“
+**„Mittags-Gedanken.“**
   
 Von  
 Friedrich Nietzsche.
@@ -871,14 +871,14 @@ Friedrich Nietzsche.
 | 15 | allen Gefängnissen entschlüpft (wie Amt‚ Ehe usw.) |
 | 16 | An die Griechen (gegen die Deutschen) |
 | 17 | Südliche Musik |
-| 18 | an die Christen (ich habe euer Christenthum nicht nöthig) |
+| 18 | an die Christen (ich habe euer Christenthum nicht **nöthig**) |
 | 19 | Haß gegen die Engländer (dagegen deutsch-russisch |
 | 20 | Sehnsucht nach einer hohen Seele. |
 | 21 | Honig-Opfer. Große Danksagung. |
 | 22 | gegen den Frühling (Hohn). |
 | Bitte um Blindheit (an die Sonne | |
-| 23 | Lob des kriegerischen Geistes — mich vorbereitend. |
-| 24 | Der ernsteste Knabe (d.h. daß du im Alter Kind wirst!) |
+| 23 | Lob des kriegerischen Geistes — **mich** vorbereitend. |
+| 24 | Der ernsteste Knabe (d.h. daß du im Alter **Kind** wirst!) |
 | 25 | An Schopenhauer (als an den philosophischen Jüngling). |
 
 [28[34]](javascript:;)
@@ -902,7 +902,7 @@ Des Nachts — was schlägt mir an das Fenster?
 [28[36]](javascript:;)
 ----------------------
 
-Das Honig-Opfer.
+**Das Honig-Opfer.**
 
   
 
@@ -915,7 +915,7 @@ Was gönnt‚ was gütig ist —: erhebt die Herzen!
 [28[37]](javascript:;)
 ----------------------
 
-Herolds Rufe
+**Herolds Rufe**
 
   
 
@@ -978,14 +978,14 @@ In den sich schamhaft — Schönres hüllt —
 [28[42]](javascript:;)
 ----------------------
 
-An Hafis.
+**An Hafis.**
   
 Frage eins Wassertrinkers.
 
   
 
 Die Schenke‚ die du dir gebaut‚  
-ist größer als jed<es> Haus‚
+ist größer als jed&amp;lt;es&amp;gt; Haus‚
 
 Die Tränke‚ die du drin gebraut‚  
 die trinkt die Welt nicht aus.
@@ -1006,7 +1006,7 @@ Bist aller Höhen Versunkenheit‚
 Bist aller Tiefen Schein‚
 
 Bist aller Trunkenen Trunkenheit  
-— wozu‚ wozu dir — Wein?
+— wozu‚ wozu **dir** — Wein?
 
 [Z II 6a]
 
@@ -1031,7 +1031,7 @@ Denn‚ lacht er nicht‚ faßt ihn „das böse Wesen“.
 [28[45]](javascript:;)
 ----------------------
 
-An die deutschen Esel.
+**An die deutschen Esel.**
 
   
 
@@ -1043,7 +1043,7 @@ Nehmt ihr als „Philosophie“?
 
 Darwin neben Goethe setzen
 
-Heißt: die Majestät verletzen —
+Heißt: **die Majestät verletzen** —
 
 majestatem Genii!
 
@@ -1078,7 +1078,7 @@ Auch nicht mehr als Zucht von Vieh.
 
   
 
-Nur — zu Goethen ihn zu setzen
+Nur — zu **Goethen** ihn zu setzen
 
 Heißt die Majestät verletzen
 
@@ -1087,7 +1087,7 @@ Majestatem genii!
 [28[47]](javascript:;)
 ----------------------
 
-Beim Anblick eines Schlafrocks.
+**Beim Anblick eines Schlafrocks.**
 
   
 
@@ -1106,7 +1106,7 @@ Seinem Bismarck — den Verstand!
 [28[48]](javascript:;)
 ----------------------
 
-An Richard Wagner.
+**An Richard Wagner.**
 
   
 
@@ -1120,7 +1120,7 @@ Verekelt mehr und mehr‚ zerschundener‚
 
 Bis du aus jedem Balsam Gift dir trankst —
 
-Weh! Daß auch du am Kreuze niedersankst‚
+Weh! Daß auch du am **Kreuze** niedersankst‚
 
 Auch du! Auch du — ein Überwundener!
 
@@ -1141,7 +1141,7 @@ Denn ich entsprang — —
 [28[49]](javascript:;)
 ----------------------
 
-An Spinoza.
+**An Spinoza.**
 
   
 
@@ -1168,7 +1168,7 @@ ein heimlich
 [28[50]](javascript:;)
 ----------------------
 
-Für falsche Freunde.
+**Für falsche Freunde.**
 
   
 
@@ -1182,23 +1182,23 @@ Nimm diese Handvoll obendrein —
 
 Nimm all mein Mein —
 
-Und friß dich rein daran‚ du Schwein!
+Und friß dich **rein** daran‚ du Schwein!
 
 [28[51]](javascript:;)
 ----------------------
 
-Römischer Stoßseufzer.
+**Römischer Stoßseufzer.**
 
   
 
 Nur deutsch! Nicht teutsch! So will’s jetzt deutsche Art.
 
-Nur was den „Babst“ betrifft‚ so bleibt sie — hart!
+Nur was den „Babst“ betrifft‚ so bleibt sie — **hart**!
 
 [28[52]](javascript:;)
 ----------------------
 
-Der „ächte Deutsche“.
+**Der „ächte Deutsche“.**
 
   
 
@@ -1213,7 +1213,7 @@ Fuhr er nach Cosmopolis.
 [28[53]](javascript:;)
 ----------------------
 
-Das neue Testament.
+**Das neue Testament.**
 
   
 
@@ -1228,24 +1228,24 @@ Gottes Ehebruch!
 [28[54]](javascript:;)
 ----------------------
 
-Räthsel.
+**Räthsel.**
 
   
 
 Löst mir das Räthsel‚ das dies Wort versteckt:
 
-„Das Weib erfindet‚ wenn der Mann entdeckt — —“
+„Das Weib **erfindet**‚ wenn der Mann **entdeckt** — —“
 
 [28[55]](javascript:;)
 ----------------------
 
-Der Einsiedler spricht.
+**Der Einsiedler spricht.**
 
   
 
-Gedanken haben? Gut! — so sind sie mein Besitz.
+Gedanken **haben**? Gut! — so sind sie mein Besitz.
 
-Doch sich Gedanken machen‚ — das verlernt’ ich gern!
+Doch sich Gedanken **machen**‚ — das verlernt’ ich gern!
 
 Wer sich Gedanken macht — der ist besessen
 
@@ -1254,11 +1254,11 @@ und dienen will ich nimmer und nie.
 [28[56]](javascript:;)
 ----------------------
 
-Entschluß.
+**Entschluß.**
 
   
 
-Will weise sein‚ weil’s mir gefällt
+Will weise sein‚ weil’s **mir** gefällt
 
 Und noch nach eignem Ruf.
 
@@ -1300,7 +1300,7 @@ Gott selbst — fängt er immer an?
 [28[58]](javascript:;)
 ----------------------
 
-Der Wanderer.
+**Der Wanderer.**
 
   
 
@@ -1332,7 +1332,7 @@ In’s Ohr mir‚ daß ich stehen muß
 
 Und lauschen muß — —
 
-Was lockst du mich mit Ton und Gruß?“ —
+Was **lockst** du mich mit Ton und Gruß?“ —
 
   
 
@@ -1371,7 +1371,7 @@ Der arme‚ arme Wandersmann!“
 [28[59]](javascript:;)
 ----------------------
 
-Im deutschen November.
+**Im deutschen November.**
 
   
 
@@ -1445,7 +1445,7 @@ in ihrem Auge glänzet dann
 
 Erinnerung auf‚
 
-Erinnerung an Schöneres als ich: —
+**Erinnerung an Schöneres als ich:** —
 
 — ich seh’s‚ ich seh’s — und sterbe so.“ —
 
@@ -1458,7 +1458,7 @@ Fliege fort! fliege fort!
 [28[60]](javascript:;)
 ----------------------
 
-Am Gletscher.
+**Am Gletscher.**
 
   
 
@@ -1470,7 +1470,7 @@ Der Knabe mit den müden‚ heißen Augen:
 
 Da spricht er auch‚
 
-Doch sehen wir sein Sprechen nur.
+Doch **sehen** wir sein Sprechen nur.
 
 Sein Athem quillt wie eines Kranken Athem quillt
 
@@ -1589,7 +1589,7 @@ Der Knabe mit den müden heißen Augen.
 [28[61]](javascript:;)
 ----------------------
 
-„Der Wanderer und sein Schatten.“
+**„Der Wanderer und sein Schatten.“**
 
 Ein Buch
 
@@ -1601,7 +1601,7 @@ Auch für die Gemse keine Bahn?
 
   
 
-So wart’ ich hier und fasse fest‚
+So wart’ ich hier und **fasse** fest‚
 
 Was Aug’ und Hand mich fassen läßt!
 
@@ -1609,12 +1609,12 @@ Was Aug’ und Hand mich fassen läßt!
 
 Fünf Fuß breit Erde‚ Morgenroth‚
 
-und unter mir — Welt‚ Mensch und Tod!
+und **unter** mir — Welt‚ Mensch und Tod!
 
 [28[62]](javascript:;)
 ----------------------
 
-Yorick als Zigeuner.
+**Yorick als Zigeuner.**
 
   
 
@@ -1656,7 +1656,7 @@ Sterben? Sterben kann ich nicht!
 
 Einst erklang‚ in Spaniens Ferne
 
-Mir das Lied zum Klapperblech‚
+Mir **das** Lied zum Klapperblech‚
 
 Trübe blickte die Laterne‚
 
@@ -1673,7 +1673,7 @@ Thut’s ein heller Freuden-Ton.
 [28[63]](javascript:;)
 ----------------------
 
-Yorick-Columbus.
+**Yorick-Columbus.**
 
 Freundin! sprach Columbus‚ traue
 
@@ -1716,9 +1716,9 @@ Lacht mir zu: die Ewigkeit
 [28[64]](javascript:;)
 ----------------------
 
-Der Freigeist.
+**Der Freigeist.**
 
-Abschied
+**Abschied**
 
 „Die Krähen schrei’n
 
@@ -1768,11 +1768,11 @@ Bald wird es schnei’n‚
 
 Weh dem‚ der keine Heimat hat!“
 
-Antwort.
+**Antwort.**
 
 Daß Gott erbarm’!
 
-Der meint‚ ich sehnte mich zurück
+**Der** meint‚ ich sehnte mich zurück
 
 In’s deutsche Warm‚
 
@@ -1780,9 +1780,9 @@ In’s dumpfe deutsche Stuben-Glück!
 
 Mein Freund‚ was hier
 
-Mich hemmt und hält ist dein Verstand‚
+Mich hemmt und hält ist **dein** Verstand‚
 
-Mitleid mit dir!
+Mitleid mit **dir**!
 
 Mitleid mit deutschem Quer-Verstand!
 
@@ -1801,7 +1801,7 @@ Nur heute steh’ ich‚ weine‚
 
 Lass’ meinen Thränen Lauf
 
-Vor dir‚ <du> Bild im Steine‚
+Vor dir‚ &amp;lt;du&amp;gt; Bild im Steine‚
 
 Vor dir‚ du Wort darauf!
 
@@ -1830,21 +1830,21 @@ Das lange Wort sogar.
 
 Freund Yorick‚ Muth!
 
-Und wenn dich dein Gedanke quält‚
+Und wenn dich dein **Gedanke** quält‚
 
 Wie jetzt er thut‚
 
 Heiß’ Das nicht — „Gott“! Denn‚ weit gefehlt‚
 
-Es ist ja nur dein eigen Kind‚
+Es ist ja nur dein eigen **Kind**‚
 
-Dein Fleisch und Blut‚
+**Dein** Fleisch und Blut‚
 
 was dich da drangsalirt und quält‚
 
 Dein kleiner Schelm und Thu-nicht-gut!
 
-— Sieh zu‚ wie ihm die Ruthe thut!
+— Sieh zu‚ wie ihm die **Ruthe** thut!
 
   
 
@@ -1856,12 +1856,12 @@ Noch einen Spruch als Medizin
 
 Und Haus-Recept ins Ohr dir flüstre
 
-— mein Mittel gegen solchen spleen —:
+— **mein** Mittel gegen solchen spleen —:
 
-„Wer seinen ‚Gott‘ liebt‚ züchtigt ihn
+„Wer seinen ‚Gott‘ liebt‚ züchtigt **ihn**
 
 *Erratum:*ihn  
-*lies:*ihn  
+*lies:***ihn**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 .“
@@ -1920,3 +1920,5 @@ Meiner tiefsten Wasser sank‚
 Dünkte mich’s‚ ich schliefe‚ schliefe
 
 Ewig heil und ewig krank.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

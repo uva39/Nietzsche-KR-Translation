@@ -16,9 +16,9 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [19[1]](javascript:;)
 ---------------------
 
-Trost 1) daß so Vieles nicht zu errathen ist
+**Trost** 1) daß so Vieles nicht zu errathen ist
 
-2) daß so Viel gut zu machen ist.
+2) daß so Viel **gut** zu machen ist.
 
   
 
@@ -35,12 +35,12 @@ alte Tafeln zerbrechen
 [19[2]](javascript:;)
 ---------------------
 
-§ Weißt du noch oh Zarathustra wie du zum ersten Mal unter M<enschen> warst im Walde, wie die
-Vögel über dir schrien, wie du die große Verlassenheit fühltest
+§ Weißt du noch oh Zarathustra wie du zum ersten Mal unter M&amp;lt;enschen&amp;gt; warst im Walde, wie die
+Vögel über dir schrien, wie du die **große Verlassenheit** fühltest
 
-2) die große Verlassenheit unter Gefährten, als du des Schenkens müde wurdest
+2) die große **Verlassenheit** unter Gefährten, als du des Schenkens müde wurdest
 
-3) die große Verlassenheit der stillsten Stunde
+3) die große **Verlassenheit** der stillsten Stunde
 
 Zum Unterschied von der Einsamkeit
 
@@ -53,7 +53,7 @@ Beinen humpelt.
 [19[4]](javascript:;)
 ---------------------
 
-Kiesel-Kauer heiße ich die Allzufriedenen Allzufreundlichen:
+**Kiesel-Kauer** heiße ich die Allzufriedenen Allzufreundlichen:
 
 Schweinemägen — so heiße ich diese Kieselkauer
 
@@ -73,12 +73,12 @@ Manche
 *lies:*Manche  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- macht schon irgend ein Glaube selig: wohlan,
+ macht schon **irgend** ein Glaube selig: wohlan,
 so greifen sie!
 
   
 
-Oh meine Brüder. Es sind solche unter euch, die verstehen es, ein Ding zu nichte zu lachen — auszulachen! Und wahrlich, man tödtet gut durch Lachen!
+Oh meine Brüder. Es sind solche unter euch, die verstehen es, ein Ding zu nichte zu lachen — **aus**zulachen! Und wahrlich, man tödtet gut durch Lachen!
 
 Solche heiße ich nach meinem Beispiel thun: ihnen kam ich als ihr Vorspiel.
 
@@ -118,18 +118,18 @@ Einsiedler.
 
 Du regst dich, dehnst dich? — Du röchelst. Es giebt nichts Neues mehr — röchelst du — laß mich schlafen!
 
-Das ist es: es giebt nichts Neues mehr, das bist du selber abgründiger Gedanke: jetzt
+**Das ist es:** es giebt nichts Neues mehr, das bist du selber abgründiger Gedanke: jetzt
 bist du wach!
 
 [19[10]](javascript:;)
 ----------------------
 
-Ihr müßt auch siegen wollen; also es ist nicht genug, Kämpfer zu sein und Lanzknecht des
+Ihr müßt auch siegen **wollen**; also es ist nicht genug, Kämpfer zu sein und Lanzknecht des
 Lebens:
 
-Also sage ich Friesen oder Sachsen ins Ohr: daß ihr siegt, ihr müßt auch siegen wollen!
+Also sage ich Friesen oder Sachsen ins Ohr: daß ihr siegt, ihr müßt auch siegen **wollen**!
 
-Das Leben warb euch einst zu seinen Lanzknechten — das ist wahr: nun aber rathe ich
+Das Leben warb euch einst zu **seinen** Lanzknechten — das ist wahr: nun aber rathe ich
 euch, das Leben euch zum Knecht zu werben.
 
 [19[11]](javascript:;)
@@ -158,7 +158,7 @@ und am holdesten, wenn es mir
 [19[14]](javascript:;)
 ----------------------
 
-Von neuen Königen.
+**Von neuen Königen.**
 
 „Ein Sturm kommt in Bälde herauf“ — so spricht sich schüttelnd meine Seele, die Wahrsagerin: in ihr nämlich
 gehen schon die kommenden Stürme um.
@@ -180,13 +180,13 @@ Dreh-Orgler!
 
   
 
-segnen d.h. dem Zufall eine schöne Seele geben.
+segnen d.h. dem Zufall eine schöne Seele **geben**.
 
   
 
 Wahl: vorher und nachher
 
-gestaltende Kraft gegen das Vergangene
+gestaltende Kraft gegen das **Vergangene**
 
 Ruhe des Wartenden
 
@@ -206,3 +206,5 @@ deiner Sehnsucht zuzuhorchen
 *Erratum:*deine Sehnsucht [—]  
 *lies:*deiner Sehnsucht zuzuhorchen  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

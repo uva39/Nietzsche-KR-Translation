@@ -16,9 +16,9 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [13[1]](javascript:;)
 ---------------------
 
-Zarathustra’s
+**Zarathustra’s**
   
-Heilige Gelächter.
+**Heilige Gelächter.**
 
   
 
@@ -133,7 +133,7 @@ wollte.
 
   
 
-Stille. Bescheidenheit in der Höhe.
+**Stille.**Bescheidenheit in der Höhe.
 
   
 
@@ -155,15 +155,15 @@ gemeinen Wohlfahrt.
 
 Ob ihr lehrt oder malt oder tönt oder das Spiel „Schwarz auf Weiß“ spielt:
 
-Kinder seid ihr mir Alle Einer Satzung und Gier: die spricht „du sollst dir einen Namen — machen“.
+Kinder seid ihr mir Alle Einer Satzung und Gier: die spricht „du sollst dir einen Namen — **machen**“.
 
-Aber Andere giebt es, Seltenere, die haben einen Namen: aber sie möchten ihn verlieren
+Aber Andere giebt es, Seltenere, die **haben** einen Namen: aber sie möchten ihn verlieren
 und aus allen Tafeln löschen.
 
 Ihren Kopf verstecken sie in Gebüsche und Höhlen oder sie taufen sich mit Lügennamen: daß ihre furchtbare
 Herrin sie verkenne und zornig an ihnen vorübereile.
 
-Welches ist die furchtbare Herrin, von der sie <nicht> gefunden sein wollen?
+Welches ist die furchtbare Herrin, von der sie &amp;lt;nicht&amp;gt; gefunden sein wollen?
 
   
 
@@ -177,7 +177,7 @@ glänzt und überwallt.
 
   
 
-„der Gelehrte“
+**„der Gelehrte“**
 
 Nun stehst du da, so mager in den Rippen, daß du dich über dich selber wunderst.
 
@@ -330,7 +330,7 @@ seinen Erwartungen.
 
   
 
-„der Große“
+**„der Große“**
 
 Als ich mich von mir selber abwandte, da erst sprang ich über meinen eignen Schatten: und wahrlich, meine
 Freunde, mitten hinein in meine Sonne!
@@ -448,11 +448,11 @@ davon.
 
   
 
-Wie lächerlich ist mir Jeder, der Jemanden zu sich bekehren will!
+Wie lächerlich ist mir Jeder, der Jemanden zu sich bekehren **will**!
 
   
 
-Ihr kommt zu mir, ob ich euch will oder nicht: aber wie ich euch geben muß, so müßt ihr von mir nehmen — mich nehmen!
+Ihr kommt zu mir, ob ich euch will oder nicht: aber wie ich euch geben **muß**, so **müßt** ihr von mir nehmen — **mich** nehmen!
 
   
 
@@ -512,8 +512,8 @@ knien soll.
 
 Oh Leben! Wie in ein Auge blicke ich in dich.
 
-Was ich von dir sehe, das ist, daß du mich ansiehst: was ich von dir errathe, das ist,
-daß du mich errathen hast!
+Was ich von dir sehe, das ist, daß **du** mich ansiehst: was ich von dir errathe, das ist,
+daß **du** mich errathen hast!
 
   
 
@@ -552,7 +552,7 @@ eisige Armut.
 
   
 
-Seid redlich: ich errieth, woran ihr am besten glaubt. Nun will ich, daß all euer Erkennen diesem besten Glauben diene!
+Seid redlich: ich errieth, woran ihr am besten glaubt. Nun will ich, daß all euer Erkennen **diesem** besten Glauben diene!
 
   
 
@@ -561,7 +561,7 @@ meiner Bosheit: wie ein Schrei und ein Jauchzen wollen wir über weite Meere hin
 
   
 
-Voraus wirft die Vollendung ihren Schatten: Schönheit heiße ich diesen Schatten — das
+Voraus wirft die Vollendung ihren Schatten: **Schönheit** heiße ich diesen Schatten — das
 Leichteste und Stillste aller Dinge kam zu mir als Schatten des Übermenschen.
 
   
@@ -612,7 +612,7 @@ Im Bauche des Wallfisches werde ich zum Verkünder des Lebens.
 
   
 
-Ich sah euch Alle nackt: und was scheidet mir noch euch Gute und euch Böse!
+Ich sah euch Alle **nackt**: und was scheidet mir noch euch Gute und euch Böse!
 
   
 
@@ -703,7 +703,7 @@ Ungeduldig ertrug ich den Winter: nun spielt gar des Aprils Bosheit mit meiner U
 
 Zum ersten Male brachte ich wieder den Gerechten, den Helden, den Dichter, den Erkennenden, den Wahrsager,
 den Führer zusammen: über den Völkern stellte ich mein Gewölbe hin: Säulen, auf denen auch ein Himmel ruht —
-stark genug, einen Himmel zu tragen. (So soll der Übermensch sprechen!)
+stark genug, einen Himmel zu **tragen**. (So soll der Übermensch sprechen!)
 
   
 
@@ -730,7 +730,7 @@ dem Wasserfall gleich, der noch im Sturze zögert —
   
 
 mit Menschlichem wollen wir die Natur durchdringen und sie von göttlicher Mummerei erlösen. Wir wollen aus
-ihr nehmen, was wir brauchen, um über den Menschen hinaus zu träumen. Etwas, das großartiger ist als Sturm und Gebirge und Meer soll noch entstehen — aber als
+ihr nehmen, was wir brauchen, um **über** den Menschen hinaus zu träumen. Etwas, das **großartiger** ist als Sturm und Gebirge und Meer soll noch entstehen — aber als
 Menschensohn!
 
   
@@ -920,7 +920,7 @@ Erst wenn sich eure klugen Finger in eine Faust verkrochen haben, will ich an eu
 Das Gewürm, mit dem ich kämpfe, das habe ich mir zum Drachen erst geschaffen: so jung und klein war es noch
 und so kämpfe ich den Kampf mit eurer Zukunft.
 
-Aber, wenn ihr kämpfen und siegen wolltet, so müßte ich euch erst die Drachen von heute
+Aber, wenn **ihr** kämpfen und siegen wolltet, so müßte ich euch erst die Drachen von heute
 in Regenwürmer verwandeln!
 
   
@@ -1052,7 +1052,7 @@ schweigsam.
 
   
 
-Schönheit heiße ich die Offenbarung des Guten für die Sinne: meines Guten! für meine —
+Schönheit heiße ich die Offenbarung des Guten für die Sinne: **meines** Guten! für meine —
 Sinne! Und was Geist war, wird jetzt mir nur gleichsam Geist!
 
   
@@ -1063,7 +1063,7 @@ Hoffenden).
   
 
 Zu weit hinein flog ich in die Zukunft, ein Grauen überfiel mich. Als ich endlich um mich sah, siehe, da war
-die Zeit mein einziger Zeitgenosse. So sehnte ich mich nach euch, den Gegenwärtigen.
+die Zeit mein einziger Zeitgenosse. So sehnte ich mich nach euch, den **Gegenwärtigen**.
 
   
 
@@ -1102,7 +1102,7 @@ Abgrund ist meine Gefahr, die heißt „Mitleiden“.
   
 
 „Wie will ich Athem holen und die Glieder strecken, wenn ich meine Last auf die letzte Höhe getragen haben
-werde!“ — so dachte oft der Held unterwegs. Aber als er oben war und die Last niederwarf, da that er nicht so — da bezwang er auch noch seine Müdigkeit: und hierbei lief ihm ein
+werde!“ — so dachte oft der Held unterwegs. Aber als er oben war und die Last niederwarf, da that er nicht **so** — da bezwang er auch noch seine **Müdigkeit**: und hierbei lief ihm ein
 göttlicher Schauer über den Leib.
 
   
@@ -1145,7 +1145,7 @@ Daß ihr mir nicht des Weibes Bildniß verwischt und verwascht, ihr Zeitgemäße
 
   
 
-Wie hoch ich wohne? Niemals noch — wenn ich stieg — zählte ich die Treppen bis zu mir: — doch soviel weiß ich von meiner Höhe: mein Dach und Fach beginnt da, wo alle Treppen aufhören.
+Wie hoch ich wohne? Niemals noch — wenn ich stieg — zählte ich die Treppen bis zu mir: — doch **soviel** weiß ich von meiner Höhe: mein Dach und Fach beginnt da, wo alle Treppen aufhören.
 
   
 
@@ -1226,7 +1226,7 @@ Mensch bin ich selber wieder geworden.
   
 
 Ich erlöste sie von ihren Erlösern. — Aber wie könnte es der Übermensch ertragen, die Menschen zu verstehen!
-So muß man die Menschen überreden, ihn zu schaffen und um seinetwillen zu Grunde zu gehen: daß er leben könne?
+So muß man die Menschen überreden, ihn zu schaffen und um seinetwillen zu Grunde zu gehen: daß er **leben** könne?
 
   
 
@@ -1249,7 +1249,7 @@ er auf die Seite der Größe trat!
 
   
 
-Eine Macht wohl will ich sein, aber kein grober Treiber und Dränger: aber wo ein Wind
+Eine **Macht** wohl will ich sein, aber kein grober Treiber und Dränger: aber wo ein Wind
 hin zieht, will ich in ihm mitziehn: und bin ich sonst unsichtbar, so will ich an den Masten einsamer
 Schiffender und Entdecker als Flamme sichtbar werden.
 
@@ -1303,7 +1303,7 @@ Du bist mir eine Tarantel: und schwarz sitzt auf deinem Rücken der Tarantel Dre
 mir diese Oberflächlichen mit deinem giftigen Bisse, daß ihre Seelen mir erst Tiefe und Schwermuth und
 schwarzen Schorf erhalten.
 
-An die Lehrer des Pessimismus.
+An die Lehrer des **Pessimismus**.
 
 [13[2]](javascript:;)
 ---------------------
@@ -1313,7 +1313,7 @@ An die Lehrer des Pessimismus.
 | 1 Act. | Zarathustra unter Thieren. Die Höhle.  Das Kind mit dem Spiegel. (Es ist Zeit!)  Die verschiedenen Anfragen, sich steigernd. Zuletzt verführen ihn die Kinder mit Gesang. |
 | 2 Act. | Die Stadt, Ausbruch der Pest. Aufzug Zarathustra’s,  Heilung des Weibes. Frühling. |
 | 3 Act. | Mittag und Ewigkeit. |
-| 4 Act. | Die Schiffer.  Scene am Vulkan, Zarathustra unter Kindern sterbend.  Todtenfeier. |
+| 4 Act. | Die Schiffer.  Scene am Vulkan, Zarathustra **unter Kindern sterbend**.  Todtenfeier. |
 
   
 
@@ -1330,7 +1330,7 @@ Darauf das Schiff und die Erscheinung am Vulkan. „Zarathustra geht zur Hölle?
 erlösen?“ — So verbreitet sich das Gerücht, er sei auch der Böse.
 
 Letzte Scene am Vulkan. Volle Seligkeit. Vergessen. Vision des Weibes (oder des Kindes mit dem Spiegel) Die
-Jünger schauen in das tiefe Grab. (Oder Zarathustra unter Kindern an
+Jünger schauen in das tiefe Grab. (Oder **Zarathustra unter**Kindern an
 Tempelresten.)
 
 Die größte aller Todtenfeiern macht den Schluß. Goldener Sarg in den Vulkan gestürzt.
@@ -1359,7 +1359,7 @@ Tagedieb; er haschte wohl zu viel nach Schmetterlingen?
 
   
 
-„Wohl brach ich die Ehe: aber zuerst brach mich die Ehe“ sagte das Weib.
+„Wohl brach ich die Ehe: aber zuerst brach **mich** die Ehe“ sagte das Weib.
 
   
 
@@ -1380,8 +1380,8 @@ etwa in die Ferne rief. Ach, was vergaß ich nicht!
 
 „Zarathustra ist todt? Ihr wißt nicht, was ihr sagt! Sehen wir ihn nicht schreiten! Wahrlich, er will noch
 die Unterwelt erlösen und ans Licht bringen.“ — „Er geht zur Hölle, der Teufel holt ihn!“ „Glaubt mir es auf
-mein Wort, der Teufel holt ihn nicht — wie vermöchte er das!, aber er holt sich noch den
-Teufel!“ — Die Schiffer. Schluß.
+mein Wort, der Teufel holt ihn nicht — wie vermöchte er das!, aber **er holt sich noch den
+Teufel**!“ — Die Schiffer. Schluß.
 
   
 
@@ -1522,7 +1522,7 @@ hole!
 Zum mindesten soll sein Höllenhund mir Rede stehen: eine Antwort will ich aus dem Abgrunde seines
 Rachens.
 
-Feuer und Asche soll er herauf mir stöhnen und brüllen: so mag ich’s gerne, daß mir
+Feuer und Asche soll er herauf mir stöhnen und brüllen: **so** mag ich’s gerne, daß mir
 Unthiere antworten.
 
   
@@ -1606,7 +1606,7 @@ gegen die „Moral“
 Und als ich statt des reinen „ich will“ aus plumpen Mäulern mir „du sollst“ entgegenrufen hörte, da begann
 meine Gefahr: ich haßte mein reines „ich will“ aus plumpen Mäulern —
 
-Ich vernichtete euer Gut und Böse, ich zerriß diese Stricke: so allein lernte ich die Liebe zu meinem Guten.
+Ich vernichtete euer Gut und Böse, ich zerriß diese Stricke: so allein lernte ich die Liebe zu **meinem** Guten.
 
   
 
@@ -1704,8 +1704,8 @@ Kiel sich bricht. Leichter ist mir mein Weg, wenn um mich der Widerstand schäum
 
   
 
-Aber wie ich von euch aufwachte und zu mir kam, so heiße ich auch euch wach zu werden
-und von euch aufzuwachen.
+Aber wie ich von euch aufwachte und **zu mir kam**, so heiße ich auch euch wach zu werden
+und von **euch** aufzuwachen.
 
 Und warum wolltet ihr nicht, auch — meine Brüder — „zu mir kommen?“
 
@@ -1755,7 +1755,7 @@ Blick durchbohrte die Gedanken des Königs.
 Ich erkenne Zarathustra, sagte der König mit Lächeln: wer verstünde wohl gleich Zarathustra auf eine stolze
 Weise sich zu erniedrigen? Aber das, was du aufhobst, war ein Todesurtheil.
 
-— und <er> las langsam daraus und mit halber Stimme, wie als ob er mit sich allein sei: des
+— und &amp;lt;er&amp;gt; las langsam daraus und mit halber Stimme, wie als ob er mit sich allein sei: des
 Todes schuldig — Zarathustra, des Volks Verführer.
 
 — trat er nachsinnend einige Schritte zurück, bis hinein in die Nische des Fensters; er sprach kein Wort und
@@ -1796,13 +1796,13 @@ Zarathustra, sagte er mit der Höflichkeit eines Königs, vergieb, daß ich dir 
 gabst mir einen Rath: und wahrhaftig, ich hörte gern schon auf ihn! — Aber er kommt zu spät! — Mit diesen
 Worten zerriß er das Pergament und warf es auf den Boden. Schweigend giengen sie voneinander.
 
-Was der König aber von seinem Fenster aus gesehen hatte, das war das Volk: das Volk
+Was der König aber von seinem Fenster aus gesehen hatte, das war das **Volk**: das Volk
 wartete auf Zarathustra.
 
 [13[5]](javascript:;)
 ---------------------
 
-Nicht um das Recht kämpft ihr Alle, ihr Gerechten, sondern darum, daß eure Bild<er> vom
+Nicht um das Recht kämpft ihr Alle, ihr Gerechten, sondern darum, daß eure Bild&amp;lt;er&amp;gt; vom
 Menschen siegen.
 
 Und daß an meinem Bild vom Übermenschen alle eure Bilder vom Menschen zerbrechen: siehe, das ist
@@ -1811,7 +1811,7 @@ Zarathustra’s Wille zum Rechte.
 [13[6]](javascript:;)
 ---------------------
 
-An die Lehrer der Gleichheit.
+**An die Lehrer der Gleichheit.**
 
 Ihr wollt nichts davon hören, daß Einer über euren Köpfen wandelt. Und so legt ihr Holz und Erde und Unrath
 zwischen ihn und eure Köpfe.
@@ -1824,7 +1824,7 @@ Häusern
 Aber trotzdem wandle ich mit meinen Gedanken über euren Köpfen: und selbst wenn ich auf meinen eignen Fehlern
 wandeln wollte, würde ich noch über euch sein und euren Köpfen.
 
-Denn die Menschen sind nicht gleich — so spricht die Gerechtigkeit. Und was ich will,
+Denn die Menschen sind **nicht** gleich — so spricht die Gerechtigkeit. Und was ich will,
 dürftet ihr nicht wollen.
 
 Mit ihren Tugenden wollen sie ihren Feinden die Augen auskratzen: sie erheben sich, weil sie Andere
@@ -1854,7 +1854,7 @@ eurer
 [13[7]](javascript:;)
 ---------------------
 
-Die Götzen-Bildner.
+**Die Götzen-Bildner.**
 
 Wenn euer Haß und eure Eifersucht einmal faul werden und ihre Glieder strecken: dann erst wird eure
 Gerechtigkeit munter und reibt sich die verschlafnen Augen.
@@ -1884,7 +1884,7 @@ Süden.
 [13[8]](javascript:;)
 ---------------------
 
-Die Büßer des Geistes.
+**Die Büßer des Geistes.**
 
 Bist du ein Stern? So mußt du auch wandern wollen und ohne Heimat sein, du Unstäter!
 
@@ -1928,7 +1928,7 @@ Lüstlinge giebt es des Geistes: es giebt auch Büßer des Geistes.
 [13[9]](javascript:;)
 ---------------------
 
-Der kürzeste Sommer.
+**Der kürzeste Sommer.**
 
 Zu heftig strömte bisher mein Quell: er leerte immer zugleich den Becher, dadurch daß er ihn füllen
 wollte.
@@ -1984,7 +1984,7 @@ Ohres.
 
 Wille zur Wahrheit? Oh meine weisesten Brüder, das ist ein Wille zur Denkbarkeit der Welt!
 
-Sichtbar werden soll auch die Welt im Kleinsten noch: dann meint ihr zu begreifen: das
+Sichtbar werden soll auch die Welt im Kleinsten noch: dann meint ihr zu **begreifen**: das
 ist die Thorheit des Auges.
 
 Reden wir davon: ob es gleich schlimm ist; davon schweigen ist fürchterlich!
@@ -2003,7 +2003,7 @@ war das Zeichen des absteigenden Willens, der zum Tode sich sehnt.
 [13[11]](javascript:;)
 ----------------------
 
-Der Weg durch viele Seelen.
+**Der Weg durch viele Seelen.**
 
 Ich komme daher wie ein starker Wind: und diesen Rath rathe ich meinen Feinden: hütet euch gegen den Wind —
 zu spein!
@@ -2044,7 +2044,7 @@ davon.
 [13[12]](javascript:;)
 ----------------------
 
-Von den Freisprechenden.
+**Von den Freisprechenden.**
 
 Daß ein Blitz in eure Speisen schlüge und eure Mäuler eine Zeitlang Feuer fressen müßten!
 
@@ -2082,7 +2082,7 @@ Man weiß von Jedermann Etwas zuviel.
 [13[13]](javascript:;)
 ----------------------
 
-Gegen die Mittler.
+**Gegen die Mittler.**
 
 Allem Reinlichen bin ich hold: wie könnte ich euch Versöhnern hold sein!
 
@@ -2112,7 +2112,7 @@ Ich liebe das Leben: ich verachte den Menschen. Aber um des Lebens willen will i
 [13[14]](javascript:;)
 ----------------------
 
-Gesellen und Gesellschaften.
+**Gesellen und Gesellschaften.**
 
 Euch, ihr Gegenwärtigen, nehme ich nicht zu ernst: dünn und durchsichtig seid ihr mir!
 
@@ -2141,13 +2141,13 @@ Bienenstöcke werden sie bauen gleich Thürmen von Babel
 [13[15]](javascript:;)
 ----------------------
 
-Neue Lebensweisen.
+**Neue Lebensweisen.**
 
 Was sind mir eure Vater- und Mutterländer? Ich liebe allein meiner Kinder Land, das unentdeckte, nach dem ich
 meine Segel übers Meer laufen und suchen heiße.
 
 An meinen Kindern will ich gut machen, daß ich meiner Väter Kind bin: und also die
-Vergangen<heit> erlösen.
+Vergangen&amp;lt;heit&amp;gt; erlösen.
 
 Wunsch sein von Grund aus und ein Vogel nach fernen Küsten: das ist mir Glück.
 
@@ -2157,7 +2157,7 @@ Wahrheit nützt!
 [13[16]](javascript:;)
 ----------------------
 
-Von den Schauspielern.
+**Von den Schauspielern.**
 
 Ist nicht das Meer der Pfau der Pfauen? Noch vor dem häßlichsten aller Büffel rollt es seinen Schweif hin,
 nimmer wird es seines Spitzenfächers von Silber und Seide müde.
@@ -2183,10 +2183,10 @@ gemeinen Wohlfahrt:
 
 Ob ihr lehrt oder malt oder tönt oder das Spiel „Schwarz auf Weiß“ spielt, das armselige:
 
-Eine Satzung und Gier spricht aus all eurem Thun: „ich will mir einen Namen machen! — so
+Eine Satzung und Gier spricht aus all eurem Thun: „ich will mir einen Namen **machen**! — so
 spricht sie.
 
-Der Glaube macht selig — so sagt ihr Alle — zumal der Glaube an uns!
+Der Glaube macht selig — so sagt ihr Alle — zumal der Glaube an **uns**!
 
 Ich horchte auf Wiederhall, aber ich hörte nur Lob.
 
@@ -2197,7 +2197,7 @@ Viel von sich reden ist auch ein Mittel sich zu verbergen.
 [13[17]](javascript:;)
 ----------------------
 
-Von den Taranteln.
+**Von den Taranteln.**
 
 Hier ist der Tarantel Höhle: willst du sie sehn? So summe das Gesumm einer Fliege.
 
@@ -2225,7 +2225,7 @@ und ein Erbrechen deinem Magen.
 [13[18]](javascript:;)
 ----------------------
 
-Von den Dichtern.
+**Von den Dichtern.**
 
 Das Unvergängliche — das ist nur ein Gleichniß; und die Dichter lügen zuviel.
 
@@ -2292,7 +2292,7 @@ Kellern.
 [13[19]](javascript:;)
 ----------------------
 
-Unter Krüppeln.
+**Unter Krüppeln.**
 
 Und leben will ich noch unter Krüppeln lieber als unter diesen vermeintlichen Ganzen.
 
@@ -2345,7 +2345,7 @@ Jagd auf die häßlichen Wahrheiten.
 
 Größte Todtenfeier — hin zur Unsterblichkeit
 
-Die Entsagung vom Metaphysischen als Forderung der Tugend — als Aufopferung.
+Die Entsagung vom Metaphysischen als Forderung der Tugend — als **Aufopferung**.
 
 Die glückseligen Inseln. „Südlich“.
 
@@ -2380,7 +2380,7 @@ der Scheiterhaufen (Groß-Stadt)
 [13[21]](javascript:;)
 ----------------------
 
-Die typischen Leiden des Reformators und auch seine Tröstungen. — Die sieben
+Die typischen **Leiden** des Reformators und auch seine Tröstungen. — Die sieben
 Einsamkeiten.
 
 Er lebt wie über den Zeiten: seine Höhe giebt ihm Verkehr mit den Einsamen und Verkannten aller Zeiten.
@@ -2396,11 +2396,11 @@ Seine Liebe nimmt zu und die Unmöglichkeit, mit ihr wohlzuthun.
 
 |  |  |
 | --- | --- |
-| 1. | Vorrede und erste Reden Zarathustras. |
+| 1. | **Vorrede und erste Reden Zarathustras.** |
 | Noch drei Theile: | |
-| 2. | Die Gelächter der Höhe. (Glück des Säemanns.) |
-| 3. | Zarathustra sucht seine Verlorenen. (oder die 7 Einsamkeiten) |
-| 4. | Mittag und Ewigkeit. |
+| 2. | **Die Gelächter der Höhe.** (Glück des Säemanns.) |
+| 3. | **Zarathustra sucht seine Verlorenen.** (oder die 7 Einsamkeiten) |
+| 4. | **Mittag und Ewigkeit.** |
 
 [13[23]](javascript:;)
 ----------------------
@@ -2423,9 +2423,9 @@ Zeichen seines Siegs.
 
 |  |  |
 | --- | --- |
-| Lob der Vernunft und ihrer Kühle.  Als Schaffender es loben, daß unsre Weisheit als Thorheit, unser Reichthum als Armut entdeckt ist.  Durst! Wenn ich satt wäre, wozu sollte ich schaffen! Rechtfertigung des Leidens.  Hochsommer im Gebirge.  süßer Geruch, Schwermuth, auf einen plötzlichen Tod, Abend im Walde, wo Elfen laufen.  der große Mensch „fiel“  Hymnus auf das Organische: Zarathustra fühlt sich Allem Lebendigen verwandt in seinem Willen, tiefstes Verstehen der Natur und des Moralischen. | |
-| Zarathustra sagt „ich bin | die Lust“ |
-| des Windes Mistral  der Elektrizität  der Höhe  des Jahreszeitenwechsels (Ring)  des reinen Himmels  der Morgenröthe  des Stromes  des organischen Lebens  Durst der Sonne nach <dem> Meere  Pflugschaar |
+| Lob der Vernunft und ihrer Kühle.  Als Schaffender es **loben**, daß unsre Weisheit als Thorheit, unser Reichthum als Armut entdeckt ist.  Durst! Wenn ich satt wäre, wozu sollte ich schaffen! **Rechtfertigung des Leidens.**  Hochsommer im Gebirge.  süßer Geruch, Schwermuth, auf einen plötzlichen Tod, Abend im Walde, wo Elfen laufen.  der große Mensch „fiel“  Hymnus auf das Organische: Zarathustra fühlt sich Allem Lebendigen verwandt in seinem Willen, tiefstes Verstehen der Natur und des Moralischen. | |
+| Zarathustra sagt „ich bin | die **Lust**“ |
+| des Windes Mistral  der Elektrizität  der Höhe  des Jahreszeitenwechsels (Ring)  des reinen Himmels  der Morgenröthe  des Stromes  des organischen Lebens  Durst der Sonne nach &amp;lt;dem&amp;gt; Meere  Pflugschaar |
 | (als Überredung)  Lebensweise: so sich zu nähren, daß wir uns nach unserem Bilde schaffen.  Die Wollüstigen Hassenden mögen Pflanzen essen. | |
 
 [13[25]](javascript:;)
@@ -2439,7 +2439,7 @@ sittliche Weltordnung („bezahlt“)
 
 Idealisten „Götzen-Bildner“
 
-Umstürzer — Verneiner. Gespräch mit dem Feuerhund.
+Umstürzer — Verneiner. Gespräch mit dem **Feuerhund**.
 
 Dichter
 
@@ -2463,7 +2463,7 @@ Erkennende — „Strom“
 
 Gesellschaft
 
-gegen „langes Leben auf Erden“ — „Hochsommer“ — „reiner Himmel“
+gegen **„langes Leben auf Erden“** — „Hochsommer“ — „reiner Himmel“
 
 Priester und Kirchen
 
@@ -2477,13 +2477,13 @@ Eitelkeit der Reinlichen
 
 Neugierige
 
-Romantiker (Mond). „Wehmüthige“ durch rasende Tänze zu heilen, Scham
+Romantiker (Mond). „Wehmüthige“ durch rasende Tänze zu heilen, **Scham**
 abwerfen und hinterher die Brücken zur Verstellung abgebrochen finden.
 
 [13[26]](javascript:;)
 ----------------------
 
-Es gab noch keine Übermenschen!
+Es gab noch **keine Übermenschen**!
 
 [13[27]](javascript:;)
 ----------------------
@@ -2660,11 +2660,11 @@ das Tanzlied
 
 das Grablied.
 
-Von <der> Selbst-Überwindung.
+Von &amp;lt;der&amp;gt; Selbst-Überwindung.
 
 Erhabene.
 
-<Vom> Lande der Bildung.
+&amp;lt;Vom&amp;gt; Lande der Bildung.
 
 unbefleckte Erkenntniß.
 
@@ -2678,9 +2678,9 @@ Wahrsager
 
 Erlösung.
 
-M<enschen>-Klugheit.
+M&amp;lt;enschen&amp;gt;-Klugheit.
 
-St<illste> Stunde.
+St&amp;lt;illste&amp;gt; Stunde.
 
 [13[34]](javascript:;)
 ----------------------
@@ -2738,3 +2738,5 @@ Das Tanzlied.
 Die Todtenfeier.
 
 Die stillste Stunde.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

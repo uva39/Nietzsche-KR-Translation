@@ -22,12 +22,12 @@ Stab in den Sand: „Eheu, Triviam deam fortassis amplexus sim?“
 [41[2]](javascript:;)
 ---------------------
 
-Das anziehendste Buch der griechischen Litteratur: Mem<orabilia> Socr<atis>.
+Das anziehendste Buch der griechischen Litteratur: Mem&amp;lt;orabilia&amp;gt; Socr&amp;lt;atis&amp;gt;.
 
 [41[3]](javascript:;)
 ---------------------
 
-Man erstrebt Unabhängigkeit (Freiheit) um der Macht willen, nicht umgekehrt.
+Man erstrebt Unabhängigkeit (Freiheit) um der **Macht** willen, nicht umgekehrt.
 
 [41[4]](javascript:;)
 ---------------------
@@ -37,12 +37,12 @@ Der überwache allzuglänzende Blick und die zitternde Hand — Tristan.
 [41[5]](javascript:;)
 ---------------------
 
-Durch die Zwecke wird das Leben ganz unsinnig und unwahr. Man arbeitet, um sich zu nähren? Man nährt sich, um zu leben? Man lebt, um
-Kinder (oder Werke) zu hinterlassen. Diese ebenso — usw. und zuletzt salto mortale. Vielmehr ist im Arbeiten Essen usw. immer auch das Ende da: mit dem Zweck knüpfen
-wir 2 Enden aneinander. Ich esse um zu essen und um zu leben d.h. um wieder zu essen.
+Durch die Zwecke wird das Leben ganz unsinnig und **unwahr**. Man arbeitet, **um** sich zu nähren? Man nährt sich, **um** zu leben? Man lebt, **um**
+Kinder (oder Werke) zu hinterlassen. Diese ebenso — usw. und zuletzt salto mortale. Vielmehr ist **im** Arbeiten Essen usw. immer auch das **Ende** da: mit dem Zweck knüpfen
+wir 2 Enden aneinander. Ich esse um zu essen **und** um zu leben d.h. um wieder zu essen.
 
-Die Handlung will wiederholt werden, weil sie angenehm ist. Alles Angenehme ist das
-Ende. Sind die Pflanzen da, um von den Thieren verspeist zu werden? Es giebt keinen Zweck. Wir täuschen uns. — Ich tauche die Feder ein um — — —
+Die Handlung will **wiederholt** werden, weil sie angenehm ist. Alles Angenehme ist das
+Ende. Sind die Pflanzen da, **um** von den Thieren verspeist zu werden? Es giebt **keinen Zweck**. Wir **täuschen** uns. — Ich tauche die Feder ein **um** — — —
 
 [41[6]](javascript:;)
 ---------------------
@@ -64,18 +64,18 @@ scheint.
 [41[9]](javascript:;)
 ---------------------
 
-Socialisten hülfen zum Siege der Demokratie.
+Socialisten hülfen zum Siege der **Demokratie**.
 
 [41[10]](javascript:;)
 ----------------------
 
-Νεμεσσᾶν ungeziemende Gleichsetzung.
+Νεμεσσᾶν ungeziemende **Gleichsetzung**.
 
 [41[11]](javascript:;)
 ----------------------
 
 Wenn der Gleiche dem Gleichen Hülfe erweist, ist es kein Mitleid sondern Pflicht — die Gleichsetzung
-hergestellt. Wenn der Starke dem Schwachen hilft, ohne Vortheil — erbarmt er sich —?
+hergestellt. Wenn der Starke dem Schwachen hilft, **ohne** Vortheil — erbarmt er sich —?
 
 [41[12]](javascript:;)
 ----------------------
@@ -87,7 +87,7 @@ Stufen: den Ruf mehren
 | 1) | mit sofortigem Nutzen im Auge |
 | 2) | ohne dies, aber als Capital |
 | 3) | gegen den sofortigen Nutzen in Hinsicht auf kommenden |
-| 4) | gegen und ohne „Eitelkeit“. |
+| 4) | **gegen** und **ohne** „Eitelkeit“. |
 
 [41[13]](javascript:;)
 ----------------------
@@ -103,14 +103,14 @@ Alle kleinen Dinge sind einst groß gewesen.
 ----------------------
 
 Das Gehirn im Wachsen. Nur die jüngsten Theile haben ein begleitendes Bewußtsein. Die älteren arbeiten ohne
-diese Laterne der Controle.
+diese **Laterne** der **Controle**.
 
 Das Ziel: der Mensch eine große unbewußte Zweckthätigkeit, wie die Natur der Pflanze.
 
 [41[16]](javascript:;)
 ----------------------
 
-Mädchen die wie Turteltauben lachen.
+**Mädchen** die wie Turteltauben lachen.
 
 [41[17]](javascript:;)
 ----------------------
@@ -149,7 +149,7 @@ Sophismus, Styl, Literatur usw.“
 [41[23]](javascript:;)
 ----------------------
 
-Carey 512. Concurrenz — ihre Nützlichkeit, obwohl grundböse. — Geht gegen das
+Carey 512. Concurrenz — ihre Nützlichkeit, obwohl grundböse. — Geht **gegen** das
 Gleichgewicht — aber die andere Gruppe hat den Vortheil des Kampfes. Der Dritte, der den Esel fortführt. Sind
 aber Engländer, so ist der Dritte selber der Esel, der fortgeführt wird.
 
@@ -169,7 +169,7 @@ Kindheit — lernen — erste Magie
 
 „Alpenglühen der Empfindung“ wenn die Sonne hinunter ist
 
-Sonntag-Nachmittag-Einsam<keit> ebenso zu erklären.
+Sonntag-Nachmittag-Einsam&amp;lt;keit&amp;gt; ebenso zu erklären.
 
 Das Kind hat die großen Entzückungen an den einfachen Dingen voraus.
 
@@ -186,8 +186,8 @@ Soldat Kugel Dämmerung
 [41[28]](javascript:;)
 ----------------------
 
-Eine gew<isse> Albernheit in den Begleitungsfiguren der rhythmischen Cadenzen hebt diese
-Wirkung nicht auf, mitunter scheint sie dieselbe sogar zu verst<ärken>.
+Eine gew&amp;lt;isse&amp;gt; Albernheit in den Begleitungsfiguren der rhythmischen Cadenzen hebt diese
+Wirkung nicht auf, mitunter scheint sie dieselbe sogar zu verst&amp;lt;ärken&amp;gt;.
 
 [41[29]](javascript:;)
 ----------------------
@@ -198,19 +198,19 @@ Bei der Nähe des Gewitters, wenn das graue Gebirge furchtbar und tückisch blic
 ----------------------
 
 Durch Jean Paul ist Carlyle zu Grunde gerichtet und zum schlechtesten Schriftsteller Englands geworden: und
-durch Carlyle wieder hat sich Emerson, der reichste Amerikaner, zu jener geschmacklosen
+durch Carlyle wieder hat sich Emerson, der **reichste** Amerikaner, zu jener geschmacklosen
 Verschwendung verführen lassen, welche Gedanken und Bilder händevoll zum Fenster hinauswirft.
 
 [41[31]](javascript:;)
 ----------------------
 
-Schluss: Werden wir, was wir noch nicht sind: gute Nachbarn der nächsten Dinge.
+**Schluss:**Werden**wir, was wir noch nicht sind**:gute Nachbarn der nächsten Dinge.
 
 [41[32]](javascript:;)
 ----------------------
 
 Die Trostmittel des Christenthums sind bald eine Antiquität; ein Oel, das sich verrochen hat. Dann treten die
-Trostmittel der antiken Philosophie wieder hervor, in neuem Glanze — und unsere neue
+Trostmittel der antiken Philosophie wieder hervor, in neuem Glanze — und **unsere neue**
 Trostmittelgattung kommt hinzu, die historische.
 
 [41[33]](javascript:;)
@@ -219,7 +219,7 @@ Trostmittelgattung kommt hinzu, die historische.
 Die meisten Menschen bäumen sich wider den Tröstenden eine Zeitlang auf und übertreiben die Tiefe und
 Unbändigkeit ihres Schmerzes, in Worten und Wehklagen. Sie finden es unerträglich, daß der Tröstende
 anzunehmen scheint, er werde leichter mit diesen Unfällen Verlusten usw. fertig werden: sie deuten ihm an,
-dies könne nur darin seinen Grund haben, daß er nicht tief genug empfindet und in der Fähigkeit tief zu empfinden unter ihnen stehe. In Wahrheit empfinden sie kein Haarbreit
+dies könne nur darin seinen Grund haben, daß er **nicht tief genug** empfindet und in der **Fähigkeit** tief zu empfinden unter ihnen stehe. In Wahrheit empfinden sie kein Haarbreit
 tiefer als jener empfinden würde, oft weniger. Sie setzen also seiner vermeinten Überlegenheit den Schmerz zu
 besiegen, eine andere entgegen.
 
@@ -232,7 +232,7 @@ Ausdruck zu bringen vermöchte, also ein Gefühl der der Zeit eigenthümlichen K
 [41[35]](javascript:;)
 ----------------------
 
-In Ansichten über Kunst wenigstens wollen wir uns die Leidenschaftlichkeit und Roheit
+In Ansichten über **Kunst wenigstens** wollen wir uns die Leidenschaftlichkeit und Roheit
 verbitten: auch das blinde Parteiwesen.
 
 [41[36]](javascript:;)
@@ -243,9 +243,9 @@ Der Häßliche und Unansehnliche ist der Mode gram, weil sie nicht an ihn denkt.
 [41[37]](javascript:;)
 ----------------------
 
-Nicht das ist das Kunststück, ein Fest zu veranstalten, sondern solche zu finden welche sich an ihm freuen. Meistens ist ein Fest ein Schauspiel ohne Zuschauer, ein Tisch voller Speisen ohne
+Nicht das ist das Kunststück, ein Fest zu veranstalten, sondern solche zu finden welche sich an ihm **freuen**. Meistens ist ein Fest ein Schauspiel ohne Zuschauer, ein Tisch voller Speisen ohne
 Gäste. Wer mitspielt, Fürsten und Soldaten, haben ihre Pflichten und Ermüdungen dabei, und die Neugierde des
-Gassenjungen ist die einzige lebendige Zuthat.
+Gassenjungen ist die einzige lebendige **Zuthat**.
 
 [41[38]](javascript:;)
 ----------------------
@@ -266,19 +266,19 @@ Steigerung derselben Berglinien, die Hochgebirgskronen, bläulich grau und schne
 [41[41]](javascript:;)
 ----------------------
 
-Das Große an den Alten ist ihr universaler Trieb, ihr Auge und <ihre>
+Das Große an den **Alten** ist ihr universaler Trieb, ihr Auge und &amp;lt;ihre&amp;gt;
 Schätzungen für alles, ihr geringer nationaler Accent (Griechen und Römer).
 
 [41[42]](javascript:;)
 ----------------------
 
-Zur Beendigung des Kampfes ums Dasein entsteht die Gemeinschaft.
-Das Gleichgewicht, ihr Gesichtspunkt.
+Zur **Beendigung** des **Kampfes ums Dasein** entsteht die Gemeinschaft.
+Das **Gleichgewicht**, ihr Gesichtspunkt.
 
 [41[43]](javascript:;)
 ----------------------
 
-Die Gemeinheit entsteht erst in der Gemeinschaft. Thukydides: φϑονερόν gegen das Glänzende, zu schwärzen — also bei Gleichen.
+Die **Gemeinheit** entsteht erst in der Gemeinschaft. Thukydides: φϑονερόν gegen das Glänzende, zu schwärzen — also bei **Gleichen**.
 
 [41[44]](javascript:;)
 ----------------------
@@ -291,7 +291,7 @@ haben.
 ----------------------
 
 Die Menschen verkehren zu viel und büßen dabei sich ein. Wer wenig hat, dem wird durch Gesellschaft auch noch
-das W<enige> gen<ommen> w<as er> h<at>.
+das W&amp;lt;enige&amp;gt; gen&amp;lt;ommen&amp;gt; w&amp;lt;as er&amp;gt; h&amp;lt;at&amp;gt;.
 
 [41[46]](javascript:;)
 ----------------------
@@ -302,7 +302,7 @@ ekelhaften Halbbeschäftigungen des Dampfblasens und schluckweise-Trinkens) — 
 [41[47]](javascript:;)
 ----------------------
 
-Vielleicht sind die Götter noch Kinder und behandeln die Menschheit als Spielwerk und
+Vielleicht sind die Götter noch **Kinder** und behandeln die Menschheit als Spielwerk und
 sind grausam ohne Wissen und zerstören in Unschuld, Werden sie älter —
 
 Vielleicht kümmern sich die Götter nicht um uns, wie wir nicht um den Bau der Ameisen, obwohl —
@@ -310,10 +310,10 @@ Vielleicht kümmern sich die Götter nicht um uns, wie wir nicht um den Bau der 
 [41[48]](javascript:;)
 ----------------------
 
-Gründe an Stelle der Gewohnheiten, Absichten an Stelle der Triebe,
+**Gründe** an Stelle der Gewohnheiten, **Absichten** an Stelle der Triebe,
 Erkenntnisse an Stelle des Glaubens, geistig-seelische Freudigkeit an Stelle häufiger Einzel-Genüsse,
 Gleichgewicht aller Bewegungen und die Lust an dieser Harmonie an Stelle der Aufregungen und Berauschungen —
-und später alles wieder unbewußt werdend!!
+und **später** alles wieder **unbewußt werdend**!!
 
 [41[49]](javascript:;)
 ----------------------
@@ -335,19 +335,19 @@ Gegen Wagner bekommt man leicht zu sehr Recht.
 [41[52]](javascript:;)
 ----------------------
 
-Wenn die Schätzung z.B. des Uneigennützigen erst festgestellt wurde (ob auch irrthümlich
+Wenn die Schätzung z.B. des Uneigennützigen erst festgestellt wurde (**ob** auch irrthümlich
 —), so wächst sie.
 
 [41[53]](javascript:;)
 ----------------------
 
-Die verschiedenen Arten der Phantasie haben eine verschiedene Kraft zu vergrößern. Phantasie die Furcht sehr groß machend — daher
+Die verschiedenen Arten der **Phantasie** haben eine verschiedene Kraft zu **vergrößern**. Phantasie die **Furcht** sehr **groß** machend — daher
 spekulirt auf sie zu allererst der Mächtig-sein-wollende.
 
 [41[54]](javascript:;)
 ----------------------
 
-Etwas das wir wissen, scheint uns sehr dadurch im Werthe gestiegen. Eine Zeitlang —
+Etwas das wir **wissen**, scheint uns sehr dadurch im Werthe gestiegen. Eine Zeitlang —
 
 [41[55]](javascript:;)
 ----------------------
@@ -360,25 +360,25 @@ und die Pest oder Kriege —
 
 Die Mittler-Moral.
 
-Übertragung der M<ittler->M<oral> und ebenso der Gleichgewichts-Moral auf die
+Übertragung der M&amp;lt;ittler-&amp;gt;M&amp;lt;oral&amp;gt; und ebenso der Gleichgewichts-Moral auf die
 Seele.
 
 [41[57]](javascript:;)
 ----------------------
 
-Gnade ursprünglich ein Zeichen der Verachtung.
+Gnade ursprünglich ein Zeichen der **Verachtung**.
 
 [41[58]](javascript:;)
 ----------------------
 
 Die Uneigennützigkeit kommt in Ruf durch den Mittler, wenn der Haß zwischen zwei wüthet. In Wahrheit ist der
-M<ittler> nicht uneigennützig.
+M&amp;lt;ittler&amp;gt; **nicht** uneigennützig.
 
 [41[59]](javascript:;)
 ----------------------
 
-Ein Ding, dem ein Begriff genau entspricht, wäre ohne Herkunft.
-Plato’s Irrthum von den ewigen Ideen.
+Ein Ding, dem ein **Begriff** genau entspricht, wäre **ohne** Herkunft.
+Plato’s Irrthum von den **ewigen Ideen**.
 
 [41[60]](javascript:;)
 ----------------------
@@ -406,13 +406,13 @@ Einzelnen. Nervenschwäche.
 [41[64]](javascript:;)
 ----------------------
 
-Ein langer Geschmack im Munde.
+Ein **langer** Geschmack im Munde.
 
 [41[65]](javascript:;)
 ----------------------
 
-Unsere Aufgabe, alles Angeerbte Herkömmliche Unbewußt-Gewordene zu inventarisiren und zu
-revidiren, auf Ursprung und Zweckmäßigkeit zu prüfen, vieles zu verwerfen, vieles leben
+Unsere Aufgabe, alles Angeerbte Herkömmliche Unbewußt-Gewordene zu **inventarisiren** und zu
+**revidiren**, auf Ursprung und Zweckmäßigkeit zu prüfen, vieles zu verwerfen, vieles leben
 zu lassen.
 
 [41[66]](javascript:;)
@@ -423,9 +423,9 @@ Der Seidenwurm, dem man das Spinnen nicht verbieten soll.
 [41[67]](javascript:;)
 ----------------------
 
-Das Ideale bei Schiller Humboldt — eine falsche Antike wie die Canova’s, etwas zu
+Das **Ideale** bei Schiller Humboldt — eine falsche Antike wie die Canova’s, etwas zu
 glasirt, weich, durchaus der harten und häßlichen Wahrheit nicht in’s Angesicht zu sehen wagend, tugendstolz,
-vornehmen Tones, affektvoller Gebärde, aber kein Leben, kein ächtes
+vornehmen **Tones**, affektvoller Gebärde, aber kein **Leben**, kein ächtes
 Blut.
 
 [41[68]](javascript:;)
@@ -437,8 +437,8 @@ Warum?
 [41[69]](javascript:;)
 ----------------------
 
-<Wanderer> — Dies ist mir zu flach. Schatten — Soll
-denn ein Schatten selbst immer tief sein! Denke doch, wie dünn er ist. Wanderer — Ich
+**&amp;lt;Wanderer&amp;gt;** — Dies ist mir zu flach. **Schatten** — Soll
+denn ein Schatten selbst immer tief sein! Denke doch, wie dünn er ist. **Wanderer** — Ich
 wußte bisher nicht, daß die Dicken mehr Vorrecht auf Tiefe haben als die Dünnen.
 
 [41[70]](javascript:;)
@@ -449,7 +449,7 @@ Anekdote vom Cardinal und dem Nachtstuhl.
 [41[71]](javascript:;)
 ----------------------
 
-<Du kannst nicht> geläufig im Herzen lesen, aber liebst es, zu
+&amp;lt;Du kannst nicht&amp;gt; **geläufig** im Herzen lesen, aber liebst es, zu
 buchstabiren, und mitunter kommt das rechte Wort heraus.
 
 [41[72]](javascript:;)
@@ -464,7 +464,7 @@ Ein Geschwätz unterwegs.
 
 Rivarol. Fontenelle.
 
-Beyle’s Briefe.
+**Beyle’s** Briefe.
 
 Mérimée ganz.
 
@@ -477,3 +477,5 @@ Wenn 1mal fast = 0mal, 10mal = 100mal.
 ----------------------
 
 Jeden Tag eine Stunde: Gesundheitslehre.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

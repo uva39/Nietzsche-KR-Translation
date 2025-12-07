@@ -13,12 +13,12 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 
 [8 = Mp XVII 3c. Sommer 1887]
 
-<Erstes Buch: „was ist
-Wahrheit?“>
+&amp;lt;Erstes Buch:**„was ist
+Wahrheit?“**&amp;gt;
 
   
 
-<Drittes Capitel. Der Wille zur Wahrheit.>
+&amp;lt;**Drittes Capitel.** Der Wille zur Wahrheit.&amp;gt;
 
   
 
@@ -27,118 +27,118 @@ Wahrheit?“>
 [8[1]](javascript:;)
 --------------------
 
-Das Problem der Wahrheit.
+**Das Problem der Wahrheit.**
 
-Das Bedürfniß nach Glauben ist der größte
+Das Bedürfniß nach Glauben ist der **größte**
 Hemmschuh
-der Wahrhaftigkeit.
+**der Wahrhaftigkeit**.
 
   
 
 |  |  |
 | --- | --- |
-|  | Der Wille zur Wahrheit |
-| Die Falschheit. | Die unbewußte Falschheit. |
+|  | **Der Wille zur Wahrheit** |
+| Die Falschheit. | **Die unbewußte Falschheit.** |
 
-Jeder souveräne Instinkt hat die anderen zu seinen Werkzeugen, Hofstaat, Schmeichlern:
-er läßt sich nie bei seinem häßlichen Namen nennen: und er duldet keine
-anderen Lobsprüche, bei denen er nicht indirekt mit gelobt wird.
+Jeder **souveräne Instinkt** hat die anderen zu seinen Werkzeugen, Hofstaat, Schmeichlern:
+er läßt sich nie bei seinem **häßlichen** Namen nennen: und er duldet **keine
+anderen** Lobsprüche, bei denen er nicht **indirekt mit** gelobt wird.
 
 Um jeden souveränen Instinkt herum krystallisirt sich alles Loben und Tadeln überhaupt zu einer festen
 Ordnung und Etiquette.
 
-Dies die Eine Ursache der Falschheit.
+Dies die **Eine** Ursache der Falschheit.
 
-Jeder nach Herrschaft strebende, aber unter einem Joch befindliche Instinkt, braucht für
-sich, zur Unterstützung seines Selbstgefühls, zur Stärkung, alle schönen Namen und anerkannten Werthe: so daß er sich hervor. wagt zumeist unter dem Namen des von
+**Jeder nach Herrschaft strebende**, aber unter einem Joch befindliche Instinkt, braucht für
+sich, zur Unterstützung seines Selbstgefühls, zur Stärkung, alle schönen Namen und **anerkannten** Werthe: so daß er sich hervor. wagt zumeist unter dem Namen des von
 ihm bekämpften „Herren“, von dem er frei werden will. (Z.B. unter der Herrschaft christlicher Werthe die
 fleischliche Begierde oder die Machtbegierde)
 
-Dies die andere Ursache der Falschheit.
+Dies die **andere** Ursache der Falschheit.
 
-In beiden Fällen herrscht vollkommene Naivetät: die Falschheit tritt nicht ins Bewußtsein. Es ist ein Zeichen von gebrochenem Instinkt, wenn der
-Mensch das Treibende und dessen „Ausdruck“ („die Maske“) getrennt sieht — ein Zeichen von
-Selbstwiderspruch, und viel weniger siegreich. Die absolute Unschuld in der Gebärde, im
+In beiden Fällen herrscht **vollkommene Naivetät**: die Falschheit tritt **nicht** ins Bewußtsein. Es ist ein Zeichen von **gebrochenem** Instinkt, wenn der
+Mensch das Treibende und dessen „Ausdruck“ („die Maske“) **getrennt** sieht — ein Zeichen von
+Selbstwiderspruch, und viel weniger siegreich. Die absolute **Unschuld** in der Gebärde, im
 Wort, im Affekt, das „gute Gewissen“ in der Falschheit, die Sicherheit, mit der man nach den größten und
 prachtvollsten Worten und Stellungen faßt — Alles nothwendig zum Siege.
 
-Im anderen Falle: bei extremer Hellsichtigkeit bedarf es Genie des Schauspielers und ungeheure Zucht in der Selbstbeherrschung,
-um zu siegen. Deshalb Priester die geschicktesten bewußten Heuchler; sodann Fürsten,
+Im anderen Falle: bei **extremer Hellsichtigkeit** bedarf es **Genie** des Schauspielers und ungeheure Zucht in der Selbstbeherrschung,
+um zu siegen. Deshalb Priester die geschicktesten **bewußten** Heuchler; sodann Fürsten,
 denen ihr Rang und ihre Abkunft eine Art von Schauspielerei großzüchtet. Drittens Gesellschafts-Menschen,
 Diplomaten. Viertens Frauen.
 
-Grundgedanke: Die Falschheit erscheint so tief, so allseitig, der Wille ist dergestalt gegen das direkte Sichselbst-Erkennen und Bei-Namen-nennen gerichtet, daß die Vermuthung sehr große Wahrscheinlichkeit hat: Wahrheit, Wille zur Wahrheit sei eigentlich etwas ganz Andres und auch nur eine
+**Grundgedanke:** Die Falschheit erscheint so tief, so allseitig, der **Wille** ist dergestalt gegen das direkte Sichselbst-Erkennen und Bei-Namen-nennen gerichtet, daß die **Vermuthung sehr große****Wahrscheinlichkeit** hat: **Wahrheit**, **Wille zur Wahrheit** sei eigentlich etwas ganz Andres und auch nur eine
 Verkleidung.
 
   
 
-Die Sinnlichkeit in ihren Verkleidungen
+Die **Sinnlichkeit** in ihren Verkleidungen
 
 |  |  |
 | --- | --- |
 | als | Idealismus („Plato“), der Jugend eigen, dieselbe Art von Hohlspiegel-Bild schaffend, wie die Geliebte im Speziellen erscheint, eine Inkrustation Vergrößerung Verklärung, Unendlichkeit um jedes Ding legend |
 | in | der Religion der Liebe: „ein schöner junger Mann, ein schönes Weib“, irgendwie göttlich, ein Bräutigam, eine Braut der Seele |
-| in | der Kunst, als „schmückende“ Gewalt: wie der Mann das Weib sieht, indem er ihr gleichsam alles zum Präsent macht, was es von Vorzügen giebt, so legt die Sinnlichkeit des Künstlers in Ein Objekt, was er sonst noch ehrt und hochhält — dergestalt vollendet er ein Objekt („idealisirt“ es) |
+| in | der **Kunst**, als „schmückende“ Gewalt: wie der Mann das Weib sieht, indem er ihr gleichsam alles zum Präsent macht, was es von Vorzügen giebt, so legt die Sinnlichkeit des Künstlers in Ein Objekt, was er sonst noch ehrt und hochhält — dergestalt **vollendet** er ein Objekt („idealisirt“ es) |
 
-Das Weib, unter dem Bewußtsein, was der Mann in Bezug auf das Weib empfindet, kommt dessen
-Bemühen nach Idealisirung entgegen, indem es sich schmückt, schön geht, tanzt, zarte Gedanken äußert:
-insgleichen übt sie Scham, Zurückhaltung, Distanz — mit dem Instinkt dafür, daß damit das
-idealisirende Vermögen des Mannes wächst. (— Bei der ungeheuren Feinheit des weiblichen
-Instinkts bleibt die Scham keineswegs bewußte Heuchelei: sie erräth, daß gerade die naive
-wirkliche Schamhaftigkeit den Mann am meisten verführt und zur Überschätzung drängt. Darum ist das Weib
+Das Weib, unter dem Bewußtsein, was der Mann in Bezug auf das Weib empfindet, **kommt dessen
+Bemühen nach Idealisirung entgegen**, indem es sich schmückt, schön geht, tanzt, zarte Gedanken äußert:
+insgleichen **übt sie Scham**, Zurückhaltung, Distanz — mit dem Instinkt dafür, daß damit das
+idealisirende Vermögen des Mannes **wächst**. (— Bei der ungeheuren Feinheit des weiblichen
+Instinkts bleibt die Scham keineswegs bewußte Heuchelei: sie erräth, daß gerade die **naive
+wirkliche Schamhaftigkeit** den Mann am meisten verführt und zur Überschätzung drängt. Darum ist das Weib
 naiv — aus Feinheit des Instinkts, welcher ihr die Nützlichkeit des Unschuldig-seins anräth. Ein willentliches
 Die-Augen-über-sich-geschlossen-halten…
 
-Überall, wo die Verstellung stärker wirkt, wenn sie unbewußt ist, wird sie unbewußt.
+Überall, wo die Verstellung stärker wirkt, wenn sie unbewußt ist, **wird** sie unbewußt.
 
   
 
-zur Genesis der Kunst. Jenes Vollkommen-machen, Vollkommen-sehen, welches dem mit geschlechtlichen Kräften überladenen cerebralen System zu eigen ist
+**zur Genesis der Kunst.** Jenes **Vollkommen-machen**, **Vollkommen-sehen**, welches dem mit geschlechtlichen Kräften überladenen cerebralen System zu eigen ist
 (der Abend zusammen mit der Geliebten, die kleinsten Zufälligkeiten verklärt, das Leben eine Abfolge sublimer
-Dinge, „das Unglück des Unglücklich-Liebenden mehr werth als irgend etwas“): andrerseits wirkt jedes Vollkommene und Schöne als unbewußte Erinnerung jenes verliebten
-Zustandes und seiner Art zu sehen — jede Vollkommenheit, die ganze Schönheit der Dinge erweckt durch contiguity die aphrodisische Seligkeit wieder. Physiologisch: der schaffende Instinkt des Künstlers und die Vertheilung des semen ins Blut… Das Verlangen nach Kunst und Schönheit ist ein indirektes Verlangen nach den Entzückungen des
-Geschlechtstriebes, welche er dem Cerebrum mittheilt. Die vollkommen gewordene Welt,
+Dinge, „das Unglück des Unglücklich-Liebenden mehr werth als irgend etwas“): andrerseits wirkt jedes **Vollkommene** und **Schöne** als unbewußte Erinnerung jenes verliebten
+Zustandes und seiner Art zu sehen — jede **Vollkommenheit**, die ganze **Schönheit** der Dinge erweckt durch contiguity die aphrodisische Seligkeit wieder. **Physiologisch:**der schaffende Instinkt des Künstlers und die Vertheilung des semen ins Blut… Das **Verlangen nach Kunst und Schönheit** ist ein indirektes Verlangen nach den Entzückungen des
+Geschlechtstriebes, welche er dem Cerebrum mittheilt. Die **vollkommen gewordene Welt**,
 durch „Liebe“ . . .
 
   
 
-Der „Heerdentrieb“ in seiner Verkleidung
+Der **„Heerdentrieb“** in seiner Verkleidung
 
   
 
-Der Lügen- und Verstellungstrieb am Künstler
+Der **Lügen-**und **Verstellungstrieb** am Künstler
 hervorbrechend
 
   
 
-Der contemplative Trieb in seiner Verkleidung.
+Der **contemplative** Trieb in seiner Verkleidung.
 
   
 
-Die Grausamkeit in ihrer Verkleidung
+Die **Grausamkeit** in ihrer Verkleidung
 
   
 
-Krankheit und Entartung in ihren Verkleidungen
+**Krankheit und Entartung** in ihren Verkleidungen
 
   
 
-Das Alter in seiner Verkleidung
+Das **Alter** in seiner Verkleidung
   
 (als Nihilism
   
-(als Wiederkehr jugendlicher und vererbter Werthe — die Spannkraft des Intellekts und Charakters ist gebrochen z.B. R<ichard> W<agner>
+(als Wiederkehr jugendlicher und **vererbter** Werthe — die Spannkraft des Intellekts und Charakters ist gebrochen z.B. R&amp;lt;ichard&amp;gt; W&amp;lt;agner&amp;gt;
 
   
 
-Die Verkleidung der vis inertiae
+Die Verkleidung der **vis inertiae**
 
-<Zweites Buch:
-Herkunft der Werthe.>
+&amp;lt;Zweites Buch:
+**Herkunft der Werthe.**&amp;gt;
 
   
 
-<Erstes Capitel. Die Metaphysiker.>
+&amp;lt;**Erstes Capitel.** Die Metaphysiker.&amp;gt;
 
   
 
@@ -147,24 +147,24 @@ Herkunft der Werthe.>
 [8[2]](javascript:;)
 --------------------
 
-Zur Psychologie der Metaphysik
+**Zur Psychologie der Metaphysik**
 
-Diese Welt ist scheinbar — folglich giebt es eine wahre Welt.
+Diese Welt ist scheinbar — **folglich** giebt es eine wahre Welt.
 
-Diese Welt ist bedingt — folglich giebt es eine unbedingte Welt.
+Diese Welt ist bedingt — **folglich** giebt es eine unbedingte Welt.
 
-Diese Welt ist widerspruchsvoll — folglich giebt es eine widerspruchslose Welt.
+Diese Welt ist widerspruchsvoll — **folglich** giebt es eine widerspruchslose Welt.
 
-Diese Welt ist werdend — folglich giebt es eine seiende Welt.
+Diese Welt ist werdend — **folglich** giebt es eine seiende Welt.
 
-Lauter falsche Schlüsse (blindes Vertrauen in die Vernunft: wenn A ist, so muß auch sein
-Gegensatz-Begriff B sein)
+Lauter falsche Schlüsse (blindes Vertrauen in die Vernunft: wenn A **ist**, so muß auch sein
+Gegensatz-Begriff B **sein**)
 
-Zu diesen Schlüssen inspirirt das Leiden: im Grunde sind es Wünsche, es möchte eine solche Welt geben; ebenfalls drückt sich der Haß gegen eine Welt, die leiden
-macht, darin aus, daß eine andere imaginirt wird, eine werthvolle: das Ressentiment der Metaphysiker gegen das Wirkliche ist hier schöpferisch.
+Zu diesen Schlüssen **inspirirt das Leiden**: im Grunde sind es **Wünsche**, es möchte eine solche Welt geben; ebenfalls drückt sich der Haß gegen eine Welt, die leiden
+macht, darin aus, daß eine andere imaginirt wird, eine **werthvolle**: das **Ressentiment** der Metaphysiker gegen das Wirkliche ist hier schöpferisch.
 
-Zweite Reihe von Fragen: wozu Leiden?… und hier ergiebt sich ein
-Schluß auf das Verhältniß der wahren Welt zu unsrer scheinbaren, wandelbaren, leidenden
+**Zweite** Reihe von Fragen: **wozu** Leiden?… und hier ergiebt sich ein
+Schluß auf das Verhältniß der wahren Welt **zu** unsrer scheinbaren, wandelbaren, leidenden
 und widerspruchsvollen.
 
 1) Leiden als Folge des Irrthums: wie ist Irrthum möglich?
@@ -174,30 +174,30 @@ und widerspruchsvollen.
 (— lauter Erfahrungen aus der Natursphäre oder der Gesellschaft universalisirt und ins „An-sich“
 projicirt)
 
-Wenn aber die bedingte Welt ursächlich von der unbedingten bedingt ist, so muß die Freiheit
-zum Irrthum und zur Schuld mit von ihr bedingt sein: und wieder fragt man wozu?…
-Die Welt des Scheins, des Werdens, des Widerspruchs, des Leidens ist also gewollt: wozu?
+Wenn aber die bedingte Welt ursächlich von der unbedingten bedingt ist, so muß die **Freiheit
+zum Irrthum und zur Schuld** mit von ihr bedingt sein: und wieder fragt man **wozu?**…
+Die Welt des Scheins, des Werdens, des Widerspruchs, des Leidens ist also **gewollt**: **wozu?**
 
-Der Fehler dieser Schlüsse: zwei gegensätzliche Begriffe sind gebildet, — weil dem einen
-von ihnen eine Realität entspricht, „muß“ auch dem anderen eine Realität entsprechen. „Woher sollte man sonst dessen Gegenbegriff haben?“ — Vernunft somit als eine
+Der Fehler dieser Schlüsse: zwei gegensätzliche Begriffe sind gebildet, — **weil** dem einen
+von ihnen eine Realität entspricht, „muß“ auch dem anderen eine Realität entsprechen. „**Woher** sollte man sonst dessen Gegenbegriff haben?“ — **Vernunft** somit als eine
 Offenbarungs-Quelle über Ansich-Seiendes.
 
-Aber die Herkunft jener Gegensätze braucht nicht nothwendig auf
-eine übernatürliche Quelle der Vernunft zurückzugehen: es genügt die wahre Genesis der
-Begriffe dagegen zu stellen: — diese stammt aus der praktischen Sphäre, aus der Nützlichkeitssphäre und
-hat eben daher ihren starken Glauben (man geht daran zu Grunde, wenn
+Aber die **Herkunft** jener Gegensätze **braucht nicht nothwendig** auf
+eine übernatürliche Quelle der Vernunft zurückzugehen: es genügt die **wahre Genesis der
+Begriffe** dagegen zu stellen: — diese stammt aus der praktischen Sphäre, aus der Nützlichkeitssphäre und
+hat eben daher ihren **starken Glauben** (man geht **daran zu Grunde**, wenn
 man nicht gemäß dieser Vernunft schließt: aber damit ist das nicht „bewiesen“, was sie behauptet)
 
 Die Präokkupation durch das Leiden bei den Metaphysikern: ist ganz naiv. „Ewige
-Seligkeit“: psychologischer Unsinn. Tapfere und schöpferische Menschen fassen Lust und Leid nie als letzte Werthfragen, — es sind Begleit-Zustände, man muß Beides wollen,
-wenn man etwas erreichen will. — Darin drückt sich etwas Müdes und Krankes an den
-Metaphysikern und Religiösen aus, daß sie Lust- und Leidprobleme im Vordergrunde sehen. Auch die Moral hat nur deshalb für sie solche Wichtigkeit,
+Seligkeit“: psychologischer Unsinn. Tapfere und schöpferische Menschen fassen Lust und Leid **nie** als letzte Werthfragen, — es sind Begleit-Zustände, man muß Beides **wollen**,
+wenn man etwas **erreichen** will. — Darin drückt sich etwas Müdes und Krankes an den
+Metaphysikern und Religiösen aus, daß sie Lust- und Leidprobleme im Vordergrunde sehen. Auch die **Moral** hat **nur** deshalb für sie solche **Wichtigkeit**,
 weil sie als wesentliche Bedingung in Hinsicht auf Abschaffung des Leidens gilt.
 
-Insgleichen die Präokkupation durch Schein und Irrthum: Ursache von Leiden, Aberglaube,
+**Insgleichen die Präokkupation durch Schein und Irrthum:** Ursache von Leiden, Aberglaube,
 daß das Glück mit der Wahrheit verbunden sei (Verwechslung: das Glück in der „Gewißheit“, im „Glauben“)
 
-<Zweites Capitel. Die homines religiosi.>
+&amp;lt;**Zweites Capitel.** Die homines religiosi.&amp;gt;
 
   
 
@@ -208,33 +208,33 @@ daß das Glück mit der Wahrheit verbunden sei (Verwechslung: das Glück in der 
 
 zu „homines religiosi“
 
-Was bedeuten asketische Ideale?
+**Was bedeuten asketische Ideale?**
 
-Vorform der noch neuen contemplativen Lebensweise, extrem, um Respekt zu finden und sich selbst Respekt zu machen (gegen das
+Vorform der noch neuen **contemplativen** Lebensweise, extrem, um Respekt zu finden und **sich selbst** Respekt zu **machen** (**gegen** das
 „schlechte Gewissen“ der Inaktivität) deren Bedingungen werden gesucht
 
-ein Sinn für Reinlichkeit der Seele, barock ausgedrückt
+ein Sinn für **Reinlichkeit** der Seele, barock ausgedrückt
 
-ein Zuchthäusler-Zustand (eine Menge Delikatessen sich vorbereitend), als Remedur für
-eine überwilde Begehrlichkeit (welche den „Verleitungen“ aus dem Wege geht) — als Haß
+ein **Zuchthäusler-Zustand** (eine Menge Delikatessen sich vorbereitend), als Remedur für
+eine überwilde Begehrlichkeit (welche den „Verleitungen“ aus dem Wege geht) — als **Haß**
 gegen Sinne, Leben sich äußernd.
 
-eine Verarmung des Lebens, ein Bedürfniß nach Indolenz, Ruhe. Kunstgriff des Fakirs.
+eine **Verarmung des Lebens**, ein Bedürfniß nach Indolenz, Ruhe. Kunstgriff des Fakirs.
 „Alter“
 
-eine krankhafte Verletzlichkeit, Empfindsamkeit, etwas Alt-Jüngferliches, das dem Leben
+eine **krankhafte Verletzlichkeit**, Empfindsamkeit, etwas Alt-Jüngferliches, das dem Leben
 aus dem Wege geht: mitunter eine falsch geleitete Erotik und Hysterie der „Liebe“
 
-Kritik der Demuth („der absolute Gehorsam“) mitunter der Instinkt der Macht, nach
+Kritik der **Demuth** („der absolute Gehorsam“) mitunter der Instinkt der Macht, nach
 absoluten „Werkzeugen“ zu suchen oder als Werkzeug am meisten zu erreichen. Die Klugheit daran, die Faulheit
 (ebenso wie in Armut und Keuschheit)
 
-Kritik der Armuth (die scheinbare Verzichtleistung und die Concurrenz, als
+Kritik der **Armuth** (die scheinbare Verzichtleistung und die Concurrenz, als
 Klugheitsmittel auf dem Wege zur Herrschaft.
 
-Kritik der Keuschheit. Nützlichkeit: sie giebt Zeit, Unabhängigkeit
-— intellekt<uelle> Verwöhnung, die es unter Weibchen nicht aushält — Familien sind große
-Schwatznester. <Sie> erhält Kraft, hält manche Krankheit fern. Freiheit von Weib und Kind hält
+Kritik der **Keuschheit**. **Nützlichkeit:** sie giebt Zeit, Unabhängigkeit
+— intellekt&amp;lt;uelle&amp;gt; Verwöhnung, die es unter Weibchen nicht aushält — Familien sind große
+Schwatznester. &amp;lt;Sie&amp;gt; erhält Kraft, hält manche Krankheit fern. Freiheit von Weib und Kind hält
 eine Menge Versuchungen fern (Luxus, Servilität gegen Macht, Einordnung
 
   
@@ -244,12 +244,12 @@ Furchtbaren und des Entzückenden, etwas Versprechendes, etwas Mehr-Wissendes, e
 asketische Ideal drückt immer ein Mißrathen aus, eine Entbehrung, einen physiologischen Widerspruch. Es macht
 nachdenklich, daß eigentlich nur diese Asketen-Species Priester den gegenwärtigen Menschen noch bekannt ist:
 es ist ein Ausdruck von Entartung und Mißrathensein des Menschen überhaupt. — Und wie wir von romantischen
-Künstlern reden, so dürfte man sagen, daß uns eigentlich nur der romantische Priester
-bekannt ist — daß an sich der klassische Priester möglich ist, daß er wahrscheinlich auch
-dagewesen ist. Stelle man sich mit dieser Möglichkeit eines kl<assischen>
-Pr<iesters> vor Plato im museo Borbonico Neapels: die Archäologen sind ungewiß, ob es nicht ein
+Künstlern reden, so dürfte man sagen, daß uns eigentlich nur der **romantische Priester**
+bekannt ist — daß an sich der **klassische** Priester möglich ist, daß er wahrscheinlich auch
+dagewesen ist. Stelle man sich mit dieser Möglichkeit eines kl&amp;lt;assischen&amp;gt;
+Pr&amp;lt;iesters&amp;gt; vor Plato im museo Borbonico Neapels: die Archäologen sind ungewiß, ob es nicht ein
 bärtiger Dionysos sei. Das soll uns gleichgültig sein: gewiß ist, daß man hier einen priesterlichen Typus
-voraussetzt, — keinen asketischen Typus…
+voraussetzt, — **keinen** asketischen Typus…
 
   
 
@@ -284,11 +284,11 @@ Mißverständniß mit dem der Geschlechtlichkeit in den Culten und Mysterien von
 
 der christliche Priester ist von Anfang an der Todfeind der Sinnlichkeit: man kann sich keinen größeren
 Gegensatz denken, als die unschuldig ahnungsvolle und feierliche Haltung, mit der z.B. in den ehrwürdigsten
-Frauenkulten Athens die Gegenwart der geschlechtlichen Symbole <empfunden wurde>. Der Akt der
+Frauenkulten Athens die Gegenwart der geschlechtlichen Symbole &amp;lt;empfunden wurde&amp;gt;. Der Akt der
 Zeugung ist das Geheimniß an sich in allen nicht-asketischen Religionen: eine Art Symbol der Vollendung und
 der geheimnißvollen Absicht, der Zukunft (Wiedergeburt, Unsterblichkeit
 
-<Drittes Capitel. Die Guten und die Verbesserer.>
+&amp;lt;**Drittes Capitel.**Die Guten und die Verbesserer.&amp;gt;
 
   
 
@@ -297,34 +297,34 @@ der geheimnißvollen Absicht, der Zukunft (Wiedergeburt, Unsterblichkeit
 [8[4]](javascript:;)
 --------------------
 
-Die Guten und die Verbesserer.
+**Die Guten und die Verbesserer.**
 
-Der Haß gegen die Leiblich- und Seelisch-Privilegirten: Aufstand
+**Der Haß gegen die** Leiblich- und Seelisch-**Privilegirten**: Aufstand
 der häßlichen mißrathenen Seelen gegen die schönen stolzen wohlgemuthen
 
 ihr Mittel: Verdächtigung der Schönheit, des Stolzes, der Freude
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| das Widernatürliche  als das Höhere | |  | | --- | |  | |  | |  | |  | |  | | „es giebt kein Verdienst“  „die Gefahr ist ungeheuer: man soll zittern und sich schlecht befinden“  „die Natürlichkeit ist böse; der Natur widerstreben ist das Rechte. Auch der „Vernunft“. |
+| das Widernatürliche  als das Höhere | |  | | --- | |  | |  | |  | |  | |  | | „es giebt kein Verdienst“  „die Gefahr ist ungeheuer: man **soll** zittern und sich schlecht befinden“  „die Natürlichkeit ist böse; der Natur widerstreben ist das Rechte. **Auch** der „Vernunft“. |
 
-wieder sind es die Priester, die diesen Zustand ausbeuten und das „Volk“ für sich
+wieder sind es die **Priester**, die diesen Zustand ausbeuten und das „Volk“ für sich
 gewinnen. „Der Sünder“, an dem Gott mehr Freude hat als am „Gerechten“
 
-dies ist der Kampf gegen das „Heidenthum“ (der Gewissensbiß als Mittel, die seelische
+**dies** ist der Kampf gegen das „Heidenthum“ (der Gewissensbiß als Mittel, die seelische
 Harmonie zu zerstören)
 
-Der Haß der Durchschnittlichen gegen die Ausnahmen, der Heerde
+**Der Haß der Durchschnittlichen** gegen die **Ausnahmen**, der Heerde
 gegen die Unabhängigen
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| die Sitte als  eigentliche  „Sittlichkeit“ | |  | | --- | |  | |  | |  | |  | |  | | Wendung gegen den „Egoismus“: Werth hat allein das „dem Anderen“  „wir sind alle gleich“  gegen die Herrschsucht, gegen „Herrschen“ überhaupt |
+| die Sitte als  eigentliche  „Sittlichkeit“ | |  | | --- | |  | |  | |  | |  | |  | | Wendung **gegen** den „Egoismus“: Werth hat allein das „dem Anderen“  „wir sind alle gleich“  gegen die Herrschsucht, gegen „Herrschen“ überhaupt |
 |  | | gegen das Vorrecht  gegen Sektirer, Freigeister, Skeptiker  gegen die Philosophie (als dem Werkzeug- und Ecken-Instinkt entgegen)  bei Philosophen selbst „der kategorische Imperativ“, das Wesen des Moralischen „allgemein und überall“ |
 
   
 
-Die drei Behauptungen:
+Die drei **Behauptungen**:
 
 |  |  |
 | --- | --- |
@@ -334,7 +334,7 @@ Die drei Behauptungen:
 
   
 
-In der Geschichte der Moral drückt sich also ein Wille zur Macht
+In der **Geschichte der Moral** drückt sich also ein **Wille zur Macht**
 aus, durch den
 
 |  |  |  |  |  |  |  |  |
@@ -344,40 +344,40 @@ aus, durch den
   
 
 Insofern ist das Phänomen der Moral vom Standpunkt der Biologie aus höchst bedenklich. Die Moral hat sich
-bisher entwickelt auf Unkosten:
+bisher entwickelt **auf Unkosten**:
 
 |  |  |
 | --- | --- |
-|  | der Herrschenden und ihrer spezifischen Instinkte  der Wohlgerathenen und schönen Naturen  der Unabhängigen und Privilegirten in irgend einem Sinne |
+|  | der Herrschenden und ihrer spezifischen Instinkte  der Wohlgerathenen und **schönen** Naturen  der Unabhängigen und Privilegirten in irgend einem Sinne |
 
   
 
-Die Moral ist also eine Gegenbewegung gegen die Bemühungen der Natur, es zu einem höheren Typus zu bringen. Ihre Wirkung ist:
+Die Moral ist also eine **Gegenbewegung gegen die Bemühungen der Natur**, es zu einem **höheren Typus** zu bringen. Ihre Wirkung ist:
 
 Mißtrauen gegen das Leben überhaupt (insofern dessen Tendenzen als „unmoralisch“ empfunden werden
 
 Sinnlosigkeit, insofern die obersten Werthe als im Gegensatz zu den obersten Instinkten empfunden werden —
 Widersinn.
 
-Entartung und Selbstzerstörung der „höheren Naturen“, weil gerade in ihnen der Conflikt bewußt wird.
+Entartung und Selbstzerstörung der „höheren Naturen“, weil gerade in ihnen der Conflikt **bewußt** wird.
 
   
 
-Sklavenaufstand in der Moral: das Ressentiment schöpferisch. Die
-Zerdrückten, Niedergetretenen, denen die eigentliche Reaktion versagt ist.
+**Sklavenaufstand in der Moral:** das **Ressentiment** schöpferisch. Die
+Zerdrückten, Niedergetretenen, denen die eigentliche **Reaktion** versagt ist.
 
-Folglich: ein negativer Werth zuerst (umgekehrt als bei der vornehmen Moral, die aus dem
-Gefühl eines triumphirenden Ja-sagens zu sich selbst entspringt).
+Folglich: ein **negativer** Werth zuerst (umgekehrt als bei der vornehmen Moral, die aus dem
+Gefühl eines **triumphirenden Ja-sagens** zu sich selbst entspringt).
 
 „der Böse“ (eigentlich der Starke)
 
-Methode der Verleumdung der aristokratischen Werthe: (Stolz, Schönheit, Glück,
+Methode der **Verleumdung** der aristokratischen Werthe: (Stolz, Schönheit, Glück,
 Heiterkeit, Sinnlichkeit, Reichthum
 
-mit Hülfe des 1) Nicht-sehen-wollens 2) des Falsch-sehen-wollens 3)
-des Hinein-sehen-wollens.
+mit Hülfe des 1) **Nicht**-sehen-wollens 2) des **Falsch**-sehen-wollens 3)
+des **Hinein**-sehen-wollens.
 
-Umkehrung: Versuch, das ressentiment selbst als Tugend auszulegen
+Umkehrung: Versuch, das **ressentiment** selbst als Tugend auszulegen
 (Gerechtigkeits-Sinn)
 
 die thatsächliche ängstliche Niedrigkeit als „Demuth“
@@ -401,16 +401,16 @@ Gedrückten)
 
 die Ehre der Armut als „Gottesdienst“
 
-Versuch, in summa, mit sich zufrieden zu sein und sich zu überreden,
-daß „man nicht nur besser sei“, sondern auch „es besser habe“. Die „Guten“, eigentlich die Schwachen.
+Versuch, **in summa**, mit sich zufrieden zu sein und sich zu überreden,
+daß „man nicht nur besser sei“, sondern auch „es besser habe“. Die „Guten“, eigentlich die **Schwachen**.
 
 — Tiefste Unehrlichkeit und Verlogenheit dabei. —
 
   
 
-Die Verinnerlichung des Menschen (als Krankheit)
+Die **Verinnerlichung** des Menschen (als Krankheit)
 
-Die V<erinnerlichung> entsteht <dadurch>, daß mächtige Triebe, denen mit
+Die V&amp;lt;erinnerlichung&amp;gt; entsteht &amp;lt;dadurch&amp;gt;, daß mächtige Triebe, denen mit
 Einrichtung des Friedens und der Gesellschaft die Entladung nach außen versagt wird, sich nach innen zu
 schadlos zu halten suchen, im Bunde mit der Imagination. Das Bedürfniß nach Feindschaft, Grausamkeit, Rache,
 Gewaltsamkeit wendet sich zurück, „tritt zurück“; im Erkennen-wollen ist Habsucht und Erobern; im Künstler
@@ -419,7 +419,7 @@ denen es Kampf giebt usw.
 
   
 
-Die Bewußtheit als Krankheit
+Die **Bewußtheit** als Krankheit
 
 Der Mensch sich immer wieder in Lagen versetzend, für die er noch keinen Instinkt hat: also zeitweilig
 experimentirend und auf Grund von „Schlüssen“ handelnd, nicht von Instinkten. „Rationalistische“ Ereignisse
@@ -427,7 +427,7 @@ z.B. die französische Revolution.
 
   
 
-Das schlechte Gewissen dem Neuen anhaftend
+Das **schlechte Gewissen** dem Neuen anhaftend
 
 z.B. der Ehe
 
@@ -451,18 +451,18 @@ also das „Rechtsbewußtsein“ mit dem schlechten Gewissen verschwistert
 --------------------
 
 jede Ungerechtigkeit etwas unfreiwilliges: folglich eine συμφορά: so Plato
-in 9. und 11 B<uch> der Gesetze in Hinsicht auf Tempelraub und Elternmord.
+in 9. und 11 B&amp;lt;uch&amp;gt; der Gesetze in Hinsicht auf Tempelraub und Elternmord.
 
 [8[6]](javascript:;)
 --------------------
 
-Die Entwicklung der persönlichen Verantwortlichkeit zurückgehalten: durch die straff
+Die Entwicklung der persönlichen Verantwortlichkeit **zurückgehalten**: durch die straff
 gespannte Geschlechts-Organisation (die Folge traf nicht den Thäter, und jeder trug die Folgen Aller — am
 wunderlichsten war es wohl mit dem „Gewissen“ des Oberhaupts bestellt, der relativ Alles büßen mußte)
 
   
 
-Die großen Ereignisse:
+Die **großen Ereignisse**:
 
 Sieg des Mannes über das Weib (kriegerisch, Herrenrecht
 
@@ -480,7 +480,9 @@ Ursprung der Familie; das Mißtrauen als die Wurzel der Gerechtigkeit und Contem
 [8[8]](javascript:;)
 --------------------
 
-Zarathustra
+**Zarathustra**
 
 An diesem Werk muß Einem jedes Wort einmal wehgethan und verwundet, und wieder einmal tief entzückt haben: —
-was man nicht so verstanden hat, hat man gar nicht verstanden.
+was man nicht **so** verstanden hat, hat man gar nicht verstanden.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

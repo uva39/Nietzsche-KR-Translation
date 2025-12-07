@@ -86,7 +86,7 @@ Zeit mit dir anlangen.
 
   
 
-Dies ist meine Furcht für dich: gerade wenn du auf deiner Höhe bist, wirst du stolpern!
+Dies ist meine Furcht für dich: gerade wenn du auf deiner Höhe bist, wirst du **stolpern**!
 
   
 
@@ -128,7 +128,7 @@ Nun ist das deine letzte Zuflucht worden, was bisher dir deine letzte Gefahr hie
   
 
 Dies ist seine Narrheit: er kann alle Warner und Vogelstimmen nicht aushalten — er läuft in seinen Abgrund,
-weil er vor ihm gewarnt wurde.
+**weil** er vor ihm gewarnt wurde.
 
   
 
@@ -271,7 +271,7 @@ Eines Tages merkte ich, daß ich meine Geduld verloren hatte: da gieng ich aus, 
 gut. Aber glaubt ihr wohl, meine Freunde, daß ich sie wieder gefunden hätte? Im Gegentheil: doch fand ich so
 viel unterwegs auf meiner Reise, daß ich euch davon erzählen muß — und ich schwöre euch’s zu, jetzt gleich bei
 unsrer ersten Ausfahrt, daß ihr dabei eure Geduld verlieren werdet. — Und meint ja nicht, daß ich’s anders
-will: denn das Beste von dem Allen, was ich inzwischen lernte und fand, ist eben dies: „es ist für Viele an der Zeit, die Geduld zu verlieren“.
+will: denn das Beste von dem Allen, was ich inzwischen lernte und fand, ist eben dies: „es ist **für Viele** an der Zeit, die Geduld zu verlieren“.
 
 Und zumal für Euch, meine Freunde!
 
@@ -323,8 +323,8 @@ Glück ist ein Weib.
 Und so weit erniedrigte sich der Mensch vor Gott und trieb seinen Trotz gegen sich, daß er jetzt eine
 tödtliche Rache haben will: und so mußte der, welcher alles schaute, sterben!
 
-Die Rache am
-Zeugen — —
+Die Rache **am**
+**Zeugen** — —
 
   
 
@@ -337,7 +337,7 @@ Wer nichts zu thun hat, dem macht ein Nichts zu schaffen.
 
   
 
-Was ich nicht will, daß ihr mir thut, warum sollte ich dies nicht euch thun dürfen? Und
+Was ich nicht will, daß ihr mir thut, warum sollte **ich** dies nicht euch thun dürfen? Und
 wahrlich, das, was ich euch thun muß, gerade das könntet ihr mir nicht thun!
 
   
@@ -522,9 +522,9 @@ In der linksten Zehe noch mehr Sinn für das Rechte haben als jene in ihrem Kopf
 
   
 
-Chor der Narren d.h. der Weisen, die zeitweilig sich unwissend und thöricht fühlen
+**Chor der Narren** d.h. der Weisen, die zeitweilig sich unwissend und thöricht fühlen
 
-Chor der Armen d.h. der Geringen Überflüssigen, deren Joch leicht ist. — Emerson p.
+**Chor der Armen** d.h. der Geringen Überflüssigen, deren Joch leicht ist. — Emerson p.
 283.
 
   
@@ -554,7 +554,7 @@ worden.
 
   
 
-Gegen die steifen Weisen, von ihnen erlösend — die Seele, der Alles Spiel wird.
+Gegen die steifen Weisen, von ihnen erlösend — die Seele, der Alles **Spiel wird**.
 
   
 
@@ -616,7 +616,7 @@ Sprich früh und Abends: „ich verachte den Krämer, ich will ihm die langen Fi
   
 
 Das Leiden des höheren Menschen ist nicht sein Niederes, sondern daß er weiß: „es giebt noch Höheres“. In die
-Höhe gedrückt, gleich dem Balle — das nennen sie „steigen“.
+Höhe **gedrückt**, gleich dem Balle — das nennen sie „steigen“.
 
   
 
@@ -628,8 +628,8 @@ Ihr habt ihren Ehrgeiz erdrosselt! Unter euch die letzten zu sein gelüstete sie
 
   
 
-Ihr rechnet das Glück Aller aus und habt die Zukünftigen dabei vergessen — das Glück der
-Meisten!
+Ihr rechnet das Glück Aller aus und habt die Zukünftigen dabei vergessen — das Glück **der**
+**Meisten**!
 
   
 
@@ -715,7 +715,7 @@ Selbst- und Herrschsucht trieb die Lüge in die höchste Höhe.
 
   
 
-Sieh<st> du doch das Gestein der höchsten Berge an? Hat es sich nicht unter den Meeren
+Sieh&amp;lt;st&amp;gt; du doch das Gestein der höchsten Berge an? Hat es sich nicht unter den Meeren
 gebildet?
 
   
@@ -773,8 +773,8 @@ schnarchen kann auch der Lebendigste.
 Gleiches Recht für Alle — das ist die ausbündigste Ungerechtigkeit; denn dabei kommen die höchsten Menschen
 zu kurz.
 
-Immer wurde Gerechtigkeit am besten gelobt: sie hat das Lob der Meisten — derer, die
-gleiches Recht nicht haben durften!
+Immer wurde Gerechtigkeit am besten gelobt: sie hat das Lob der**Meisten** — derer, die
+gleiches Recht nicht haben **durften**!
 
   
 
@@ -793,7 +793,7 @@ Sterne wären, was jetzt sichtbarer wird!
 [22[2]](javascript:;)
 ---------------------
 
-Plan zu Zarathustra 3.
+**Plan zu Zarathustra 3.**
 
 Am Meere (früh Nachts)
 
@@ -831,7 +831,7 @@ Der Knabe und die Schlange
 
 Zarathustra krank. Der Heilige
 
-Z<arathustras> Antwort für den Heiligen.
+Z&amp;lt;arathustras&amp;gt; Antwort für den Heiligen.
 
 Der Entschluß.
 
@@ -861,7 +861,7 @@ Schritt, — sie messen die Zeit nach anderem Maße.
 
   
 
-Von sich absehen lernen ist nöthig, um weit zu sehen.
+Von sich absehen lernen ist nöthig, um **weit** zu sehen.
 
   
 
@@ -926,7 +926,7 @@ Die Gefahr des Weisen ist, sich in die Thorheit zu vernarren.
 
   
 
-Er opfert sich, aber nicht aus Mitleiden, sondern aus Reichthum: er giebt ab, er giebt sich ab!
+Er opfert sich, aber nicht aus Mitleiden, sondern aus Reichthum: er giebt ab, er giebt **sich** ab!
 
   
 
@@ -937,7 +937,7 @@ Götter.
 
 Die Liebe bringt Hohes und Seltenes, was in einem Menschen ist, ans Licht: insofern verschönert sie — sie
 täuscht über ihn (ihn selber am meisten!) Aber gieb Acht, was geschieht, wenn Einer sich geliebt weiß, aber
-nicht liebt: da verräth eine Seele selbst ihren Bodensatz.
+**nicht** liebt: da verräth eine Seele selbst ihren Bodensatz.
 
   
 
@@ -950,11 +950,11 @@ möchte.
 
   
 
-Ein Elephant, der versucht auf seinem Kopf zu stehen.
+Ein Elephant, der versucht auf seinem Kopf zu **stehen**.
 
   
 
-Ihr meint, Alles sei gethan, wenn ihr den Blitz unschädlich gemacht habt? Aber ich will,
+Ihr meint, Alles sei gethan, wenn ihr den Blitz unschädlich gemacht habt? Aber **ich** will,
 daß er für mich arbeite. — So denke ich über alles Böse in dir und mir.
 
   
@@ -1039,7 +1039,7 @@ Wenn Alles nach unserem Willen geht, geht es auch nach unserem Wunsche.
 
   
 
-Alles Vergangene ist eine Schrift mit hundert Sinnen und Deutungen und wahrlich! ein Weg zu vielen Zukünften! wer aber der Zukunft Einen Sinn giebt, der bestimmt auch die Eine Deutung des
+Alles Vergangene ist eine Schrift mit hundert Sinnen und Deutungen und wahrlich! ein Weg zu **vielen** Zukünften! wer aber der Zukunft Einen Sinn giebt, der bestimmt auch die Eine Deutung des
 Vergangenen.
 
   
@@ -1113,14 +1113,14 @@ Ihr hustet und meint, das sei ein Einwand gegen starke Winde.
   
 
 Was ist aller gemeinen Dinge Gemeinstes? Ein Schluß, aller Schlüsse ältester und jüngster Schluß: „Es thut
-weh, also ist es schlecht“.
+weh, also ist es **schlecht**“.
 
 Seit ich dies „also“ verstand und diesen Ursprung des Schlechten, lache ich über all euer „Gut und Schlecht“!
 Jenseits eures „Gut und Schlecht“ tönt mein Gelächter.
 
   
 
-Den Mann versteckt die Schönheit.
+Den Mann **versteckt** die Schönheit.
 
   
 
@@ -1168,7 +1168,7 @@ Der Gewissensbiß ein Gottesbiß und wenn dieser Gott ein Gott der Liebe ist —
 
   
 
-Ich sehe ihren Stern, und bin entzückt: aber nun meinen sie gar, es sei mein Stern.
+Ich sehe **ihren** Stern, und bin entzückt: aber nun meinen sie gar, es sei **mein** Stern.
 
   
 
@@ -1177,7 +1177,7 @@ sagen sie doch die Wahrheit!
 
   
 
-Und wozu ist alle Natur geschaffen, wenn nicht dazu, daß ich Zeichen habe, mit denen ich zu den Seelen reden kann!
+Und wozu ist alle Natur geschaffen, wenn nicht dazu, daß ich Zeichen habe, mit denen ich zu den Seelen **reden** kann!
 
   
 
@@ -1247,7 +1247,7 @@ Es ekelt mich, noch bin ich kaum 3 Tage fern von — — —
 
   
 
-Heiterkeit als der heimliche Vorgenuß des Todes — es enthebt uns der großen Bürde
+Heiterkeit als der heimliche Vorgenuß des **Todes** — es enthebt uns der großen Bürde
 unserer Aufgabe.
 
   
@@ -1269,7 +1269,7 @@ eine kleine verkrochne Gemeinde und Dunst und Dünkel aller Betbruderei
 
 Scene auf dem Schiff.
 
-Eindruck der Verkleinerung des Menschen. Seine Angst nimmt zu.
+Eindruck der Verkleinerung des Menschen. Seine **Angst** nimmt zu.
 
 Tod und Untergang der Inseln.
 
@@ -1472,7 +1472,7 @@ die nie gebären werden.
 Alle großen Dinge gehen krumm: aber man muß sie mit großen Augen sehn: das war ihr Muth, krumm nach Einem
 Ziele zu gehn.
 
-Krumm gehen große Menschen und Ströme zu ihrem Ziele: krumm, aber zu ihrem Ziele. Das
+Krumm gehen große Menschen und Ströme zu ihrem Ziele: krumm, aber zu **ihrem** Ziele. Das
 ist ihr bester Muth
 
 *Erratum:*Werth  
@@ -1537,3 +1537,5 @@ Und noch ein Mal!
 Das andre Tanzlied.
 
 Vom Ring der Ringe.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

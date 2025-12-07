@@ -16,18 +16,18 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [31[1]](javascript:;)
 ---------------------
 
-Die practische Überwindung der Moral.
+**Die practische Überwindung der Moral.**
 
 [31[2]](javascript:;)
 ---------------------
 
-In Zarathustra 4 ist nöthig: genau zu sagen, weshalb jetzt die Zeit
-des großen Mittags kommt: also eine Zeitschilderung, durch die Besuche gegeben, aber interpretirt von Zarathustra.
+In Zarathustra 4 ist nöthig: **genau** zu sagen, weshalb **jetzt** die Zeit
+des großen Mittags kommt: also eine **Zeitschilderung**, durch die Besuche gegeben, aber **interpretirt** von Zarathustra.
 
-In Zarathustra 4 ist nöthig: genau zu sagen, weshalb das „ausgewählte
-Volk“ erst geschaffen werden mußte — es ist der Gegensatz der wohlgerathenen höheren Naturen im
-Gegensatz zu den Mißrathenen (durch die Besucher charakterisirt): nur an diese kann sich
-Zarathustra über die letzten Probleme mittheilen, nur ihnen kann er die Thätigkeit zu
+In Zarathustra 4 ist nöthig: **genau** zu sagen, weshalb das **„ausgewählte
+Volk“ erst geschaffen werden mußte** — es ist der Gegensatz der wohlgerathenen höheren Naturen im
+Gegensatz zu den Mißrathenen (durch die Besucher charakterisirt): **nur** an diese kann sich
+Zarathustra über die letzten Probleme mittheilen, **nur** ihnen kann er die Thätigkeit zu
 dieser Theorie zumuthen (sie sind stark und gesund und hart genug dazu, vor allem edel genug!) und ihnen den
 Hammer über die Erde in die Hand geben.
 
@@ -36,9 +36,9 @@ In Zarathustra ist also zu schildern:
 |  |  |
 | --- | --- |
 | 1) | die äußerste Gefahr des höheren Typus (wobei Zarathustra an sein erstes Auftreten erinnert) |
-| 2) | die Guten nehmen jetzt gegen den höheren Menschen Partei: das ist die gefährlichste Wendung! (— gegen die Ausnahme!) |
+| 2) | die Guten nehmen jetzt **gegen** den höheren Menschen Partei: das ist die gefährlichste Wendung! (— gegen die Ausnahme!) |
 | 3) | die Vereinsamten, Nicht-Erzogenen, Sich-falsch-Erklärenden entarten, und ihre Entartung wird als Gegengrund gegen ihre Existenz empfunden („Genie-Neurose!“) |
-| 4) | Zarathustra muß erklären, was er gethan hat, als er zur Auswanderung rieth nach den Inseln, und wozu er sie besuchte (1. und 2.) (— sie waren noch nicht reif für seine letzten Offenbarungen?) |
+| 4) | Zarathustra muß erklären, was er gethan hat, als er zur **Auswanderung** rieth nach den Inseln, und wozu er sie besuchte (1. und 2.) (— sie waren noch nicht reif für seine letzten Offenbarungen?) |
 
 [31[3]](javascript:;)
 ---------------------
@@ -48,7 +48,7 @@ In Zarathustra 6 die große Synthesis des Schaffenden, Liebenden, Vernichtenden
 [31[4]](javascript:;)
 ---------------------
 
-In Zarathustra 4: der große Gedanke als Medusenhaupt: alle Züge der Welt werden starr,
+In Zarathustra 4: der große Gedanke als **Medusenhaupt**: alle Züge der Welt werden starr,
 ein gefrorener Todeskampf.
 
 [31[5]](javascript:;)
@@ -63,22 +63,22 @@ preisgebend, dein Blut in alle trocken ausgetrunknen Becher eingießend, du Eite
 [31[6]](javascript:;)
 ---------------------
 
-das Genie sieht Zarathustra wie die Verkörperung seines Gedankens
+das Genie sieht Zarathustra wie die **Verkörperung** seines Gedankens
 
 [31[7]](javascript:;)
 ---------------------
 
-Endlich: öffne deine Augen, sieh die ganze Wahrheit: Sein oder
-Nicht-sein des höheren Menschen!!
+Endlich: öffne deine Augen, sieh die **ganze** Wahrheit: **Sein oder
+Nicht-sein des höheren Menschen!!**
 
 [31[8]](javascript:;)
 ---------------------
 
-„Dies nun, o Zarathustra ist dein Elend! Täusche dich nicht: der Anblick der Vielen
+„Dies nun, o Zarathustra ist **dein** Elend! Täusche dich nicht: der Anblick der Vielen
 machte dich düster, weil sie bescheiden und niedrig sind? Aber die Einsamen sind viel mehr mißrathen“ —
 Dagegen führt Zarathustra die Gründe an
 
-1) vom großen Fehlgriff des Mitleidens — man hat alles Schwache Leidende erhalten
+1) vom großen Fehlgriff des Mitleidens — man hat alles Schwache Leidende **erhalten**
 
 2) man hat „gleich und gleich“ gelehrt und dadurch die Einsiedler um das gute Gewissen
 gebracht — zur Heuchelei genöthigt und zum Kriechen
@@ -92,10 +92,10 @@ vornehmste Seele in Lumpen und will lieber noch die Häßlichkeit übertreiben
 5) Es fehlt alle Erziehung für sie; sie müssen sich verpanzern und entstellen, um etwas
 von sich zu retten.
 
-in summa: der Nothschrei des höheren Menschen an Zarathustra. Zarathustra ermahnt sie
+in summa: der **Nothschrei** des höheren Menschen an Zarathustra. Zarathustra ermahnt sie
 zur Geduld, schaudert selber über sich: „es ist Nichts, was ich nicht selber erlebt habe!“, vertröstet sich
-<auf> seine Glückseligen und begreift: „es ist höchste Zeit“. Unmuth ausbrechend und Hohn über seine Hoffnungen in Betreff der Glückseligen. „Du willst uns
-nicht helfen? Verhilf uns zu einer großen Rache!“ Du bist hart gegen
+&amp;lt;auf&amp;gt; seine Glückseligen und begreift: „es ist höchste Zeit“. Unmuth ausbrechend und **Hohn** über seine Hoffnungen in Betreff der Glückseligen. „Du **willst** uns
+nicht helfen? Verhilf uns zu einer großen **Rache**!“ Du bist **hart** gegen
 die Unglücklichen! — Ziehen ab.
 
 Mißtrauen und Angst bei Zarathustra zurück geblieben. Er sendet die Thiere aus.
@@ -103,7 +103,7 @@ Mißtrauen und Angst bei Zarathustra zurück geblieben. Er sendet die Thiere aus
 [31[9]](javascript:;)
 ---------------------
 
-Zarathustra 4. (Plan.)
+**Zarathustra 4. (Plan.)**
 
 |  |  |
 | --- | --- |
@@ -112,8 +112,8 @@ Zarathustra 4. (Plan.)
 | 3. | Zarathustra’s Mitleiden auf der Höhe — aber hart; bleibt bei seiner Aufgabe — „es ist nicht Zeit“ |
 | 4. | Verhöhnung Zarathustra’s. Abzug, während der Wahrsager einen Stachel zurückläßt. |
 | 5. | Sendet die Thiere aus, voll Angst. |
-| 6. | Siebente Einsamkeit: — zuletzt „Medusenhaupt“. (c. 40 Seiten) |
-| 7. | Der Heilige besiegt ihn. Krisis. Plötzlich aufspringend. (Scharfer Contrast der frommen Ergebung) |
+| 6. | **Siebente Einsamkeit: — zuletzt „Medusenhaupt“.** (c. 40 Seiten) |
+| 7. | Der Heilige besiegt ihn. Krisis. Plötzlich aufspringend. (Scharfer Contrast der frommen **Ergebung**) |
 | 8. | „An die große Natur.“ Siegeslied. |
 | 9. | Löwe und Taubenschwarm. Rückkehr der Thiere (begreift, daß alle Vorzeichen da sind). Die Botschaft. |
 | 10. | Letzter Abschied von der Höhle (das Tröstliche der ewigen Wiederkunft zeigt zum ersten Mal sein Gesicht) |
@@ -125,15 +125,15 @@ Zarathustra 4. (Plan.)
 | --- | --- | --- | --- | --- |
 | 1 |  | der Unstäte, Heimatlose, Wanderer — der sein Volk verlernt hat zu lieben, weil er viele Völker liebt, der gute Europäer. | | |
 | 2 | der düstere ehrgeizige Sohn des Volkes, scheu, einsam, zu allem bereit, der Einsamkeit wählt, um nicht Zerstörer zu sein — bietet sich als Werkzeug an | | |
-| 3 | der Verehrer der facta, „das Gehirn des Blutegels“, voll schlechten Gewissens aus Übermaaß, will sich los sein! Das feinste intellektuelle Gewissen | | |
-| 4 | der Dichter, im Grunde nach wilder Freiheit gelüstend wählt die Einsamkeit und die Strenge der Erkenntniß. | | |
-| 5 | der häßlichste Mensch, welcher sich dekoriren muß (historischer Sinn) und immer ein neues Gewand sucht: er will seinen Anblick erträglich machen und geht endlich in die Einsamkeit, um nicht gesehen zu werden — er schämt sich. | | |
-| 6 | der Erfinder neuer Rausch-Mittel, Musiker, der Bezauberer, der endlich vor einem liebevollen Herzen sich niederwirft und sagt: nicht zu mir! sondern zu jenem will ich euch führen!“ | | |
+| 3 | der Verehrer der facta, „das Gehirn des Blutegels“, voll schlechten Gewissens aus Übermaaß, will **sich** los sein! Das feinste intellektuelle Gewissen | | |
+| 4 | der Dichter, im Grunde nach wilder Freiheit gelüstend wählt die Einsamkeit und die **Strenge** der Erkenntniß. | | |
+| 5 | der häßlichste Mensch, welcher sich dekoriren muß (historischer Sinn) und immer ein neues Gewand sucht: er will seinen Anblick erträglich machen und geht endlich in die Einsamkeit, um nicht gesehen zu werden — **er schämt sich**. | | |
+| 6 | der Erfinder neuer Rausch-Mittel, Musiker, der Bezauberer, der endlich vor einem liebevollen Herzen sich niederwirft und sagt: **nicht zu mir!** sondern zu **jenem** will ich euch führen!“ | | |
 | 7 | der Reiche, der Alles weggegeben und Jeden fragt: „bei dir ist irgendein Überfluß: gieb mir davon!“ als Bettler | | |
-| 8 | Die Könige, der Herrschaft entsagend: wir suchen den, der würdiger ist zu herrschen!“ | | |
+| 8 | Die Könige, der Herrschaft entsagend: wir suchen den, der **würdiger** ist zu herrschen!“ | | |
 | 9 | das Genie (als Anfall von Wahnsinn) erfrierend aus Mangel an Liebe „ich bin kein Gedanke und auch kein Gott“ — große Zärtlichkeit „Man muß ihn mehr lieben!“ | | |
 | 10 | die Schauspieler des Glücks | | |
-| 11 | die zwei Könige, gegen die „Gleichheit“: es fehlt der große Mensch und folglich die Ehrfurcht | | |
+| 11 | die zwei Könige, gegen die „Gleichheit“: es fehlt der **große** Mensch und **folglich die Ehrfurcht** | | |
 | 12 | die Guten |  | und ihr Wahn |
 | 13 | die Frommen | „für Gott“ das ist mein |
 | 14 | die „Für sich’s“ und Heiligen | „für mich“. |
@@ -144,7 +144,7 @@ Zarathustra 4. (Plan.)
 [31[11]](javascript:;)
 ----------------------
 
-Entwurf.
+**Entwurf.**
 
 |  |  |
 | --- | --- |
@@ -166,7 +166,7 @@ Entwurf.
 |  | Von der 7 Einsamkeit. |
 |  | Der Erfrierende. |
 |  | Der Schwur. |
-|  | Der letzte Besuch der Höhle: Botschaft der Freu<n>de *Erratum:*Freude *lies:*Freu<n>de [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) . Dort schläft er. Morgens steht er auf. Der lachende Löwe.  — große Verwandlung und Verhärtung: in wenigen Worten. „Ich“ vermeiden. |
+|  | Der letzte Besuch der Höhle: Botschaft der Freu&amp;lt;n&amp;gt;de *Erratum:*Freude *lies:*Freu&amp;lt;n&amp;gt;de [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) . Dort schläft er. Morgens steht er auf. Der lachende Löwe.  — große Verwandlung und **Verhärtung**: in wenigen **Worten**. „Ich“ **vermeiden**. |
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -197,7 +197,7 @@ Das ist Krankheit und Fieber.
 [31[14]](javascript:;)
 ----------------------
 
-der lachende Löwe — „noch vor 2 Monden hätte dies zu sehn mir das Herz im Leibe
+**der lachende Löwe —** „noch vor 2 Monden hätte dies zu sehn mir das Herz im Leibe
 umgedreht
 
 [31[15]](javascript:;)
@@ -212,23 +212,23 @@ Ihr kamt gerade noch vor dem Thorschluß meines Herzens: ich vergab es euch noch
 | --- | --- |
 | 1 | Bis zur vollständigen Enthüllung des Einsiedlers. |
 | 2 | Aus der siebenten Einsamkeit. |
-| 3 | Entschluß, „Willst du das Alles noch einmal, all dies Warten usw. — “ ich will! (Geht ab schwarz in die Nacht) |
-| 4. | Am frühesten Morgen. Der lachende Löwe, die Botschaft, aber hart und streng, aber glühend. |
+| 3 | Entschluß, „Willst du das Alles noch einmal, all dies Warten usw. — “ ich **will**! (Geht ab schwarz in die Nacht) |
+| 4. | **Am frühesten Morgen**. Der lachende Löwe, die Botschaft, aber hart und streng, aber **glühend**. |
 
 [31[17]](javascript:;)
 ----------------------
 
 |  |  |
 | --- | --- |
-| Zarathustra zerbricht sein | Herz gegen seine Freunde |
+| Zarathustra **zerbricht sein** | **Herz** gegen seine Freunde |
 | gegen seine Thiere. |
 | gegen alles, was er geliebt hat |
-| ganz Wille zum Mittag. |
+| **ganz Wille zum Mittag**. |
 
-Schluß:
+**Schluß:**
 
 *Erratum:*Schluß:  
-*lies:*Schluß:  
+*lies:***Schluß:**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 Dithyrambisches Zerbrechen seines Herzens
@@ -297,35 +297,35 @@ aufzustutzen
 [31[25]](javascript:;)
 ----------------------
 
-— ein Trieb der Selbst-Zerstörung: nach Erkenntnissen greifen, die einem allen Halt und
+— ein Trieb der **Selbst-Zerstörung**: nach Erkenntnissen greifen, die einem allen Halt und
 alle Kraft rauben
 
 [31[26]](javascript:;)
 ----------------------
 
-— wenn ihr das Gesetz von Lust und Unlust über euch fühlt und kein höheres: nun, wohlan,
+— wenn ihr das Gesetz von Lust und Unlust über euch fühlt und **kein höheres**: nun, wohlan,
 so wählt euch die angenehmsten und nicht die wahrscheinlichsten Meinungen: wozu bei euch Atheismus!
 
 [31[27]](javascript:;)
 ----------------------
 
-— so wie die niederen Menschen zu Gott aufsahen, sollten wir billigerweise einmal zu meinem
-Übermenschen aufsehen. Zarathustra 6.
+— so wie die niederen Menschen zu Gott aufsahen, sollten wir billigerweise einmal **zu meinem
+Übermenschen aufsehen**. Zarathustra 6.
 
 [31[28]](javascript:;)
 ----------------------
 
-— der Gegensatz von Atheism und Theism ist nicht: „Wahrheit“ und „Unwahrheit“, sondern
-daß wir uns eine Hypothese nicht mehr gestatten, die wir Anderen recht gern noch
-gestatten (mehr noch!) Die Frömmigkeit ist die einzig erträgliche Form des gemeinen
-Menschen: wir wollen, daß das Volk religiös wird, damit wir nicht Ekel vor ihm empfinden: wie jetzt, wo
+— der Gegensatz von Atheism und Theism ist **nicht**: „Wahrheit“ und „Unwahrheit“, sondern
+daß wir uns eine Hypothese nicht mehr gestatten, **die wir Anderen recht gern noch
+gestatten** (mehr noch!) **Die Frömmigkeit ist die einzig erträgliche Form des gemeinen
+Menschen: wir wollen**, daß das Volk religiös wird, damit wir nicht Ekel vor ihm empfinden: wie jetzt, wo
 der Anblick der Massen ekelhaft ist.
 
 [31[29]](javascript:;)
 ----------------------
 
-— wir stellen uns gefährlicher hin und geben uns vielmehr dem Schmerze, dem Gefühl der
-Entbehrung hin: unser Atheismus ist ein Suchen nach Unglück, wofür die gemeine Art Mensch
+— wir stellen **uns** gefährlicher hin und geben uns vielmehr dem Schmerze, dem Gefühl der
+Entbehrung hin: unser Atheismus ist ein **Suchen** nach Unglück, wofür die gemeine Art Mensch
 gar kein Verständniß im Leibe hat.
 
 [31[30]](javascript:;)
@@ -334,9 +334,9 @@ gar kein Verständniß im Leibe hat.
 Mittag und Ewigkeit.
   
 Von  
-Friedrich Nietzsche.
+**Friedrich Nietzsche.**
   
-Erster Theil: die Versuchung Zarathustra’s.
+**Erster Theil: die Versuchung Zarathustra’s.**
 
 [31[31]](javascript:;)
 ----------------------
@@ -354,7 +354,7 @@ blendende Sonnenblitze, schadenfrohe.
 Der Wahrheit Freier du? — so höhnten sie — Nein! Nur ein Zauberer! Ein Thier, ein listiges raubendes,
 schleichendes, das lügen muß,
 
-das wissentlich willentlich lügen muß, nach Beute lüstern, bunt verlarvt, sich selber
+das wissentlich willentlich lügen **muß**, nach Beute lüstern, bunt verlarvt, sich selber
 Larve, sich selbst zur Beute
 
 *Erratum:*Brücke  
@@ -385,7 +385,7 @@ Lammsseelen und was nur blickt mit schafmäßigem krauswolligem Lämmer-Wohlwoll
 Narr! du Dichter!
 
 Der du den Menschen schautest so Gott als Schaf: den Gott zerreißend im Menschen und das Schaf im Menschen
-zerreißend lachen —
+zerreißend **lachen** —
 
 Das, Das ist deine Seligkeit! Eines Panthers und Adlers Seligkeit! Eines Zauberers und Narren Seligkeit! —
 —
@@ -405,7 +405,7 @@ krank vom Lichte — sank abwärts, abendwärts, schattenwärts,
 von Einer Wahrheit verbrannt und durstig: — gedenkst du noch, gedenkst du, heißes Herz, wie da du durstetest?
 —
 
-daß ich verbannt sei von aller Wahrheit! Nur Narr! Nur Dichter! — —
+daß ich verbannt sei von **aller** Wahrheit! Nur Narr! Nur Dichter! — —
 
 [31[32]](javascript:;)
 ----------------------
@@ -440,7 +440,7 @@ in meine Träume gespitzte Zweifel und Pfeile werfend, herz-zerstechende
 :
 allzeit bereiter Henker-Gott, wozu!
 
-Wozu mich martern? Was willst du dir erfoltern? Was willst du, daß ich rede?
+Wozu **mich** martern? Was willst du dir erfoltern? Was willst du, daß ich rede?
 
 Oder soll ich dem Hunde gleich vor dir mich wälzen, hingebend-begeistert-außer-mir dir Liebe zuwedeln?
 
@@ -456,7 +456,7 @@ ich,
 Dein stolzester Gefangner, du Räuber hinter Wolken! Sprich endlich, was willst du, Wegelagerer, von mir?
 —
 
-Du Blitz-Verhüllter, Unbekannter, sprich, du mein Gedanke: was willst du, unbekannter —
+Du Blitz-Verhüllter, Unbekannter, sprich, du mein Gedanke: was **willst** du, unbekannter —
 Gott? —
 
 Wie? Lösegeld? Was willst du Lösegelds? Verlange Viel — das räth mein Stolz. Und rede kurz — das räth mein
@@ -465,11 +465,11 @@ andrer Stolz!
 Haha! Mich willst du? Mich — mich ganz? Haha! Und marterst mich, Narr, der du bist, zermarterst meinen
 Stolz?
 
-Gieb Liebe mir — wer wärmt mich noch, wer liebt mich noch! Gieb heiße Hände, gieb
+Gieb **Liebe** mir — wer wärmt mich noch, wer liebt mich noch! Gieb heiße Hände, gieb
 Herzens-Kohlenbecken —
 
 gieb mir dem Einsamsten, den Kälte selbst nach Feinden, nach Feinden schmachten lehrt — gieb, ja ergieb,
-grausamster Feind mir — dich!
+grausamster Feind mir — **dich**!
 
 — Ha! Davon! Da floh er selber, mein letzter einziger Genoß! mein großer Feind! Mein Unbekannter! Mein
 Henker-Gott!
@@ -534,7 +534,7 @@ die Ecke, ob dort nicht schon die Verzweiflung warte?
 *lies:*gut?  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Wer — darf noch schwören? Wer bleibt noch fünf Jahr in Einem Haus und Einer Meinung?
+ Wer — **darf** noch schwören? Wer bleibt noch fünf Jahr in Einem Haus und Einer Meinung?
 
 — der Mensch ist böse: so sprechen noch
 
@@ -545,7 +545,7 @@ die Ecke, ob dort nicht schon die Verzweiflung warte?
  alle Weisesten mir zum Troste:
 ach, wenn es nur heute noch wahr ist!
 
-— weshalb kam ich doch hier auf diese Höhe! Wollte ich nicht endlich einen großen M<enschen>
+— weshalb kam ich doch hier auf diese Höhe! Wollte ich nicht endlich einen großen M&amp;lt;enschen&amp;gt;
 sehen? Und siehe da, ich finde einen vergnügten alten Mann
 
 — mürbe Gräber, welche ihre Todten nicht mehr halten können. Wehe, da wird es bald Auferstehungen
@@ -708,7 +708,7 @@ Weg hätten.
 
 — er hat sein Ziel verloren: wehe, wie wird er seinen Verlust verscherzen und verschmerzen!
 
-Bezauberer — es verräth dich, daß du nach Größe strebst: du bist nicht groß.
+**Bezauberer** — es verräth dich, daß du nach Größe strebst: du bist nicht groß.
 
 — die tiefste Liebe, welche ihren Namen nicht weiß und fragt: „bin ich nicht Haß?“
 
@@ -754,13 +754,13 @@ oft schon die Hälse, hütet euch!
  kaum die größte verziehen
 wird.
 
-— wo ich immer fürchtete, werde ich endlich noch wünschen! Man lernt es, zuletzt seinen Abgrund lieben.
+— wo ich immer fürchtete, werde ich endlich noch wünschen! Man lernt es, zuletzt seinen Abgrund **lieben**.
 
 — was mich an einem Weisen am meisten wundert, das ist, wenn er einmal klug ist.
 
 — selig und müde, gleich jedem Schöpfer am siebenten Tage
 
-Europäer — wo darf ich heimisch sein? darnach suchte ich am längsten, dies
+**Europäer** — wo darf ich heimisch sein? darnach suchte ich am längsten, dies
 Suchen
 
 *Erratum:*suchen  
@@ -777,7 +777,7 @@ Suchen
 
 — lieber noch Händel als Händler!
 
-— sie sagen von ihm: „er steigt“; aber er wird dem Balle gleich durch euch in seine Höhe gedrückt — durch eure und meine schwere Luft, daß er an euch leidet, das macht ihn steigen.
+— sie sagen von ihm: „er steigt“; aber er wird dem Balle gleich durch euch in seine Höhe **gedrückt** — durch eure und meine schwere Luft, daß er an euch leidet, das macht ihn steigen.
 
 — hier ist selber der Ehrgeiz erdrosselt; es gelüstet sie eher noch die Letzten zu sein als die Ersten.
 
@@ -822,7 +822,7 @@ keinen Wunsch finden konnte
 — liebe ich denn die Menschen? Aber sie gehören zu meinem Werke.
 
 — oh ihr Weisen, die ihr lerntet ob eurer Thorheit zu frohlocken! Oh ihr Armen, Geringen, Überflüssigen,
-deren Joch leicht ist! Em<erson> 283
+deren Joch leicht ist! Em&amp;lt;erson&amp;gt; 283
 
 — als aber der Alte so sprach, griff Zarathustra nach seiner Hand, welche zitterte und küßte sie „Weiche von
 mir, mein Versucher“, sprach er dann und lächelte — denn mitten in seinem Schmerz kam ihm eine scherzhafte
@@ -855,7 +855,7 @@ Worte.
 
 — leicht und fertig, ein flug-bereiter, ein göttlich Leicht-Fertiger
 
-— was ich euch thun muß, das könntet ihr mir nicht wieder thun: es giebt keine
+— was ich euch thun muß, das **könntet** ihr mir nicht wieder thun: es giebt keine
 Vergeltung!
 
 — die Einsamkeit reift: aber sie pflanzt nicht.
@@ -901,7 +901,7 @@ schäme mich: nach dunklen dichten Blättern begehrt die Scham meines jungen Gl�
 
 Heimatloser — wie sicher ist dem Unstäten auch ein Gefängniß! Wie ruhig schlafen eingefangene Verbrecher!
 
-Bezauberer — solche, die man mit erhabenen Gebärden überzeugt, aber mit Gründen
+**Bezauberer** — solche, die man mit erhabenen Gebärden überzeugt, aber mit Gründen
 mißtrauisch macht
 
 — erreglich an Hirn und Schamtheilen gleich Juden und Chinesen
@@ -921,10 +921,10 @@ eintreten! (spricht die Wahrheit zu dem Gewissenhaften)
 — umhergewirbelt, umhergetrieben, ihr Unstäten; auf allen Oberflächen habt ihr einmal geschlafen, als Staub
 saßet ihr auf allen Spiegeln und Fensterscheiben
 
-— er singt: da flog er wohl auch über sein Unglück weg, der f<reie> Vogel? Denn der
+— er singt: da flog er wohl auch über sein Unglück weg, der f&amp;lt;reie&amp;gt; Vogel? Denn der
 Unglückliche schweigt.
 
-— gebt mir zu rathen: mit eurem Bewei<sen> ermüdet ihr den Hunger meines Geistes.
+— gebt mir zu rathen: mit eurem Bewei&amp;lt;sen&amp;gt; ermüdet ihr den Hunger meines Geistes.
 
 — sie erfanden sich die heiligste Langeweile und die Begierde nach Mond- und Werkeltagen
 
@@ -958,12 +958,12 @@ Teufel von Gott fern, denn er ist ein Freund des schönen Scheins.
 [31[47]](javascript:;)
 ----------------------
 
-Der Bezauberer.
+**Der Bezauberer.**
 
 vor Tugenden und Entsagungen auf den Knieen, gleich dem Pöbel, sonderlich aber vor der großen Keuschheit: vor
 der betete ich und warf mich hin.
 
-Was mir fremd war, was <ich> nie kennen durfte, sprach ich heilig: meine Nase roch am liebsten
+Was mir fremd war, was &amp;lt;ich&amp;gt; nie kennen durfte, sprach ich heilig: meine Nase roch am liebsten
 das mir Unmögliche
 
 *Erratum:*die mir Unmöglichen  
@@ -1090,7 +1090,7 @@ einer Sonne
 — es gab einst Einen, der sprach: „ich bin die Wahrheit“, und nie wurde einem Unbescheidenen höflicher
 geantwortet als ihm.
 
-Dichter — mein Sinn und meine Sehnsucht geht auf Weniges und Langes: wie verachte ich
+**Dichter** — mein Sinn und meine Sehnsucht geht auf Weniges und Langes: wie verachte ich
 eure kleinen kurzen Schönheiten!
 
 — „nichts ist wahr, alles ist erlaubt“, so redet ihr? ach! also ist auch diese Rede wahr, was liegt daran,
@@ -1157,7 +1157,7 @@ selber auch.
 [31[53]](javascript:;)
 ----------------------
 
-— oh über den wunderlichen und grausamen Gott, den ihr als „die Liebe“ preist! als der
+— oh über den wunderlichen und grausamen Gott, den ihr als „die Liebe“ preist! als **der**
 Gott entstand, war wohl alle Liebe noch wenig göttlich?
 
 — kalte kühle Menschen, solche denen man ihre Thorheiten nicht glauben will
@@ -1169,18 +1169,18 @@ ist eine kranke Art.
 
 — ohne Gründe habt ihr dies einst glauben gelernt: wie könnte ich wohl durch Gründe dies euch umwerfen!
 
-— „ich liebe meinen Gott von Grund aus: wie dürfte ich wollen, daß er mich wieder liebte! Er soll nicht so thöricht sein an mich zu glauben! wie alle Liebenden thun.
+— „ich liebe meinen Gott von Grund aus: wie dürfte ich wollen, daß er mich wieder liebte! Er **soll** nicht so thöricht sein an mich zu glauben! wie alle Liebenden thun.
 
 — ihr Fieberkranken seht alle Dinge als Gespenster, und ihr Fieberlosen als leere Schatten: und doch braucht
 ihr Beide die gleichen Worte!
 
-— mein Gedächtniß sagt: „das that ich“, mein Stolz aber sagt dazu „das konnte ich nicht
+— mein Gedächtniß sagt: „das that ich“, mein Stolz aber sagt dazu „das **konnte** ich nicht
 thun“ und bleibt unerbittlich. Zuletzt — giebt das Gedächtniß nach!
 
 — er hat kalte vertrocknete Augen, vor ihm liegt jedwedes Ding entfedert nackt und farbenlos: und nun meint
 ihr, seine Ohnmacht zur Lüge sei „Liebe zur Wahrheit!“
 
-— ihr saht schlecht dem Leben zu, wenn ihr den noch nicht schautet, der mit schonenden Händen — tödtet!
+— ihr saht schlecht dem Leben zu, wenn ihr den noch nicht schautet, der mit schonenden Händen — **tödtet**!
 
 — er schüttelt sich, blickt um sich, streift mit der Hand über den Kopf — und nun heißt ihr ihn einen
 Erkennenden! Aber Freiheit vom Fieber ist noch nicht Erkenntniß.
@@ -1279,13 +1279,13 @@ Zarathustra noch?“
 [31[61]](javascript:;)
 ----------------------
 
-Gespräch mit den Königen
+**Gespräch mit den Königen**
 
 — „Ich sehe Könige vor mir: aber ich suche den höheren Menschen.“
 
 — Mit dem Schwerte dieses Wortes zerhaust du unseres Herzens Finsterniß
 
-— wir sind nicht die Ersten und müssen es bedeuten: dieser Betrügerei sind wir zuletzt
+— wir **sind** nicht die Ersten und müssen es bedeuten: dieser Betrügerei sind wir zuletzt
 satt und ekel geworden
 
 — lernt mir endlich doch: „jeglich schlimmes Ding hat zwei gute Kehrseiten“
@@ -1299,7 +1299,7 @@ satt und ekel geworden
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Gesindel erdrosselt sich der Ehrgeiz selber: hier
-gelüstet es einen mehr, den Letzten zu bedeuten als dieses Volkes Ersten.“
+gelüstet es einen mehr, den Letzten zu **bedeuten** als dieses Volkes Ersten.“
 
 — dem guten Frager ist halb schon geantwortet. —
 
@@ -1326,14 +1326,14 @@ süßliche schmeichelnde Hunde, wenn sie verehren
 
 ihre Weiber: willfährig, lüstern, vergeßlich — sie haben’s alle nicht weit zur Hure.
 
-Und wer von ihnen sagt noch ehrlich für sein Übermorgen gut? Wer — darf noch schwören
+Und wer von ihnen sagt noch ehrlich für sein Übermorgen gut? Wer — **darf** noch schwören
 und versprechen? Wer von ihnen bleibt noch fünf Jahr in Einem Hause und Einer Meinung?
 
 Menschen des guten Willens, aber unverläßlich, und nach Neuem gelüstig, diese Käfiche und engen Herzen, diese
 Rauchkammern und verdumpften Stuben — sie wollen freien Geistes sein —
 
-sie fühlen sich vom Pöbel nach Leib und Herzen und möchten das verstecken <und> gerne das
-Vornehme an- und überziehn: Erziehung nennen’s <sie> — sie treiben’s eifrig
+sie fühlen sich vom Pöbel nach Leib und Herzen und möchten das verstecken &amp;lt;und&amp;gt; gerne das
+Vornehme an- und überziehn: Erziehung nennen’s &amp;lt;sie&amp;gt; — sie treiben’s eifrig
 
 sie reden vom Glück der Meisten und opfern ihnen alle Zukünftigen
 
@@ -1349,7 +1349,7 @@ Unbestechlichen
 
 die Eintagslehrer und andre Schmeißfliegen
 
-und oft sind sie gleich jener Schamhaften, welche <man> zu dem, was sie am liebsten möchte,
+und oft sind sie gleich jener Schamhaften, welche &amp;lt;man&amp;gt; zu dem, was sie am liebsten möchte,
 noch zwingen und nothzüchtigen muß.
 
 — seines Friedens Sonne dünkte mich schwül und flau: lieber noch sitze ich im Schatten geschwungener
@@ -1360,7 +1360,7 @@ Schwerter.
 [31[62]](javascript:;)
 ----------------------
 
-Das Abendmahl.
+**Das Abendmahl.**
 
 Also sprach der König und Alle traten auf Zarathustra zu und erwiesen ihm abermals ihre Ehrfurcht;
 Zarathustra aber schüttelte das Haupt und wehrte ihnen mit der Hand.
@@ -1381,26 +1381,26 @@ Den kleinen Finger strecke ich euch schon entgegen. Wehe mir! Was werdet ihr nun
 euch reißen!“ —
 
 Also sprach Zarathustra und lachte dabei voller Bosheit und Liebe, während er mit der Hand den Hals seines
-Adlers streichelte: der nämlich stand neben ihm, gesträubt, und wie als ob er Zarathustra
+Adlers streichelte: **der** nämlich stand neben ihm, gesträubt, und wie als ob er Zarathustra
 gegen seine Besucher zu schützen hätte. Dann aber reichte er dem Könige zur Rechten die Hand, daß dieser sie
 küsse, und begann von Neuem, herzhafter noch als vorher: — — —
 
 [31[63]](javascript:;)
 ----------------------
 
-Das Abendmahl.
+**Das Abendmahl.**
 
-Das Lied des Lachenden.
+**Das Lied des Lachenden.**
 
   
 
-Die Begrüßung.
+**Die Begrüßung.**
 
-Das Abendmahl.
+**Das Abendmahl.**
 
-Die Improvisation.
+**Die Improvisation.**
 
-Die Rosenrede.
+**Die Rosenrede.**
 
 [31[64]](javascript:;)
 ----------------------
@@ -1437,7 +1437,7 @@ standen, lachte er aus ganzem Herzen, wand die Rosen zum Kranze und sprach die R
 
   
 
-Die Rosen-Rede.
+**Die Rosen-Rede.**
 
 Diese Krone des Lachenden, diese Rosenkranz-Krone: ich selber setze mir diese Krone auf, ich selber sprach
 heilig mein Gelächter. Keinen Anderen fand ich heute stark genug dazu.
@@ -1448,7 +1448,7 @@ Wie gut doch, daß ihr zu meiner Höhe
 *lies:*Höhe  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- kamt, Dies zu
+ kamt, **Dies** zu
 schaun! Wie danke ich’s eurer Sorge und Sehnsucht, welche Berge stieg und am rechten Orte anfragte: „Lebt denn
 Zarathustra noch?“
 
@@ -1476,7 +1476,7 @@ machen, ich lache zu schnell wieder nach jedem Unwetter
 Und ob ich schon in vieler Wüste war und Wüsten-Wildniß: zum Wüsten-Heiligen ward ich nicht, noch stehe ich
 nicht da starr, stumpf, steinern, eine Säule: vielmehr — ich schreite.
 
-Der Schritt verräth, ob Einer schon auf seiner Bahn schreitet. So seht mich gehen! Wer
+Der Schritt verräth, ob Einer schon auf **seiner** Bahn schreitet. So seht mich gehen! Wer
 aber seinem Ziele nahe kommt, der — tanzt!
 
 Krumm kommen alle guten Dinge ihrem Ziele nahe, gleich Katzen machen sie da Buckel, sie schnurren innewendig
@@ -1488,16 +1488,16 @@ Welches war hier auf Erden bisher
 *lies:*Erden bisher  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- die größte Sünde? Das war das Wort dessen, der sprach: „Wehe denen, die hier lachen!“
+ die größte Sünde? Das war **das Wort** dessen, der sprach: „Wehe denen, die hier lachen!“
 
 Fand er zum Lachen auf der Erde selber keine Gründe? So suchte er nur zu schlecht: ein Kind findet hier noch
 Gründe. Oh daß er sich doch selber — gefunden hätte!
 
-Der — liebte nicht genug, sonst hätte er auch uns noch geliebt, die Lachenden. Aber er
+**Der** — liebte nicht genug, sonst hätte er auch uns noch geliebt, die Lachenden. Aber er
 haßte uns und höhnte uns nur; Heulen und Zähneklappern verhieß er uns, den Lachenden!
 
 Wo man ihn nicht liebte, diesen Unbedingten, da wollte er gleich sieden und braten. Er selber liebte nicht
-genug: sonst hätte er weniger begehrt, daß man — ihn liebe.
+genug: sonst hätte er weniger begehrt, daß man — **ihn** liebe.
 
 Geht aus dem Wege allen solchen Unbedingten! Das ist eine arme kranke Art, eine Pöbel-Art. Sie sehen schlimm
 diesem Leben zu, sie haben schwere Füße und Herzen.
@@ -1545,7 +1545,7 @@ Wie ein Schrei und ein Jauchzen fliege über weite Meere, bis du die glückselig
 — grüße meine Kinder auf ihren Inseln, bringe ihnen den Gruß eines Nachbarn der Sonne, eines Nachbarn des
 Schnees, eines Nachbarn des Adlers, bringe ihnen zum Gruß die Liebe ihres Vaters!
 
-Meine Kinder, meine Wohl-Geborenen, meine neue schöne Art: was zögern meine Kinder auf
+Meine Kinder, meine Wohl-Geborenen, meine neue schöne Art: was **zögern** meine Kinder auf
 ihren Inseln?
 
 Ward es nicht Zeit und höchste Zeit — so blase ihnen ins Ohr, du guter Sturmgeist — daß sie endlich zu ihrem
@@ -1584,11 +1584,11 @@ Thiere blieben stumm — —
 [31[65]](javascript:;)
 ----------------------
 
-Das Lied des Zauberers.
+**Das Lied des Zauberers.**
 
-Von der Wissenschaft.
+**Von der Wissenschaft.**
 
-Die Rosenrede.
+**Die Rosenrede.**
 
 [31[66]](javascript:;)
 ----------------------
@@ -1617,7 +1617,7 @@ Solches geschieht zwischen Heut und Morgen: wie das aber kam und kommen mußte �
 [31[69]](javascript:;)
 ----------------------
 
-ich will d<eutsch> und deutlich mit euch reden
+ich will d&amp;lt;eutsch&amp;gt; und deutlich mit euch reden
 
 Bis jetzt weiß ich wenig mit euch anzufangen — Das Beste ist noch, daß wir mit einander schmausen.
 
@@ -1638,4 +1638,6 @@ der Papst außer Dienst
 
 der Wanderer
 
-der Mittags<schläfer>
+der Mittags&amp;lt;schläfer&amp;gt;
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

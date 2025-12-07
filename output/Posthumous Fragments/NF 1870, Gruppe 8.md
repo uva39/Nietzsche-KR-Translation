@@ -31,14 +31,14 @@ Ehrfurcht. Strenge Sitte.
 [8[2]](javascript:;)
 --------------------
 
-Woher der Genuß am Widerspruch, im Wesen des Tragischen?
+Woher der Genuß am **Widerspruch**, im Wesen des Tragischen?
 
 Der Widerspruch als das Wesen der Dinge spiegelt sich in der tragischen Handlung wieder. Er erzeugt aus sich
-eine metaphysische Illusion, auf die es bei der Tragödie abgesehen ist.
+eine **metaphysische Illusion**, auf die es bei der Tragödie abgesehen ist.
 
 Der Held siegt, indem er untergeht.
 
-Die Vernichtung des Individuums als Einblick in die Vernichtung der Individuation, höchste Lustspiegelung.
+Die Vernichtung des Individuums als Einblick in die **Vernichtung** der **Individuation**, höchste Lustspiegelung.
 
 Der Kampf des Individuums
 
@@ -68,7 +68,7 @@ Die metaphysische Illusion des Aeschylus.
 
 Die des Sophocles.
 
-Die Tragödie als auf Welt-Genius gerichtet — Mysterium.
+Die Tragödie als auf **Welt**-Genius gerichtet — Mysterium.
 
 Die Mysterien — der Heilige.
 
@@ -90,7 +90,7 @@ Das Drama — episch.
 
 Homer. Der apollinische Genius. Warum der kurzlebende Achilles doch noch epischer Held sein kann?
 
-Musik. Die orgiastische Musik bei Aristoteles. Ohne alle staatlichen Beziehungen ist der
+Musik. Die orgiastische Musik bei Aristoteles. **Ohne** alle staatlichen Beziehungen ist der
 dionysische Genius. An „Beethoven“ zu erinnern.
 
 [8[5]](javascript:;)
@@ -119,7 +119,7 @@ Aulet, orgiastische Weisen
 [8[6]](javascript:;)
 --------------------
 
-Der apollinische Einzelne.
+**Der apollinische Einzelne.**
 
 Gesellschaft.
 
@@ -129,16 +129,16 @@ Weib.
 
 Pythia.
 
-Der dionysische Einzelne.
+**Der dionysische Einzelne.**
 
 Mysterien.
 
-Der Doppelgenius.
+**Der Doppelgenius.**
 
 [8[7]](javascript:;)
 --------------------
 
-Das Subjektive zu erklären. Archilochus, „die Lyrik“, „die musikalische Stimmung“ (Schiller) als Geburtsstätte, die sich jetzt in Bildern ausspricht. Die dionysische Manie
+Das Subjektive zu erklären. Archilochus, „die Lyrik“, „die **musikalische Stimmung**“ **(Schiller)** als Geburtsstätte, die sich jetzt in Bildern ausspricht. Die dionysische Manie
 erscheint mit einem analogen Gleichniß: Liebe zu den Töchtern, mit Schmähung und Verachtung gemischt. Das
 „Volkslied“ dionysisch. Nicht rasende Leidenschaft macht hier den Lyriker, sondern ungeheuer starker
 dionysischer Wille, der in einem apollinischen Traum sich äußert. Es ist Dionysus, der, eingehend in die
@@ -152,10 +152,10 @@ der
 *lies:*der   
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Plastiker
+**Plastiker**
 
-*Erratum:*Plastikers  
-*lies:*Plastiker  
+*Erratum:***Plastikers**  
+*lies:***Plastiker**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 ,
@@ -167,7 +167,7 @@ das er rein überliefern will, und nur
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  dazu regt er Gefühle und Stimmungen
-an, d.h. der Träumende ist selbst am Traum nur so weit betheiligt, als er den anzuschauenden Dingen nahe stehen muß und sie verstehen muß.
+an, d.h. der Träumende ist selbst am Traum nur so weit betheiligt, als er den anzuschauenden Dingen **nahe** stehen muß und sie verstehen muß.
 
 Der Dithyrambus — als der lyrische Chor, der die Leiden der Individuation im Bilde sieht: welches Bild
 endlich auch dargestellt wird. Der dramatische Vorgang ist nur als Vision gedacht. Die Musik, Tanz, Lyrik ist
@@ -175,14 +175,14 @@ die dionysische Symbolik, aus der die Vision geboren wird. Erregung des Gefühls
 Bilder: zwischen denen jetzt eine natürliche Verwandtschaft sein wird.
 
 Wenn nun der erzeugende Untergrund fehlt, sondern rein die Bilder erschaffen werden sollen, das Drama — so
-ist nichts anderes möglich, als das Epos zu dramatisiren. Das dramatisirte Epos —
+ist nichts anderes möglich, als das **Epos** zu dramatisiren. Das dramatisirte Epos —
 Shakespeare — der dramatisirte Traum endet mit dem gestärkten Gefühle des Erwachens. Schauspiel.
 
 Musikuntergrund rein apollinisch: Wirkung als Bild.
 
 *Erratum:*
 
-Wenn nun der erzeugende Untergrund fehlt, sondern rein die Bilder erschaffen werden sollen, das Drama — so ist nichts anderes möglich, als das Epos zu dramatisiren. Das dramatisirte Epos — Shakespeare — Musikuntergrund. Der dramatisirte Traum endet mit dem gestärkten Gefühle des Erwachens. Schauspiel.
+Wenn nun der erzeugende Untergrund fehlt, sondern rein die Bilder erschaffen werden sollen, das Drama — so ist nichts anderes möglich, als das **Epos** zu dramatisiren. Das dramatisirte Epos — Shakespeare — Musikuntergrund. Der dramatisirte Traum endet mit dem gestärkten Gefühle des Erwachens. Schauspiel.
 
 Rein apollinisch: Wirkung als Bild.
 
@@ -190,7 +190,7 @@ Rein apollinisch: Wirkung als Bild.
 *lies:*
 
 Wenn nun der erzeugende Untergrund fehlt, sondern rein die Bilder erschaffen werden sollen, das Drama — so
-ist nichts anderes möglich, als das Epos zu dramatisiren. Das dramatisirte Epos —
+ist nichts anderes möglich, als das **Epos** zu dramatisiren. Das dramatisirte Epos —
 Shakespeare — der dramatisirte Traum endet mit dem gestärkten Gefühle des Erwachens. Schauspiel.
 
 Musikuntergrund rein apollinisch: Wirkung als Bild.
@@ -198,24 +198,24 @@ Musikuntergrund rein apollinisch: Wirkung als Bild.
   
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Die eigentlich dramatische Erschütterung der jetzigen Stücke ist gar nicht künstlerischer
-Natur, ebensowenig wie Furcht und Mitleid, gänzlich unkünstlerisch.
+Die eigentlich dramatische Erschütterung der jetzigen Stücke ist gar **nicht künstlerischer
+Natur**, ebensowenig wie **Furcht und Mitleid**, gänzlich unkünstlerisch.
 
 Das Interesse an der neueren Komödie.
 
-Versuch des Euripides, das Drama ganz apollinisch zu machen, als dramatisirtes Epos, mit
-der Ethik des Epos: zugleich aber unkünstlerische Wirkungen: Dialektik, Furcht und
-Mitleid, der pathologische Traum, auf dem Betrug beruhend:
+Versuch des Euripides, das Drama ganz apollinisch zu machen, als **dramatisirtes Epos**, mit
+der Ethik des Epos: zugleich aber **unkünstlerische** Wirkungen: Dialektik, Furcht und
+Mitleid, **der pathologische Traum**, auf dem Betrug beruhend:
 
-die neuere Komödie nicht Bild, sondern Wirklichkeit und zwar weder apollinisch noch
-dionysisch, sondern der wahre Mensch: Neugierde, Wollust, Witz, etc.
+**die neuere Komödie** nicht Bild, sondern Wirklichkeit und zwar weder apollinisch noch
+dionysisch, sondern der **wahre Mensch**: Neugierde, Wollust, Witz, etc.
 
 [8[8]](javascript:;)
 --------------------
 
 Umarbeitung des Abschnittes Staat Weib Mysterien.
 
-Der apollinische <Künstler>.
+Der apollinische &amp;lt;Künstler&amp;gt;.
 
 Der dionysische Künstler.
 
@@ -230,7 +230,7 @@ Apollinisch: der Einzelne, die sieben Weisen: der apollinische Staat.
 
 Dionysisch: die Mysterien. Olympus.
 
-Punkt der Vereinigung: Archilochos: der dionysisch-apollinische Künstler. Erhaben und
+**Punkt der Vereinigung:** Archilochos: der dionysisch-apollinische Künstler. Erhaben und
 Lächerlich.
 
 Dieser beiden höchste Erscheinungsform
@@ -247,12 +247,12 @@ Dieser beiden höchste Erscheinungsform
 
  (apollinische Einzelne) und die Mysterien.
 
-Das Drama zuerst als eine Vision des Chors. Nachtwandler.
+Das Drama zuerst als eine **Vision** des **Chors**. Nachtwandler.
 
 [8[10]](javascript:;)
 ---------------------
 
-Einleitung.
+**Einleitung.**
 
   
 
@@ -274,25 +274,25 @@ Die Philosophie.
 [8[12]](javascript:;)
 ---------------------
 
-Die homerische Heiterkeit.
+**Die homerische Heiterkeit.**
 
   
 
 |  |  |
 | --- | --- |
-| 1. | Bei Hesiod zwei Weltalter identisch — <das> eiserne und heroische. Wie war die eine Vorstellung in die andre zu übertragen? Widerspiel von Titanen und olympischen Göttern, allmählich geschieden und die eine Partei überwunden. Homer als der olympisch-heroische Dichter mit vollster Heiterkeit. |
-| 2. | Volle Lust der Vorstellung gegenüber dem Schwächegefühl des gegenwärtigen Menschen. Die Traumeslust, die auch das Schreckliche nicht scheut. Homer als Apollo, der Zürnende und Heitere. Schönstes Tageslicht zwischen den Individuen. |
+| 1. | Bei Hesiod zwei Weltalter identisch — &amp;lt;das&amp;gt; eiserne und heroische. Wie war die eine Vorstellung in die andre zu übertragen? Widerspiel von Titanen und olympischen Göttern, allmählich geschieden und die eine Partei überwunden. Homer als der olympisch-heroische Dichter mit vollster Heiterkeit. |
+| 2. | Volle Lust der **Vorstellung** gegenüber dem Schwächegefühl des gegenwärtigen Menschen. Die **Traumes**lust, die auch das Schreckliche nicht scheut. Homer als Apollo, der Zürnende und Heitere. Schönstes Tageslicht zwischen den Individuen. |
 
 [8[13]](javascript:;)
 ---------------------
 
-Kunst und Wissenschaft.
+**Kunst und Wissenschaft.**
 
   
 
 |  |  |
 | --- | --- |
-| 1. | Künstlerisch-mystischer defectus in Sokrates — dabei jene Forderung des Traums, dabei jene künstlerische Heiterkeit. Alle Kunst geht an ihm zu Grunde und doch ist er nicht wie Euripides ein Melancholiker. Worin liegt jener magische Heiterkeitszauber, den die Systeme der Philosophen, Stoiker und Epikureer durch Begriffe zu erreichen suchten? Platonisches Symposion, Ironie. Häßlichkeit. Kein Rausch der Abstinenz. |
+| 1. | Künstlerisch-mystischer defectus in Sokrates — dabei jene Forderung des Traums, dabei jene künstlerische Heiterkeit. Alle Kunst geht an ihm zu Grunde und doch ist er nicht wie Euripides ein Melancholiker. Worin liegt jener **magische Heiterkeitszauber**, den die Systeme der Philosophen, Stoiker und Epikureer durch Begriffe zu erreichen suchten? Platonisches Symposion, Ironie. Häßlichkeit. Kein Rausch der Abstinenz. |
 | 2. | Seine künstlerische Heiterkeit entladet sich in der Maieutik bei edlen Jünglingen. Plato ist ein sokratisches Kunstwerk (wie der Künstler als ein Fremder seinem Werke gegenüber steht). |
 | 3. | Der Glaube an die Weltcorrektur des Wissens: Wahnvorstellung der Wissenschaft. Gegensatz Lessing: die Wahrheitstendenz. |
 | 4. | Die Logik als künstlerische Anlage, sie beißt sich in den Schwanz und läßt die Welt des Mythus offen. Mechanismus, wie Wissenschaft in Kunst umschlägt — 1. an den Grenzen der Erkenntniß, 2. aus der Logik heraus. |
@@ -307,7 +307,7 @@ Kunst und Wissenschaft.
 [8[14]](javascript:;)
 ---------------------
 
-Socrates und die Tragoedie.
+**Socrates und die Tragoedie.**
 
   
 
@@ -320,7 +320,7 @@ wiederkehrenden Weisung der Traumerscheinung „Sokrates treibe Musik“ — —
 ---------------------
 
 Im Hinblick auf jene geheimnißvolle und stets wiederkehrende Weisung der Traumerscheinung „Sokrates treibe
-Musik“ können wir der Frage nicht ausweichen, ob wir uns überhaupt einen musiktreibenden d.h. künstlerisch produktiven Sokrates denken dürfen: wobei es wiederum zweifelhaft sein könnte, ob wir
+Musik“ können wir der Frage nicht ausweichen, ob wir uns überhaupt einen musiktreibenden d.h. **künstlerisch produktiven Sokrates** denken dürfen: wobei es wiederum zweifelhaft sein könnte, ob wir
 diesen uns nach dem Typus des Euripides oder des Plato vorzustellen hätten; wenn nicht gar damit ein durchaus
 eigenartiger Typus gemeint ist, der, in einer neuen Verschmelzung des Apollinischen und des Dionysischen, auch
 eine ganze
@@ -397,7 +397,7 @@ gespenstische Schlafzimmer gesehen und über dem leeren Bettchen des Kindes nied
 
 Weiterbildung der Symphonie
 
-*Erratum:*der Symphonie  
+*Erratum:***der Symphonie**  
 *lies:*der Symphonie  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -406,7 +406,7 @@ Weiterbildung der Symphonie
 [8[18]](javascript:;)
 ---------------------
 
-Die Musiker benutzen die Lyrik, um ihre erhabensten rein musikalischen Intentionen zum
+Die Musiker **benutzen** die Lyrik, um ihre erhabensten rein musikalischen Intentionen zum
 Verständniß zu bringen.
 
 [8[19]](javascript:;)
@@ -442,7 +442,7 @@ Untergang durch den Sokratism
 , sokratisch-optimistische Kultur. Die
 Oper.
 
-Gegensatz. Das Kunstwerk. Der Zuhörer. Die Kulturhoffn<ungen>.
+Gegensatz. Das Kunstwerk. Der Zuhörer. Die Kulturhoffn&amp;lt;ungen&amp;gt;.
 
 Entartung der Kunst durch die Oper.
 
@@ -482,9 +482,9 @@ erwähnen.
 ---------------------
 
 Das Vorbildliche an Winckelmann. So ringt sich der deutsche Geist zum Griechischen durch, cf. Goethe, p. 12.
-Sonderbare Erschwerung durch Alles, was von römischer Seite ihm geschehen ist. Anderseits
+Sonderbare **Erschwerung** durch Alles, was von römischer Seite ihm geschehen ist. Anderseits
 war das germanische Wesen bemüht, durch diese Vermittlung hindurch zu den Griechen zu kommen: in gewissem Sinn
-hat selbst das deutsche Wesen etwas Paralleles erlebt, wie jenen Übertritt W<inckelmann>’s zur
+hat selbst das deutsche Wesen etwas Paralleles erlebt, wie jenen Übertritt W&amp;lt;inckelmann&amp;gt;’s zur
 katholischen Kirche, um sich zu seiner eigentlichen Bildungsheimat durchzudrängen.
 
 Und so gewiß auch unsere Perserkriege eben erst begonnen haben, so bestimmt empfinden wir, daß wir im
@@ -495,11 +495,11 @@ Zeitalter der Tragödie leben.
 
 |  |  |  |
 | --- | --- | --- |
-|  |  | Seminar. |
-| 1. | Encyclopädie. Quint<ilian> | Hesiod. |
+|  |  | **Seminar.** |
+| 1. | Encyclopädie. Quint&amp;lt;ilian&amp;gt; | Hesiod. |
 | 2. | Griechische Lyrik. Laertius | Hesiod. |
 | 3. | Lateinische Grammatik.  Homerische Frage. | Lyrik. |
-| 4. | Choephoren. Cic<ero>  Academica. | Lyrik. |
+| 4. | Choephoren. Cic&amp;lt;ero&amp;gt;  Academica. | Lyrik. |
 | 5. | Metrik. *Erratum:*Metrik *lies:*Metrik. [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) | Choephoren. |
 | 6. | Geschichte des Dramas. *Erratum:*Dramas *lies:*Dramas. [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) | Choephoren. |
 | 7. | Hesiod. |  |
@@ -509,11 +509,11 @@ Zeitalter der Tragödie leben.
 
 |  |  |
 | --- | --- |
-| Homer und Hesiod.  Zur Rhythmik.   Wintersemester  Lyrik  Geschichte des Dramas.  Sommersemester  Lateinische Grammatik.  Wintersemester  Metrik Choephoren.  Sommersemester  Hesiod. | |
-| Semester I.  Metrik.  Das Drama. | Seminar: — — — |
-| Semester II.  Griechische Lyrik.  Encyclopädie. | Seminar: — — — |
-| Semester III.  Lateinische Grammatik.  Choephoren. | Seminar: — — — |
-| Semester IV.  Griechische Cultur.  Hesiod, Erga. | Seminar: — — — |
+| Homer und Hesiod.  Zur Rhythmik.   **Wintersemester**  Lyrik  Geschichte des Dramas.  **Sommersemester**  Lateinische Grammatik.  **Wintersemester**  Metrik Choephoren.  **Sommersemester**  Hesiod. | |
+| **Semester I.**  Metrik.  Das Drama. | Seminar: — — — |
+| **Semester II.**  Griechische Lyrik.  Encyclopädie. | Seminar: — — — |
+| **Semester III.**  Lateinische Grammatik.  Choephoren. | Seminar: — — — |
+| **Semester IV.**  Griechische Cultur.  Hesiod, Erga. | Seminar: — — — |
 
 [8[26]](javascript:;)
 ---------------------
@@ -525,21 +525,21 @@ Zeitalter der Tragödie leben.
 
   
 
-2. Griechische Lyrik.
+**2. Griechische Lyrik.**
 
-3. Aeschylus, Choephoren.
+**3. Aeschylus, Choephoren.**
 
-1. Das Drama.
+**1. Das Drama.**
 
-1. Metrik.
+**1. Metrik.**
 
-4. Hesiod, Erga.
+**4. Hesiod, Erga.**
 
-2. Encyclopädie.
+**2. Encyclopädie.**
 
-3. Lateinische Grammatik.
+**3. Lateinische Grammatik.**
 
-4. Griechische Cultur.
+**4. Griechische Cultur.**
 
 [8[27]](javascript:;)
 ---------------------
@@ -552,7 +552,7 @@ erzwingt
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 , der ohne ihn überhaupt nicht zu Stande kommen würde: so liegt
-jetzt die Frage nahe, wie der Staat sich zur Gesellschaft zu verhalten pflege, nachdem
+jetzt die Frage nahe, wie der Staat sich zur Gesellschaft zu verhalten pflege, **nachdem**
 diese ihre chemische Scheidung vollzogen hat und jetzt, pyramidenförmig aufgebaut, ihre höchsten Absichten zu
 erreichen trachtet. Hier ist es seine Aufgabe — — —
 
@@ -574,13 +574,13 @@ Bild in
 *lies:*Bild in  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- der menschlichen Sprache, so liegt die
-Möglichkeit des gegenseitigen Verstehens durchaus in der instinktiv verständlichen
-Willensmagie des Tones und der Rhythmik der Tonfolge: das Bild wird erst begriffen,
+ der menschlichen **Sprache**, so liegt die
+Möglichkeit des gegenseitigen **Verstehens** durchaus in der instinktiv verständlichen
+Willensmagie des **Tones** und der Rhythmik der Tonfolge: das Bild wird erst begriffen,
 nachdem durch den Ton bereits Einverständniß erzeugt ist. Das Bild ist auch hier nur Gleichniß der
 dionysischen Natur des Tons.
 
-Das Recitativ, der erste Keim der Oper, ist in seinem Ursprunge verstanden worden als
+Das **Recitativ**, der erste Keim der Oper, ist in seinem Ursprunge verstanden worden als
 die Wiederherstellung der Ursprache der Menschheit: mit ihm flüchtete man sich, in idyllischer Regung, aus der
 Unnatur neuer Musik in ein erträumtes Paradies naiver Wesen, denen man wiederum nur die harmloseste
 Einfachheit musikalischer Wendungen und Kadenzen zuzutrauen wagte. Dabei konnte man aber einmal nicht
@@ -599,7 +599,7 @@ unerträglichen Musik ein schwärmerisches Behagen empfand, mag man nur
 *lies:*nur  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-dreist mit der Bewunderung vergleichen, die unsere Altvordern für Ossian, oder für Geßner beseelte. Die Arie galt als die Lyrik der Urzeit und wurde als solche bewundert. So sehen wir im
+dreist mit der Bewunderung vergleichen, die unsere Altvordern für Ossian, oder für Geßner beseelte. Die **Arie** galt als die Lyrik der Urzeit und wurde als solche bewundert. So sehen wir im
 Grunde der
 
 *Erratum:*Grunde die  
@@ -623,9 +623,9 @@ Empfindungen, die gänzlich abseits liegen von der Wirkung der Musik und der Poe
 haben, ähnlich wie die, welche die Renaissance hervorbrachten. Diese „moralischen“ Empfindungen haben von vorn
 herein die Oper in das Gebiet der schlechten Musik und der schlechten Poesie gebracht: künstliche Naivetät:
 von Anfang an das Werk geistreicher Dilettanten. Als nun diese moralischen Empfindungen nachließen, konnte man
-nach zwei Seiten hin die Oper entwickeln, einmal zur guten Musik, andrerseits zum
-wirksamen Mimus. Aus letzterem ist die dramatische Musik entstanden. Bei der guten Musik
-ist das Verhältniß zur Poesie rein illusorisch. Bei dem Mimus ist die Musik zur Unmusik
+nach zwei Seiten hin die Oper entwickeln, einmal zur **guten Musik**, andrerseits zum
+wirksamen **Mimus**. Aus letzterem ist die dramatische Musik entstanden. Bei der guten Musik
+ist das Verhältniß zur Poesie rein illusorisch. Bei dem **Mimus** ist die Musik zur Unmusik
 geworden. Mozart verlangt, daß die Poesie „der Musik gehorsame Tochter sei“.
 
 [8[30]](javascript:;)
@@ -749,7 +749,7 @@ Priester des Pan.
 
 |  |  |
 | --- | --- |
-| I. | Morgengrauen. <1.> Pausanias trägt einen Kranz zu Corinna. Der Wächter erzählt seine Erscheinungen (Aetna). 2. Eine Gruppe Landleute kommen: das über Empedokles phantasierende Mädchen, plötzlich todt. 3. Corinna sieht den entsetzten Pausanias. Besänftigungsscene. Sie wiederholen ihre Rollen: bei dem Hauptsatze schweigt Pausanias finster und kann sich nicht erinnern. 4. Ein klagender Aufzug, lyrisch. 5. Volksscene, die Furcht vor der Pest. 6. Der Rhapsode. 7. Empedokles, mit Opferpfannen, Pausanias in Entsetzen vor seinen Füßen. Es wird ganz hell. Corinna gegen Empedocles. |
+| I. | Morgengrauen. &amp;lt;1.&amp;gt; Pausanias trägt einen Kranz zu Corinna. Der Wächter erzählt seine Erscheinungen (Aetna). 2. Eine Gruppe Landleute kommen: das über Empedokles phantasierende Mädchen, plötzlich todt. 3. Corinna sieht den entsetzten Pausanias. Besänftigungsscene. Sie wiederholen ihre Rollen: bei dem Hauptsatze schweigt Pausanias finster und kann sich nicht erinnern. 4. Ein klagender Aufzug, lyrisch. 5. Volksscene, die Furcht vor der Pest. 6. Der Rhapsode. 7. Empedokles, mit Opferpfannen, Pausanias in Entsetzen vor seinen Füßen. Es wird ganz hell. Corinna gegen Empedocles. |
 | II. | Im Rath. Empedokles verhüllt vor einem Altar. Die Rathsherrn kommen einzeln, heiter und jedesmal über den Verhüllten erschreckt. „Die Pest ist unter euch! Seid Griechen!“ Furcht und Mitleid verboten. Lächerliche Rathsscene. Aufregung des Volks. Der Saal wird gestürmt. Die Königskrone angeboten. Empedokles ordnet die Tragödie an und vertröstet auf den Aetna und *Erratum:*Aetna, *lies:*Aetna und [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  wird verehrt. Vorstellung der Tragödie: Corinna’s Schauder. |
 | III. | Der Chor. Pausanias und Corinna. Theseus und Ariadne. Empedokles und Corinna auf der Bühne. Todestaumel des Volks bei der Verkündung *Erratum:*Verkündigung *lies:*Verkündung [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  der Wiedergeburt. Er wird als Gott Dionysus verehrt, während er wieder anfängt mitzuleiden. Der Schauspieler Dionysus lächerlich in Corinna verliebt. Die zwei Mörder, die die Leiche fortschaffen. Böse Vernichtungslust des Empedocles räthselhaft kundgegeben. |
 | IV. | Proclamation des Empedocles über das Abendfest. Taumel des Volks, das sicher durch das Erscheinen des Gottes ist. Greise Mutter und Korinna. Höchste Beruhigung. Im Haus der Corinna. Empedokles kommt finster zurück. |
@@ -775,14 +775,14 @@ Priester des Pan.
 [8[39]](javascript:;)
 ---------------------
 
-Encyclopädie nebst Einleitung in das Studium derselben.
+**Encyclopädie nebst Einleitung in das Studium derselben.**
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Woche | 1 | und | 2. |  | Ursprung und Geschichte der Philologie. Bernhardy, Römer und Griechen. Jahn, Gräfenhan. Allmähliche Entdeckung. |
+| Woche | 1 | und | 2. |  | Ursprung und Geschichte der Philologie. **Bernhardy**, Römer und Griechen. **Jahn**, Gräfenhan. Allmähliche Entdeckung. |
 | Woche | 3 | und | 4. |  | Der Lehrerberuf und die Reform des Gymnasiums. |
 | Woche | 5 | und | 6. |  | Das Universitätsstudium. |
-| Woche | 7 | und | 8. |  | Das klassische Alterthum (gegen Wolf, Winckelmann, Goethe). |
+| Woche | 7 | und | 8. |  | Das **klassische** Alterthum (gegen Wolf, Winckelmann, Goethe). |
 | Woche | 9 | und | 10. |  | Sprachphilologie. |
 | Woche | 11 | und | 12. |  | Kritik und Hermeneutik. |
 | Woche | 13 | und | 14. |  | Staat und Gesellschaft. |
@@ -792,7 +792,7 @@ Encyclopädie nebst Einleitung in das Studium derselben.
 [8[40]](javascript:;)
 ---------------------
 
-Geschichte der griechischen Poesie. Wintercolleg.
+**Geschichte der griechischen Poesie.** Wintercolleg.
 
 1. Lyrik.
 
@@ -811,14 +811,14 @@ Geschichte der griechischen Poesie. Wintercolleg.
 
 |  |
 | --- |
-| Die Sprache, eine Summe von Begriffen.  Der Begriff, im ersten Moment der Entstehung, ein künstlerisches Phänomen: das Symbolisiren einer ganzen Fülle von Erscheinungen, ursprünglich ein Bild, eine Hieroglyphe. Also ein Bild an Stelle eines Dings.  Diese apollinischen Spiegelungen des dionysischen Grundes.  So beginnt der Mensch mit diesen Bilderprojektionen und Symbolen. Alle künstlerischen Bilder sind nur Symbole, beim Gemälde die Fläche, beim Marmor die Starrheit, beim Epos — — —  Die Traumbilder als Symbole? Die Handlungen sind symbolisch im Traum. Die Lust am Symbole?  Unsere ganze Erscheinungswelt ist ein Symbol des Triebes. Also auch der Traum.  Wie verhält sich der Begriff zur Erscheinungswelt? Er ist der Typus vieler Erscheinungen. Das Erkennungszeichen des gleichen Triebes.  Wenn der Intellekt reiner *Erratum:*rein *lies:*reiner [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Spiegel wäre? Aber die Begriffe sind mehr |
+| Die Sprache, eine Summe von Begriffen.  Der **Begriff**, im ersten Moment der Entstehung, ein künstlerisches Phänomen: das Symbolisiren einer ganzen Fülle von Erscheinungen, ursprünglich ein Bild, eine Hieroglyphe. Also ein **Bild** an Stelle eines Dings.  Diese apollinischen Spiegelungen des dionysischen Grundes.  So beginnt der Mensch mit diesen **Bilderprojektionen** und **Symbolen**. Alle künstlerischen Bilder sind nur **Symbole**, beim Gemälde die Fläche, beim Marmor die Starrheit, beim Epos — — —  Die Traumbilder als Symbole? Die Handlungen sind symbolisch im Traum. Die **Lust** am Symbole?  Unsere ganze Erscheinungswelt ist ein **Symbol des Triebes**. Also auch der Traum.  Wie verhält sich der Begriff zur Erscheinungswelt? Er ist der Typus vieler Erscheinungen. Das Erkennungszeichen des gleichen Triebes.  Wenn der Intellekt reiner *Erratum:*rein *lies:*reiner [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Spiegel wäre? Aber die Begriffe sind mehr |
 
 [8[42]](javascript:;)
 ---------------------
 
 |  |  |
 | --- | --- |
-| Die Stellung des Künstlers | zum Staate, zum Kultus, zur Gesellschaft, zum Weibe, zum Mysterium, zur Erziehung. |
+| Die Stellung des **Künstlers** | zum Staate, zum Kultus, zur Gesellschaft, zum Weibe, zum Mysterium, zur Erziehung. |
 
 [8[43]](javascript:;)
 ---------------------
@@ -858,9 +858,9 @@ Roman — das desperate Studententhum.
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Die Tragödie — der Chor, der eine Vision sieht als Verzückter, die sich ganz apollinisch vor ihm ausbreitet.  Der Dithyramb — der Chor, der selbst verwandelt ist, der nicht das Drama sieht, sondern es darstellt: lauter Improvisatoren der Verzückung.  Tragödie — der Chor erzählt von seinen Visionen, die als lebende Bilder dargestellt werden.  Dithyramb — der Chor ist in seine Visionen verwandelt.  Komischer und tragischer Dithyramb.  Weltbestand 3 und 1 Weltbrand | | | | | |
+| Die Tragödie — der Chor, der eine Vision sieht als Verzückter, die sich ganz apollinisch vor ihm ausbreitet.  Der Dithyramb — der Chor, der selbst verwandelt ist, der nicht das Drama sieht, sondern es darstellt: lauter Improvisatoren der Verzückung.  Tragödie — der Chor **erzählt** von seinen Visionen, die als lebende Bilder dargestellt werden.  Dithyramb — der Chor ist in seine Visionen verwandelt.  Komischer und tragischer Dithyramb.  Weltbestand 3 und 1 Weltbrand | | | | | |
 | Apollo | Dionysus. |  |  |  |  |
-| Apollo als Weltbestand — der ewige Gott, der im Weltbrande alles gleich macht.  Dionysus als Weltverwandlung.  Apollo der ewige Gott des Weltbestandes.  Dionysus der der Veränderung und Verwandlung.  Die „lyrische“ Tragödie: der mimische Dithyramb.  Übergang zur Übermacht der Musik: Zeugniß des Pratinas: der Gesang wird übertönt. Das Orchester.  Die Dithyrambendichter als die höchsten Befreier der Musik, p. 207. Plato sagt, die Dichter seiner Zeit hätten Threnen, Hymnen und Päanen dem Dithyramb beigemischt: er beklagt sich über das Theaterpublikum.  Ungeheures Geschrei über Mischung von Rhythm *Erratum:*Rhythmus *lies:*Rhythm [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  und Harmonie, Kühnheit der Sprache.  Entartung der Musik, p. 208.  Bis Melanippides herrscht die Dichtung, jetzt die Musik.  Merkwürdig: die bezeugte Einfachheit der Sprache bei heftigster Bewegung.  Die Entstehung des dionysischen Mythus. | | | | | |
+| Apollo als Weltbestand — der ewige Gott, der im Weltbrande alles gleich macht.  Dionysus als Weltverwandlung.  Apollo der ewige Gott des Weltbestandes.  Dionysus der der Veränderung und Verwandlung.  Die „lyrische“ Tragödie: der mimische Dithyramb.  Übergang zur Übermacht der Musik: Zeugniß des Pratinas: der Gesang wird übertönt. Das Orchester.  Die Dithyrambendichter als die höchsten Befreier der Musik, p. 207. Plato sagt, die Dichter seiner Zeit hätten Threnen, Hymnen und Päanen dem Dithyramb beigemischt: er beklagt sich über das Theaterpublikum.  Ungeheures Geschrei über Mischung von Rhythm *Erratum:*Rhythmus *lies:*Rhythm [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  und Harmonie, Kühnheit der Sprache.  Entartung der Musik, p. 208.  Bis Melanippides herrscht die Dichtung, jetzt die Musik.  Merkwürdig: die bezeugte Einfachheit der **Sprache** bei heftigster Bewegung.  Die Entstehung des dionysischen **Mythus**. | | | | | |
 
 [8[47]](javascript:;)
 ---------------------
@@ -883,7 +883,7 @@ Der Mythus — durch die tiefere Philosophie vorbereitet.
 | --- | --- | --- |
 |  | | |
 | Abwerfung der unheimischen Formen: | | die Oper,  das Epos,  das Drama (kein Kunstwerk).  Die französische Civilisation. |
-| Das Schillersche Pa- thos.  Goethes Sprachverwir- rung. | |  | | --- | |  | |  | |  | |  | |  | | Mangel an Musik: zu vergleichen mit Aeschylus Dialog. |
+| Das Schillersche **Pa- thos**.  Goethes **Sprach**verwir- rung. | |  | | --- | |  | |  | |  | |  | |  | | Mangel an Musik: zu vergleichen mit Aeschylus Dialog. |
 
 Jetzt das Streben in’s Universale, Kosmopolitism
 
@@ -904,19 +904,19 @@ Gattungen.
 
 |  |
 | --- |
-| Sendschreiben. Was ich an *Erratum:*von *lies:*an [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Richard Wagner gelernt habe. Künstlerische Erfüllung der germanischen Begabung.  Einheit von Dichter und Musiker. Man muß die Weltgeschichte erleben, um sie zu verstehen.  Das Shakespeare’sche Drama als Consequenz der griechischen Tragödie.  Der griechische Dithyrambus.  Das Dionysische erstirbt in der Tragödie (Aristoteles).  Die griechische Tragödie als apollinische ist kalt, wegen des schwächeren dionysischen Untergrundes.  Shakespeare als höchste dionysische Potenz verbürgt die herrliche deutsche Musikentwicklung.  Der Mythus der Germanen ist dionysisch.  Appell an die Deutschen. |
+| **Sendschreiben.** Was ich an *Erratum:*von *lies:*an [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Richard Wagner gelernt habe. Künstlerische Erfüllung der germanischen Begabung.  Einheit von Dichter und Musiker. Man muß die Weltgeschichte **erleben**, um sie zu verstehen.  Das Shakespeare’sche Drama als Consequenz der griechischen Tragödie.  Der griechische Dithyrambus.  Das Dionysische **erstirbt** in der Tragödie (Aristoteles).  Die griechische Tragödie als **apollinische** ist kalt, wegen des schwächeren dionysischen Untergrundes.  Shakespeare als höchste **dionysische** Potenz verbürgt die herrliche deutsche Musikentwicklung.  Der **Mythus** der **Germanen** ist dionysisch.  Appell an die Deutschen. |
 
 [8[49]](javascript:;)
 ---------------------
 
-Die großen Chorgesänge wurden nicht verstanden: illusorisch. Nur der Sänger versteht
-sie. Es wird an kein Publikum beim höchsten Kunstwerk gedacht. Nur
-der Orchestermusiker versteht.
+Die großen Chorgesänge wurden nicht **verstanden**: illusorisch. Nur der Sänger versteht
+sie. Es wird an **kein Publikum** beim **höchsten Kunstwerk** gedacht. Nur
+der Orchestermusiker **versteht**.
 
 [8[50]](javascript:;)
 ---------------------
 
-Coniecturen.
+**Coniecturen.**
 
   
 
@@ -928,7 +928,7 @@ Coniecturen.
 [8[51]](javascript:;)
 ---------------------
 
-Aufgabe: das Ideal einer philologisch-philosophischen Betrachtung eines Autors an Aeschylus zu geben.
+Aufgabe: das Ideal einer philologisch-philosophischen Betrachtung eines Autors an **Aeschylus** zu geben.
 
 [8[52]](javascript:;)
 ---------------------
@@ -960,12 +960,12 @@ Neue Form zu finden.       der „Roman“
 [8[55]](javascript:;)
 ---------------------
 
-Über den Begriff der klassischen Bildung.
+**Über den Begriff der klassischen Bildung.**
 
 [8[56]](javascript:;)
 ---------------------
 
-Öffentliche Vorlesungen über das Drama vorzubereiten.
+Öffentliche Vorlesungen **über das Drama** vorzubereiten.
 
 [8[57]](javascript:;)
 ---------------------
@@ -1014,11 +1014,11 @@ ein Mittel
 
  unter den Erwerb, unter das roh verstandene Erdenglück.
 
-Erweiterung um möglichst viel
-intellegente
+**Erweiterung** um möglichst viel
+**intellegente**
 
-*Erratum:*intelligente  
-*lies:*intellegente  
+*Erratum:***intelligente**  
+*lies:***intellegente**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Beamte zu haben. Hegelscher Einfluß.
@@ -1026,7 +1026,7 @@ intellegente
 [8[58]](javascript:;)
 ---------------------
 
-Zweite Quelle ist die Furcht vor religiöser Unterdrückung. Hier liegt
+Zweite Quelle ist die Furcht vor **religiöser Unterdrückung**. Hier liegt
 eine
 
 *Erratum:*die  
@@ -1064,7 +1064,7 @@ meiner geehrten Zuhörer der Entschuldigung. Über die Zukunft unserer Bildungsa
 sondern in Betreff der deutschen Bildungsanstalten, deren wir uns ja auch hier erfreuen
 —
 
-Die Zukunft will ich nur voraussagen im Sinne der Haruspices, die aus den Eingeweiden
+Die **Zukunft** will ich nur voraussagen im Sinne der Haruspices, die aus den Eingeweiden
 voraussagen
 
 *Erratum:*wahrsagen  
@@ -1072,7 +1072,7 @@ voraussagen
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  und dann in der Voraussetzung, daß die ewige Natur irgendwann
-einmal wieder Recht behält. Wann diese Zukunft eintritt, weiß ich nicht: aber es genügt,
+einmal wieder Recht behält. **Wann** diese Zukunft eintritt, weiß ich nicht: aber es genügt,
 in der Gegenwart einige von der Nothwendigkeit dieser Zukunft zu überzeugen; falls man nicht trostlos die
 Hände in den Schooß legen will.
 
@@ -1081,7 +1081,7 @@ Hände in den Schooß legen will.
 
 |  |  |  |
 | --- | --- | --- |
-| Alles wie Sophisten Plato. Und doch neue Universitäten!  Akroamatisch. Also Wissen!  Alle Freiheit in Betreff der Bildung.  Dag<egen> Examina für das Fachwissen.  Wie schnell ist ein Jurist, ein Mediziner verschlungen! die bildende Wirkung der „Wissenschaft“. | | |
+| Alles wie Sophisten Plato. Und doch neue Universitäten!  Akroamatisch. Also Wissen!  Alle Freiheit in Betreff der Bildung.  Dag&amp;lt;egen&amp;gt; Examina für das Fachwissen.  Wie schnell ist ein Jurist, ein Mediziner verschlungen! die bildende Wirkung der „Wissenschaft“. | | |
 | Gelehrsamkeit.  Staatsdiener.  Journalist. |  | Ausbau der Gymnasialtendenz. |
 | Daraus *Erratum:*Darum *lies:*Daraus [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Unmöglichkeit der Philosophie. | | |
 
@@ -1090,7 +1090,7 @@ Hände in den Schooß legen will.
 
 |  |
 | --- |
-| Das Signal.  Flucht vor den Studenten.  Die deutsche Wissenschaft und die deutsche Bildung.  Die Unmöglichkeit der Philosophie auf Universitäten *Erratum:*<der> Universität. *lies:*Universitäten [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) .  Darum auch wieder Unmöglichkeit einer wahren klassischen Bildung.  Darum Trennung der Universitäten *Erratum:*Universität *lies:*Universitäten [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  und der lebend<igen> Kunst.  Wo eine Berührung eintritt, dann ist der Gelehrte meistens schon zum Journalisten *Erratum:*Journalist *lies:*Journalisten [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  entartet.  Selbständige Regungen müssen desh<alb> aus der Studentenschaft hervorgehn. Die „deutsche Burschenschaft“ als Korrektur der Universität.  Das Zugrundegehn derselben aus Unbildung und Mangel an Leitern.  Die einzige Sphäre, in der alle großen deutschen Eigenschaften noch zu finden *Erratum:*nachzufinden *lies:*noch zu finden [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  sind, die deutsche Musik. Das Orchester.  Ankunft des Musikers. |
+| Das Signal.  Flucht vor den Studenten.  Die deutsche Wissenschaft und die deutsche Bildung.  Die Unmöglichkeit der Philosophie auf Universitäten *Erratum:*&amp;lt;der&amp;gt; Universität. *lies:*Universitäten [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) .  Darum auch wieder Unmöglichkeit einer wahren klassischen Bildung.  Darum Trennung der Universitäten *Erratum:*Universität *lies:*Universitäten [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  und der lebend&amp;lt;igen&amp;gt; Kunst.  Wo eine Berührung eintritt, dann ist der Gelehrte meistens schon zum Journalisten *Erratum:*Journalist *lies:*Journalisten [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  entartet.  Selbständige Regungen müssen desh&amp;lt;alb&amp;gt; aus der Studentenschaft hervorgehn. Die „deutsche Burschenschaft“ als Korrektur der Universität.  Das Zugrundegehn derselben aus Unbildung und Mangel an Leitern.  Die einzige Sphäre, in der alle großen deutschen Eigenschaften noch zu finden *Erratum:*nachzufinden *lies:*noch zu finden [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  sind, die deutsche Musik. Das Orchester.  Ankunft des Musikers. |
 
 [8[63]](javascript:;)
 ---------------------
@@ -1098,7 +1098,7 @@ Hände in den Schooß legen will.
 |  |  |
 | --- | --- |
 | Maßstäbe | keine klassische Bildung keine Philosophie keine Kunst. |
-| Überwiegen des Fachs: keine eigentlichen Bildungsprobleme. Versuch der Selbstzucht: Erwachen des deutschen Geistes. Der philiströse Schwind der keusch-deutsche Kunstgeist. | |
+| Überwiegen des **Fachs**: keine eigentlichen Bildungsprobleme. Versuch der Selbstzucht: Erwachen des deutschen Geistes. Der philiströse Schwind der keusch-deutsche Kunstgeist. | |
 
 [8[64]](javascript:;)
 ---------------------
@@ -1112,12 +1112,12 @@ Hände in den Schooß legen will.
 
 Schilderung des Lehrers am Gymnasium. Der Cirkel.
 
-Es sind zu viele nöthig: darum ist die Ausbildung auf etwas sehr vielen Erreichbares zu
+Es sind **zu viele** nöthig: darum ist die Ausbildung auf etwas sehr vielen Erreichbares zu
 legen.
 
-Woher kommt das Bedürfniß?
+**Woher** kommt das Bedürfniß?
 
-Die Staatsstellen, die Universität, die militärischen Vergünstigungen.
+Die **Staats**stellen, die Universität, die militärischen Vergünstigungen.
 
 Was kann der Staat für eine Absicht haben?
 
@@ -1140,7 +1140,7 @@ Die „reinen“ Philologen und die journalistischen Mittellehrer.
 
 Eine Menge Lehrer sind nöthig. Es sind Methoden ersonnen, wie sie mit dem Alterthum verkehren können.
 
-Die Lehrer dürften gar nicht mit dem Alterthum verkehren. Aeschylus!
+Die Lehrer **dürften** gar nicht mit dem Alterthum verkehren. Aeschylus!
 
 Die Sprachwissenschaft.
 
@@ -1175,7 +1175,7 @@ Der abstrakte Volkslehrer: entstanden aus Imitation des Gymnasiallehrers.
 
 Die Gemüthsbewegung offenbart sich in einer analogen körperlichen Bewegung.
 
-Diese wiederum wird in Rhythmus und Dynamik des Wortes ausgedrückt. Andernseits bleibt der Klang übrig als Analogon des Inhalts.
+Diese wiederum wird in Rhythmus und Dynamik des Wortes ausgedrückt. Andernseits bleibt der **Klang** übrig als Analogon des **Inhalts**.
 
 [8[68]](javascript:;)
 ---------------------
@@ -1204,14 +1204,14 @@ Die Individuenbildung in der griechischen Mythologie sehr leicht.
 [8[69]](javascript:;)
 ---------------------
 
-Vortrag 6. Die Nothwendigkeit der Gesellschaft und daher zunächst ein Zusammensein von
+Vortrag 6. Die Nothwendigkeit der **Gesellschaft** und daher zunächst ein Zusammensein von
 Lehrern: Plato und die Sophisten. Umgekehrte Stellung zur Kultur.
 
-Vortrag 7. Der Künstler betont das Alltägliche und das
-Fortwährende in
+Vortrag 7. Der Künstler betont das **Alltägliche** und das
+**Fortwährende** in
 
 *Erratum:*Fortwährende  
-*lies:*Fortwährende in  
+*lies:***Fortwährende** in  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 der Bildung. Das Ziel kann nicht hoch genug, die Mittel nicht einfach genug
@@ -1246,23 +1246,23 @@ Universität ohne Leitung.
 [8[72]](javascript:;)
 ---------------------
 
-Entstehung der Sprache: wie kommt der Laut dazu, mit dem Begriff
+Entstehung der Sprache: wie kommt der **Laut** dazu, mit dem **Begriff**
 verbunden zu werden? Die künstlerischen Winke in der Genesis der Sprache: Bild und Klang: der Klang benutzt,
 um Bilder zu übertragen. Die Gesetzmäßigkeit in der Verwendung der Laute zeigt große logische Kraft, große
-Abstraktionskraft? Oder nicht? Sind auch die abstrakten Gesetze ursprünglich nur lebendig
-geschaute Dinge? Z.B. der Genetiv?
+Abstraktionskraft? Oder nicht? Sind auch die abstrakten Gesetze ursprünglich nur **lebendig
+geschaute** Dinge? Z.B. der Genetiv?
 
 [8[73]](javascript:;)
 ---------------------
 
-Φιλία
- und 
-παιδεία
+**Φιλία**
+**und**
+**παιδεία**
 ,
 
 Sappho Ausgangspunkt: die Erotik in Verbindung mit Erziehung.
 
-Die Urtheile der hellenischen Philosophen über das hellenische Leben z.B. über φιλία usw.
+Die **Urtheile der hellenischen Philosophen über das hellenische Leben** z.B. über φιλία usw.
 
 [8[74]](javascript:;)
 ---------------------
@@ -1274,12 +1274,12 @@ Colleg: über den Unterricht am Gymnasium.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| Herstellung eines mehrjährigen griechischen Cursus. | | | |
+| **Herstellung eines mehrjährigen griechischen Cursus.** | | | |
 | A. | 1. | Encyclopädie der griechischen Philologie. | |
 |  | 2. | Die griechische Sprache. | |
 |  | 3. | Griechische *Erratum:*Die griechische *lies:*Griechische [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Mythologie. | |
 |  | 4. | Rhythmik. | |
-|  | 5. | Rhetorik. | Collegienheft:   zur Encyclopädie  Plato  Vorplatonische Philosophen. |
+|  | 5. | Rhetorik. | **Collegienheft:**   zur **Encyclopädie**  **Plato**  Vorplatonische Philosophen. |
 |  | 6. | Homer. |
 |  | 7. | Hesiod. |
 |  | 8. | Lyriker. |
@@ -1296,7 +1296,7 @@ Colleg: über den Unterricht am Gymnasium.
 [8[76]](javascript:;)
 ---------------------
 
-Über die Zukunft unserer Bildungsanstalten.
+**Über die Zukunft unserer Bildungsanstalten.**
 
 Der Genius und das Volk. Bildung und Lebensnoth.
 
@@ -1315,13 +1315,13 @@ Die Gewohnheit als Lehrerin.
 [8[77]](javascript:;)
 ---------------------
 
-Die Geburt der Tragoedie.
+**Die Geburt der Tragoedie.**
 
-Der Wettkampf.
+**Der Wettkampf.**
 
-Die griechische Erziehung.
+**Die griechische Erziehung.**
 
-Der Rhythmus 
+**Der Rhythmus**
 und
 
 *Erratum:*—  
@@ -1330,9 +1330,9 @@ und
 
  Zahl Maass.
 
-Der griechische Philosoph.
+**Der griechische Philosoph.**
 
-Über die Zukunft unserer Bildungsanstalten.
+**Über die Zukunft unserer Bildungsanstalten.**
 
 [8[78]](javascript:;)
 ---------------------
@@ -1346,12 +1346,12 @@ dieses Willens.
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Collegien: | | | | |
-| Mythologie.  Rhythmik.  Die socrati- schen Schu- len.  Geschichte der antiken Redner. |  | Erga.  Plato.  Vorplatonische Schulen. |  | Homer.  Hesiod.  Choephoren.  Lyrik.  Vorplatonische Phi- losophen.  Rhetorik.  Plato.  Nachsocratische Schulen. |
+| **Mythologie.**  **Rhythmik.**  **Die socrati- schen Schu- len.**  **Geschichte der antiken Redner.** |  | Erga.  Plato.  Vorplatonische Schulen. |  | Homer.  Hesiod.  Choephoren.  Lyrik.  Vorplatonische Phi- losophen.  Rhetorik.  Plato.  Nachsocratische Schulen. |
 
 [8[80]](javascript:;)
 ---------------------
 
-Die Griechen.
+**Die Griechen.**
 
 Wettkampf.
 
@@ -1382,31 +1382,31 @@ Philosophie und Leben.
 [8[81]](javascript:;)
 ---------------------
 
-Genesis der Sprache.
+**Genesis der Sprache.**
 
-Staat und Cultur.
+**Staat und Cultur.**
 
-Exil und Colonisation.
+**Exil und Colonisation.**
 
-Abneigung gegen die Bedeutung des Wortes und der
-Schrift.
+Abneigung gegen die Bedeutung des **Wortes und der
+Schrift**.
 
 *Erratum:*
 
 Abneigung gegen ———
 
-Die Bedeutung des Wortes und der Schrift.  
+Die Bedeutung des **Wortes und der Schrift**.  
 *lies:*
 
-Abneigung gegen die Bedeutung des Wortes und der
-Schrift.
+Abneigung gegen die Bedeutung des **Wortes und der
+Schrift**.
 
   
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 Entstehung des „Litterarischen“.
 
-Die weihende Persönlichkeit. (Individualethik.)
+**Die weihende Persönlichkeit.** (Individualethik.)
 
 Besitz. Ehe. Staat. Aristokratie. Heiliger.
 
@@ -1415,7 +1415,7 @@ Besitz. Ehe. Staat. Aristokratie. Heiliger.
 
 |  |  |  |
 | --- | --- | --- |
-| I. | Einleitung. | Der Leser muß ruhig sein  er darf nicht gleich sich selbst dazwischenbringen  er darf nicht Tabellen erwarten.  Denn unsere Bildung ist nur berechnet für die Ruhigen, die Selbstlosen und die welche ausdauernd warten können.  Schilderung der entgegengesetzten Bildungen *Erratum:*Bildung *lies:*Bildungen [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) : die der Hast.  Die Ziele und die Quellen dieser Bildung. |
+| I. | **Einleitung.** | Der Leser muß **ruhig** sein  er darf nicht gleich sich selbst dazwischenbringen  er darf nicht Tabellen erwarten.  Denn unsere Bildung ist nur berechnet für die Ruhigen, die Selbstlosen und die welche ausdauernd warten können.  Schilderung der **entgegengesetzten** **Bildungen** *Erratum:***Bildung** *lies:***Bildungen** [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) : die der **Hast**.  Die Ziele und die Quellen dieser Bildung. |
 | II. | Der „historische“ Sinn der Gegenwart. | |
 | III. | Das in Reih und Glied Marschiren. | |
 | IV. | Die falsche Stellung des Genius (selbst in der Verehrung des Genius: es wird die Verpflichtung gegen den Genius nicht begriffen). | |
@@ -1454,7 +1454,7 @@ Ein ernsthafter Schriftsteller, der über Bildung und Bildungsschulen zu seinem 
 auf eine grenzenlose Wirkung in die Ferne und dieser Wirkung halber wiederum auf eine ebenso in’s Grenzenlose
 sich verlierende Leserzahl. Bei diesem Buche aber verhält es sich anders, und von vornherein mag sich hierin
 der eigenthümliche Charakter seiner Darstellung des Bildungsproblems verrathen. Denn soll es jene nachhaltige
-und breite Wirkung nicht verfehlen, so braucht es gerade wenig Leser und zwar Leser von
+und breite Wirkung nicht verfehlen, so braucht es gerade **wenig** Leser und zwar Leser von
 einer seltenen und sofort näher zu beschreibenden Art. Je mehr dagegen eine unausgelesene Öffentlichkeit sich
 dieses Buches bemächtigt, um so bedenklicher möchte der Autor sich berathen fühlen: er würde vielmehr
 ernstlich bedauern, nicht seiner ursprünglichen Vorsorge nachgegeben zu haben: als welche gerade darauf
@@ -1465,11 +1465,11 @@ gedachte.
 [8[85]](javascript:;)
 ---------------------
 
-Gedanken über die
+**Gedanken über die**
 
-Zukunft
+**Zukunft**
 
-unserer Bildungsanstalten.
+**unserer Bildungsanstalten.**
 
   
 
@@ -1497,7 +1497,7 @@ Die Studenten bleiben auf der Seite des Litteraten.
 | --- | --- |
 | I. | Unterhaltend, am Schlusse spannend. μελέτη δέ τοι — γνῶϑι σαυτόν. |
 | II. | Deutscher Unterricht als Fundament des klassischen Unterrichts. |
-| III. | Zuviel Lehrer und Schüler. Genius. οἱ πλεῖστοι  *Erratum:*πλεῖστοι *lies:*πλεῖστοι  [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) κακοί. Daher Abschwächung der Alterthumswirkung. Daher Bündniß des Staates mit der abgeschw<ächten> Kultur. Ernste Aberration. |
+| III. | Zuviel Lehrer und Schüler. Genius. οἱ πλεῖστοι  *Erratum:*πλεῖστοι *lies:*πλεῖστοι  [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) κακοί. Daher Abschwächung der Alterthumswirkung. Daher Bündniß des Staates mit der abgeschw&amp;lt;ächten&amp;gt; Kultur. Ernste Aberration. |
 | IV. | Realschule. μηδὲν ἄγαν Angriff auf das Bisherige. |
 | V. | Die Universität. μέτρον ἄριστον. |
 | VI. | Der entartete Bildungsmensch und seine Hoffnungen. καιρὸν γνῶϑι. Hastig, historisch, momentan aktiv, nicht reif werden. Presse. |
@@ -1515,7 +1515,7 @@ Der Philosoph hatte zuletzt stehend, am Pentagramm gesprochen, niederblickend. J
 Walde. Wir führen ihn entgegen. Begrüßung. Inzwischen errichten die Studenten einen Holzstoß. Zuerst nur
 privates Zwiegespräch abseits. „Warum so spät?“ Der eben gehabte Triumph — Erzählung. Der Philosoph traurig:
 er glaubt nicht an diesen Triumph und setzt einen Zwang voraus bei dem Anderen, dem er nachgeben mußte. Für
-uns giebt es doch wohl hier keine Täuschung? Er erinnert an ihre jugendliche
+**uns** giebt es doch wohl hier keine Täuschung? Er erinnert an ihre jugendliche
 Übereinstimmung. Der Andere verräth sich als bekehrt, als Realist. Immer größere Enttäuschung des Philosophen.
 Die Studenten holen den Anderen an den flammenden Holzstoß um zu reden. Er spricht über den jetzigen deutschen
 Geist. (Popularisirung, Presse, Selbständigkeit, in Reih und Glied, historisch, Arbeit für die Nachwelt (nicht
@@ -1547,12 +1547,12 @@ Schmerzlicher Verzicht auf den alten Freund.
 [8[90]](javascript:;)
 ---------------------
 
-Stellung der kommenden Kultur zu den socialen Problemen. Andre Betrachtung der Welt.
+Stellung der **kommenden Kultur zu den socialen Problemen**. Andre Betrachtung der Welt.
 Beschreibung des Schopenhauerischen Geistes. Neue Stellung der Kunst. Die neue Stellung der Wissenschaft. Der
 Lehrer und seine Aufgabe — der antike Sophist und Plato. — Fortsetzung der Aufgabe Schillers und Goethes —
 nichts für uns. — Wegwerfen der Krone. — (Schiller bezeichnet als Moral des Fiesco: wenn jeder von uns zum
-Besten des Vaterlandes diejenige Krone wegwerfen lernt, die er fähig ist zu erringen — des Vaterlandes, nicht nur des vaterländischen
-Staates!!) Zukunft von Kriegen, Wirkung zu Gunsten des Genius, die
+Besten des Vaterlandes diejenige Krone wegwerfen lernt, die er fähig ist zu erringen — des **Vaterlandes**, nicht nur des **vaterländischen**
+Staates!!) Zukunft von **Kriegen**, Wirkung zu Gunsten des Genius, die
 schlechte Kultur wird zerbrechen. — Die guten Menschen brauchen einen ernsteren Halt.
 
 [8[91]](javascript:;)
@@ -1578,7 +1578,7 @@ Da
 *lies:*Da  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Zeitalter von Kriegen, so ist Pflicht auf bessere
+ Zeitalter von Kriegen, so ist Pflicht auf **bessere**
 Entladungen patriotischer Regungen zu denken.
 
 [8[92]](javascript:;)
@@ -1586,17 +1586,17 @@ Entladungen patriotischer Regungen zu denken.
 
 |  |  |
 | --- | --- |
-| A. | Was ist Bildung?  Zweck der Bildung.  Verständniß und Förderung seiner edelsten Zeitgenossen.  Vorbereitung der Werdenden und Kommenden.  Die Bildung kann sich nur auf das beziehen, was zu bilden ist.  Nicht auf den intelligibeln Charakter.  Aufgabe der Bildung: zu leben und zu wirken in den edelsten Bestrebungen seines Volkes oder der Menschen.  Nicht also nur recipiren und lernen, sondern leben.  Seine Zeit und sein Volk befreien von den verzogenen Linien, sein Idealbild vor Augen zu haben.  Zweck der Geschichte, dies Bild festzuhalten.  Philosophie und Kunst: ein Mittel ist die Geschichte.  Die höchsten Geister zu perpetuiren: Bildung ist Unsterblichkeit der edelsten Geister.  Ungeheures Ringen mit der Noth — die Bildung als verklärende Macht.  Durchaus produktiv zu verstehen.  Beurtheilung des Menschen hängt durchaus auch von der Bildung ab.  Die Aufgabe des Gebildeten, wahrhaftig zu sein und sich wirklich in ein Verhältniß zu allem Großen zu setzen.  Bildung ist das Leben im Sinne großer Geister mit dem Zwecke großer Ziele.   Auszugehen: die Betrachtung Goethes vom Standpunkte des Gebildeten und von dem des ungebildeten Gelehrten.  Oder  Schopenhauer.  Verständniß für das Große und Fruchtbringende.  An jedem Menschen das Gute und Große anzuerkennen, und der Haß gegen alles Halbe und Schwache.  Zu leben unter den Sternbildern: der umgekehrte Ruhm: der liegt darin, fortzuleben unter den edelsten Empfindungen der Nachwelt: die Bildung darin, fortzuleben unter den edelsten Empfindungen der Vorwelt. Die Unvergänglichkeit des Großen und Guten.  Die Vergänglichkeit des Menschen und die Bildung. Die wichtigsten Forderungen des Menschen an sich sind abzuleiten aus seiner Beziehung zum ganzen Strome späterer Generationen. |
+| A. | Was ist Bildung?  Zweck der Bildung.  Verständniß und Förderung seiner edelsten Zeitgenossen.  Vorbereitung der Werdenden und Kommenden.  Die **Bildung** kann sich nur auf das beziehen, was zu bilden ist.  Nicht auf den intelligibeln Charakter.  **Aufgabe der Bildung:** zu **leben** und zu **wirken** in den edelsten Bestrebungen seines Volkes oder der Menschen.  Nicht also nur recipiren und lernen, sondern leben.  Seine Zeit und sein Volk befreien von den verzogenen Linien, sein Idealbild vor Augen zu haben.  Zweck der Geschichte, dies Bild festzuhalten.  Philosophie und Kunst: ein Mittel ist die Geschichte.  Die höchsten Geister zu perpetuiren: Bildung ist Unsterblichkeit der edelsten Geister.  Ungeheures Ringen mit der Noth — die Bildung als verklärende Macht.  Durchaus **produktiv** zu verstehen.  Beurtheilung des **Menschen** hängt durchaus auch von der Bildung ab.  Die Aufgabe des Gebildeten, **wahrhaftig** zu sein und sich wirklich in ein Verhältniß zu allem Großen zu setzen.  Bildung ist das Leben im Sinne großer Geister mit dem Zwecke großer Ziele.   Auszugehen: die Betrachtung Goethes vom Standpunkte des Gebildeten und von dem des ungebildeten Gelehrten.  Oder  Schopenhauer.  **Verständniß** **für** das **Große** und **Fruchtbringende**.  An jedem Menschen das Gute und Große anzuerkennen, und der Haß gegen alles Halbe und Schwache.  Zu leben unter den Sternbildern: der **umgekehrte Ruhm**: der liegt darin, fortzuleben unter den edelsten Empfindungen der Nachwelt: die Bildung darin, fortzuleben unter den edelsten Empfindungen der Vorwelt. Die **Unvergänglichkeit** des Großen und Guten.  Die Vergänglichkeit des Menschen und die Bildung. Die wichtigsten Forderungen des Menschen an sich sind abzuleiten aus seiner Beziehung zum ganzen Strome späterer Generationen. |
 
 [8[93]](javascript:;)
 ---------------------
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| I. | Charakter der gegenwärtigen Bildung.   |  |  | | --- | --- | | 1) | Hast und Nicht-Reifwerden. | | 2) | Das Historische, das Nichtlebenwollen, das Verschlucken der kaum geborenen Gegenwart. Das Kopiren.Literaturgeschichte. | | 3) | Die papierne Welt. Unsinniges Schreiben und Lesen. | | 4) | In Reih und Glied. Abneigung gegen den Genius. Der „sociale“ Mensch. und der *Erratum:*— Der *lies:*und der [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Socialismus. | | 5) | Der courante Mensch. | | 6) | Der Fachgelehrte. Besser leben, nicht mehr erkennen. | | 7) | Der Mangel an ernster Philosophie. | | 8) | Die Verkümmerung der Kunst. „Reichstagsbildung.“ | | 9) | Der neue Begriff des „Deutschen“. | |
-| II. | Die Schulen unter der Wirkung dieser Bildung. |
+| I. | **Charakter der gegenwärtigen Bildung.**   |  |  | | --- | --- | | 1) | Hast und Nicht-Reifwerden. | | 2) | Das Historische, das Nichtlebenwollen, das Verschlucken der kaum geborenen Gegenwart. Das Kopiren.Literaturgeschichte. | | 3) | Die papierne Welt. Unsinniges Schreiben und Lesen. | | 4) | In Reih und Glied. Abneigung gegen den Genius. Der „sociale“ Mensch. und der *Erratum:*— Der *lies:*und der [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Socialismus. | | 5) | Der courante Mensch. | | 6) | Der Fachgelehrte. Besser leben, nicht mehr erkennen. | | 7) | Der Mangel an ernster Philosophie. | | 8) | Die Verkümmerung der Kunst. „Reichstagsbildung.“ | | 9) | Der neue Begriff des „Deutschen“. | |
+| II. | **Die Schulen unter der Wirkung dieser Bildung.** |
 | III. | Es fehlt die nächste, durch alltägliche Gewöhnung zu pflanzende Bildung. Exotischer Charakter aller Bildung (z.B. das Turnen). Es fehlt Leitung und Tribunal der Bildung. Es fehlt die künstlerische Überwältigung. Die ernste Weltbetrachtung als einzige Rettung vor dem Sozialismus. Neue Erziehung nöthig, nicht neue Universitäten. Straßburg. Herstellung des wahren deutschen Geistes. |
-| IV. | Vorschlag zur Berufung einer mehrjährigen pädagogischen Brüderschaft, sei es aus eigenen Mitteln, sei es daß ein Staat einsichtig genug sein sollte. Diese sollen nicht etwa berichten, sondern zuerst selbst unter einander lernen und sich gegenseitig befestigen. Mit besseren Besoldungen ist zunächst nichts zu machen: überhaupt bleibt alles palliativisch. Erziehung durch Musik. |
+| IV. | Vorschlag zur Berufung einer mehrjährigen pädagogischen Brüderschaft, sei es aus eigenen Mitteln, sei es daß ein Staat einsichtig genug sein sollte. Diese sollen nicht etwa **berichten**, sondern zuerst selbst unter einander lernen und sich gegenseitig befestigen. Mit besseren Besoldungen ist zunächst nichts zu machen: überhaupt bleibt alles palliativisch. Erziehung durch Musik. |
 
 [8[94]](javascript:;)
 ---------------------
@@ -1627,7 +1627,7 @@ Erlogener Enthusiasmus bei den Alten
 [8[96]](javascript:;)
 ---------------------
 
-In’s Lesebuch.
+**In’s Lesebuch.**
 
   
 
@@ -1646,7 +1646,7 @@ Zu benutzen: Eckermann.
 
 |  |
 | --- |
-| Das Große nachleben, um es vorzuleben.  Alles kommt darauf an, daß das Große richtig gelehrt wird.  Darin beruht das Bilden.  Das ist der Maßstab, an dem unsere Zeit zu messen ist. |
+| Das Große nachleben, um es vorzuleben.  Alles kommt darauf an, daß das **Große** richtig gelehrt wird.  Darin beruht das Bilden.  Das ist der Maßstab, an dem unsere Zeit zu messen ist. |
 
 [8[98]](javascript:;)
 ---------------------
@@ -1683,15 +1683,15 @@ eigensten
 
 Ein Grad von Bildung (Thaten der Liebe und der Aufopferung allen gemeinsam).
 
-Eine solche Empfindung der Liebe entzündet sich bei den höchsten Erkenntnissen, auch
+Eine solche Empfindung der **Liebe** entzündet sich bei den höchsten Erkenntnissen, auch
 beim Künstler.
 
-Der Ruhm.
+Der **Ruhm**.
 
 [8[100]](javascript:;)
 ----------------------
 
-Das sechste Jahrhundert.
+**Das sechste Jahrhundert.**
 
   
 
@@ -1883,7 +1883,7 @@ Wagnervereine
 [8[112]](javascript:;)
 ----------------------
 
-Aufruf an alle Freunde der dramatischen Kunst.
+**Aufruf an alle Freunde der dramatischen Kunst.**
 
   
 
@@ -1894,9 +1894,9 @@ Im Mai dieses Jahres ist der Grundstein zu dem Festtheater in Bayreuth gelegt wo
 [8[113]](javascript:;)
 ----------------------
 
-Bildungsanstalten und ihre Früchte.
+**Bildungsanstalten und ihre Früchte.**
 
-Es fehlt an einer imperativischen Behörde der Kultur. Selbst Goethe stand ewig allein.
+Es fehlt an einer **imperativischen Behörde** der Kultur. Selbst Goethe stand ewig allein.
 So konnte sich ein Kreis von der Universität emancipiren, ein anderer vom Gymnasium. Verehrung des Wirklichen,
 als Gegensatz zu der Zucht des Klassischen: doch ist das Wirkliche allmählich transmutirt in die Spießbürgerei
 und die Plattdeutschelei (die größte Gemeinheit ist natürlich ein gemeiner Dialekt).
@@ -1941,14 +1941,14 @@ Die Bayreuther Bühnenfestspiele. Zwei Reden.
 
 Besitz, Ehe, Aristokratie, Staat, das sich aufgebende Individuum.(Heilige, jetzt von Neuem Heiligende.)
 
-— Individual-Ethik! Die
+**— Individual-Ethik!**Die
 
-*Erratum:*Die  
+*Erratum:***Die**  
 *lies:*Die  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- währende
-Persönlichkeit. Apollo. Griechen-Staat. Römer.
+**währende
+Persönlichkeit**. Apollo. Griechen-Staat. Römer.
 
 Das Christenthum hat gegen die Sklaverei keine andere Abneigung als gegen Ehe und Staat. Etwas ganz
 Verschiedenes ist Emancipation.
@@ -1981,7 +1981,7 @@ Dr. Friedrich Nietzsche.
 [8[117]](javascript:;)
 ----------------------
 
-Fünf unbrauchbare Vorreden zu fünf nicht geschriebenen Büchern.
+**Fünf unbrauchbare Vorreden zu fünf nicht geschriebenen Büchern.**
 
   
 
@@ -1998,7 +1998,7 @@ Fünf unbrauchbare Vorreden zu fünf nicht geschriebenen Büchern.
 [8[118]](javascript:;)
 ----------------------
 
-Auch die Einleitung, Ver<ehrte> Zuhörer, wird abgedruckt, damit das Ganze gar nichts Buchmäßiges hat. Nur Erinnerung. Alles soll an das Persönliche erinnern.
+Auch die Einleitung, Ver&amp;lt;ehrte&amp;gt; Zuhörer, wird abgedruckt, damit das Ganze gar nichts **Buchmäßiges** hat. Nur Erinnerung. Alles soll an das Persönliche erinnern.
 
 [8[119]](javascript:;)
 ----------------------
@@ -2010,7 +2010,7 @@ Bell bei Darwin citirt
 [8[120]](javascript:;)
 ----------------------
 
-Frau Cos<ima> Wagner geborene L<iszt> sei dies Buch gewidmet.
+Frau Cos&amp;lt;ima&amp;gt; Wagner geborene L&amp;lt;iszt&amp;gt; sei dies Buch gewidmet.
 
 [8[121]](javascript:;)
 ----------------------
@@ -2022,3 +2022,5 @@ Frau Cos<ima> Wagner geborene L<iszt> sei dies Buch gewidmet.
 | III | Die bisherigen Afterschulen. |
 | IV | Die Erfordernisse der Bildung. |
 | V | Vorschläge. |
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

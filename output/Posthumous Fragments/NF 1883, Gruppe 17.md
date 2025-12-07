@@ -49,7 +49,7 @@ Gelobt sei die kleine Armut: denn alle Krämer trachten nach großem Reichthum.
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Die Krämer  Die Lehrer  Die Werkzeuge  Die Fürsten. | |  | | --- | |  | |  | |  | |  | |  | | sie sind alle einander werth |
-| Von den Bösen (den Herrschsüchtigen — das ist das Merkmal des Bösen) | | |
+| Von den **Bösen** (den Herrschsüchtigen — das ist das **Merkmal** des Bösen) | | |
 
 [17[3]](javascript:;)
 ---------------------
@@ -62,14 +62,14 @@ Er redet rauh — aber nicht aus rauher Seele: jeder Windzug macht ihn heiser re
 
   
 
-Das beste fruchtbarste Land zuletzt
-(von den Bösen)
+Das beste fruchtbarste Land **zuletzt**
+**(von den Bösen)**
 
 [17[4]](javascript:;)
 ---------------------
 
 Zarathustra macht sich lustig über die bisherigen Angriffe auf die Bösen und Selbstsüchtigen,
-Leidenschaftlichen (zu Gunsten der Schwächlinge)
+Leidenschaftlichen (zu Gunsten der **Schwächlinge**)
 
 [17[5]](javascript:;)
 ---------------------
@@ -78,7 +78,7 @@ Und oft lehrt man den Verzweifelnden nicht anders Stärke, als indem man ihm von
 
   
 
-Vielfraße die Einen, die Anderen Schmeckerlinge — verächtlich
+**Vielfraße** die Einen, die Anderen **Schmeckerlinge** — verächtlich
 Beide!
 
   
@@ -156,21 +156,21 @@ Heiligste.
 
   
 
-Will denn ein Trieb befriedigt sein? Will er von sich selber Freiheit und Frieden?
+Will denn ein Trieb **befriedigt** sein? Will er von sich selber Freiheit und Frieden?
 Wollte irgend ein Wille jemals Nicht-wollen?
 
-Daß er schaffe, das ist aller Triebe Treiben: und wohl auch daß er eine Weile sich
-ausschlafe — <um> ganz sich
+Daß er **schaffe**, das ist aller Triebe Treiben: und wohl auch daß er eine Weile sich
+ausschlafe — &amp;lt;um&amp;gt; ganz sich
 
-*Erratum:*<um> sich  
-*lies:*<um> ganz sich  
+*Erratum:*&amp;lt;um&amp;gt; sich  
+*lies:*&amp;lt;um&amp;gt; ganz sich  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  schaffend auszuwachen!
 
 Aber ihr mißkehrtet des Willens Wesen zum Widerwillen und Wider-Sich-wollen
 
-ihr mißdeutet<et> des müden Willens Stimme
+ihr mißdeutet&amp;lt;et&amp;gt; des **müden** Willens Stimme
 
 Ist denn der Schlaf eine Erfindung zum Tode? Und wer schlafen will, wäre ein Sterbens-Müder? Schnaufen und
 schnarchen kann der Lebendigste.
@@ -191,9 +191,9 @@ Aufdringlinge und Unverschämte.
 [17[11]](javascript:;)
 ----------------------
 
-Von der Verkleinerung.
+**Von der Verkleinerung.**
 
-Die große Stadt. als ein Scheiterhaufen auf dem verbrannt wird:
+**Die große Stadt.** als ein Scheiterhaufen auf dem verbrannt wird:
 
 1) der tiefe Gedanke usw.
 
@@ -303,7 +303,7 @@ Euer Maul brüllt: Essen und Trinken! Euer Bauch brüllt dazu, Viel! Euer lüste
 
   
 
-Ach, sagte Zarathustra, ich kann mir die Hölle nicht erlassen — die Unterwelt, wo alles Todte wider mich aufsteht, und auch die Schatten noch reden: Leben ist Folterung.
+Ach, sagte Zarathustra, ich kann mir die Hölle nicht erlassen — die Unterwelt, wo alles Todte **wider** mich aufsteht, und auch die Schatten noch reden: Leben ist Folterung.
 
   
 
@@ -336,8 +336,8 @@ Es windet sich wie vor einer Marter: es redet nicht, es thut sich die Marter an,
 
 Oh Zarathustra Fürsprecher des Lebens! Du mußt auch Fürsprecher des Leidens sein!
 
-Die Menschen müssen böser werden. Zarathustra 4 dies ist mir das größte Leid — ich muß
-sie böser machen!
+Die Menschen müssen **böser** werden. Zarathustra 4 dies ist mir das größte Leid — ich muß
+sie böser **machen**!
 
   
 
@@ -351,7 +351,7 @@ Die schwarze traurige See liegt vor dir — auch darüber mußt du hinweg!
 
 unter Zwergen zu leben
 
-Eingedrückte Häuser sehe ich — ein Kind nahm sie wohl aus der Schachtel. Ein<ge>drückte
+Eingedrückte Häuser sehe ich — ein Kind nahm sie wohl aus der Schachtel. Ein&amp;lt;ge&amp;gt;drückte
 Seelen
 
   
@@ -378,7 +378,7 @@ Kindlein.
 
   
 
-Die Lehre vom Leben Zarathustra 4 furchtbar-dithyrambisch
+Die Lehre vom **Leben** Zarathustra 4 furchtbar-dithyrambisch
 
 Samen des Lebens ausgeworfen von Stern zu Stern.
 
@@ -436,7 +436,7 @@ Ihr meint es gut mit euch und selbst noch mit mir, nun — was soll ich euch mit
 
 An euch wäre durch mich viel zu verderben und wenig gut zu machen: laßt mich schweigen!
 
-Ich bin traurig mit dir und mir gram um deinetwillen: ach daß ich <nicht> stark genug bin, dich
+Ich bin traurig mit dir und mir gram um deinetwillen: ach daß ich &amp;lt;nicht&amp;gt; stark genug bin, dich
 von bösen Träumen zu erlösen!
 
 Die Augen stehen dir offen, schlafende, halbtodte, traurige Augen: der Mund steht dir offen, ein gurgelnder
@@ -461,11 +461,11 @@ So liegt mein Schicksal vor mir dem Meere gleich, in dunkler Traurigkeit, verdro
 schlaftrunken, mit offenem Munde, träumend.
 
 Ach das Auge offen, und noch kein Blick darin, warm athmend,
-<sich> umwindend, schlurfend
+&amp;lt;sich&amp;gt; umwindend, schlurfend
 
 *Erratum:*athmend, [— —]  
 *lies:*athmend,
-<sich> umwindend, schlurfend  
+&amp;lt;sich&amp;gt; umwindend, schlurfend  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 [17[15]](javascript:;)
@@ -484,10 +484,10 @@ Stärke genug habe, dich von bösen Träumen zu lösen!
 mitleidender Zuschauer?
 
 Ach, du bist ein liebreicher Narr und Vertrauens-Überreicher! selbst zu allem Furchtbaren! Zu jedem Ungethüm
-kommst <du> noch es zu streicheln!
+kommst &amp;lt;du&amp;gt; noch es zu streicheln!
 
 Ein Hauch von warmem Athem, ein wenig weiches Gezottel um die Tatze: und schon quellen Locktöne aus deiner
-Flöte — sehnsüchtig bist <du> wahrlich nach allem Lebendigen!
+Flöte — sehnsüchtig bist &amp;lt;du&amp;gt; wahrlich nach **allem** Lebendigen!
 
 Besser, du traust deinem Schicksale, du Vertrauens-seliger, wenn es wie ein Meer aus tausend Mäulern brüllt —
 besser noch
@@ -554,7 +554,7 @@ winseln und Hände falten und beten wollen.
 
   
 
-das Meer ist toll geworden — ein schneeweißes Unget<hüm> ist gerade noch Schnee genug, um sich
+das Meer ist toll geworden — ein schneeweißes Unget&amp;lt;hüm&amp;gt; ist gerade noch Schnee genug, um sich
 selber voll und toll zu trinken.
 
 Nun redet ihr mir vom Beten
@@ -573,7 +573,7 @@ Ich bin Zarathustra der Gottlose: wer ist gottloser als ich?
 
   
 
-das Erzählen um das Feuer am Abend (statt der Lehre)
+das **Erzählen** um das Feuer am Abend (statt der Lehre)
 
   
 
@@ -660,7 +660,7 @@ Bei Allem, was licht
 
   
 
-ein „schöpferisches Wehe ist Weisheit“ Güte
+ein „schöpferisches Wehe ist Weisheit“ **Güte**
 
 ein Mittel und Werkzeug, gleich — — —
 
@@ -679,7 +679,7 @@ Ein Schiffbruch spie ihn ans Land.
 [17[18]](javascript:;)
 ----------------------
 
-In Zarathustra 4 kein
+In Zarathustra 4 **kein**
 „Ich“!
 
 [17[19]](javascript:;)
@@ -694,17 +694,17 @@ eine kleine verkrochene Gemeinde, und ihr übel verkleideter Dünkel
 
   
 
-Z<arathustra> der Gottlose?
+Z&amp;lt;arathustra&amp;gt; der Gottlose?
 
 Man verfolgt dich, man hat einen Preis auf deinen Kopf gesetzt
 
-Wohlan, man mag uns gut verfolgen: bisher war immer der Erfolg bei gut Ver<folgten>
+Wohlan, man mag uns gut verfolgen: bisher war immer der Erfolg bei gut Ver&amp;lt;folgten&amp;gt;
 
 [17[21]](javascript:;)
 ----------------------
 
 Woher kommt uns Zarathustra? Wer sind ihm Vater und Mutter? Schicksal und Lachen sind Zarathustras
-V<ater> und Mutter: das grause Schicksal und das liebliche Lachen erzeugten sich solchen
+V&amp;lt;ater&amp;gt; und Mutter: das grause Schicksal und das liebliche Lachen erzeugten sich solchen
 Sprößling.
 
   
@@ -742,7 +742,7 @@ steckt sie in gute Kleider — nun sind es vermummte Lumpensammler und Aasvögel
 
   
 
-Fluch — die Brüderschaft von Haß und Blitzstrahl
+**Fluch** — die Brüderschaft von Haß und Blitzstrahl
 
   
 
@@ -772,19 +772,19 @@ den Wolf machtet ihr zum Hunde und den Menschen selber zu des Menschen bestem Ha
 [17[26]](javascript:;)
 ----------------------
 
-Von den Schreib-und Schreihälsen
+**Von den Schreib-und Schreihälsen**
 
 [17[27]](javascript:;)
 ----------------------
 
-die höchste Spannung der Vielheit von Gegensätzen zur Einheit zu bringen — Ziel.
+die höchste Spannung der Vielheit von Gegensätzen zur Einheit zu bringen — **Ziel**.
 
-die einzelnen Triebe verketzern und tödten für den, der sie nicht zur schönen Einheit
-bringen kann — niedrigere Moralen — ihr Werth.
+die einzelnen Triebe **verketzern und tödten** für den, der sie nicht zur schönen Einheit
+bringen kann — niedrigere Moralen — ihr **Werth**.
 
 die höchste Dialektik und, ihr ganz gewachsen, die Stärke des Gefühls.
 
-das Furchtbarste: Herrschsucht und Selbstsucht Heiligen
+das **Furchtbarste**: Herrschsucht und Selbstsucht **Heiligen**
 
 [17[28]](javascript:;)
 ----------------------
@@ -804,11 +804,11 @@ die stürmische Bewegung — und Ein Ziel und Ruhe auf jeder Stelle der Bahn
 
   
 
-Zarathustra fand die Menschen niedrig geworden vor.
+Zarathustra fand die Menschen **niedrig** geworden vor.
 
   
 
-der Böse als Zerstörer ehrwürdig — das Zerstören ist nothwendig.
+der **Böse** als Zerstörer ehrwürdig — das Zerstören ist **nothwendig**.
 
   
 
@@ -841,8 +841,8 @@ In der linksten Zehe noch mehr Sinn für das Rechte haben als sie in ihrem Kopfe
 
   
 
-So lange die Selbstsucht von Grund aus für böse gilt, werdet ihr ehrlicher Weise nie Etwas Gutes aus ihr ableiten können — und ehrlicher Weise müßt ihr
-Alles aus ihr ableiten. Daher habe ich das Organisch-Moralische.
+So lange die Selbstsucht von Grund aus für **böse** gilt, werdet ihr ehrlicher Weise **nie** Etwas Gutes aus ihr ableiten können — und ehrlicher Weise **müßt** ihr
+Alles aus ihr ableiten. Daher habe **ich** das Organisch-Moralische.
 
 [17[31]](javascript:;)
 ----------------------
@@ -850,7 +850,7 @@ Alles aus ihr ableiten. Daher habe ich das Organisch-Moralische.
 Zarathustra 4 zuletzt: Erfüllungen
 
 Zarathustra 1 Vorrede: die Armen (Geringen Überflüssigen) als die Reichen, die Weisen froh zeitweilig sich
-unwissend und thöricht zu fühlen (Narren zu werden — Narrenfest)
+unwissend und thöricht zu fühlen (**Narren** zu werden — Narrenfest)
 
 |  |  |
 | --- | --- |
@@ -862,13 +862,13 @@ unwissend und thöricht zu fühlen (Narren zu werden — Narrenfest)
 |  |  |  |
 | --- | --- | --- |
 | Zarathustra | 3, 1 | Vorgefühl, daß Furchtbares geschieht. |
-|  | 3, 2 | tiefste Schein-Ruhe des Wanderers |
-| die schmerzlichsten Dinge sammeln | | |
+|  | 3, 2 | tiefste **Schein-Ruhe** des **Wanderers** |
+| die **schmerzlichsten Dinge sammeln** | | |
 
 [17[32]](javascript:;)
 ----------------------
 
-nicht für seinen Glauben, aber für seinen Zweifel verbrannt werden!
+nicht für seinen Glauben, aber für seinen **Zweifel** verbrannt werden!
 
   
 
@@ -876,40 +876,40 @@ Du reitest schnell zum Ziele; aber dein lahmer Fuß wird zu gleicher Zeit mit di
 
   
 
-Moral sei, dem Nächsten Gutes zu thun? Aber da müßtest du schon wissen, was ihm gut
+Moral sei, dem Nächsten Gutes zu thun? Aber da müßtest du schon wissen, was **ihm gut**
 ist!
 
 [17[33]](javascript:;)
 ----------------------
 
-Von den Dienern
+**Von den Dienern**
 
 a) die Reichen
 
 b) die Könige
 
-Priester und Kaufleute herrschen jetzt.
+Priester und Kaufleute **herrschen jetzt**.
 
 [17[34]](javascript:;)
 ----------------------
 
-Es giebt eine geheime Einsicht: man hat die großen Verbrechen nicht mehr nöthig — aber viele
-kleine.
+Es giebt eine geheime Einsicht: man hat die großen Verbrechen nicht mehr nöthig — aber **viele
+kleine**.
 
   
 
-ich will gar nicht „das Glück der Anderen“! — ihr Unbehagen und Verzweifeln unter
-Umständen viel eher noch!
+ich will gar nicht **„das Glück der Anderen“**! — ihr Unbehagen und Verzweifeln **unter**
+**Umständen** viel eher noch!
 
   
 
-Was! „Wahrheit“ sagen! Ich will mein Gefühl ausdrücken und mich
-nicht verbergen. Sp<encer> D<ata of> Eth<ics>
+Was! **„Wahrheit“** sagen! Ich will mein **Gefühl** ausdrücken und mich
+nicht verbergen. Sp&amp;lt;encer&amp;gt; D&amp;lt;ata of&amp;gt; Eth&amp;lt;ics&amp;gt;
 p. 269.
 
   
 
-Egoismus kein Widerspruch mit der heroischen Denkweise!
+Egoismus kein Widerspruch mit der **heroischen Denkweise**!
 
   
 
@@ -918,7 +918,7 @@ Denker!
 
   
 
-eingefangen in ihr enges Herz
+eingefangen in ihr **enges** Herz
 
 [17[35]](javascript:;)
 ----------------------
@@ -932,58 +932,57 @@ Liebe ich die Menschen? Liebe ich mich? Aber sie gehören zu meinem Vorhaben, gl
 [17[36]](javascript:;)
 ----------------------
 
-Zarathustra 3 Von der Langen-Weile.
+Zarathustra 3 **Von der Langen-Weile.**
 
 [17[37]](javascript:;)
 ----------------------
 
-Viel Altruismus habe ich nöthig, um meines ego willen und seine Lust zu haben.
+Viel Altruismus habe ich nöthig, um meines ego willen und seine Lust zu **haben**.
 
 ἀκρασία !!
 
 [17[38]](javascript:;)
 ----------------------
 
-Dies ist die Wahl, vor die ich mich gestellt habe: was ich nicht vorher gewollt habe, das
-muß ich nachher wollen (gut-machen, einfügen — verdauen
+Dies ist die Wahl, vor die ich mich gestellt habe: was **ich nicht vorher gewollt habe, das**mußich**nachher**wollen(gut-machen, einfügen — verdauen
 
 *Erratum:*eindämmen  
 *lies:*verdauen  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  —
-aber zusehen, ob ich’s kann!
+aber zusehen, **ob** ich’s kann!
 
 [17[39]](javascript:;)
 ----------------------
 
-§ den Armen reich machen Emerson p. 383.
+§ den Armen **reich** machen Emerson p. 383.
 
 § Seligkeit im größten Umfang der Seele, größte Leiter auf und nieder
 
-gegen den steifen „Weisen“ erlösend.
+**gegen** den steifen „Weisen“ erlösend.
 
 Die Welt — eines Gottes Ausgelassenheit
 
-Sünde als Selbst-Aufhebungs-Genuß.
+Sünde als Selbst-Aufhebungs-**Genuß**.
 
 [17[40]](javascript:;)
 ----------------------
 
-ihr überseht, welch Ungeheures jeder organische Vorgang schon ist, welche Einheit von
+ihr überseht, welch Ungeheures **jeder** organische Vorgang schon ist, welche Einheit von
 Gegensätzen.
 
 Sich wieder in die Gegensätze stürzen, nach einem trunknen Augenblick der Versöhnung.
 
-die umfänglichste Seele, die sich am weitesten in sich verirren kann
+die **umfänglichste** Seele, die sich am weitesten in sich verirren kann
 
 der Weiseste, der sich in das Meer der Thorheit stürzt
 
 der Nothwendigste, der sich in die Zufälle stürzt
 
-der Seiende, der im Werden
+der Seiende, der im **Werden**
 
-der Habende, der will
+der Habende, der **will**
 
 sich immer wieder annähern und immer wieder fliehen
 
@@ -992,9 +991,9 @@ die Seele, der Alles Spiel ist
 [17[41]](javascript:;)
 ----------------------
 
-§ <Zarathustra> 4 Was ist schlecht?
+§ &amp;lt;Zarathustra&amp;gt; 4 Was ist **schlecht**?
 
-§ <Zarathustra> 4 die höchste Seele Schilderung des Übermenschen
+§ &amp;lt;Zarathustra&amp;gt; 4 die höchste Seele Schilderung des Übermenschen
 
   
 
@@ -1008,7 +1007,7 @@ sie wollen daß ihnen Niemand wehe thue: so kommen sie ihm zuvor und thun ihm wo
 [17[42]](javascript:;)
 ----------------------
 
-Epictet als Gegensatz
+**Epictet** als Gegensatz
 
 [17[43]](javascript:;)
 ----------------------
@@ -1039,17 +1038,17 @@ Thut, was ihr könnt, aber hütet euch, damit aufzufallen.
 [17[46]](javascript:;)
 ----------------------
 
-sie wollen spielen lernen, und haben noch nicht einmal den Ernst
+sie wollen **spielen** lernen, und haben noch nicht einmal den **Ernst**
 gelernt.
 
   
 
-Man könnte schon fliegen — aber erst mußt du wissen, wie ein Engel zu tanzen.
+Man könnte schon fliegen — aber erst mußt du wissen, wie ein Engel zu **tanzen**.
 
   
 
-In der Tugend keine Sprünge! Aber für jeden einen anderen Weg! Doch nicht zum Höchsten
-Jeder! Wohl aber kann Jeder eine Brücke und Lehre sein für die
+In der Tugend keine **Sprünge**! Aber für jeden einen anderen Weg! Doch nicht zum Höchsten
+Jeder! Wohl aber kann Jeder eine **Brücke** und **Lehre** sein für die
 Anderen!
 
 [17[47]](javascript:;)
@@ -1066,15 +1065,15 @@ Ein kleines Licht, aber doch ein großer Trost
 
   
 
-das tiefe Mißtrauen (gegen die Natur) nöthig
+das **tiefe Mißtrauen** (gegen die Natur) **nöthig**
 
   
 
-die Erzeugung starker Menschen.
+die Erzeugung **starker** Menschen.
 
   
 
-Thut, was ihr wollt — vorausgesetzt daß ihr solche seid, die wollen
+Thut, was ihr **wollt** — vorausgesetzt daß ihr solche seid, die wollen
 können
 
 *Erratum:*könnt  
@@ -1094,28 +1093,28 @@ Der jetzige Durchschnittsmensch ist mein größter Feind — ich verdanke es Ré
 
   
 
-Er hatte keinen Ch<arakter>: was hilft’s? So mußte er sich einen stehlen.
+Er hatte keinen Ch&amp;lt;arakter&amp;gt;: was hilft’s? So mußte er sich einen stehlen.
 
 [17[50]](javascript:;)
 ----------------------
 
-Nicht an Gott glauben.
+Nicht an Gott **glauben**.
 
-Folglich gehen die Dinge nicht, wie Gott will. (Gegen die feige Ergebenheit, die die Menschen schwach gemacht hat: dagegen lehre ich
-ein tiefes Mißtrauen.)
+**Folglich** gehen die Dinge **nicht**, wie Gott will. (Gegen die feige **Ergebenheit**, die die Menschen schwach gemacht hat: dagegen lehre ich
+ein **tiefes Mißtrauen**.)
 
 [17[51]](javascript:;)
 ----------------------
 
-Zarathustra 3. Er wundert sich: was hat denn die Menschen so klein gemacht?
+Zarathustra 3. Er wundert sich: was hat denn die Menschen so **klein** gemacht?
 
 Gegensatz zu seinen Freunden
 
-die moralischen Worte als Schauspieler-Mittel sich zu vergrößern.
+die moralischen **Worte** als Schauspieler-Mittel sich zu **vergrößern**.
 
 sein Ekel nimmt immer zu
 
-wie selig <bin> ich, daß ich meine Freunde habe und mein Gedanke in ihnen lebt!
+wie selig &amp;lt;bin&amp;gt; ich, daß ich meine **Freunde** habe und mein Gedanke **in ihnen lebt**!
 
   
 
@@ -1133,25 +1132,25 @@ Wer nichts zu thun hat, dem macht ein Nichts zu schaffen.
 
   
 
-Was ich euch thun will, das könntet ihr mir nicht thun! Und was ich nicht will, daß ihr
-mir thut, warum sollte ich dies euch nicht thun?
+Was ich euch thun will, das **könntet** ihr mir nicht thun! Und was ich nicht will, daß ihr
+mir thut, warum sollte **ich** dies euch nicht thun?
 
 [17[52]](javascript:;)
 ----------------------
 
 |  |  |
 | --- | --- |
-| § gegen die Bedenklichkeit der Gerechtigkeit  § gegen die Milde, als ob man die Überflüssigen schonen müßte! „Ach, wie nothwendig ist all das Überflüssige!“ sagt ihr mir  § gegen die Schwäche, hervorgebracht durch Vertrauen. Ich lehre tiefes Mißtrauen. | |
-| § | gegen die Ängstlichkeit vor Blutvergießen |
-| kurz *Erratum:*kurz *lies:*kurz [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) : gegen alle Moral als schwächend. |
-| § gegen die Gemeinden à la Herrenhuter — Christen.  Zu Zarathustra 4. Erst müßt ihr als Zerstörer Kraft gewinnen! | |
+| § gegen die Bedenklichkeit der Gerechtigkeit  § gegen die **Milde**, als ob man die Überflüssigen schonen müßte! „Ach, wie nothwendig ist all das Überflüssige!“ sagt ihr mir  § gegen die **Schwäche**, hervorgebracht durch **Vertrauen**. Ich lehre tiefes Mißtrauen. | |
+| § | gegen die Ängstlichkeit vor **Blutvergießen** |
+| **kurz** *Erratum:*kurz *lies:***kurz** [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) : gegen alle Moral als **schwächend**. |
+| § gegen die Gemeinden à la Herrenhuter — Christen.  Zu Zarathustra 4. Erst müßt ihr als **Zerstörer Kraft** gewinnen! | |
 
 [17[53]](javascript:;)
 ----------------------
 
-sie werden immer schwächer — seit ich sie nicht sah.
+sie werden immer **schwächer** — seit ich sie nicht sah.
 
-Hohn auf meine seligen Inseln, wohin Einige geflüchtet sind — auf die Dauer gleichgültig!
+Hohn auf meine seligen Inseln, wohin Einige **geflüchtet** sind — auf die Dauer **gleichgültig**!
 
 Zu Zarathustra 4) Es ist die höchste
 
@@ -1159,39 +1158,39 @@ Zu Zarathustra 4) Es ist die höchste
 *lies:*die höchste  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Zeit, die Flamme wieder aufzuschüren.
+ Zeit, die Flamme wieder **aufzuschüren**.
 
-Gott aufzugeben ist jetzt nöthig: die Menschheit würde sonst zu matt.
+**Gott aufzugeben ist jetzt nöthig:** die Menschheit **würde sonst** zu matt.
 
 [17[54]](javascript:;)
 ----------------------
 
-Trotz in der Selbst-Erniedrigung, soweit gehend, bis er tödtliche Rache am Zeugen
+Trotz in der Selbst-Erniedrigung, soweit gehend, bis er tödtliche Rache am **Zeugen**
 verlangt
 
-darum muß Gott sterben!
+darum muß Gott **sterben**!
 
-Auch die Thiere neu: so will ich selber noch einmal, von neuem.
+Auch die Thiere **neu**: so will ich selber noch einmal, von **neuem**.
 
-Zarathustra 4. Allgemeine Revolution — das Versinken der Inseln als Vorzeichen.
+Zarathustra 4. Allgemeine Revolution — das Versinken der Inseln als **Vorzeichen**.
 
 [17[55]](javascript:;)
 ----------------------
 
-Zarathustra 3. Der Trost des Heiligen empört Zarathustra, er erkennt, woher die
+Zarathustra 3. Der Trost des Heiligen empört Zarathustra, er erkennt, **woher** die
 Schwäche.
 
 Wohlan! Noch Ein Mal!
 
-Der Heilige: Du willst das Alles noch einmal? und geht.
+Der Heilige: Du willst das Alles noch einmal? und **geht**.
 
 Darauf beschwört Zarathustra den schwersten Gedanken.
 
-<Zarathustra> 3. Schwäche deine Gefahr!
+&amp;lt;Zarathustra&amp;gt; 3. Schwäche deine Gefahr!
 
-<Zarathustra> 3. Eines Teufels Fratze.
+&amp;lt;Zarathustra&amp;gt; 3. Eines Teufels Fratze.
 
-<Zarathustra> 3. War die Reise nöthig?
+&amp;lt;Zarathustra&amp;gt; 3. War die Reise nöthig?
 
   
 
@@ -1205,14 +1204,14 @@ Es ist noch zu früh für Zarathustra: bisher war ich noch mein eigener Vorläuf
 
   
 
-Um die Mitte der Bahn
+Um die **Mitte** der **Bahn**
 entsteht
 
 *Erratum:*ensteht  
 *lies:*entsteht  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- der Übermensch.
+ der **Übermensch**.
 
   
 
@@ -1229,7 +1228,7 @@ nicht durch fremden Schlamm waten
 
   
 
-<Zarathustra> 4 Höchster Moment: im Namen alles Seins noch ein Mal!
+&amp;lt;Zarathustra&amp;gt; 4 Höchster Moment: im Namen alles Seins **noch** ein Mal!
 
 [17[57]](javascript:;)
 ----------------------
@@ -1274,7 +1273,7 @@ Man soll nur stehlen, wo man nicht rauben kann: so redet das Gesetz der Ehre unt
 | 3) | schweigen lernen |
 | 4) | Einsamkeit lernen |
 | 5) | das tiefe Mißtrauen und das tiefe Vertrauen |
-| 6) | seinen Feind suchen, seinen Freund aber finden. |
+| 6) | seinen Feind **suchen**, seinen Freund aber **finden**. |
 
 [17[61]](javascript:;)
 ----------------------
@@ -1291,25 +1290,25 @@ Pflanze dich ein — als neue Pflicht
 
 Lob des Zufalls, als er seine Freunde sucht
 
-Lehre vom langen
-Willen an Stelle des Glücks
+Lehre vom **langen**
+**Willen** an Stelle des Glücks
 
-Die alten Werthe vernichtet
+Die alten Werthe **vernichtet**
 
 [17[63]](javascript:;)
 ----------------------
 
 So viel Güte, so viel Schwäche! Es ist noch nicht Zeit, gütig zu sein.
 
-§ Von der Gemeinschaft der Feiglinge
+§ **Von der Gemeinschaft der Feiglinge**
 
-Dein Stein wird mürbe!
+**Dein Stein wird mürbe!**
 
 dem Willen ein Rückgrat schaffen
 
-§ Unsere Würde als ein ewiger Typus
+§ Unsere Würde als ein **ewiger** Typus
 
-§ die Wissenschaft lehrt ihn nichts als ihre Flüchtigkeit und Vergänglichkeit
+§ die Wissenschaft lehrt ihn nichts als ihre **Flüchtigkeit** und **Vergänglichkeit**
 
 [17[64]](javascript:;)
 ----------------------
@@ -1338,20 +1337,20 @@ Wehe, du wolltest ihn kaufen, aber du botest zu wenig und so hast du seine Tugen
 [17[67]](javascript:;)
 ----------------------
 
-Mein Glück stand heiß über mir im Mittage <und> sog durstig an meinem Meere, ich liebe die
+Mein Glück stand heiß über mir im Mittage &amp;lt;und&amp;gt; sog durstig an meinem Meere, ich liebe die
 starken Winde und weiß auch, wohin sie gehen und woher sie brausen. Bald werde ich ein starker Sturm sein
 
 seinen Willen einpflanzen, daß er ein langer Wille werde, und ein hoher Baum mit breiten Ästen.
 
-§ ich will nicht, daß die Tugenden der Starken verwechselt werden.
+§ ich will nicht, daß die **Tugenden der Starken** verwechselt werden.
 
 [17[68]](javascript:;)
 ----------------------
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| Rede Napoleon’s — Verachtung der M<enschen>, er treibt seine Nation ins Höchste und erweckt den Gedanken wieder, daß ein Volk nur leben dürfe, wenn es den Glauben an sein höheres Recht zu finden habe. | | | |
-| hart | machen |  | statt mild |
+| **Rede Napoleon’s**— Verachtung der M&amp;lt;enschen&amp;gt;, er treibt seine Nation ins Höchste und erweckt den Gedanken wieder, daß ein Volk nur leben dürfe, wenn es den Glauben an sein **höheres** Recht zu finden habe. | | | |
+| **hart** | machen |  | statt mild |
 | lang | — | statt flüchtig |
 | stolz | — | statt bescheiden |
 | Gewissen  Pfeil geritzt —  Redet mir nicht von Ereignissen! Es wird sich euch nie etwas ereignen als ihr euch selber | | | |
@@ -1359,24 +1358,24 @@ seinen Willen einpflanzen, daß er ein langer Wille werde, und ein hoher Baum mi
 [17[69]](javascript:;)
 ----------------------
 
-§ <Zarathustra> 4 die große Verachtung Angesichts der Ewigkeit des Individuums.
+§ &amp;lt;Zarathustra&amp;gt; 4 die große Verachtung Angesichts der **Ewigkeit**des**Individuums**.
 
-Darauf erlösend: seht! ich lehre euch den Übermenschen
+Darauf **erlösend**: seht! **ich lehre euch** den **Übermenschen**
 
-§ <Zarathustra> 3 sie haben Alle keinen Glauben an ihr höheres Recht —
+§ &amp;lt;Zarathustra&amp;gt; 3 sie haben Alle keinen Glauben an ihr **höheres** Recht —
 Völker Weise usw.
 
   
 
-Schluß von Zarathustra 3 „Herauf abgründlicher Gedanke! Jetzt bin ich dir gewachsen! „Stein-hart-machen. Du bist mein Hammer! —
+Schluß von Zarathustra 3 „Herauf abgründlicher Gedanke! Jetzt bin ich dir gewachsen! „**Stein-hart-machen.** Du bist mein Hammer! —
 
 Seligkeit der urbestimmten Natur — Hymnus.
 
-<Zarathustra> 3 Anfang. Du hast Vieles schon gelassen —
+&amp;lt;Zarathustra&amp;gt; 3 Anfang. Du hast Vieles schon **gelassen** —
 
 Lange Grabrede mit Hohn zuletzt
 
-Ehre den Herrschsüchtigen die ihre Verachtung ausließen an den schwachen Menschen.
+Ehre den Herrschsüchtigen die ihre **Verachtung ausließen** an den **schwachen** Menschen.
 
 [17[70]](javascript:;)
 ----------------------
@@ -1397,17 +1396,17 @@ die ewige Zufriedenheit warf sich in ihren Gegensatz
 [17[72]](javascript:;)
 ----------------------
 
-die Journalisten als Leichenräuber den Halbtodten und Todten etwas abnehmend
+die Journalisten als **Leichenräuber** den Halbtodten und Todten etwas abnehmend
 
   
 
-Zarathustra 4 „laß sie zu mir kommen!“
+Zarathustra 4 „laß sie zu **mir** kommen!“
 
 „Du bringst gute Botschaft: der Sumpf bewegt sich“
 
   
 
-Wenn nicht der höchste M<ensch> Herr des Volkes ist, werden die Krämer Herr sein.
+Wenn nicht der höchste M&amp;lt;ensch&amp;gt; Herr des Volkes ist, werden die Krämer Herr sein.
 
   
 
@@ -1417,13 +1416,13 @@ Lieber noch Händel als Händler!
 
   
 
-gegen die Lehrer, die keine Vorbilder sind
+gegen die **Lehrer**, die keine Vorbilder sind
 
   
 
-Schluß
+**Schluß**
 
-Siehe, das ist die Sel<igkeit> wider Willen
+Siehe, das ist die Sel&amp;lt;igkeit&amp;gt; wider Willen
 
 [17[73]](javascript:;)
 ----------------------
@@ -1440,7 +1439,7 @@ A. Blanqui
 
 die Leiden des Höheren an der Unvollkommenheit der Niederen
 
-<das Leiden> Gottes an der M<ensch>h<eit>
+&amp;lt;das Leiden&amp;gt; Gottes an der M&amp;lt;ensch&amp;gt;h&amp;lt;eit&amp;gt;
 
 ihr habt verstanden, bei ihnen den Ehrgeiz zu erdrosseln: unter euch die letzten zu sein — deß gelüstete sie
 mehr als die ersten
@@ -1450,15 +1449,15 @@ Das Leiden des höheren Menschen ist nicht sein Niederes, sondern daß es noch H
 [17[75]](javascript:;)
 ----------------------
 
-Zarathustra 3. einsam gottlos furchtbar fürchterlich soll Zarathustra dem Einsiedler
+Zarathustra 3. **einsam gottlos furchtbar fürchterlich** soll Zarathustra dem Einsiedler
 erscheinen —
 
-der raubende Löwe der Wahn und Willkür im Heiligsten findet
+der raubende **Löwe** der Wahn und Willkür im Heiligsten findet
 
 [17[76]](javascript:;)
 ----------------------
 
-Feinde sich schaffen immer geistigere — oder alles wird matt
+**Feinde** sich schaffen immer **geistigere** — oder alles wird matt
 
   
 
@@ -1475,27 +1474,27 @@ Die Lust ist ein Weib: sie läuft dem nach, der sie verschmäht.
 [17[77]](javascript:;)
 ----------------------
 
-Zarathustra 3 Anfang. <Zarathustra> ist zufrieden — die Saat steht
-gut.
+Zarathustra 3 Anfang. &amp;lt;Zarathustra&amp;gt; ist zufrieden — die **Saat steht
+gut**.
 
-Er hat viel vor mit seinen Jüngern: erst müssen sie reifen.
+Er hat viel **vor** mit seinen Jüngern: erst müssen sie reifen.
 
 [17[78]](javascript:;)
 ----------------------
 
 ihr rechnet das Glück aus und vergeßt dabei alle Zukünftigen
 
-Falsche Rechnung in Betreff des Glückes — man muß das Unglück wollen.
+Falsche Rechnung in Betreff des **Glückes** — man muß das Unglück **wollen**.
 
-das Glück der Gegenwärtigen zum Opfer bringen für die zukünftigen Menschen.
+das Glück der Gegenwärtigen zum Opfer bringen für die **zukünftigen Menschen**.
 
 Fragt die Frauen: man gebiert nicht, weil es einem Vergnügen macht.
 
 [17[79]](javascript:;)
 ----------------------
 
-Es wird Eigenschaften an unserem Intellekte geben, die ihm als einem Intellekte zukommen, und
-andere, die ihm als einem menschlichen Intellekte zukommen: das ist jetzt die eigentliche Streitigkeit,
+Es wird Eigenschaften an unserem Intellekte geben, die ihm als einem Intellekte zukommen, **und
+andere**, die ihm als einem menschlichen Intellekte zukommen: das ist jetzt die eigentliche Streitigkeit,
 und man darf da nicht müde thun, sondern trennen zweifeln und zu lernen geben
 
 [17[80]](javascript:;)
@@ -1506,8 +1505,8 @@ es ja schlecht!
 
   
 
-„Da ist Etwas, das mir befehlen will. Warum ringen wir mit einander, laßt sehen, wer der
-Stärkere ist!“ so entsteht der Böse.
+„Da ist Etwas, das mir **befehlen** will. Warum ringen wir mit einander, laßt sehen, wer der
+Stärkere ist!“ so entsteht der **Böse**.
 
   
 
@@ -1525,7 +1524,7 @@ schlägt mir bis zur Kehle hinauf.
 
   
 
-ich weiß es nun und hin glücklich und müde darin geworden — nun „sei’s genug!“ — So ihr — ich aber will thun, was ich euch denken hieß
+ich weiß es nun und hin glücklich und müde darin geworden — nun „sei’s genug!“ — So ihr — **ich** aber will **thun**, was ich euch denken hieß
 
 Künstler
 
@@ -1558,11 +1557,11 @@ Zarathustra, sagte der Steuermann, das gefällt mir nicht!
 
   
 
-Die Losreißung an meiner Trennung von W<agner> zu schildern.
+Die Losreißung an meiner Trennung von W&amp;lt;agner&amp;gt; zu schildern.
 
   
 
-Es ward mir so still — dies erst ist Stille: <wenn> Niemand an mich denkt und alle von mir
+Es ward mir so still — dies erst ist Stille: &amp;lt;wenn&amp;gt; Niemand an mich denkt und alle von mir
 sprechen.
 
   
@@ -1579,21 +1578,21 @@ Ich suchte immer nur mein Heim, das ist meine schwerste Heimsuchung.
 [17[81]](javascript:;)
 ----------------------
 
-Es ist fehlerhaft, im Altruismus eine Verfeinerung des Egoismus zu sehen. Dies hieße es
+Es ist fehlerhaft, im Altruismus eine **Verfeinerung** des Egoismus zu sehen. Dies hieße es
 zu hoch stellen.
 
   
 
 Die Triebe, deren Wirken am stärksten selbstsüchtig genannt wird, sind es am wenigsten, z.B. die Begierden
-des Essens Geschlechtes und Reichthums. Hier ist an Ein Selbst noch
+des Essens Geschlechtes und Reichthums. **Hier** ist an Ein **Selbst** noch
 nicht gedacht, sondern nur an die Erhaltung eines Exemplars „Mensch“.
 
-Die Beschränkung dieser Begierden (oder eine Erschwerung ihrer
-Befriedigung!) ist eine Folge der Sucht nach Selbst, des Gefühls von Selbst.
+Die **Beschränkung** dieser Begierden (oder eine **Erschwerung ihrer
+Befriedigung**!) ist eine Folge der Sucht nach **Selbst**, des Gefühls von **Selbst**.
 
   
 
-die gemeinen Triebe wollen zuerst und allein befriedigt sein auf
+die gemeinen Triebe wollen **zuerst** und **allein** befriedigt sein auf
 Kosten der anderen.
 
 [17[82]](javascript:;)
@@ -1617,7 +1616,7 @@ nicht, wo Butter und Honig — fließt.
 In einem Leib von Eis geborgen ein kostbarer Tropfen süßen scharfen Weins — das ist mir das Glück — ja wenn
 es Götter gäbe, sie wären mir auf diesen Tropfen neidisch!
 
-Und wenn Einer sich gar in unsere Sonne legen will, so lachen wir voller Zweifel und
+Und wenn Einer sich gar in **unsere** Sonne legen will, so lachen wir voller Zweifel und
 fragen uns: sind wir gemacht, glücklich zu machen!
 
 Glück ist uns die große Ausnahme und Verwunderung: wir fürchten uns vor ihm und uns in ihm, wir stoßen es
@@ -1660,7 +1659,7 @@ Gedanke
 [17[85]](javascript:;)
 ----------------------
 
-Zarathustra, sagte der E<insiedler>, ich hielt dich bisher für einen Weisen, aber was mich über
+Zarathustra, sagte der E&amp;lt;insiedler&amp;gt;, ich hielt dich bisher für einen Weisen, aber was mich über
 Alles an dir verwundert, ich sehe nun, daß du auch klug bist. Das Schlimmste liegt hinter uns — du aber bist
 entkommen.
 
@@ -1700,7 +1699,7 @@ Eroberer.
   
 
 Zarathustra, wenn wir deinethalben nicht zu Grunde gehen, so werden wir deinethalben davonkommen. Aber so
-schlimme Dinge sah ich noch nie, das Schlimmste aber liegt hinter uns.
+schlimme Dinge sah ich noch nie, das Schlimmste aber liegt **hinter uns**.
 
   
 
@@ -1710,9 +1709,11 @@ Der Steuermann aber der Zarathustra zuletzt hatte reden hören entblößte sein 
 [17[88]](javascript:;)
 ----------------------
 
-La gaya scienza ist durchaus nöthig für einen, der so denkt wie ich und solches will.
+La gaya scienza ist durchaus nöthig für einen, der so denkt wie ich und solches **will**.
 
 [17[89]](javascript:;)
 ----------------------
 
 Ehre und Vollendung dir oh Zarathustra!
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

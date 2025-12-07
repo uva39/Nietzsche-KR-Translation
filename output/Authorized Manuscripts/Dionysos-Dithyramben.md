@@ -45,7 +45,7 @@ durch schwarze Bäume um dich liefen
 
 blendende Sonnen-Gluthblicke, schadenfrohe.
 
-„Der Wahrheit Freier — du? so höhnten sie
+„Der **Wahrheit** Freier — du? so höhnten sie
 
 nein! nur ein Dichter!
 
@@ -63,7 +63,7 @@ sich selbst zur Larve,
 
 sich selbst zur Beute
 
-das — der Wahrheit Freier?…
+**das** — der Wahrheit Freier?…
 
 Nur Narr! Nur Dichter!
 
@@ -79,7 +79,7 @@ zwischen falschen Himmeln
 
 herumschweifend, herumschleichend —
 
-nur Narr! nur Dichter!…
+**nur** Narr! **nur** Dichter!…
 
 Das — der Wahrheit Freier?…
 
@@ -115,13 +115,13 @@ mit lüsternen Lefzen,
 
 selig-höhnisch, selig-höllisch, selig-blutgierig,
 
-raubend, schleichend, lügend liefest…
+raubend, schleichend, **lügend** liefest…
 
 Oder dem Adler gleich, der lange,
 
 lange starr in Abgründe blickt,
 
-in seine Abgründe…
+in **seine** Abgründe…
 
 — oh wie sie sich hier hinab,
 
@@ -137,7 +137,7 @@ geraden Flugs
 
 gezückten Zugs
 
-auf Lämmer stossen,
+auf **Lämmer** stossen,
 
 jach hinab, heisshungrig,
 
@@ -157,21 +157,21 @@ adlerhaft, pantherhaft
 
 sind des Dichters Sehnsüchte,
 
-sind deine Sehnsüchte unter tausend Larven,
+sind **deine** Sehnsüchte unter tausend Larven,
 
 du Narr! du Dichter!…
 
 Der du den Menschen schautest
 
-so Gott als Schaf —,
+so **Gott** als**Schaf** —,
 
-den Gott zerreissen im Menschen
+den Gott **zerreissen** im Menschen
 
 wie das Schaf im Menschen
 
-und zerreissend lachen —
+und zerreissend **lachen** —
 
-das, das ist deine Seligkeit,
+**das**,**das ist deine Seligkeit**,
 
 eines Panthers und Adlers Seligkeit,
 
@@ -213,11 +213,11 @@ verbrannt und durstig
 
 wie da du durstetest? —
 
-dass ich verbannt sei
+**dass ich verbannt sei**
 
-von aller Wahrheit!
+**von aller Wahrheit**!
 
-Nur Narr! Nur Dichter!…
+**Nur** Narr! **Nur** Dichter!…
 
 [Unter Töchtern der Wüste.](javascript:;)
 -----------------------------------------
@@ -254,7 +254,7 @@ Also sprach der Wanderer, der sich den Schatten Zarathustras nannte; und ehe Jem
 
 ### [2.](javascript:;)
 
-Die Wüste wächst: weh dem, der Wüsten birgt…
+**Die Wüste wächst: weh dem, der Wüsten birgt…**
 
 ### [3.](javascript:;)
 
@@ -372,7 +372,7 @@ Mädchen-Katzen
 
 Dudu und Suleika
 
-— umsphinxt, dass ich in Ein Wort
+— **umsphinxt**, dass ich in Ein Wort
 
 viel Gefühle stopfe
 
@@ -430,11 +430,11 @@ einer Tänzerin gleich, die, wie mir scheinen will,
 
 zu lange schon, gefährlich lange
 
-immer, immer nur auf Einem Beinchen stand?
+immer, immer nur auf **Einem** Beinchen stand?
 
 — da vergass sie darob, wie mir scheinen will,
 
-das andre Beinchen?
+das **andre** Beinchen?
 
 Vergebens wenigstens
 
@@ -454,7 +454,7 @@ Ja, wenn ihr mir, ihr schönen Freundinnen,
 
 ganz glauben wollt,
 
-sie hat es verloren…
+sie hat es **verloren**…
 
 Hu! Hu! Hu! Hu! Hu!…
 
@@ -550,11 +550,11 @@ Stein knirscht an Stein, die Wüste schlingt und würgt.
 
 Der ungeheure Tod blickt glühend braun
 
-und kaut, — sein Leben ist sein Kaun…
+und **kaut**, — sein Leben ist sein Kaun…
 
-Vergiss nicht, Mensch, den Wollust ausgeloht:
+**Vergiss nicht, Mensch, den Wollust ausgeloht:**
 
-du — bist der Stein, die Wüste, bist der Tod…
+**du — bist der Stein, die Wüste, bist der Tod…**
 
 \*                 \*
 
@@ -589,19 +589,19 @@ auf seinem Schicksal ein Schicksal stehend,
 
 hart, nachdenklich, vordenklich —:
 
-erzitternd darob, dass er siegte,
+erzitternd darob, **dass** er siegte,
 
-jauchzend darüber, dass er sterbend siegte —:
+jauchzend darüber, dass er **sterbend** siegte —:
 
 befehlend, indem er starb
 
-— und er befahl, dass man vernichte…
+— und er befahl, dass man **vernichte**…
 
 So sterben,
 
 wie ich ihn einst sterben sah:
 
-siegend, vernichtend…
+siegend, **vernichtend**…
 
 [Zwischen Raubvögeln.](javascript:;)
 ------------------------------------
@@ -616,7 +616,7 @@ schluckt den die Tiefe!
 
 liebst den Abgrund noch,
 
-thust der Tanne es gleich? —
+thust der **Tanne** es gleich? —
 
 Die schlägt Wurzeln, wo
 
@@ -638,13 +638,13 @@ geduldig duldend, hart, schweigsam,
 
 einsam…
 
-Einsam!
+**Einsam!**
 
 Wer wagte es auch,
 
 hier Gast zu sein,
 
-dir Gast zu sein?…
+**dir** Gast zu sein?…
 
 Ein Raubvogel vielleicht:
 
@@ -658,7 +658,7 @@ mit irrem Gelächter,
 
 einem Raubvogel-Gelächter…
 
-Wozu so standhaft?
+**Wozu** so standhaft?
 
 — höhnt er grausam:
 
@@ -706,9 +706,9 @@ an jedem Froste kalt,
 
 in eignen Stricken gewürgt,
 
-Selbstkenner!
+**Selbstkenner!**
 
-Selbsthenker!
+**Selbsthenker!**
 
 Was bandest du dich
 
@@ -720,7 +720,7 @@ ins Paradies der alten Schlange?
 
 Was schlichst du dich ein
 
-in dich — in dich?…
+in **dich** — in **dich**?…
 
 Ein Kranker nun,
 
@@ -748,15 +748,15 @@ von hundert Lasten überthürmt,
 
 von dir überlastet,
 
-ein Wissender!
+ein **Wissender**!
 
-ein Selbsterkenner!
+ein **Selbsterkenner**!
 
-der weise Zarathustra!…
+der **weise** Zarathustra!…
 
 Du suchtest die schwerste Last:
 
-da fandest du dich —,
+da fandest du **dich** —,
 
 du wirfst dich nicht ab von dir…
 
@@ -768,7 +768,7 @@ Einer, der schon nicht mehr aufrecht steht!
 
 Du verwächst mir noch mit deinem Grabe,
 
-verwachsener Geist!…
+**verwachsener** Geist!…
 
 Und jüngst noch so stolz,
 
@@ -790,7 +790,7 @@ ein Fragezeichen,
 
 ein müdes Räthsel —
 
-ein Räthsel für Raubvögel…
+ein Räthsel für **Raubvögel**…
 
 sie werden dich schon „lösen“,
 
@@ -802,9 +802,9 @@ um dich, Gehenkter!…
 
 Oh Zarathustra!…
 
-Selbstkenner!…
+**Selbstkenner!…**
 
-Selbsthenker!…
+**Selbsthenker!…**
 
 [Das Feuerzeichen](javascript:;)
 --------------------------------
@@ -841,13 +841,13 @@ Was floh Zarathustra vor Thier und Menschen?
 
 Was entlief er jäh allem festen Lande?
 
-Sechs Einsamkeiten kennt er schon —,
+**Sechs** Einsamkeiten kennt er schon —,
 
 aber das Meer selbst war nicht genug ihm einsam,
 
 die Insel liess ihn steigen, auf dem Berg wurde er zur Flamme,
 
-nach einer siebenten Einsamkeit
+nach einer **siebenten** Einsamkeit
 
 wirft er suchend jetzt die Angel über sein Haupt.
 
@@ -861,7 +861,7 @@ gebt Antwort auf die Ungeduld der Flamme,
 
 fangt mir, dem Fischer auf hohen Bergen,
 
-meine siebente letzte Einsamkeit! — —
+meine siebente **letzte** Einsamkeit! — —
 
 [Die Sonne sinkt.](javascript:;)
 --------------------------------
@@ -950,7 +950,7 @@ Jetzt erst, wo der Fuss müde ward,
 
 holt dein Blick mich noch ein,
 
-holt dein Glück mich noch ein.
+holt dein **Glück** mich noch ein.
 
 Rings nur Welle und Spiel.
 
@@ -1017,7 +1017,7 @@ getroffen
 
 von dir, grausamster Jäger,
 
-du unbekannter — Gott…
+du unbekannter — **Gott**…
 
 Triff tiefer!
 
@@ -1039,7 +1039,7 @@ Nicht tödten willst du,
 
 nur martern, martern?
 
-Wozu — mich martern,
+Wozu — **mich** martern,
 
 du schadenfroher unbekannter Gott?
 
@@ -1069,7 +1069,7 @@ Weg! Weg!
 
 wozu die Leiter?
 
-willst du hinein,
+willst du **hinein**,
 
 ins Herz, einsteigen,
 
@@ -1115,7 +1115,7 @@ Sprich endlich!
 
 Du Blitz-Verhüllter! Unbekannter! sprich!
 
-Was willst du, Wegelagerer, von — mir?…
+Was willst du, Wegelagerer, von — **mir**?…
 
 Wie?
 
@@ -1129,7 +1129,7 @@ und rede kurz — das räth mein andrer Stolz!
 
 Haha!
 
-Mich — willst du? mich?
+**Mich** — willst du? mich?
 
 mich — ganz?…
 
@@ -1139,7 +1139,7 @@ Und marterst mich, Narr, der du bist,
 
 zermarterst meinen Stolz?
 
-Gieb Liebe mir — wer wärmt mich noch?
+Gieb **Liebe** mir — wer wärmt mich noch?
 
 wer liebt mich noch?
 
@@ -1151,7 +1151,7 @@ gieb mir, der Einsamsten,
 
 die
 
-*Erratum:*d<e>in  
+*Erratum:*d&amp;lt;e&amp;gt;in  
 *lies:*die  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -1165,7 +1165,7 @@ gieb, ja ergieb
 
 grausamster Feind,
 
-mir — dich!…
+mir — **dich**!…
 
 Davon!
 
@@ -1183,7 +1183,7 @@ Nein!
 
 komm zurück!
 
-Mit allen deinen Martern!
+**Mit** allen deinen Martern!
 
 All meine Thränen laufen
 
@@ -1201,7 +1201,7 @@ mein unbekannter Gott!
 *lies:*Gott!  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- mein Schmerz!
+ mein **Schmerz**!
 
 mein letztes Glück!…
 
@@ -1209,7 +1209,7 @@ Ein Blitz. Dionysos wird in smaragdener Schönheit sichtbar.
 
   
 
-Dionysos:
+**Dionysos:**
 
 Sei klug, Ariadne!…
 
@@ -1219,7 +1219,7 @@ steck ein kluges Wort hinein! —
 
 Muss man sich nicht erst hassen, wenn man sich lieben soll?…
 
-Ich bin dein Labyrinth…
+**Ich bin dein Labyrinth…**
 
 [Ruhm und Ewigkeit.](javascript:;)
 ----------------------------------
@@ -1256,7 +1256,7 @@ das Eingeweide…
 
 Wo Hass und Blitzstrahl
 
-Eins ward, ein Fluch —,
+Eins ward, ein **Fluch** —,
 
 auf den Bergen haust jetzt Zarathustra’s Zorn,
 
@@ -1278,7 +1278,7 @@ nun zittert, was Gebälk und Mauer ist,
 
 nun zucken Blitze und schwefelgelbe Wahrheiten —
 
-Zarathustra flucht…
+Zarathustra **flucht**…
 
 ### [2](javascript:;)
 
@@ -1286,23 +1286,23 @@ Diese Münze, mit der
 
 alle Welt bezahlt,
 
-Ruhm —,
+**Ruhm** —,
 
 mit Handschuhen fasse ich diese Münze an,
 
-mit Ekel trete ich sie unter mich.
+mit Ekel trete ich sie **unter** mich.
 
-Wer will bezahlt sein?
+**Wer** will bezahlt sein?
 
 Die Käuflichen…
 
-Wer feil steht, greift
+Wer **feil** steht, greift
 
 mit fetten Händen
 
 nach diesem Allerwelts-Blechklingklang Ruhm!
 
-— Willst du sie kaufen?
+— **Willst** du sie kaufen?
 
 sie sind Alle käuflich.
 
@@ -1310,9 +1310,9 @@ Aber biete Viel!
 
 klingle mit vollem Beutel!
 
-— du stärkst sie sonst,
+— du **stärkst** sie sonst,
 
-du stärkst sonst ihre Tugend…
+du stärkst sonst ihre **Tugend**…
 
 Sie sind Alle tugendhaft.
 
@@ -1324,7 +1324,7 @@ zahlt sie Tugend-Geplapper
 
 mit Ruhm-Geklapper —,
 
-die Welt lebt von diesem Lärm…
+die Welt **lebt** von diesem Lärm…
 
 Vor allen Tugendhaften
 
@@ -1338,23 +1338,23 @@ wird mein Ehrgeiz zum Wurm —,
 
 unter Solchen gelüstet’s mich,
 
-der Niedrigste zu sein…
+der **Niedrigste** zu sein…
 
 Diese Münze, mit der
 
 alle Welt bezahlt,
 
-Ruhm —,
+**Ruhm** —,
 
 mit Handschuhen fasse ich diese Münze an,
 
-mit Ekel trete ich sie unter mich.
+mit Ekel trete ich sie **unter** mich.
 
 ### [3](javascript:;)
 
 Still! —
 
-Von grossen Dingen — ich sehe Grosses! —
+Von grossen Dingen — ich **sehe** Grosses! —
 
 soll man schweigen
 
@@ -1380,7 +1380,7 @@ Höchstes Gestirn des Seins!
 
 Ewiger Bildwerke Tafel!
 
-Du kommst zu mir? —
+**Du** kommst zu mir? —
 
 Was Keiner erschaut hat,
 
@@ -1396,11 +1396,11 @@ Ewiger Bildwerke Tafel!
 
 was Alle hassen,
 
-was allein ich liebe,
+was allein **ich** liebe,
 
-dass du ewig bist!
+dass du **ewig** bist!
 
-dass du nothwendig bist!
+dass du **nothwendig** bist!
 
 Meine Liebe entzündet
 
@@ -1418,7 +1418,7 @@ ewiges Ja des Sein’s,
 
 ewig bin ich dein Ja:
 
-denn ich liebe dich, oh Ewigkeit! — —
+**denn ich liebe dich, oh Ewigkeit!** — —
 
 [Von der Armut des Reichsten.](javascript:;)
 --------------------------------------------
@@ -1429,7 +1429,7 @@ kein Tropfen erreichte mich,
 
 kein feuchter Wind, kein Thau der Liebe
 
-— ein regenloses Land…
+— ein **regenloses** Land…
 
 Nun bitte ich meine Weisheit,
 
@@ -1471,7 +1471,7 @@ nahe mir heut die Wahrheit,
 
 von der Sonne gesüsst, von der Liebe gebräunt, —
 
-eine reife Wahrheit breche ich allein vom Baum.
+eine **reife** Wahrheit breche ich allein vom Baum.
 
 Heut strecke ich die Hand aus
 
@@ -1529,9 +1529,9 @@ im eignen Safte
 
 süss geworden und gekocht,
 
-unterhalb seines Gipfels,
+**unterhalb** seines Gipfels,
 
-unterhalb seines Eises,
+**unterhalb** seines Eises,
 
 müde und selig,
 
@@ -1553,7 +1553,7 @@ komm, komm, geliebte Wahrheit!
 
 — Still!
 
-Meine Wahrheit ists!
+**Meine** Wahrheit ists!
 
 Aus zögernden Augen,
 
@@ -1563,15 +1563,15 @@ trifft mich ihr Blick,
 
 lieblich, bös, ein Mädchenblick…
 
-Sie errieth meines Glückes Grund,
+Sie errieth meines Glückes **Grund**,
 
-sie errieth mich — ha! was sinnt sie aus? —
+sie errieth **mich** — ha! was sinnt sie aus? —
 
 Purpurn lauert ein Drache
 
 im Abgrunde ihres Mädchenblicks.
 
-— Still! Meine Wahrheit redet! —
+— Still! Meine Wahrheit **redet**! —
 
 Wehe dir, Zarathustra!
 
@@ -1601,7 +1601,7 @@ aber du selber bist der Überflüssigste!
 
 Sei klug, du Reicher!
 
-Verschenke dich selber erst, oh Zarathustra!
+**Verschenke dich selber erst**, oh Zarathustra!
 
 Zehn Jahre dahin —,
 
@@ -1609,7 +1609,7 @@ und kein Tropfen erreichte dich?
 
 Kein feuchter Wind? kein Thau der Liebe?
 
-Aber wer sollte dich auch lieben,
+Aber wer **sollte** dich auch lieben,
 
 du Überreicher?
 
@@ -1617,7 +1617,7 @@ Dein Glück macht rings trocken,
 
 macht arm an Liebe
 
-— ein regenloses Land…
+— ein **regenloses** Land…
 
 Niemand dankt dir mehr,
 
@@ -1629,9 +1629,9 @@ daran erkenne ich dich,
 
 du Überreicher,
 
-du Ärmster aller Reichen!
+du **Ärmster** aller Reichen!
 
-Du opferst dich, dich quält dein Reichthum —,
+Du opferst dich, dich **quält** dein Reichthum —,
 
 du giebst dich ab,
 
@@ -1639,11 +1639,11 @@ du schonst dich nicht, du liebst dich nicht:
 
 die grosse Qual zwingt dich allezeit,
 
-die Qual übervoller Scheuern, übervollen Herzens —
+die Qual **übervoller** Scheuern, **übervollen** Herzens —
 
 aber Niemand dankt dir mehr…
 
-Du musst ärmer werden,
+Du musst **ärmer** werden,
 
 weiser Unweiser!
 
@@ -1653,7 +1653,7 @@ Man liebt nur die Leidenden,
 
 man giebt Liebe nur dem Hungernden:
 
-verschenke dich selber erst, oh Zarathustra!
+**verschenke dich selber erst**, oh Zarathustra!
 
 — Ich bin deine Wahrheit…
 
@@ -1661,12 +1661,14 @@ verschenke dich selber erst, oh Zarathustra!
 
 |  |  |
 | --- | --- |
-| Nur Narr! Nur Dichter! | <375> |
-| Unter Töchtern der Wüste | <379> |
-| Letzter Wille | <386> |
-| Zwischen Raubvögeln | <387> |
-| Das Feuerzeichen | <391> |
-| Die Sonne sinkt | <393> |
-| Klage der Adriadne | <395> |
-| Ruhm und Ewigkeit | <400> |
-| Von der Armut des Reichsten | <404> |
+| Nur Narr! Nur Dichter! | &amp;lt;375&amp;gt; |
+| Unter Töchtern der Wüste | &amp;lt;379&amp;gt; |
+| Letzter Wille | &amp;lt;386&amp;gt; |
+| Zwischen Raubvögeln | &amp;lt;387&amp;gt; |
+| Das Feuerzeichen | &amp;lt;391&amp;gt; |
+| Die Sonne sinkt | &amp;lt;393&amp;gt; |
+| Klage der Adriadne | &amp;lt;395&amp;gt; |
+| Ruhm und Ewigkeit | &amp;lt;400&amp;gt; |
+| Von der Armut des Reichsten | &amp;lt;404&amp;gt; |
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

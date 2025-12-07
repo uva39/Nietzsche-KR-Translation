@@ -73,7 +73,7 @@ ausstrecken
 
 Manches am Menschen ist wenig göttlich: wenn man Koth läßt, wie soll man dabei Gott sein?
 
-Aber schlimmer noch ist <es> mit dem anderen Kothe, der Sünde heißt: den wollen die Menschen
+Aber schlimmer noch ist &amp;lt;es&amp;gt; mit dem anderen Kothe, der Sünde heißt: den wollen die Menschen
 gar noch bei sich behalten und nicht von sich lassen.
 
 Nun aber muß ich’s glauben: man kann Gott sein und doch Koth lassen: so lehre ich sie, ihren Koth lassen und
@@ -87,7 +87,7 @@ Eine alte Weisheit trank ich jüngst, einen unvordenklich alten starken Wein der
 [23[3]](javascript:;)
 ---------------------
 
-Vom Ruhme.
+**Vom Ruhme.**
 
 Ein Andres ist Wollust, ein Andres Gebären. Fragt die Weiber! Man gebiert nicht, weil es Vergnügen macht.
 
@@ -106,14 +106,14 @@ der Ewigkeit huldigend vor sich auszuschütten.
 Eins! Mitternacht hebt an! Fern her geweht, herauf aus tiefer Welt — bei mir, dem Einsiedler sucht ihr Wort
 die letzte Ruhe?
 
-Zwei! Die letzte Ruhe der tiefen Welt — ist sie denn eines Einsiedlers Höhe? Sucht sie, wenn mir ihr Klang durch Ohr und Mark und Bein geht — sucht und findet sie also noch ihren Frieden?
+Zwei! Die letzte Ruhe der tiefen Welt — ist sie denn eines Einsiedlers Höhe? Sucht sie, wenn **mir** ihr Klang durch Ohr und Mark und Bein geht — sucht und findet sie also noch **ihren** Frieden?
 
 Drei!
 
 [23[5]](javascript:;)
 ---------------------
 
-Von den Wegen des Erkennenden.
+**Von den Wegen des Erkennenden.**
 
 „Wie kamst du, oh Zarathustra zu deiner Weisheit: hast du sie erflogen? — so fragt ihr mich — auf daß wir dir
 ablernen, wie wir zu unserer Weisheit fliegen möchten?“
@@ -132,7 +132,7 @@ mich nicht mit ihren Augen.
 Sie hörten mich nicht mit ihren Ohren: und oft horchte ich auf Wiederhall aber ich hörte nur — Lob.
 
 Ich sagte es ihnen in’s Ohr, als ich mich in neue furchtbare Meere einschiffte: also verbarg ich’s? Nun aber,
-als ich vor ihren Augen in neue furchtbare Wüsten wanderte — wer sah mich wandern?
+als ich vor ihren Augen in neue furchtbare Wüsten wanderte — wer **sah** mich wandern?
 
 Und wenn ich mit Strickleitern in manches Fenster kletterte, mit hurtigen Beinen manchen Mast erritt: der
 Gut-Verborgene blieb ich ihnen auch mit meinen Bosheiten und Abenteuern.
@@ -167,16 +167,16 @@ werdet ihr auch tanzen wollen.
 [23[7]](javascript:;)
 ---------------------
 
-Vorspiel.
+**Vorspiel.**
 
 Oh meine Brüder! Daß ihr erst Stille von mir lerntet! Und Einsamkeit!
 
 [23[8]](javascript:;)
 ---------------------
 
-Vom letzten Troste.
+**Vom letzten Troste.**
 
-Siehe, wie Alles zur Werkstatt für schaffende Seelen hergerichtet ward: alles was schaffenden Seelen unentbehrlich ist, ist im Überflusse da: so auch der Schmerz.
+Siehe, wie Alles zur Werkstatt für schaffende Seelen hergerichtet ward: alles was schaffenden Seelen **unentbehrlich** ist, ist im **Überflusse** da: so auch der Schmerz.
 
 [23[9]](javascript:;)
 ---------------------
@@ -327,7 +327,7 @@ Vom Ring der Ringe.
 
 Vom Troste in der Großmuth („Schmerz“)
 
-Abschaffung der Sünde (weil kein Gott)
+Abschaffung der **Sünde** (weil kein Gott)
 
 (Gleichniß allein)
 
@@ -338,3 +338,5 @@ Vom letzten Troste
 Ohne Sünde.
 
 Von Fürsten und Völkern —
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

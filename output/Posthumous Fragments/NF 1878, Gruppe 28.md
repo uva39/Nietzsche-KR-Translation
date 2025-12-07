@@ -13,7 +13,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 
 [28 = N II 6. Frühling–Sommer 1878]
 
-Memorabilia.
+**Memorabilia.**
 
 [28[1]](javascript:;)
 ---------------------
@@ -32,9 +32,9 @@ fühlt.
 [28[3]](javascript:;)
 ---------------------
 
-14. Splügen. Symbol<isches> Hin und Her der
+14. **Splügen.** Symbol&amp;lt;isches&amp;gt; Hin und Her der
 Generationen. Mitte zwischen Nord und Süd, Sommer und Winter. Die Burg im Sonnenschein zu Mittag. Wald Abend
-Monument<alische> Historie geschrieben.
+Monument&amp;lt;alische&amp;gt; Historie geschrieben.
 
 [28[4]](javascript:;)
 ---------------------
@@ -46,15 +46,15 @@ dieser Überzeugungen, bald Ironie erregt hätte.
 ---------------------
 
 Im Jahr 1877 wusste ich von der Zukunft gar nichts zu verlangen. Selbst Gesundheit nicht — denn diese ist ein
-Mittel — was hätte ich mit diesem Mittel erreichen wollen?
+Mittel — **was** hätte ich mit diesem Mittel erreichen wollen?
 
 [28[6]](javascript:;)
 ---------------------
 
-Windlücke. Steine als Zeugen der Vorzeit.
+**Windlücke.** Steine als Zeugen der Vorzeit.
 
-Krumme Hufe Mondschein Schlittschuh. „Was ich des Tags verdient auf m<einer> Leyer, das geht
-des Ab<end>s w<ieder> in den Wind“.
+Krumme Hufe Mondschein Schlittschuh. „Was ich des Tags verdient auf m&amp;lt;einer&amp;gt; Leyer, das geht
+des Ab&amp;lt;end&amp;gt;s w&amp;lt;ieder&amp;gt; in den Wind“.
 
 Glückliche Tage des Lebens!
 
@@ -62,7 +62,7 @@ Glückliche Tage des Lebens!
 ---------------------
 
 Als Kind Gott im Glanze gesehn. — Erste philosophische Schrift über die Entstehung des Teufels (Gott denkt
-sich selbst, dies kann er nur durch Vorstellung seines Gegensatzes). Schwermüth<iger> Nachmittag
+sich selbst, dies kann er nur durch Vorstellung seines Gegensatzes). Schwermüth&amp;lt;iger&amp;gt; Nachmittag
 — Gottesdienst in der Capelle zu Pforta, ferne Orgeltöne.
 
 Als Verwandter von Pfarrern früher Einblick in geistige und seelische Beschränktheit Tüchtigkeit Hochmuth
@@ -91,7 +91,7 @@ evviva il Dio que tanto l’ama.
 [28[11]](javascript:;)
 ----------------------
 
-Apologie des Socrates mit innerer Bewegung gelesen und erklärt. Lust an den
+**Apologie** des Socrates mit innerer Bewegung gelesen und erklärt. Lust an den
 Memorabilien, die ich besser zu verstehen glaube als die Philologen.
 
 [28[12]](javascript:;)
@@ -115,36 +115,36 @@ Pfannkuchen.
 [28[15]](javascript:;)
 ----------------------
 
-Eine Haupteigenschaft: ein verfeinerter Heroismus (den ich übrigens auch bei Epikur
+Eine Haupteigenschaft: ein **verfeinerter Heroismus**(den ich übrigens auch bei Epikur
 anerkenne). In meinem Buche giebt es kein Wort gegen Todesfurcht. Ich habe wenig davon.
 
 [28[16]](javascript:;)
 ----------------------
 
-Mein Wesen enthüllt sich — ob es sich entwickelt?
+Mein Wesen **enthüllt sich** — ob es sich **entwickelt**?
 
 Von Kindheit an überladen mit fremdem Character und fremdem Wissen. Ich entdecke mich selbst.
 
 [28[17]](javascript:;)
 ----------------------
 
-Mitromania. — Warten auf das Erscheinen des ersten Sonnenstrahls — ihn endlich sehen und
-— ihn verhöhnen und sich auslöschen.
+Mitromania. — Warten auf das Erscheinen des ersten Sonnenstrahls — ihn **endlich** sehen und
+— ihn verhöhnen und **sich** auslöschen.
 
 [28[18]](javascript:;)
 ----------------------
 
-Wissen Erstarrung — Handeln Epilepsie unfreiwillig.
+Wissen **Erstarrung** — Handeln Epilepsie unfreiwillig.
 
 12. Wie vom Curare-Pfeil der Erkenntniss angeschossen bin ich: alles sehend.
 
 [28[19]](javascript:;)
 ----------------------
 
-Von Reisenden: Die Einen wissen aus Wenigem Viel, die Meisten aus Vielem Wenig zu
+Von **Reisenden**: Die Einen wissen aus Wenigem Viel, die Meisten aus Vielem Wenig zu
 machen.
 
-11. Gesehen (bereist) werden; sehen; erleben; einleben;
+11. Gesehen (bereist) **werden**; sehen; erleben; einleben;
 herausleben — fünf Stufen; wenige kommen zur obersten.
 
 [28[20]](javascript:;)
@@ -173,7 +173,7 @@ Verwundet hat mich der mich erweckt.
 [28[24]](javascript:;)
 ----------------------
 
-Grotta di Matrimonio, idyllisches Bild des unbewussten Lebens.
+Grotta di **Matrimonio**, idyllisches Bild des unbewussten Lebens.
 
 [28[25]](javascript:;)
 ----------------------
@@ -189,8 +189,8 @@ Rache.
 [28[27]](javascript:;)
 ----------------------
 
-7. Verfeinerter Heroismus mit Augenschliessen über sich selbst,
-an mir bemerkt. Vielleicht schliessen Andre bei ihren Thätigkeiten die Augen.
+7. Verfeinerter Heroismus mit **Augenschliessen** über sich selbst,
+an mir bemerkt. Vielleicht schliessen Andre bei **ihren** Thätigkeiten die Augen.
 
 [28[28]](javascript:;)
 ----------------------
@@ -216,7 +216,7 @@ die Verleumdung.
 
 4. Durch kein Leiden sich zum Glauben an den δεύτερος πλοῦς bringen lassen.
 
-Leiden als Strafe und Prüfung (Zukunft) ablehnen.
+**Leiden** als Strafe und Prüfung (Zukunft) ablehnen.
 
 [28[32]](javascript:;)
 ----------------------
@@ -233,7 +233,7 @@ Von Todten träumen.
 [28[34]](javascript:;)
 ----------------------
 
-Das Leben als Fest auszudenken von Mitromanie aus.
+Das Leben als **Fest** auszudenken von Mitromanie aus.
 
 [28[35]](javascript:;)
 ----------------------
@@ -253,12 +253,12 @@ Faust-Problem überwunden, mit der Metaphysik.
 [28[38]](javascript:;)
 ----------------------
 
-Dem Einzelnen kühne Willkür des Lebens zu vindiciren. Jetzt erst!
+Dem Einzelnen kühne **Willkür** des Lebens zu vindiciren. Jetzt erst!
 
 [28[39]](javascript:;)
 ----------------------
 
-Kunst der Erinnerung, Bezwingung der bösen bitteren Elemente. Kampf gegen Krankheit
+**Kunst** der Erinnerung, Bezwingung der bösen bitteren Elemente. Kampf gegen Krankheit
 Verdruss Langeweile.
 
 2. Mithras tödtet den Stier, an dem Schlange und Scorpion hängen.
@@ -266,12 +266,12 @@ Verdruss Langeweile.
 [28[40]](javascript:;)
 ----------------------
 
-Die antike Weltbetrachtung wieder gewinnen! Wirklich die Moira über allem, die Götter Repräsentanten wirklicher Mächte! Antik werden!
+Die antike Weltbetrachtung wieder gewinnen! Wirklich die **Moira** über allem, die **Götter** Repräsentanten wirklicher Mächte! Antik werden!
 
 [28[41]](javascript:;)
 ----------------------
 
-Ich brauche die Salbbüchsen und Medicinflaschen aller antiken Philosophen.
+Ich brauche die Salbbüchsen und Medicinflaschen **aller** antiken Philosophen.
 
 [28[42]](javascript:;)
 ----------------------
@@ -293,37 +293,37 @@ Göttin, meine Sache ist nicht deine Sache, vergieb, aber ich kann nicht anders.
 [28[45]](javascript:;)
 ----------------------
 
-Wirkung meiner Schriften: dagegen sehr skeptisch. Ich sah Parteien. „Ich will warten, bis Wagner eine Schrift anerkennt, die gegen ihn gerichtet ist“ sagte ich.
+**Wirkung** meiner Schriften: dagegen sehr **skeptisch**. Ich sah **Parteien**. „Ich will warten, bis Wagner eine Schrift anerkennt, die **gegen** ihn gerichtet ist“ sagte ich.
 
 [28[46]](javascript:;)
 ----------------------
 
-Bei Ungenügen stellt sich leicht Geist-Vergiftung ein: so bei den Zielen der Bayreuther
+Bei Ungenügen stellt sich leicht **Geist-Vergiftung** ein: so bei den Zielen der Bayreuther
 Blätter.
 
 [28[47]](javascript:;)
 ----------------------
 
-Den höchsten Formensinn, auf der einfachsten Grundform das Complicirteste folgerichtig entwickeln — finde ich bei Chopin.
+Den **höchsten** Formensinn, auf der einfachsten Grundform das Complicirteste **folge**richtig entwickeln — finde ich bei Chopin.
 
 [28[48]](javascript:;)
 ----------------------
 
-Bei der deutschen Musik werden moralische Factoren zu hoch
+Bei der **deutschen** Musik werden moralische Factoren zu hoch
 angerechnet —
 
 [28[49]](javascript:;)
 ----------------------
 
-Schamloses sich Hineindrängen — das kann wirklich Mitleid sein: aber ich wünsche Mitleid mit Intellect: dem Schopenh<auerschen>, das schon intelligent sein
+Schamloses sich Hineindrängen — das kann wirklich Mitleid sein: aber ich wünsche Mitleid **mit** Intellect: dem Schopenh&amp;lt;auerschen&amp;gt;, das schon **intelligent** sein
 soll, misstraue ich völlig.
 
 [28[50]](javascript:;)
 ----------------------
 
-Naturfehler des Musikers.
+Naturfehler des **Musikers**.
 
-Biographien
+**Biographien**
 
 [28[51]](javascript:;)
 ----------------------
@@ -334,14 +334,14 @@ und Glauben hinnehmen.
 [28[52]](javascript:;)
 ----------------------
 
-Wagner hat den Sinn der Laien, die eine Erklärung aus einer Ursache für besser halten.
+Wagner hat den Sinn der Laien, die eine Erklärung aus **einer** Ursache für besser halten.
 So die Juden: Eine Schuld, So Ein Erlöser. So vereinfacht er das Deutsche, die Cultur. Falsch, aber
 kräftig.
 
 [28[53]](javascript:;)
 ----------------------
 
-Liszt, der Repräsentant aller Musiker, kein Musiker: der Fürst,
+Liszt, der **Repräsentant** aller Musiker, **kein Musiker**: der Fürst,
 nicht der Staatsmann. Hundert Musiker-Seelen zusammen, aber nicht genug eigene Person, um eignen Schatten zu
 haben.
 
@@ -364,7 +364,7 @@ blicken liessen.
 [28[56]](javascript:;)
 ----------------------
 
-Gegen das Briefschreiben unter Freunden. Sobald man Briefe schreibt, beginnt man schon
+**Gegen** das Briefschreiben unter Freunden. Sobald man Briefe schreibt, beginnt man schon
 zu irren.
 
 [28[57]](javascript:;)
@@ -391,3 +391,5 @@ aussprengen.
 ----------------------
 
 Unter Nußbaum wie unter Verwandten, ganz heimisch.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

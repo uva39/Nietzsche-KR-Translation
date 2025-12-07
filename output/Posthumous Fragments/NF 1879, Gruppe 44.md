@@ -22,15 +22,15 @@ giebst, ohne Weiteres annimmt, es seien deine Eigenschaften.
 [44[2]](javascript:;)
 ---------------------
 
-Schubert verhält sich zu Beethoven wie die naive Dichtung zur sentimentalischen.
-Schubertartige Musik ist der Gegenstand der Beethovenschen
+**Schubert** verhält sich zu Beethoven wie die naive Dichtung zur sentimentalischen.
+Schubert**artige** Musik ist der **Gegenstand** der Beethovenschen
 Musikempfindung.
 
 [44[3]](javascript:;)
 ---------------------
 
-Die moralische Verkehrtheit hat darin ihren Anschein von Radikal-Bösem, daß der Mensch heute intellektueller ist als morgen, aber auch umgekehrt. Er ist etwas
-verschiedenes: aber man nimmt den Intellekt als fest.
+Die moralische Verkehrtheit hat darin ihren Anschein von Radikal-Bösem, daß der Mensch **heute** intellektueller ist als **morgen**, aber auch umgekehrt. Er ist etwas
+verschiedenes: aber man nimmt den Intellekt als **fest**.
 
 [44[4]](javascript:;)
 ---------------------
@@ -50,14 +50,14 @@ herabdrückt: wie er geglaubt hat. Oder man muß zeigen, daß sein Unglück ihn 
 [44[6]](javascript:;)
 ---------------------
 
-Man soll da, wo etwas gethan werden muß, nicht von Gesetz reden, sondern nur da, wo
-etwas gethan werden soll. Gegen die sogenannten Naturgesetze und namentlich die
+Man soll da, wo etwas gethan werden **muß**, nicht von Gesetz reden, sondern nur da, wo
+etwas gethan werden **soll**. Gegen die sogenannten Naturgesetze und namentlich die
 ökonomischen usw.
 
 [44[7]](javascript:;)
 ---------------------
 
-„Eitelkeit“, ein Quellengebiet, aus dem die mächtigsten Ströme der Moralität
+**„Eitelkeit“**, ein Quellengebiet, aus dem die mächtigsten Ströme der Moralität
 hervorgebrochen sind.
 
 [44[8]](javascript:;)
@@ -92,8 +92,8 @@ Die 3 vollkommenen Erzähler.
 [44[13]](javascript:;)
 ----------------------
 
-Jean Paul im Verkehr mit den d<eutschen> Schr<iftstellern> z.B.
-S<chiller> war mehr als ein k<leiner> G<oethe>.
+Jean Paul im Verkehr mit den d&amp;lt;eutschen&amp;gt; Schr&amp;lt;iftstellern&amp;gt; z.B.
+S&amp;lt;chiller&amp;gt; war mehr als ein k&amp;lt;leiner&amp;gt; G&amp;lt;oethe&amp;gt;.
 
 [44[14]](javascript:;)
 ----------------------
@@ -109,5 +109,7 @@ Kein Parteimensch versteht die Treue gegen sich selber.
 [44[16]](javascript:;)
 ----------------------
 
-Den großen Werth der neuen Institutionen angeben — Schutzwehr und
-Bollw<erk> gegen das Räuber- und Ausbeuterthum in Geist und Geld.
+Den großen Werth der neuen Institutionen **angeben** — Schutzwehr und
+Bollw&amp;lt;erk&amp;gt; gegen das Räuber- und Ausbeuterthum in Geist und Geld.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

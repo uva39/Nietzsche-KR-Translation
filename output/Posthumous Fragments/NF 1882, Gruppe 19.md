@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [19[1]](javascript:;)
 ---------------------
 
-Zwei kategorische Imperative. — Gewiß! Man muß ein Knochengerüst haben — sonst hat das
+**Zwei kategorische Imperative**. — Gewiß! Man muß ein Knochengerüst haben — sonst hat das
 liebe Fleisch keinen Halt! Aber ihr Herrn ohne Fleisch, ihr Knochengerippe der Stoa, eure Predigt sollte
 lauten: „man muß auch Fleisch an den Knochen haben!“
 
@@ -35,7 +35,7 @@ Omnia naturalia affirmanti sunt indifferentia, neganti vero vel abstinenti aut m
 [19[4]](javascript:;)
 ---------------------
 
-Seine Gesellschaft zu finden wissen.
+**Seine Gesellschaft zu finden wissen.**
 
 Mit Witzbolden ist gut zu witzeln:
 
@@ -44,7 +44,7 @@ Wer kitzeln will ist leicht zu kitzeln.
 [19[5]](javascript:;)
 ---------------------
 
-Aus der Tonne des Diogenes.
+**Aus der Tonne des Diogenes.**
 
 „Nothdurft ist wohlfeil, Glück ist ohne Preis:
 
@@ -53,7 +53,7 @@ Drum sitz’ ich statt auf Gold auf meinem Steiß.“
 [19[6]](javascript:;)
 ---------------------
 
-Timon spricht:
+**Timon spricht:**
 
 „Nicht zu freigebig: nur Hunde
 
@@ -62,7 +62,7 @@ scheißen zu jeder Stunde!“
 [19[7]](javascript:;)
 ---------------------
 
-Schlußreim.
+**Schlußreim.**
 
 Eine ernste Kunst ist Lachen
 
@@ -93,7 +93,7 @@ Mir zu sieben neuen Muth.
 [19[8]](javascript:;)
 ---------------------
 
-Lebensregeln.
+**Lebensregeln.**
 
 Das Leben gern zu leben
 
@@ -126,7 +126,7 @@ Von halber Höhe aus.
 [19[9]](javascript:;)
 ---------------------
 
-Desperat.
+**Desperat.**
 
 Fürchterlich sind meinem Sinn
 
@@ -169,7 +169,7 @@ Trägt nicht Gold im Munde.
 [19[10]](javascript:;)
 ----------------------
 
-Nausikaa-Lieder.
+**Nausikaa-Lieder.**
 
 Gestern, Mädchen, ward ich weise,
 
@@ -232,13 +232,13 @@ Interessanter ist — der Mann!“
 [19[11]](javascript:;)
 ----------------------
 
-Sanctus Januarius
+**Sanctus Januarius**
 
-Weib Gott und Sünde
+**Weib Gott und Sünde**
 
-Kunst und Schrift
+**Kunst und Schrift**
 
-Sinnsprüche
+**Sinnsprüche**
 
 [19[12]](javascript:;)
 ----------------------
@@ -256,7 +256,7 @@ Die fröhliche Wissenschaft.
 [19[13]](javascript:;)
 ----------------------
 
-Lieder und Sinnsprüche.
+**Lieder und Sinnsprüche.**
 
 Takt als Anfang, Reim als Endung,
 
@@ -285,7 +285,7 @@ Darf ich euch von Beidem bringen?
 [19[14]](javascript:;)
 ----------------------
 
-Sanctus Januarius.
+**Sanctus Januarius.**
   
 Von  
 Friedrich Nietzsche
@@ -295,3 +295,5 @@ Friedrich Nietzsche
 Meinen Freunden  
 als  
 Gruss und Geschenk.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

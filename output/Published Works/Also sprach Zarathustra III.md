@@ -41,7 +41,7 @@ Wer auf den höchsten Bergen steigt, der lacht über alle Trauer-Spiele und Trau
 
   
 
-Zarathustra, vom Lesen und Schreiben. (I. p. 45.)
+**Zarathustra**, vom Lesen und Schreiben. (I. p. 45.)
 
 [Der Wanderer.](javascript:;)
 -----------------------------
@@ -54,7 +54,7 @@ Ich bin ein Wanderer und ein Bergsteiger, sagte er zu seinem Herzen, ich liebe d
 
 Und was mir nun auch noch als Schicksal und Erlebniss komme, — ein Wandern wird darin sein und ein Bergsteigen: man erlebt endlich nur noch sich selber.
 
-Die Zeit ist abgeflossen, wo mir noch Zufälle begegnen durften; und was könnte jetzt noch zu mir fallen, was nicht schon mein Eigen wäre!
+Die Zeit ist abgeflossen, wo mir noch Zufälle begegnen durften; und was **könnte** jetzt noch zu mir fallen, was nicht schon mein Eigen wäre!
 
 Es kehrt nur zurück, es kommt mir endlich heim — mein eigen Selbst, und was von ihm lange in der Fremde war und zerstreut unter alle Dinge und Zufälle.
 
@@ -74,13 +74,13 @@ Auf deinen eigenen Kopf und hinweg über dein eigenes Herz! Jetzt muss das Milde
 
 Wer sich stets viel geschont hat, der kränkelt zuletzt an seiner vielen Schonung. Gelobt sei, was hart macht! Ich lobe das Land nicht, wo Butter und Honig — fliesst!
 
-Von sich absehn lernen ist nöthig, um Viel zu sehn: — diese Härte thut jedem Berge-Steigenden Noth.
+Von sich **absehn** lernen ist nöthig, um **Viel** zu sehn: — diese Härte thut jedem Berge-Steigenden Noth.
 
 Wer aber mit den Augen zudringlich ist als Erkennender, wie sollte der von allen Dingen mehr als ihre vorderen Gründe sehn!
 
-Du aber, oh Zarathustra, wolltest aller Dinge Grund schaun und Hintergrund: so musst du schon über dich selber steigen, — hinan, hinauf, bis du auch deine Sterne noch unter dir hast!
+Du aber, oh Zarathustra, wolltest aller Dinge Grund schaun und Hintergrund: so musst du schon über dich selber steigen, — hinan, hinauf, bis du auch deine Sterne noch **unter** dir hast!
 
-Ja! Hinab auf mich selber sehn und noch auf meine Sterne: das erst hiesse mir mein Gipfel, das blieb mir noch zurück als mein letzter Gipfel! —“
+Ja! Hinab auf mich selber sehn und noch auf meine Sterne: das erst hiesse mir mein **Gipfel**, das blieb mir noch zurück als mein **letzter** Gipfel! —“
 
   
 
@@ -88,7 +88,7 @@ Also sprach Zarathustra im Steigen zu sich, mit harten Sprüchlein sein Herz tr�
 
 Ich erkenne mein Loos, sagte er endlich mit Trauer. Wohlan! Ich bin bereit. Eben begann meine letzte Einsamkeit.
 
-Ach, diese schwarze traurige See unter mir! Ach, diese schwangere nächtliche Verdrossenheit! Ach, Schicksal und See! Zu euch muss ich nun hinab steigen!
+Ach, diese schwarze traurige See unter mir! Ach, diese schwangere nächtliche Verdrossenheit! Ach, Schicksal und See! Zu euch muss ich nun **hinab** steigen!
 
 Vor meinem höchsten Berge stehe ich und vor meiner längsten Wanderung: darum muss ich erst tiefer hinab als ich jemals stieg:
 
@@ -120,7 +120,7 @@ Ach, du liebreicher Narr Zarathustra, du Vertrauens-Überseliger! Aber so warst 
 
 Jedes Ungethüm wolltest du noch streicheln. Ein Hauch warmen Athems, ein Wenig weiches Gezottel an der Tatze —: und gleich warst du bereit, es zu lieben und zu locken.
 
-Die Liebe ist die Gefahr des Einsamsten, die Liebe zu Allem, wenn es nur lebt! Zum Lachen ist wahrlich meine Narrheit und meine Bescheidenheit in der Liebe!“ —
+Die **Liebe** ist die Gefahr des Einsamsten, die Liebe zu Allem, **wenn es nur lebt**! Zum Lachen ist wahrlich meine Narrheit und meine Bescheidenheit in der Liebe!“ —
 
   
 
@@ -153,9 +153,9 @@ euch, den Räthsel-Trunkenen, den Zwielicht-Frohen, deren Seele mit Flöten zu j
 *lies:*einem  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Faden nachtasten; und, wo ihr errathen könnt, da hasst ihr es, zu erschliessen —
+ Faden nachtasten; und, wo ihr **errathen** könnt, da hasst ihr es, zu **erschliessen** —
 
-euch allein erzähle ich das Räthsel, das ich sah, — das Gesicht des Einsamsten. —
+euch allein erzähle ich das Räthsel, das ich **sah**, — das Gesicht des Einsamsten. —
 
 Düster gieng ich jüngst durch leichenfarbne Dämmerung, — düster und hart, mit gepressten Lippen. Nicht nur Eine Sonne war mir untergegangen.
 
@@ -171,7 +171,7 @@ Aufwärts: — obwohl er auf mir sass, halb Zwerg, halb Maulwurf; lahm; lähmend
 
 Oh Zarathustra, du Stein der Weisheit, du Schleuderstein, du Stern-Zertrümmerer! Dich selber warfst du so hoch, — aber jeder geworfene Stein — muss fallen!
 
-Verurtheilt zu dir selber und zur eignen Steinigung: oh Zarathustra, weit warfst du ja den Stein, — aber auf dich wird er zurückfallen!“
+Verurtheilt zu dir selber und zur eignen Steinigung: oh Zarathustra, weit warfst du ja den Stein, — aber auf **dich** wird er zurückfallen!“
 
 Drauf schwieg der Zwerg; und das währte lange. Sein Schweigen aber drückte mich; und solchermaassen zu Zwein ist man wahrlich einsamer als zu Einem!
 
@@ -179,7 +179,7 @@ Ich stieg, ich stieg, ich träumte, ich dachte, — aber Alles drückte mich. Ei
 
 Aber es giebt Etwas in mir, das ich Muth heisse: das schlug bisher mir jeden Unmuth todt. Dieser Muth hiess mich endlich stille stehn und sprechen: „Zwerg! Du! Oder ich!“ —
 
-Muth nämlich ist der beste Todtschläger, — Muth, welcher angreift: denn in jedem Angriffe ist klingendes Spiel.
+Muth nämlich ist der beste Todtschläger, — Muth, welcher **angreift**: denn in jedem Angriffe ist klingendes Spiel.
 
 Der Mensch aber ist das muthigste Thier: damit überwand er jedes Thier. Mit klingendem Spiele überwand er noch jeden Schmerz; Menschen-Schmerz aber ist der tiefste Schmerz.
 
@@ -187,7 +187,7 @@ Der Muth schlägt auch den Schwindel todt an Abgründen: und wo stünde der Mens
 
 Muth ist der beste Todtschläger: der Muth schlägt auch das Mitleiden todt. Mitleiden aber ist der tiefste Abgrund: so tief der Mensch in das Leben sieht, so tief sieht er auch in das Leiden.
 
-Muth aber ist der beste Todtschläger, Muth, der angreift: der schlägt noch den Tod todt, denn er spricht: „War das das Leben? Wohlan! Noch Ein Mal!“
+Muth aber ist der beste Todtschläger, Muth, der angreift: der schlägt noch den Tod todt, denn er spricht: „War **das** das Leben? Wohlan! Noch Ein Mal!“
 
 In solchem Spruche aber ist viel klingendes Spiel. Wer Ohren hat, der höre. —
 
@@ -199,7 +199,7 @@ In solchem Spruche aber ist viel klingendes Spiel. Wer Ohren hat, der höre. —
 
 ### [2.](javascript:;)
 
-„Halt! Zwerg! sprach ich. Ich! Oder du! Ich aber bin der Stärkere von uns Beiden —: du kennst meinen abgründlichen Gedanken nicht! Den — könntest du nicht tragen!“ —
+„Halt! Zwerg! sprach ich. Ich! Oder du! Ich aber bin der Stärkere von uns Beiden —: du kennst meinen abgründlichen Gedanken nicht! **Den** — könntest du nicht tragen!“ —
 
 Da geschah, was mich leichter machte: denn der Zwerg sprang mir von der Schulter, der Neugierige! Und er hockte sich auf einen Stein vor mich hin. Es war aber gerade da ein Thorweg, wo wir hielten.
 
@@ -213,23 +213,23 @@ Aber wer Einen von ihnen weiter gienge — und immer weiter und immer ferner: gl
 
 „Alles Gerade lügt, murmelte verächtlich der Zwerg. Alle Wahrheit ist krumm, die Zeit selber ist ein Kreis.“
 
-„Du Geist der Schwere! sprach ich zürnend, mache dir es nicht zu leicht! Oder ich lasse dich hocken, wo du hockst, Lahmfuss, —und ich trug dich hoch!
+„Du Geist der Schwere! sprach ich zürnend, mache dir es nicht zu leicht! Oder ich lasse dich hocken, wo du hockst, Lahmfuss, —und ich trug dich **hoch**!
 
-Siehe, sprach ich weiter, diesen Augenblick! Von diesem Thorwege Augenblick läuft eine lange ewige Gasse rückwärts: hinter uns liegt eine Ewigkeit.
+Siehe, sprach ich weiter, diesen Augenblick! Von diesem Thorwege Augenblick läuft eine lange ewige Gasse **rückwärts**: hinter uns liegt eine Ewigkeit.
 
-Muss nicht, was laufen kann von allen Dingen, schon einmal diese Gasse gelaufen sein? Muss nicht, was geschehn kann von allen Dingen, schon einmal geschehn, gethan, vorübergelaufen sein?
+Muss nicht, was laufen **kann** von allen Dingen, schon einmal diese Gasse gelaufen sein? Muss nicht, was geschehn **kann** von allen Dingen, schon einmal geschehn, gethan, vorübergelaufen sein?
 
 Und wenn Alles schon dagewesen ist: was hältst du Zwerg von diesem Augenblick? Muss auch dieser Thorweg nicht schon — dagewesen sein?
 
-Und sind nicht solchermaassen fest alle Dinge verknotet, dass dieser Augenblick alle kommenden Dinge nach sich zieht? Also — — sich selber noch?
+Und sind nicht solchermaassen fest alle Dinge verknotet, dass dieser Augenblick **alle** kommenden Dinge nach sich zieht? **Also** — — sich selber noch?
 
-Denn, was laufen kann von allen Dingen: auch in dieser langen Gasse hinaus — muss es einmal noch laufen! —
+Denn, was laufen **kann** von allen Dingen: auch in dieser langen Gasse **hinaus** — **muss** es einmal noch laufen! —
 
 Und diese langsame Spinne, die im Mondscheine kriecht, und dieser Mondschein selber, und ich und du im Thorwege, zusammen flüsternd, von ewigen Dingen flüsternd — müssen wir nicht Alle schon dagewesen sein?
 
 — und wiederkommen und in jener anderen Gasse laufen, hinaus, vor uns, in dieser langen schaurigen Gasse — müssen wir nicht ewig wiederkommen? —“
 
-Also redete ich, und immer leiser: denn ich fürchtete mich vor meinen eignen Gedanken und Hintergedanken. Da, plötzlich, hörte ich einen Hund nahe heulen.
+Also redete ich, und immer leiser: denn ich fürchtete mich vor meinen eignen Gedanken und Hintergedanken. Da, plötzlich, hörte ich einen Hund nahe **heulen**.
 
 Hörte ich jemals einen Hund so heulen? Mein Gedanke lief zurück. Ja! Als ich Kind war, in fernster Kindheit:
 
@@ -247,7 +247,7 @@ Wohin war jetzt Zwerg? Und
 
  Thorweg? Und Spinne? Und alles Flüstern? Träumte ich denn? Wachte ich auf? Zwischen wilden Klippen stand ich mit Einem Male, allein, öde, im ödesten Mondscheine.
 
-Aber da lag ein Mensch! Und da! Der Hund, springend, gesträubt, winselnd, — jetzt sah er mich kommen — da heulte er wieder, da schrie er: — hörte ich je einen Hund so Hülfe schrein?
+**Aber da lag ein Mensch**! Und da! Der Hund, springend, gesträubt, winselnd, — jetzt sah er mich kommen — da heulte er wieder, da **schrie** er: — hörte ich je einen Hund so Hülfe schrein?
 
 Und, wahrlich, was ich sah, desgleichen sah ich nie. Einen jungen Hirten sah ich, sich windend, würgend, zuckend, verzerrten Antlitzes, dem eine schwarze schwere Schlange aus dem Munde hieng.
 
@@ -261,13 +261,13 @@ Ihr Kühnen um mich! Ihr Sucher, Versucher, und wer von euch mit listigen Segeln
 
 So rathet mir doch das Räthsel, das ich damals schaute, so deutet mir doch das Gesicht des Einsamsten!
 
-Denn ein Gesicht war’s und ein Vorhersehn: — was sah ich damals im Gleichnisse? Und wer ist, der einst noch kommen muss?
+Denn ein Gesicht war’s und ein Vorhersehn: — **was** sah ich damals im Gleichnisse? Und **wer** ist, der einst noch kommen muss?
 
-Wer ist der Hirt, dem also die Schlange in den Schlund kroch? Wer ist der Mensch, dem also alles Schwerste, Schwärzeste in den Schlund kriechen wird?
+**Wer** ist der Hirt, dem also die Schlange in den Schlund kroch? **Wer** ist der Mensch, dem also alles Schwerste, Schwärzeste in den Schlund kriechen wird?
 
 — Der Hirt aber biss, wie mein Schrei ihm rieth; er biss mit gutem Bisse! Weit weg spie er den Kopf der Schlange—: und sprang empor. —
 
-Nicht mehr Hirt, nicht mehr Mensch, — ein Verwandelter, ein Umleuchteter, welcher lachte! Niemals noch auf Erden lachte je ein Mensch, wie er lachte!
+Nicht mehr Hirt, nicht mehr Mensch, — ein Verwandelter, ein Umleuchteter, welcher **lachte**! Niemals noch auf Erden lachte je ein Mensch, wie **er** lachte!
 
 Oh meine Brüder, ich hörte ein Lachen, das keines Menschen Lachen war, — — und nun frisst ein Durst an mir, eine Sehnsucht, die nimmer stille wird.
 
@@ -296,13 +296,13 @@ Allein bin ich wieder und will es sein, allein mit reinem Himmel und freiem Meer
 
 Des Nachmittags fand ich zum ersten Male einst meine Freunde, des Nachmittags auch zum anderen Male: — zur Stunde, da alles Licht stiller wird.
 
-Denn was von Glück noch unterwegs ist zwischen Himmel und Erde, das sucht sich nun zur Herberge noch eine lichte Seele: vor Glück ist alles Licht jetzt stiller worden.
+Denn was von Glück noch unterwegs ist zwischen Himmel und Erde, das sucht sich nun zur Herberge noch eine lichte Seele: **vor Glück** ist alles Licht jetzt stiller worden.
 
-Oh Nachmittag meines Lebens! Einst stieg auch mein Glück zu Thale, dass es sich eine Herberge suche: da fand es diese offnen gastfreundlichen Seelen.
+Oh Nachmittag meines Lebens! Einst stieg auch **mein** Glück zu Thale, dass es sich eine Herberge suche: da fand es diese offnen gastfreundlichen Seelen.
 
 Oh Nachmittag meines Lebens! Was gab ich nicht hin, dass ich Eins hätte: diese lebendige Pflanzung meiner Gedanken und diess Morgenlicht meiner höchsten Hoffnung!
 
-Gefährten suchte einst der Schaffende und Kinder seiner Hoffnung: und siehe, es fand sich, dass er sie nicht finden könne, es sei denn, er schaffe sie selber erst.
+Gefährten suchte einst der Schaffende und Kinder **seiner** Hoffnung: und siehe, es fand sich, dass er sie nicht finden könne, es sei denn, er schaffe sie selber erst.
 
 Also bin ich mitten in meinem Werke, zu meinen Kindern gehend und von ihnen kehrend: um seiner Kinder willen muss Zarathustra sich selbst vollenden.
 
@@ -310,19 +310,19 @@ Denn von Grund aus liebt man nur sein Kind und Werk; und wo grosse Liebe zu sich
 
 Noch grünen mir meine Kinder in ihrem ersten Frühlinge, nahe bei einander stehend und gemeinsam von Winden geschüttelt, die Bäume meines Gartens und besten Erdreichs.
 
-Und wahrlich! Wo solche Bäume bei einander stehn, da sind glückselige Inseln!
+Und wahrlich! Wo solche Bäume bei einander stehn, da **sind** glückselige Inseln!
 
 Aber einstmals will ich sie ausheben und einen Jeden für sich allein stellen: dass er Einsamkeit lerne und Trotz und Vorsicht.
 
 Knorrig und gekrümmt und mit biegsamer Härte soll er mir dann am Meere dastehn, ein lebendiger Leuchtthurm unbesiegbaren Lebens.
 
-Dort, wo die Stürme hinab in’s Meer stürzen, und des Gebirgs Rüssel Wasser trinkt, da soll ein Jeder einmal seine Tag- und Nachtwachen haben, zu seiner Prüfung und Erkenntniss.
+Dort, wo die Stürme hinab in’s Meer stürzen, und des Gebirgs Rüssel Wasser trinkt, da soll ein Jeder einmal seine Tag- und Nachtwachen haben, zu **seiner** Prüfung und Erkenntniss.
 
-Erkannt und geprüft soll er werden, darauf, ob er meiner Art und Abkunft ist, — ob er eines langen Willens Herr sei, schweigsam, auch wenn er redet, und nachgebend also, dass er im Geben nimmt: —
+Erkannt und geprüft soll er werden, darauf, ob er meiner Art und Abkunft ist, — ob er eines langen Willens Herr sei, schweigsam, auch wenn er redet, und nachgebend also, dass er im Geben **nimmt**: —
 
 — dass er einst mein Gefährte werde und ein Mitschaffender und Mitfeiernder Zarathustra’s —: ein Solcher, der mir meinen Willen auf meine Tafeln schreibt: zu aller Dinge vollerer Vollendung.
 
-Und um seinetwillen und seines Gleichen muss ich selber mich vollenden: darum weiche ich jetzt meinem Glücke aus und biete mich allem Unglücke an — zu meiner letzten Prüfung und Erkenntniss.
+Und um seinetwillen und seines Gleichen muss ich selber **mich** vollenden: darum weiche ich jetzt meinem Glücke aus und biete mich allem Unglücke an — zu **meiner** letzten Prüfung und Erkenntniss.
 
 Und wahrlich, Zeit war’s, dass ich gieng; und des Wanderers Schatten und die längste Weile und die stillste Stunde — alle redeten mir zu: „es ist höchste Zeit!“
 
@@ -330,7 +330,7 @@ Der Wind blies mir durch’s Schlüsselloch und sagte „Komm!“ Die Thür spra
 
 Aber ich lag angekettet an die Liebe zu meinen Kindern: das Begehren legte mir diese Schlinge, das Begehren nach Liebe, dass ich meiner Kinder Beute würde und mich an sie verlöre.
 
-Begehren — das heisst mir schon: mich verloren haben. Ich habe euch, meine Kinder! In diesem Haben soll Alles Sicherheit und Nichts Begehren sein.
+Begehren — das heisst mir schon: mich verloren haben. **Ich habe euch, meine Kinder**! In diesem Haben soll Alles Sicherheit und Nichts Begehren sein.
 
 Aber brütend lag die Sonne meiner Liebe auf mir, im eignen Safte kochte Zarathustra, — da flogen Schatten und Zweifel über mich weg.
 
@@ -352,15 +352,15 @@ Also rief mir Alles in Zeichen zu: „es ist Zeit!“ Aber
 
  ich — hörte nicht: bis endlich mein Abgrund sich rührte und mein Gedanke mich biss.
 
-Ach, abgründlicher Gedanke, der du mein Gedanke bist! Wann finde ich die Stärke, dich graben zu hören und nicht mehr zu zittern?
+Ach, abgründlicher Gedanke, der du **mein** Gedanke bist! Wann finde ich die Stärke, dich graben zu hören und nicht mehr zu zittern?
 
 Bis zur Kehle hinauf klopft mir das Herz, wenn ich dich graben höre! Dein Schweigen noch will mich würgen, du abgründlich Schweigender!
 
-Noch wagte ich niemals, dich herauf zu rufen: genug schon, dass ich dich mit mir — trug! Noch war ich nicht stark genug zum letzten Löwen-Übermuthe und -Muthwillen.
+Noch wagte ich niemals, dich **herauf** zu rufen: genug schon, dass ich dich mit mir — trug! Noch war ich nicht stark genug zum letzten Löwen-Übermuthe und -Muthwillen.
 
 Genug des Furchtbaren war mir immer schon deine Schwere: aber einst soll ich noch die Stärke finden und die Löwen-Stimme, die dich herauf ruft!
 
-Wenn ich mich dessen erst überwunden habe, dann will ich mich auch des Grösseren noch überwinden; und ein Sieg soll meiner Vollendung Siegel sein! —
+Wenn ich mich dessen erst überwunden habe, dann will ich mich auch des Grösseren noch überwinden; und ein **Sieg** soll meiner Vollendung Siegel sein! —
 
 Inzwischen treibe ich noch auf ungewissen Meeren; der Zufall schmeichelt mir, der glattzüngige; vorwärts und rückwärts schaue ich —, noch schaue ich kein Ende.
 
@@ -374,7 +374,7 @@ Wie er die Geliebteste vor sich her stösst, zärtlich noch in seiner Härte, de
 
 Hinweg mit dir, du selige Stunde! Mit dir kam mir eine Seligkeit wider Willen! Willig zu meinem tiefsten Schmerze stehe ich hier: — zur Unzeit kamst du!
 
-Hinweg mit dir, du selige Stunde! Lieber nimm Herberge dort — bei meinen Kindern! Eile! und segne sie vor Abend noch mit meinem Glücke!
+Hinweg mit dir, du selige Stunde! Lieber nimm Herberge dort — bei meinen Kindern! Eile! und segne sie vor Abend noch mit **meinem** Glücke!
 
 Da naht schon der Abend: die Sonne sinkt. Dahin — mein Glück! —
 
@@ -395,15 +395,15 @@ Also sprach Zarathustra. Und er wartete auf sein Unglück die ganze Nacht: aber 
 
 Oh Himmel über mir, du Reiner! Tiefer! Du Licht-Abgrund! Dich schauend schaudere ich vor göttlichen Begierden.
 
-In deine Höhe mich zu werfen — das ist meine Tiefe! In deine Reinheit mich zu bergen — das ist meine Unschuld!
+In deine Höhe mich zu werfen — das ist **meine** Tiefe! In deine Reinheit mich zu bergen — das ist **meine** Unschuld!
 
-Den Gott verhüllt seine Schönheit: so verbirgst du deine Sterne. Du redest nicht: so kündest du mir deine Weisheit.
+Den Gott verhüllt seine Schönheit: so verbirgst du deine Sterne. Du redest nicht: **so** kündest du mir deine Weisheit.
 
 Stumm über brausendem Meere bist du heut mir aufgegangen, deine Liebe und deine Scham redet Offenbarung zu meiner brausenden Seele.
 
 Dass du schön zu mir kamst, verhüllt in deine Schönheit, dass du stumm zu mir sprichst, offenbar in deiner Weisheit:
 
-Oh wie erriethe ich nicht alles Schamhafte deiner Seele! Vor der Sonne kamst du zu mir, dem Einsamsten.
+Oh wie erriethe ich nicht alles Schamhafte deiner Seele! **Vor** der Sonne kamst du zu mir, dem Einsamsten.
 
 Wir sind Freunde von Anbeginn: uns ist Gram und Grauen und Grund gemeinsam; noch die Sonne ist uns gemeinsam.
 
@@ -415,9 +415,9 @@ Zusammen lernten wir Alles; zusammen lernten wir über uns zu uns selber aufstei
 
 — wolkenlos hinab lächeln aus lichten Augen und aus meilenweiter Ferne, wenn unter uns Zwang und Zweck und Schuld wie Regen dampfen.
 
-Und wanderte ich allein: wes hungerte meine Seele in Nächten und Irr-Pfaden? Und stieg ich Berge, wen suchte ich je, wenn nicht dich, auf Bergen?
+Und wanderte ich allein: **wes** hungerte meine Seele in Nächten und Irr-Pfaden? Und stieg ich Berge, **wen** suchte ich je, wenn nicht dich, auf Bergen?
 
-Und all mein Wandern und Bergsteigen: eine Noth war’s nur und ein Behelf des Unbeholfenen: — fliegen allein will mein ganzer Wille, in dich hinein fliegen!
+Und all mein Wandern und Bergsteigen: eine Noth war’s nur und ein Behelf des Unbeholfenen: — **fliegen** allein will mein ganzer Wille, in **dich** hinein fliegen!
 
 Und wen hasste ich mehr, als ziehende Wolken und Alles, was dich befleckt? Und meinen eignen Hass hasste ich noch, weil er dich befleckte!
 
@@ -429,11 +429,11 @@ Lieber will ich noch unter verschlossnem Himmel in der Tonne sitzen, lieber ohne
 
 Und oft gelüstete mich, sie mit zackichten Blitz-Golddrähten festzuheften, dass ich, gleich dem Donner, auf ihrem Kessel-Bauche die Pauke schlüge: —
 
-— ein zorniger Paukenschläger, weil sie mir dein Ja! und Amen! rauben, du Himmel über mir, du Reiner! Lichter! Du Licht-Abgrund! — weil sie dir mein Ja! und Amen! rauben.
+— ein zorniger Paukenschläger, weil sie mir dein Ja! und Amen! rauben, du Himmel über mir, du Reiner! Lichter! Du Licht-Abgrund! — weil sie dir **mein** Ja! und Amen! rauben.
 
 Denn lieber noch will ich Lärm und Donner und Wetter-Flüche, als diese bedächtige zweifelnde Katzen-Ruhe; und auch unter Menschen hasse ich am besten alle Leisetreter und Halb- und Halben und zweifelnde, zögernde Zieh-Wolken.
 
-Und „wer nicht segnen kann, der soll fluchen lernen!“ — diese helle Lehre fiel mir aus hellem Himmel, dieser Stern steht auch noch in schwarzen Nächten an meinem Himmel.
+Und „wer nicht segnen kann, der soll fluchen **lernen**!“ — diese helle Lehre fiel mir aus hellem Himmel, dieser Stern steht auch noch in schwarzen Nächten an meinem Himmel.
 
 Ich aber bin ein Segnender und ein Ja-sager, wenn du nur um mich bist, du Reiner! Lichter! Du Licht-Abgrund! — in alle Abgründe trage ich da noch mein segnendes Ja-sagen.
 
@@ -451,9 +451,9 @@ Diese Freiheit und Himmels-Heiterkeit stellte ich gleich azurner Glocke über al
 
 Diesen Übermuth und diese Narrheit stellte ich an die Stelle jenes Willens, als ich lehrte: „bei Allem ist Eins unmöglich — Vernünftigkeit!“
 
-Ein Wenig Vernunft zwar, ein Same der Weisheit zerstreut von Stern zu Stern, — dieser Sauerteig ist allen Dingen eingemischt: um der Narrheit willen ist Weisheit allen Dingen eingemischt!
+Ein **Wenig** Vernunft zwar, ein Same der Weisheit zerstreut von Stern zu Stern, — dieser Sauerteig ist allen Dingen eingemischt: um der Narrheit willen ist Weisheit allen Dingen eingemischt!
 
-Ein Wenig Weisheit ist schon möglich; aber diese selige Sicherheit fand ich an allen Dingen: dass sie lieber noch auf den Füssen des Zufalls— tanzen.
+Ein Wenig Weisheit ist schon möglich; aber diese selige Sicherheit fand ich an allen Dingen: dass sie lieber noch auf den Füssen des Zufalls— **tanzen**.
 
 Oh Himmel über mir, du Reiner! Hoher! Das ist mir nun deine Reinheit, dass es keine ewige Vernunft-Spinne und -Spinnennetze giebt: —
 
@@ -484,21 +484,21 @@ Also sprach Zarathustra.
 
 ### [1.](javascript:;)
 
-Als Zarathustra wieder auf dem festen Lande war, gieng er nicht stracks auf sein Gebirge und seine Höhle los, sondern that viele Wege und Fragen und erkundete diess und das, also, dass er von sich selber im Scherze sagte: „siehe einen Fluss, der in vielen Windungen zurück zur Quelle fliesst!“ Denn er wollte in Erfahrung bringen, was sich inzwischen mit dem Menschen zugetragen habe: ob er grösser oder kleiner geworden sei. Und ein Mal sah er eine Reihe neuer Häuser; da wunderte er sich und sagte:
+Als Zarathustra wieder auf dem festen Lande war, gieng er nicht stracks auf sein Gebirge und seine Höhle los, sondern that viele Wege und Fragen und erkundete diess und das, also, dass er von sich selber im Scherze sagte: „siehe einen Fluss, der in vielen Windungen zurück zur Quelle fliesst!“ Denn er wollte in Erfahrung bringen, was sich inzwischen **mit dem Menschen** zugetragen habe: ob er grösser oder kleiner geworden sei. Und ein Mal sah er eine Reihe neuer Häuser; da wunderte er sich und sagte:
 
 Was bedeuten diese Häuser? Wahrlich, keine grosse Seele stellte sie hin, sich zum Gleichnisse!
 
 Nahm wohl ein blödes Kind sie aus seiner Spielschachtel? Dass doch ein anderes Kind sie wieder in seine Schachtel thäte!
 
-Und diese Stuben und Kammern: können Männer da aus- und eingehen? Gemacht dünken sie mich für Seiden-Puppen; oder für Naschkatzen, die auch wohl an sich naschen lassen.
+Und diese Stuben und Kammern: können **Männer** da aus- und eingehen? Gemacht dünken sie mich für Seiden-Puppen; oder für Naschkatzen, die auch wohl an sich naschen lassen.
 
   
 
-Und Zarathustra blieb stehn und dachte nach. Endlich sagte er betrübt: „Es ist Alles kleiner geworden!“
+Und Zarathustra blieb stehn und dachte nach. Endlich sagte er betrübt: „Es ist **Alles** kleiner geworden!“
 
-Überall sehe ich niedrigere Thore: wer meiner Art ist, geht da wohl noch hindurch, aber — er muss sich bücken!
+Überall sehe ich niedrigere Thore: wer **meiner** Art ist, geht da wohl noch hindurch, aber — er muss sich bücken!
 
-Oh wann komme ich wieder in meine Heimat, wo ich mich nicht mehr bücken muss — nicht mehr bücken muss vor den Kleinen!“ — Und Zarathustra seufzte und blickte in die Ferne.—
+Oh wann komme ich wieder in meine Heimat, wo ich mich nicht mehr bücken muss — nicht mehr bücken muss **vor den Kleinen**!“ — Und Zarathustra seufzte und blickte in die Ferne.—
 
 Desselbigen Tages aber redete er seine Rede über die verkleinernde Tugend.
 
@@ -506,7 +506,7 @@ Desselbigen Tages aber redete er seine Rede über die verkleinernde Tugend.
 
 Ich gehe durch diess Volk und halte meine Augen offen: sie vergeben mir es nicht, dass ich auf ihre Tugenden nicht neidisch bin.
 
-Sie beissen nach mir, weil ich zu ihnen sage: für kleine Leute sind kleine Tugenden nöthig — und weil es mir hart eingeht, dass kleine Leute nöthig sind!
+Sie beissen nach mir, weil ich zu ihnen sage: für kleine Leute sind kleine Tugenden nöthig — und weil es mir hart eingeht, dass kleine Leute **nöthig** sind!
 
 Noch gleiche ich dem Hahn hier auf fremdem Gehöfte, nach dem auch die Hennen beissen; doch darob bin ich diesen Hennen nicht ungut.
 
@@ -524,7 +524,7 @@ Sie husten, wenn ich rede: sie meinen, Husten sei ein Einwand gegen starke Winde
 
 „Wir haben noch keine Zeit für Zarathustra“ — so wenden sie ein; aber was liegt an einer Zeit, die für Zarathustra „keine Zeit hat“?
 
-Und wenn sie gar mich rühmen: wie könnte ich wohl auf ihrem Ruhme einschlafen? Ein Stachel-Gürtel ist mir ihr Lob: es kratzt mich noch, wenn ich es von mir thue.
+Und wenn sie gar mich rühmen: wie könnte ich wohl auf **ihrem** Ruhme einschlafen? Ein Stachel-Gürtel ist mir ihr Lob: es kratzt mich noch, wenn ich es von mir thue.
 
 Und auch das lernte ich unter ihnen: der Lobende stellt sich, als gäbe er zurück, in Wahrheit aber will er mehr beschenkt sein!
 
@@ -532,11 +532,11 @@ Fragt meinen Fuss, ob ihm ihre Lob- und Lock-Weise gefällt! Wahrlich, nach solc
 
 Zur kleinen Tugend möchten sie mich locken und loben; zum Tiktak des kleinen Glücks möchten sie meinen Fuss überreden.
 
-Ich gehe durch diess Volk und halte die Augen offen: sie sind kleiner geworden und werden immer kleiner: — das aber macht ihre Lehre von Glück und Tugend.
+Ich gehe durch diess Volk und halte die Augen offen: sie sind **kleiner** geworden und werden immer kleiner: — **das aber macht ihre Lehre von Glück und Tugend**.
 
 Sie sind nämlich auch in der Tugend bescheiden — denn sie wollen Behagen. Mit Behagen aber verträgt sich nur die bescheidene Tugend.
 
-Wohl lernen auch sie auf ihre Art Schreiten und Vorwärts-Schreiten: das heisse ich ihr Humpeln —. Damit werden sie Jedem zum Anstosse, der Eile hat.
+Wohl lernen auch sie auf ihre Art Schreiten und Vorwärts-Schreiten: das heisse ich ihr **Humpeln** —. Damit werden sie Jedem zum Anstosse, der Eile hat.
 
 Und Mancher von ihnen geht vorwärts und blickt dabei zurück, mit versteiftem Nacken: dem renne ich gern wider den Leib.
 
@@ -546,11 +546,11 @@ Einige von ihnen wollen, aber die Meisten werden nur gewollt. Einige von ihnen s
 
 Es giebt Schauspieler wider Wissen unter ihnen und Schauspieler wider Willen —, die Ächten sind immer selten, sonderlich die ächten Schauspieler.
 
-Des Mannes ist hier wenig: darum vermännlichen sich ihre Weiber. Denn nur wer Mannes genug ist, wird im Weibe das Weib — erlösen.
+Des Mannes ist hier wenig: darum vermännlichen sich ihre Weiber. Denn nur wer Mannes genug ist, wird im Weibe **das Weib**—**erlösen**.
 
 Und diese Heuchelei fand ich unter ihnen am schlimmsten: dass auch Die, welche befehlen, die Tugenden Derer heucheln, welche dienen.
 
-„Ich diene, du dienst, wir dienen“ — so betet hier auch die Heuchelei der Herrschenden, — und wehe, wenn der erste Herr nur der erste Diener ist!
+„Ich diene, du dienst, wir dienen“ — so betet hier auch die Heuchelei der Herrschenden, — und wehe, wenn der erste Herr **nur** der erste Diener ist!
 
 Ach, auch in ihre Heucheleien verflog sich wohl meines Auges Neugier; und gut errieth ich all ihr Fliegen-Glück und ihr Summen um besonnte Fensterscheiben.
 
@@ -562,17 +562,17 @@ Bescheiden ein kleines Glück umarmen — das heissen sie „Ergebung“! und da
 
 Sie wollen im Grunde einfältiglich Eins am meisten: dass ihnen Niemand wehe thue. So kommen sie Jedermann zuvor und thun ihm wohl.
 
-Diess aber ist Feigheit: ob es schon „Tugend“ heisst. —
+Diess aber ist **Feigheit**: ob es schon „Tugend“ heisst. —
 
-Und wenn sie einmal rauh reden, diese kleinen Leute: ich höre darin nur ihre Heiserkeit, — jeder Windzug nämlich macht sie heiser.
+Und wenn sie einmal rauh reden, diese kleinen Leute: **ich** höre darin nur ihre Heiserkeit, — jeder Windzug nämlich macht sie heiser.
 
 Klug sind sie, ihre Tugenden haben kluge Finger. Aber ihnen fehlen die Fäuste, ihre Finger wissen nicht, sich hinter Fäuste zu verkriechen.
 
 Tugend ist ihnen das, was bescheiden und zahm macht: damit machten sie den Wolf zum Hunde und den Menschen selber zu des Menschen bestem Hausthiere.
 
-„Wir setzten unsern Stuhl in die Mitte — das sagt mir ihr Schmunzeln — und ebenso weit weg von sterbenden Fechtern wie von vergnügten Säuen.“
+„Wir setzten unsern Stuhl in die **Mitte** — das sagt mir ihr Schmunzeln — und ebenso weit weg von sterbenden Fechtern wie von vergnügten Säuen.“
 
-Diess aber ist — Mittelmässigkeit: ob es schon Mässigkeit heisst. —
+Diess aber ist — **Mittelmässigkeit**: ob es schon Mässigkeit heisst. —
 
 ### [3.](javascript:;)
 
@@ -584,53 +584,53 @@ Sie wundern sich, dass ich nicht bereit bin, ihre Klugheit noch zu witzigen und 
 
 Und wenn ich rufe: „Flucht allen feigen Teufeln in euch, die gerne winseln und Hände falten und anbeten möchten“: so rufen sie: „Zarathustra ist gottlos“.
 
-Und sonderlich rufen es ihre Lehrer der Ergebung —; aber gerade ihnen liebe ich’s, in das Ohr zu schrein: Ja! Ich bin Zarathustra, der Gottlose!
+Und sonderlich rufen es ihre Lehrer der Ergebung —; aber gerade ihnen liebe ich’s, in das Ohr zu schrein: Ja! Ich **bin** Zarathustra, der Gottlose!
 
 Diese Lehrer der Ergebung! Überall hin, wo es klein und krank und grindig ist, kriechen sie, gleich Läusen; und nur mein Ekel hindert mich, sie zu knacken.
 
-Wohlan! Diess ist meine Predigt für ihre Ohren: ich bin Zarathustra, der Gottlose, der da spricht „wer ist gottloser denn ich, dass ich mich seiner Unterweisung freue?“
+Wohlan! Diess ist meine Predigt für **ihre** Ohren: ich bin Zarathustra, der Gottlose, der da spricht „wer ist gottloser denn ich, dass ich mich seiner Unterweisung freue?“
 
 Ich bin Zarathustra, der Gottlose: wo finde ich Meines-Gleichen? Und alle Die sind Meines-Gleichen, die sich selber ihren Willen geben und alle Ergebung von sich abthun.
 
-Ich bin Zarathustra, der Gottlose: ich koche mir noch jeden Zufall in meinem Topfe. Und erst, wenn er da gar gekocht ist, heisse ich ihn willkommen, als meine Speise.
+Ich bin Zarathustra, der Gottlose: ich koche mir noch jeden Zufall in **meinem** Topfe. Und erst, wenn er da gar gekocht ist, heisse ich ihn willkommen, als **meine** Speise.
 
-Und wahrlich, mancher Zufall kam herrisch zu mir: aber herrischer noch sprach zu ihm mein Wille, — da lag er schon bittend auf den Knieen —
+Und wahrlich, mancher Zufall kam herrisch zu mir: aber herrischer noch sprach zu ihm mein **Wille**, — da lag er schon bittend auf den Knieen —
 
 — bittend, dass er Herberge finde und Herz bei mir, und schmeichlerisch zuredend: „sieh doch, oh Zarathustra, wie nur Freund zu Freunde kommt!“ —
 
-Doch was rede ich, wo Niemand meine Ohren hat! Und so will ich es hinaus in alle Winde rufen:
+Doch was rede ich, wo Niemand **meine** Ohren hat! Und so will ich es hinaus in alle Winde rufen:
 
 Ihr werdet immer kleiner, ihr kleinen Leute! Ihr bröckelt ab, ihr Behaglichen! Ihr geht mir noch zu Grunde —
 
 — an euren vielen kleinen Tugenden, an eurem vielen kleinen Unterlassen, an eurer vielen kleinen Ergebung!
 
-Zu viel schonend, zu viel nachgebend: so ist euer Erdreich! Aber dass ein Baum gross werde, dazu will er um harte Felsen harte Wurzeln schlagen!
+Zu viel schonend, zu viel nachgebend: so ist euer Erdreich! Aber dass ein Baum **gross** werde, dazu will er um harte Felsen harte Wurzeln schlagen!
 
 Auch was ihr unterlasst, webt am Gewebe aller Menschen-Zukunft; auch euer Nichts ist ein Spinnennetz und eine Spinne, die von der Zukunft Blute lebt.
 
-Und wenn ihr nehmt, so ist es wie stehlen, ihr kleinen Tugendhaften; aber noch unter Schelmen spricht die Ehre: „man soll nur stehlen, wo man nicht rauben kann.“
+Und wenn ihr nehmt, so ist es wie stehlen, ihr kleinen Tugendhaften; aber noch unter Schelmen spricht die **Ehre**: „man soll nur stehlen, wo man nicht rauben kann.“
 
-„Es giebt sich“ — das ist auch eine Lehre der Ergebung. Aber ich sage euch, ihr Behaglichen: es nimmt sich und wird immer mehr noch von euch nehmen!
+„Es giebt sich“ — das ist auch eine Lehre der Ergebung. Aber ich sage euch, ihr Behaglichen: **es nimmt sich** und wird immer mehr noch von euch nehmen!
 
-Ach, dass ihr alles halbe Wollen von euch abthätet und entschlossen würdet zur Trägheit wie zur That!
+Ach, dass ihr alles **halbe** Wollen von euch abthätet und entschlossen würdet zur Trägheit wie zur That!
 
-Ach, dass ihr mein Wort verstündet: „thut immerhin, was ihr wollt,— aber seid erst Solche, die wollen können!“
+Ach, dass ihr mein Wort verstündet: „thut immerhin, was ihr wollt,— aber seid erst Solche, die **wollen können**!“
 
-„Liebt immerhin euren Nächsten gleich euch, — aber seid mir erst Solche, die sich selber lieben —
+„Liebt immerhin euren Nächsten gleich euch, — aber seid mir erst Solche, die **sich selber lieben** —
 
 — mit der grossen Liebe lieben, mit der grossen Verachtung lieben!“ Also spricht Zarathustra, der Gottlose. —
 
-Doch was rede ich, wo Niemand meine Ohren hat! Es ist hier noch eine Stunde zu früh für mich.
+Doch was rede ich, wo Niemand **meine** Ohren hat! Es ist hier noch eine Stunde zu früh für mich.
 
 Mein eigner Vorläufer bin ich unter diesem Volke, mein eigner Hahnen-Ruf durch dunkle Gassen.
 
-Aber ihre Stunde kommt! Und es kommt auch die meine! Stündlich werden sie kleiner, ärmer, unfruchtbarer, — armes Kraut! armes Erdreich!
+Aber **ihre** Stunde kommt! Und es kommt auch die meine! Stündlich werden sie kleiner, ärmer, unfruchtbarer, — armes Kraut! armes Erdreich!
 
-Und bald sollen sie mir dastehn wie dürres Gras und Steppe, und wahrlich! ihrer selber müde — und mehr, als nach Wasser, nach Feuer lechzend!
+Und **bald** sollen sie mir dastehn wie dürres Gras und Steppe, und wahrlich! ihrer selber müde — und mehr, als nach Wasser, nach **Feuer** lechzend!
 
 Oh gesegnete Stunde des Blitzes! Oh Geheimniss vor Mittag! — Laufende Feuer will ich einst noch aus ihnen machen und Verkünder mit Flammen-Zungen: —
 
-— verkünden sollen sie einst noch mit Flammen-Zungen: Er kommt, er ist nahe, der grosse Mittag!
+— verkünden sollen sie einst noch mit Flammen-Zungen: Er kommt, er ist nahe, **der grosse Mittag**!
 
   
 
@@ -649,7 +649,7 @@ Also sprach Zarathustra.
 
 Der Winter, ein schlimmer Gast, sitzt bei mir zu Hause; blau sind meine Hände von seiner Freundschaft Händedruck.
 
-Ich ehre ihn, diesen schlimmen Gast, aber lasse gerne ihn allein sitzen. Gerne laufe ich ihm davon; und, läuft man gut, so entläuft man ihm!
+Ich ehre ihn, diesen schlimmen Gast, aber lasse gerne ihn allein sitzen. Gerne laufe ich ihm davon; und, läuft man **gut**, so entläuft man ihm!
 
 Mit warmen Füssen und warmen Gedanken laufe ich dorthin, wo der Wind stille steht, — zum Sonnen-Winkel meines Oelbergs.
 
@@ -663,7 +663,7 @@ Lieber noch ein Wenig zähneklappern als Götzen anbeten! — so will’s meine 
 
 Wen ich liebe, den liebe ich Winters besser als Sommers; besser spotte ich jetzt meiner Feinde und herzhafter, seit der Winter mir im Hause sitzt.
 
-Herzhaft wahrlich, selbst dann noch, wenn ich zu Bett krieche —: da lacht und muthwillt noch mein verkrochenes Glück; es lacht noch mein Lügen-Traum.
+Herzhaft wahrlich, selbst dann noch, wenn ich zu Bett **krieche** —: da lacht und muthwillt noch mein verkrochenes Glück; es lacht noch mein Lügen-Traum.
 
 Ich ein —
 
@@ -691,7 +691,7 @@ Aller guten Dinge Ursprung ist tausendfältig, — alle guten muthwilligen Dinge
 
 Ein gutes muthwilliges Ding ist auch das lange Schweigen und gleich dem Winter-Himmel blicken aus lichtem rundäugichten Antlitze: —
 
-— gleich ihm seine Sonne verschweigen und seinen unbeugsamen Sonnen-Willen: wahrlich, diese Kunst und diesen Winter-Muthwillen lernte ich gut!
+— gleich ihm seine Sonne verschweigen und seinen unbeugsamen Sonnen-Willen: wahrlich, diese Kunst und diesen Winter-Muthwillen lernte ich **gut**!
 
 Meine liebste Bosheit und Kunst ist es, dass mein Schweigen lernte, sich nicht durch Schweigen zu verrathen.
 
@@ -703,35 +703,35 @@ So manchen Klugen fand ich: der verschleierte sein Antlitz und trübte sein Wass
 
 Aber zu ihm gerade kamen die klügeren Misstrauer und Nussknacker: ihm gerade fischte man seinen verborgensten Fisch heraus!
 
-Sondern die Hellen, die Wackern, die Durchsichtigen — das sind mir die klügsten Schweiger: denen so tief ihr Grund ist, dass auch das hellste Wasser ihn nicht — verräth. —
+Sondern die Hellen, die Wackern, die Durchsichtigen — das sind mir die klügsten Schweiger: denen so **tief** ihr Grund ist, dass auch das hellste Wasser ihn nicht — verräth. —
 
 Du schneebärtiger schweigender Winter-Himmel, du rundäugichter Weisskopf über mir! Oh du himmlisches Gleichniss meiner Seele und ihres Muthwillens!
 
-Und muss ich mich nicht verbergen, gleich Einem, der Gold verschluckt hat, — dass man mir nicht die Seele aufschlitze?
+Und **muss** ich mich nicht verbergen, gleich Einem, der Gold verschluckt hat, — dass man mir nicht die Seele aufschlitze?
 
-Muss ich nicht Stelzen tragen, dass sie meine langen Beine übersehen, — alle diese Neidbolde und Leidholde, die um mich sind?
+**Muss** ich nicht Stelzen tragen, dass sie meine langen Beine **übersehen**, — alle diese Neidbolde und Leidholde, die um mich sind?
 
-Diese räucherigen, stubenwarmen, verbrauchten, vergrünten, vergrämelten Seelen — wie könnte ihr Neid mein Glück ertragen!
+Diese räucherigen, stubenwarmen, verbrauchten, vergrünten, vergrämelten Seelen — wie **könnte** ihr Neid mein Glück ertragen!
 
-So zeige ich ihnen nur das Eis und den Winter auf meinen Gipfeln — und nicht, dass mein Berg noch alle Sonnengürtel um sich schlingt!
+So zeige ich ihnen nur das Eis und den Winter auf meinen Gipfeln — und **nicht**, dass mein Berg noch alle Sonnengürtel um sich schlingt!
 
-Sie hören nur meine Winter-Stürme pfeifen: und nicht, dass ich auch über warme Meere fahre, gleich sehnsüchtigen, schweren, heissen Südwinden.
+Sie hören nur meine Winter-Stürme pfeifen: und **nicht**, dass ich auch über warme Meere fahre, gleich sehnsüchtigen, schweren, heissen Südwinden.
 
-Sie erbarmen sich noch meiner Unfälle und Zufälle: — aber mein Wort heisst: „lasst den Zufall zu mir kommen: unschuldig ist er, wie ein Kindlein!“
+Sie erbarmen sich noch meiner Unfälle und Zufälle: — aber **mein** Wort heisst: „lasst den Zufall zu mir kommen: unschuldig ist er, wie ein Kindlein!“
 
-Wie könnten sie mein Glück ertragen, wenn ich nicht Unfälle und Winter-Nöthe und Eisbären-Mützen und Schneehimmel-Hüllen um mein Glück legte!
+Wie **könnten** sie mein Glück ertragen, wenn ich nicht Unfälle und Winter-Nöthe und Eisbären-Mützen und Schneehimmel-Hüllen um mein Glück legte!
 
-— wenn ich mich nicht selbst ihres Mitleids erbarmte: des Mitleids dieser Neidbolde und Leidholde!
+— wenn ich mich nicht selbst ihres **Mitleids** erbarmte: des Mitleids dieser Neidbolde und Leidholde!
 
-— wenn ich nicht selber vor ihnen seufzte und frostklapperte und mich geduldsam in ihr Mitleid wickeln liesse!
+— wenn ich nicht selber vor ihnen seufzte und frostklapperte und mich geduldsam in ihr Mitleid wickeln **liesse**!
 
-Diess ist der weise Muthwille und Wohlwille meiner Seele, dass sie ihren Winter und ihre Froststürme nicht verbirgt; sie verbirgt auch ihre Frostbeulen nicht.
+Diess ist der weise Muthwille und Wohlwille meiner Seele, dass sie ihren Winter und ihre Froststürme **nicht verbirgt**; sie verbirgt auch ihre Frostbeulen nicht.
 
-Des Einen Einsamkeit ist die Flucht des Kranken; des Andern Einsamkeit die Flucht vor den Kranken.
+Des Einen Einsamkeit ist die Flucht des Kranken; des Andern Einsamkeit die Flucht **vor** den Kranken.
 
-Mögen sie mich klappern und seufzen hören vor Winterkälte, alle diese armen scheelen Schelme um mich! Mit solchem Geseufz und Geklapper flüchte ich noch vor ihren geheizten Stuben.
+Mögen sie mich klappern und seufzen **hören** vor Winterkälte, alle diese armen scheelen Schelme um mich! Mit solchem Geseufz und Geklapper flüchte ich noch vor ihren geheizten Stuben.
 
-Mögen sie mich bemitleiden und bemitseufzen ob meiner Frostbeulen: „am Eis der Erkenntniss erfriert er uns noch!“ — so klagen sie.
+Mögen sie mich bemitleiden und bemitseufzen ob meiner Frostbeulen: „am Eis der Erkenntniss **erfriert** er uns noch!“ — so klagen sie.
 
 Inzwischen laufe ich mit warmen Füssen kreuz und quer auf meinem Oelberge: im Sonnen-Winkel meines Oelberges singe und spotte ich alles Mitleids. —
 
@@ -750,7 +750,7 @@ Also sang Zarathustra.
 
 ---
 
-Also, durch viel Volk und vielerlei Städte langsam hindurchschreitend, gieng Zarathustra auf Umwegen zurück zu seinem Gebirge und seiner Höhle. Und siehe, dabei kam er unversehens auch an das Stadtthor der grossen Stadt: hier aber sprang ein schäumender Narr mit ausgebreiteten Händen auf ihn zu und trat ihm in den Weg. Diess aber war der selbige Narr, welchen das Volk „den Affen Zarathustra’s“ hiess: denn er hatte ihm Etwas vom Satz und Fall der Rede abgemerkt und borgte wohl auch gerne vom Schatze seiner Weisheit. Der Narr aber redete also zu Zarathustra:
+Also, durch viel Volk und vielerlei Städte langsam hindurchschreitend, gieng Zarathustra auf Umwegen zurück zu seinem Gebirge und seiner Höhle. Und siehe, dabei kam er unversehens auch an das Stadtthor der **grossen Stadt**: hier aber sprang ein schäumender Narr mit ausgebreiteten Händen auf ihn zu und trat ihm in den Weg. Diess aber war der selbige Narr, welchen das Volk „den Affen Zarathustra’s“ hiess: denn er hatte ihm Etwas vom Satz und Fall der Rede abgemerkt und borgte wohl auch gerne vom Schatze seiner Weisheit. Der Narr aber redete also zu Zarathustra:
 
 „Oh Zarathustra, hier ist die grosse Stadt: hier hast du Nichts zu suchen und Alles zu verlieren.
 
@@ -822,11 +822,11 @@ Aus der Liebe allein soll mir mein Verachten und mein warnender Vogel auffliegen
 
 Man heisst dich meinen Affen, du schäumender Narr: aber ich heisse dich mein Grunze-Schwein, — durch Grunzen verdirbst du mir noch mein Lob der Narrheit.
 
-Was war es denn, was dich zuerst grunzen machte? Dass Niemand dir genug geschmeichelt hat: — darum setztest du dich hin zu diesem Unrathe, dass du Grund hättest viel zu grunzen,—
+Was war es denn, was dich zuerst grunzen machte? Dass Niemand dir genug **geschmeichelt** hat: — darum setztest du dich hin zu diesem Unrathe, dass du Grund hättest viel zu grunzen,—
 
-— dass du Grund hättest zu vieler Rache! Rache nämlich, du eitler Narr, ist all dein Schäumen, ich errieth dich wohl!
+— dass du Grund hättest zu vieler **Rache**! Rache nämlich, du eitler Narr, ist all dein Schäumen, ich errieth dich wohl!
 
-Aber dein Narren-Wort thut mir Schaden, selbst, wo du Recht hast! Und wenn Zarathustra’s Wort sogar hundert Mal Recht hätte: du würdest mit meinem Wort immer — Unrecht thun!“
+Aber dein Narren-Wort thut **mir** Schaden, selbst, wo du Recht hast! Und wenn Zarathustra’s Wort sogar hundert Mal Recht **hätte**: **du** würdest mit meinem Wort immer — Unrecht **thun**!“
 
 Also sprach Zarathustra; und er blickte die grosse Stadt an, seufzte und schwieg lange. Endlich redete er also:
 
@@ -838,7 +838,7 @@ Wehe dieser grossen Stadt! — Und ich wollte, ich sähe schon die Feuersäule, 
 
 Denn solche Feuersäulen müssen dem grossen Mittage vorangehn. Doch diess hat seine Zeit und sein eigenes Schicksal. —
 
-Diese Lehre aber gebe ich dir, du Narr, zum Abschiede: wo man nicht mehr lieben kann, da soll man — vorübergehn! —
+Diese Lehre aber gebe ich dir, du Narr, zum Abschiede: wo man nicht mehr lieben kann, da soll man — **vorübergehn**! —
 
   
 
@@ -868,23 +868,23 @@ Wahrlich, Mancher von ihnen hob einst die Beine wie ein Tänzer, ihm winkte das 
 
 Um Licht und Freiheit flatterten sie einst gleich Mücken und jungen Dichtern. Ein Wenig älter, ein Wenig kälter: und schon sind sie Dunkler und Munkler und Ofenhocker.
 
-Verzagte ihnen wohl das Herz darob, dass mich die Einsamkeit verschlang gleich einem Wallfische? Lauschte ihr Ohr wohl sehnsüchtig-lange umsonst nach mir und meinen Trompeten- und Herolds-Rufen?
+Verzagte ihnen wohl das Herz darob, dass mich die Einsamkeit verschlang gleich einem Wallfische? Lauschte ihr Ohr wohl sehnsüchtig-lange **umsonst** nach mir und meinen Trompeten- und Herolds-Rufen?
 
-— Ach! Immer sind ihrer nur Wenige, deren Herz einen langen Muth und Übermuth hat; und solchen bleibt auch der Geist geduldsam. Der Rest aber ist feige.
+— Ach! Immer sind ihrer nur Wenige, deren Herz einen langen Muth und Übermuth hat; und solchen bleibt auch der Geist geduldsam. Der Rest aber ist **feige**.
 
 Der Rest: das sind immer die Allermeisten, der Alltag, der Überfluss, die Viel-zu-Vielen — diese alle sind feige! —
 
 Wer meiner Art ist, dem werden auch die Erlebnisse meiner Art über den Weg laufen: also, dass seine ersten Gesellen Leichname und Possenreisser sein müssen.
 
-Seine zweiten Gesellen aber — die werden sich seine Gläubigen heissen: ein lebendiger Schwarm, viel Liebe, viel Thorheit, viel unbärtige Verehrung.
+Seine zweiten Gesellen aber — die werden sich seine **Gläubigen** heissen: ein lebendiger Schwarm, viel Liebe, viel Thorheit, viel unbärtige Verehrung.
 
 An diese Gläubigen soll Der nicht sein Herz binden, wer meiner Art unter Menschen ist; an diese Lenze und bunte Wiesen soll Der nicht glauben, wer die flüchtig-feige Menschenart kennt!
 
-Könnten sie anders, so würden sie auch anders wollen. Halb- und Halbe verderben alles Ganze. Dass Blätter welk werden, — was ist da zu klagen!
+**Könnten** sie anders, so würden sie auch anders **wollen**. Halb- und Halbe verderben alles Ganze. Dass Blätter welk werden, — was ist da zu klagen!
 
 Lass sie fahren und fallen, oh Zarathustra, und klage nicht! Lieber noch blase mit raschelnden Winden unter sie, —
 
-— blase unter diese Blätter, oh Zarathustra: dass alles Welke schneller noch von dir davonlaufe! —
+— blase unter diese Blätter, oh Zarathustra: dass alles **Welke** schneller noch von dir davonlaufe! —
 
   
 
@@ -896,13 +896,13 @@ Lass sie fahren und fallen, oh Zarathustra, und klage nicht! Lieber noch blase m
 
 „Wir sind wieder fromm geworden“ — so bekennen diese Abtrünnigen; und Manche von ihnen sind noch zu feige, also zu bekennen.
 
-Denen sehe ich in’s Auge, — denen sage ich es in’s Gesicht und in die Röthe ihrer Wangen: ihr seid Solche, welche wieder beten!
+Denen sehe ich in’s Auge, — denen sage ich es in’s Gesicht und in die Röthe ihrer Wangen: ihr seid Solche, welche wieder **beten**!
 
-Es ist aber eine Schmach, zu beten! Nicht für Alle, aber für dich und mich und wer auch im Kopfe sein Gewissen hat. Für dich ist es eine Schmach, zu beten!
+Es ist aber eine Schmach, zu beten! Nicht für Alle, aber für dich und mich und wer auch im Kopfe sein Gewissen hat. Für **dich** ist es eine Schmach, zu beten!
 
-Du weisst es wohl: dein feiger Teufel in dir, der gerne Hände-falten und Hände-in-den-Schooss-legen und es bequemer haben möchte: — dieser feige Teufel redet dir zu „es giebt einen Gott!“
+Du weisst es wohl: dein feiger Teufel in dir, der gerne Hände-falten und Hände-in-den-Schooss-legen und es bequemer haben möchte: — dieser feige Teufel redet dir zu „es **giebt** einen Gott!“
 
-Damit aber gehörst du zur lichtscheuen Art, denen Licht nimmer Ruhe lässt; nun musst du täglich deinen Kopf tiefer in Nacht und Dunst stecken!
+**Damit** aber gehörst du zur lichtscheuen Art, denen Licht nimmer Ruhe lässt; nun musst du täglich deinen Kopf tiefer in Nacht und Dunst stecken!
 
 Und wahrlich, du wähltest die Stunde gut: denn eben wieder fliegen die Nachtvögel aus. Die Stunde kam allem lichtscheuen Volke, die Abend- und Feierstunde, wo es nicht — „feiert.“
 
@@ -916,7 +916,7 @@ Sie sitzen lange Abende bei einander und sprechen: „lasset uns wieder werden w
 
 Oder sie sehen lange Abende einer listigen lauernden Kreuzspinne zu, welche den Spinnen selber Klugheit predigt und also lehrt: „unter Kreuzen ist gut spinnen!“
 
-Oder sie sitzen Tags über mit Angelruthen an Sümpfen und glauben sich tief damit; aber wer dort fischt, wo es keine Fische giebt, den heisse ich noch nicht einmal oberflächlich!
+Oder sie sitzen Tags über mit Angelruthen an Sümpfen und glauben sich **tief** damit; aber wer dort fischt, wo es keine Fische giebt, den heisse ich noch nicht einmal oberflächlich!
 
 Oder sie lernen fromm-froh die Harfe schlagen bei einem Lieder-Dichter, der sich gern jungen Weibchen in’s Herz harfnen möchte: — denn er wurde der alten Weibchen müde und ihres Lobpreisens.
 
@@ -938,9 +938,9 @@ Fünf Worte von alten Sachen hörte ich gestern Nachts an der Garten-Mauer: die 
 
  Nachtwächter.
 
-„Hat er denn Kinder? Niemand kann’s beweisen, wenn er’s selber nicht beweist! Ich wollte längst, er bewiese es einmal gründlich.“
+„**Hat** er denn Kinder? Niemand kann’s beweisen, wenn er’s selber nicht beweist! Ich wollte längst, er bewiese es einmal gründlich.“
 
-„Beweisen? Als ob Der je Etwas bewiesen hätte! Beweisen fällt ihm schwer; er hält grosse Stücke darauf, dass man ihm glaubt.“
+„Beweisen? Als ob **Der** je Etwas bewiesen hätte! Beweisen fällt ihm schwer; er hält grosse Stücke darauf, dass man ihm **glaubt**.“
 
 „Ja! Ja! Der Glaube macht ihn selig, der Glaube an ihn. Das ist so die Art alter Leute! So geht’s uns auch!“ —
 
@@ -950,11 +950,11 @@ Mir aber wand sich das Herz vor Lachen und wollte brechen und wusste nicht, wohi
 
 Wahrlich, das wird noch mein Tod sein, dass ich vor Lachen ersticke, wenn ich Esel betrunken sehe und Nachtwächter also an Gott zweifeln höre.
 
-Ist es denn nicht lange vorbei auch für alle solche Zweifel? Wer darf noch solche alte eingeschlafne lichtscheue Sachen aufwecken!
+Ist es denn nicht **lange** vorbei auch für alle solche Zweifel? Wer darf noch solche alte eingeschlafne lichtscheue Sachen aufwecken!
 
 Mit den alten Göttern gieng es ja lange schon zu Ende: — und wahrlich, ein gutes fröhliches Götter-Ende hatten sie!
 
-Sie „dämmerten“ sich nicht zu Tode, — das lügt man wohl! Vielmehr: sie haben sich selber einmal zu Tode — gelacht!
+Sie „dämmerten“ sich nicht zu Tode, — das lügt man wohl! Vielmehr: sie haben sich selber einmal zu Tode — **gelacht**!
 
 Das geschah, als das gottloseste Wort von einem Gotte selber ausgieng, — das Wort „Es ist Ein Gott! Du sollst keinen andern Gott haben neben mir!“ —
 
@@ -983,17 +983,17 @@ Also redete Zarathustra in der Stadt, die er liebte und welche zubenannt ist „
 
 ---
 
-Oh Einsamkeit! Du meine Heimat Einsamkeit! Zu lange lebte ich wild in wilder Fremde, als dass ich nicht mit Thränen zu dir heimkehrte!
+Oh Einsamkeit! Du meine **Heimat** Einsamkeit! Zu lange lebte ich wild in wilder Fremde, als dass ich nicht mit Thränen zu dir heimkehrte!
 
 Nun drohe mir nur mit dem Finger, wie Mütter drohn, nun lächle mir zu, wie Mütter lächeln, nun sprich nur: „Und wer war das, der wie ein Sturmwind einst von mir davonstürmte? —
 
-„— der scheidend rief: zu lange sass ich bei der Einsamkeit, da verlernte ich das Schweigen! Das — lerntest du nun wohl?
+„— der scheidend rief: zu lange sass ich bei der Einsamkeit, da verlernte ich das Schweigen! **Das** — lerntest du nun wohl?
 
-„Oh Zarathustra, Alles weiss ich: und dass du unter den Vielen verlassener warst, du Einer, als je bei mir!
+„Oh Zarathustra, Alles weiss ich: und dass du unter den Vielen **verlassener** warst, du Einer, als je bei mir!
 
-„Ein Anderes ist Verlassenheit, ein Anderes Einsamkeit: Das — lerntest du nun! Und dass du unter Menschen immer wild und fremd sein wirst:
+„Ein Anderes ist Verlassenheit, ein Anderes Einsamkeit: **Das** — lerntest du nun! Und dass du unter Menschen immer wild und fremd sein wirst:
 
-„—wild und fremd auch noch, wenn sie dich lieben: denn zuerst von Allem wollen sie geschont sein!
+„—wild und fremd auch noch, wenn sie dich lieben: denn zuerst von Allem wollen sie **geschont** sein!
 
 „Hier aber bist du bei dir zu Heim und Hause; hier kannst du Alles hinausreden und alle Gründe ausschütten, Nichts schämt sich hier versteckter, verstockter Gefühle.
 
@@ -1003,15 +1003,15 @@ Nun drohe mir nur mit dem Finger, wie Mütter drohn, nun lächle mir zu, wie Mü
 
 „Ein Anderes aber ist Verlassensein. Denn, weisst du noch, oh Zarathustra? Als damals dein Vogel über dir schrie, als du im Walde standest, unschlüssig, wohin? unkundig, einem Leichnam nahe: —
 
-„— als du sprachst: mögen mich meine Thiere führen! Gefährlicher fand ich’s unter Menschen, als unter Thieren: — Das war Verlassenheit!
+„— als du sprachst: mögen mich meine Thiere führen! Gefährlicher fand ich’s unter Menschen, als unter Thieren: — **Das** war Verlassenheit!
 
 „Und weisst du noch, oh Zarathustra? Als du auf deiner Insel sassest, unter leeren Eimern ein Brunnen Weins, gebend und ausgebend, unter Durstigen schenkend und ausschenkend:
 
-„— bis du endlich durstig allein unter Trunkenen sassest und nächtlich klagtest „ist Nehmen nicht seliger als Geben? Und Stehlen noch seliger als Nehmen?“ — Das war Verlassenheit!
+„— bis du endlich durstig allein unter Trunkenen sassest und nächtlich klagtest „ist Nehmen nicht seliger als Geben? Und Stehlen noch seliger als Nehmen?“ — **Das** war Verlassenheit!
 
 „Und weisst du noch, oh Zarathustra? Als deine stillste Stunde kam und dich von dir selber forttrieb, als sie mit bösem Flüstern sprach: „Sprich und zerbrich!“ —
 
-„— als sie dir all dein Warten und Schweigen leid machte und deinen demüthigen Muth entmuthigte: Das war Verlassenheit!“ —
+„— als sie dir all dein Warten und Schweigen leid machte und deinen demüthigen Muth entmuthigte: **Das** war Verlassenheit!“ —
 
 Oh Einsamkeit! Du meine Heimat Einsamkeit! Wie selig und zärtlich redet deine Stimme zu mir!
 
@@ -1021,7 +1021,7 @@ Denn offen ist es bei dir und hell; und auch die Stunden laufen hier auf leichte
 
 Hier springen mir alles Seins Worte und Wort-Schreine auf: alles Sein will hier Wort werden, alles Werden will hier von mir reden lernen.
 
-Da unten aber — da ist alles Reden umsonst! Da ist Vergessen und Vorübergehn die beste Weisheit: Das — lernte ich nun!
+Da unten aber — da ist alles Reden umsonst! Da ist Vergessen und Vorübergehn die beste Weisheit: **Das** — lernte ich nun!
 
 Wer Alles bei den Menschen begreifen wollte, der müsste Alles angreifen. Aber dazu habe ich zu reinliche Hände.
 
@@ -1045,21 +1045,21 @@ Im Schonen und Mitleiden lag immer meine grösste Gefahr; und alles Menschenwese
 
 Mit verhaltenen Wahrheiten, mit Narrenhand und vernarrtem Herzen und reich an kleinen Lügen des Mitleidens: — also lebte ich immer unter Menschen.
 
-Verkleidet sass ich unter ihnen, bereit, mich zu verkennen, dass ich sie ertrüge, und gern mir zuredend „du Narr, du kennst die Menschen nicht!“
+Verkleidet sass ich unter ihnen, bereit, **mich** zu verkennen, dass ich **sie** ertrüge, und gern mir zuredend „du Narr, du kennst die Menschen nicht!“
 
-Man verlernt die Menschen, wenn man unter Menschen lebt: zu viel Vordergrund ist an allen Menschen, — was sollen da weitsichtige, weit-süchtige Augen!
+Man verlernt die Menschen, wenn man unter Menschen lebt: zu viel Vordergrund ist an allen Menschen, — was sollen **da** weitsichtige, weit-süchtige Augen!
 
 Und wenn sie mich verkannten: ich Narr schonte sie darob mehr, als mich: gewohnt zur Härte gegen mich und oft noch an mir selber mich rächend für diese Schonung.
 
 Zerstochen von giftigen Fliegen und ausgehöhlt, dem Steine gleich, von vielen Tropfen Bosheit, so sass ich unter ihnen und redete mir noch zu: „unschuldig ist alles Kleine an seiner Kleinheit!“
 
-Sonderlich Die, welche sie „die Guten“ heissen, fand ich als die giftigsten Fliegen: sie stechen in aller Unschuld, sie lügen in aller Unschuld; wie vermöchten sie, gegen mich — gerecht zu sein!
+Sonderlich Die, welche sie „die Guten“ heissen, fand ich als die giftigsten Fliegen: sie stechen in aller Unschuld, sie lügen in aller Unschuld; wie **vermöchten** sie, gegen mich — gerecht zu sein!
 
 Wer unter den Guten lebt, den lehrt Mitleid lügen. Mitleid macht dumpfe Luft allen freien Seelen. Die Dummheit der Guten nämlich ist unergründlich.
 
-Mich selber verbergen und meinen Reichthum — das lernte ich da unten: denn Jeden fand ich noch arm am Geiste. Das war der Lug meines Mitleidens, dass ich bei Jedem wusste,
+Mich selber verbergen und meinen Reichthum — **das** lernte ich da unten: denn Jeden fand ich noch arm am Geiste. Das war der Lug meines Mitleidens, dass ich bei Jedem wusste,
 
-— dass ich Jedem es ansah und anroch, was ihm Geistes genug und was ihm schon Geistes zuviel war!
+— dass ich Jedem es ansah und anroch, was ihm Geistes **genug** und was ihm schon Geistes **zuviel** war!
 
 Ihre steifen Weisen: ich hiess sie weise, nicht steif, — so lernte ich Worte verschlucken. Ihre Todtengräber: ich hiess sie Forscher und Prüfer, — so lernte ich Worte vertauschen.
 
@@ -1067,7 +1067,7 @@ Die Todtengräber graben sich Krankheiten an. Unter altem Schutte ruhn schlimme 
 
 Mit seligen Nüstern athme ich wieder Berges-Freiheit! Erlöst ist endlich meine Nase vom Geruch alles Menschenwesens!
 
-Von scharfen Lüften gekitzelt, wie von schäumenden Weinen, niest meine Seele, — niest und jubelt sich zu: Gesundheit!
+Von scharfen Lüften gekitzelt, wie von schäumenden Weinen, **niest** meine Seele, — niest und jubelt sich zu: Gesundheit!
 
   
 
@@ -1086,7 +1086,7 @@ Also sprach Zarathustra.
 
 ### [1.](javascript:;)
 
-Im Traum, im letzten Morgentraume stand ich heut auf einem Vorgebirge, — jenseits der Welt, hielt eine Wage und wog die Welt.
+Im Traum, im letzten Morgentraume stand ich heut auf einem Vorgebirge, — jenseits der Welt, hielt eine Wage und **wog** die Welt.
 
 Oh dass zu früh mir die Morgenröthe kam: die glühte mich wach, die Eifersüchtige! Eifersüchtig ist sie immer auf meine Morgentraum-Gluthen.
 
@@ -1094,7 +1094,7 @@ Messbar für Den, der Zeit hat, wägbar für einen guten Wäger, erfliegbar für
 
 Mein Traum, ein kühner Segler, halb Schiff, halb Windsbraut, gleich Schmetterlingen schweigsam, ungeduldig gleich Edelfalken: wie hatte er doch zum Welt-Wägen heute Geduld und Weile!
 
-Sprach ihm heimlich wohl meine Weisheit zu, meine lachende wache Tags-Weisheit, welche über alle „unendliche Welten“ spottet? Denn sie spricht: „wo Kraft ist, wird auch die Zahl Meisterin: die hat mehr Kraft.“
+Sprach ihm heimlich wohl meine Weisheit zu, meine lachende wache Tags-Weisheit, welche über alle „unendliche Welten“ spottet? Denn sie spricht: „wo Kraft ist, wird auch die **Zahl** Meisterin: die hat mehr Kraft.“
 
 Wie sicher schaute mein Traum auf diese endliche Welt, nicht neugierig, nicht altgierig, nicht fürchtend, nicht bittend: —
 
@@ -1112,9 +1112,9 @@ Und dass ich’s ihm gleich thue am Tage und sein Bestes ihm nach- und ablerne: 
 
 Wer da segnen lehrte, der lehrte auch fluchen: welches sind in der Welt die drei bestverfluchten Dinge? Diese will ich auf die Wage thun.
 
-Wollust, Herrschsucht, Selbstsucht: diese Drei wurden bisher am besten verflucht und am schlimmsten beleu- und belügenmundet, — diese Drei will ich menschlich gut abwägen.
+**Wollust**, **Herrschsucht**, **Selbstsucht**: diese Drei wurden bisher am besten verflucht und am schlimmsten beleu- und belügenmundet, — diese Drei will ich menschlich gut abwägen.
 
-Wohlauf! Hier ist mein Vorgebirg und da das Meer: das wälzt sich zu mir heran, zottelig, schmeichlerisch, das getreue alte hundertköpfige Hunds-Ungethüm, das ich liebe.
+Wohlauf! Hier ist mein Vorgebirg und da das Meer: **das** wälzt sich zu mir heran, zottelig, schmeichlerisch, das getreue alte hundertköpfige Hunds-Ungethüm, das ich liebe.
 
 Wohlauf! Hier will ich die Wage halten über gewälztem Meere: und auch einen Zeugen wähle ich, dass er zusehe, — dich, du Einsiedler-Baum, dich starkduftigen, breitgewölbten, den ich liebe! —
 
@@ -1140,7 +1140,7 @@ Wollust: nur dem Welken ein süsslich Gift, für die Löwen-Willigen aber die gr
 
 Wollust: das grosse Gleichniss-Glück für höheres Glück und höchste Hoffnung. Vielem nämlich ist Ehe verheissen und mehr als Ehe, —
 
-— Vielem, das fremder sich ist, als Mann und Weib: — und wer begriff es ganz, wie fremd sich Mann und Weib sind!
+— Vielem, das fremder sich ist, als Mann und Weib: — und wer begriff es ganz, **wie fremd**sich Mann und Weib sind!
 
 Wollust: — doch ich will Zäune um meine Gedanken haben und auch noch um meine Worte: dass mir nicht in meine Gärten die Schweine und Schwärmer brechen! —
 
@@ -1152,17 +1152,17 @@ Herrschsucht: das Erdbeben, das alles Morsche und Höhlichte bricht und aufbrich
 
 Herrschsucht: vor deren Blick der Mensch kriecht und duckt und fröhnt und niedriger wird als Schlange und Schwein: — bis endlich die grosse Verachtung aus ihm aufschreit —,
 
-Herrschsucht: die furchtbare Lehrerin der grossen Verachtung, welche Städten und Reichen in’s Antlitz predigt „hinweg mit dir!“ — bis es aus ihnen selber aufschreit „hinweg mit mir!“
+Herrschsucht: die furchtbare Lehrerin der grossen Verachtung, welche Städten und Reichen in’s Antlitz predigt „hinweg mit dir!“ — bis es aus ihnen selber aufschreit „hinweg mit **mir**!“
 
 Herrschsucht: die aber lockend auch zu Reinen und Einsamen und hinauf zu selbstgenugsamen Höhen steigt, glühend gleich einer Liebe, welche purpurne Seligkeiten lockend an Erdenhimmel malt.
 
-Herrschsucht: doch wer hiesse es Sucht, wenn das Hohe hinab nach Macht gelüstet! Wahrlich, nichts Sieches und Süchtiges ist an solchem Gelüsten und Niedersteigen!
+Herrschsucht: doch wer hiesse es **Sucht**, wenn das Hohe hinab nach Macht gelüstet! Wahrlich, nichts Sieches und Süchtiges ist an solchem Gelüsten und Niedersteigen!
 
 Dass die einsame Höhe sich nicht ewig vereinsame und selbst begnüge; dass der Berg zu Thale komme und die Winde der Höhe zu den Niederungen: —
 
 Oh wer fände den rechten Tauf- und Tugendnamen für solche Sehnsucht! „Schenkende Tugend“ — so nannte das Unnennbare einst Zarathustra.
 
-Und damals geschah es auch, — und wahrlich, es geschah zum ersten Male! — dass sein Wort die Selbstsucht selig pries, die heile, gesunde Selbstsucht, die aus mächtiger Seele quillt: —
+Und damals geschah es auch, — und wahrlich, es geschah zum ersten Male! — dass sein Wort die **Selbstsucht** selig pries, die heile, gesunde Selbstsucht, die aus mächtiger Seele quillt: —
 
 — aus mächtiger Seele, zu welcher der hohe Leib gehört, der schöne, sieghafte, erquickliche, um den herum jedwedes Ding Spiegel wird:
 
@@ -1170,9 +1170,9 @@ Und damals geschah es auch, — und wahrlich, es geschah zum ersten Male! — da
 
 Mit ihren Worten von Gut und Schlecht schirmt sich solche Selbst-Lust wie mit heiligen Hainen; mit den Namen ihres Glücks bannt sie von sich alles Verächtliche.
 
-Von sich weg bannt sie alles Feige; sie spricht: Schlecht — das ist feige
+Von sich weg bannt sie alles Feige; sie spricht: Schlecht — **das ist**feige
 
-*Erratum:*feige  
+*Erratum:***feige**  
 *lies:*feige  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -1186,7 +1186,7 @@ Geringer noch gilt ihr der Schnell-Gefällige, der Hündische, der gleich auf de
 
 Verhasst ist ihr gar und ein Ekel, wer nie sich wehren will, wer giftigen Speichel und böse Blicke hinunterschluckt, der All-zu-Geduldige, Alles-Dulder, Allgenügsame: das nämlich ist die knechtische Art.
 
-Ob Einer vor Göttern und göttlichen Fusstritten knechtisch ist, ob vor Menschen und blöden Menschen-Meinungen: alle Knechts-Art speit sie an, diese selige Selbstsucht!
+Ob Einer vor Göttern und göttlichen Fusstritten knechtisch ist, ob vor Menschen und blöden Menschen-Meinungen: **alle** Knechts-Art speit sie an, diese selige Selbstsucht!
 
 Schlecht: so heisst sie Alles, was geknickt und knickerisch-knechtisch ist, unfreie Zwinker-Augen, gedrückte Herzen, und jene falsche nachgebende Art, welche mit breiten feigen Lippen küsst.
 
@@ -1194,11 +1194,11 @@ Und After-Weisheit: so heisst sie Alles, was Knechte und Greise und Müde witzel
 
 Die After-Weisen aber, alle die Priester, Weltmüden und wessen Seele von Weibs- und Knechtsart ist, — oh wie hat ihr Spiel von jeher der Selbstsucht übel mitgespielt!
 
-Und Das gerade sollte Tugend sein und Tugend heissen, dass man der Selbstsucht übel mitspiele! Und „selbstlos“ — so wünschten sich selber mit gutem Grunde alle diese weltmüden Feiglinge und Kreuzspinnen!
+Und Das gerade sollte Tugend sein und Tugend heissen, **dass** man der Selbstsucht übel mitspiele! Und „selbstlos“ — so wünschten sich selber mit gutem Grunde alle diese weltmüden Feiglinge und Kreuzspinnen!
 
-Aber denen Allen kommt nun der Tag, die Wandlung, das Richtschwert, der grosse Mittag: da soll Vieles offenbar werden!
+Aber denen Allen kommt nun der Tag, die Wandlung, das Richtschwert, **der grosse Mittag**: da soll Vieles offenbar werden!
 
-Und wer das Ich heil und heilig spricht und die Selbstsucht selig, wahrlich, der spricht auch, was er weiss, ein Weissager: „Siehe, er kommt, er ist nahe, der grosse Mittag!“
+Und wer das Ich heil und heilig spricht und die Selbstsucht selig, wahrlich, der spricht auch, was er weiss, ein Weissager: „**Siehe, er kommt, er ist nahe, der grosse Mittag**!“
 
   
 
@@ -1229,7 +1229,7 @@ Von unschuldigen Dingen genährt und von Wenigem, bereit und ungeduldig zu flieg
 
 Und zumal, dass ich dem Geist der Schwere feind bin, das ist Vogel-Art: und wahrlich, todfeind, erzfeind, urfeind! Oh wohin flog und verflog sich nicht schon meine Feindschaft!
 
-Davon könnte ich schon ein Lied singen — — und will es singen: ob ich gleich allein in leerem Hause bin und es meinen eignen Ohren singen muss.
+Davon könnte ich schon ein Lied singen — — und **will** es singen: ob ich gleich allein in leerem Hause bin und es meinen eignen Ohren singen muss.
 
 Andre Sänger giebt es freilich, denen macht das volle Haus erst ihre Kehle weich, ihre Hand gesprächig, ihr Auge ausdrücklich, ihr Herz wach: — Denen gleiche ich nicht. —
 
@@ -1239,7 +1239,7 @@ Wer die Menschen einst fliegen lehrt, der hat alle Grenzsteine verrückt; alle G
 
 Der Vogel Strauss läuft schneller als das schnellste Pferd, aber auch er steckt noch den Kopf schwer in schwere Erde: also der Mensch, der noch nicht fliegen kann.
 
-Schwer heisst ihm Erde und Leben; und so will es der Geist der Schwere! Wer aber leicht werden will und ein Vogel, der muss sich selber lieben: — also lehre ich.
+Schwer heisst ihm Erde und Leben; und so **will** es der Geist der Schwere! Wer aber leicht werden will und ein Vogel, der muss sich selber lieben: — also lehre **ich**.
 
 Nicht freilich mit der Liebe der Siechen und Süchtigen: denn bei denen stinkt auch die Eigenliebe!
 
@@ -1247,7 +1247,7 @@ Man muss sich selber lieben lernen — also lehre ich — mit einer heilen und g
 
 Solches Umherschweifen tauft sich „Nächstenliebe“: mit diesem Worte ist bisher am besten gelogen und geheuchelt worden, und sonderlich von Solchen, die aller Welt schwer fielen.
 
-Und wahrlich, das ist kein Gebot für Heute und Morgen, sich lieben lernen. Vielmehr ist von allen Künsten diese die feinste, listigste, letzte und geduldsamste.
+Und wahrlich, das ist kein Gebot für Heute und Morgen, sich lieben **lernen**. Vielmehr ist von allen Künsten diese die feinste, listigste, letzte und geduldsamste.
 
 Für seinen Eigener ist nämlich alles Eigene gut versteckt; und von allen Schatzgruben wird die eigne am spätesten ausgegraben, — also schafft es der Geist der Schwere.
 
@@ -1259,11 +1259,11 @@ Und wir — wir schleppen treulich, was man uns mitgiebt, auf harten Schultern u
 
 Aber der Mensch nur ist sich schwer zu tragen! Das macht, er schleppt zu vieles Fremde auf seinen Schultern. Dem Kameele gleich kniet er nieder und lässt sich gut aufladen.
 
-Sonderlich der starke, tragsame Mensch, dem Ehrfurcht innewohnt: zu viele fremde schwere Worte und Werthe lädt er auf sich, — nun dünkt das Leben ihm eine Wüste!
+Sonderlich der starke, tragsame Mensch, dem Ehrfurcht innewohnt: zu viele **fremde** schwere Worte und Werthe lädt er auf sich, — nun dünkt das Leben ihm eine Wüste!
 
-Und wahrlich! Auch manches Eigene ist schwer zu tragen! Und viel Inwendiges am Menschen ist der Auster gleich, nämlich ekel und schlüpfrig und schwer erfasslich —,
+Und wahrlich! Auch manches **Eigene** ist schwer zu tragen! Und viel Inwendiges am Menschen ist der Auster gleich, nämlich ekel und schlüpfrig und schwer erfasslich —,
 
-— also dass eine edle Schale mit edler Zierath fürbitten muss. Aber auch diese Kunst muss man lernen: Schale haben und schönen Schein und kluge Blindheit!
+— also dass eine edle Schale mit edler Zierath fürbitten muss. Aber auch diese Kunst muss man lernen: Schale **haben** und schönen Schein und kluge Blindheit!
 
 Abermals trügt über Manches am Menschen, dass manche Schale gering und traurig und zu sehr Schale ist. Viel verborgene Güte und Kraft wird nie errathen; die köstlichsten Leckerbissen finden keine Schmecker!
 
@@ -1271,7 +1271,7 @@ Die Frauen wissen das, die köstlichsten: ein Wenig fetter, ein Wenig magerer �
 
 Der Mensch ist schwer zu entdecken und sich selber noch am schwersten; oft lügt der Geist über die Seele. Also schafft es der Geist der Schwere.
 
-Der aber hat sich selber entdeckt, welcher spricht: Das ist mein Gutes und Böses: damit hat er den Maulwurf und Zwerg stumm gemacht, welcher spricht „Allen gut, Allen bös.“
+Der aber hat sich selber entdeckt, welcher spricht: Das ist **mein** Gutes und Böses: damit hat er den Maulwurf und Zwerg stumm gemacht, welcher spricht „Allen gut, Allen bös.“
 
 Wahrlich, ich mag auch Solche nicht, denen jegliches Ding gut und diese Welt gar die beste heisst. Solche nenne ich die Allgenügsamen.
 
@@ -1279,19 +1279,19 @@ Allgenügsamkeit, die Alles zu schmecken weiss: das ist nicht der beste Geschmac
 
 Alles aber kauen und verdauen — das ist eine rechte Schweine-Art! Immer I-a sagen — das lernte allein der Esel, und wer seines Geistes ist! —
 
-Das tiefe Gelb und das heisse Roth: so will es mein Geschmack, — der mischt Blut zu allen Farben. Wer aber sein Haus weiss tüncht, der verräth mir eine weissgetünchte Seele.
+Das tiefe Gelb und das heisse Roth: so will es **mein** Geschmack, — der mischt Blut zu allen Farben. Wer aber sein Haus weiss tüncht, der verräth mir eine weissgetünchte Seele.
 
 In Mumien verliebt die Einen, die Andern in Gespenster; und Beide gleich feind allem Fleisch und Blute — oh wie gehen Beide mir wider den Geschmack! Denn ich liebe Blut.
 
-Und dort will ich nicht wohnen und weilen, wo Jedermann spuckt und speit: das ist nun mein Geschmack, — lieber noch lebte ich unter Dieben und Meineidigen. Niemand trägt Gold im Munde.
+Und dort will ich nicht wohnen und weilen, wo Jedermann spuckt und speit: das ist nun **mein** Geschmack, — lieber noch lebte ich unter Dieben und Meineidigen. Niemand trägt Gold im Munde.
 
 Widriger aber sind mir noch alle Speichellecker; und das widrigste Thier von Mensch, das ich fand, das taufte ich Schmarotzer: das wollte nicht lieben und doch von Liebe leben.
 
 Unselig heisse ich Alle, die nur Eine Wahl haben: böse Thiere zu werden oder böse Thierbändiger: bei Solchen würde ich mir keine Hütten bauen.
 
-Unselig heisse ich auch Die, welche immer warten müssen, — die gehen mir wider den Geschmack: alle die Zöllner und Krämer und Könige und andren Länder- und Ladenhüter.
+Unselig heisse ich auch Die, welche immer **warten** müssen, — die gehen mir wider den Geschmack: alle die Zöllner und Krämer und Könige und andren Länder- und Ladenhüter.
 
-Wahrlich, ich lernte das Warten auch und von Grund aus, — aber nur das Warten auf mich. Und über Allem lernte ich stehn und gehn und laufen und springen und klettern und tanzen.
+Wahrlich, ich lernte das Warten auch und von Grund aus, — aber nur das Warten auf **mich**. Und über Allem lernte ich stehn und gehn und laufen und springen und klettern und tanzen.
 
 Das ist aber meine Lehre: wer einst fliegen lernen will, der muss erst stehn und gehn und laufen und klettern und tanzen lernen: — man erfliegt das Fliegen nicht!
 
@@ -1303,11 +1303,11 @@ Auf vielerlei Weg und Weise kam ich zu meiner Wahrheit; nicht auf Einer Leiter s
 
 Und ungern nur fragte ich stets nach Wegen, — das gieng mir immer wider den Geschmack! Lieber fragte und versuchte ich die Wege selber.
 
-Ein Versuchen und Fragen war all mein Gehen: — und wahrlich, auch antworten muss man lernen auf solches Fragen! Das aber — ist mein Geschmack:
+Ein Versuchen und Fragen war all mein Gehen: — und wahrlich, auch antworten muss man **lernen** auf solches Fragen! Das aber — ist mein Geschmack:
 
-— kein guter, kein schlechter, aber mein Geschmack, dessen ich weder Scham noch Hehl mehr habe.
+— kein guter, kein schlechter, aber **mein** Geschmack, dessen ich weder Scham noch Hehl mehr habe.
 
-„Das — ist nun mein Weg, — wo ist der eure?“ so antwortete ich Denen, welche mich „nach dem Wege“ fragten. Den Weg nämlich — den giebt es nicht!
+„Das — ist nun **mein** Weg, — wo ist der eure?“ so antwortete ich Denen, welche mich „nach dem Wege“ fragten. **Den** Weg nämlich — den giebt es nicht!
 
   
 
@@ -1330,7 +1330,7 @@ Hier sitze ich und warte, alte zerbrochene Tafeln um mich und auch neue halb bes
 
 — die Stunde meines Niederganges, Unterganges: denn noch Ein Mal will ich zu den Menschen gehn.
 
-Dess warte ich nun: denn erst müssen mir die Zeichen kommen, dass es meine Stunde sei, — nämlich der lachende Löwe mit dem Taubenschwarme.
+Dess warte ich nun: denn erst müssen mir die Zeichen kommen, dass es **meine** Stunde sei, — nämlich der lachende Löwe mit dem Taubenschwarme.
 
 Inzwischen rede ich als Einer, der Zeit hat, zu mir selber. Niemand erzählt mir Neues: so erzähle ich mir mich selber. —
 
@@ -1346,9 +1346,9 @@ Als ich zu den Menschen kam, da fand ich sie sitzen auf einem alten Dünkel: All
 
 Eine alte müde Sache dünkte ihnen alles Reden von Tugend; und wer gut schlafen wollte, der sprach vor Schlafengehen noch von „Gut“ und „Böse“.
 
-Diese Schläferei störte ich auf, als ich lehrte: was gut und böse ist, das weiss noch Niemand: — es sei denn der Schaffende!
+Diese Schläferei störte ich auf, als ich lehrte: was gut und böse ist, **das weiss noch Niemand**: — es sei denn der Schaffende!
 
-— Das aber ist Der, welcher des Menschen Ziel schafft und der Erde ihren Sinn giebt und ihre Zukunft: Dieser erst schafft es, dass Etwas gut und böse ist.
+— Das aber ist Der, welcher des Menschen Ziel schafft und der Erde ihren Sinn giebt und ihre Zukunft: Dieser erst **schafft** es, **dass** Etwas gut und böse ist.
 
 Und ich hiess sie ihre alten Lehr-Stühle umwerfen, und wo nur jener alte Dünkel gesessen hatte; ich hiess sie lachen über ihre grossen Tugend-Meister und Heiligen und Dichter und Welt-Erlöser.
 
@@ -1380,7 +1380,7 @@ Wo alle Zeit mich ein seliger Hohn auf Augenblicke dünkte, wo die Nothwendigkei
 
 Wo ich auch meinen alten Teufel und Erzfeind wiederfand, den Geist der Schwere und Alles, was er schuf: Zwang, Satzung, Noth und Folge und Zweck und Wille und Gut und Böse: —
 
-Denn muss nicht dasein, über das getanzt, hinweggetanzt werde? Müssen nicht um der Leichten, Leichtesten willen — Maulwürfe und schwere Zwerge dasein? — —
+Denn muss nicht dasein, **über** das getanzt, hinweggetanzt werde? Müssen nicht um der Leichten, Leichtesten willen — Maulwürfe und schwere Zwerge dasein? — —
 
   
 
@@ -1398,21 +1398,21 @@ Dort war’s auch, wo ich das Wort „Übermensch“ vom Wege auflas, und dass d
 
 Wahrlich, auch neue Sterne liess ich sie sehn sammt neuen Nächten; und über Wolken und Tag und Nacht spannte ich noch das Lachen aus wie ein buntes Gezelt.
 
-Ich lehrte sie all mein Dichten und Trachten: in Eins zu dichten und zusammen zu tragen, was Bruchstück ist am Menschen und Räthsel und grauser Zufall, —
+Ich lehrte sie all **mein** Dichten und Trachten: in Eins zu dichten und zusammen zu tragen, was Bruchstück ist am Menschen und Räthsel und grauser Zufall, —
 
-— als Dichter, Räthselrather und Erlöser des Zufalls lehrte ich sie an der Zukunft schaffen, und Alles, das war —, schaffend zu erlösen.
+— als Dichter, Räthselrather und Erlöser des Zufalls lehrte ich sie an der Zukunft schaffen, und Alles, das **war** —, schaffend zu erlösen.
 
 Das Vergangne am Menschen zu erlösen und alles „Es war“ umzuschaffen, bis der Wille spricht: „Aber so wollte ich es! So werde ich’s wollen —“
 
 — Diess hiess ich ihnen Erlösung, Diess allein lehrte ich sie Erlösung heissen. — —
 
-Nun warte ich meiner Erlösung —, dass ich zum letzten Male zu ihnen gehe.
+Nun warte ich **meiner** Erlösung —, dass ich zum letzten Male zu ihnen gehe.
 
-Denn noch Ein Mal will ich zu den Menschen: unter ihnen will ich untergehen, sterbend will ich ihnen meine reichste Gabe geben!
+Denn noch Ein Mal will ich zu den Menschen: **unter** ihnen will ich untergehen, sterbend will ich ihnen meine reichste Gabe geben!
 
 Der Sonne lernte ich Das ab, wenn sie hinabgeht, die Überreiche: Gold schüttet sie da in’s Meer aus unerschöpflichem Reichthume, —
 
-— also, dass der ärmste Fischer noch mit goldenem Ruder rudert! Diess nämlich sah ich einst und wurde der Thränen nicht satt im Zuschauen. — —
+— also, dass der ärmste Fischer noch mit **goldenem** Ruder rudert! Diess nämlich sah ich einst und wurde der Thränen nicht satt im Zuschauen. — —
 
 Der Sonne gleich will auch Zarathustra untergehn: nun sitzt er hier und wartet, alte zerbrochne Tafeln um sich und auch neue Tafeln, — halbbeschriebene.
 
@@ -1426,15 +1426,15 @@ Der Sonne gleich will auch Zarathustra untergehn: nun sitzt er hier und wartet, 
 
 Siehe, hier ist eine neue Tafel: aber wo sind meine Brüder, die sie mit mir zu Thale und in fleischerne Herzen tragen? —
 
-Also heischt es meine grosse Liebe zu den Fernsten: schone deinen Nächsten nicht! Der Mensch ist Etwas, das überwunden werden muss.
+Also heischt es meine grosse Liebe zu den Fernsten: **schone deinen Nächsten nicht**! Der Mensch ist Etwas, das überwunden werden muss.
 
-Es giebt vielerlei Weg und Weise der Überwindung: da siehe du zu! Aber nur ein Possenreisser denkt: „der Mensch kann auch übersprungen werden.“
+Es giebt vielerlei Weg und Weise der Überwindung: da siehe **du** zu! Aber nur ein Possenreisser denkt: „der Mensch kann auch **übersprungen** werden.“
 
 Überwinde dich selber noch in deinem Nächsten: und ein Recht, das du dir rauben kannst, sollst du dir nicht geben lassen!
 
 Was du thust, das kann dir Keiner wieder thun. Siehe, es giebt keine Vergeltung.
 
-Wer sich nicht befehlen kann, der soll gehorchen. Und Mancher kann sich befehlen, aber da fehlt noch Viel, dass er sich auch gehorche!
+Wer sich nicht befehlen kann, der soll gehorchen. Und Mancher **kann** sich befehlen, aber da fehlt noch Viel, dass er sich auch gehorche!
 
   
 
@@ -1444,15 +1444,15 @@ Wer sich nicht befehlen kann, der soll gehorchen. Und Mancher kann sich befehlen
 
 ### [5.](javascript:;)
 
-Also will es die Art edler Seelen: sie wollen Nichts umsonst haben, am wenigsten das Leben.
+Also will es die Art edler Seelen: sie wollen Nichts **umsonst** haben, am wenigsten das Leben.
 
-Wer vom Pöbel ist, der will umsonst leben; wir Anderen aber, denen das Leben sich gab, — wir sinnen immer darüber, was wir am besten dagegen geben!
+Wer vom Pöbel ist, der will umsonst leben; wir Anderen aber, denen das Leben sich gab, — wir sinnen immer darüber, **was** wir am besten **dagegen** geben!
 
-Und wahrlich, diess ist eine vornehme Rede, welche spricht: „was uns das Leben verspricht, das wollen wir — dem Leben halten!“
+Und wahrlich, diess ist eine vornehme Rede, welche spricht: „was **uns** das Leben verspricht, das wollen **wir** — dem Leben halten!“
 
-Man soll nicht geniessen wollen, wo man nicht zu geniessen giebt. Und — man soll nicht geniessen wollen!
+Man soll nicht geniessen wollen, wo man nicht zu geniessen giebt. Und — man soll nicht geniessen **wollen**!
 
-Genuss und Unschuld nämlich sind die schamhaftesten Dinge: Beide wollen nicht gesucht sein. Man soll sie haben —, aber man soll eher noch nach Schuld und Schmerzen suchen! —
+Genuss und Unschuld nämlich sind die schamhaftesten Dinge: Beide wollen nicht gesucht sein. Man soll sie **haben** —, aber man soll eher noch nach Schuld und Schmerzen **suchen**! —
 
   
 
@@ -1468,7 +1468,7 @@ Wir bluten Alle an geheimen Opfertischen, wir brennen und braten Alle zu Ehren a
 
 Unser Bestes ist noch jung: das reizt alte Gaumen. Unser Fleisch ist zart, unser Fell ist nur ein Lamm-Fell: — wie sollten wir nicht alte Götzenpriester reizen!
 
-In uns selber wohnt er noch, der alte Götzenpriester, der unser Bestes sich zum Schmause brät. Ach, meine Brüder, wie sollten Erstlinge nicht Opfer sein!
+**In uns selber** wohnt er noch, der alte Götzenpriester, der unser Bestes sich zum Schmause brät. Ach, meine Brüder, wie sollten Erstlinge nicht Opfer sein!
 
 Aber so will es unsre Art; und ich liebe Die, welche sich nicht bewahren wollen. Die Untergehenden liebe ich mit meiner ganzen Liebe: denn sie gehn hinüber. —
 
@@ -1480,17 +1480,17 @@ Aber so will es unsre Art; und ich liebe Die, welche sich nicht bewahren wollen.
 
 ### [7.](javascript:;)
 
-Wahr sein — das können Wenige! Und wer es kann, der will es noch nicht! Am wenigsten aber können es die Guten.
+Wahr sein — das **können** Wenige! Und wer es kann, der will es noch nicht! Am wenigsten aber können es die Guten.
 
-Oh diese Guten! — Gute Menschen reden nie die Wahrheit; für den Geist ist solchermaassen gut sein eine Krankheit.
+Oh diese Guten! — **Gute Menschen reden nie die Wahrheit**; für den Geist ist solchermaassen gut sein eine Krankheit.
 
-Sie geben nach, diese Guten, sie ergeben sich, ihr Herz spricht nach, ihr Grund gehorcht: wer aber gehorcht, der hört sich selber nicht!
+Sie geben nach, diese Guten, sie ergeben sich, ihr Herz spricht nach, ihr Grund gehorcht: wer aber gehorcht, **der hört sich selber nicht**!
 
-Alles, was den Guten böse heisst, muss zusammen kommen, dass Eine Wahrheit geboren werde: oh meine Brüder, seid ihr auch böse genug zu dieser Wahrheit?
+Alles, was den Guten böse heisst, muss zusammen kommen, dass Eine Wahrheit geboren werde: oh meine Brüder, seid ihr auch böse genug zu **dieser** Wahrheit?
 
-Das verwegene Wagen, das lange Misstrauen, das grausame Nein, der Überdruss, das Schneiden in’s Lebendige — wie selten kommt das zusammen! Aus solchem Samen aber wird — Wahrheit gezeugt!
+Das verwegene Wagen, das lange Misstrauen, das grausame Nein, der Überdruss, das Schneiden in’s Lebendige — wie selten kommt **das** zusammen! Aus solchem Samen aber wird — Wahrheit gezeugt!
 
-Neben dem bösen Gewissen wuchs bisher alles Wissen! Zerbrecht, zerbrecht mir, ihr Erkennenden, die alten Tafeln!
+**Neben** dem bösen Gewissen wuchs bisher alles **Wissen**! Zerbrecht, zerbrecht mir, ihr Erkennenden, die alten Tafeln!
 
   
 
@@ -1502,19 +1502,19 @@ Neben dem bösen Gewissen wuchs bisher alles Wissen! Zerbrecht, zerbrecht mir, i
 
 Wenn das Wasser Balken hat, wenn Stege und Geländer über den Fluss springen: wahrlich, da findet Keiner Glauben, der da spricht: „Alles ist im Fluss.“
 
-Sondern selber die Tölpel widersprechen ihm. „Wie? sagen die Tölpel, Alles wäre im Flusse? Balken und Geländer sind doch über dem Flusse!“
+Sondern selber die Tölpel widersprechen ihm. „Wie? sagen die Tölpel, Alles wäre im Flusse? Balken und Geländer sind doch **über** dem Flusse!“
 
-„Über dem Flusse ist Alles fest, alle die Werthe der Dinge, die Brücken, Begriffe, alles „Gut“ und „Böse“: das ist Alles fest!“—
+„**Über** dem Flusse ist Alles fest, alle die Werthe der Dinge, die Brücken, Begriffe, alles „Gut“ und „Böse“: das ist Alles **fest**!“—
 
-Kommt gar der harte Winter, der Fluss-Thierbändiger: dann lernen auch die Witzigsten Misstrauen; und, wahrlich, nicht nur die Tölpel sprechen dann: „Sollte nicht Alles — stille stehn?“
+Kommt gar der harte Winter, der Fluss-Thierbändiger: dann lernen auch die Witzigsten Misstrauen; und, wahrlich, nicht nur die Tölpel sprechen dann: „Sollte nicht Alles — **stille stehn**?“
 
 „Im Grunde steht Alles stille“ —, das ist eine rechte Winter-Lehre, ein gut Ding für unfruchtbare Zeit, ein guter Trost für Winterschläfer und Ofenhocker.
 
-„Im Grund steht Alles still“ —: dagegen aber predigt der Thauwind!
+„Im Grund steht Alles still“ —: **dagegen** aber predigt der Thauwind!
 
-Der Thauwind, ein Stier, der kein pflügender Stier ist, — ein wüthender Stier, ein Zerstörer, der mit zornigen Hörnern Eis bricht! Eis aber — — bricht Stege!
+Der Thauwind, ein Stier, der kein pflügender Stier ist, — ein wüthender Stier, ein Zerstörer, der mit zornigen Hörnern Eis bricht! Eis aber — — **bricht Stege**!
 
-Oh meine Brüder, ist jetzt nicht Alles im Flusse? Sind nicht alle Geländer und Stege in’s Wasser gefallen? Wer hielte sich noch an „Gut“ und „Böse“?
+Oh meine Brüder, ist **jetzt** nicht Alles **im Flusse**? Sind nicht alle Geländer und Stege in’s Wasser gefallen? Wer **hielte** sich noch an „Gut“ und „Böse“?
 
 „Wehe uns! Heil uns! Der Thauwind weht!“ — Also predigt mir, oh meine Brüder, durch alle Gassen!
 
@@ -1528,11 +1528,11 @@ Oh meine Brüder, ist jetzt nicht Alles im Flusse? Sind nicht alle Geländer und
 
 Es giebt einen alten Wahn, der heisst Gut und Böse. Um Wahrsager und Sterndeuter drehte sich bisher das Rad dieses Wahns.
 
-Einst glaubte man an Wahrsager und Sterndeuter: und darum glaubte man „Alles ist Schicksal: du sollst, denn du musst!“
+Einst **glaubte** man an Wahrsager und Sterndeuter: und **darum** glaubte man „Alles ist Schicksal: du sollst, denn du musst!“
 
-Dann wieder misstraute man allen Wahrsagern und Sterndeutern: und darum glaubte man „Alles ist Freiheit: du kannst, denn du willst!“
+Dann wieder misstraute man allen Wahrsagern und Sterndeutern: und **darum** glaubte man „Alles ist Freiheit: du kannst, denn du willst!“
 
-Oh meine Brüder, über Sterne und Zukunft ist bisher nur gewähnt, nicht gewusst worden: und darum ist über Gut und Böse bisher nur gewähnt, nicht gewusst worden!
+Oh meine Brüder, über Sterne und Zukunft ist bisher nur gewähnt, nicht gewusst worden: und **darum** ist über Gut und Böse bisher nur gewähnt, nicht gewusst worden!
 
   
 
@@ -1546,7 +1546,7 @@ Oh meine Brüder, über Sterne und Zukunft ist bisher nur gewähnt, nicht gewuss
 
 Aber ich frage euch: wo gab es je bessere Räuber und Todtschläger in der Welt, als es solche heilige Worte waren?
 
-Ist in allem Leben selber nicht — Rauben und Todtschlagen? Und dass solche Worte heilig hiessen, wurde damit die Wahrheit selber nicht — todtgeschlagen?
+Ist in allem Leben selber nicht — Rauben und Todtschlagen? Und dass solche Worte heilig hiessen, wurde damit die **Wahrheit** selber nicht — todtgeschlagen?
 
 Oder war es eine Predigt des Todes, dass heilig hiess, was allem Leben widersprach und widerrieth? — Oh meine Brüder, zerbrecht, zerbrecht mir die alten Tafeln!
 
@@ -1568,9 +1568,9 @@ Diess aber ist die andre Gefahr und mein andres Mitleiden: — wer vom Pöbel is
 
 Also ist alles Vergangene preisgegeben: denn es könnte einmal kommen, dass der Pöbel Herr würde und in seichten Gewässern alle Zeit ertränke.
 
-Darum, oh meine Brüder, bedarf es eines neuen Adels, der allem Pöbel und allem Gewalt-Herrischen Widersacher ist und auf neue Tafeln neu das Wort schreibt „edel“.
+Darum, oh meine Brüder, bedarf es eines **neuen Adels**, der allem Pöbel und allem Gewalt-Herrischen Widersacher ist und auf neue Tafeln neu das Wort schreibt „edel“.
 
-Vieler Edlen nämlich bedarf es und vielerlei Edlen, dass es Adel gebe! Oder, wie ich einst im Gleichniss sprach: „Das eben ist Göttlichkeit, dass es Götter, aber keinen Gott giebt!“
+Vieler Edlen nämlich bedarf es und vielerlei Edlen, **dass es Adel gebe**! Oder, wie ich einst im Gleichniss sprach: „Das eben ist Göttlichkeit, dass es Götter, aber keinen Gott giebt!“
 
   
 
@@ -1590,17 +1590,17 @@ Wahrlich nicht, dass ihr einem Fürsten gedient habt — was liegt noch an Fürs
 
 Nicht, dass euer Geschlecht an Höfen höfisch wurde, und ihr lerntet, bunt, einem Flamingo ähnlich, lange Stunden in flachen Teichen stehn.
 
-— Denn Stehen-können ist ein Verdienst bei Höflingen; und alle Höflinge glauben, zur Seligkeit nach dem Tode gehöre —Sitzen-dürfen! —
+— Denn Stehen-**können** ist ein Verdienst bei Höflingen; und alle Höflinge glauben, zur Seligkeit nach dem Tode gehöre —Sitzen-**dürfen**! —
 
-Nicht auch, dass ein Geist, den sie heilig nennen, eure Vorfahren in gelobte Länder führte, die ich nicht lobe: denn wo der schlimmste aller Bäume wuchs, das Kreuz, — an dem Lande ist Nichts zu loben! —
+Nicht auch, dass ein Geist, den sie heilig nennen, eure Vorfahren in gelobte Länder führte, die **ich** nicht lobe: denn wo der schlimmste aller Bäume wuchs, das Kreuz, — an dem Lande ist Nichts zu loben! —
 
-— und wahrlich, wohin dieser „heilige Geist“ auch seine Ritter führte, immer liefen bei solchen Zügen — Ziegen und Gänse und Kreuz- und Querköpfe voran! —
+— und wahrlich, wohin dieser „heilige Geist“ auch seine Ritter führte, immer liefen bei solchen Zügen — Ziegen und Gänse und Kreuz- und Querköpfe **voran**! —
 
-Oh meine Brüder, nicht zurück soll euer Adel schauen, sondern hinaus! Vertriebene sollt ihr sein aus allen Vater- und Urväterländern!
+Oh meine Brüder, nicht zurück soll euer Adel schauen, sondern **hinaus**! Vertriebene sollt ihr sein aus allen Vater- und Urväterländern!
 
-Eurer Kinder Land sollt ihr lieben: diese Liebe sei euer neuer Adel, — das unentdeckte, im fernsten Meere! Nach ihm heisse ich eure Segel suchen und suchen!
+Eurer **Kinder Land** sollt ihr lieben: diese Liebe sei euer neuer Adel, — das unentdeckte, im fernsten Meere! Nach ihm heisse ich eure Segel suchen und suchen!
 
-An euren Kindern sollt ihr gut machen, dass ihr eurer Väter Kinder seid: alles Vergangene sollt ihr so erlösen! Diese neue Tafel stelle ich über euch!
+An euren Kindern sollt ihr **gut machen**, dass ihr eurer Väter Kinder seid: alles Vergangene sollt ihr **so** erlösen! Diese neue Tafel stelle ich über euch!
 
   
 
@@ -1612,9 +1612,9 @@ An euren Kindern sollt ihr gut machen, dass ihr eurer Väter Kinder seid: alles 
 
 „Wozu leben? Alles ist eitel! Leben — das ist Stroh dreschen; Leben — das ist sich verbrennen und doch nicht warm werden.“ —
 
-Solch alterthümliches Geschwätz gilt immer noch als „Weisheit“; dass es aber alt ist und dumpfig riecht, darum wird es besser geehrt. Auch der Moder adelt. —
+Solch alterthümliches Geschwätz gilt immer noch als „Weisheit“; dass es aber alt ist und dumpfig riecht, **darum** wird es besser geehrt. Auch der Moder adelt. —
 
-Kinder durften so reden: die scheuen das Feuer, weil es sie brannte! Es ist viel Kinderei in den alten Büchern der Weisheit.
+Kinder durften so reden: die **scheuen** das Feuer, weil es sie brannte! Es ist viel Kinderei in den alten Büchern der Weisheit.
 
 Und wer immer „Stroh drischt“, wie sollte der auf das Dreschen lästern dürfen! Solchem Narren müsste man doch das Maul verbinden!
 
@@ -1634,11 +1634,11 @@ Aber gut essen und trinken, oh meine Brüder, ist wahrlich keine eitle Kunst! Ze
 
 Darum predigen die Schwärmer und Kopfhänger, denen auch das Herz niederhängt: „die Welt selber ist ein kothiges Ungeheuer.“
 
-Denn diese Alle sind unsäuberlichen Geistes; sonderlich aber jene, welche nicht Ruhe, noch Rast haben, es sei denn, sie sehen die Welt von hinten, — die Hinterweltler!
+Denn diese Alle sind unsäuberlichen Geistes; sonderlich aber jene, welche nicht Ruhe, noch Rast haben, es sei denn, sie sehen die Welt **von hinten**, — die Hinterweltler!
 
-Denen sage ich in’s Gesicht, ob es gleich nicht lieblich klingt: die Welt gleicht darin dem Menschen, dass sie einen Hintern hat, — so Viel ist wahr!
+**Denen** sage ich in’s Gesicht, ob es gleich nicht lieblich klingt: die Welt gleicht darin dem Menschen, dass sie einen Hintern hat, — **so****Viel** ist wahr!
 
-Es giebt in der Welt viel Koth: so Viel ist wahr! Aber darum ist die Welt selber noch kein kothiges Ungeheuer!
+Es giebt in der Welt viel Koth: **so Viel** ist wahr! Aber darum ist die Welt selber noch kein kothiges Ungeheuer!
 
 Es ist Weisheit darin, dass Vieles in der Welt übel riecht: der Ekel selber schafft Flügel und quellenahnende Kräfte!
 
@@ -1682,27 +1682,27 @@ Solche Sprüche hörte ich fromme Hinterweltler zu ihrem Gewissen reden; und wah
 
 „Weisheit macht müde, es lohnt sich — Nichts; du sollst nicht begehren!“ — diese neue Tafel fand ich hängen selbst auf offnen Märkten.
 
-Zerbrecht mir, oh meine Brüder, zerbrecht mir auch diese neue Tafel! Die Welt-Müden hängten sie hin und die Prediger des Todes, und auch die Stockmeister: denn seht, es ist auch eine Predigt zur Knechtschaft! —
+Zerbrecht mir, oh meine Brüder, zerbrecht mir auch diese **neue** Tafel! Die Welt-Müden hängten sie hin und die Prediger des Todes, und auch die Stockmeister: denn seht, es ist auch eine Predigt zur Knechtschaft! —
 
-Dass sie schlecht lernten und das Beste nicht, und Alles zu früh und Alles zu geschwind: dass sie schlecht assen, daher kam ihnen jener verdorbene Magen, —
+Dass sie schlecht lernten und das Beste nicht, und Alles zu früh und Alles zu geschwind: dass sie schlecht **assen**, daher kam ihnen jener verdorbene Magen, —
 
-— ein verdorbener Magen ist nämlich ihr Geist: der räth zum Tode! Denn wahrlich, meine Brüder, der Geist ist ein Magen!
+— ein verdorbener Magen ist nämlich ihr Geist: **der** räth zum Tode! Denn wahrlich, meine Brüder, der Geist **ist** ein Magen!
 
 Das Leben ist ein Born der Lust: aber aus wem der verdorbene Magen redet, der Vater der Trübsal, dem sind alle Quellen vergiftet.
 
-Erkennen: das ist Lust dem Löwen-willigen! Aber wer müde wurde, der wird selber nur „gewollt“, mit dem spielen alle Wellen.
+Erkennen: das ist **Lust** dem Löwen-willigen! Aber wer müde wurde, der wird selber nur „gewollt“, mit dem spielen alle Wellen.
 
 Und so ist es immer schwacher Menschen Art: sie verlieren sich auf ihren Wegen. Und zuletzt fragt noch ihre Müdigkeit: „wozu giengen wir jemals Wege! Es ist Alles gleich!“
 
-Denen klingt es lieblich zu Ohren, dass gepredigt wird: „Es verlohnt sich Nichts! Ihr sollt nicht wollen!“ Diess aber ist eine Predigt zur Knechtschaft.
+**Denen** klingt es lieblich zu Ohren, dass gepredigt wird: „Es verlohnt sich Nichts! Ihr sollt nicht wollen!“ Diess aber ist eine Predigt zur Knechtschaft.
 
 Oh meine Brüder, ein frischer Brause-Wind kommt Zarathustra allen Weg-Müden; viele Nasen wird er noch niesen machen!
 
 Auch durch Mauern bläst mein freier Athem, und hinein in Gefängnisse und eingefangne Geister!
 
-Wollen befreit: denn Wollen ist Schaffen: so lehre ich. Und nur zum Schaffen sollt ihr lernen!
+Wollen befreit: denn Wollen ist Schaffen: so lehre ich. Und **nur** zum Schaffen sollt ihr lernen!
 
-Und auch das Lernen sollt ihr erst von mir lernen, das Gut-Lernen! — Wer Ohren hat, der höre!
+Und auch das Lernen sollt ihr erst von mir **lernen**, das Gut-Lernen! — Wer Ohren hat, der höre!
 
   
 
@@ -1714,7 +1714,7 @@ Und auch das Lernen sollt ihr erst von mir lernen, das Gut-Lernen! — Wer Ohren
 
 Da steht der Nachen, — dort hinüber geht es vielleicht in’s grosse Nichts. — Aber wer will in diess „Vielleicht“ einsteigen?
 
-Niemand von euch will in den Todes-Nachen einsteigen! Wieso wollt ihr dann Welt-Müde sein!
+Niemand von euch will in den Todes-Nachen einsteigen! Wieso wollt ihr dann **Welt-Müde** sein!
 
 Weltmüde! Und noch nicht einmal Erd-Entrückte wurdet ihr! Lüstern fand ich euch immer noch nach Erde, verliebt noch in die eigne Erd-Müdigkeit!
 
@@ -1726,11 +1726,11 @@ Und mancherlei so gut Erfundenes giebt es da, dass es ist wie des Weibes Busen: 
 
 Ihr Welt-Müden aber! Ihr Erden-Faulen! Euch soll man mit Ruthen streichen! Mit Ruthenstreichen soll man euch wieder muntre Beine machen.
 
-Denn: seid ihr nicht Kranke und verlebte Wichte, deren die Erde müde ist, so seid ihr schlaue Faulthiere oder naschhafte verkrochene Lust-Katzen. Und wollt ihr nicht wieder lustig laufen, so sollt ihr— dahinfahren!
+Denn: seid ihr nicht Kranke und verlebte Wichte, deren die Erde müde ist, so seid ihr schlaue Faulthiere oder naschhafte verkrochene Lust-Katzen. Und wollt ihr nicht wieder lustig **laufen**, so sollt ihr— dahinfahren!
 
 An Unheilbaren soll man nicht Arzt sein wollen: also lehrt es Zarathustra: — so sollt ihr dahinfahren!
 
-Aber es gehört mehr Muth dazu, ein Ende zu machen, als einen neuen Vers: das wissen alle Ärzte und Dichter. —
+Aber es gehört mehr **Muth** dazu, ein Ende zu machen, als einen neuen Vers: das wissen alle Ärzte und Dichter. —
 
   
 
@@ -1768,11 +1768,11 @@ Nur, meine Brüder, dass ihr die Hunde von ihm scheucht, die faulen Schleicher, 
 
 Ich schliesse Kreise um mich und heilige Grenzen; immer Wenigere steigen mit mir auf immer höhere Berge, — ich baue ein Gebirge aus immer heiligeren Bergen. —
 
-Wohin ihr aber auch mit mir steigen mögt, oh meine Brüder: seht zu, dass nicht ein Schmarotzer mit euch steige!
+Wohin ihr aber auch mit mir steigen mögt, oh meine Brüder: seht zu, dass nicht ein **Schmarotzer** mit euch steige!
 
 Schmarotzer: das ist ein Gewürm, ein kriechendes, geschmiegtes, das fett werden will an euren kranken wunden Winkeln.
 
-Und das ist seine Kunst, dass er steigende Seelen erräth, wo sie müde sind: in euren Gram und Unmuth, in eure zarte Scham baut er sein ekles Nest.
+Und **das** ist seine Kunst, dass er steigende Seelen erräth, wo sie müde sind: in euren Gram und Unmuth, in eure zarte Scham baut er sein ekles Nest.
 
 Wo der Starke schwach, der Edle allzumild ist, — dahinein baut er sein ekles Nest: der Schmarotzer wohnt, wo der Grosse kleine wunde Winkel hat.
 
@@ -1782,11 +1782,11 @@ Die Seele nämlich, welche die längste Leiter hat und am tiefsten hinunter kann
 
 — die umfänglichste Seele, welche am weitesten in sich laufen und irren und schweifen kann; die nothwendigste, welche sich aus Lust in den Zufall stürzt: —
 
-— die seiende Seele, welche in’s Werden taucht; die habende, welche in’s Wollen und Verlangen will: —
+— die seiende Seele, welche in’s Werden taucht; die habende, welche in’s Wollen und Verlangen **will**: —
 
 — die sich selber fliehende, die sich selber im weitesten Kreise einholt; die weiseste Seele, welcher die Narrheit am süssesten zuredet: —
 
-— die sich selber liebendste, in der alle Dinge ihr Strömen und Wiederströmen und Ebbe und Fluth haben: — oh wie sollte die höchste Seele nicht die schlimmsten Schmarotzer haben?
+— die sich selber liebendste, in der alle Dinge ihr Strömen und Wiederströmen und Ebbe und Fluth haben: — oh wie sollte **die höchste Seele** nicht die schlimmsten Schmarotzer haben?
 
   
 
@@ -1798,13 +1798,13 @@ Die Seele nämlich, welche die längste Leiter hat und am tiefsten hinunter kann
 
 Oh meine Brüder, bin ich denn grausam? Aber ich sage: was fällt, das soll man auch noch stossen!
 
-Das Alles von Heute — das fällt, das verfällt: wer wollte es halten! Aber ich — ich will es noch stossen!
+Das Alles von Heute — das fällt, das verfällt: wer wollte es halten! Aber ich — ich **will** es noch stossen!
 
 Kennt ihr die Wollust, die Steine in steile Tiefen rollt? — Diese Menschen von heute: seht sie doch, wie sie in meine Tiefen rollen!
 
-Ein Vorspiel bin ich besserer Spieler, oh meine Brüder! Ein Beispiel! Thut nach meinem Beispiele!
+Ein Vorspiel bin ich besserer Spieler, oh meine Brüder! Ein Beispiel! **Thut** nach meinem Beispiele!
 
-Und wen ihr nicht fliegen lehrt, den lehrt mir — schneller fallen! —
+Und wen ihr nicht fliegen lehrt, den lehrt mir — **schneller fallen**! —
 
   
 
@@ -1814,9 +1814,9 @@ Und wen ihr nicht fliegen lehrt, den lehrt mir — schneller fallen! —
 
 ### [21.](javascript:;)
 
-Ich liebe die Tapferen: aber es ist nicht genug, Hau-Degen sein, — man muss auch wissen Hau-schau-Wen!
+Ich liebe die Tapferen: aber es ist nicht genug, Hau-Degen sein, — man muss auch wissen Hau-schau-**Wen**!
 
-Und oft ist mehr Tapferkeit darin, dass Einer an sich hält und vorübergeht: damit er sich dem würdigeren Feinde aufspare!
+Und oft ist mehr Tapferkeit darin, dass Einer an sich hält und vorübergeht: **damit** er sich dem würdigeren Feinde aufspare!
 
 Ich sollt nur Feinde haben, die zu hassen sind, aber nicht Feinde zum Verachten: ihr müsst stolz auf euren Feind sein: also lehrte ich schon Ein Mal.
 
@@ -1828,15 +1828,15 @@ Haltet euer Auge rein von ihrem Für und Wider! Da giebt es viel Recht, viel Unr
 
 Dreinschaun, dreinhaun — das ist da Eins: darum geht weg in die Wälder und legt euer Schwert schlafen!
 
-Geht eure Wege! Und lasst Volk und Völker die ihren gehn! — dunkle Wege wahrlich, auf denen auch nicht Eine Hoffnung mehr wetterleuchtet!
+Geht **eure** Wege! Und lasst Volk und Völker die ihren gehn! — dunkle Wege wahrlich, auf denen auch nicht Eine Hoffnung mehr wetterleuchtet!
 
 Mag da der Krämer herrschen, wo Alles, was noch glänzt— Krämer-Gold ist! Es ist die Zeit der Könige nicht mehr: was sich heute Volk heisst, verdient keine Könige.
 
 Seht doch, wie diese Völker jetzt selber den Krämern gleich thun: sie lesen sich die kleinsten Vortheile noch aus jedem Kehricht!
 
-Sie lauern einander auf, sie lauern einander Etwas ab, — das heissen sie „gute Nachbarschaft.“ Oh selige ferne Zeit, wo ein Volk sich sagte: „ich will über Völker — Herr sein!“
+Sie lauern einander auf, sie lauern einander Etwas ab, — das heissen sie „gute Nachbarschaft.“ Oh selige ferne Zeit, wo ein Volk sich sagte: „ich will über Völker — **Herr** sein!“
 
-Denn, meine Brüder: das Beste soll herrschen, das Beste will auch herrschen! Und wo die Lehre anders lautet, da — fehlt es am Besten.
+Denn, meine Brüder: das Beste soll herrschen, das Beste **will** auch herrschen! Und wo die Lehre anders lautet, da — **fehlt** es am Besten.
 
   
 
@@ -1846,15 +1846,15 @@ Denn, meine Brüder: das Beste soll herrschen, das Beste will auch herrschen! Un
 
 ### [22.](javascript:;)
 
-Wenn Die — Brod umsonst hätten, wehe! Wonach würden Die schrein! Ihr Unterhalt — das ist ihre rechte Unterhaltung; und sie sollen es schwer haben!
+Wenn **Die** — Brod umsonst hätten, wehe! Wonach würden **Die** schrein! Ihr Unterhalt — das ist ihre rechte Unterhaltung; und sie sollen es schwer haben!
 
 Raubthiere sind es: in ihrem „Arbeiten“ — da ist auch noch Rauben, in ihrem „Verdienen“ — da ist auch noch Überlisten! Darum sollen sie es schwer haben!
 
-Bessere Raubthiere sollen sie also werden, feinere, klügere, menschen-ähnlichere: der Mensch nämlich ist das beste Raubthier.
+Bessere Raubthiere sollen sie also werden, feinere, klügere, **menschen-ähnlichere**: der Mensch nämlich ist das beste Raubthier.
 
 Allen Thieren hat der Mensch schon ihre Tugenden abgeraubt: das macht, von allen Thieren hat es der Mensch am schwersten gehabt.
 
-Nur noch die Vögel sind über ihm. Und wenn der Mensch noch fliegen lernte, wehe! wohinauf — würde seine Raublust fliegen!
+Nur noch die Vögel sind über ihm. Und wenn der Mensch noch fliegen lernte, wehe! **wohinauf** — würde seine Raublust fliegen!
 
   
 
@@ -1876,19 +1876,19 @@ Und verloren sei uns der Tag, wo nicht Ein Mal getanzt wurde! Und falsch heisse 
 
 ### [24.](javascript:;)
 
-Euer Eheschliessen: seht zu, dass es nicht ein schlechtes Schliessen sei! Ihr schlosset zu schnell: so folgt daraus — Ehebrechen!
+Euer Eheschliessen: seht zu, dass es nicht ein schlechtes **Schliessen** sei! Ihr schlosset zu schnell: so **folgt** daraus — Ehebrechen!
 
 Und besser noch Ehebrechen als Ehe-biegen, Ehelügen! — So sprach mir ein Weib: „wohl brach ich die Ehe, aber zuerst brach die Ehe — mich!“
 
 Schlimm-Gepaarte fand ich immer als die schlimmsten Rachsüchtigen: sie lassen es aller Welt entgelten, dass sie nicht mehr einzeln laufen.
 
-Desswillen will ich, dass Redliche zu einander reden: „wir lieben uns: lasst uns zusehn, dass wir uns lieb behalten! Oder soll unser Versprechen ein Versehen sein?“
+Desswillen will ich, dass Redliche zu einander reden: „wir lieben uns: lasst uns **zusehn**, dass wir uns lieb behalten! Oder soll unser Versprechen ein Versehen sein?“
 
 — „Gebt uns eine Frist und kleine Ehe, dass wir zusehn, ob wir zur grossen Ehe taugen! Es ist ein grosses Ding, immer zu Zwein sein!“
 
 Also rathe ich allen Redlichen; und was wäre denn meine Liebe zum Übermenschen und zu Allem, was kommen soll, wenn ich anders riethe und redete!
 
-Nicht nur fort euch zu pflanzen, sondern hinauf — dazu, oh meine Brüder, helfe euch der Garten der Ehe!
+Nicht nur fort euch zu pflanzen, sondern **hinauf** — dazu, oh meine Brüder, helfe euch der Garten der Ehe!
 
   
 
@@ -1900,22 +1900,22 @@ Nicht nur fort euch zu pflanzen, sondern hinauf — dazu, oh meine Brüder, helf
 
 Wer über alte Ursprünge weise wurde, siehe, der wird zuletzt nach Quellen der Zukunft suchen und nach neuen Ursprüngen. —
 
-Oh meine Brüder, es ist nicht über lange, da werden neue
-Völker entspringen und neue Quellen hinab in neue Tiefen rauschen.
+Oh meine Brüder, es ist nicht über lange, da werden **neue**
+**Völker** entspringen und neue Quellen hinab in neue Tiefen rauschen.
 
 Das Erdbeben nämlich — das verschüttet viel Brunnen, das schafft viel Verschmachten: das hebt auch innre Kräfte und Heimlichkeiten an’s Licht.
 
 Das Erdbeben macht neue Quellen offenbar. Im Erdbeben alter Völker brechen neue Quellen aus.
 
-Und wer da ruft: „Siehe hier ein Brunnen für viele Durstige, Ein Herz für viele Sehnsüchtige, Ein Wille für viele Werkzeuge“: — um den sammelt sich ein Volk, das ist: viel Versuchende.
+Und wer da ruft: „Siehe hier ein Brunnen für viele Durstige, Ein Herz für viele Sehnsüchtige, Ein Wille für viele Werkzeuge“: — um den sammelt sich ein **Volk**, das ist: viel Versuchende.
 
   
 
-Wer befehlen kann, wer gehorchen muss — Das wird da versucht! Ach, mit welch langem Suchen und Rathen und Missrathen und Lernen und Neu-Versuchen!
+Wer befehlen kann, wer gehorchen muss — **Das wird da versucht**! Ach, mit welch langem Suchen und Rathen und Missrathen und Lernen und Neu-Versuchen!
 
 Die Menschen-Gesellschaft: die ist ein Versuch, so lehre ich’s, — ein langes Suchen: sie sucht aber den Befehlenden! —
 
-— ein Versuch, oh meine Brüder! Und kein „Vertrag“! Zerbrecht, zerbrecht mir solch Wort der Weich-Herzen und Halb-und Halben!
+— ein Versuch, oh meine Brüder! Und **kein** „Vertrag“! Zerbrecht, zerbrecht mir solch Wort der Weich-Herzen und Halb-und Halben!
 
   
 
@@ -1937,17 +1937,17 @@ Oh meine Brüder, den Guten und Gerechten sah Einer einmal in’s Herz, der da s
 
 Die Guten und Gerechten selber durften ihn nicht verstehen: ihr Geist ist eingefangen in ihr gutes Gewissen. Die Dummheit der Guten ist unergründlich klug.
 
-Das aber ist die Wahrheit: die Guten müssen Pharisäer sein, — sie haben keine Wahl!
+Das aber ist die Wahrheit: die Guten **müssen** Pharisäer sein, — sie haben keine Wahl!
 
-Die Guten müssen Den kreuzigen, der sich seine eigne Tugend erfindet! Das ist die Wahrheit!
+Die Guten **müssen** Den kreuzigen, der sich seine eigne Tugend erfindet! Das **ist** die Wahrheit!
 
 Der Zweite aber, der ihr Land entdeckte, Land, Herz und Erdreich der Guten und Gerechten: das war, der da fragte: „wen hassen sie am meisten?“
 
-Den Schaffenden hassen sie am meisten: den, der Tafeln bricht und alte Werthe, den Brecher — den heissen sie Verbrecher.
+Den **Schaffenden** hassen sie am meisten: den, der Tafeln bricht und alte Werthe, den Brecher — den heissen sie Verbrecher.
 
-Die Guten nämlich — die können nicht schaffen: die sind immer der Anfang vom Ende: —
+Die Guten nämlich — die **können** nicht schaffen: die sind immer der Anfang vom Ende: —
 
-— sie kreuzigen Den, der neue Werthe auf neue Tafeln schreibt, sie opfern sich die Zukunft, — sie kreuzigen alle Menschen-Zukunft!
+— sie kreuzigen Den, der neue Werthe auf neue Tafeln schreibt, sie opfern **sich** die Zukunft, — sie kreuzigen alle Menschen-Zukunft!
 
 Die Guten — die waren immer der Anfang vom Ende. —
 
@@ -1963,7 +1963,7 @@ Oh meine Brüder, verstandet ihr auch diess Wort? Und was ich einst sagte vom �
 
 Bei Welchen liegt die grösste Gefahr aller Menschen-Zukunft? Ist es nicht bei den Guten und Gerechten?
 
-Zerbrecht, zerbrecht mir die Guten und Gerechten! — Oh meine Brüder, verstandet ihr auch diess Wort?
+**Zerbrecht, zerbrecht mir die Guten und Gerechten**! — Oh meine Brüder, verstandet ihr auch diess Wort?
 
   
 
@@ -1987,7 +1987,7 @@ Aufrecht geht mir bei Zeiten, oh meine Brüder, lernt aufrecht gehn! Das Meer st
 
 Das Meer stürmt: Alles ist im Meere. Wohlan! Wohlauf! Ihr alten Seemanns-Herzen!
 
-Was Vaterland! Dorthin will unser Steuer, wo unser Kinder-Land ist! Dorthinaus, stürmischer als das Meer, stürmt unsre grosse Sehnsucht! —
+Was Vaterland! **Dorthin** will unser Steuer, wo unser **Kinder-Land** ist! Dorthinaus, stürmischer als das Meer, stürmt unsre grosse Sehnsucht! —
 
   
 
@@ -1999,7 +1999,7 @@ Was Vaterland! Dorthin will unser Steuer, wo unser Kinder-Land ist! Dorthinaus, 
 
 „Warum so hart! — sprach zum Diamanten einst die Küchen-Kohle; sind wir denn nicht Nah-Verwandte?“ —
 
-Warum so weich? Oh meine Brüder, also frage ich euch: seid ihr denn nicht — meine Brüder?
+Warum so weich? Oh meine Brüder, also frage **ich** euch: seid ihr denn nicht — meine Brüder?
 
 Warum so weich, so weichend und nachgebend? Warum ist so viel Leugnung, Verleugnung in eurem Herzen? So wenig Schicksal in eurem Blicke?
 
@@ -2011,7 +2011,7 @@ Die Schaffenden nämlich sind hart. Und Seligkeit muss es euch dünken, eure Han
 
 — Seligkeit, auf dem Willen von Jahrtausenden zu schreiben wie auf Erz, — härter als Erz, edler als Erz. Ganz hart ist allein das Edelste.
 
-Diese neue Tafel, oh meine Brüder, stelle ich über euch: werdet hart! —
+Diese neue Tafel, oh meine Brüder, stelle ich über euch: **werdet hart**! —
 
   
 
@@ -2027,7 +2027,7 @@ Oh du mein Wille! Du Wende aller Noth,
 *lies:*Noth,  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- du meine Nothwendigkeit! Bewahre mich vor allen kleinen Siegen!
+ du **meine** Nothwendigkeit! Bewahre mich vor allen kleinen Siegen!
 
 Du Schickung meiner Seele, die ich Schicksal heisse! Du In-
 
@@ -2037,7 +2037,7 @@ Du Schickung meiner Seele, die ich Schicksal heisse! Du In-
 
 mir! Über-mir! Bewahre und spare mich auf zu Einem grossen Schicksale!
 
-Und deine letzte Grösse, mein Wille, spare dir für dein Letztes auf, — dass du unerbittlich bist in deinem Siege! Ach, wer unterlag nicht seinem Siege!
+Und deine letzte Grösse, mein Wille, spare dir für dein Letztes auf, — dass du unerbittlich bist **in** deinem Siege! Ach, wer unterlag nicht seinem Siege!
 
 Ach, wessen Auge dunkelte nicht in dieser trunkenen Dämmerung! Ach, wessen Fuss taumelte nicht und verlernte im Siege — stehen! —
 
@@ -2049,7 +2049,7 @@ Ach, wessen Auge dunkelte nicht in dieser trunkenen Dämmerung! Ach, wessen Fuss
 
 — eine Sonne selber und ein unerbittlicher Sonnen-Wille, zum Vernichten bereit im Siegen!
 
-Oh Wille, Wende aller Noth, du meine Nothwendigkeit! Spare mich auf zu Einem grossen Siege! — —
+Oh Wille, Wende aller Noth, du **meine** Nothwendigkeit! Spare mich auf zu Einem grossen Siege! — —
 
   
 
@@ -2078,13 +2078,13 @@ Knüpfe die Fessel deiner Ohren los: horche! Denn ich will dich hören! Auf! Auf
 
 Und wische den Schlaf und alles Blöde, Blinde aus deinen Augen! Höre mich auch mit deinen Augen: meine Stimme ist ein Heilmittel noch für Blindgeborne.
 
-Und bist du erst wach, sollst du mir ewig wach bleiben. Nicht ist das meine Art, Urgrossmütter aus dem Schlafe wecken, dass ich sie heisse — weiterschlafen!
+Und bist du erst wach, sollst du mir ewig wach bleiben. Nicht ist das **meine** Art, Urgrossmütter aus dem Schlafe wecken, dass ich sie heisse — weiterschlafen!
 
 Du regst dich, dehnst dich, röchelst? Auf! Auf! Nicht röcheln — reden sollst du mir! Zarathustra ruft dich, der Gottlose!
 
 Ich, Zarathustra, der Fürsprecher des Lebens, der Fürsprecher des Leidens, der Fürsprecher des Kreises — dich rufe ich, meinen abgründlichsten Gedanken!
 
-Heil mir! Du kommst — ich höre dich! Mein Abgrund redet, meine letzte Tiefe habe ich an’s Licht gestülpt!
+Heil mir! Du kommst — ich höre dich! Mein Abgrund **redet**, meine letzte Tiefe habe ich an’s Licht gestülpt!
 
 Heil mir! Heran! Gieb die Hand — — ha! lass! Haha! — — Ekel, Ekel, Ekel — — — wehe mir!
 
@@ -2138,7 +2138,7 @@ In jedem Nu beginnt das Sein; um jedes Hier rollt sich die Kugel Dort. Die Mitte
 
 Und ihr, — ihr machtet schon ein Leier-Lied daraus? Nun aber liege ich da, müde noch von diesem Beissen und Wegspein, krank noch von der eigenen Erlösung.
 
-Und ihr schautet dem Allen zu? Oh meine Thiere, seid auch ihr grausam? Habt ihr meinem grossen Schmerze zuschaun wollen, wie Menschen thun? Der Mensch nämlich ist das grausamste Thier.
+**Und ihr schautet dem Allen zu**? Oh meine Thiere, seid auch ihr grausam? Habt ihr meinem grossen Schmerze zuschaun wollen, wie Menschen thun? Der Mensch nämlich ist das grausamste Thier.
 
 Bei Trauerspielen, Stierkämpfen und Kreuzigungen ist es ihm bisher am wohlsten geworden auf Erden; und als er sich die Hölle erfand, siehe, da war das sein Himmel auf Erden.
 
@@ -2152,13 +2152,13 @@ Der Mensch ist gegen sich selber das grausamste Thier; und bei Allem, was sich �
 
 Und ich selber — will ich damit des Menschen Ankläger sein? Ach, meine Thiere, Das allein lernte ich bisher, dass dem Menschen sein Bösestes nöthig ist zu seinem Besten, —
 
-— dass alles Böseste seine beste Kraft ist und der härteste Stein dem höchsten Schaffenden; und dass der Mensch besser und böser werden muss: —
+— dass alles Böseste seine beste **Kraft** ist und der härteste Stein dem höchsten Schaffenden; und dass der Mensch besser **und** böser werden muss: —
 
-Nicht an diess Marterholz war ich geheftet, dass ich weiss: der Mensch ist böse, — sondern ich schrie, wie noch Niemand geschrien hat:
+Nicht an **diess** Marterholz war ich geheftet, dass ich weiss: der Mensch ist böse, — sondern ich schrie, wie noch Niemand geschrien hat:
 
 „Ach dass sein Bösestes so gar klein ist! Ach dass sein Bestes so gar klein ist!“
 
-Der grosse Überdruss am Menschen — der würgte mich und war mir in den Schlund gekrochen: und was der Wahrsager wahrsagte: „Alles ist gleich, es lohnt sich Nichts, Wissen würgt.“
+Der grosse Überdruss am Menschen — **der** würgte mich und war mir in den Schlund gekrochen: und was der Wahrsager wahrsagte: „Alles ist gleich, es lohnt sich Nichts, Wissen würgt.“
 
 Eine lange Dämmerung hinkte vor mir her, eine todesmüde, todestrunkene Traurigkeit, welche mit gähnendem Munde redete.
 
@@ -2180,7 +2180,7 @@ Ach, Ekel! Ekel! Ekel! — — Also sprach Zarathustra und seufzte und schaudert
 
 „Sprich nicht weiter, du Genesender! — so antworteten ihm seine Thiere, sondern geh hinaus, wo die Welt auf dich wartet, gleich einem Garten.
 
-Geh hinaus zu den Rosen und Bienen und Taubenschwärmen! Sonderlich aber zu den Singe-Vögeln: dass du ihnen das Singen ablernst!
+Geh hinaus zu den Rosen und Bienen und Taubenschwärmen! Sonderlich aber zu den Singe-Vögeln: dass du ihnen das **Singen** ablernst!
 
 Singen nämlich ist für Genesende; der Gesunde mag reden. Und wenn auch der Gesunde Lieder will, will er andre Lieder doch als der Genesende.“
 
@@ -2188,7 +2188,7 @@ Singen nämlich ist für Genesende; der Gesunde mag reden. Und wenn auch der Ges
 
 — „Oh ihr Schalks-Narren und Drehorgeln, so schweigt doch! — antwortete Zarathustra und lächelte über seine Thiere. Wie gut ihr wisst, welchen Trost ich mir selber in sieben Tagen erfand!
 
-Dass ich wieder singen müsse, — den Trost erfand ich mir und diese Genesung: wollt ihr auch daraus gleich wieder ein Leier-Lied machen?“
+Dass ich wieder singen müsse, — **den** Trost erfand ich mir und **diese** Genesung: wollt ihr auch daraus gleich wieder ein Leier-Lied machen?“
 
 — „Sprich nicht weiter, antworteten ihm abermals seine Thiere; lieber noch, du Genesender, mache dir erst eine Leier zurecht, eine neue Leier!
 
@@ -2196,7 +2196,7 @@ Denn siehe doch, oh Zarathustra! Zu deinen neuen Liedern bedarf es neuer Leiern.
 
 Singe und brause über, oh Zarathustra, heile mit neuen Liedern deine Seele: dass du dein grosses Schicksal tragest, das noch keines Menschen Schicksal war!
 
-Denn deine Thiere wissen es wohl, oh Zarathustra, wer du bist und werden musst: siehe, du bist der Lehrer der ewigen Wiederkunft —, das ist nun dein Schicksal!
+Denn deine Thiere wissen es wohl, oh Zarathustra, wer du bist und werden musst: siehe, **du bist der Lehrer der ewigen Wiederkunft** —, das ist nun **dein** Schicksal!
 
 Dass du als der Erste diese Lehre lehren musst, — wie sollte diess grosse Schicksal nicht auch deine grösste Gefahr und Krankheit sein!
 
@@ -2214,7 +2214,7 @@ Du würdest sprechen und ohne Zittern, vielmehr aufathmend vor Seligkeit: denn e
 
 Aber der Knoten von Ursachen kehrt wieder, in den ich verschlungen bin, — der wird mich wieder schaffen! Ich selber gehöre zu den Ursachen der ewigen Wiederkunft.
 
-Ich komme wieder, mit dieser Sonne, mit dieser Erde, mit diesem Adler, mit dieser Schlange — nicht zu einem neuen Leben oder besseren Leben oder ähnlichen Leben:
+Ich komme wieder, mit dieser Sonne, mit dieser Erde, mit diesem Adler, mit dieser Schlange — **nicht** zu einem neuen Leben oder besseren Leben oder ähnlichen Leben:
 
 — ich komme ewig wieder zu diesem gleichen und selbigen Leben, im Grössten und auch im Kleinsten, dass ich wieder aller Dinge ewige Wiederkunft lehre, —
 
@@ -2222,7 +2222,7 @@ Ich komme wieder, mit dieser Sonne, mit dieser Erde, mit diesem Adler, mit diese
 
 Ich sprach mein Wort, ich zerbreche an meinem Wort: so will es mein ewiges Loos —, als Verkündiger gehe ich zu Grunde!
 
-Die Stunde kam nun, dass der Untergehende sich selber segnet. Also — endet Zarathustras Untergang.“— —
+Die Stunde kam nun, dass der Untergehende sich selber segnet. Also — **endet** Zarathustras Untergang.“— —
 
   
 
@@ -2289,7 +2289,7 @@ Deine Güte und Über-Güte ist es, die nicht klagen und weinen will: und doch s
 
 — in stürzende Thränen ausschütten all dein Leid über deine Fülle und über all die Drängniss des Weinstocks nach Winzer und Winzermesser!
 
-Aber willst du nicht weinen, nicht ausweinen deine purpurne Schwermuth, so wirst du singen müssen, oh meine Seele! — Siehe, ich lächle selber, der ich dir solches vorhersage:
+Aber willst du nicht weinen, nicht ausweinen deine purpurne Schwermuth, so wirst du **singen** müssen, oh meine Seele! — Siehe, ich lächle selber, der ich dir solches vorhersage:
 
 — singen, mit brausendem Gesange, bis alle Meere still werden, dass sie deiner Sehnsucht zuhorchen, —
 
@@ -2303,9 +2303,9 @@ Aber willst du nicht weinen, nicht ausweinen deine purpurne Schwermuth, so wirst
 
 — schon glühst du und träumst, schon trinkst du durstig an allen tiefen klingenden Trost-Brunnen, schon ruht deine Schwermuth in der Seligkeit zukünftiger Gesänge! — —
 
-Oh meine Seele, nun gab ich dir Alles und auch mein Letztes, und alle meine Hände sind an dich leer geworden: — dass ich dich singen hiess, siehe, das war mein Letztes!
+Oh meine Seele, nun gab ich dir Alles und auch mein Letztes, und alle meine Hände sind an dich leer geworden: — **dass ich dich****singen hiess**, siehe, das war mein Letztes!
 
-Dass ich dich singen hiess, sprich nun, sprich: wer von uns hat jetzt — zu danken? — Besser aber noch: singe mir, singe, oh meine Seele! Und mich lass danken! —
+Dass ich dich singen hiess, sprich nun, sprich: **wer** von uns hat jetzt — zu danken? — Besser aber noch: singe mir, singe, oh meine Seele! Und mich lass danken! —
 
   
 
@@ -2370,7 +2370,7 @@ Du bist so arg müde? Ich trage dich hin, lass nur die Arme sinken! Und hast du 
 
 — Oh diese verfluchte flinke gelenke Schlange und Schlupf-Hexe! Wo bist du hin? Aber im Gesicht fühle ich von deiner Hand zwei Tupfen und rothe Klexe!
 
-Ich bin es wahrlich müde, immer dein schafichter Schäfer zu sein! Du Hexe, habe ich dir bisher gesungen, nun sollst du mir — schrein!
+Ich bin es wahrlich müde, immer dein schafichter Schäfer zu sein! Du Hexe, habe ich dir bisher gesungen, nun sollst **du** mir — schrein!
 
 Nach dem Takt meiner Peitsche sollst du mir tanzen und schrein! Ich vergass doch die Peitsche nicht? — Nein!“ —
 
@@ -2413,7 +2413,7 @@ Es giebt eine alte schwere schwere Brumm-Glocke: die brummt Nachts bis zu deiner
 
 „Ja, antwortete ich zögernd, aber du weisst es auch —“ Und ich sagte ihr Etwas in’s Ohr, mitten hinein zwischen ihre verwirrten gelben thörichten Haar-Zotteln.
 
-Du weisst Das, oh Zarathustra? Das weiss Niemand. — —
+Du **weisst** Das, oh Zarathustra? Das weiss Niemand. — —
 
   
 
@@ -2431,73 +2431,73 @@ Also sprach Zarathustra.
 
 ### [3.](javascript:;)
 
-Eins!
+**Eins!**
 
 Oh Mensch! Gieb Acht!
 
   
 
-Zwei!
+**Zwei!**
 
 Was spricht die tiefe Mitternacht?
 
   
 
-Drei!
+**Drei!**
 
 „Ich schlief, ich schlief —,
 
   
 
-Vier!
+**Vier!**
 
 „Aus tiefem Traum bin ich erwacht: —
 
   
 
-Fünf!
+**Fünf!**
 
 „Die Welt ist tief,
 
   
 
-Sechs!
+**Sechs!**
 
 „Und tiefer als der Tag gedacht.
 
   
 
-Sieben!
+**Sieben!**
 
 „Tief ist ihr Weh —,
 
   
 
-Acht!
+**Acht!**
 
 „Lust — tiefer noch als Herzeleid:
 
   
 
-Neun!
+**Neun!**
 
 „Weh spricht: Vergeh!
 
   
 
-Zehn!
+**Zehn!**
 
 „Doch alle Lust will Ewigkeit —,
 
   
 
-Elf!
+**Elf!**
 
 „— will tiefe, tiefe Ewigkeit!
 
   
 
-Zwölf!
+**Zwölf!**
 
   
 
@@ -2524,7 +2524,7 @@ oh wie sollte ich nicht nach der Ewigkeit brünstig sein und nach dem hochzeitli
 
 Nie noch fand ich das Weib, von dem ich Kinder mochte, es sei denn dieses Weib, das ich liebe: denn ich liebe dich, oh Ewigkeit!
 
-Denn ich liebe dich, oh Ewigkeit!
+**Denn ich liebe dich, oh Ewigkeit!**
 
   
 
@@ -2546,7 +2546,7 @@ Oh wie sollte ich nicht nach der Ewigkeit brünstig sein und nach dem hochzeitli
 
 Nie noch fand ich das Weib, von dem ich Kinder mochte, es sei denn dieses Weib, das ich liebe: denn ich liebe dich, oh Ewigkeit!
 
-Denn ich liebe dich, oh Ewigkeit!
+**Denn ich liebe dich, oh Ewigkeit!**
 
   
 
@@ -2568,7 +2568,7 @@ Oh wie sollte ich nicht nach der Ewigkeit brünstig sein und nach dem hochzeitli
 
 Nie noch fand ich das Weib, von dem ich Kinder mochte, es sei denn dieses Weib, das ich liebe: denn ich liebe dich, oh Ewigkeit!
 
-Denn ich liebe dich, oh Ewigkeit!
+**Denn ich liebe dich, oh Ewigkeit!**
 
   
 
@@ -2590,7 +2590,7 @@ Oh wie sollte ich nicht nach der Ewigkeit brünstig sein und nach dem hochzeitli
 
 Nie noch fand ich das Weib, von dem ich Kinder mochte, es sei denn dieses Weib, das ich liebe: denn ich liebe dich, oh Ewigkeit!
 
-Denn ich liebe dich, oh Ewigkeit!
+**Denn ich liebe dich, oh Ewigkeit!**
 
   
 
@@ -2612,7 +2612,7 @@ Oh wie sollte ich nicht nach der Ewigkeit brünstig sein und nach dem hochzeitli
 
 Nie noch fand ich das Weib, von dem ich Kinder mochte, es sei denn dieses Weib, das ich liebe: denn ich liebe dich, oh Ewigkeit!
 
-Denn ich liebe dich, oh Ewigkeit!
+**Denn ich liebe dich, oh Ewigkeit!**
 
   
 
@@ -2634,7 +2634,7 @@ Oh wie sollte ich nicht nach der Ewigkeit brünstig sein und nach dem hochzeitli
 
 Nie noch fand ich das Weib, von dem ich Kinder mochte, es sei denn dieses Weib, das ich liebe: denn ich liebe dich, oh Ewigkeit!
 
-Denn ich liebe dich, oh Ewigkeit!
+**Denn ich liebe dich, oh Ewigkeit!**
 
   
 
@@ -2656,10 +2656,12 @@ Oh wie sollte ich nicht nach der Ewigkeit brünstig sein und nach dem hochzeitli
 
 Nie noch fand ich das Weib, von dem ich Kinder mochte, es sei denn dieses Weib, das ich liebe: denn ich liebe dich, oh Ewigkeit!
 
-Denn ich liebe dich, oh Ewigkeit!
+**Denn ich liebe dich, oh Ewigkeit!**
 
   
 
 \*
 
 \*                 \*
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -89,9 +89,9 @@ gerichtet.
 [33[8]](javascript:;)
 ---------------------
 
-In mancher Folge von Harmonien Wagners <em>pfinde ich etwas angenehm Widerstrebendes,
-w<ie> beim Drehen eines Schlüssels in einem complicirt<en> Schlosse. Man wundert
-sich, wie gesetzmäßig der <Wider>stand nachläßt.
+In mancher Folge von Harmonien Wagners &amp;lt;em&amp;gt;pfinde ich etwas angenehm Widerstrebendes,
+w&amp;lt;ie&amp;gt; beim Drehen eines Schlüssels in einem complicirt&amp;lt;en&amp;gt; Schlosse. Man wundert
+sich, wie gesetzmäßig der &amp;lt;Wider&amp;gt;stand nachläßt.
 
 [33[9]](javascript:;)
 ---------------------
@@ -160,10 +160,10 @@ Er hat Staat, Gesellschaft, Tugend
 
 , Begabung der Völker und überhaupt
 alles an seiner Kunst gemessen; in unbefriedigtem Zustande wünschte er wohl, daß diese ganze moderne Welt zu
-Grunde gehe. Er entladet sich selbst seiner Schwächen, wenn er sie <einma>l erkannt hat,
-dadurch, daß er diese der modernen <Welt> zuschiebt. Er glaubt an die Güte der menschlichen
-<Natu>r, vorausgesetzt, daß sie frei waltet, und führt alle <Schlec>htigkeit auf
-Knechtschaft und Hemmung zurück. <Um> auch als Künstler frei zu sein, lief er in Dresden seinem
+Grunde gehe. Er entladet sich selbst seiner Schwächen, wenn er sie &amp;lt;einma&amp;gt;l erkannt hat,
+dadurch, daß er diese der modernen &amp;lt;Welt&amp;gt; zuschiebt. Er glaubt an die Güte der menschlichen
+&amp;lt;Natu&amp;gt;r, vorausgesetzt, daß sie frei waltet, und führt alle &amp;lt;Schlec&amp;gt;htigkeit auf
+Knechtschaft und Hemmung zurück. &amp;lt;Um&amp;gt; auch als Künstler frei zu sein, lief er in Dresden seinem
 Amte davon, denn er wollte durchaus nicht mehr dienen und benutzte die Revolution, um als
 Hof-Kapellmeister
 
@@ -172,3 +172,5 @@ Hof-Kapellmeister
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  sich unmöglich zu machen.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

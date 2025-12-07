@@ -39,7 +39,7 @@ Zur Kunstlehre.
 | 17 | die Kunst geht von der natürlichen Unwissenheit über den Menschen aus, sie ist nicht für Physiker und Philosophen. Die „Charaktere“ nicht geschaffen |
 | 18 | die Kunst übernimmt die durch die Religion erhöhten Gefühle. |
 | 19 | die Kunst immer seelenvoller, falscher Schluß auf ältere Kunst |
-| 20 | die Dichter verherrlichen das dem Künstler Interessante z.B. Cervantes. |
+| 20 | die Dichter verherrlichen das dem **Künstler** Interessante z.B. Cervantes. |
 | 21 | Werth der nicht fertig gewordenen Gedanken. |
 | 22 | die Kunst, an Auge und Ohr angeknüpft, hat nichts mit dem Wesen der Dinge zu thun |
 | 23 | das Verschwinden guter Manieren und die Aussicht |
@@ -53,7 +53,7 @@ Zur Kunstlehre.
 | 31 | Häuser für Götter — sonst Architektur in der Wiege: also der Irrthum |
 | 32 | Um in der Kunst erfahren zu werden, soll man produziren |
 | 33 | Plato hat Recht mit der unmoralischen Wirkung der Tragödie |
-| 34 | Schopenhauer als Denker über die Leidenschaften |
+| 34 | Schopenhauer als Denker **über** die Leidenschaften |
 | 35 | der Genieschauder vor sich. Das Stück Wahnsinn im Genie |
 | 36 | die edelste Art der Schönheit |
 | 37 | Musik als Austönen einer Cultur. Wagner |
@@ -134,7 +134,7 @@ Adel. Macht.
 [24[5]](javascript:;)
 ---------------------
 
-Metaphys<ik>
+Metaphys&amp;lt;ik&amp;gt;
 
 Politik Presse Partei Gesellschaft
 
@@ -163,7 +163,7 @@ Die politische Krankheit einer Nation ist gewöhnlich die Ursache ihrer geistige
 ---------------------
 
 Die Eltern sind nicht, wie der metaphysische Philosoph will, die
-Gelegen<heits->Urs<achen> der Kinder — vielmehr sind die Kinder die
+Gelegen&amp;lt;heits-&amp;gt;Urs&amp;lt;achen&amp;gt; der Kinder — vielmehr sind die Kinder die
 Gelegenheitswirkungen der Eltern; diese wollen im Grunde Lust und gelegentlich kommen sie dabei zu
 Kindern.
 
@@ -176,12 +176,12 @@ Damit Held — Drache.
 ---------------------
 
 Alle kleinen Dichter glauben, der gesunde Menschenverstand sei wohlfeil, und sie hätten ihn, sobald sie ihn
-nur haben wollten. — Und sie ahnen nicht, daß sie ebendeshalb kleine Dichter bleiben müssen, weil sie ihn nie haben werden.
+nur haben wollten. — Und sie ahnen nicht, daß sie ebendeshalb kleine Dichter bleiben müssen, weil sie ihn **nie** haben werden.
 
 [24[10]](javascript:;)
 ----------------------
 
-Epilog. — Ich grüße euch Alle, meine Leser, die ihr nicht absichtlich mit falschen und
+**Epilog. —** Ich grüße euch Alle, meine Leser, die ihr nicht absichtlich mit falschen und
 schiefen Augen in dies Buch seht, ihr, die ihr mehr an ihm zu erkennen vermögt als eine Narrenhütte, in
 welcher ein Zerr- und Fratzenbild geistiger Freiheit zur Anbetung aufgehängt ist. Ihr wißt, was ich gab und
 wie ich gab; was ich konnte und wie viel mehr ich wollte — nämlich ein elektrisches Band über ein Jahrhundert
@@ -199,3 +199,5 @@ Bis solch Gewächs dir einst reicher und schöner erblüht.
 Jetzt schon kost’ ich des Glücks, dass ich dem Größeren nachgeh’,
 
 Wenn er des goldnen Ertrags eigener Ernten sich freut.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

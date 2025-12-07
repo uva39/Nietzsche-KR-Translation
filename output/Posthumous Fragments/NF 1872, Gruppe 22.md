@@ -20,7 +20,7 @@ Erster Tag, 28. September.
 
 Samstag.
 
-Mit einem Baseler Ehepaar, das ich nicht kannte, aber zu kennen scheinen mußte.
+Mit einem Baseler Ehepaar, das ich nicht kannte, aber zu kennen **scheinen** mußte.
 
 Von Baden aus an Lisbeth telegraphirt: Gefälligkeit des Hr. Haller aus Bern, der mir seine Karte giebt.
 
@@ -53,7 +53,7 @@ Etwas Kopfschmerzen augenblicklich.
 
 Zweifelhafte Nacht, mit gewaltsamen Träumen.
 
-Sonntag. Ich erwache mit Kopfschmerz. Mein Fenster führt auf den Wallensee: die Sonne
+**Sonntag.** Ich erwache mit Kopfschmerz. Mein Fenster führt auf den Wallensee: die Sonne
 geht auf seinen theils beschneiten Gipfeln auf. Ich frühstücke und gehe noch etwas an den See. Dann auf den
 Bahnhof, sehe mir aber noch die höher gelegene und neuer erscheinende Pension Speer an. Reiner Morgen. Ich
 fahre nach Chur, II Classe, aber mit fortwährend wachsendem Unbehagen, trotz der
@@ -90,7 +90,7 @@ trinkenden Familien. Zuerst trinke ich an den Sodaquellen drei Gläser: oben auf
 weißen Asti und ebenfalls jenes Wasser: dazu esse ich, bereits mit verändertem Kopf und leidlichem Appetit,
 Ziegenkäse. Ein Mann mit chinesischen Augen, der an meinem Tisch sitzt, bekommt auch ein Glas Asti: er dankt
 und trinkt mit sehr geschmeichelten Empfindungen. Dann händigt mir die Wirthin eine Anzahl Analysen und
-Schriftchen ein: zum Schlusse führt mich der Wirth Sprecher herum und läßt mich von allen
+Schriftchen ein: zum Schlusse führt mich der Wirth **Sprecher** herum und läßt mich von allen
 Quellen trinken; zeigt den Reichthum an noch nicht gefaßten Hauptquellen und bietet mir, mein Interesse
 gewahrend, eine Genossenschaft zur Gründung eines Hôtels usw. an. Das Thal ist äußerst anziehend, für einen
 Geologen von unergründlicher Mannichfalitgkeit, ja Wunderlichkeit. Es finden sich
@@ -120,3 +120,5 @@ Stunde etwas Scheußliches, rülpsend und gähnend.
   
 
 Mein Fenster in Splügen: die Strasse kommt von Chur her.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

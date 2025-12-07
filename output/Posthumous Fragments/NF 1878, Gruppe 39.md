@@ -16,14 +16,14 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [39[1]](javascript:;)
 ---------------------
 
-Litterat<ur>.
+**Litterat&amp;lt;ur&amp;gt;.**
 
-Character fälschlich aus Werken erschlossen. Diese aber nach dem künstl<erisch>
+Character fälschlich aus Werken erschlossen. Diese aber nach dem künstl&amp;lt;erisch&amp;gt;
 Wirkungsvollsten.
 
 Auch der Künstler irrt sich leicht über sich.
 
-Aber allmählich verändert sich sein Wesen nach seinen Lieblingsgebilden.
+Aber allmählich verändert sich sein Wesen **nach seinen** Lieblingsgebilden.
 
 [39[2]](javascript:;)
 ---------------------
@@ -33,16 +33,16 @@ Winckelmann Goethe ist von der Cultur aufgesaugt: deshalb erscheint es leer für
 [39[3]](javascript:;)
 ---------------------
 
-Lust am Zwange, immer neues Sich-binden bei den Griechen.
+Lust am **Zwange**, immer neues Sich-binden bei den Griechen.
 
-Homer unter dem Zwange alter Technik.
+Homer unter dem **Zwange** alter Technik.
 
 [39[4]](javascript:;)
 ---------------------
 
-Metrischer Zwang.
+Metrischer **Zwang**.
 
-Naturfehler des Epos, der einzelnen Gattungen.
+**Naturfehler** des Epos, der einzelnen Gattungen.
 
 [39[5]](javascript:;)
 ---------------------
@@ -59,32 +59,32 @@ Abgelehnte Themata, Auswahl.
 [39[7]](javascript:;)
 ---------------------
 
-Vergröberung der Kunst im Drama.
+**Vergröberung** der Kunst im **Drama**.
 
 [39[8]](javascript:;)
 ---------------------
 
 Zu lesende Bücher:
 
-Taine, Frankreich v<or> der Revolution.
+**Taine**, Frankreich v&amp;lt;or&amp;gt; der Revolution.
 
-Lenormant, Phoenizien usw.
+**Lenormant**, Phoenizien usw.
 
-Gutschmid, neue Beiträge zur Assyriologie.
+**Gutschmid**, neue Beiträge zur Assyriologie.
 
-Duncker, Geschichte, erster Band.
+**Duncker**, Geschichte, erster Band.
 
-Doehler, Hadrian usw. (Halle).
+**Doehler**, Hadrian usw. (Halle).
 
-Reumont, Cosimo.
+**Reumont**, Cosimo.
 
-Reumont, Geschichte Toscana’s.
+**Reumont**, Geschichte Toscana’s.
 
-Stern, Milton und <seine> Zeit.
+**Stern**, Milton und &amp;lt;seine&amp;gt; Zeit.
 
-Villari, Machiavell übersetzt Mangold.
+**Villari**, Machiavell übersetzt Mangold.
 
-Petrarca, Geiger.
+**Petrarca**, Geiger.
 
 Baudissin, Studien.
 
@@ -94,7 +94,7 @@ Schack, spanisches Theater.
 
 E. Schérer, études litteraires.
 
-Ambros III Band (Renaissance bis Palestrina).
+Ambros III Band (Renaissance **bis** Palestrina).
 
 Peschel, Völkerkunde.
 
@@ -113,4 +113,6 @@ Ein gewähltes Wort will seinen Hofstaat von Worten um sich und sein Arom (Parfu
 [39[11]](javascript:;)
 ----------------------
 
-Zeitalter des Erkennens um der Seele Ruhe und Freude zu geben.
+Zeitalter des **Erkennens** um der Seele Ruhe und Freude zu geben.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [20[1]](javascript:;)
 ---------------------
 
-Das eherne Schweigen —
+**Das eherne Schweigen —**
 
   
 
@@ -26,7 +26,7 @@ Die Welt ward stumm…
 
   
 
-Ich horchte mit den Ohren meiner Neugierde
+Ich horchte mit den Ohren meiner **Neugierde**
 
 Fünf Mal warf ich die Angel über mich,
 
@@ -36,7 +36,7 @@ Ich fragte — keine Antwort lief mir ins Netz —
 
   
 
-Ich horchte mit dem Ohr meiner Liebe
+Ich horchte mit dem Ohr meiner **Liebe**
 
 [20[2]](javascript:;)
 ---------------------
@@ -90,7 +90,7 @@ schlecht erwischt
 
 krumm gehn große Menschen und Ströme,
 
-krumm, aber zu ihrem Ziele:
+krumm, aber zu **ihrem** Ziele:
 
 das ist ihr bester Muth,
 
@@ -196,7 +196,7 @@ wem ziemt die Schönheit?
 
 dem Manne nicht:
 
-den Mann versteckt die Schönheit, —
+den Mann **versteckt** die Schönheit, —
 
 aber wenig taugt ein versteckter Mann.
 
@@ -235,7 +235,7 @@ schon ward er müde,
 
 schon sucht er die Wege, die er gieng —
 
-und jüngst noch liebte er alles Unbegangne!
+und jüngst noch liebte er alles **Unbegangne**!
 
 [20[23]](javascript:;)
 ----------------------
@@ -322,7 +322,7 @@ und alle deine kleinen
 
 — sie kommen aus dem Kopfe —
 
-sind sie nicht alle schlecht gedacht?
+sind sie nicht alle **schlecht** gedacht?
 
 [20[30]](javascript:;)
 ----------------------
@@ -408,11 +408,11 @@ Werdet ihr nicht, verzeiht,
 
 dem Balle gleich
 
-in die Höhe gedrückt
+in die Höhe **gedrückt**
 
 — durch euer Niedrigstes?…
 
-flieht ihr nicht vor euch, ihr Steigenden?…
+**flieht** ihr nicht vor euch, ihr Steigenden?…
 
 [20[36]](javascript:;)
 ----------------------
@@ -534,7 +534,7 @@ Göttlich ist des Vergessens Kunst!
 [20[47]](javascript:;)
 ----------------------
 
-die Hexe.
+**die Hexe.**
 
 wir dachten übel von einander?…
 
@@ -575,7 +575,7 @@ zu ihrer Seligkeit
 
 braucht’s des Zwanges —
 
-— sie ist ein Weib, nicht<s> Besseres…
+— sie ist ein Weib, nicht&amp;lt;s&amp;gt; Besseres…
 
 [20[49]](javascript:;)
 ----------------------
@@ -598,7 +598,7 @@ meiner Gipfel glüht!
 [20[51]](javascript:;)
 ----------------------
 
-Wasserfahrt — Ruhm.
+**Wasserfahrt** — Ruhm.
 
 Ihr Wellen?
 
@@ -734,7 +734,7 @@ will ich den Weg mir mit guten Sprüchen pflastern
 
 Willst du in Dornen greifen?
 
-Schwer büßen<s> deine Finger.
+Schwer büßen&amp;lt;s&amp;gt; deine Finger.
 
 Greife nach einem Dolch
 
@@ -743,7 +743,7 @@ Greife nach einem Dolch
 
 bist du zerbrechlich?
 
-so hüte dich vor Kindshänden!
+so hüte dich vor **Kindshänden**!
 
 Das Kind kann nicht leben,
 
@@ -818,7 +818,7 @@ jenseits des Todes,
 
 abseits —
 
-unser Leben, unser Glück!
+**unser** Leben, **unser** Glück!
 
 Weder zu Lande,
 
@@ -898,7 +898,7 @@ ihr wollt auf tapferen Füßen gehn!
 
 und nur wenn ich mir selbst zur Last bin,
 
-fallt ihr mir schwer!
+fallt **ihr** mir schwer!
 
 [20[80]](javascript:;)
 ----------------------
@@ -927,7 +927,7 @@ aber gewiß ist, daß er untergieng.
 
 Ein Stern erlosch im öden Raum:
 
-öde ward der Raum…
+**öde** ward der Raum…
 
 [20[83]](javascript:;)
 ----------------------
@@ -995,7 +995,7 @@ was Wunder: nun ward er ihnen zu nichte —
 [20[90]](javascript:;)
 ----------------------
 
-ein Gelehrter alter Dinge
+ein Gelehrter **alter** Dinge
 
 ein Todtengräber-Handwerk,
 
@@ -1017,7 +1017,7 @@ die schweren granitnen Katzen,
 
 die Werthe aus Urzeiten:
 
-wehe! wie willst du die umwerfen?
+wehe! wie willst du **die** umwerfen?
 
 [20[93]](javascript:;)
 ----------------------
@@ -1061,7 +1061,7 @@ Er verwuchs mit seinem Grabe,
 
 dieser verwachsene Geist:
 
-wie könnte er jemals auferstehn?
+wie könnte er jemals **auferstehn**?
 
 [20[97]](javascript:;)
 ----------------------
@@ -1070,7 +1070,7 @@ bist du so neugierig?
 
 kannst du um die Ecke sehn?
 
-man muß, um das zu sehn, Augen auch hinter dem Kopfe haben
+man muß, um **das** zu sehn, Augen auch hinter dem Kopfe haben
 
 [20[98]](javascript:;)
 ----------------------
@@ -1171,7 +1171,7 @@ nicht daß du den Götzen umwarfst:
 
 daß du den Götzendiener in dir umwarfst,
 
-das war dein Muth
+**das** war dein Muth
 
 [20[111]](javascript:;)
 -----------------------
@@ -1205,11 +1205,11 @@ sie ist mein heimliches Panzerhemd
 [20[114]](javascript:;)
 -----------------------
 
-Ruhm
+**Ruhm**
 
 nicht zu früh erkannt:
 
-Einer, der seinen Ruf aufgespart hat
+Einer, der seinen Ruf **aufgespart** hat
 
 [20[115]](javascript:;)
 -----------------------
@@ -1271,7 +1271,7 @@ meine, Seele wird still…
 
 wer wäre das, der Recht dir geben könnte?
 
-So nimm dir Recht!
+So **nimm** dir Recht!
 
 [20[123]](javascript:;)
 -----------------------
@@ -1329,14 +1329,14 @@ machtet ihr aus alten Worten
 
 ein Gesetz:
 
-wo Leben erstarrt, thürmt sich das Gesetz.
+wo Leben **erstarrt**, thürmt sich das Gesetz.
 
 [20[129]](javascript:;)
 -----------------------
 
 damit begann ich:
 
-ich verlernte das Mitgefühl mit mir!
+ich verlernte das Mitgefühl mit **mir**!
 
 [20[130]](javascript:;)
 -----------------------
@@ -1657,16 +1657,16 @@ singe ich dies Lied.
 [20[162]](javascript:;)
 -----------------------
 
-Kriegslieder der Seele.
+**Kriegslieder der Seele.**
 
-Der Siegreiche
+**Der Siegreiche**
 
-Aus der Siebenten Einsamkeit.
+**Aus der Siebenten Einsamkeit.**
 
 [20[163]](javascript:;)
 -----------------------
 
-Der Weg zur Grösse
+**Der Weg zur Grösse**
   
 Lieder  
 Zarathustras
@@ -1674,7 +1674,7 @@ Zarathustras
 [20[164]](javascript:;)
 -----------------------
 
-Das Grab Gottes.
+**Das Grab Gottes.**
 
 [20[165]](javascript:;)
 -----------------------
@@ -1686,7 +1686,7 @@ Zarathustras.
   
 
 Erster Theil:  
-Der Weg der Grösse
+**Der Weg der Grösse**
   
 Von  
 Friedrich Nietzsche.
@@ -1694,7 +1694,7 @@ Friedrich Nietzsche.
 [20[166]](javascript:;)
 -----------------------
 
-Die Lieder Zarathustras.
+**Die Lieder Zarathustras.**
 
   
 
@@ -1706,7 +1706,7 @@ Friedrich Nietzsche.
 [20[167]](javascript:;)
 -----------------------
 
-Die ewige Wiederkunft.
+**Die ewige Wiederkunft.**
   
 Zarathustra’s  
 Tänze und Festzüge.  
@@ -1716,11 +1716,13 @@ Friedrich Nietzsche
 [20[168]](javascript:;)
 -----------------------
 
-Die Lieder
+**Die Lieder**
   
-Zarathustra’s
+**Zarathustra’s**
 
   
 
 Erster Theil:  
-Der Weg zur Grösse
+**Der Weg zur Grösse**
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

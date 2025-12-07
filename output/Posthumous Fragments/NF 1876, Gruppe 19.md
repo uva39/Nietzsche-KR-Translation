@@ -13,7 +13,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 
 [19 = U II 5c. Oktober–Dezember 1876]
 
-Bex vom 3 October an.
+**Bex** vom 3 October an.
 
 [19[1]](javascript:;)
 ---------------------
@@ -27,7 +27,7 @@ Resultat, sondern diese seine Gewöhnung ist sein Verdienst.
 
 2. Die Geschichte der Philologie ist die Geschichte einer Gattung von fleißigen aber
 unbegabten Menschen. Daher die unsinnige Bekämpfung und spätere Überschätzung einiger scharfsinnigeren und
-reicheren Naturen, welche unter die Philologen gerathen sind.
+reicheren Naturen, welche unter **die Philologen gerathen** sind.
 
 [19[3]](javascript:;)
 ---------------------
@@ -66,7 +66,7 @@ sind.
 ---------------------
 
 8. Feineren Geistern wird von solchen ein Zwang angethan, welche immer Geschichten
-erzählen, über die man lachen soll: wo es nicht genügt zu lächeln.
+erzählen, über die man **lachen** soll: wo es nicht genügt zu lächeln.
 
 [19[8]](javascript:;)
 ---------------------
@@ -92,13 +92,13 @@ einer, der in einem Weinlande geboren wird, ein Weintrinker wird.
 
 17. Wer sich im Ganzen viel versagt, wird sich im Kleinen nicht Indulgenz geben. So
 hat es vielleicht keinen Stand gegeben, welcher unter dem Erotischen so sehr allein Ausschweifungen verstand,
-wie den katholischen Priesterstand, welcher der Liebe entsagte. Dafür erlaubte er sich
-die gelegentliche Lust.
+wie den katholischen Priesterstand, welcher der **Liebe** entsagte. Dafür erlaubte er sich
+die gelegentliche **Lust**.
 
 [19[12]](javascript:;)
 ----------------------
 
-18. Man kann höchst passend reden und doch so daß alle Welt über
+18. Man kann **höchst passend reden** und doch so daß alle Welt über
 das Gegentheil schreit. So redete Sokrates sehr passend, aber vor einem weltgeschichtlichen Forum: seine
 Richter urtheilten umgekehrt. — Die Meister reden sich zu ihren Hörern herab.
 
@@ -132,7 +132,7 @@ wie die eines incognito reisenden Fürsten.
 [19[17]](javascript:;)
 ----------------------
 
-Die Schätzung von Eigenschaften kann nur vergleichend sein, das eigne Interesse will die höchste Schätzung.
+Die Schätzung von Eigenschaften kann nur vergleichend sein, das eigne Interesse will die **höchste** Schätzung.
 
 Wetteifer oder Vernichtung.
 
@@ -278,7 +278,7 @@ möglichst viel neue und höhere Möglichkeiten des Handelns kennen lehrt und da
 Handelns zur Auswahl darbietet, sodann daß man Gelegenheiten giebt. Der Mensch wird von einem niederen Motiv
 sehr häufig nur deshalb ergriffen, weil er ein höheres nicht kannte, und er bleibt mittelmäßig und niedrig in
 seinen Handlungen, weil ihm keine Gelegenheit geboten wurde, seine größeren und reineren Instinkte
-hervorzukehren. — Viele Menschen warten ihr Lebenlang auf die Gelegenheit, auf ihre Art
+hervorzukehren. — Viele Menschen warten ihr Lebenlang auf die Gelegenheit, auf **ihre** Art
 gut zu sein.
 
 [19[38]](javascript:;)
@@ -320,7 +320,7 @@ dem Sterbebette zugeschrieben wird).
 [19[40]](javascript:;)
 ----------------------
 
-65. „Werde der, der du bist“: das ist ein Zuruf, welcher immer
+65. „Werde der, der du bist“: das ist ein Zuruf, welcher **immer**
 nur bei wenig Menschen erlaubt, aber bei den allerwenigsten dieser Wenigen überflüssig ist.
 
 [19[41]](javascript:;)
@@ -508,8 +508,8 @@ geht aus den privaten Meinungen hervor? — Die öffentlichen Leidenschaften.
 [19[65]](javascript:;)
 ----------------------
 
-118) wir leben in einer Cultur, welche an den Mitteln der Cultur zu
-Grunde geht.  
+118) **wir leben in einer Cultur, welche an den Mitteln der Cultur zu
+Grunde geht.**  
 Aufhebung der Nationen — der europäische Mensch.  
 Enthaltung von Politik.  
 Beiseiteziehen der Talente.  
@@ -526,13 +526,13 @@ Die Institutionen folgen den Meinungen von selbst.
 [19[66]](javascript:;)
 ----------------------
 
-Gruss an die Moralisten.
+**Gruss an die Moralisten.**
 
 Abwesenheit der Moralisten.
 
 Die Thätigen.
 
-Die welche frei werden wollen.
+**Die welche frei werden wollen.**
 
 Freigeist.
 
@@ -546,7 +546,7 @@ Vater oder Mutter.
 
 Erzeugung des Genius. Mitte des Wegs.
 
-Dichter als Erleichterer.
+Dichter als **Erleichterer**.
 
 Aesthetik.
 
@@ -573,7 +573,7 @@ fatum tristissimum.
 
 |  |
 | --- |
-| Stimme der Geschichte.  Alles Allgemeine voran:  freigeisterhafter Rundgang: um den Menschen vom Herkömmlichen loszulösen.  1. Der Mensch mit sich allein.  2. Weib und Kind.  3. Gesellschaft.  4. Kunst — Dichter — Aesthetik.  5. Staat.  6. Religiöses.  7. Erleichterung des Lebens. |
+| Stimme der Geschichte.  Alles Allgemeine voran:  **freigeisterhafter Rundgang:** um den Menschen vom Herkömmlichen loszulösen.  1. Der Mensch mit sich allein.  2. Weib und Kind.  3. Gesellschaft.  4. Kunst — Dichter — Aesthetik.  5. Staat.  6. Religiöses.  7. Erleichterung des Lebens. |
 
 [19[68]](javascript:;)
 ----------------------
@@ -612,8 +612,8 @@ Themata:
 [19[73]](javascript:;)
 ----------------------
 
-Man sucht die Dinge, welche eine ähnliche Empfindung in uns hervorrufen, miteinander in Verbindung zu bringen z.B. Frühling Liebe Schönheit der Natur, Gottheit usw. Diese Verflechtung der
-Dinge entspricht in gar nichts der wirklichen causalen Verknüpfung. Dichter und
+Man sucht die Dinge, welche eine ähnliche Empfindung in uns hervorrufen, miteinander in **Verbindung** zu bringen z.B. Frühling Liebe Schönheit der Natur, Gottheit usw. Diese Verflechtung der
+Dinge entspricht **in gar nichts** der wirklichen causalen Verknüpfung. Dichter und
 Philosophen lieben so die Dinge zu arrangiren; Kunst und Moral kommen zusammen.
 
 [19[74]](javascript:;)
@@ -637,7 +637,7 @@ Alle Grundlagen der Cultur sind hinfällig geworden: also muß die Cultur zu Gru
 [19[77]](javascript:;)
 ----------------------
 
-Die 10 Gebote des Freigeistes.
+**Die 10 Gebote des Freigeistes.**
 
 |  |
 | --- |
@@ -658,7 +658,7 @@ Cap. IV. Entstehung des Freigeistes.
 Zukunft in einigen Jahrhunderten. Ökonomie der Erde, Aussterbenlassen von schlechten Racen, Züchtung
 besserer, eine Sprache. Ganz neue Bedingungen für den Menschen, sogar für ein höheres Wesen? Jetzt ist es der
 Handelsstand, welcher ein völliges Zurücksinken in die Barbarei verhindert (Telegraphie, Geographie,
-industr<ielle>) Erfindung, usw.).
+industr&amp;lt;ielle&amp;gt;) Erfindung, usw.).
 
 [19[80]](javascript:;)
 ----------------------
@@ -674,7 +674,7 @@ Il maudit les savants et ne voulut plus vivre qu’en bonne compagnie. Voltaire 
 [19[82]](javascript:;)
 ----------------------
 
-Philologen.
+**Philologen.**
 
 Woher die Verdummung der Gymnasiasten? Durch das Beispiel der Lehrer, die alles verdummen, die Autoren
 usw.
@@ -690,7 +690,7 @@ Giebt es eine geistreiche Schulausgabe?
 Weil die Menschen an der Welt so weit sie erklärlich ist nicht viel finden, was werthvoll ist, so meinen sie,
 das Wahre und Wichtige müsse im Unerklärlichen liegen; sie knüpfen ihre höchsten Empfindungen und Ahnungen an
 das Dunkle Unerklärliche an. Nun braucht in diesem unaufgehellten Reiche gar nichts Wesentliches zu liegen, es
-könnte leer sein: es würde für den Menschen dasselbe dabei herauskommen, wenn er nur in
+**könnte** leer sein: es würde für den Menschen dasselbe dabei herauskommen, wenn er nur in
 seiner Erkenntniß eine dunkle Stelle hätte: daraus zaubert er dann hervor was er braucht und bevölkert den
 dunklen Gang mit Geistern und Ahnungen.
 
@@ -707,12 +707,12 @@ dabei.
 
 Das sogenannte metaphysische Bedürfniß beweist nichts über eine diesem Bedürfnisse entsprechende Realität: im
 Gegentheil, weil wir hier bedürftig sind, so hören wir die Sprache des Willens, nicht die des Intellekts und
-gehen irre, wenn wir dieser Sprache glauben. Ein Gott wäre anzunehmen, wenn er beweisbar wäre, ohne daß ein Bedürfniß ihn uns nöthig erscheinen ließe.
+gehen irre, wenn wir dieser Sprache glauben. Ein Gott wäre anzunehmen, wenn er beweisbar wäre, **ohne** daß ein Bedürfniß ihn uns nöthig erscheinen ließe.
 
 [19[86]](javascript:;)
 ----------------------
 
-Themata.
+**Themata.**
 
 Vom Freigeiste.
 
@@ -746,7 +746,7 @@ Phasen der Moral.
 
 Über die Macht.
 
-Einfachheit d<es> Guten.
+Einfachheit d&amp;lt;es&amp;gt; Guten.
 
 Die Hoffnung.
 
@@ -768,14 +768,14 @@ Strafe und Reue.
 
 Philologen als Lehrer.
 
-Thukydides Typus des Sophist<ischen> Freisinns.
+Thukydides Typus des Sophist&amp;lt;ischen&amp;gt; Freisinns.
 
 [19[87]](javascript:;)
 ----------------------
 
 Die Urtheile der Geschworenengerichte sind aus demselben Grunde falsch, aus dem die Censur einer Lehrerschaft
 über einen Schüler falsch ist: sie entstehen aus einer Vermittlung zwischen den verschieden gefällten
-Urtheilen: gesetzt den günstigsten Fall, einer der Geschworenen habe richtig geurtheilt,
+Urtheilen: gesetzt den günstigsten Fall, **einer** der Geschworenen habe richtig geurtheilt,
 so ist das Gesamtresultat die Mitte zwischen dem richtigen und mehreren falschen Urtheilen d.h. jedenfalls
 falsch.
 
@@ -797,7 +797,7 @@ nicht durch die Kunst des Erzählers.
 
 Vorhistorische Zeitalter werden unermeßliche Zeiträume hindurch vom Herkommen bestimmt, es geschieht nichts.
 In der historischen Zeit ist jedesmal das Faktum eine Lösung vom Herkommen, eine Differenz der Meinung, es ist
-die Freigeisterei, welche die Geschichte macht. Je schneller der Umschwung der
+**die Freigeisterei**, welche die Geschichte macht. Je schneller der Umschwung der
 Meinungen erfolgt, um so schneller läuft die Welt, die Chronik verwandelt sich in das Journal, und zuletzt
 stellt der Telegraph fest, worin in Stunden sich die Meinungen der Menschen verändert haben.
 
@@ -810,17 +810,17 @@ ist.
 [19[91]](javascript:;)
 ----------------------
 
-Mittheilbarkeit der Wahrheit, der Meinungen überhaupt.
+**Mittheilbarkeit** der Wahrheit, der Meinungen überhaupt.
 
 [19[92]](javascript:;)
 ----------------------
 
-Was leistet eine Meinung? — fragt der Staatsmann. Ist sie eine Kraft?
+Was **leistet** eine Meinung? — fragt der Staatsmann. Ist sie eine Kraft?
 
 [19[93]](javascript:;)
 ----------------------
 
-Die Menschen werden gewöhnt, eine fremde Meinung höher zu taxiren
+Die Menschen werden **gewöhnt**, eine **fremde Meinung höher zu taxiren**
 als die eigne.
 
 [19[94]](javascript:;)
@@ -853,7 +853,7 @@ flach und dumm, das Fundament des Herkommens ist intellektuell sehr niedrig anzu
 [19[97]](javascript:;)
 ----------------------
 
-Wenn man einen Glauben umwirft, so wirft man nicht die Folgen um,
+Wenn man einen **Glauben** umwirft, so wirft man nicht die **Folgen** um,
 welche aus ihm herausgewachsen sind. Diese leben vermöge des Herkommens weiter: das Herkommen schließt die
 Augen über den Verband von Glauben und Folge. Die Folge erscheint ihrer selbst wegen da zu sein. Die Folge
 verleugnet ihren Vater.
@@ -861,7 +861,7 @@ verleugnet ihren Vater.
 [19[98]](javascript:;)
 ----------------------
 
-Was ist die Reaktion der Meinungen? Wenn eine Meinung aufhört, interessant zu sein, so
+Was ist die **Reaktion der Meinungen**? Wenn eine Meinung aufhört, interessant zu sein, so
 sucht man ihr einen Reiz zu verleihen, indem man sie an ihre Gegenmeinung hält. Gewöhnlich verführt aber die
 Gegenmeinung und macht einen neuen Bekenner: sie ist inzwischen interessanter geworden.
 
@@ -869,7 +869,7 @@ Gegenmeinung und macht einen neuen Bekenner: sie ist inzwischen interessanter ge
 ----------------------
 
 Aristoteles meint, durch die Tragödie werde das Übermaß am Mitleide und Furchtsamkeit entladen, der Zuhörer
-kehre kälter nach Hause zurück. Plato meint dagegen, er sei rührseliger und ängstlicher
+kehre **kälter** nach Hause zurück. Plato meint dagegen, er sei rührseliger und ängstlicher
 als je. — Plato’s Frage über die moralische Bedeutung der Kunst ist noch nicht wieder aufgeworfen. Der
 Künstler braucht die Entfesselung der Leidenschaft. Wir lassen uns die Leidenschaften, welche der athenische
 Komiker bei seinen Zuhörern entladen will, kaum mehr gefallen: Begierde Schmähsucht Unanständigkeiten usw.
@@ -882,8 +882,8 @@ sehen. Ersatz der Religion ist nicht die Kunst, sondern die Erkenntniß.
 [19[100]](javascript:;)
 -----------------------
 
-Die Religionen drücken nicht irgend welche Wahrheiten sensu allegorico aus, sondern gar
-keine Wahrheiten — das ist gegen Schopenhauer einzuwenden. Der consensus gentium in Religionsansichten
+Die Religionen drücken nicht irgend welche Wahrheiten sensu allegorico aus, sondern **gar
+keine** Wahrheiten — das ist gegen Schopenhauer einzuwenden. Der consensus gentium in Religionsansichten
 ist doch eher ein Gegenargument gegen die zu Grunde liegende Wahrheit. Nicht eine uralte Priesterweisheit,
 sondern die Furcht vor dem Unerklärlichen ist der Ursprung der Religion: was von Vernunft darin ist, ist auf
 Schleichwegen in sie hineingekommen.
@@ -935,33 +935,33 @@ sagen will, im Keime zu ersticken.
 -----------------------
 
 Der Märtyrer wider Willen und der Ehrliche der verachtet wird, als Feigling usw., während er nur so ist, wie
-er sein kann.
+er sein **kann**.
 
 [19[107]](javascript:;)
 -----------------------
 
-Es ist in der Art der gebundenen Geister, irgend eine Erklärung keiner vorzuziehn; dabei
+Es ist in der Art der gebundenen Geister, **irgend eine Erklärung** keiner vorzuziehn; dabei
 ist man genügsam. Hohe Cultur verlangt, manche Dinge ruhig unerklärt stehen zu lassen: ἐπέχω.
 
 [19[108]](javascript:;)
 -----------------------
 
-Die dunkle Sache gilt als wichtiger gefährlicher als die helle. Die Angst wohnt im
+Die **dunkle Sache** gilt als wichtiger gefährlicher als die helle. Die Angst wohnt im
 Innersten der menschlichen Phantasie. Die letzte Form des Religiösen besteht darin, daß man überhaupt dunkle
 unerklärliche Gebiete zugesteht; in diesen aber, meint man, müsse das Welträthsel stecken.
 
 [19[109]](javascript:;)
 -----------------------
 
-Durch die Pfahlbauten usw. ist bewiesen, daß es einen Fortschritt der Menschheit gegeben
-hat. Ob aber auf Grund der letzten 4000 <Jahre> der Menschheit diese Annahme erlaubt ist, ist
+Durch die Pfahlbauten usw. ist bewiesen, daß es einen **Fortschritt** der Menschheit gegeben
+hat. Ob aber auf Grund der letzten 4000 &amp;lt;Jahre&amp;gt; der Menschheit diese Annahme erlaubt ist, ist
 fraglich. Aber die Wissenschaft ist fortgeschritten: damit ist die höchste Form der bisherigen Cultur
 vernichtet und kann nie wieder entstehen.
 
 [19[110]](javascript:;)
 -----------------------
 
-Der Instinkt ist einem Wurm gleich, dem man den Kopf abgeschnitten hat und der sich doch
+Der **Instinkt** ist einem Wurm gleich, dem man den Kopf abgeschnitten hat und der sich doch
 in der gleichen Richtung weiter bewegt.
 
 [19[111]](javascript:;)
@@ -974,7 +974,7 @@ und verachtet die Weiße. Mit dem „Genius der Gattung“ ist gar nichts gewonn
 [19[112]](javascript:;)
 -----------------------
 
-Nicht um unsterblich zu sein, nicht in Rücksicht auf die Propagation sind die Menschen verliebt: gegen Platon. Sondern des Vergnügens halber. Sie wären es, auch wenn die Weiber unfruchtbar
+Nicht um unsterblich zu sein, nicht in Rücksicht auf die Propagation sind die Menschen **verliebt**: gegen Platon. Sondern des Vergnügens halber. Sie wären es, auch wenn die Weiber unfruchtbar
 wären; erst recht! Die griechische Päderastie nicht unnatürlich, deren causa finalis, nach Plato, sein soll,
 „schöne Reden zu erzeugen“.
 
@@ -983,26 +983,26 @@ wären; erst recht! Die griechische Päderastie nicht unnatürlich, deren causa 
 
 Jeder Mensch nimmt an sich das höchste Interesse, ist aber gewohnt, das Urtheil der Anderen höher zu
 respektiren als das eigne: Glaube an Auktorität, angeerbt und angezogen, Fundament von Gesellschaft Sitte usw.
-Aus diesen beiden Prämissen ergiebt sich die Eitelkeit: der Mensch stellt seinen eigenen
+Aus diesen beiden Prämissen ergiebt sich die **Eitelkeit**: der Mensch stellt seinen eigenen
 Werth durch das Urtheil Anderer vor sich selber fest.
 
 [19[114]](javascript:;)
 -----------------------
 
-Alles Sittliche ist irgend wann einmal noch nicht „Sitte“ sondern Zwang gewesen. Erst seit es
-Herkommen giebt, giebt es gute Handlungen.
+**Alles Sittliche ist irgend wann einmal noch nicht „Sitte“ sondern Zwang gewesen. Erst seit es
+Herkommen giebt, giebt es gute Handlungen.**
 
 [19[115]](javascript:;)
 -----------------------
 
-Unegoistische Regungen auf egoistische zurückzuführen ist methodisch geboten. Der
+**Unegoistische** Regungen auf egoistische zurückzuführen ist methodisch geboten. Der
 sociale Instinkt geht auf den Einzelnen zurück, der begreift, daß er nur erhalten bleibt, wenn er sich einem
 Bunde einverleibt. Die Schätzung des Socialen wird dann vererbt und, da die nützlichsten Mitglieder auch die
 geehrtesten sind, immer fort gestärkt. Jetzt ist eine helle Flamme da, für das Vaterland alles zu leiden (auch
 für jede ähnliche Vereinigung z.B. die Wissenschaft). Der egoistische Zweck ist vergessen. Das „Gute“
 entsteht, wenn man den Ursprung vergißt. — Der elterliche Instinkt ist erst in der Gesellschaft großgezüchtet
 worden, man braucht Nachkommen, so nimmt man die Ehe in Schutz und ehrt sie. — Auch die unegoistische Liebe
-(zwischen den Geschlechtern) ist erst wohl eine erzwungene Sache, durch die Societät erzwungen. Später erst gewöhnt und vererbt und endlich wie eine ursprüngliche Regung. Zuerst geht der
+(zwischen den Geschlechtern) ist erst wohl eine erzwungene Sache, durch die Societät **erzwungen**. Später erst gewöhnt und vererbt und endlich wie eine ursprüngliche Regung. Zuerst geht der
 Trieb nur auf eine Befriedigung, ohne Rücksicht auf das andre Individuum, grausam. — Ob auch alle elterlichen
 Instinkte der Thiere auf Societät zurückzuführen sind? —
 
@@ -1050,3 +1050,5 @@ Die alte Cultur.
 | 10. | Völker. |
 | 11. | Wissenschaft. |
 | 12. | Verschwinden der alten Cultur. |
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

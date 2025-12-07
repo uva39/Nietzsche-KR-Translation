@@ -40,7 +40,7 @@ Ich vergebe dir dein Mißtrauen ich gebe dir aber nichts für dein Vertrauen.
   
 
 Ich fand einen Übermuth in allen Dingen, den hieß ich göttlich. Und weil ich diesen Übermuth auch in meiner
-Seele fand, heiße ich auch meine Seele göttl<ich.>
+Seele fand, heiße ich auch meine Seele göttl&amp;lt;ich.&amp;gt;
 
   
 
@@ -54,21 +54,21 @@ Er legt auf Jahrtausende die Hand.
 [18[2]](javascript:;)
 ---------------------
 
-Vom Getümmel.
+**Vom Getümmel.**
 
 4. Als Zarathustra einst durch einen Schiffbruch ans Land gespien wurde und einst auf einer Welle ritt,
 wunderte er sich: „wo bleibt mein Schicksal? Ich weiß nicht, wo hinaus ich soll. Ich verliere mich selber.“ Er
-wirft sich ins Getümmel. Dann von Ekel überwältigt sucht er etwas zum Trost — sich
+wirft sich ins **Getümmel**. Dann von Ekel überwältigt sucht er etwas**zum**Trost — sich
 
 [18[3]](javascript:;)
 ---------------------
 
-der Fliegende (als Entdecker, der auf ein Jahrtausend seine Hand legt)
+der **Fliegende** (als Entdecker, der auf ein Jahrtausend seine Hand legt)
 
 [18[4]](javascript:;)
 ---------------------
 
-4. Von den Kleinen.
+4. Von den **Kleinen**.
 
 5. Krämer
 
@@ -83,16 +83,16 @@ Pfeffer.
 [18[6]](javascript:;)
 ---------------------
 
-Zarathustra prüft mit schmerzlicher Erregung den Gewaltigen, den Narren, den Fliegenden,
-darauf ob er sich darin wieder findet — umsonst!
+Zarathustra prüft mit **schmerzlicher** Erregung den Gewaltigen, den Narren, den Fliegenden,
+darauf ob er **sich** darin **wieder findet** — **umsonst**!
 
-Erst nachdem er vom Tod der Freunde weiß
+Erst **nachdem** er vom Tod der Freunde weiß
 
-In keinem Menschen findet er sich — so sucht er die Thiere.
+In **keinem** Menschen findet er sich — so sucht er die **Thiere**.
 
-§ großer Hohn auf sich als Fürsprecher des Lebens
+§ großer Hohn auf sich als **Fürsprecher** des **Lebens**
 
-3. Erzählung des Steuermanns. Entsetzliche Nacht Zarathustras.
+3. Erzählung des **Steuermanns**. Entsetzliche Nacht Zarathustras.
 
 4. Heiterkeit.
 
@@ -127,7 +127,7 @@ sein!
 
 Ein Überfluß an Leid war in ihm: das brach heraus und strömte hin nach einem Meer des Väterlichen.
 
-Das Meer alles Väterlichen hieß er Gott — rechte Männer nannten ihn drob Gottesläster<er.>
+Das Meer alles Väterlichen hieß er Gott — rechte Männer nannten ihn drob Gottesläster&amp;lt;er.&amp;gt;
 
 [18[10]](javascript:;)
 ----------------------
@@ -198,24 +198,24 @@ Zu Knaben muß man schreien: mit Gewalt immer ihrer Ohren und Augen Thür aufrei
 [18[16]](javascript:;)
 ----------------------
 
-In der dümmsten Welt hat schon eine kleine Vernunft unsägliches Vergnügen.
+In der dümmsten Welt hat schon eine **kleine Vernunft** unsägliches Vergnügen.
 
-Ich weiß oft nicht mehr, was ich von mir weisen soll; ich stürze mich lieber hinein und versuche mich.
+Ich weiß oft nicht mehr, was ich von mir weisen soll; ich stürze mich lieber hinein und versuche **mich**.
 
-Die Kraft, in mich zu verwandeln, immer im Wachsen. Gesetzt, es gäbe einen Gott, so
+Die Kraft, in **mich** zu verwandeln, immer im Wachsen. Gesetzt, es gäbe einen Gott, so
 könnte die Welt gar nicht dumm genug für ihn gedacht werden.
 
 [18[17]](javascript:;)
 ----------------------
 
-großmüthig den Schmerz betrachten — oft wird das dritte Geschlecht erst mit unserem
+großmüthig den Schmerz betrachten — oft wird das dritte Geschlecht erst mit **unserem**
 Schmerze fertig d.h. eine neue Kraft wuchs ihm.
 
-großmüthig in Hinsicht auf die Zukünftigen — und das ist der Großmuth des Schaffenden,
+großmüthig in Hinsicht auf die **Zukünftigen** — und das ist der Großmuth des Schaffenden,
 der sein Werk mehr liebt als sein Heute.
 
-die Zufriedenen am meisten gefährlich (zufrieden mit den gegebenen Idealen) gar die
-zufriedenen Düsterlinge.
+die Zufriedenen am meisten gefährlich (zufrieden mit den **gegebenen** Idealen) gar die
+zufriedenen **Düsterlinge**.
 
 [18[18]](javascript:;)
 ----------------------
@@ -227,24 +227,24 @@ Kam ich nicht, sie meine Reichthümer zu lehren und alle Übersehnsucht meiner F
 [18[19]](javascript:;)
 ----------------------
 
-Von den Fürsten.
+Von den **Fürsten**.
 
-Von den Lehrern.
+Von den **Lehrern**.
 
-Von den Bösen.
+Von den **Bösen**.
 
-Vom Ruhm.
+Vom **Ruhm**.
 
-Gespräch mit dem Blitze
+**Gespräch mit dem Blitze**
 
 [18[20]](javascript:;)
 ----------------------
 
-Von der großen Sehnsucht.
+Von der **großen Sehnsucht**.
 
-Von göttlichen Begierden.
+**Von göttlichen Begierden.**
 
-Von der Schwangerschaft.
+**Von der Schwangerschaft.**
 
 [18[21]](javascript:;)
 ----------------------
@@ -272,7 +272,7 @@ Ein Andres ist Wollust ein Andres Gebären
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 . Fragt die Weiber: man gebiert
-nicht weil es V<ergnügen> macht
+nicht weil es V&amp;lt;ergnügen&amp;gt; macht
 
 Der Schmerz macht Künstler und Hühner gackern. Die Wollust schweigt — nun hört mein Wort vom Ruhm.
 
@@ -292,7 +292,7 @@ unsere Tugenden bestraft.
 Mein Schicksal, hüte mich vor allen kleinen Siegen! Spare mich auf, daß ich Einmal siege — groß wie das
 Schicksal.
 
-Mit dir rede ich, Schickung meiner Seele, Schicksal
+Mit dir rede ich, **Schickung meiner Seele**, Schicksal
 
 daß ich überrasche und nie erwartet werde, wie ein Geist erscheint
 
@@ -302,7 +302,7 @@ einflößt.
 [18[26]](javascript:;)
 ----------------------
 
-Wie viel Höhlen hat das Leben!
+Wie viel **Höhlen** hat das Leben!
 
 Unsere Gewohnheit an Höhlen, unsere Sehnsucht darnach — ein Gang durch finstere Schläuche
 
@@ -326,7 +326,7 @@ Träumen?
 [18[29]](javascript:;)
 ----------------------
 
-NB wenn ich hinauf die Joche ging
+NB wenn ich hinauf die **Joche** ging
 
 ein Herold aller Mittags-Brüder
 
@@ -361,13 +361,13 @@ So wenig Vernunft als möglich: mehr nimmt sie nicht mit in ihrem
 
 Schnappsack, diese übermüthige Weisheit, wenn sie tagsüber ihr Feld bestellt und über Land geht.
 
-So w<enig> V<ernunft> a<ls> m<öglich> — das ist,
+So w&amp;lt;enig&amp;gt; V&amp;lt;ernunft&amp;gt; a&amp;lt;ls&amp;gt; m&amp;lt;öglich&amp;gt; — das ist,
 artiger geredet: Zufall. Auf den Füßen des Zufalls laufen alle Dinge hinweg und zurück — — —
 
   
 
-Glück und Unschuld sind die schamhaftesten Dinge auf Erden: beide wollen nicht gesucht sein. Man soll sie
-haben
+Glück und Unschuld sind die schamhaftesten Dinge auf Erden: beide wollen nicht gesucht sein. Man soll **sie**
+**haben**
 — und man
 
 *Erratum:*— man  
@@ -458,7 +458,7 @@ Alles redet, Niemand will verstehen. Alles fällt ins Wasser, Nichts aber fällt
 
 Alles redet, alles richtet zu recht. Unrecht wird verfolgt — gut verfolgt, aber schlecht erwischt.
 
-Alles redet, nicht<s> geräth, alles gackert, aber Niemand will Eier legen.
+Alles redet, nicht&amp;lt;s&amp;gt; geräth, alles gackert, aber Niemand will Eier legen.
 
 Oh meine Brüder! Daß ihr nicht Stille von mir lernt! Und Einsamkeit!
 
@@ -497,9 +497,9 @@ fliegen“.
   
 
 Ich bin hart gegen mich: und oft nehme ich noch Rache für diese Härte, damit daß ich das Unrecht Anderer
-schone — ihr U<nrecht> gegen mich!
+schone — ihr U&amp;lt;nrecht&amp;gt; gegen mich!
 
-Und wenn es auch eure Schuld ist: ich nehme es auf mich und heiße es meine Schuldigkeit.
+Und wenn es auch eure **Schuld** ist: ich nehme es auf mich und heiße es **meine** Schuldigkeit.
 
 [18[37]](javascript:;)
 ----------------------
@@ -529,14 +529,14 @@ Thiere! diese häßliche Schlange da und den rauschenden Vogel!
 Also sprach der Einsiedler, denn er fürchtete sich vor den Thieren Zarathustras: und als die Schlange eben
 ein wenig den Kopf hervorstreckte, siehe, da machte er einen Sprung und entfloh.
 
-Also schieden sie von einander wie 2 K<naben> lachen<d.>
+Also schieden sie von einander wie 2 K&amp;lt;naben&amp;gt; lachen&amp;lt;d.&amp;gt;
 
 [18[39]](javascript:;)
 ----------------------
 
-Dies ist mein Wort das mich erwürgen wollt!!
+Dies ist **mein** Wort das mich erwürgen wollt!!
 
-Dies ist meine Schlange, die mir in den Schlund schlich
+Dies ist **meine** Schlange, die mir in den Schlund schlich
 
 [18[40]](javascript:;)
 ----------------------
@@ -544,7 +544,7 @@ Dies ist meine Schlange, die mir in den Schlund schlich
 Mein Schwerstes lernte ich im Verborgenen thun: wer hatte Augen dafür, als ich allein in furchtbare neue
 Meere mich einschiffte?
 
-Und als ich allen geliebten Götzen den Rücken wandte, wer sah mich gehn! Ungesehen
+Und als ich allen geliebten Götzen den Rücken wandte, wer **sah** mich gehn! Ungesehen
 schritt ich hinaus in den Brand der Wüsten.
 
 [18[41]](javascript:;)
@@ -571,7 +571,7 @@ Freilich: bevor man tanzen lernt, muß man gehen lernen.
 
 Um der Zukunft willen leben §
 
-das Zerbrechen der Tafeln
+das Zerbrechen der **Tafeln**
 
 [18[45]](javascript:;)
 ----------------------
@@ -590,10 +590,10 @@ stillste Stunde Zarathustra du bist reif — Löwin Tauben
 
   
 
-Jedes Mal die Mitte wenn der Wille zur Zukunft
+Jedes Mal die **Mitte** wenn der **Wille** zur **Zukunft**
 entsteht:
 
-das größte Ereigniß steht bevor!
+**das größte Ereigniß steht bevor!**
 
   
 
@@ -636,14 +636,14 @@ Daß ich eine gute Handvoll Muth zum Nichts habe — das macht: ich weiß, daß 
 
 Die Handvoll Kraft, mein Ich — der Spott vom All der Kräfte!
 
-Was ich will? — Muth machen zum kleinen Schlüssel für die Mißrathenen
+Was ich will? — **Muth** machen zum kleinen Schlüssel für die Mißrathenen
 
-Muth den Wenigen, ihren Willen gegen die Viel zu Vielen durchzusetzen
+**Muth** den Wenigen, ihren Willen gegen die Viel zu Vielen durchzusetzen
 
-Höheres zu dichten und schaffen als der Mensch bisher war
+**Höheres** zu dichten und schaffen als der Mensch bisher war
 
 völlig ohne Verantwortung, in das Sein zu schiffen, die Seligkeit zu lehren, welche sagt: ich will das noch
-Ein Mal um dieses Augenblickes <willen.>
+Ein Mal **um dieses Augenblickes** &amp;lt;willen.&amp;gt;
 
 [18[48]](javascript:;)
 ----------------------
@@ -717,7 +717,7 @@ Wetterleuchten meines Glückes
 [18[55]](javascript:;)
 ----------------------
 
-Dühring — ein M<ensch> der durch sich selber von seiner Denkweise abschreckt und als ewig
+Dühring — ein M&amp;lt;ensch&amp;gt; der durch sich selber von seiner Denkweise abschreckt und als ewig
 kläffender und beißlustiger Kettenhund vor seine Philosophie sich hingelegt hat.
 
 [18[56]](javascript:;)
@@ -726,12 +726,12 @@ kläffender und beißlustiger Kettenhund vor seine Philosophie sich hingelegt ha
 der überwundene Mensch selber war der Vater des Übermenschen.
 
 Also lehre ich und werde deß nicht müde: der Mensch ist Etwas, das überwunden werden muß: denn siehe, ich
-weiß es, daß er überwunden werden kann — ich schaute ihn, den Übermenschen.
+weiß es, daß er überwunden werden **kann** — ich schaute ihn, den Übermenschen.
 
 [18[57]](javascript:;)
 ----------------------
 
-„Habe ich Zeit, auf meine Thiere zu warten? Wenn es meine Thiere
+„Habe ich Zeit, auf meine Thiere zu **warten**? Wenn es **meine** Thiere
 sind, so werden sie mich zu finden wissen“ Zarathustras Schweigen
 
 „bei mir dem Einsiedler sucht ihr Worte der letzten Ruhe: die letzte Ruhe der tiefen Welt — ach, ist sie
@@ -754,13 +754,13 @@ Wie viel Wärme verstehen wir — zurückzuhalten
 
 Eins! Mitternacht hebt an — herauf aus tiefer Welt geht ihr Lied durch Ohr und Mark und Bein.
 
-Zwei! Tief ist alles Weh, doch tiefer noch die Lust und legt <sie> die Hand dir auf die Brust —
+Zwei! Tief ist alles Weh, doch tiefer noch die Lust und legt &amp;lt;sie&amp;gt; die Hand dir auf die Brust —
 das geht durch Mark und Bein.
 
 [18[60]](javascript:;)
 ----------------------
 
-Denn welche Sonnen wären hinuntergegangen, die einst dir noch glühten auf der Höhe und
+Denn welche Sonnen wären hinuntergegangen, die einst **dir** noch glühten auf der Höhe und
 der Unschuld deiner Gipfel!
 
 [18[61]](javascript:;)
@@ -786,4 +786,6 @@ auf dunklen Pfaden, über welchen mir die Hoffnung wetterleuchtet
 ----------------------
 
 3.  
-Ende
+**Ende**
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

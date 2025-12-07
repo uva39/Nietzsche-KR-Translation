@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [14[1]](javascript:;)
 ---------------------
 
-Gang.
+**Gang.**
 
   
 
@@ -29,7 +29,7 @@ Der Chor hebt die ganze Tragödie auf den Kothurn.
 Der sprechende Schauspieler ist zu erklären: völlig andere Wirkung als unser
 Melodrama.
 
-Er tritt auf als apollinischer Rhapsode.
+Er tritt auf als **apollinischer Rhapsode**.
 
 Die zwei Kunststile treten sich gegenüber.
 
@@ -39,11 +39,11 @@ Dienern zu verwechseln.
 [14[2]](javascript:;)
 ---------------------
 
-Der deus ex machina übersetzt die metaphysische Lösung ins Irdische. Damit ist die Tragödie zu Ende.
+Der **deus ex machina** übersetzt die **metaphysische** Lösung ins **Irdische**. Damit ist die Tragödie zu Ende.
 
   
 
-Die Haupttriebe, die aus dem Ursprung des Drama’s abzuleiten sind:
+Die **Haupttriebe**, die aus dem Ursprung des Drama’s abzuleiten sind:
 
 1. Der Bau des Dramas: εἴσοδος des Chores, ἐπεισόδιον des Gottes.
 
@@ -67,9 +67,9 @@ für die Erklärung des Ursprungs der Tragödie von höchstem Werthe ist. Die Mu
 Gemälde, ja jede Szene des wirklichen Lebens und der Welt, sogleich in erhöhter Bedeutsamkeit hervortreten:
 freilich um so mehr, je analoger ihre Melodie dem inneren Geiste der gegebenen Erscheinung ist. Denken wir uns
 jetzt die erhabenste Steigerung der Musik, so wäre damit ein Mittel gewonnen, jedes Bild der Welt, um kurz zu
-reden, in einen Mythus zu verwandeln und zum Ausdruck einer ewig-gültigen allgemeinen
+reden, in einen **Mythus zu verwandeln** und zum Ausdruck einer ewig-gültigen allgemeinen
 Wahrheit zu bringen. Dieses ungeheure Vermögen der Musik sehen wir zweimal bisher in der Weltgeschichte zur
-Mythenschöpfung kommen: und das eine Mal sind wir beglückt genug, diesen erstaunlichen
+**Mythenschöpfung** kommen: und das eine Mal sind wir beglückt genug, diesen erstaunlichen
 Prozeß selbst zu erleben, um von hier aus auch jenes erste Mal uns analogisch zu verdeutlichen. Wer wird,
 falls er nur einmal etwas von dieser wahrhaft religiösen Wirkung der mythenschaffenden Musik erfahren hat, — —
 —
@@ -137,7 +137,7 @@ In der Tragödie war die Musik zu ihrer Höhe gekommen.
 
 Bei Euripides tritt an Stelle der dionysischen Erregung die Aufregung an sich. An Stelle
 der apollinischen Ruhe die Kühle des Denkens. Das ganze Bereich der Musik nimmt er in Beschlag und entlehnt
-alles Wirksame, d.h. er bringt eine Stilmischung hervor. Er giebt den unendlichen Mythus auf und stellt die Novelle an die Stelle.
+alles Wirksame, d.h. er bringt eine **Stilmischung** hervor. Er giebt den unendlichen **Mythus** auf und stellt die Novelle an die Stelle.
 
 Verfall der Musik, des Mythus und der Tragödie. Der Ernst der Weltbetrachtung mußte in
 die Unterwelt flüchten.
@@ -149,44 +149,44 @@ Erneuerung der ernsten Weltbetrachtung: bis jetzt stehen wir unter der Nachwirku
 Renaissance. Unsere Musik, unsere Philosophie zeigen ein neues Reich. Wir entdecken, daß der deutsche Genius
 auch von der optimistischen Welt der Renaissance eine Befreiung braucht.
 
-Die Entdeckung des griechischen Alterthums in umgekehrter
-Reihenfolge.
+Die **Entdeckung des griechischen Alterthums in umgekehrter
+Reihenfolge**.
 
 [14[10]](javascript:;)
 ----------------------
 
-Ueber die Zukunft  
-unserer  
-Bildungsanstalten.
+**Ueber die Zukunft**  
+**unserer**  
+**Bildungsanstalten.**
 
 Notizen. Herbst 71.
 
 [14[11]](javascript:;)
 ----------------------
 
-Bildung.
+**Bildung.**
 
   
 
 |  |  |
 | --- | --- |
-| Verengerung nöthig, im Gegensatz zu dem Streben nach Erweiterung. | |
-| Diesem Streben nach Erweiterung liegt zu Grunde | |
-| 1) | der Optimismus der Nationalökon<omen> — möglichst viel Erkenntniß —möglichst viel Produktion — möglichst viel Glück |
+| **Verengerung** nöthig, im Gegensatz zu dem Streben nach Erweiterung. | |
+| Diesem Streben **nach Erweiterung** liegt zu Grunde | |
+| 1) | der Optimismus der Nationalökon&amp;lt;omen&amp;gt; — möglichst viel Erkenntniß —möglichst viel Produktion — möglichst viel Glück |
 | 2) | die Furcht vor religiöser Unterdrückung |
 | 3) | der Glaube an die Masse, der Unglaube an den Genius. |
-| Diesem Streben arbeitet entgegen, für Verringerung | |
+| Diesem Streben arbeitet entgegen, für **Verringerung** | |
 | 1) | die Arbeitstheilung, auch für Wissenschaft |
 | 2) | die verschiedenen Kirchen |
 | 3) | die Furcht vor dem Socialismus, als einer Frucht jenes Optimismus. |
-| Unser Standpunkt ist der der Verengerung und Concentration, also Stärkung (gegen 2.) und Verengerung (gegen 1.) Hier spricht die Natur ihr Wort, Jenes sind Strebungen, dies sind Wahrheiten. Alle unsere Bildungsanstalten (die aus jenen Strebungen entstanden sind) sind an dieser Urwahrheit zu messen. Aber die Geltung der Wahrheit ist zu Zeiten eine sehr verschiedene: jene den Strebungen zu Grunde liegenden Principien beanspruchen auch Wahrheit und verdecken also die Wahrheit. | |
-| Beide Strebungen, als Erziehungsmaximen könnten allerdings den Erfolg haben, das Niveau der geistigen Aristokratie herunterzudrücken und ihren Einfluß zu mindern. | |
-| Denn auch die Geburtsaristokratie des Geistes muß eine ihr gemäße Erziehung und Geltung haben. Das richtige Erziehungsprincip kann nur sein, die größere Masse in das rechte Verhältniß zu der geistigen Aristokratie zu bringen: das ist die eigentliche Bildungsaufgabe (nach den drei Hesiodischen Möglichkeiten); die Organisation des Geniestaates — das ist die wahre platonische Republik. | |
+| Unser Standpunkt ist der der **Verengerung** und Concentration, also **Stärkung** (gegen 2.) und **Verengerung** (gegen 1.) Hier spricht die Natur ihr Wort, Jenes sind **Strebungen**, dies sind **Wahrheiten**. Alle unsere **Bildungsanstalten** (die aus jenen Strebungen entstanden sind) sind an dieser **Urwahrheit** zu messen. Aber die **Geltung** der **Wahrheit** ist zu Zeiten eine sehr verschiedene: jene den Strebungen zu Grunde liegenden Principien beanspruchen auch Wahrheit und **verdecken** also die **Wahrheit**. | |
+| Beide Strebungen, als **Erziehungsmaximen** könnten allerdings den Erfolg haben, das **Niveau** der geistigen Aristokratie herunterzudrücken und ihren Einfluß zu mindern. | |
+| Denn auch die Geburtsaristokratie des Geistes muß eine ihr gemäße **Erziehung** und **Geltung** haben. Das richtige Erziehungsprincip kann nur sein, die größere Masse in das rechte Verhältniß zu der **geistigen****Aristokratie** zu bringen: das ist die eigentliche **Bildungsaufgabe** (nach den drei Hesiodischen Möglichkeiten); **die Organisation des Geniestaates — das ist die wahre platonische Republik**. | |
 
 [14[12]](javascript:;)
 ----------------------
 
-Ich meine ethische und intellektuelle Bildung.
+Ich meine **ethische** und **intellektuelle Bildung**.
 
 Die Äußerungen der ethischen Bildung sind sehr verschieden, nach dem intellektuellen Hintergrunde.
 
@@ -200,10 +200,10 @@ Bildung im Dienste der Wissenschaft.
 
 Bildung im Dienste der Kirche.
 
-Aus diesen unnatürlichen Unterordnungen resultiren zwei Richtungen: Erweiterung und
+Aus diesen unnatürlichen Unterordnungen resultiren **zwei Richtungen**: Erweiterung und
 Verringerung.
 
-Gemeinsam ist der Unglaube an den Genius: wodurch sich ihre Unnatürlichkeit verräth: ebenso ein großer Optimismus.
+Gemeinsam ist der **Unglaube an den Genius**: wodurch sich ihre **Unnatürlichkeit** verräth: ebenso ein großer Optimismus.
 
 [14[13]](javascript:;)
 ----------------------
@@ -233,16 +233,16 @@ Kirche und Staat.
 [14[15]](javascript:;)
 ----------------------
 
-Die klassische Bildung.
+**Die klassische Bildung.**
 
   
 
 |  |  |  |
 | --- | --- | --- |
-| Die höchste Bildung etwas völlig Unnützes: Privilegium des Genius. Aus seiner Bildung kann man keinen Lebensberuf machen, von dem zu leben ist. Dies die Vorstellung des Sokrates vom Weisen, der kein Geld nimmt. | | |
-| Der Gelehrte an Stelle des Gebildeten |  | Kennzeichen des Mittelalters. |
+| Die höchste Bildung etwas völlig **Unnützes**: Privilegium des Genius. Aus seiner Bildung kann man keinen **Lebensberuf** machen, von dem **zu leben** ist. Dies die Vorstellung des Sokrates vom Weisen, der kein Geld nimmt. | | |
+| Der Gelehrte an Stelle des Gebildeten |  | Kennzeichen des **Mittelalters**. |
 | Der Lehrer von Beruf an Stelle des vorbildlichen Weisen. |
-| Unsere Schulen sind nach diesem mittelalterlichen Princip eingerichtet. Die Bildung eines eigenen Lehrstandes ist die Folge gewesen.  Gelehrter kann ziemlich Jeder werden, ein Gebildeter Wenige. Verallgemeinung *Erratum:*Verallgemeinerung *lies:*Verallgemeinung [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  der Gelehrsamkeit — das alte Bildungsziel. Möglichst viele zu Gelehrten abrichten — die höchste alte Erziehungsaufgabe. Das Leben unter der Knechtschaft der Wissenschaft.  Daraus entstand die lateinische Schule, die unnationale Bildungsschule des Gelehrten.  Der Anspruch auf klassische Bildung ist etwas ganz Modernes und eine Verkehrung der Gymnasialtendenz.  Inzwischen ist ersichtlich, daß man nicht vom Latein zur Wissenschaft zu kommen braucht, ebenso daß der Gelehrte und der Gebildete nicht identisch sind.  Jetzt kühner Griff: das alte Gymnasium wird zur Formalschule umgestempelt.  Große öffentliche Lüge. Die Alten sind wahrhaftig in einem noch höheren Grade unsre wahren Meister und Lehrer: aber nicht für Knaben.  Unsere Gymnasiallehrer (unsre besten) sind gar nicht auf diese Ansprüche eingerichtet. Sie erziehen nach wie vor Gelehrte, aber eigentlich nur noch Philologen.  Wenn man ehrlich sein will, muß man irgendwann das Gymnasium in eine philologisch-historische Fachanstalt verwandeln, im Dienste der Wissenschaft. | | |
+| Unsere Schulen sind nach diesem mittelalterlichen Princip eingerichtet. Die Bildung eines eigenen **Lehrstandes** ist die Folge gewesen.  Gelehrter kann ziemlich Jeder werden, ein Gebildeter Wenige. **Verallgemeinung** *Erratum:***Verallgemeinerung** *lies:***Verallgemeinung** [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) **der Gelehrsamkeit** — das alte Bildungsziel. Möglichst viele zu Gelehrten abrichten — die höchste alte Erziehungsaufgabe. Das Leben unter der Knechtschaft der **Wissenschaft**.  Daraus entstand die **lateinische Schule**, die **unnationale** Bildungsschule des Gelehrten.  Der Anspruch auf **klassische Bildung** ist etwas ganz Modernes und eine Verkehrung der Gymnasialtendenz.  Inzwischen ist ersichtlich, daß man nicht vom Latein zur Wissenschaft zu kommen braucht, ebenso daß der Gelehrte und der Gebildete nicht identisch sind.  Jetzt kühner Griff: das alte Gymnasium wird zur **Formalschule** umgestempelt.  Große **öffentliche Lüge**. Die Alten sind wahrhaftig in einem noch höheren Grade unsre wahren Meister und Lehrer: aber nicht für Knaben.  Unsere Gymnasiallehrer (unsre **besten**) sind gar nicht auf diese Ansprüche eingerichtet. Sie erziehen nach wie vor Gelehrte, aber eigentlich nur noch Philologen.  Wenn man ehrlich sein will, muß man irgendwann das Gymnasium in eine philologisch-historische Fachanstalt verwandeln, im Dienste der Wissenschaft. | | |
 
 [14[16]](javascript:;)
 ----------------------
@@ -267,7 +267,7 @@ nur Bürgschaften
 *lies:*nur Bürgschaften  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- für das ethische Bewältigen einer
+ für das **ethische** Bewältigen einer
 Unmasse im Dienste einer zukünftigen Staatsstellung. Wer sich hier unterwürfig zeigt, ist bereits
 gezeichnet.
 
@@ -281,23 +281,23 @@ Bischen Kopf — Vorbereitung der Gymnasien.
 
 Die
 
-*Erratum:*Die  
+*Erratum:***Die**  
 *lies:*Die  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Realschule.
+**Realschule.**
 
   
 
-Der Name ist ein Protest gegen die angebliche Formalschule des modernen Gymnasiums.
+Der **Name** ist ein Protest gegen die angebliche Formalschule des modernen Gymnasiums.
 
 Dem Wesen nach ist sie inzwischen noch ein Allerlei, das die ungeheure Lücke, die das Gymnasium läßt,
 auszufüllen sucht. Bei der ungeheuren Größe des Gebiets, das sie umspannen will, ist sie genöthigt, etwas
-allgemein zu bleiben, und wird so praktisch wieder formal.
+allgemein zu bleiben, und wird so praktisch wieder **formal**.
 
-Nicht die Realschule, aber eine Unzahl von Fachschulen müssen in die Lücke hineintreten:
+Nicht **die** Realschule, aber eine Unzahl von Fachschulen müssen in die Lücke hineintreten:
 und zwar sowohl Berufsschulen als Gelehrtenschulen. Ihre Erscheinung ist deshalb eine große Nothwendigkeit und
-ein Zeichen, daß das alte Gymnasium erkannt ist.
+ein Zeichen, daß das alte Gymnasium **erkannt** ist.
 
 Die Verschwommenheit der Form zeigt inzwischen noch, wie jung der Gedanke ist. Es sind meistens matte
 Spiegelbilder des Gymnasiums.
@@ -308,7 +308,7 @@ Universität.
 Die Universität und das Gymnasium haben einen gemeinsamen Boden: die Universität und die Realschule nicht.
 Deshalb muß diese, wenn sie consequent denkt, die Alleinherrschaft der Universität negieren.
 
-Das Polytechnikum ist etwas, das sich zur Universität ähnlich verhält, wie die
+Das **Polytechnikum** ist etwas, das sich zur Universität ähnlich verhält, wie die
 Realschule zum Gymnasium.
 
 Jung, noch unreif. Unzähliche
@@ -318,7 +318,7 @@ Jung, noch unreif. Unzähliche
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Formen von Polytechniken d.h.
-wissenschaftlichen Fachschulen sind nöthig. Jetzt wird überall noch die formale Bildung
+wissenschaftlichen Fachschulen sind nöthig. Jetzt wird überall noch die **formale** Bildung
 zu sehr betont: aus einer zu großen Allgemeinheit.
 
   
@@ -328,25 +328,25 @@ Alleinherrschaft des Gymnasiums für Bildungswege.
 
 Ob das Realinstitut
 
-*Erratum:*Realswiss<en>  
+*Erratum:*Realswiss&amp;lt;en&amp;gt;  
 *lies:*Realinstitut  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  so gute Lehrer haben wird?
 
-Die Realschule will nicht Fachschule sein: aber doch die direkten Berufsarten näher im
-Auge haben. Alles kann einmal nützlich werden: wichtiger Gedanke!
+Die Realschule will nicht **Fachschule** sein: aber doch die direkten Berufsarten näher im
+Auge haben. Alles kann einmal **nützlich** werden: wichtiger Gedanke!
 
 [14[21]](javascript:;)
 ----------------------
 
 Die
 
-*Erratum:*Die  
+*Erratum:***Die**  
 *lies:*Die  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Volksschule.
+**Volksschule.**
 
   
 
@@ -371,7 +371,7 @@ aeterni, — — —
 [14[23]](javascript:;)
 ----------------------
 
-Der Lehrer.
+Der **Lehrer**.
 
   
 
@@ -407,11 +407,11 @@ Durch Examina und Anciennität hält man die Ehrgeizigen im Staate im Zaume.
 
 Die
 
-*Erratum:*Die  
+*Erratum:***Die**  
 *lies:*Die  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Universität.
+**Universität.**
 
   
 
@@ -426,29 +426,29 @@ Als höchste Gegenmacht gegen den Staat ist sie gänzlich verbraucht und vernich
 [14[25]](javascript:;)
 ----------------------
 
-Resultate.
+**Resultate.**
 
   
 
-Unsere Schulen weisen hin auf eine noch viel größere Arbeitstheilung. Die volle Bildung wird demnach immer seltener erstrebt: es giebt keine Schule, die deren
+Unsere Schulen weisen hin auf eine noch viel größere **Arbeitstheilung**. Die **volle Bildung** wird demnach immer seltener erstrebt: es giebt keine Schule, die deren
 Aufgabe sich stellte. Ja, man weiß sich nicht Rath, wenn man nach Lehrstoff für diese volle Bildung sucht.
 
-Demnach dürfte die Macht des verbindenden allgemeinen Menschen, des Journalisten eine
+Demnach dürfte die Macht des verbindenden allgemeinen Menschen, des **Journalisten** eine
 Zeitlang noch immer größer werden: sie vereinigen die verschiedensten Sphären: worin ihr Wesen und ihre
 Aufgabe liegt.
 
-Um so stärker wird sich einmal der volle Mensch wieder erheben müssen, nicht als Mittler
-für alle Kreise, sondern als Führer der Bewegung. Für diese Führer giebt es jetzt keine
+Um so stärker wird sich einmal der **volle Mensch** wieder erheben müssen, nicht als Mittler
+für alle Kreise, sondern als **Führer** der Bewegung. Für diese Führer giebt es jetzt keine
 Organisation. Es wäre denkbar eine Schule der edelsten Männer, rein unnütz, ohne Ansprüche, ein Areopag für
 die Justiz des Geistes, — aber diese Bildungsmenschen dürften nicht jung sein. Sie müßten als Vorbilder leben:
 als die eigentlichen Erziehungsbehörden.
 
-Diese höchste Bildung erkenne ich bis jetzt nur als Wiedererweckung des Hellenenthums.
+Diese höchste Bildung erkenne ich bis jetzt nur als Wiedererweckung des **Hellenenthums**.
 Kampf gegen die Civilisation.
 
 Von diesem Forum muß entschieden werden, welche Grenze überhaupt die Förderung der Wissenschaft hat:
 
-das dem Wissen eigenthümliche Leiden wird allerdings durch die Arbeitstheilung sehr
+das **dem Wissen eigenthümliche Leiden** wird allerdings durch die Arbeitstheilung sehr
 abgeschwächt.
 
 Nach den beiden Enden zu sind wesentlich neue Organisationen nöthig: für die Kindererziehung Beseitigung des
@@ -460,10 +460,10 @@ Entwicklung ihren Weg gehen. Ein Volkslehrerstand ist gänzlich von
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Übel.
-Das Lehren der Kinder ist Eltern- und Gemeindepflicht: Erhaltung der Tradition ist Hauptaufgabe. In der Höhe großartiger Freiblick. Beides
+Das **Lehren der Kinder** ist **Eltern-** und **Gemeinde**pflicht: Erhaltung der Tradition ist Hauptaufgabe. In der Höhe großartiger Freiblick. Beides
 verträgt sich wohl.
 
-Diese geistige Aristokratie muß sich auch Freiheit von dem Staate verschaffen: der jetzt
+Diese geistige Aristokratie muß sich auch Freiheit von dem **Staate** verschaffen: der jetzt
 die Wissenschaft im Zaume
 
 *Erratum:*Zaune  
@@ -475,7 +475,7 @@ die Wissenschaft im Zaume
 [14[26]](javascript:;)
 ----------------------
 
-Die Grundlagen der neuen Bildung.
+**Die Grundlagen der neuen Bildung.**
 
   
 
@@ -486,7 +486,7 @@ Die „göttlichen Einseitigkeiten“.
 [14[27]](javascript:;)
 ----------------------
 
-§ 2.Vorbereitung des philosophischen Menschen.
+**§ 2.Vorbereitung des philosophischen Menschen.**
 
   
 
@@ -505,7 +505,7 @@ der platonisch-aristotelischen Sphäre). Voraus geht eine Menge einzelner Weltbl
 hat schon eine lange Geschichte unter mythischen Hüllen ausgedrückt, auch die Kraft des Systematisirens ist
 schon da. Wir finden als Vorstadium den priesterlichen Dichter.
 
-Eig<entlich> philosophirt ganz Griechenland: zahllose Sprüche. Dann der Kampf der verschiedenen
+Eig&amp;lt;entlich&amp;gt; philosophirt ganz Griechenland: zahllose Sprüche. Dann der Kampf der verschiedenen
 religiösen Kulte: olympische Welt und Mysterienwelt. Die tragischen Mythen.
 
   
@@ -514,11 +514,11 @@ Warum Thales?
 
 Kraft, ein Princip aufzustellen und zu systematisiren, früher.
 
-Weil er unmythisch ist.
+Weil er **unmythisch ist**.
 
 Es ist der Dichter zu überwinden. Contemplation in Begriffen.
 
-Er ist nicht nur spruchmäßig. Er ist nicht nur einer der sieben Weisen.
+Er ist nicht nur **spruchmäßig**. Er ist nicht nur einer der sieben Weisen.
 
   
 
@@ -526,17 +526,17 @@ Das Bild des Philosophen entwickelt sich langsam aus Musaeus, Orpheus, Hesiod, S
 
 1) Die mythische Form der Philosophie.
 
-2) Die spruchmäßige Form der Philosophie, das sporadische Philos<ophiren> durch das
+2) Die spruchmäßige Form der Philosophie, das sporadische Philos&amp;lt;ophiren&amp;gt; durch das
 Systematisiren.
 
   
 
-So verschiedene Männer sind σοφοί.
+So **verschiedene** Männer sind σοφοί.
 
 [14[28]](javascript:;)
 ----------------------
 
-Vorplatonische Philosophen.
+**Vorplatonische Philosophen.**
 
   
 
@@ -544,14 +544,14 @@ Wie kommen die Griechen zur Philosophie?
 
 Zu welcher Philosophie?
 
-Gleichzeitig ihrer klassischen Periode (6. und 5. Jahrhundert) sind gerade die
-vorplatonischen. Es ist charakteristisch, wie eine Zeit ihre großen Männer aufnimmt. Die
-Originalanschauungen dieser Philosophen sind die höchsten und reinsten, die je erreicht wurden. Die Männer selbst sind
-förmliche Incarnationen der Philosophie und ihrer verschiedenen Formen. Frage: wie nimmt sich der Philosoph unter den klassischen Hellenen aus? Von Plato
+**Gleichzeitig ihrer klassischen Periode** (6. und 5. Jahrhundert) sind gerade die
+vorplatonischen. Es ist charakteristisch, wie eine Zeit ihre großen Männer **aufnimmt**. Die
+Originalanschauungen dieser Philosophen sind die **höchsten** und **reinsten**, die **je** erreicht wurden. Die **Männer** selbst sind
+förmliche Incarnationen der Philosophie und ihrer **verschiedenen Formen**. **Frage:** wie nimmt sich der **Philosoph unter** den klassischen Hellenen aus? Von Plato
 an ist die Frage weniger entscheidend zu beantworten. Da gab es einen Gelehrtenstand, mit dem der
 philosophische zusammenfallen konnte.
 
-Die Vorstufe: der Priester und der Sänger. Die weisen Männer, die das delphische Orakel ernannte, als leibhafte Katechismen.
+Die Vorstufe: der **Priester** und der **Sänger**. Die **weisen** Männer, die das delphische Orakel ernannte, als leibhafte Katechismen.
 
 Sie offenbaren uns das Hellenische, nicht direkt: denn sie reden nicht von Sitten usw., aber sie zeigen die
 Philosophie entstanden als Trieb der Erkenntniß, nicht durch Sündhaftigkeit und Lebensnoth angestachelt. Sie
@@ -564,16 +564,16 @@ Als bewußte Denker offenbaren sie weniger als als unbewußte Menschen, in ihren
 
 |  |  |
 | --- | --- |
-| Erste Periode. | Das Werden erregt das ϑαυμάζειν. Jonische Philosophen. |
-| Zweite Periode. | Das Problem des Werdens wird erkannt. Metaphysik. |
-| Dritte Periode. | Die Teleologie, der Zweck des Werdens. |
-| Vierte Periode. | Die Dialektik als das Sicherste. Ohne Erkenntniß keine Tüchtigkeit. Die Philosophie wird reformatorisch und imperativisch und aggressiv. |
+| **Erste Periode.** | Das **Werden** erregt das ϑαυμάζειν. Jonische Philosophen. |
+| **Zweite Periode.** | Das Problem des Werdens wird erkannt. Metaphysik. |
+| **Dritte Periode.** | Die Teleologie, der Zweck des Werdens. |
+| **Vierte Periode.** | Die Dialektik als das Sicherste. Ohne Erkenntniß keine Tüchtigkeit. Die Philosophie wird reformatorisch und imperativisch und aggressiv. |
 | Plato versucht die erste Weltreform.   Ein skeptischer Kreislauf — viermaliges Ansetzen. | |
 
 [14[30]](javascript:;)
 ----------------------
 
-Goethesche Lieder für meinen Freund Erwin Rohde zum Singen eingerichtet von F. N.
+**Goethesche** Lieder für meinen Freund Erwin Rohde zum Singen eingerichtet von F. N.
 
 |  |  |
 | --- | --- |
@@ -581,3 +581,5 @@ Goethesche Lieder für meinen Freund Erwin Rohde zum Singen eingerichtet von F. 
 | 2. Wonne der Wehmuth. | A dur. |
 | 3. Wanderers *Erratum:*Wanderers *lies:*3. Wanderers [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Nachtlied. | B moll. |
 | 4. Herbstgefühl *Erratum:*Herbsgefühl *lies:*4. Herbstgefühl [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) . | G moll. |
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

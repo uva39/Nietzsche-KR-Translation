@@ -235,8 +235,10 @@ Man liebt grobe Consequenz — Overbeck
 [20[21]](javascript:;)
 ----------------------
 
-Melodie des europäischen Menschen: woraus sich ergiebt, daß noch einiges an diesem
+**Melodie** des europäischen Menschen: woraus sich ergiebt, daß noch einiges an diesem
 Menschen zu thun ist.
 
 Was ist jetzt die herrschende Melodie in Europa, l’idée fixe musicale? Eine Operettenmelodie (natürlich die
-Tauben ausgenommen oder W<agner>).
+Tauben ausgenommen oder W&amp;lt;agner&amp;gt;).
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

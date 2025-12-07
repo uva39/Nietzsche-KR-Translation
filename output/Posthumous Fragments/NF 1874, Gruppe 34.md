@@ -33,7 +33,7 @@ Der werdende Philosoph Siegfried.
 [34[3]](javascript:;)
 ---------------------
 
-Abnahme der Religiosität seit dem Alterthum.
+Abnahme der **Religiosität** seit dem Alterthum.
 
 Wahrscheinlich wird es ein paar Jahrhunderte später gar nicht mehr rein vorkommen, sondern immer
 inkrustirt.
@@ -79,22 +79,22 @@ Philosophieprofessuren
 [34[7]](javascript:;)
 ---------------------
 
-Schilderung der Zeit: ob hoffnungslos, hat für Schopenhauer keinen Sinn. Indem er wahr
-ist, stellt er die ursprüngliche Natur her und den Sinn des Lebens. Es giebt keine Hoffnung auf Erdenglück: genug, wenn die Menschen vermöge jener Wahrhaftigkeit es sich eingestehn,
-dass das nie möglich war. Der Sinn des Lebens für das Individuum ist immer derselbe, zu
-jeder Zeit. Er soll hoffnungslos sein, in Beziehung auf Glück: aber hoffen, dass er
+Schilderung der Zeit: ob hoffnungslos, hat für Schopenhauer keinen Sinn. Indem er **wahr**
+ist, stellt er die ursprüngliche Natur her und den Sinn des Lebens. Es giebt keine **Hoffnung** auf Erdenglück: genug, wenn die Menschen vermöge jener Wahrhaftigkeit es sich eingestehn,
+dass das **nie** möglich war. Der Sinn des Lebens für das Individuum ist immer derselbe, zu
+jeder Zeit. Er **soll** hoffnungslos sein, in Beziehung auf Glück: aber hoffen, dass er
 selber noch den Sinn des Lebens besser begreife. — Die Reinigung der Cultur gilt ihm vor allem als
 Wahrhaftigkeit gegen wahre Bedürfnisse, nicht aber Schönheit und Glanz des Lebens.
 
 [34[8]](javascript:;)
 ---------------------
 
-Schopenhauer erzog sich selbst gegen die Zeit, und im Kampfe mit ihrem Bewusstsein
+Schopenhauer erzog sich selbst **gegen** die Zeit, und im Kampfe mit ihrem Bewusstsein
 bekämpfte er sich selbst. So strebt er zu seinem Kerne zurück, dort wo er Genius ist, und die Menschheit in
 ihrer höchsten Kraft erkennt. Von da aus, spricht er über das Dasein, als Genius und Verklärer der Welt, über
 die Welt — und nennt ihren Unwerth, selbst den des Genius. — Er ist vorbildlich, in der Art, wie er zu sich
-und damit über sich hinaus kommt. Jeder ist im Grunde Genius, insofern er einmal da ist
-und einen ganz neuen Blick auf die Dinge wirft. Er vermehrt die Natur, er zeugt mit
+und damit über sich hinaus kommt. Jeder ist im Grunde Genius, insofern er **einmal** da ist
+und einen ganz neuen Blick auf die Dinge wirft. Er **vermehrt** die Natur, er zeugt mit
 diesem neuen Blick.
 
 [34[9]](javascript:;)
@@ -119,8 +119,8 @@ Dann die Zeitschilderung.
 
 Die drei Bilder.
 
-Die Entartungen des Schopenhauerischen Menschen. J<acob>
-B<urckhardt> usw.
+Die Entartungen des Schopenhauerischen Menschen. J&amp;lt;acob&amp;gt;
+B&amp;lt;urckhardt&amp;gt; usw.
 
 [34[11]](javascript:;)
 ----------------------
@@ -174,14 +174,14 @@ Gefühl zum umgekehrten, nämlich als ob wir eben geträumt hätten und jetzt er
 [34[15]](javascript:;)
 ----------------------
 
-Das, was Cultur heißt, besteht aus den Einwirkungen und Zusammenwirkungen von Staat,
+Das, was **Cultur** heißt, besteht aus den Einwirkungen und Zusammenwirkungen von Staat,
 Erwerbenden, Formenbedürftigen, Gelehrten. Diese haben sich in einander hineingelebt und sind nicht mehr in
 Fehde. Großer Lärm und scheinbarer Erfolg.
 
 Nur daß die eigentliche Probe nie bestanden wird: die großen Genien sind gewöhnlich in Fehde dagegen. Man
 denke an Goethe und die Gelehrten, Wagner und die Staatstheater. Schopenhauer und die Universitäten: es wird
 offenbar nicht zugegeben, daß die großen Menschen die Spitze sind, derentwegen alles andre da ist. — Die
-Bedingungen für die Entstehung des Genius haben sich gar nicht verbessert, sondern verschlimmert. Allgemeiner Widerwille gegen die originalen Menschen. Sokrates hätte nicht
+Bedingungen für die Entstehung des Genius haben sich gar nicht **verbessert**, sondern **verschlimmert**. Allgemeiner Widerwille gegen die originalen Menschen. Sokrates hätte nicht
 bei uns 70 Jahr alt werden können.
 
 [34[16]](javascript:;)
@@ -217,7 +217,7 @@ Es kostet Überwindung, noch mehr als Einsicht, — — —
 [34[19]](javascript:;)
 ----------------------
 
-Wenn ich jetzt also noch einmal gedrängt ausdrücke, was die Schopenh<auerische> Philosophie als
+Wenn ich jetzt also noch einmal gedrängt ausdrücke, was die Schopenh&amp;lt;auerische&amp;gt; Philosophie als
 Erzieherin für mich war und ist, so thue ich dies in — — —
 
 [34[20]](javascript:;)
@@ -284,14 +284,14 @@ Bewusstsein bleibe
 *lies:*Bewusstsein bleibe  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Gerade auf diesen Inhalt richten nun jene Wahrhaftigen ihr Auge — — —
+Gerade auf diesen **Inhalt** richten nun jene Wahrhaftigen ihr Auge — — —
 
 [34[23]](javascript:;)
 ----------------------
 
 Die überlegene Güte und Menschlichkeit unserer Seelen und die Überlegenheit des modernen Intellectes.
 
-Nicht dass man daran glaubt: aber man soll daran zu glauben scheinen.
+Nicht dass man daran glaubt: aber man soll daran zu glauben **scheinen**.
 
 Auf einen Fehlschluss geht die Absicht jener After-Cultur hinaus: die „schöne Form“ soll für den „guten
 Inhalt“ gutsagen; es soll durchaus so scheinen, dass der moderne Mensch mit sich zufrieden und glücklich lebe,
@@ -345,7 +345,7 @@ So redet man überall mit — — —
 ----------------------
 
 Es ist ein und derselbe Trieb, der den Armen und Unterdrückten aufbäumen lässt gegen den Druck, als der den
-Staat oder die Reichen so unmenschlich macht: sie wollen durchaus nicht die Nutzanwendung
+Staat oder die Reichen so unmenschlich macht: sie wollen durchaus nicht die **Nutzanwendung**
 machen. Der Staat fürchtet diese Gesinnung; er will sie durch seine Cultur möglichst ausrotten; die
 Staatskunst muss unterhalten und verführen. Er umgürtet sich mit den „Gebildeten“.
 
@@ -406,15 +406,15 @@ Er giebt sich selbst preis und nimmt sich nicht zu wichtig.
 
 Er will nicht nur unterhalten sein, wie der Goethe’sche Mensch.
 
-Er hofft nicht mehr, wie der Mensch Rouss<eau’s> (denn das, was er hofft,
+Er hofft nicht mehr, wie der Mensch Rouss&amp;lt;eau’s&amp;gt; (denn das, was er hofft,
 ist unaussprechbar und hat mit einer Veränderung der menschlichen Einrichtungen nichts zu thun. Es kommt wenig
 darauf an, ob die Menschen sich so oder so verhalten).
 
-Endlich, er sagt es den Menschen und verschweigt nicht. Rückwirkung
+Endlich, er **sagt** es den Menschen und verschweigt nicht. Rückwirkung
 der Wahrhaftigkeit gegen sein Werdendes.
 
 Neues Ideal des theoretischen Menschen. Er betheiligt sich an dem Staat usw. nur noch zum
-Spiele. Dies die höchste menschliche Möglichkeit — alles in Spiel aufzulösen, hinter
+**Spiele**. Dies die höchste menschliche Möglichkeit — alles in Spiel aufzulösen, hinter
 dem der Ernst steht.
 
 Musik — Schopenhauer erkennt ihr Wesen.
@@ -489,18 +489,18 @@ Capitel
 *lies:*Capitel  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- 3/4. Er ist der Genius der
-heroischen Wahrhaftigkeit. Durch das Capitel über die Gefahren ist bewiesen, wie er sich selbst erzogen
-hat. Doch wodurch hat er dies erreicht?  
-Durch das Bestreben, wahr zu sein.  
-Es ist ein auflösendes, vernichtendes Bestreben; doch das Individuum
-wird dadurch gross und frei. Vielleicht dass er äusserlich daran zu
+ 3/4. Er ist der **Genius der
+heroischen Wahrhaftigkeit**. Durch das Capitel über die Gefahren ist bewiesen, wie er sich selbst erzogen
+hat. Doch **wodurch** hat er dies erreicht?  
+Durch das Bestreben, **wahr** zu sein.  
+Es ist ein **auflösendes**, vernichtendes Bestreben; doch das Individuum
+wird dadurch **gross** und **frei**. Vielleicht dass er äusserlich daran zu
 Grunde geht, nicht innerlich.
 
-Capitel 4. Schopenhauer als befreiender Zerstörer in seiner Zeit.
+Capitel 4. Schopenhauer als **befreiender Zerstörer** in seiner Zeit.
 Nichts verdient mehr Schonung. Alles ist halb und morsch.
 
-Capitel 5. Ebenso steht er zur deutschen Cultur. Der befreiende
+Capitel 5. Ebenso steht er zur **deutschen Cultur**. Der befreiende
 Zerstörer.
 
 Capitel 6. Fortsetzung seines Werks. Dazu ist Erziehung einer Generation der Philalethen
@@ -521,7 +521,7 @@ Absonderung ein Gesetz seiner Philosophie sein;
 Lehre, zum sichtbaren Beispiel. Das eigenthümlichste Product eines Philosophen ist sein Leben, es ist sein
 Kunstwerk und als solches eben sowohl dem, welcher es schuf, wie den andern Menschen zugekehrt. Der Staat, die
 Gesellschaft, die Religion, ja Ackerbau und Gartenkunst — alle können fragen: was ist mir dieser Philosoph?
-Was kann er uns geben, was nützen, was schaden? — So fragt nun auch, in Betreff Schopenhauers, die deutsche Cultur.
+Was kann er uns geben, was nützen, was schaden? — So fragt nun auch, in Betreff Schopenhauers, die **deutsche Cultur**.
 
 Ich nenne ihn, auch in dieser wichtigen Rücksicht, einen Erzieher der Deutschen. Wie sehr sie aber gerade
 eines solchen bedürfen, ist mir nach dem französischen Kriege von Stunde zu Stunde deutlicher geworden: obwohl
@@ -550,9 +550,9 @@ schlafen.
 
 Diese Thätigkeit des Philosophen steht nicht für sich, sie gehört in einen Cyclus.
 
-Cultur. Hauptcharacter.
+**Cultur**. Hauptcharacter.
 
-Die Afterkultur.
+Die **Afterkultur**.
 
 In Dienst genommen  
 vom Erwerb  
@@ -566,15 +566,15 @@ Grundstimmung, aus der die wahre Cultur hervorwächst.
 ----------------------
 
 Das ist ein Ideal, davor fühlt sich der Einzelne beschämt. Wie bringt er sich dazu in ein
-natürliches thätiges Verhältniss? Wie ist der Weg zur Erziehung zu finden?
+natürliches **thätiges** Verhältniss? Wie ist der Weg zur Erziehung zu finden?
 
-Diese seine Stimmung benützt die verweltlichte Cultur, ihre Ziele
+Diese seine Stimmung **benützt** die verweltlichte Cultur, ihre Ziele
 sind näher und belasten das Individuum nicht so.
 
-Der metaphysische Sinn der wahren Cultur ist festzustellen. Erster
+Der metaphysische Sinn der wahren Cultur ist **festzustellen**. Erster
 Satz der Erziehung.
 
-Die Erzeugung des Genius ist die praktische Aufgabe.
+Die Erzeugung des Genius ist die **praktische** Aufgabe.
 
 [34[41]](javascript:;)
 ----------------------
@@ -601,7 +601,7 @@ Naturen unterliegen: deshalb ist Schopenhauer nur etwas für die Thätigsten.
 
 Bedeutung der abgeirrten Cultur.
 
-Versuch, Pflichten aus dem vollen Begriffe derselben abzuleiten.  
+Versuch, **Pflichten** aus dem vollen Begriffe derselben abzuleiten.  
 In einzelnen Augenblicken steht man darin.
 
 Es ist nöthig die niedere Stufe zu finden, auf der wir wirklich stehen können, wo wir
@@ -670,7 +670,7 @@ Ils se croient profonds et ne sont que creux.
 | Gefahren: | von Kant her.  Vereinsamung.  Klima der deutschen Bildung.  Innerster Conflict: la Trappe und Genius. (In diesem Gefühl der Beschränktheit liegt seine Grösse, sie hat gar nichts mit der Zeit zu thun: ein allzeitiger Conflict.) |
 | Beispiel: | Schritt von Kant zu Schopenhauer im Leben.  Überwindung des Gelehrten.  Überwindung des Romantischen.  Ergänzung des klassischen Ideals.  Anspornende Verachtung seiner Zeit. |
 
-(III) Capitel. Hat er Erfolg gehabt?
+(III) Capitel. Hat er **Erfolg** gehabt?
 
 |  |  |  |
 | --- | --- | --- |
@@ -683,4 +683,6 @@ Ils se croient profonds et ne sont que creux.
 
 |  |  |
 | --- | --- |
-| Als Schriftsteller: | ehrlich  heiter  männlich (nie greisenhaft) und nicht gefühlvoll, er klagt nicht. |
+| Als Schriftsteller: | ehrlich  heiter  **männlich** (nie greisenhaft) und nicht gefühlvoll, er klagt nicht. |
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

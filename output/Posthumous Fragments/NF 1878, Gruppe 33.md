@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [33[1]](javascript:;)
 ---------------------
 
-„Treppen-Glück“ — Knaben auf Eis, eine Windlaterne in der Mondnacht am Bach.
+**„Treppen-Glück“** — Knaben auf Eis, eine Windlaterne in der Mondnacht am Bach.
 
 [33[2]](javascript:;)
 ---------------------
@@ -52,7 +52,7 @@ immer hinter seinem Vollbringen zurückbleiben.
 [33[7]](javascript:;)
 ---------------------
 
-Politik — Partei — Ehrlich<keit>
+Politik — Partei — Ehrlich&amp;lt;keit&amp;gt;
 
 [33[8]](javascript:;)
 ---------------------
@@ -64,7 +64,7 @@ Zum Schluss — „Giebt es ein größeres Glück als die Seele zu prüfen — e
 
 Was ist denn Europa? — Griechische Cultur aus thrakischen phönizischen Elementen gewachsen, Hellenismus
 Philhellenismus der Römer, ihr Weltreich christlich, das Christenthum Träger antiker Elemente, von diesen
-Elementen gehen endlich die wissenschaftlichen Keime auf, aus dem Philhellenismus wird ein Philosophenthum: so weit an die Wissenschaft geglaubt, geht jetzt Europa. Das Römerthum wurde
+Elementen gehen endlich die wissenschaftlichen Keime auf, aus dem Philhellenismus wird ein **Philosophenthum**: so weit an die Wissenschaft geglaubt, geht jetzt Europa. Das Römerthum wurde
 ausgeschieden, das Christenthum abgeblaßt. Wir sind nicht weiter als Epikur: aber seine Herrschaft ist
 unendlich verbreiteter — Hellenisirung in vierfacher Vergröberung und Verungründlichung.
 
@@ -80,9 +80,11 @@ Urväter — — —
 [33[11]](javascript:;)
 ----------------------
 
-NB. Die wahre Maja. — Halt- und gehaltlose Werthe.
+NB. Die wahre **Maja**. — Halt- und gehaltlose Werthe.
 
 [33[12]](javascript:;)
 ----------------------
 
 Chinesische Arbeiter, um Asien zu europäisiren.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

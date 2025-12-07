@@ -27,3 +27,5 @@ Trotz im Keime des Gedankens, oder Liebe.
 ---------------------
 
 Fastenfreude, „Pflicht“-Freude — verfehlt.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -38,21 +38,21 @@ in der Philosophie — der dumme Materialismus.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| I. | Einleitung. Der Titel. Nicht speziell Basler<ische> Verhältnisse. Keine Verantwortung für Nutzanwendungen. Der Ort, an dem man so viel thut und wohl auch entsprechend denkt. Erinnern, nicht belehren. Ebensowenig vom Horizont aller Kulturvölker aus. Vielmehr die deutschen Institutionen, Volksschule Gymnasium Universität. Sie verknüpfen uns mit unserer Vergangenheit. Bedenkliche Neuerungen des modernen, zeitgemäßen Geistes. In Betreff ihrer Zukunft liegt alle Hoffnung in einer Erneuerung des deutschen Geistes. Für unser Thema wichtig, den ursprünglichen Sinn wieder ohne seine modernen Entartungen zu verstehen. Also weder für die „Selbstverständlichen“ noch für die Verzweifelten, sondern <für> die Kämpfenden, deren Bild etwa Schiller ist. | | |
-| |  | | --- | | Haupttheil. | | |  | | --- | | Keine Definition von Bildung. Es kommt auf das letzte Ziel an, in dessen Dienst die Bildung gestellt wird. Wir sehen von der Phraseologie der Bildung als „Selbstzweck“ <ab>. | | |
+| I. | **Einleitung.** Der Titel. **Nicht** speziell Basler&amp;lt;ische&amp;gt; Verhältnisse. Keine Verantwortung für Nutzanwendungen. Der Ort, an dem man so viel **thut** und wohl auch entsprechend **denkt**. **Erinnern**, nicht belehren. **Ebensowenig** vom Horizont aller Kulturvölker aus. Vielmehr die **deutschen** Institutionen, Volksschule Gymnasium Universität. Sie verknüpfen uns mit unserer Vergangenheit. Bedenkliche Neuerungen des modernen, zeitgemäßen Geistes. In Betreff ihrer Zukunft liegt alle Hoffnung in einer Erneuerung des deutschen Geistes. Für unser Thema wichtig, den ursprünglichen Sinn wieder ohne seine modernen Entartungen zu verstehen. Also weder für die „Selbstverständlichen“ noch für die Verzweifelten, sondern &amp;lt;für&amp;gt; die Kämpfenden, deren Bild etwa Schiller ist. | | |
+| |  | | --- | | **Haupttheil.** | | |  | | --- | | Keine Definition von Bildung. Es kommt auf das **letzte Ziel** an, in dessen Dienst die Bildung gestellt wird. Wir sehen von der Phraseologie der Bildung als „Selbstzweck“ &amp;lt;ab&amp;gt;. | | |
 | Wollen wir die Bildungsziele unserer Zeit rubriziren, so finden wir | | |
 |  | |  |  | | --- | --- | | Bildung im Dienste | des Erwerbs der Geselligkeit des Staates der Kirche der Wissenschaft. | | |
 | Zwei Richtungen gehen durch: | | |
-|  | |  |  | | --- | --- | | 1. | möglichste *Erratum:*möglichste *lies:*möglichste [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Erweiterung Optimismus der Nationalökonomen Furcht vor religiöser Unterdrückung der übertriebene Staatsbegriff Hegels. Auch Gesellschaft. | | 2. | Verringerung, Schwächung, bald absichtlich, bald unabsichtlich Arbeitstheilung verschiedene Kirchen Furcht vor dem Socialismus. | | |
-| Beide Richtungen haben etwas Unnatürliches: den Unglauben <an> die intellektuelle *Erratum:*intellektuelle *lies:*intellektuelle [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Pyramide, an den Genius, d.h. Widerwille *Erratum:*Widerwillen *lies:*Widerwille [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  gegen Stärkung und Verengerung. | | | |
+|  | |  |  | | --- | --- | | 1. | möglichste *Erratum:***möglichste** *lies:*möglichste [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) **Erweiterung** Optimismus der Nationalökonomen Furcht vor religiöser Unterdrückung der übertriebene Staatsbegriff Hegels. Auch Gesellschaft. | | 2. | **Verringerung**,**Schwächung**, bald absichtlich, bald unabsichtlich Arbeitstheilung verschiedene Kirchen Furcht vor dem Socialismus. | | |
+| Beide Richtungen haben etwas **Unnatürliches**: den Unglauben &amp;lt;an&amp;gt; die intellektuelle *Erratum:***intellektuelle** *lies:*intellektuelle [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Pyramide, an den **Genius**, d.h. **Widerwille** *Erratum:***Widerwillen** *lies:***Widerwille** [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  gegen **Stärkung** und **Verengerung**. | | | |
 
 [18[3]](javascript:;)
 ---------------------
 
 |  |  |  |
 | --- | --- | --- |
-| Absicht der Natur zur Vollkommenheit zu kommen. Der Genius ist insofern zeitlos. Das Ziel ist immer erreicht.  Das Ziel der Bildung ist die Unterstützung der Natur für diese zeitlose Vollkommenheit: etwa wie die Medezin Unterstützung des Gesundheitstrebens der Natur ist.  Das Kennzeichen dieser höchsten Bildung ist Nutzlosigkeit vom Standpunkte des Egoismus, der Zeitlichkeit.  Dagegen erwirbt sich durch seine Genien ein Volk das Recht zur Existenz: höchster Nutzen. | | |
-| Aufgabe der Bildung: | | den Genius zu vollenden, seine Bahnen zu ebnen, sein Wirken möglich zu machen durch Ehrfurcht, ihn ausfindig zu machen. |
+| Absicht der Natur zur **Vollkommenheit** zu kommen. Der Genius ist insofern zeitlos. Das Ziel ist immer erreicht.  Das Ziel der **Bildung** ist die Unterstützung der Natur für diese zeitlose Vollkommenheit: etwa wie die Medezin Unterstützung des Gesundheitstrebens der Natur ist.  Das Kennzeichen dieser höchsten Bildung ist **Nutzlosigkeit** vom Standpunkte des Egoismus, der Zeitlichkeit.  Dagegen erwirbt sich durch seine Genien ein Volk das Recht zur Existenz: höchster **Nutzen**. | | |
+| Aufgabe der **Bildung**: | | den Genius zu vollenden, seine Bahnen zu ebnen, sein Wirken möglich zu machen durch Ehrfurcht, ihn ausfindig zu machen. |
 | Damit ist vom Nichtgenius als Bildungsziel verlangt  1.  Gehorsam und Bescheidenheit 2.  Richtige Erkenntniß über die Enge jedes Berufes 3.  Dienstbarkeit für den Genius, Material sammeln.  Das Ganze „Organisation der intellektuellen Kasten“. Damit Hebammendienste für die Geburt des Genius. Höchste und schwierige Arbeit!  Die drei hesiodischen Möglichkeiten.  Speziell: Wiederaufnahme der Wiedererweckung des Alterthums, also der Reformationsbewegung. | | |
 
 [18[4]](javascript:;)
@@ -120,7 +120,7 @@ besonders wenn damit auch ein Broderwerb verbunden ist.
 [18[8]](javascript:;)
 ---------------------
 
-Man denke daran, wie selten der ehrliche Mensch ist: wie selten wird die reine
+Man denke daran, wie selten der **ehrliche** Mensch ist: wie selten wird die reine
 Wahrheitsliebe in höheren Dingen sein!
 
 [18[9]](javascript:;)
@@ -139,14 +139,14 @@ Sie — — —
 [18[10]](javascript:;)
 ----------------------
 
-Ueber
+**Ueber**
 
-*Erratum:* Über  
-*lies:*Ueber  
+*Erratum:***Über**  
+*lies:***Ueber**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- die Zukunft  
-unserer Bildungsanstalten.
+ **die Zukunft  
+unserer Bildungsanstalten.**
 
   
 
@@ -176,10 +176,10 @@ Anfang des Jahres 1872.
 ----------------------
 
 Über die  
-Zukunft unserer Bildungsanstalten.  
+**Zukunft unserer Bildungsanstalten**.  
 Sechs öffentliche Reden,  
 gehalten  
-im Auftrage der akademischen Gesellschaft  
+im Auftrage der **akademischen Gesellschaft**  
 in Basel
 
   
@@ -193,3 +193,5 @@ Fr. N.
 An die allgemeine deutsche  
 Philologen- und Lehrerversammlung in Leipzig.  
 Am zweiundzwanzigsten Mai 1872.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

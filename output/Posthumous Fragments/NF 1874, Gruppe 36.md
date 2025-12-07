@@ -16,13 +16,13 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [36[1]](javascript:;)
 ---------------------
 
-Einleitung zu Plato. 1874.
+**Einleitung zu Plato.** 1874.
 
-Die antike Metrik.
+**Die antike Metrik.**
 
-Laertius Diogenes.
+**Laertius Diogenes.**
 
-Über Homer.
+**Über Homer.**
 
 [36[2]](javascript:;)
 ---------------------
@@ -44,10 +44,12 @@ Eine Unzeitgemässe.
 [36[3]](javascript:;)
 ---------------------
 
-Zu lesen:
+**Zu lesen:**
 
 2 Griechische Litteratur.
 
 1 Encyclopadie.
 
 1 Metrik.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

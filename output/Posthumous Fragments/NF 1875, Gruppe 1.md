@@ -35,7 +35,7 @@ Schluß Empedokles
 | 1875 | 4 |  | 5 | Philolog. Wagner. |
 | 1876 |  | 6 |  | Presse. |
 | 1877 | 7 |  | 8 | Religion. Schule. |
-| 1878 | 9 |  | 10 | Social<ismus.> Staat. |
+| 1878 | 9 |  | 10 | Social&amp;lt;ismus.&amp;gt; Staat. |
 | 1879 | 11 | — | 12 | Mein Plan. Natur. |
 | 1880 |  | 13 |  | Weg der Befreiung. |
 
@@ -79,3 +79,5 @@ Vorspiel. Der Bildungsphilister.
 24—31 Basel
 
 31—33 ?
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

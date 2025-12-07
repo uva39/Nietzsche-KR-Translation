@@ -16,16 +16,16 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [45[1]](javascript:;)
 ---------------------
 
-Zucht des Herzens.
+**Zucht des** **Herzens.**
 
-*Erratum:*Herzens  
-*lies:*Herzens.  
+*Erratum:***Herzens**  
+*lies:***Herzens.**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 [45[2]](javascript:;)
 ---------------------
 
-Des Prinzen Vogelfrei
+**Des Prinzen Vogelfrei**
   
 Lieder und Gedanken.
 
@@ -37,18 +37,18 @@ Friedrich Nietzsche.
 [45[3]](javascript:;)
 ---------------------
 
-Widmung und Abgesang.
+**Widmung und** **Abgesang.**
 
-*Erratum:*Abgesang  
-*lies:*Abgesang.  
+*Erratum:***Abgesang**  
+*lies:***Abgesang.**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 [45[4]](javascript:;)
 ---------------------
 
-Lieder und Gedanken
+**Lieder und Gedanken**
   
-des Prinzen Vogelfrei.
+**des Prinzen Vogelfrei.**
 
   
 
@@ -100,10 +100,10 @@ Geistes“. Beschreibung der freien Geister.
 
   
 
-2) Heiterkeit
+2) **Heiterkeit**
 
 *Erratum:*Heiterkeit  
-*lies:*Heiterkeit  
+*lies:***Heiterkeit**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  3) Masken 4) Vornehmheit.
@@ -140,3 +140,5 @@ Wie lange noch? Da kommen Mond und Sterne
 Und Wind und Reif: nun säum’ ich lange nicht,
 
 Der Frucht gleich, die ein Hauch vom Baume bricht
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

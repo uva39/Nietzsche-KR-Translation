@@ -166,7 +166,7 @@ Sanders
 
 Leuthold, Rückert, Hebbel
 
-Keller, altdeutsche Dichter (Leihb<ibliothek> Antiqu<ariat>)
+Keller, altdeutsche Dichter (Leihb&amp;lt;ibliothek&amp;gt; **Antiqu**&amp;lt;ariat&amp;gt;)
 
 Englische Lyriker?
 
@@ -176,7 +176,7 @@ Englische Lyriker?
 Angesichts eines Menschen, der uns fremd ist, gehen uns die Fragen durch den Kopf: wer ist er? was will er?
 was kann er? — und je nach den Antworten, die wir auf diese Fragen gewinnen, bestimmen wir den Werth dieses
 Menschen. Sind wir selber unabhängig, einflußreich, mächtig, so bestimmen wir dabei sofort seinen Werth als
-Werth für uns: sind wir abhängig und irgend einer Heerde und Gemeinschaft eingeordnet, so
+Werth **für uns**: sind wir abhängig und irgend einer Heerde und Gemeinschaft eingeordnet, so
 bedeutet unsere Frage nach seinem Werth: welchen Werth hat er für uns, d.h. die Heerde?
 
 [29[4]](javascript:;)
@@ -193,7 +193,7 @@ bedeutet unsere Frage nach seinem Werth: welchen Werth hat er für uns, d.h. die
 
 Wahrscheinlichkeit des Erfolgs: Pyramidenhaft. Breite Anlage meines Lebens. Benutzung der Mißerfolge
 
-Als erster Erfolg: Köselitz (mein Geschmack) — als zweiter (moralischer Effekt) Stein.
+Als erster Erfolg: Köselitz (mein **Geschmack**) — als zweiter (**moralischer** Effekt) Stein.
 
   
 
@@ -205,39 +205,39 @@ Als erster Erfolg: Köselitz (mein Geschmack) — als zweiter (moralischer Effek
 
   
 
-Was haben wir erreicht? festgestellt?
+Was haben wir **erreicht**? festgestellt?
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| 1) | meine Wohnorte | | |
-| a) | dem Engadin verdanke ich | Leben, |
-|  | Zarathustra |
-| b) | Nizza verdanke ich die Beendigung des Zarathustra | |
+| 1) | meine **Wohnorte** | | |
+| a) | dem Engadin verdanke ich | **Leben,** |
+|  | **Zarathustra** |
+| b) | Nizza verdanke ich die **Beendigung** des Zarathustra | |
 | c) | beide Orte gehören gut zu meiner Aufgabe: Nizza als kosmopolitisch, Sils als hochgebirgig | |
 
-(Beide sollen zu dem Eindruck von mir
+(**Beide** sollen zu dem **Eindruck** von mir
 beitragen. —)
 
-Grundsätzlich — nicht in Deutschland leben, weil Europäische
+Grundsätzlich — **nicht** in Deutschland leben, weil Europäische
 Mission.
 
 |  |  |
 | --- | --- |
-| — | nicht unter Universitäten — |
+| — | **nicht** unter Universitäten — |
 | — | meine Vorgänger: Schopenhauer und Richard Wagner bewähren sich als europäische Bewegungen. |
 
-Vielleicht möglich an beiden Orten eine Art Lehr-Thätigkeit.
+Vielleicht möglich an **beiden** Orten eine Art Lehr-Thätigkeit.
 
   
 
-Was bleibt zu erfinden zunächst?
+Was bleibt zu erfinden **zunächst**?
 
 Verborgenheit. Erholungs-Orte. Calmirende Mittel.
 
 [29[5]](javascript:;)
 ---------------------
 
-An die höheren Menschen.
+**An die höheren Menschen.**
 
   
 
@@ -265,7 +265,7 @@ zu lehren:
 | 6) | gegen die Mächtigen und Reichen falls sie den Glauben an die höheren Menschen erschüttert haben — so wie die Kirche den Glauben an die Heiligen |
 | 7) | gegen den Gott als Motiv der Ergebung und des Nachlassens |
 | 8) | die höchsten Typen am meisten mißrathen |
-| Tod aller Unvergänglichen.  Kraft, Wildheit, Energie, keine Milde  Gluth, Drama | |
+| Tod aller Unvergänglichen.  Kraft, Wildheit, Energie, keine **Milde**  Gluth, Drama | |
 
 [29[8]](javascript:;)
 ---------------------
@@ -277,15 +277,15 @@ Das Alleinsein mit einem großen Gedanken ist unerträglich.
 Plan. Ich suche und rufe Menschen denen ich diesen Gedanken mittheilen darf, die nicht
 daran zu Grunde gehen.
 
-Begriff des höheren Menschen: wer am Menschen leidet und nicht nur
-an sich, wer nicht anders kann als an sich auch nur „den Menschen“ schaffen
+**Begriff des höheren Menschen: wer am Menschen leidet** und nicht nur
+an sich, wer nicht anders kann als an **sich** auch nur „den Menschen“ schaffen
 
 — gegen alles genüßliche Beiseitegehen und Schwärmen der Mystiker.
 
 — gegen die „Arrangirten“.
 
-— wir Mißrathenen! Höchster Typus! uns zu erlösen ist „den Menschen selber“ erlösen:
-das ist unser „Egoismus“!
+— wir Mißrathenen! Höchster Typus! **uns** zu erlösen ist „den Menschen selber“ erlösen:
+das ist unser **„Egoismus“**!
 
   
 
@@ -300,7 +300,7 @@ Ihr habt mich mit Ketten gebunden: aber selbst meine Henker sollen noch meine J�
 [29[10]](javascript:;)
 ----------------------
 
-sie sind schlecht gegen mich — aber deshalb will ich sie nicht verlassen; sie denken
+sie sind schlecht gegen mich — aber deshalb will **ich** sie nicht verlassen; sie denken
 klein von mir: so will ich zusehn, wie ich sie selber vergrößere.
 
 [29[11]](javascript:;)
@@ -329,7 +329,7 @@ klein von mir: so will ich zusehn, wie ich sie selber vergrößere.
 [29[13]](javascript:;)
 ----------------------
 
-Von der Heuchelei der Guten.
+**Von der Heuchelei der Guten.**
 
 |  |  |
 | --- | --- |
@@ -338,7 +338,7 @@ Von der Heuchelei der Guten.
 | 3) | ich nehme euch in den Arm — ach, ich sehe die epileptische Zuckung des eigenen Kindes |
 | 4) | wo bleibt ihr? — da füllt es sich um mich mit Krüppeln |
 | 5) | alle Zukunft kämpft unerlöst in mir und euch — wie sollten wir nicht mißgeformt sein! |
-| 6) | an die Frommen. Sie fühlen das höhere Band der Ereignisse und die absolute Bedeutung der Person und sich als mißrathen. — Wenn alle Dinge ein fatum sind, so bin ich auch allen Dingen fatum. |
+| 6) | an die Frommen. Sie fühlen das höhere Band der Ereignisse und die absolute Bedeutung der Person und sich als mißrathen. — Wenn alle Dinge ein fatum sind, so bin **ich** auch allen Dingen fatum. |
 
 [29[14]](javascript:;)
 ----------------------
@@ -347,7 +347,7 @@ Von der Heuchelei der Guten.
 
 Das Honig-Opfer.
 
-Besuch — Versuchungen (und Anzeichen) Riecht das nahende Elend
+Besuch — Versuchungen (und Anzeichen) **Riecht** das nahende Elend
 
 der Dichter
 
@@ -357,7 +357,7 @@ der König (der Staatsmann „Bauer“)
 
 der Narr der großen Stadt
 
-das Weib (sucht den Mann —)
+das Weib (sucht den **Mann** —)
 
 der Wahrsager
 
@@ -376,7 +376,7 @@ Abschied von der Höhle: Losreißung aus der Einsamkeit. Ewige Wiederkehr jedes 
 [29[15]](javascript:;)
 ----------------------
 
-der sterbende Zarathustra hält die Erde umarmt. — Und obgleich es Niemand ihnen gesagt
+der sterbende Zarathustra hält die Erde **umarmt**. — Und obgleich es Niemand ihnen gesagt
 hatte, wußten sie alle, daß Zarathustra todt war.
 
 [29[16]](javascript:;)
@@ -396,7 +396,7 @@ Sprache und Zeitungen —
 | 2 | Die Einsiedler zerfallen in Cyniker und Stoiker | |
 | — worin | ihr Verbrauch an Kraft |
 |  | ihr Mangel an Kraft |
-| 3 | unsere Gegner die Lehrer der absoluten Moral. | |
+| 3 | unsere **Gegner** die Lehrer der absoluten Moral. | |
 
 [29[18]](javascript:;)
 ----------------------
@@ -424,15 +424,15 @@ Geschmacks. Die meisten menschlichen Handlungen sind „nicht zum Ansehen“ fü
 [29[21]](javascript:;)
 ----------------------
 
-Zarathustra zuerst von den Mißrathenen eingeladen — er weist sie ab „ihr wollt nicht mit
-mir feiern sondern euch durch mich retten.
+Zarathustra zuerst von den **Mißrathenen eingeladen** — er weist sie ab „ihr wollt nicht mit
+mir **feiern** sondern euch durch mich **retten**.
 
-Endlich kommen seine „Glückseligen“
+Endlich kommen seine **„Glückseligen“**
 
 [29[22]](javascript:;)
 ----------------------
 
-„Wer liebt mich noch“ — ein erfrierender Geist
+„Wer liebt mich noch“ — ein **erfrierender** Geist
 
 Ein Epileptischer
 
@@ -447,28 +447,28 @@ Zarathustras tiefe Geduld und Zuversicht, daß die Zeit kommt.
 
 Die Gäste: der Wahrsager verbreitet schwarzen Pessimismus.
 
-die Milde gegen die Verbrecher (wie bei der fr<anzösischen> Revolut<ion>)
+die Milde gegen die Verbrecher (wie bei der fr&amp;lt;anzösischen&amp;gt; Revolut&amp;lt;ion&amp;gt;)
 
 Die Zeichen: die brennende große Stadt
 
 Versuchungen zur Rückkehr vor der Zeit — durch
 Erregung von Mitleid.
 
-Nachricht vom Untergang der Insel
+**Nachricht** vom Untergang der Insel
 
-Endlich: ich will es erst noch erfragen, ob sie leben
+Endlich: ich will es erst noch **erfragen**, ob sie leben
 
 — sendet den Adler aus —
 
 Herolds-Rufe an die Einsamen
 
-Doppelte Reihe der Zeichen
+**Doppelte** Reihe der Zeichen
 
 1) vom Verfall der Menschen
 
 2) vom Vorhandensein großer Einzelner
 
-Mit euch kann ich nicht Herr werden.
+Mit euch kann ich nicht **Herr** werden.
 
 [29[24]](javascript:;)
 ----------------------
@@ -483,7 +483,7 @@ Der Jüngling vom Berge.
 
 Der Narr der großen Stadt.
 
-Der Heilige (zuletzt).
+Der Heilige (**zuletzt**).
 
 Die Kinderschaar.
 
@@ -492,7 +492,7 @@ Der Dichter
 [29[25]](javascript:;)
 ----------------------
 
-Gegensatz darzustellen zwischen den Mißrathenen (Vereinsamten) und dem zusammen
+Gegensatz darzustellen zwischen den **Mißrathenen** (Vereinsamten) und dem zusammen
 erwachsenen ausgewählten „Volke“
 
 [29[26]](javascript:;)
@@ -504,35 +504,35 @@ ich danken könnte. So laßt mich euch, meinen Thieren, Dank darbringen.
 |  |  |
 | --- | --- |
 | 1. | 1. Zarathustra seinen Thieren dankend und sie auf Gäste vorbereitend. Heimliche Geduld des Wartenden und tiefe Zuversicht auf seine Freunde. |
-| 2 — 9. | 2. Die Gäste als Versuchungen, die Einsamkeit aufzugeben: ich bin nicht gekommen, den Leidenden zu helfen usw. (franz<ösische> Malerei)  3. der Einsiedler-Heilige Fromme. |
-| 10 — 14. | 4. Zarathustra sendet seine Thiere aus auf Kundschaft. Allein, ohne Gebet, — und ohne die Thiere.  Höchste Spannung! |
+| 2 — 9. | 2. Die Gäste als Versuchungen, die Einsamkeit aufzugeben: ich bin nicht gekommen, den Leidenden zu helfen usw. (franz&amp;lt;ösische&amp;gt; Malerei)  3. der Einsiedler-Heilige Fromme. |
+| 10 — 14. | 4. Zarathustra sendet seine Thiere aus auf Kundschaft. Allein, ohne **Gebet**, — und ohne die Thiere.  Höchste Spannung! |
 | 15. | 5. „sie kommen!“ Als der Adler und die Schlange reden, kommt der Löwe hinzu — er weint! |
 | 16. | Abschied für immer von der Höhle. (Eine Art Festzug!) Er geht mit den 4 Thieren entgegen, bis zur Stadt - - - |
 
 [29[27]](javascript:;)
 ----------------------
 
-Zögern der Jünger. „Wir halten es schon mit dieser Lehre aus, aber die Vielen werden wir
-damit zerstören?“
+Zögern der Jünger. „**Wir** halten es schon mit dieser Lehre aus, aber die Vielen werden wir
+damit **zerstören**?“
 
 Zarathustra lacht: „ihr sollt der Hammer sein, ich gab euch den Hammer in die Hand
 
 [29[28]](javascript:;)
 ----------------------
 
-Alle Tugend ist erworbene Tugend, es giebt keine zufällige Tugend. Von Vätern her
+Alle Tugend ist **erworbene** Tugend, es giebt keine zufällige Tugend. Von Vätern her
 angesammelt —
 
 [29[29]](javascript:;)
 ----------------------
 
-Das Problem der Einsamkeit mit und ohne Gott — dies Beten, Danken, Lieben verschwendet
+Das Problem der Einsamkeit mit und ohne Gott — dies Beten, Danken, Lieben **verschwendet**
 ins Leere
 
 [29[30]](javascript:;)
 ----------------------
 
-der Wahrsager: ich entdeckte die geheime Müdigkeit aller Seelen, den Unglauben, Nichtglauben — scheinbar lassen sie sich’s gut gehen — sie sind müde. Sie glauben alle nicht an ihre Werthe.
+der Wahrsager: ich entdeckte die geheime Müdigkeit aller Seelen, den Unglauben, Nichtglauben — **scheinbar** lassen sie sich’s gut gehen — sie sind müde. Sie glauben alle nicht an ihre **Werthe**.
 
 Und auch du, Zarathustra! Es genügte ein kleiner Blitz, dich zu zerbrechen!
 
@@ -546,7 +546,7 @@ sprach alles noch Ein Mal (wiederkehrend wie das Medusen-Haupt
 [29[32]](javascript:;)
 ----------------------
 
-Erste Scene. Zarathustra ist thöricht mit seinen Thieren, bringt das Honig-Opfer,
+**Erste** Scene. Zarathustra ist thöricht mit seinen Thieren, bringt das Honig-Opfer,
 vergleicht sich mit der Pinie, dankt auch seinem Unglück, lacht über seinen weißen Bart
 
   
@@ -557,7 +557,7 @@ Gründe der großen Müdigkeit
 
   
 
-Evangelium der Leidenden, bisher ihre Zeit.
+Evangelium der Leidenden, bisher **ihre** Zeit.
 
   
 
@@ -570,8 +570,8 @@ Heuchelei.
 [29[33]](javascript:;)
 ----------------------
 
-Zarathustra 5: volle Anerkennung des Menschlichen in Betreff der sichtbaren Welt — Abweisung der idealistischen Philosophie und Erklärung aus Sattheit, Widerwillen am Menschen. — Die
-„Falschheit“ in den Dingen zu erklären als Resultat unserer schaffenden Kraft!
+Zarathustra 5: volle Anerkennung des Menschlichen in Betreff der sichtbaren Welt — **Abweisung** der idealistischen Philosophie und Erklärung aus Sattheit, Widerwillen am Menschen. — Die
+„Falschheit“ in den Dingen zu erklären als Resultat **unserer** schaffenden Kraft!
 
 [29[34]](javascript:;)
 ----------------------
@@ -595,7 +595,7 @@ Veredelung — Veradelung.
 [29[37]](javascript:;)
 ----------------------
 
-Ob die Macht bei den Vielen oder bei den Wenigen sei, das Gefühl so oder so bestimmt eine oligarchische oder ochlokratische Form.
+Ob die Macht bei den Vielen oder bei den Wenigen sei, das Gefühl so oder so bestimmt eine **oligarchische** oder **ochlokratische** Form.
 
 [29[38]](javascript:;)
 ----------------------
@@ -636,7 +636,7 @@ die Heuchler des Glücks
 [29[40]](javascript:;)
 ----------------------
 
-Die neue Aufklärung.
+**Die neue Aufklärung.**
   
 Eine Vorbereitung  
 zur Philosophie der ewigen Wiederkunft.  
@@ -669,7 +669,7 @@ am
 *lies:*am  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Vorherthun!“
+ Vorher**thun**!“
 
 [29[44]](javascript:;)
 ----------------------
@@ -691,7 +691,7 @@ denn du bist ein Falschmünzer schon
 [29[47]](javascript:;)
 ----------------------
 
-Und wer einen Namen dafür will, der mag es heißen: „die Versuchung Zarathustra’s“.
+Und wer einen Namen dafür will, der mag es heißen: **„die Versuchung Zarathustra’s“**.
 
 (Schluß)
 
@@ -711,7 +711,7 @@ Du bist deiner selber satt und müde.
 [29[50]](javascript:;)
 ----------------------
 
-Der wilde Jäger.
+**Der wilde Jäger.**
 
 Du Nachtwind in den Schluchten, was sprichst du?
 
@@ -720,18 +720,18 @@ Du Nachtwind in den Schluchten, was sprichst du?
 
 Zum Papst: du hast schöne Hände. Die Hände eines Solchen, der viel Segen ausgetheilt hat.
 
-Zarathustra zu seinen Gästen — ihr werdet in die Höhe gedrückt, zu mir; das Volk sagt
+Zarathustra zu seinen Gästen — ihr werdet in die Höhe **gedrückt**, zu mir; das Volk sagt
 „ihr steigt“
 
 der gute Europäer „ich habe alle Verbrechen begangen. Ich liebe die gefährlichsten Gedanken und die
 gefährlichsten Weiber.
 
-Der Papst: ihr verkennt mich: ich darf aufgeklärter als ihr sein. Lieber ihn in der Gestalt verehren als in gar keiner Gestalt!
+**Der Papst**: ihr verkennt mich: ich darf aufgeklärter als ihr sein. Lieber ihn in **der** Gestalt verehren als in gar keiner Gestalt!
 
 Der welcher sprach: „Gott ist ein Geist“ — der machte bisher den größten Schritt und Sprung zum Unglauben;
 solch Wort ist auf Erden nicht leicht wieder gut zu machen.
 
-Zarathustra zum freiwilligen Bettler: „du hast gewißlich irgend einen Überfluß: gieb mir
+**Zarathustra zum freiwilligen Bettler**: „du hast gewißlich irgend einen Überfluß: gieb mir
 davon ab!“
 
 Daran erkenne ich Zarathustra.
@@ -740,16 +740,16 @@ Daran erkenne ich Zarathustra.
 
 — sie tanzen wohl zum Besten der Armen, es ist jede Scham vor dem Unglücke dahin
 
-— Der Gewissenhafte
+— **Der Gewissenhafte**
 
 Dicht neben dem Blutegel beginnt meine Unwissenheit: aber ich verlernte, mich deshalb zu schämen.
 
 [29[52]](javascript:;)
 ----------------------
 
-Höherer Mensch
+**Höherer Mensch**
 
-im Zeitalter, wo die Zufriedenheit des Pöbels herrscht, ist der Ekel das Abzeichen der höheren Menschen
+im Zeitalter, wo die **Zufriedenheit des Pöbels** herrscht, ist der **Ekel** das Abzeichen der höheren Menschen
 
 [29[53]](javascript:;)
 ----------------------
@@ -795,7 +795,7 @@ Tugend bestraft.
 [29[57]](javascript:;)
 ----------------------
 
-W<anderer>
+W&amp;lt;anderer&amp;gt;
 
 Das Heimweh, nicht nach einem Heim, nicht nach einem Vaterhause und Vaterlande, denn ich hatte Beides nicht:
 sondern das Weh darob, daß ich kein Heim habe.
@@ -834,7 +834,7 @@ schaffen.
 [29[60]](javascript:;)
 ----------------------
 
-Die letzte Sünde
+**Die letzte Sünde**
 
 [29[61]](javascript:;)
 ----------------------
@@ -916,12 +916,12 @@ mit Schwertern, gleich rothgefleckten Schlangen
 
 7. Also sprach Zarathustra.
 
-8. Dionysos oder: die heiligen Orgien
+8. **Dionysos** oder: die heiligen Orgien
 
 [29[66]](javascript:;)
 ----------------------
 
-Mittag und Ewigkeit.
+**Mittag und Ewigkeit.**
 
   
 
@@ -931,11 +931,11 @@ Friedrich Nietzsche.
   
 
 Zweiter Theil:  
-die Herolds-Rufe.
+**die Herolds-Rufe.**
 
   
 
-Mittag und Ewigkeit.
+**Mittag und Ewigkeit.**
 
   
 
@@ -945,25 +945,27 @@ Friedrich Nietzsche.
   
 
 Dritter Theil:  
-der Namenlose segnet.
+**der Namenlose segnet.**
 
 [29[67]](javascript:;)
 ----------------------
 
 von Ouwaroff, Nonnos von Panopolis der Dichter.
 
-Letourneau physiologie des passions (in der
-biblioth<èque> des sciences contemporaines)
+**Letourneau** physiologie des passions (in der
+biblioth&amp;lt;èque&amp;gt; des sciences contemporaines)
 
-Amiel journal intime tom. II Mém<oires> I Viel Castel
+Amiel journal intime tom. II Mém&amp;lt;oires&amp;gt; I Viel Castel
 
-Guyau, esquisse d’une morale (Paris Alcan)
+**Guyau**, esquisse d’une morale (Paris Alcan)
 
-Wellhausen, Skizzen I/Berlin Reimer 1884
+**Wellhausen**, Skizzen I/Berlin Reimer 1884
 
 |  |  |
 | --- | --- |
 | Adolf Schöll, | Goethe |
-| „ | Ges. Aufsätze z<ur> *Erratum:*2. *lies:*z<ur> [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Klass. Litt. (Berlin, Hertz) |
+| „ | Ges. Aufsätze z&amp;lt;ur&amp;gt; *Erratum:*2. *lies:*z&amp;lt;ur&amp;gt; [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Klass. Litt. (Berlin, Hertz) |
 
-Gozzi Casanova Goldoni De Brosses Mayer 4 B<ände>
+Gozzi Casanova Goldoni De Brosses Mayer 4 B&amp;lt;ände&amp;gt;
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -24,7 +24,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [21[2]](javascript:;)
 ---------------------
 
-Die Choephoren.
+**Die Choephoren.**
 
 |  |  |
 | --- | --- |
@@ -38,7 +38,7 @@ Die Choephoren.
 [21[3]](javascript:;)
 ---------------------
 
-Das Plastische. Aeschylus hat nicht, wie Shakespeare, ungeheure bewegte Affektbilder vor
+**Das Plastische.** Aeschylus hat nicht, wie Shakespeare, ungeheure bewegte Affektbilder vor
 Augen, sondern plastisch-ruhende Gruppen.
 
 Die Bewegung geschieht streng symmetrisch. Die Zahl der Verse.
@@ -51,11 +51,11 @@ Quod felix faustum fortunatumque vertat!
 [21[5]](javascript:;)
 ---------------------
 
-Einleitung. Die Erziehung durch Musik bei den Griechen.
+Einleitung. Die **Erziehung durch Musik bei den Griechen.**
 
   
 
-Die Weisheit des tragischen Zeitalters.  
+**Die Weisheit des tragischen Zeitalters.**  
 Der Wettkampf. Empedokles.  
 Die Liebe und die Erziehung. Sokrates.  
 Die Erziehung durch Musik. Pythagoras.  
@@ -65,16 +65,16 @@ Kühnheiten. Eleaten.
 [21[6]](javascript:;)
 ---------------------
 
-Die Philosophie des tragischen Zeitalters.
+**Die Philosophie des tragischen Zeitalters.**
 
   
 
 Die Griechen haben damals philosophirt! Wunderbar!
 
 Wie können wir uns in jenes Zeitalter hineinleben? in die erstaunlichsten Fernblicke? Daß wir sie wirklich
-lebendig nachempfinden, ist Bildung.
+**lebendig nachempfinden**, ist Bildung.
 
-Die „Systeme“ fressen sich auf: eins aber bleibt.
+Die „Systeme“ fressen sich auf: **eins** aber bleibt.
 
 Jeder dieser Philosophen sah einmal die Welt entstehen!
 
@@ -162,14 +162,14 @@ darauf bauen. Wenn man den Glauben hat, so kann man die Wahrheit entbehren.
 [21[14]](javascript:;)
 ----------------------
 
-Was ist es, was die mächtigen Triebe in die Bahn der Wohlfahrt bringt? Im Allgemeinen die Liebe. Die Liebe zur Heimatstadt umschließt und bändigt den agonalen Trieb.
+Was ist es, was die mächtigen Triebe in die Bahn der Wohlfahrt bringt? Im Allgemeinen die **Liebe**. Die **Liebe zur Heimatstadt** umschließt und bändigt den agonalen Trieb.
 
 Die Liebe zum Nächsten überwindet ihn zum Zweck der Erziehung. Im Dienste der Liebe steht die Schönheit: die
 sich steigernde Verklärung, wie sie Plato schildert.
 
-Das Weiterzeugen im Schönen echt hellenisch.
+Das **Weiterzeugen im Schönen** echt hellenisch.
 
-Das Wachsen des Eros zu schildern — Ehe Familie Staat.
+Das Wachsen des **Eros** zu schildern — Ehe Familie Staat.
 
 [21[15]](javascript:;)
 ----------------------
@@ -187,20 +187,20 @@ Anaxagoras. Die Aufklärung und die Begeisterung.
 Eleaten: Logik als Maaß der Dinge — Entwicklung des Seienden logisch streng gegeben über
 die Atomistik hinaus.
 
-Pythagoras. Der Wille in seinen asketischen Absichten. Der Wille tödtend (in der Natur im Wettkampfe des Schwächeren und des Stärkeren).
+Pythagoras. Der Wille in seinen asketischen Absichten. Der Wille **tödtend** (in der Natur im Wettkampfe des Schwächeren und des Stärkeren).
 
 [21[16]](javascript:;)
 ----------------------
 
-Die Philosophen des tragischen Zeitalters
+**Die Philosophen des tragischen Zeitalters**
   
-enthüllen, wie die Tragödie,
+**enthüllen, wie die Tragödie,**
   
-die Welt.
+**die Welt.**
 
   
 
-Einheit des Willens.
+**Einheit des Willens.**
 
   
 
@@ -222,15 +222,15 @@ Aufklärung, Kampf gegen Instinkt: Anaxagoras Socrates Plato.
   
 
 Der Wille zu charakterisiren: seine Methode zum Vernünftigen zu kommen. Wesen der Materie absolute Logik.
-Zeit Raum und Causalität als Wirkungsvoraussetzung.
+Zeit Raum und Causalität als **Wirkungs**voraussetzung.
 
 Es bleiben Kräfte übrig: in jedem kleinsten Augenblick andre Kräfte: im unendlich-kleinsten Zeitraum immer
-eine neue Kraft d.h. die Kräfte sind gar nicht wirklich.
+eine neue Kraft d.h. die Kräfte sind gar nicht **wirklich**.
 
-Es giebt keine eigentliche Wirkung von Kraft auf Kraft: sondern in Wahrheit existirt nur
+Es giebt keine eigentliche **Wirkung** von Kraft auf Kraft: sondern in Wahrheit existirt nur
 ein Schein, ein Bild. Die ganze Materie ist nur die Außenseite: in Wahrheit lebt und wirkt etwas ganz Anderes.
-Unsre Sinne aber sind das Produkt der Materie und der Dinge, ebenso unser
-Geist. Ich meine: man muß von den Naturwissenschaften aus zu einem Ding an sich kommen.
+Unsre Sinne aber sind das **Produkt der Materie und der Dinge**, ebenso **unser
+Geist**. Ich meine: man muß von den **Naturwissenschaften** aus zu einem **Ding an sich** kommen.
 
 Der übrigbleibende Wille — wenn man den erkennenden Intellekt wegrechnet.
 
@@ -252,7 +252,7 @@ jeder Materie nöthig. Aber der Glaube an die sichtbare Materie ist eine reine S
 [21[18]](javascript:;)
 ----------------------
 
-Daß die Natur in allen Reichen gleich verfährt: ein Gesetz, das für den Menschen gilt,
+Daß die Natur in allen Reichen **gleich verfährt**: ein Gesetz, das für den Menschen gilt,
 gilt für alle Natur. Der Mensch wirklich ein Mikrokosmos.
 
 Das Gehirn die höchste Leistung der Natur.
@@ -262,26 +262,26 @@ Das Gehirn die höchste Leistung der Natur.
 
 |  |  |
 | --- | --- |
-| Einleitung. | Unsterblichkeit der großen Momente.  Die Griechen der tragischen Zeit als Philosophen!  Wie haben sie das Dasein empfunden?  Hier steckt ihr ewiger Gehalt. Im Übrigen fressen sich alle Systeme auf. Historienmalerei.  Wir finden in einer Metastase die epischen lyrischen Elemente wieder, alle Requisiten der Tragödie.  Wie lebt man ohne Religion, mit Philosophie? Aber freilich in einem tragisch-künstlerischen Zeitalter. |
-| Thales. Gegensatz der Vorsokratiker gegen die Sokratiker. Ihre Stellung zum Leben ist naiv. Die sieben Weisen als Repräsentanten der ethischen Haupttugenden. Freiheit vom Mythus.  Der Grieche des tragischen Zeitalters denkt eben sich selbst und legt Zeugniß ab. Wie wichtig! Denn bei der Beurtheilung griechischer Tragödien müssen wir immer den Griechen suppliren. | |
+| **Einleitung.** | Unsterblichkeit der großen Momente.  Die Griechen der tragischen Zeit als Philosophen!  **Wie** haben sie das Dasein empfunden?  Hier steckt ihr **ewiger** Gehalt. Im Übrigen fressen sich alle Systeme auf. Historienmalerei.  Wir finden in einer Metastase die epischen lyrischen Elemente wieder, alle Requisiten der Tragödie.  Wie lebt man ohne Religion, mit Philosophie? Aber freilich in einem tragisch-künstlerischen Zeitalter. |
+| Thales. Gegensatz der Vorsokratiker gegen die Sokratiker. Ihre Stellung zum Leben ist **naiv**. Die sieben Weisen als Repräsentanten der ethischen Haupttugenden. Freiheit vom Mythus.  Der Grieche des tragischen Zeitalters denkt eben sich selbst und legt Zeugniß ab. Wie wichtig! Denn bei der Beurtheilung griechischer Tragödien müssen wir immer den Griechen suppliren. | |
 
 [21[20]](javascript:;)
 ----------------------
 
-Der künstlerische Trieb in der Verpuppung als Philosophie.
+Der künstlerische Trieb in der Verpuppung als **Philosophie**.
 
 [21[21]](javascript:;)
 ----------------------
 
-Der Allkünstler und der Allmensch.  
+Der **Allkünstler** und der **Allmensch**.  
 Die Menschen des tragischen Zeitalters.
 
   
 
-Aeschylus als Gesammtkünstler: sein Zuhörer in seiner Werkstatt geschildert.
+Aeschylus als Gesammtkünstler: sein **Zuhörer** in seiner Werkstatt geschildert.
 
 Wir wollen den Griechen kennenlernen, den Aeschylus als seinen Zuhörer kannte. Diesmal benutzen wir seinen
-Philosophen, der in jener Zeit dachte.
+Philosophen, der in jener Zeit **dachte**.
 
 [21[22]](javascript:;)
 ----------------------
@@ -311,18 +311,18 @@ Vernichtung der Instinkte.
 [21[24]](javascript:;)
 ----------------------
 
-Zuerst Aeschylus geschildert als Pentathlos, dann der Zuhörer, an den Philosophentypen.
+**Zuerst Aeschylus geschildert als Pentathlos, dann der Zuhörer, an den Philosophentypen.**
 
 [21[25]](javascript:;)
 ----------------------
 
-Betrachtungen über das Bayreuther
+**Betrachtungen über das****Bayreuther**
 
-*Erratum:*bayreuther  
-*lies:*Bayreuther  
+*Erratum:***bayreuther**  
+*lies:***Bayreuther**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Weihefest im Mai 1872.
+ **Weihefest im Mai 1872.**
 
   
 
@@ -339,7 +339,7 @@ Hoffnung auf Plastik.
 
   
 
-Das Heroische bei W<agner>.
+Das Heroische bei W&amp;lt;agner&amp;gt;.
 
 Die Reichsboten-Bildung.
 
@@ -362,3 +362,5 @@ scenisch.
 Die Sprach-Musik.
 
 Gesund und „ungesund“.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

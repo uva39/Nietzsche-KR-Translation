@@ -7,7 +7,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.chrome import ChromeDriverManager
 from markdownify import markdownify as md
+from bs4 import BeautifulSoup, NavigableString
+
 
 import sys
 
@@ -25,17 +28,17 @@ def setup_driver():
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     return driver
 
-def crawl_ekgwb():
+def crawl_ekgwb(target_id=None):
     driver = setup_driver()
     base_url = "http://www.nietzschesource.org/#eKGWB"
     
     sections_to_crawl = [
-        {"name": "Published Works", "type": "flat"},
-        {"name": "Private Publications", "type": "flat"},
-        {"name": "Authorized Manuscripts", "type": "flat"},
-        {"name": "Posthumous Writings", "type": "flat"},
+        #{"name": "Published Works", "type": "flat"},
+        #{"name": "Private Publications", "type": "flat"},
+        #{"name": "Authorized Manuscripts", "type": "flat"},
+        #{"name": "Posthumous Writings", "type": "flat"},
         {"name": "Posthumous Fragments", "type": "nested"},
-        {"name": "Letters", "type": "nested"},
+        #{"name": "Letters", "type": "nested"},
     ]
     
     try:
@@ -161,6 +164,10 @@ def crawl_ekgwb():
                 for book in books_to_crawl:
                     title = book['title']
                     book_id = book['id']
+
+                    # print(f"Checking book: {book_id}, Target: {target_id}")
+                    if target_id and book_id != target_id:
+                        continue
                     
                     # Sanitize title for filename
                     safe_title = re.sub(r'[\\/*?:"<>|]', "", title)
@@ -196,7 +203,71 @@ def crawl_ekgwb():
                         continue
                     
                     content_html = driver.page_source
-                    markdown_text = md(content_html)
+
+                    # --- New Pre-processing Step ---
+                    soup = BeautifulSoup(content_html, 'html.parser')
+
+                    # 0. Debug: Save raw HTML for analysis (only for the first one or target)
+                    if target_id:
+                        with open(f"debug_{book_id.replace('/', '_')}.html", "w", encoding="utf-8") as f:
+                            f.write(soup.prettify())
+                        print(f"  Saved debug HTML to debug_{book_id.replace('/', '_')}.html")
+
+                    # 1. Fix Angle Brackets Escaping in Text Nodes
+                    # We want the final Markdown to have &lt; and &gt; so it renders as literal < and >.
+                    # BS4 text nodes contain unescaped content (e.g. "<").
+                    # If we set text node to "&lt;", BS4 serializes it as "&amp;lt;".
+                    # Markdownify sees "&amp;lt;" and converts it to "&lt;".
+                    # Final Markdown -> "&lt;" -> Renders as "<".
+                    # This prevents "<s>" from being interpreted as a strikethrough tag.
+                    
+                    for text_node in soup.find_all(string=True):
+                        if isinstance(text_node, NavigableString):
+                            if '<' in text_node or '>' in text_node:
+                                # Skip specific tags where we might want raw HTML (though unlikely in this context)
+                                if text_node.parent.name in ['script', 'style', 'code', 'pre']:
+                                    continue
+                                
+                                # Replace < with &amp;lt; (Result in MD: &lt;)
+                                # We need BS4 to serialize to &amp;lt;?
+                                # If we set text to "&lt;", BS4 makes it "&amp;lt;". MD sees "&amp;lt;" -> "&lt;".
+                                # If we set text to "&amp;lt;", BS4 makes it "&amp;amp;lt;". MD sees "&amp;amp;lt;" -> "&amp;lt;" -> "&lt;".
+                                # Wait. If MD sees "&amp;lt;", it makes it "<".
+                                # If MD sees "&amp;amp;lt;", it makes it "&lt;".
+                                # So we want "&amp;lt;" in the text node string?
+                                # text_node.replace_with(...) takes a string.
+                                # If we pass "&lt;", BS4 escapes the &. -> "&amp;lt;".
+                                # So we theoretically need to pass "&lt;".
+                                # But previous run passed "&lt;" and we got "<".
+                                # So MD converted "&lt;" to "<".
+                                # So we need MD to see "&amp;lt;".
+                                # So we need BS4 to output "&amp;amp;lt;".
+                                # So we need to set text to "&amp;lt;".
+                                
+                                new_text = text_node.replace('<', '&amp;lt;').replace('>', '&amp;gt;')
+                                text_node.replace_with(new_text)
+
+                    # 2. Fix Emphasis (Sperrschrift)
+                    # Analysis of debug HTML showed usage of <span class="bold"> for emphasis.
+                    bold_spans = soup.find_all('span', class_='bold')
+                    print(f"  Found {len(bold_spans)} spans with class 'bold' to convert.")
+                    
+                    for i, span in enumerate(bold_spans):
+                        span.name = 'strong'
+                        # Remove class attribute
+                        del span['class']
+                        # Strip whitespace from text content if it's simple
+                        if span.string:
+                            span.string = span.string.strip()
+                        
+                        # if i == 0:
+                        #     print(f"  [DEBUG] First converted span: {span}")
+
+                    
+                    # Convert back to string for markdownify
+                    processed_html = str(soup)
+                    
+                    markdown_text = md(processed_html)
                     
                     with open(output_path, 'w', encoding='utf-8') as f:
                         f.write(markdown_text)
@@ -215,4 +286,10 @@ def crawl_ekgwb():
         driver.quit()
 
 if __name__ == "__main__":
-    crawl_ekgwb()
+    # Example usage: crawl_ekgwb(target_id="eKGWB/AC") 
+    # For now, let's try to detect the ID for Antichrist or just run normally.
+    # To enable user-requested "check random few" or specific fix, we might want args.
+    if len(sys.argv) > 1:
+        crawl_ekgwb(target_id=sys.argv[1])
+    else:
+        crawl_ekgwb()

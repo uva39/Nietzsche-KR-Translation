@@ -54,7 +54,7 @@ Ich möchte verschenken und austheilen, bis die Weisen unter den Menschen wieder
 
 Dazu muss ich in die Tiefe steigen: wie du des Abends thust, wenn du hinter das Meer gehst und noch der Unterwelt Licht bringst, du überreiches Gestirn!
 
-Ich muss, gleich dir, untergehen, wie die Menschen es nennen, zu denen ich hinab will.
+Ich muss, gleich dir, **untergehen**, wie die Menschen es nennen, zu denen ich hinab will.
 
 So segne mich denn, du ruhiges Auge, das ohne Neid auch ein allzugrosses Glück sehen kann!
 
@@ -112,7 +112,7 @@ Mit Singen, Weinen, Lachen und Brummen lobe ich den Gott, der mein Gott ist. Doc
 
 Als Zarathustra diese Worte gehört hatte, grüsste er den Heiligen und sprach: „Was hätte ich euch zu geben! Aber lasst mich schnell davon, dass ich euch Nichts nehme!“ — Und so trennten sie sich von einander, der Greis und der Mann, lachend, gleichwie zwei Knaben lachen.
 
-Als Zarathustra aber allein war, sprach er also zu seinem Herzen: „Sollte es denn möglich sein! Dieser alte Heilige hat in seinem Walde noch Nichts davon gehört, dass Gott todt ist!“ —
+Als Zarathustra aber allein war, sprach er also zu seinem Herzen: „Sollte es denn möglich sein! Dieser alte Heilige hat in seinem Walde noch Nichts davon gehört, dass **Gott todt** ist!“ —
 
   
 
@@ -124,7 +124,7 @@ Als Zarathustra aber allein war, sprach er also zu seinem Herzen: „Sollte es d
 
 Als Zarathustra in die nächste Stadt kam, die an den Wäldern liegt, fand er daselbst viel Volk versammelt auf dem Markte: denn es war verheissen worden, dass man einen Seiltänzer sehen solle. Und Zarathustra sprach also zum Volke:
 
-Ich lehre euch den Übermenschen. Der Mensch ist Etwas, das überwunden werden soll. Was habt ihr gethan, ihn zu überwinden?
+**Ich lehre euch den Übermenschen.** Der Mensch ist Etwas, das überwunden werden soll. Was habt ihr gethan, ihn zu überwinden?
 
 Alle Wesen bisher schufen Etwas über sich hinaus: und ihr wollt die Ebbe dieser grossen Fluth sein und lieber noch zum Thiere zurückgehn, als den Menschen überwinden?
 
@@ -136,9 +136,9 @@ Wer aber der Weiseste von euch ist, der ist auch nur ein Zwiespalt und Zwitter v
 
 Seht, ich lehre euch den Übermenschen!
 
-Der Übermensch ist der Sinn der Erde. Euer Wille sage: der Übermensch sei der Sinn der Erde!
+Der Übermensch ist der Sinn der Erde. Euer Wille sage: der Übermensch **sei** der Sinn der Erde!
 
-Ich beschwöre euch, meine Brüder, bleibt der Erde treu und glaubt Denen nicht, welche euch von überirdischen Hoffnungen reden! Giftmischer sind es, ob sie es wissen oder nicht.
+Ich beschwöre euch, meine Brüder, **bleibt der Erde treu** und glaubt Denen nicht, welche euch von überirdischen Hoffnungen reden! Giftmischer sind es, ob sie es wissen oder nicht.
 
 Verächter des Lebens sind es, Absterbende und selber Vergiftete, deren die Erde müde ist: so mögen sie dahinfahren!
 
@@ -190,7 +190,7 @@ Der Mensch ist ein Seil, geknüpft zwischen Thier und Übermensch, — ein Seil 
 
 Ein gefährliches Hinüber, ein gefährliches Auf-dem-Wege, ein gefährliches Zurückblicken, ein gefährliches Schaudern und Stehenbleiben.
 
-Was gross ist am Menschen, das ist, dass er eine Brücke und kein Zweck ist: was geliebt werden kann am Menschen, das ist, dass er ein Übergang und ein Untergang ist.
+Was gross ist am Menschen, das ist, dass er eine Brücke und kein Zweck ist: was geliebt werden kann am Menschen, das ist, dass er ein **Übergang** und ein **Untergang** ist.
 
 Ich liebe Die, welche nicht zu leben wissen, es sei denn als Untergehende, denn es sind die Hinübergehenden.
 
@@ -246,7 +246,7 @@ Sie haben Etwas, worauf sie stolz sind. Wie nennen sie es doch, was sie stolz ma
 
 Drum hören sie ungern von sich das Wort „Verachtung“. So will ich denn zu ihrem Stolze reden.
 
-So will ich ihnen vom Verächtlichsten sprechen: das aber ist der letzte Mensch.“
+So will ich ihnen vom Verächtlichsten sprechen: das aber ist **der letzte Mensch**.“
 
 Und also sprach Zarathustra zum Volke:
 
@@ -260,7 +260,7 @@ Ich sage euch: man muss noch Chaos in sich haben, um einen tanzenden Stern gebä
 
 Wehe! Es kommt die Zeit, wo der Mensch keinen Stern mehr gebären wird. Wehe! Es kommt die Zeit des verächtlichsten Menschen, der sich selber nicht mehr verachten kann.
 
-Seht! Ich zeige euch den letzten Menschen.
+Seht! Ich zeige euch **den letzten Menschen**.
 
 „Was ist Liebe? Was ist Schöpfung? Was ist Sehnsucht? Was ist Stern?“ — so fragt der letzte Mensch und blinzelt.
 
@@ -522,7 +522,7 @@ Aber sagt, meine Brüder, was vermag noch das Kind, das auch der Löwe nicht ver
 
 Unschuld ist das Kind und Vergessen, ein Neubeginnen, ein Spiel, ein aus sich rollendes Rad, eine erste Bewegung, ein heiliges Ja-sagen.
 
-Ja, zum Spiele des Schaffens, meine Brüder, bedarf es eines heiligen Ja-sagens: seinen Willen will nun der Geist, seine Welt gewinnt sich der Weltverlorene.
+Ja, zum Spiele des Schaffens, meine Brüder, bedarf es eines heiligen Ja-sagens: **seinen** Willen will nun der Geist, **seine** Welt gewinnt sich der Weltverlorene.
 
 Drei Verwandlungen nannte ich euch des Geistes: wie der Geist zum Kameele ward, und zum Löwen das Kameel, und der Löwe zuletzt zum Kinde. — —
 
@@ -640,7 +640,7 @@ Ach, ihr Brüder, dieser Gott, den ich schuf, war Menschen-Werk und -Wahnsinn, g
 
 Mensch war er, und nur ein armes Stück Mensch und Ich: aus der eigenen Asche und Gluth kam es mir, dieses Gespenst, und wahrlich! Nicht kam es mir von Jenseits!
 
-Was geschah, meine Brüder? Ich überwand mich, den Leidenden, ich trug meine eigne Asche zu Berge, eine hellere Flamme erfand ich mir. Und siehe! Da wich das Gespenst von mir!
+Was geschah, meine Brüder? Ich überwand mich, den Leidenden, ich trug meine eigne Asche zu Berge, eine hellere Flamme erfand ich mir. Und siehe! Da **wich** das Gespenst von mir!
 
 Leiden wäre es mir jetzt und Qual dem Genesenen, solche Gespenster zu glauben: Leiden wäre es mir jetzt und Erniedrigung. Also rede ich zu den Hinterweltlern.
 
@@ -737,9 +737,9 @@ Es ist mehr Vernunft in deinem Leibe, als in deiner besten Weisheit. Und wer wei
 
 Dein Selbst lacht über dein Ich und seine stolzen Sprünge. „Was sind mir diese Sprünge und Flüge des Gedankens? sagt es sich. Ein Umweg zu meinem Zwecke. Ich bin das Gängelband des Ich’s und der Einbläser seiner Begriffe.“
 
-Das Selbst sagt zum Ich: „hier fühle Schmerz!“ Und da leidet es und denkt nach, wie es nicht mehr leide — und dazu eben soll es denken.
+Das Selbst sagt zum Ich: „hier fühle Schmerz!“ Und da leidet es und denkt nach, wie es nicht mehr leide — und dazu eben **soll** es denken.
 
-Das Selbst sagt zum Ich: „hier fühle Lust!“ Da freut es sich und denkt nach, wie es noch oft sich freue — und dazu eben soll es denken.
+Das Selbst sagt zum Ich: „hier fühle Lust!“ Da freut es sich und denkt nach, wie es noch oft sich freue — und dazu eben **soll** es denken.
 
 Den Verächtern des Leibes will ich ein Wort sagen. Dass sie verachten, das macht ihr Achten. Was ist es, das Achten und Verachten und Werth und Willen schuf?
 
@@ -782,7 +782,7 @@ Besser thätest du, zu sagen: „unaussprechbar ist und namenlos, was meiner See
 
 Deine Tugend sei zu hoch für die Vertraulichkeit der Namen: und musst du von ihr reden, so schäme dich nicht, von ihr zu stammeln.
 
-So sprich und stammle: „Das ist mein Gutes, das liebe ich, so gefällt es mir ganz, so allein will ich das Gute.
+So sprich und stammle: „Das ist **mein** Gutes, das liebe ich, so gefällt es mir ganz, so allein will ich das Gute.
 
 Nicht will ich es als eines Gottes Gesetz, nicht will ich es als eine Menschen-Satzung und -Nothdurft: kein Wegweiser sei es mir für Über-Erden und Paradiese.
 
@@ -812,7 +812,7 @@ Auszeichnend ist es, viele Tugenden zu haben, aber ein schweres Loos; und Manche
 
 Mein Bruder, ist Krieg und Schlacht böse? Aber nothwendig ist diess Böse, nothwendig ist der Neid und das Misstrauen und die Verleumdung unter deinen Tugenden.
 
-Siehe, wie jede deiner Tugenden begehrlich ist nach dem Höchsten: sie will deinen ganzen Geist, dass er ihr Herold sei, sie will deine ganze Kraft in Zorn, Hass und Liebe.
+Siehe, wie jede deiner Tugenden begehrlich ist nach dem Höchsten: sie will deinen ganzen Geist, dass er **ihr** Herold sei, sie will deine ganze Kraft in Zorn, Hass und Liebe.
 
 Eifersüchtig ist jede Tugend auf die andre, und ein furchtbares Ding ist Eifersucht. Auch Tugenden können an der Eifersucht zu Grunde gehn.
 
@@ -859,7 +859,7 @@ Ein Bild machte diesen bleichen Menschen bleich. Gleichwüchsig war er seiner Th
 
 Immer sah er sich nun als Einer That Thäter. Wahnsinn heisse ich diess: die Ausnahme verkehrte sich ihm zum Wesen.
 
-Der Strich bannt die Henne; der Streich, den er führte, bannte seine arme Vernunft — den Wahnsinn nach der That heisse ich diess.
+Der Strich bannt die Henne; der Streich, den er führte, bannte seine arme Vernunft — den Wahnsinn **nach** der That heisse ich diess.
 
 Hört, ihr Richter! Einen anderen Wahnsinn giebt es noch: und der ist vor der That. Ach, ihr krocht mir nicht tief genug in diese Seele!
 
@@ -1009,13 +1009,13 @@ Und wenn er reden wollte, er würde Niemanden haben, der ihn verstünde: so hoch
 
 Nun wartet er und wartet, — worauf wartet er doch? Er wohnt dem Sitze der Wolken zu nahe: er wartet wohl auf den ersten Blitz?
 
-Als Zarathustra diess gesagt hatte, rief der Jüngling mit heftigen Gebärden: „Ja, Zarathustra, du sprichst die Wahrheit. Nach meinem Untergange verlangte ich, als ich in die Höhe wollte, und du bist der Blitz, auf den ich wartete! Siehe, was bin ich noch, seitdem du uns erschienen bist? Der Neid auf dich ist’s, der mich zerstört hat!“ — So sprach der Jüngling und weinte bitterlich. Zarathustra aber legte seinen Arm um ihn und führte ihn mit sich fort.
+Als Zarathustra diess gesagt hatte, rief der Jüngling mit heftigen Gebärden: „Ja, Zarathustra, du sprichst die Wahrheit. Nach meinem Untergange verlangte ich, als ich in die Höhe wollte, und du bist der Blitz, auf den ich wartete! Siehe, was bin ich noch, seitdem du uns erschienen bist? Der **Neid** auf dich ist’s, der mich zerstört hat!“ — So sprach der Jüngling und weinte bitterlich. Zarathustra aber legte seinen Arm um ihn und führte ihn mit sich fort.
 
 Und als sie eine Weile mit einander gegangen waren, hob Zarathustra also an zu sprechen:
 
 Es zerreisst mir das Herz. Besser als deine Worte es sagen, sagt mir dein Auge alle deine Gefahr.
 
-Noch bist du nicht frei, du suchst noch nach Freiheit. Übernächtig machte dich dein Suchen und überwach.
+Noch bist du nicht frei, du **suchst** noch nach Freiheit. Übernächtig machte dich dein Suchen und überwach.
 
 In die freie Höhe willst du, nach Sternen dürstet deine Seele. Aber auch deine schlimmen Triebe dürsten nach Freiheit.
 
@@ -1084,7 +1084,7 @@ Oder aber: sie greifen nach Zuckerwerk und spotten ihrer Kinderei dabei: sie hä
 
 Ihre Weisheit lautet: „ein Thor, der leben bleibt, aber so sehr sind wir Thoren! Und das eben ist das Thörichtste am Leben!“ —
 
-„Das Leben ist nur Leiden“ — so sagen Andre und lügen nicht: so sorgt doch, dass ihr aufhört! So sorgt doch, dass das Leben aufhört, welches nur Leiden ist!
+„Das Leben ist nur Leiden“ — so sagen Andre und lügen nicht: so sorgt doch, dass **ihr** aufhört! So sorgt doch, dass das Leben aufhört, welches nur Leiden ist!
 
 Und also laute die Lehre eurer Tugend „du sollst dich selber tödten! Du sollst dich selber davonstehlen!“ —
 
@@ -1133,7 +1133,7 @@ Und wenn ihr nicht Heilige der Erkenntniss sein könnt, so seid mir wenigstens d
 
 Ich sehe viel Soldaten: möchte ich viel Kriegsmänner sehn! „Ein-form“ nennt man’s, was sie tragen: möge es nicht Ein-form sein, was sie damit verstecken!
 
-Ihr sollt mir Solche sein, deren Auge immer nach einem Feinde sucht — nach eurem Feinde. Und bei Einigen von euch giebt es einen Hass auf den ersten Blick.
+Ihr sollt mir Solche sein, deren Auge immer nach einem Feinde sucht — nach **eurem** Feinde. Und bei Einigen von euch giebt es einen Hass auf den ersten Blick.
 
 Euren Feind sollt ihr suchen, euren Krieg sollt ihr führen und für eure Gedanken! Und wenn euer Gedanke unterliegt, so soll eure Redlichkeit darüber noch Triumph rufen!
 
@@ -1218,7 +1218,7 @@ Ja, auch euch erräth er, ihr Besieger des alten Gottes! Müde wurdet ihr im Kam
 
 Helden und Ehrenhafte möchte er um sich aufstellen, der neue Götze! Gerne sonnt er sich im Sonnenschein guter Gewissen, — das kalte Unthier!
 
-Alles will er euch geben, wenn ihr ihn anbetet, der neue Götze: also kauft er sich den Glanz eurer Tugend und den Blick eurer stolzen Augen.
+Alles will er **euch** geben, wenn **ihr** ihn anbetet, der neue Götze: also kauft er sich den Glanz eurer Tugend und den Blick eurer stolzen Augen.
 
 Ködern will er mit euch die Viel-zu-Vielen! Ja, ein Höllenkunststück ward da erfunden, ein Pferd des Todes, klirrend im Putz göttlicher Ehren!
 
@@ -1250,7 +1250,7 @@ Frei steht noch grossen Seelen ein freies Leben. Wahrlich, wer wenig besitzt, wi
 
 Dort, wo der Staat aufhört, da beginnt erst der Mensch, der nicht überflüssig ist: da beginnt das Lied des Nothwendigen, die einmalige und unersetzliche Weise.
 
-Dort, wo der Staat aufhört, — so seht mir doch hin, meine Brüder! Seht ihr ihn nicht, den Regenbogen und die Brücken des Übermenschen? —
+Dort, wo der Staat **aufhört**, — so seht mir doch hin, meine Brüder! Seht ihr ihn nicht, den Regenbogen und die Brücken des Übermenschen? —
 
   
 
@@ -1279,7 +1279,7 @@ Wenig begreift das Volk das Grosse, das ist: das Schaffende. Aber Sinne hat es f
 
 Um die Erfinder von neuen Werthen dreht sich die Welt: — unsichtbar dreht sie sich. Doch um die Schauspieler dreht sich das Volk und der Ruhm: so ist es der Welt Lauf.
 
-Geist hat der Schauspieler, doch wenig Gewissen des Geistes. Er glaubt immer an Das, womit er am stärksten glauben macht, — glauben an sich macht!
+Geist hat der Schauspieler, doch wenig Gewissen des Geistes. Er glaubt immer an Das, womit er am stärksten glauben macht, — glauben an **sich** macht!
 
 Morgen hat er einen neuen Glauben und übermorgen einen neueren. Rasche Sinne hat er, gleich dem Volke, und veränderliche Witterungen.
 
@@ -1295,7 +1295,7 @@ Dieser Unbedingten und Drängenden halber sei ohne Eifersucht, du Liebhaber der 
 
 Dieser Plötzlichen halber gehe zurück in deine Sicherheit: nur auf dem Markt wird man mit Ja? oder Nein? überfallen.
 
-Langsam ist das Erleben allen tiefen Brunnen: lange müssen sie warten, bis sie wissen, was in ihre Tiefe fiel.
+Langsam ist das Erleben allen tiefen Brunnen: lange müssen sie warten, bis sie wissen, **was** in ihre Tiefe fiel.
 
 Abseits vom Markte und Ruhme begiebt sich alles Grosse: abseits vom Markte und Ruhme wohnten von je die Erfinder neuer Werthe.
 
@@ -1427,7 +1427,7 @@ Und oft will man mit der Liebe nur den Neid überspringen. Und oft greift man an
 
 „Sei wenigstens mein Feind!“ — so spricht die wahre Ehrfurcht, die nicht um Freundschaft zu bitten wagt.
 
-Will man einen Freund haben, so muss man auch für ihn Krieg führen wollen: und um Krieg zu führen, muss man Feind sein können.
+Will man einen Freund haben, so muss man auch für ihn Krieg führen wollen: und um Krieg zu führen, muss man Feind sein **können**.
 
 Man soll in seinem Freunde noch den Feind ehren. Kannst du an deinen Freund dicht herantreten, ohne zu ihm überzutreten?
 
@@ -1620,9 +1620,9 @@ Ach, es giebt so viel grosse Gedanken, die thun nicht mehr als ein Blasebalg: si
 
 Frei nennst du dich? Deinen herrschenden Gedanken will ich hören und nicht, dass du einem Joche entronnen bist.
 
-Bist du ein Solcher, der einem Joche entrinnen durfte? Es giebt Manchen, der seinen letzten Werth wegwarf, als er seine Dienstbarkeit wegwarf.
+Bist du ein Solcher, der einem Joche entrinnen **durfte**? Es giebt Manchen, der seinen letzten Werth wegwarf, als er seine Dienstbarkeit wegwarf.
 
-Frei wovon? Was schiert das Zarathustra! Hell aber soll mir dein Auge künden: frei wozu?
+Frei wovon? Was schiert das Zarathustra! Hell aber soll mir dein Auge künden: frei **wozu**?
 
 Kannst du dir selber dein Böses und dein Gutes geben und deinen Willen über dich aufhängen wie ein Gesetz? Kannst du dir selber Richter sein und Rächer deines Gesetzes?
 
@@ -1827,7 +1827,7 @@ Also sprach Zarathustra.
 
 Ich habe eine Frage für dich allein, mein Bruder: wie ein Senkblei werfe ich diese Frage in deine Seele, dass ich wisse, wie tief sie sei.
 
-Du bist jung und wünschest dir Kind und Ehe. Aber ich frage dich: bist du ein Mensch, der ein Kind sich wünschen darf?
+Du bist jung und wünschest dir Kind und Ehe. Aber ich frage dich: bist du ein Mensch, der ein Kind sich wünschen **darf**?
 
 Bist du der Siegreiche, der Selbstbezwinger, der Gebieter der Sinne, der Herr deiner Tugenden? Also frage ich dich.
 
@@ -1873,7 +1873,7 @@ Eure Liebe zum Weibe und des Weibes Liebe zum Manne: ach, möchte sie doch Mitle
 
 Aber auch noch eure beste Liebe ist nur ein verzücktes Gleichniss und eine schmerzhafte Gluth. Eine Fackel ist sie, die euch zu höheren Wegen leuchten soll.
 
-Über euch hinaus sollt ihr einst lieben! So lernt erst lieben! Und darum musstet ihr den bittern Kelch eurer Liebe trinken.
+Über euch hinaus sollt ihr einst lieben! So **lernt** erst lieben! Und darum musstet ihr den bittern Kelch eurer Liebe trinken.
 
 Bitterniss ist im Kelch auch der besten Liebe: so macht sie Sehnsucht zum Übermenschen, so macht sie Durst dir, dem Schaffenden!
 
@@ -1916,7 +1916,7 @@ Also zu sterben ist das Beste; das Zweite aber ist: im Kampfe zu sterben und ein
 
 Aber dem Kämpfenden gleich verhasst wie dem Sieger ist euer grinsender Tod, der heranschleicht wie ein Dieb — und doch als Herr kommt.
 
-Meinen Tod lobe ich euch, den freien Tod, der mir kommt, weil ich will.
+Meinen Tod lobe ich euch, den freien Tod, der mir kommt, weil **ich** will.
 
 Und wann werde ich wollen? — Wer ein Ziel hat und einen Erben, der will den Tod zur rechten Zeit für Ziel und Erben.
 
@@ -1940,7 +1940,7 @@ Mancher wird nie süss, er fault im Sommer schon. Feigheit ist es, die ihn an se
 
 Viel zu Viele leben und viel zu lange hängen sie an ihren Ästen. Möchte ein Sturm kommen, der all diess Faule und Wurmfressne vom Baume schüttelt!
 
-Möchten Prediger kommen des schnellen Todes! Das wären mir die rechten Stürme und Schüttler an Lebensbäumen! Aber ich höre nur den langsamen Tod predigen und Geduld mit allem „Irdischen“.
+Möchten Prediger kommen des **schnellen** Todes! Das wären mir die rechten Stürme und Schüttler an Lebensbäumen! Aber ich höre nur den langsamen Tod predigen und Geduld mit allem „Irdischen“.
 
 Ach, ihr predigt Geduld mit dem Irdischen? Dieses Irdische ist es, das zu viel Geduld mit euch hat, ihr Lästermäuler!
 
@@ -2007,7 +2007,7 @@ Mit dem Auge des Diebes blickt sie auf alles Glänzende; mit der Gier des Hunger
 
 Krankheit redet aus solcher Begierde und unsichtbare Entartung; von siechem Leibe redet die diebische Gier dieser Selbstsucht.
 
-Sagt mir, meine Brüder: was gilt uns als Schlechtes und Schlechtestes? Ist es nicht Entartung? — Und auf Entartung rathen wir immer, wo die schenkende Seele fehlt.
+Sagt mir, meine Brüder: was gilt uns als Schlechtes und Schlechtestes? Ist es nicht **Entartung**? — Und auf Entartung rathen wir immer, wo die schenkende Seele fehlt.
 
 Aufwärts geht unser Weg, von der Art hinüber zur Über-Art. Aber ein Grauen ist uns der entartende Sinn, welcher spricht: „Alles für mich.“
 
@@ -2105,7 +2105,7 @@ Und das ist der grosse Mittag, da der Mensch auf der Mitte seiner Bahn steht zwi
 
 Alsda wird sich der Untergehende selber segnen, dass er ein Hinübergehender sei; und die Sonne seiner Erkenntniss wird ihm im Mittage stehn.
 
-„Todt sind alle Götter: nun wollen wir, dass der Übermensch lebe.“ — diess sei einst am grossen Mittage unser letzter Wille! —
+**„Todt sind alle Götter: nun wollen wir, dass der Übermensch****lebe.“** — diess sei einst am grossen Mittage unser letzter Wille! —
 
   
 
@@ -2116,3 +2116,5 @@ Also sprach Zarathustra.
 \*
 
 \*                 \*
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

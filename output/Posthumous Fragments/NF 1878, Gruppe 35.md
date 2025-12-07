@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [35[1]](javascript:;)
 ---------------------
 
-Vernachläss<igung> der Arbeiter — — —
+Vernachläss&amp;lt;igung&amp;gt; der Arbeiter — — —
 
 [35[2]](javascript:;)
 ---------------------
@@ -26,16 +26,16 @@ Paris die einzige Stadt — — —
 [35[3]](javascript:;)
 ---------------------
 
-Zu „barock“ — — —
+Zu **„barock“**— — —
 
 [35[4]](javascript:;)
 ---------------------
 
 Manches darf der Mann der Männer wegen nicht zurückhalten: aber mit Schmerz gedenkt er der Jünglinge, welche
 seine Aufrichtigkeit verwirren, vom guten Wege ablenken könnte: je mehr sie bis jetzt gewohnt waren, auf die
-Worte ihres leitenden Lehrers zu hören. Da bleibt ihm, um ihre Erziehung nicht <zu> stören, nur
+Worte ihres leitenden Lehrers zu hören. Da bleibt ihm, um ihre Erziehung nicht &amp;lt;zu&amp;gt; stören, nur
 übrig, sich gründlich und hart von ihnen zu entfernen und den Zügel seines Einflusses auf sie ihnen selber
-zuzuwerfen. Mögen sie wider ihn sich selber treu bleiben! So bleiben sie ihm treu, ohne
+zuzuwerfen. Mögen sie **wider ihn** sich selber treu bleiben! So bleiben sie ihm treu, ohne
 es zu wissen.
 
 [35[5]](javascript:;)
@@ -53,3 +53,5 @@ Für manche Naturen mag es gut sein, ihren Leidenschaften von Zeit zu Zeit ein F
 
 — — — vorausgesetzt daß er in heiterer Bescheidenheit zu schwatzen versteht aus diesem Gefühl einer
 saturnalischen Ungebundenheit. Die Zuhörer — — —
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

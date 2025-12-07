@@ -217,3 +217,5 @@ Sprachst zu mir: „Nun höre, was ich bin!
 „Gifte denkt mein Hirn — nun kniee! Bete!
 
 „Oder modre Wurm! Irrlicht, verglimm!“
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [32[1]](javascript:;)
 ---------------------
 
-Zurückführung der moralischen Werthschätzungen auf ihre Wurzeln.
+**Zurückführung der moralischen Werthschätzungen auf ihre Wurzeln.**
 
 [32[2]](javascript:;)
 ---------------------
@@ -24,7 +24,7 @@ Zurückführung der moralischen Werthschätzungen auf ihre Wurzeln.
 Er sprach für uns Alle, du erlöstest uns vom Ekel — dies ist eine der schlimmsten Krankheiten dieser
 schlimmen Zeit
 
-Zarathustra: welches Geschenk brachtet ihr mir — ihr könnt selber nicht wissen, was ihr
+Zarathustra: welches Geschenk brachtet ihr mir — ihr könnt selber nicht wissen, **was** ihr
 mir eben schenktet!
 
   
@@ -40,27 +40,27 @@ Sündenbewußtsein)
 
   
 
-Zarathustra’s Rede vom höheren Menschen
+**Zarathustra’s Rede vom höheren Menschen**
 
-ihr müßt die Vortheile dieser schlimmen Zeit ausfindig machen.
+ihr müßt die **Vortheile** dieser schlimmen Zeit ausfindig machen.
 
 [32[3]](javascript:;)
 ---------------------
 
-Die gute Mahlzeit.
+**Die gute Mahlzeit.**
 
-Von den höheren Menschen.
+**Von den höheren Menschen.**
 
-Das Lied des Zauberers.
+**Das Lied des Zauberers.**
 
-Von der Wissenschaft.
+**Von der Wissenschaft.**
 
-Die Rosenrede.
+**Die Rosenrede.**
 
 [32[4]](javascript:;)
 ---------------------
 
-Zum „häßlichsten Menschen“
+**Zum „häßlichsten Menschen“**
 
 Verzage nicht, oh meine Seele, ob des Menschen! Lieber weide noch dein Auge an allem seinem Bösen, Seltsamen
 und Furchtbaren!
@@ -68,7 +68,7 @@ und Furchtbaren!
 „Der Mensch ist böse“ — so sprachen zu meinem Troste mir noch aller Zeiten Weiseste. Oh daß das Heute mich
 seufzen lehrte: „Wie! Ist es auch noch wahr?“
 
-„Wie? Ist dieser Trost dahin?“ Also seufzte mein Kleinmuth. Nun aber tröstete mich
+„Wie? Ist dieser Trost dahin?“ Also seufzte **mein** Kleinmuth. Nun aber tröstete mich
 dieser Göttlichste.
 
 [32[5]](javascript:;)
@@ -87,7 +87,7 @@ nämlich, meine Liebste, bist die Ausnahme. Und Zarathustra läßt dich grüßen
 ---------------------
 
 Du schlimmer alter Zauberer, das ist dein Bestes und Redlichstes was ich an dir ehre: daß du endlich deiner
-müde wurdest und aussprachst: „ich bin nicht groß“. Spät genug kamst du zu dieser
+müde wurdest und aussprachst: „ich bin nicht groß“. Spät genug kamst du zu **dieser**
 Redlichkeit.
 
 Du Friedloser, Falscher, Unerlösbarer, wie manche Stunde flüsterte dir dein Teufel zu: „mache vorerst doch an
@@ -131,7 +131,7 @@ So standen sie bei einander, sich stumm bei den Händen haltend und hinausblicke
 [32[8]](javascript:;)
 ---------------------
 
-Das Heimweh ohne Heim. Der Wanderer.
+**Das Heimweh ohne Heim. Der Wanderer.**
 
 1 : also daß wenig mir zum ewigen Juden fehlt, es sei denn, daß ich weder ewig und
 auch nicht Jude bin.
@@ -146,7 +146,7 @@ ein.
 
 3 — wenn der Teufel sich häutet, fällt auch sein Name ab: der ist auch Haut.
 
-4 — nur wer weiß, wohin er fährt, weiß auch, was sein Fahrwind
+4 — nur wer weiß, wohin er fährt, weiß auch, was **sein** Fahrwind
 ist
 
 5 — er hat sein Ziel verloren: wehe, wie wird er seinen Verlust verscherzen und
@@ -161,7 +161,7 @@ Schmeichelt ihnen, daß sie einen Weg haben sollen!
 8 — auch der Heiligste denkt: „ich will leben, wie ich Lust habe — oder ich habe
 keine Lust mehr zu leben!
 
-9 — wo darf ich heimisch sein? Darnach suchte ich am Längsten:
+9 — wo darf **ich** heimisch sein? Darnach suchte ich am Längsten:
 das Suchen blieb meine stäte Heimsuchung.
 
 10 — ich wollte es nicht vorher, so muß ich es schon nachher wollen — Alles muß ich
@@ -282,9 +282,9 @@ Rückgrat
 
 19
 
-Der gute Europäer
+**Der gute Europäer**
 
-1, 9, 24, 2 (lachend über die Vaterländer) Heimatlos,
+1, 9, 24, 2 (lachend über die **Vaterländer**) Heimatlos,
 Herumstreicher 13, 14 genüßlich 8
 
 6, 5, 4, 35 ziellos, durch Nichts im Zaum gehalten 37, 30
@@ -294,23 +294,23 @@ Herumstreicher 13, 14 genüßlich 8
 21, 32, 33 an die stärksten (stimulantesten) Gedanken, die kältesten Bäder 23
 gewohnt:
 
-27 voraus: das heißt Europäerthum
+27 **voraus:** das heißt **Europäerthum**
 
 16, 28 und greise Völker gleich Juden
 
-15, 36 (Scham überwinden — — 22, 20 Verbrechen des Gedankens 34
+15, 36 (Scham überwinden — — 22, 20 **Verbrechen** des Gedankens 34
 „alles ist erlaubt“
 
 7, 25, 3, 16, 26, 29 voller Hohn über die Moral
 
 18, 12 Gefahr in einen Käfich sich selber einzufangen
 
-19 des Geistes müde, verekelt
+19 **des Geistes müde, verekelt**
 
 [32[9]](javascript:;)
 ---------------------
 
-Der Wissen- und Gewissenhafte.
+**Der Wissen- und Gewissenhafte.**
 
 — Ein Erkennender von heute, welcher fragt: was ist doch der Mensch? Gott selber als Thier? Einstmals
 nämlich, dünkt mich, wollte Gott zum Thiere werden.
@@ -330,7 +330,7 @@ durch Gründe euch diesen Glauben umwerfen!
 — ist nicht das Loben zudringlicher als alles Tadeln? Ich verlernte auch das Loben, es fehlt darin an
 Scham.
 
-— diese Wissen- und Gewissenhaften; wie sie mit schonender Hand — tödten!
+— diese Wissen- und Gewissenhaften; wie sie mit schonender Hand — **tödten**!
 
 — ihr Gedächtniß sagt „das that ich“, ihr Stolz aber sagt „das konntest du nicht thun“: und läßt sich nicht
 erbitten. Zuletzt — giebt ihr Gedächtniß nach.
@@ -409,7 +409,7 @@ frohlocken: „hier ist endlich Wirklichkeit!“
 [32[10]](javascript:;)
 ----------------------
 
-Der freiwillige Bettler.
+**Der freiwillige Bettler.**
 
 Erst dann kehrte ich zur Natur zurück
 
@@ -494,7 +494,7 @@ Ich liebe die Stille, und jene lieben den Lärm, darum — — —
 [32[11]](javascript:;)
 ----------------------
 
-Vom höheren Menschen.
+**Vom höheren Menschen.**
 
 „So ihr nicht werdet wie die Kinder“ — Nein! Nein! Drei Mal Nein! Das ist vorbei. Wir wollen auch gar nicht
 ins Himmelreich.
@@ -503,12 +503,12 @@ Männer sind wir worden, so wollen wir das Erden-Reich.
 
   
 
-(Nein! Nein! Drei Mal Nein! Was Himmel-Bimmel-bamm! Bam! Wir wollen nicht ins
+(Nein! Nein! Drei Mal Nein! Was Himmel-Bimmel-bamm! Bam! Wir **wollen** nicht ins
 Himmelreich: das Erden-reich soll unser sein!)
 
   
 
-„ihr werdet in die Höhe gedrückt, zu mir: mag das Volk sprechen „ihr steigt“. Ihr seid mir — Gedrückte!
+„ihr werdet in die Höhe gedrückt, zu mir: mag das Volk sprechen „ihr steigt“. Ihr seid mir — **Gedrückte**!
 
   
 
@@ -518,7 +518,7 @@ bezeichnet:
 [32[12]](javascript:;)
 ----------------------
 
-Die sieben Einsamkeiten.
+**Die sieben Einsamkeiten.**
 
 Und wenn ich einmal mit Wölfen heulen muß, so mache ich’s gut genug; und mitunter sagte ein Wolf: „du heulst
 besser als wir Wölfe“.
@@ -526,7 +526,7 @@ besser als wir Wölfe“.
 [32[13]](javascript:;)
 ----------------------
 
-Der Rundgesang.
+**Der Rundgesang.**
 
 Als sie aber lange so gestanden hatten und die Heimlichkeit der Nacht ihnen näher und näher ans Herz kam, da
 geschah das, was an jenem erstaunlichen langen Tage das Erstaunlichste war. Zuerst nämlich begann der
@@ -539,10 +539,10 @@ ersten Male zufrieden, daß ich dies ganze Leben lebte.
 Und daß ich soviel bezeuge, ist mir noch lange nicht genug. Es lohnt sich auf der Erde zu leben; Ein Tag mit
 Zarathustra zusammen lehrte mich die Erde lieben.
 
-„War Das — das Leben? will ich zum Tode sprechen. Wohlan! Noch Ein Mal! Um Zarathustra’s
+„War **Das** — das Leben? will ich zum Tode sprechen. Wohlan! Noch Ein Mal! Um Zarathustra’s
 Willen!“
 
-Meine Freunde, was dünket euch? Wollt ihr nicht gleich mir zum Tode sprechen: „War Das —
+Meine Freunde, was dünket euch? Wollt ihr nicht gleich mir zum Tode sprechen: „War **Das** —
 das Leben? Um Zarathustra’s Willen — wohlan! Noch Ein Mal!“ —
 
 Und du unser Arzt und Heiland — laß uns, oh Zarathustra, fürderhin mit dir gehen!
@@ -552,7 +552,7 @@ Also sprach der häßlichste Mensch; es war aber nicht lange vor Mitternacht.
 Da griff Zarathustra ungestüm nach seiner Hand, preßte sie in seine Hände und rief erschüttert aus, mit der
 Stimme eines Solchen, dem ein kostbares Geschenk und Kleinod unversehens vom Himmel fällt:
 
-„Wie? Du sprichst das, mein Freund? Dies ist dein Wille? Dies ist
+„Wie? **Du** sprichst das, mein Freund? **Dies** ist dein Wille? Dies ist
 dein ganzer letzter bester größter Wille? Wohlan! Sprich es noch Ein Mal!“ — —
 
 Und der häßlichste Mensch that, wie ihm geheißen wurde: sobald aber die andern höheren Menschen sein Gelöbniß
@@ -633,7 +633,7 @@ Horch! Horch! Es naht die tiefe Mitternacht!“
 
   
 
-Da fiel der freiwillige Bettler ein: „Der Schritt verräth, ob Einer schon auf seiner
+Da fiel der freiwillige Bettler ein: „Der Schritt verräth, ob Einer schon auf **seiner**
 Bahn schreitet: seht Zarathustra gehn! Wer aber seinem Ziele nahe kommt, der — tanzt.
 
 Horch! Horch! Es naht die tiefe Mitternacht!“
@@ -655,15 +655,15 @@ Horch! Horch! Es naht die tiefe Mitternacht!“
 [32[14]](javascript:;)
 ----------------------
 
-Die letzte Sünde.
+**Die letzte Sünde.**
 
 1.
 
 Aber was geschah damals mit Zarathustra selber? — Ja, wer möchte das errathen, was sich in jener Nacht mit
 ihm zutrug! — Er fiel nämlich, als er das Glück seiner höheren Menschen sah, mit einem Male nieder wie ein
 Eichbaum, der lange vielen Holzschlägern widerstanden hat —, schwer, plötzlich, zum Schrecken für die selber,
-welche ihn fällen wollten. Die Axt aber, die Zarathustra darniederschlug — Mitleiden hieß
-diese Axt, Mitleiden mit dem Glück dieser höheren Menschen.
+welche ihn fällen wollten. Die Axt aber, die Zarathustra darniederschlug — **Mitleiden** hieß
+diese Axt, Mitleiden mit dem **Glück** dieser höheren Menschen.
 
 2.
 
@@ -695,15 +695,15 @@ flohen. Und in Kürze war Zarathustra allein und stand staunend am Eingange sein
 doch?“ sagte er zu seinem Herzen, während der starke Löwe schüchtern sich an seine Kniee drängte. „Was hörte
 ich doch eben für einen Nothschrei!“ Da aber kam ihm die Erinnerung, und er begriff mit Einem Male Alles, was
 geschehen war. Hier ist der Stein, sprach er frohlockend, auf dem saß ich gestern am Morgen: da hörte ich den
-gleichen Schrei. Oh ihr höheren Menschen, es war ja euer Nothschrei!
+gleichen Schrei. Oh ihr höheren Menschen, es war ja **euer** Nothschrei!
 
 Und meine Noth war’s vor der jener alte Wahrsager gestern am Morgen mich warnte; zu meiner letzten Sünde
-wollte er mich verführen, zum Mitleiden mit eurer Noth!
+wollte er mich verführen, zum Mitleiden mit **eurer** Noth!
 
-Aber euer Glück war meine Gefahr —: Mitleiden mit euerm Glücke, das
-— errieth er nicht! Oh was erriethen diese höheren Menschen wohl von mir!
+Aber euer **Glück** war meine Gefahr —: Mitleiden mit euerm Glücke, **das**
+— errieth er nicht! Oh was erriethen diese höheren Menschen wohl von **mir**!
 
-Wohlan! sie sind davon — und ich gieng nicht mit ihnen: oh Sieg! oh Glück! Dies gerieth
+Wohlan! sie sind davon — und ich gieng **nicht** mit ihnen: oh Sieg! oh Glück! Dies gerieth
 mir gut!
 
 Du aber, mein Thier und Wahrzeichen, du lachender Löwe, du bleibst bei mir! Wohlan! Wohlauf! Du kamst mir zu
@@ -720,12 +720,12 @@ der lachende Löwe kam. Oh Sieg! Oh Glück!
 [32[15]](javascript:;)
 ----------------------
 
-Das Zeichen.
+**Das Zeichen.**
 
 Des Morgens aber nach dieser Nacht sprang Zarathustra von seinem Lager auf, gürtete sich die Lenden und kam
 heraus aus seiner Höhle, glühend und froh, wie die Morgensonne, die aus dunklen Bergen kommt.
 
-„Sie schlafen noch, rief er, während ich wache — das sind nicht
+„Sie schlafen noch, rief er, während **ich** wache — **das** sind nicht
 meine rechten Gefährten, diese höheren Menschen.
 
 Höhere als sie müssen kommen, Hochgemuthere, Freiere, Hellere — lachende Löwen müssen zu mir kommen: was geht
@@ -734,11 +734,11 @@ mich all dies kleine kurze wunderliche Elend an!
 Deß warte ich nun, deß warte ich nun“ — und indem Zarathustra so sprach, setzte er sich nachdenklich auf den
 Stein vor seiner Höhle.
 
-„Wer soll der Erde Herr sein? so begann er wieder. Nun! Diese da wahrlich nicht — lieber
-noch zerschlüge ich Diese da mit meinem Hammer. Ich selber aber bin ein Hammer.
+„Wer soll der Erde Herr sein? so begann er wieder. Nun! **Diese** da wahrlich nicht — lieber
+noch zerschlüge ich **Diese** da mit meinem Hammer. Ich selber aber bin ein Hammer.
 
 Sie halten es gerade auf der Erde aus, wenn man sie mit Erdenlust lüstern macht, ihnen herzhaft zuspricht.
-Wie! auf dieser Erde es nur — aushalten? Um der Erde Willen schäme ich mich solcher
+Wie! auf dieser Erde es nur — **aushalten**? Um der Erde Willen schäme ich mich solcher
 Reden.
 
 Lieber will ich doch wilde böse Thiere um mich als diese zahmen Mißrathenen; wie selig will ich sein, wieder
@@ -753,45 +753,45 @@ aus dem Wege geht und keinen Zeugen hat.
 [32[16]](javascript:;)
 ----------------------
 
-Das Honig-Opfer.
+**Das Honig-Opfer.**
 
-Der Nothschrei.
+**Der Nothschrei.**
 
-Gespräch mit den Königen.
+**Gespräch mit den Königen.**
 
-Der Wanderer.
+**Der Wanderer.**
 
-Der freiwillige Bettler.
+**Der freiwillige Bettler.**
 
-Der Papst außer Dienst.
+**Der Papst außer Dienst.**
 
-Der Büßer des Geistes.
+**Der Büßer des Geistes.**
 
-Der Gewissenhafte.
+**Der Gewissenhafte.**
 
-Der häßlichste Mensch.
+**Der häßlichste Mensch.**
 
-Der Mittagsschläfer.
+**Der Mittagsschläfer.**
 
-Die Begrüßung.
+**Die Begrüßung.**
 
-Das Abendmahl.
+**Das Abendmahl.**
 
-Vom höheren Menschen.
+**Vom höheren Menschen.**
 
-Das Lied des Zauberers.
+**Das Lied des Zauberers.**
 
-Von der Wissenschaft.
+**Von der Wissenschaft.**
 
-Der Nachtisch-Psalm.
+**Der Nachtisch-Psalm.**
 
-Der Auferstandene.
+**Der Auferstandene.**
 
-Mitternachts.
+**Mitternachts.**
 
-Der wilde Jäger.
+**Der wilde Jäger.**
 
-Der lachende Löwe.
+**Der lachende Löwe.**
 
 [32[17]](javascript:;)
 ----------------------
@@ -817,81 +817,81 @@ Zur Heilkunst.
 [32[18]](javascript:;)
 ----------------------
 
-Von der großen Politik.
+**Von der großen Politik.**
 
-Was ist deutsch?
+**Was ist deutsch?**
 
-Gegen den Begriff „Strafe“.
+**Gegen den Begriff „Strafe“.**
 
-Zur
+**Zur**
 
-*Erratum:*Zu  
-*lies:*Zur  
+*Erratum:***Zu**  
+*lies:***Zur**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Heilkunst.
+**Heilkunst.**
 
-Gegen die Nächsten-Liebe.
+**Gegen die Nächsten-Liebe.**
 
-Die großen Geister.
+**Die großen Geister.**
 
-Von den Griechen.
+**Von den Griechen.**
 
-Christen und Heilige.
+**Christen und Heilige.**
 
-Die Tartüfferie in der Moral.
+**Die Tartüfferie in der Moral.**
 
-Gegen unsere Erziehung.
+**Gegen unsere Erziehung.**
 
-Heerden-Moral.
+**Heerden-Moral.**
 
 [32[19]](javascript:;)
 ----------------------
 
-Staatsdienst und Staatsdiener.
+**Staatsdienst und Staatsdiener.**
 
-Gelehrte — Verkehrte.
+**Gelehrte — Verkehrte.**
 
-Was von den Griechen zu lernen ist
+**Was von den Griechen zu lernen ist**
 
 Vom Aberglauben der Philosophen.
 
 Der gute Europäer (Socialismus)
 
-Gottlos, N. 125
+**Gottlos, N.** 125
 
 Gegen Mitleiden und Nächstenliebe
 
 [32[20]](javascript:;)
 ----------------------
 
-Zu Gunsten des Adels.
+**Zu Gunsten des Adels.**
 
-Gegen die Aufhebung der Sklaverei.
+**Gegen die Aufhebung der Sklaverei.**
 
-Gegen die Socialisten, Nr. 235
+Gegen die **Socialisten**, Nr. 235
 
-Vom Tode des Staates.
+**Vom Tode des Staates.**
 
-Moral als Heerden-Instinkt.
+**Moral als Heerden-Instinkt.**
 
-Der große Mann.
+**Der große Mann.**
 
-Die Unvernunft in der Strafe.
+**Die Unvernunft in der Strafe.**
 
-Wie verlogen die Künstler sind.
+**Wie verlogen die Künstler sind.**
 
 Gegen die Pessimisten und andere — — —
 
-Der gute Mensch und die Verdummung.
+**Der gute Mensch und die Verdummung.**
 
-Der Werth falscher Auslegung, Nr. 126
+**Der Werth falscher Auslegung**, Nr. 126
 
-Der feine Obscurantism
+**Der feine Obscurantism**
 
-Was ist deutsch.
+**Was ist deutsch.**
 
-Mißverständniß des Genies.
+**Mißverständniß des Genies.**
 
 [32[21]](javascript:;)
 ----------------------
@@ -903,11 +903,11 @@ Oh Mitternacht! Oh Ewigkeit!
 [32[22]\*](javascript:;)
 ------------------------
 
-Die nihilistische Katastrophe:
+**Die nihilistische Katastrophe:**
 
 |  |  |
 | --- | --- |
-| Zeichen: | Überhandnehmen des Mitleids  die geistige Übermüdung und Zuchtlosigkeit  Lust oder Unlust — darauf reduzirt sich Alles —   Gegenbewegung gegen die Kriegs-Glorie  Gegenbewegung gegen die Abgrenzung und Nationen-Feindschaft „Fraternität“…  die Religion unnützlich geworden, so weit sie noch Fabeln und harte Sätze redet |
+| Zeichen: | Überhandnehmen des **Mitleids**  die **geistige** Übermüdung und Zuchtlosigkeit  **Lust** oder **Unlust** — darauf reduzirt sich **Alles** —   Gegenbewegung gegen die **Kriegs**-Glorie  Gegenbewegung gegen die Abgrenzung und **Nationen-Feindschaft** „Fraternität“…  die **Religion** unnützlich geworden, so weit sie noch Fabeln und harte Sätze redet |
 
   
 
@@ -917,3 +917,5 @@ gleichsam an einer alten Festung
 
 \* Anfang 1888
 entstanden
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -40,7 +40,7 @@ Musik und Cultus.
 
 Die christliche Religion als ethische Demokratie.
 
-*Erratum:*Die christliche Religion als ethische Demokratie  
+*Erratum:***Die christliche Religion als ethische Demokratie**  
 *lies:*Die christliche Religion als ethische Demokratie.  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -64,7 +64,7 @@ Die Demokratie als Rationalism
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  siegend und kämpfend mit dem Instinkt:
-letzterer verzerrt sich.
+letzterer **verzerrt** sich.
 
 [2[4]](javascript:;)
 --------------------
@@ -82,11 +82,11 @@ Das ägyptisirende Hellenenthum.
 [2[5]](javascript:;)
 --------------------
 
-Das Christenthum siegte als unmystische Offenbarungsreligion über eine ganz mystisch
+Das Christenthum siegte als **unmystische** Offenbarungsreligion über eine ganz mystisch
 gewordene Welt.
 
 Ungeheure Einwirkung der Wissenschaft: für den θεωρητικός mußte erst eine
-Lebensart geschaffen werden: im echten
+**Lebensart** geschaffen werden: im echten
 
 *Erratum:*ersten  
 *lies:*echten  
@@ -98,7 +98,7 @@ war er unmöglich.
 [2[6]](javascript:;)
 --------------------
 
-Die hellenischen Wahnvorstellungen als nothwendige und für das Hellenenthum heilsame
+Die hellenischen **Wahnvorstellungen** als nothwendige und für das Hellenenthum heilsame
 Vorkehrungen des Instinktes.
 
 Das Griechenthum muß nach den Perserkriegen zu Grunde gehn. Jene waren das Erzeugniß starker und im Grunde
@@ -106,7 +106,7 @@ unhellenischer Idealität. Das Grundelement, der heiß und glühend geliebte Kle
 mit den anderen bethätigte, war bei jenem Kriege überwunden worden, vor allem ethisch. Bis zu ihm existierte
 nur der trojanische Krieg. Nach ihm der Alexanderzug.
 
-Die Sage hatte die Trojaner hellenisirt: es war jener Krieg ein Wettspiel der hellenischen Götter.
+Die Sage hatte die Trojaner hellenisirt: es war jener Krieg ein Wettspiel der **hellenischen** Götter.
 
 Höhepunkt der Philosophie bei den Eleaten und Empedocles.
 
@@ -116,7 +116,7 @@ Der „Wille“ des Hellenischen ist mit dem Perserkrieg gebrochen: der Intellek
 [2[7]](javascript:;)
 --------------------
 
-Alterthümliche Betrachtungen.
+**Alterthümliche Betrachtungen.**
 
   
 
@@ -173,7 +173,7 @@ Gefühlsleben der Meister eine geraume Zeit voraus zu sein. Entwicklung der unve
 zur Phrase.
 
 Die Dichtung ist häufig auf einem Wege zur Musik: entweder indem sie die allerzartesten Begriffe aufsucht, in
-deren Bereich das Grobmaterielle des Begriffs fast entschwindet — — —
+deren Bereich das Grobmaterielle des **Begriffs** fast entschwindet — — —
 
 [2[11]](javascript:;)
 ---------------------
@@ -181,7 +181,7 @@ deren Bereich das Grobmaterielle des Begriffs fast entschwindet — — —
 Wort und Musik in der Oper. Die Worte sollen uns die Musik deuten, die Musik aber spricht die Seele der
 Handlung aus. Worte sind ja die mangelhaftesten Zeichen.
 
-Wir werden durch das Drama zur Phantasie des Willens angeregt, ein scheinbar unsinniger
+Wir werden durch das Drama zur **Phantasie des Willens** angeregt, ein scheinbar unsinniger
 Ausdruck; durch das Epos zur Phantasie des Intellekts, speziell des Auges.
 
 Ein gelesenes Drama kann die Phantasie des Willens nicht recht zur Aufregung und Produktion stimmen, weil die
@@ -193,7 +193,7 @@ angeregt, meistens durch ἀνάμνησις.
 [2[12]](javascript:;)
 ---------------------
 
-Lessing als der ideale Gelehrte, Herder der ideale Dilettant.
+**Lessing als der ideale Gelehrte, Herder der ideale Dilettant.**
 
 [2[13]](javascript:;)
 ---------------------
@@ -281,8 +281,8 @@ Urtheilen überliefert ist, ist entweder congenial oder nicht, im letzteren Fall
 abblassend, entweder panegyrisch, mikrologisch, feindselig usw.
 
 Hier frage ich nun sofort: ist es die Ausgeburt jenes Wahnes oder das unendlich schätzbare Zeugniß eines
-großen Genius über den anderen, was sich in jener symbolischen Erzählung vom wettkämpfenden
-Homer verbirgt? Homer, der in — — —
+großen Genius über den anderen, was sich in jener symbolischen Erzählung vom **wettkämpfenden
+Homer** verbirgt? Homer, der in — — —
 
 [2[17]](javascript:;)
 ---------------------
@@ -296,8 +296,8 @@ alles Glänzende möglichst dunkel zu färben.
 [2[18]](javascript:;)
 ---------------------
 
-Es ist das Zeugniß eines ethischen Genies, voll der äußersten Unverzagtheit vor der
-öffentlichen Meinung: es ist gar kein aesthetisches Urtheil, weil Homer und Hesiod nur Namen für Stoffe sind, nicht für
+Es ist das Zeugniß eines **ethischen** Genies, voll der äußersten Unverzagtheit vor der
+öffentlichen Meinung: es ist gar kein aesthetisches Urtheil, weil Homer und Hesiod nur Namen für **Stoffe** sind, nicht für
 
 *Erratum:*nicht  
 *lies:*nicht für  
@@ -377,8 +377,8 @@ hätte.
 ---------------------
 
 Die sichere und nie entschwundene Schätzung von Homer ist bei den Griechen der ältesten Zeit ein großes
-Räthsel: wenn sie überhaupt existirt hat. Aber die Alleinherrschaft von Ilias und Odyssee
-ist erst später, offenbar durch die Kykliker anerkannt worden. Dies zeigt am besten, wie hoch sie stehen.
+Räthsel: **wenn** sie überhaupt existirt hat. Aber die Alleinherrschaft von Ilias und Odyssee
+ist erst später, offenbar durch die Kykliker anerkannt worden. Dies zeigt am besten, wie **hoch** sie stehen.
 
 Die unbedingte Schätzung Homer’s ist bei den Griechen (auch der besten Zeit) reiner Instinkt. Wie mögen sie
 nur
@@ -428,7 +428,7 @@ und Vervollständigung des nächsten Genies entgegensehend.
 ---------------------
 
 Allem Schaffen haftet etwas Dunkles Elementares an. Das Selbstbewußtsein hat eine Binde vor den Augen. Homer
-ist blind. Dies gilt von den reflektirtesten Zeitaltern. Von der bewußten Aesthetik des
+ist blind. Dies gilt von den reflektirtesten Zeitaltern. Von der **bewußten** Aesthetik des
 homerischen Zeitalters kann man sich kaum einen hinreichend naiven Begriff machen. Hier war alles Trieb. Die
 Zuhörer waren noch unreflektirter: wie Kinder Mährchen hören, schätzten sie die Sänger ab, nach dem besten
 Stoffe. Aber der Sänger trat ihnen überhaupt zurück: der Stoff ist das Begehrte. Eigenthum und Fremdthum sind
@@ -447,12 +447,12 @@ Hoffmanns „Dichter“ unnöthig.
 ---------------------
 
 Es ist Unsinn von einer Vereinigung von Drama Lyrik und Epos im alten Heldenliede zu sprechen. Denn als das
-Dramatische wird hier genommen das Tragische: während das unterschiedlich Dramatische nur das Mimische ist.
+Dramatische wird hier genommen das Tragische: während das unterschiedlich Dramatische nur das **Mimische** ist.
 
-Der erschütternde Ausgang, φόβος und ἔλεος haben gar nichts mit dem Drama zu thun: und sind der Tragödie zu eigen, nicht indem sie Drama ist. Jede Geschichte kann sie haben: die musikalische Lyrik aber am meisten.
+Der erschütternde Ausgang, φόβος und ἔλεος haben gar nichts mit dem Drama zu thun: und sind der Tragödie zu eigen, **nicht** indem sie Drama ist. Jede Geschichte kann sie haben: die musikalische Lyrik aber am meisten.
 Wenn das langsame aber ruhige Entfalten von Bild um Bild Sache des Epos ist, so steht es als Kunstwerk
 überhaupt höher. Alle Kunst verlangt ein „außer sich sein“, eine ἔκστασις;
-von hier aus geschieht der Schritt zum Drama, indem wir nicht in uns zurückkehren,
+von hier aus geschieht der Schritt zum Drama, indem wir **nicht** in uns zurückkehren,
 sondern in fremdes Sein einkehren, in unserer ἔκστασις; indem wir uns als
 Verzauberte geberden. Daher das tiefe Erstaunen beim Anschauen des Dramas: der Boden wankt, der Glaube an die
 Unlöslichkeit des Individuums.
@@ -465,7 +465,7 @@ bekommen aus anderen Individuen.
 
 Die Entstehung der dramatischen Grundgesetze soll erklärt werden.
 
-Die großen Aufzüge mit Darstellungen waren schon Drama.
+Die großen Aufzüge mit Darstellungen waren schon **Drama**.
 
 Das Epos will, daß wir Bilder vor Augen bekommen.
 
@@ -546,8 +546,8 @@ Suidas und Hesychius.
 [2[31]](javascript:;)
 ---------------------
 
-Einleitung. Geschichte der Entwicklung der
-aesthetischen Anschauung bei
+**Einleitung.** Geschichte der Entwicklung der
+**aesthetischen Anschauung** bei
 den Griechen.
 
 Damit verbunden die Entwicklung der Vorstellungen über die alten Epiker.
@@ -555,3 +555,5 @@ Damit verbunden die Entwicklung der Vorstellungen über die alten Epiker.
 Die Entwicklung des Apollinischen zum Lehrsatze.
 
 Hesiod zu Homer wie Socrates zur Tragoedie.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

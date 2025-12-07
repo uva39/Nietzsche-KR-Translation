@@ -13,7 +13,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 
 [9 = M II 2. Winter 1880–81]
 
-Die Pflugschar.
+**Die Pflugschar.**
   
 Gedanken  
 über die moralischen Vorurtheile.  
@@ -56,23 +56,23 @@ der intellektuellen Gemeinheit.
 [9[5]](javascript:;)
 --------------------
 
-Allen moralischen Systemen, welche befehlen, wie man handeln solle, fehlte die Kenntniß,
-wie man handelt — aber alle meinten sie zu haben, wie jeder Mensch es meint.
+Allen moralischen Systemen, welche befehlen, wie man **handeln solle**, fehlte die Kenntniß,
+**wie man handelt** — aber alle meinten sie zu haben, wie jeder Mensch es meint.
 
 [9[6]](javascript:;)
 --------------------
 
 Ist man mit einem großen Ziele nicht bloß über seine Verleumdung erhaben, sondern auch über sein Unrecht?
-Sein Verbrechen? — So scheint es mir. Nicht daß man es durch sein Ziel heiligte: aber man
+Sein Verbrechen? — So scheint es mir. Nicht daß man es durch sein Ziel **heiligte**: aber man
 hat es groß gemacht.
 
 [9[7]](javascript:;)
 --------------------
 
-Was könnten die Deutschen ihrem Schopenhauer verdanken? Daß er den gläsernen und
+Was **könnten** die Deutschen ihrem Schopenhauer verdanken? Daß er den gläsernen und
 glitzernden Idealismus edler allgemeiner Worte und stolzer Gefühle vernichtete, welchen namentlich Schiller
 und sein Kreis verbreitet haben und den man am besten aus dem Briefwechsel Wilhelm von
-Humbold<t>s mit Schiller kennen lernt — jenen falschen „Classicismus“, der einen innerlichen Haß
+Humbold&amp;lt;t&amp;gt;s mit Schiller kennen lernt — jenen falschen „Classicismus“, der einen innerlichen Haß
 gegen die natürliche Nacktheit und schreckliche Schönheit der Dinge hatte und unwillkürlich mit edel
 verstellten Gebärden und edel verstellten Stimmen in Bezug auf alles (Charaktere Leidenschaften Zeiten Sitten)
 eine verkleidete und nur vorgebliche Nacktheit und Gräcität, eine Art Canova-Stil forderte: welches Alles — es
@@ -88,10 +88,10 @@ besseren und eigenen Wege sich bestärkend. Schopenhauer der Grobe hat die Teufe
 werden lassen — er kam nicht ganz so weit, auch die Teufelei des Guten und die Schönheit und Güte der Teufelei
 zu entdecken und aufzudecken. — Jedenfalls wäre man jetzt sehr rückständig, wenn man nach Schopenhauer noch
 wie Schiller empfinden würde: aber freilich dem gegenwärtigen Deutschen, wie er wirklich seitdem geworden ist,
-damit
+**damit**
 
 *Erratum:*damit  
-*lies:*damit  
+*lies:***damit**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  immer noch hundertfach überlegen!
@@ -118,12 +118,12 @@ Du weißt wohl, es ist eine
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Ehrensache, öffentlich über den Charakter und
-die Motive eines Menschen zu reden. Freund! Es ist auch eine Ehrensache, über sie bei dir nachzudenken!
+die Motive eines Menschen zu reden. Freund! Es ist auch eine Ehrensache, über sie bei dir **nachzudenken**!
 
 [9[11]](javascript:;)
 ---------------------
 
-[…] Kaum klingt es jetzt glaublich, daß etwas Entgegengesetztes auch als gut gelten will und gegolten hat — „ich“ mehr und stärker sagen als die gewöhnlichen Menschen, sich
+[…] Kaum klingt es jetzt glaublich, daß **etwas Entgegengesetztes** auch als **gut** gelten will und gegolten hat — „ich“ mehr und stärker sagen als die gewöhnlichen Menschen, sich
 selber gegen sie durchsetzen, sich stemmen gegen jeden Versuch,
 
 *Erratum:*Versuch  
@@ -135,16 +135,16 @@ Werkzeug und Gliede zu machen, sich unabhängig machen, auf die Gefahr hin, die 
 oder zu opfern, wenn die Unabhängigkeit nicht anders zu erreichen ist, einen Nothzustand der Gesellschaft
 jenen billigen ungefährlichen einheitlichen Wirthschaften vorziehen, und die kostspielige verschwenderische
 durchaus persönliche Art zu leben als Bedingung betrachten, damit „der Mensch“ höher mächtiger fruchtbarer
-kühner ungewöhnlicher und seltener werde — damit die Menschheit an Zahl abnehme und an Werth
-wachse.
+kühner ungewöhnlicher und seltener werde — damit die Menschheit **an Zahl abnehme und an Werth
+wachse**.
 
 [9[12]](javascript:;)
 ---------------------
 
 In den Sitten überleben uns unsre Ereignisse und Gedanken: falls sie kräftig genug waren Sitten zu bilden:
 aber wer dürfte in die Sitten der Gegenwart wie in einen Spiegel der Gegenwart sehen: wir müssen also in den
-Sitten der Gegenwart die Menschen und Dinge vor hundert und mehr Jahren suchen, nicht uns und
-unsre Erlebnisse: an diesen werden vielleicht unsre Enkel zu tragen haben!
+Sitten der Gegenwart die Menschen und Dinge vor hundert und mehr Jahren suchen, nicht **uns und
+unsre Erlebnisse**: an**diesen** werden vielleicht unsre Enkel zu tragen haben!
 
 [9[13]](javascript:;)
 ---------------------
@@ -167,7 +167,7 @@ Ohnmächtigen Vereinsamten Unbeweibten Kinderlosen schadlos zu halten suchte.
 ---------------------
 
 […] die vollkommene Erkenntniß würde uns muthmaaßlich kalt und leuchtend wie ein Gestirn um die Dinge kreisen
-lassen — eine kurze Weile noch! Und dann wäre unser Ende da, als das Ende
+lassen — eine kurze Weile noch! Und dann wäre **unser** Ende da, als das Ende
 erkenntnißdurstiger Wesen, welche am Ziehen von immer feineren Fäden von Interessen ein Spinnen-Dasein und
 Spinnen-Glück genießen — und die zuletzt vielleicht freiwillig, den dünnsten und zartesten Faden selber
 abschneiden, weil aus ihm kein noch feinerer sich ziehen lassen will. —
@@ -178,10 +178,10 @@ abschneiden, weil aus ihm kein noch feinerer sich ziehen lassen will. —
 Das Genie wird verkannt und verkennt sich selber, und dies ist sein Glück! Wehe, wenn es sich selber erkennt!
 Wenn es in die Selbstbewunderung, den lächerlichsten und gefährlichsten aller Zustände verfällt! Es ist ja am
 reichsten und fruchtbarsten Menschen nichts mehr, wenn er sich bewundert, er ist damit tiefer hinabgestiegen,
-geringer geworden als er war — damals, wo er sich noch an sich selber freuen konnte! Wo
-er noch an sich selber litt! Da hatte er noch die Stellung zu sich wie zu einem Gleichen!
-Da gab es noch Tadel und Mahnung und Scham! Schaut er aber zu sich hinauf, so ist er sein
-Diener und Anbeter geworden und darf nichts mehr thun als gehorchen, das heißt: sich selber nachmachen! Zuletzt schlägt er sich mit seinen eigenen Kränzen todt; oder er bleibt
+geringer geworden als er war — damals, wo er sich noch **an sich selber** freuen konnte! Wo
+er noch an sich selber litt! Da hatte er noch die Stellung zu sich wie zu einem **Gleichen**!
+Da gab es noch Tadel und Mahnung und Scham! Schaut er aber zu sich **hinauf**, so ist er sein
+Diener und Anbeter geworden und darf nichts mehr thun als gehorchen, das heißt: **sich****selber nachmachen**! Zuletzt schlägt er sich mit seinen eigenen Kränzen todt; oder er bleibt
 vor sich selber als Statue übrig, das heißt als Stein und Versteinerung!
 
 [9[17]](javascript:;)
@@ -190,3 +190,5 @@ vor sich selber als Statue übrig, das heißt als Stein und Versteinerung!
 „Es giebt so viele Morgenröthen, die noch nicht geleuchtet haben.“
 
 Rigveda.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

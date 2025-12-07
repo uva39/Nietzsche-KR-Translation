@@ -16,10 +16,10 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [12[1]](javascript:;)
 ---------------------
 
-Einfluß der Oresteia. Vordramatischer Theil.
+Einfluß der **Oresteia**. Vordramatischer Theil.
 
-Die Linie der Geschlossenheit höchster Art in der Form bis zu einem Spiele wie mit
-zarten Wolken, bei keinem Componisten.
+Die Linie der **Geschlossenheit** höchster Art in der Form bis zu einem Spiele wie mit
+zarten **Wolken**, bei keinem Componisten.
 
 Die Unruhe des Menschen in Ämtern, deren Unvereinbarkeit er durchschaute.
 
@@ -35,7 +35,7 @@ In einer entnüchterten Welt weist er auf die Kräfte hin, woraus alles Gute und
 entnüchterte Welt gewachsen ist.
 
 Er läßt einen neuen Strom solcher Urkräfte über uns hinströmen und zeigt die Unversiegtheit der inneren
-Quelle der Mensch<en->Natur.
+Quelle der Mensch&amp;lt;en-&amp;gt;Natur.
 
 [12[3]](javascript:;)
 ---------------------
@@ -57,30 +57,30 @@ mache, ob ich es freilich schlecht genug mache.
 [12[4]](javascript:;)
 ---------------------
 
-Zukunft von den Bayreuther Sommern: Vereinigung aller wirklich lebendigen Menschen:
+Zukunft **von den Bayreuther Sommern**: Vereinigung aller wirklich lebendigen Menschen:
 Künstler bringen ihre Kunst heran, Schriftsteller ihre Werke zum Vortrage, Reformatoren ihre neuen Ideen. Ein
-allgemeines Bad der Seelen soll es sein: dort erwacht der neue Genius, dort entfaltet
+allgemeines **Bad der Seelen** soll es sein: dort erwacht der neue Genius, dort entfaltet
 sich ein Reich der Güte.
 
 [12[5]](javascript:;)
 ---------------------
 
-Wagners Musik macht den Eindruck erhabener Arbeit, im Vergleich zu der flacheren Manier
+Wagners Musik macht den Eindruck **erhabener Arbeit**, im Vergleich zu der flacheren Manier
 der älteren.
 
-Das „Unbeugsam-Unbändige“.
+Das **„Unbeugsam-Unbändige“**.
 
 [12[6]](javascript:;)
 ---------------------
 
-Wagner’s Nachwirkung — alle Gefahren, denen er als Künstler entgieng, wird man völlig
-erst erkennen, wenn es Nachahmer geben sollte — hier ist nun aufzuzählen.
+Wagner’s **Nachwirkung** — alle Gefahren, denen er als Künstler entgieng, wird man völlig
+erst erkennen, wenn es Nachahmer geben sollte — hier ist nun **aufzuzählen**.
 
 [12[7]](javascript:;)
 ---------------------
 
 Erst glauben wir einem Philosophen. Dann sagen wir: „mag er in der Art, wie er seine Sätze beweist, Unrecht
-haben, die Sätze sind wahr“. Endlich aber: es ist gleichgültig, wie die Sätze lauten, die Natur des Mannes steht uns für hundert Systeme ein. Als Lehrender mag er hundertmal Unrecht haben:
+haben, die Sätze sind wahr“. Endlich aber: es ist gleichgültig, wie die Sätze lauten, die **Natur** des Mannes steht uns für hundert Systeme ein. Als Lehrender mag er hundertmal Unrecht haben:
 aber sein Wesen selber ist im Recht; daran wollen wir uns halten. Es ist an einem Philosophen etwas, was nie
 an einer Philosophie sein kann: nämlich die Ursache zu vielen Philosophien, der große Mensch.
 
@@ -94,7 +94,7 @@ sentimentalisch ganz
 *lies:*sentimentalisch ganz  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- aufgehoben sind; sie passen
+ aufgehoben sind; sie **passen**
 nicht.
 
 [12[9]](javascript:;)
@@ -106,7 +106,7 @@ Degeneration: jetzige Dichter und Litteraten, junges Deutschland, Romantik, Goet
 
 Progeneration: Luther Goethe Schiller Schopenhauer Beethoven Wagner.
 
-Fortpflanzung des deutschen Wesens hoch über allem (Nach-Luther).
+Fortpflanzung des deutschen Wesens **hoch über** allem (Nach-Luther).
 
 Was die Kunst in unsrer Zeit ist. Meistens etwas Entwürdigtes oder Einsiedlerisch-Selbstisches.
 
@@ -116,26 +116,26 @@ Nichts Harmloses.
 
 Stellung der Kunst zur ἀνάγκη.
 
-Vielleicht übertreibt unsere Empfindung etwas: wir sind genöthigt, zuviel Nöthe durch
-Eins wieder gut zu machen, durch Bayreuth.
+Vielleicht übertreibt unsere Empfindung etwas: wir sind genöthigt, **zuviel** Nöthe durch
+**Eins** wieder gut zu machen, durch Bayreuth.
 
 Die Kunst ist jetzt im Geblüte einiger Menschen so mächtig geworden, um nun auch ihr Verhältniß zur übrigen
 Welt zu bestimmen.
 
-Das ist eine Revolution, was jetzt in Bayreuth vor sich geht, die Constitution einer
+Das ist eine **Revolution**, was jetzt in Bayreuth vor sich geht, die Constitution einer
 neuen Macht, die fern davon ist, sich nur aesthetisch zu fühlen.
 
-Für den tieferen Blick ist es nichts Revolutionäres: sondern der Fortgang des deutschen
+Für den tieferen Blick ist es nichts Revolutionäres: sondern der **Fortgang** des deutschen
 Geistes in seinen Genien: in besonders schrecklicher ja verwirrender Beleuchtung durch das politische Prunken
 mit dem Nationalen (während das, was von den Nationalen verehrt wird, gerade uns beinahe als das Feindselige,
 mindesten als das Gefährlichste gilt).
 
-Das aesthetische Phänomen fragt an: sucht voraus: giebt es noch verwandte Kräfte?
+Das aesthetische Phänomen fragt an: sucht voraus: giebt es noch **verwandte** Kräfte?
 
 [12[10]](javascript:;)
 ----------------------
 
-Es dauert lange, ehe das Drama ja die Expos<ition> beginnt.
+Es dauert lange, ehe das Drama ja die Expos&amp;lt;ition&amp;gt; beginnt.
 
 Kindheit — etwas Altes Altkluges — die Jugend des Menschen, seine Naivetät viel später bei Modernen.
 
@@ -163,7 +163,7 @@ Er wuchs aus keiner Kunstschule heraus, ohne Lehrer.
 [12[11]](javascript:;)
 ----------------------
 
-Treue preisgeben zu Gunsten von Lebensstellungen Macht Einfluß (deutscher Meister).
+**Treue preisgeben** zu Gunsten von Lebensstellungen Macht Einfluß (deutscher Meister).
 
 [12[12]](javascript:;)
 ----------------------
@@ -183,7 +183,7 @@ Bayreuth — Ziel.
 [12[13]](javascript:;)
 ----------------------
 
-Für wen schaffe ich? er durchschaut seine Zuhörer mit dem Blick <des> Dramatikers. Da sieht er
+Für wen schaffe ich? er durchschaut seine Zuhörer mit dem Blick &amp;lt;des&amp;gt; Dramatikers. Da sieht er
 eifersüchtig auf Andre.
 
 Das Bild der Zuhörer, Mißtrauen gegen sie, Verzweiflung (Frage ob noch Musiker — — —).
@@ -213,32 +213,32 @@ Er untersucht die moderne Civilisation.
 
 Endlich findet er den vorwärtsschauenden Blick, er schafft den Mythus um.
 
-Er will selbst mit helfen, die politische Veränderung herbeizuführen: großer Irrthum, er
-wähnt den Augenblick zur Herstellung des Volkes vor der Thür! Revolutionär zu Gunsten der
+Er will selbst mit helfen, die politische Veränderung herbeizuführen: großer **Irrthum**, er
+wähnt den Augenblick zur Herstellung des Volkes vor der **Thür**! Revolutionär zu Gunsten der
 Theater!
 
-Wirkung durch Schriften, nachhelfend! Die Wirkung wird immer noch als sofortige
-erstrebt. Auch als Künstler nimmt er darauf noch Rücksicht (Tannhäuser)!!
+Wirkung durch Schriften, nachhelfend! Die Wirkung wird immer noch als **sofortige**
+erstrebt. Auch **als Künstler nimmt er darauf** noch Rücksicht (Tannhäuser)!!
 
 Er propagirte seinen Glauben als Künstler (auch als Schriftsteller), was am stärksten auf ihn wirkte und ihn
-bewegte, das faßte er zu Kunstwerken zusammen. Tannhäuser Lohengrin. Es war eine Frage:
-giebt es noch andre Wagner?
+bewegte, das faßte er zu Kunstwerken zusammen. Tannhäuser Lohengrin. Es war eine **Frage**:
+giebt es noch **andre** Wagner?
 
-Er schloß von der tiefsten Wirkung, die er empfand, auf die, welche er machen werde. Kunstwerke wurden zu Fragen — fühlt ihr so, wie ich fühle, so werdet ihr auch gleich bedürfen. Dabei entdeckte er das Mißverhältniß — furchtbare
-Vereinsamung. Er hatte keinen Wunsch mehr für den Bestand der politischen Welt.
+Er schloß von der tiefsten Wirkung, die er empfand, auf die, welche er machen werde. Kunstwerke wurden zu **Fragen** — fühlt ihr so, wie ich fühle, so werdet ihr auch gleich **bedürfen**. Dabei entdeckte er das **Mißverhältniß** — **furchtbare
+Vereinsamung**. Er hatte keinen Wunsch mehr für den Bestand der politischen Welt.
 
-Er nahm die Musik aus.
+Er nahm die **Musik** aus.
 
 Dann, wenn eine Vielheit so leidet, wie er leidet — das wäre Volk. Dann würde sie auch gleich bedürfen. Denn auch sein Streben nach Macht war naturwüchsig, volksmäßig. Er sah sein Kunstwerk näher
-vor sich und glaubte auch das Volk nahe. Er fand auf sich die tiefste
-Wirkung vom Volksglauben und vom dramatischen Gesange. Dies paarte er. Was auf ihn wirkte, werde einmal
-auf das Volk wirken: es werden die sein, welche eine gemeinsame Noth verbindet. Er multiplizirte sich zum Volk.
+vor sich und glaubte auch das Volk **nahe**. Er fand auf sich die **tiefste
+Wirkung** vom Volksglauben und vom dramatischen Gesange. Dies paarte er. Was auf ihn wirkte, werde einmal
+auf das Volk wirken: es werden die sein, welche eine **gemeinsame Noth** verbindet. Er **multiplizirte sich zum Volk**.
 
-Dritte Periode: die Zeit erscheint ihm nichtig, er hat sich ganz auf sich zurückgezogen,
+**Dritte Periode:** die Zeit erscheint ihm nichtig, er hat sich ganz auf sich zurückgezogen,
 die Wirkung liegt ihm fern, er legt Partitur neben Partitur hin, entsagt der Macht: die Zukunft wird ganz
 fern. Treue. Schopenhauer. Er wird einsam.
 
-Es melden sich die Freunde, die Vorboten veränderter Zeiten und Sinne, Herberge gebend —
+Es melden sich die **Freunde**, die Vorboten veränderter Zeiten und Sinne, Herberge gebend —
 er entdeckt die unvergleichliche Wirkung schon gethan zu haben.
 
 Gefahr von Seiten der Freunde auf der früheren Stufe.
@@ -275,27 +275,27 @@ streift jetzt jede Rücksicht auf Wirkung ab, alles Verführerische und Anfragen
 Erleichternde, und spricht nur mit sich. Sein Weltblick wendet sich in die Tiefe, er sieht das Leiden im
 Fundament und reinigt sich von allem Optimismus. Sehnsucht aus dem Tag in die Nacht, Tristan. Er findet die
 deutsche lutherische Heiterkeit wieder, die andere Völker nicht begreifen, durchgegohrne Meisterschaft der
-M<eister>singer. Es kommen Freunde heran; viele beinahe gefährlich, sie wollen ihn dogmatisiren
+M&amp;lt;eister&amp;gt;singer. Es kommen Freunde heran; viele beinahe gefährlich, sie wollen ihn dogmatisiren
 usw. Er geht hindurch unberührt, es handelt sich nicht mehr um Aesthetik und Musik für ihn. Ein ungeheures
 Werk, der Gesammtausdruck seiner Einsicht und Aussicht, mit einem wunderbaren metaphysischen Schwanken am
 Schluß. Macht resignirt aus Liebe. Er will dieses Werk zeigen, das Kunstwerk der Zukunft: während das Jetzt
-nicht die Zukunft ist, auf die er rechnet. Der Krieg, symbolisch verstanden, giebt
+nicht die **Zukunft** ist, auf die er rechnet. Der Krieg, symbolisch verstanden, giebt
 Muth.
 
 [12[16]](javascript:;)
 ----------------------
 
 Das Streben und Wollen der Macht ist jetzt unpersönlich geworden, ist rein in’s Schaffen übergetreten. Seine
-Kunst der höchsten Vollkommenheit und Ausdrucksfähigkeit: er denkt nicht mehr an eine zu erlebende Wirkung. Er will das Werk hinterlassen, legt Partitur neben Partitur.
+Kunst der höchsten Vollkommenheit und Ausdrucksfähigkeit: er denkt nicht mehr an eine zu **erlebende** Wirkung. Er will das Werk hinterlassen, legt Partitur neben Partitur.
 
 Über Nacht kam es plötzlich anders. Der deutsche Krieg wurde von ihm eigen nachempfunden, wie sonst nicht in
 Deutschland. Er bekam Glauben an eins, während er gar keinen mehr in Betreff von Deutschen hatte, die deutsche
 Tapferkeit mit Besonnenheit und Dauer verbunden, er sah etwas seinem Schaffen Verwandtes und war hoch
 beglückt. Vielleicht finde ich jetzt — nicht das Volk, sondern nur so viel Freunde und Mitleidende, denen ich
-das Werk zeigen kann, wie es gemeint ist. Es war ihm um Begründung des Stils, der
+das Werk zeigen kann, wie es gemeint ist. Es war ihm um Begründung des **Stils**, der
 Tradition zu thun, für eine sehr ferne Zukunft. — Wenn wir „das Kunstwerk der Zukunft“ jetzt sehen, so sollen
 wir doch immer sagen, es ist nicht diese Zeit, welche Wagner mit jener „Zukunft“ gemeint hat! Was Wagner sein
-wird, das ist noch etwas ganz andres als er jetzt sein kann.
+**wird**, das ist noch etwas ganz andres als er jetzt sein kann.
 
 [12[17]](javascript:;)
 ----------------------
@@ -304,13 +304,13 @@ Und nun trat in immer neuem Glanz der herrschende Gedanke seines Lebens vor ihn 
 beinahe noch mächtiger, reizvoller. Wirkung, unvergleichliche Wirkung! — womit! auf wen! Nicht mehr auf das
 Publikum der Theater, wie es ist, nicht mehr auf den modernen Menschen überhaupt, wie er zur Kunst sich eben
 verhält. Auch nicht mehr mit den Mächten der bisherigen Erfolge. In diesem Zeitpunkt des entscheidenden „Nicht
-mehr“ begriff er das Wesen des Volkes und seinen Gegensatz, die Gesellschaft des
+mehr“ begriff er das Wesen des **Volkes** und seinen Gegensatz, die Gesellschaft des
 Luxus.
 
 [12[18]](javascript:;)
 ----------------------
 
-In doppelter Weise erscheint die Vergangenheit verkürzt, einmal weil sie nur von Einem
+In doppelter Weise erscheint die Vergangenheit **verkürzt**, einmal weil sie nur von Einem
 Sehwinkel, allerdings einem wichtigen und nothwendigen aus gesehn wird und sodann weil in der einmal so
 geschauten Welt vieles ausgeschieden wird, nach einem Maßstabe. Aber nicht nur die Vergangenheit wird so
 gleichsam durch Verkürzung überschaulicher gemacht: das ganze Leben, auch das der Gegenwart und Zukunft,
@@ -325,7 +325,7 @@ ihn undenkbar, wie Menschen ohne Raum- und Zeitvorstellungen es sind. Er findet 
 ausspräche: in der Art, wie ein Mensch denkt, träumt, geht, ißt, sich unterredet, schreibt, liest, kämpft,
 verehrt, erzieht, den Tag und das Leben eintheilt, wie er den Staat aufbaut, die Stände auseinanderhält:
 überall ist hier eine äußerliche Erscheinung und eine Gesinnung, aus der gehandelt wird, zu unterscheiden. In
-dieser äußerlichen Erscheinung, sowohl wie in dieser Gesinnung, ist etwas, was Kunst ist:
+dieser äußerlichen Erscheinung, sowohl wie in dieser Gesinnung, ist etwas, was **Kunst** ist:
 ein gewisser schöpferischer Drang nach dem — — —
 
 [12[19]](javascript:;)
@@ -334,10 +334,10 @@ ein gewisser schöpferischer Drang nach dem — — —
 |  |  |  |
 | --- | --- | --- |
 | 6. |  | Wagner’s Zweifel: — Ist die Welt alt, verarmt geworden?   Durch Beethoven Widerlegung seines Zweifels: Unschuld.   Pastorale — ewige Menschheit.   Musik reicht nicht aus. Strauß.   Gegen den absoluten Musiker, den einsiedlerischen Verächter der Scheinwelt. Drama keine Kunstart, kein Kunstzweig.   Beseelung der inneren Phantasie.   Erregung der symbolischen Bewegungsmotive. |
-| 7. | Veränderliches. Unveränderliches.   Das Drama als Prophezeiung eines reineren Lebens (im Gegensatz zu dem rückblickenden antiken Drama).   Versuch, Wagner auch als rückblickend zu verstehen: restaurativeRichtungen. Das Volk. Genius. |
-| 8. | Der zeugende Punkt in der Oper.   Schillers Ahnung.  Die drei Schwierigkeiten — Wortmelodie usw.   Überall Herausbildung aus dem Entarteten zum Kern.   Vorbildlich, es ist ein Zurückgehen scheinbar, noch mehr ein Abwerfen des Falschen Unechten Späten. |
-| 9. | Reinigen vor und neben dem Schaffen.   Schriftsteller. |
-| 10. | Der Dichter. Mythus. Sprache. Goethe. |
+| 7. | Veränderliches. Unveränderliches.   Das Drama als **Prophezeiung** eines reineren Lebens (im Gegensatz zu dem rückblickenden antiken Drama).   **Versuch**, Wagner auch als rückblickend zu verstehen: **restaurative**Richtungen. Das **Volk**. Genius. |
+| 8. | Der zeugende Punkt in der **Oper**.   Schillers Ahnung.  Die drei Schwierigkeiten — **Wortmelodie** usw.   Überall Herausbildung aus dem Entarteten zum Kern.   **Vorbildlich**, es ist ein Zurückgehen scheinbar, noch mehr ein Abwerfen des Falschen Unechten Späten. |
+| 9. | **Reinigen** vor und neben dem Schaffen.   Schriftsteller. |
+| 10. | Der **Dichter**. Mythus. Sprache. Goethe. |
 | 11. | Der Musiker. |
 | 12. | Die Nibelungen: der Weltverkürzer: sein Leben und Wesen in ungeheurem Reflexe. |
 
@@ -350,14 +350,14 @@ hat die Pastorale gehört und nichts gehört.
 [12[21]](javascript:;)
 ----------------------
 
-Was Thukydides über den Staat denkt.
+**Was Thukydides über den Staat denkt.**
 
 Thukydides, Buch III cap. 84 ist echt. Es soll unklar sein, und in Stil und Gedanken den νεωτερισμός zeigen, etwas Revolutionäres. Ich meine, man ist vor den Gedanken
 dieses Capitels erschrocken; zum Theil hat man sie auch wohl nicht verstanden. Und so läßt man sich eines der
 wenigen Zeugnisse entgehen, wo Thukydides von seiner innersten Gesinnung redet, wo er sagt, was an der
 Menschennatur ist!
 
-Der Mensch ist neidisch, ein Feind des Hervorragenden, sein Neid will schaden; so
+Der Mensch ist neidisch, ein Feind des Hervorragenden, sein Neid will **schaden**; so
 erträgt er eine Lage nicht, in der der Neid eine nicht schadende Kraft hat, den gesetzlichen Zustand.
 
 Sie wollen lieber Rache als Recht, lieber egoistischen Gewinn an Stelle einer Lage, wo man ihnen keinen
@@ -369,11 +369,11 @@ Sie waren vor einander und vor den Ausbrüchen ihrer Bösartigkeit im Neid gesch
 in einen schutzlosen Zustand hinein — warum? um Rache an anderen zu nehmen. Sie können eben ihre Affekte nicht
 beherrschen.
 
-Hier hat Thukydides seine Theorie vom Staate gegeben: und auch gesagt, was geschehen
+Hier hat Thukydides seine Theorie vom **Staate** gegeben: und auch gesagt, was geschehen
 muß, sobald der Staat aufhört — gegenseitige Zerfleischung und Auslassung aller Affekte. Da tritt die
 menschliche Natur rein hervor, durch den Staat ist sie im Zaum gehalten. Übrigens erscheint hier die πόλις nicht als Produkt der Menschen, nicht als kluge Schutzanstalt der Egoismen
 gegen einander. Thukydides meint, die Menschen seien eben nicht klug genug dazu, sondern von Affekten
-beherrscht, momentan. Der Staat ist ihm wohl eine göttliche Institution. Die höchste
+beherrscht, momentan. Der Staat ist ihm wohl eine **göttliche Institution**. Die höchste
 Verehrung der νόμοι blickt durch. Menschen könnten nach ihrer φύσις sie nicht stiften!
 
 Im Staate herrscht Recht, nicht Rache, wird jeder geschützt vor Unrecht von dem anderen, und die Mißgunst hat
@@ -388,20 +388,20 @@ Der Adel der Gesinnung besteht zu einem sehr großen Theil aus Gutmüthigkeit (�
 [12[22]](javascript:;)
 ----------------------
 
-Zum Darwinismus.
+Zum **Darwinismus**.
 
 Je mehr ein Mensch Gemeinsinn hatte, sympathische Affektionen, um so mehr hielt er zu seinem Stamme; und der
-Stamm erhielt sich am besten, wo die hingebendsten Einzelnen waren. Hier erstarkte die
+Stamm erhielt sich am besten, wo die hingebendsten Einzelnen waren. Hier **erstarkte** die
 gute tüchtige Sitte, hier wurde die Unterordnung des Individuums gelernt und dem Charakter Festigkeit gegeben
 und anerzogen. — Doch ist hier die Gefahr der Stabilität, die Verdummung, groß.
 
-Ungebundene, viel unsicherere und schwächere Individuen, die neues versuchen und
+Ungebundene, viel unsicherere und **schwächere** Individuen, die neues versuchen und
 vielerlei versuchen, sind es, an denen der Fortschritt hängt: unzählige dieser Art gehen zu Grunde ohne
-Wirkung, aber im Allgemeinen lockern sie auf und bringen so von Zeit zu Zeit dem stabilen
-Elemente eine Schwächung bei, führen an irgend einer schwachgewordenen Stelle etwas Neues
+Wirkung, aber im Allgemeinen **lockern sie auf** und bringen so von Zeit zu Zeit dem stabilen
+Elemente eine **Schwächung** bei, führen an irgend einer schwachgewordenen Stelle etwas Neues
 ein. Dies Neue wird von dem im Ganzen intakten Gesamtwesen allmählich assimilirt.
 
-Die degenerirenden Naturen, die leichten Entartungen sind von höchster Bedeutung.
+Die **degenerirenden Naturen**, die leichten Entartungen sind von höchster Bedeutung.
 Überall wo ein Fortschritt erfolgen soll, muß eine Schwächung vorhergehen.
 
 Die stärksten Naturen haben den Typus fest und halten daran. —
@@ -417,14 +417,14 @@ Kraft. Die schwächere Natur, als die edlere wenigstens freiere, macht alles For
 Ein Volk, das irgendwo schwach wird und anbröckelt, aber im Ganzen noch stark ist: das vermag die Infektion
 des Neuen aufzunehmen und zu assimiliren.
 
-Ebenso der einzelne Mensch: das Problem der Erziehung ist, jemanden so fest und markig
-hinzustellen, daß er als Ganzes gar nicht mehr aus seiner Bahn gebracht werden kann. Dann aber
-hat der Erzieher ihm Wunden beizubringen: und wenn so der Schmerz, das Bedürfniß entstanden ist, kann
+Ebenso der einzelne Mensch: das **Problem der Erziehung** ist, jemanden so fest und markig
+hinzustellen, daß er als Ganzes gar nicht mehr aus seiner Bahn gebracht werden kann. Dann **aber
+hat der Erzieher ihm Wunden** beizubringen: und wenn so der Schmerz, das Bedürfniß entstanden ist, kann
 auch dort etwas Neues und Edles inokulirt werden. Die Gesammtkraft wird es jetzt in sich hinein nehmen und so
 veredelt werden.
 
-Die Deutschen wurden nicht nur verwundet, sondern fast zum Verbluten gebracht, man nahm <ihnen>
-Sitte Religion Sprache Freiheit. Sie sind nicht zu Grunde gegangen: aber daß sie eine tief leidende Nation sind, haben sie bewiesen, dadurch daß sie die Musik erfanden; sie
+Die Deutschen wurden nicht nur verwundet, sondern fast zum Verbluten gebracht, man nahm &amp;lt;ihnen&amp;gt;
+Sitte Religion Sprache Freiheit. Sie sind nicht zu Grunde gegangen: aber daß sie eine tief **leidende** Nation sind, haben sie bewiesen, dadurch daß sie die **Musik** erfanden; sie
 haben den Segen der Krankheit erfahren. —
 
 Dieser Lehre gegenüber ist der Darwinismus eine Philosophie für Fleischerburschen. Und die Stellung, die sie
@@ -450,7 +450,7 @@ Welt, verstehe, schicke ich dies voraus. Er fand zwei neue Probleme, das der Mus
 fand sie dort, wo alle großen Probleme liegen, auf der Gasse, vor Jedermanns Füßen und doch allen Augen
 verborgen. Was bedeutet es, daß der neueren Zeit gerade eine solche Kunst wie die der Musik ersteht? Ist dies
 nicht ein Widerspruch für jeden, der das Bild dieser Zeit sich vor die Seele stellt? Muß er nicht sagen: aus
-dieser Zeit konnte die Musik nicht entstehn: was ist dann ihre Existenz? Ein Zufall? Aber
+dieser Zeit **konnte** die Musik nicht entstehn: was ist dann ihre Existenz? Ein Zufall? Aber
 erst könnte ein einzelner Meister zufällig sein, das Erscheinen einer solchen Reihe von Leuchten und Sonnen
 zeigt doch wahrlich, daß nicht an Kometen-Erscheinung zu denken ist. Wagner giebt nun eine Antwort: die
 Existenz der Musik hängt mit der Stärke der modernen Zeit zusammen, diese aber hat ungeheure Schwächen anderer
@@ -461,10 +461,10 @@ Sprechenden, die Unfähigkeit, sich noch wirklich mit einander zu verständigen:
 jetzt dichtet, so denkt jetzt die Sprache für jeden, er ist der Sklave derselben und niemand hat noch
 Individualität in diesem ungeheuren Zwang. Man muß, durch Musik gehoben, einmal sich so fern gestellt fühlen,
 daß man in allem, was gesprochen wird, geschrieben wird, das typisch Gleichartige wahrnimmt: dann kommt es
-einem so vor, als ob alle individuelle Bildung unmöglich sei, weil sie versucht, auf dem
+einem so vor, als ob alle individuelle Bildung **unmöglich** sei, weil sie versucht, auf dem
 Wort sich zu gründen; und das reißt jetzt jeden in die alten Bahnen. Zweitens fühlte Wagner die Stellung der
 Musik zu der jetzt sichtbaren Erscheinungswelt des modernen Lebens: sie ist bildlos und deshalb antagonistisch
-allem Gebilde. Nun zeigt <sich> ebenfalls in allem, worin der Mensch jetzt an der Erscheinung
+allem Gebilde. Nun zeigt &amp;lt;sich&amp;gt; ebenfalls in allem, worin der Mensch jetzt an der Erscheinung
 herum bildet, eine unsägliche Erschöpfung: alles Dagewesene, alles schöner dagewesen, selbst das Häßliche ist
 erhabner dagewesen. Das Gehen Stehen und sich Bewegen, die Form der Geselligkeit, die Manieren der
 öffentlichen Sprecher, die Geberden der Jünglinge, die Künste der Frauen: alles, alles worin frühere Zeiten
@@ -483,10 +483,10 @@ zwischen Volk und Nichtvolk — unwillkürlich wird es der mit Musik erfüllte M
 verurtheilen: er begreift es, was es heißen will, einen Staat auf Musik zu gründen, was die Griechen nicht nur
 begriffen hatten, sondern auch forderten. Und zwar ist es auch nicht allein das Rhythmische; auch das
 Seelenvolle Ehrliche in der unpersönlichen Leidenschaft und doch das aus unerschöpflicher Tiefe aufquellende
-ruhige Feuer der Musik — dies alles wird ihm zum Richter seiner modernen Welt.
+**ruhige** Feuer der Musik — dies alles wird ihm zum Richter seiner modernen Welt.
 
 So verurtheilt Wagner diese Welt, weil sie dem Ideal, das er nicht als Bild aber als Seele der Musik in sich
-trägt, nicht entspricht. Er würde sie verneinen und aufheben müssen, wenn er nur Musiker
+trägt, nicht entspricht. Er würde sie verneinen und aufheben müssen, wenn er **nur** Musiker
 wäre. Und in der That ist es sein tiefer Gegensatz gegen alle sonstigen Musiker unserer Zeit, daß sie von sich
 aus nicht diese Verneinung und Aufhebung wollen; er schließt daraus, daß sie jenes Feuer eben nicht im Leibe
 haben und in Folge dessen keine rechten Musiker sind. Entweder verneint euch als Musiker, hört auf welche zu
@@ -502,17 +502,17 @@ Erziehung usw., sehr wenig ähnlich sehen würde! Zweitens kann jene Verneinung 
 leicht noch zu einer weiteren Stufe der Verneinung führen. Wer, wie Schopenhauer, in der Musik eine Welt
 hinter dieser Welt sieht, die noch nicht in die Form der Individuation eingegangen ist, und wer andererseits
 gerade den gebrechlichen tief hoffnungslosen Charakter des Lebens aus der trennenden Gewalt der
-Indiv<iduation> ableitet, muß in der Musik die wenngleich begriffs- und bildlose Conception
+Indiv&amp;lt;iduation&amp;gt; ableitet, muß in der Musik die wenngleich begriffs- und bildlose Conception
 einer besseren Welt machen, einer unschuldigen, liebevollen, heiter-tiefsinnigen.
 
 Ganz auf diese Welt sich zurückziehend steht der Musiker dann, wie Wagner es an Beethoven geschildert hat,
-beinahe in der Sphäre der Heiligkeit: die unvergleich<liche> Reinheit Bewegtheit Gluth die
+beinahe in der Sphäre der Heiligkeit: die unvergleich&amp;lt;liche&amp;gt; Reinheit Bewegtheit Gluth die
 kindliche Unmittelbarkeit, der völlige Mangel der Verstellung, die Abwesenheit der Convention das ist der
 Musik eigen, nicht den andern Künsten, die eben der Erscheinungswelt als Abbilder zu nahe stehen.
 
 Hiermit könnte es nun erscheinen, daß ein Nebeneinander der Musik und der Erscheinungswelt eben ein
-Mißgebilde sein müsse, daß ihre Unverträglichkeit gerade fest stünde. Hier nun machte
-Wagner seinen zweiten Fund, er fand das Problem des Drama’s wieder. Der Mensch, der die
+Mißgebilde sein müsse, daß ihre **Unverträglichkeit** gerade fest stünde. Hier nun machte
+Wagner seinen zweiten Fund, er fand das Problem des **Drama’s** wieder. Der Mensch, der die
 Seele der Musik in sich aufgenommen hat und von diesem Erfülltsein aus auf die allgemeine Natur und das Loos
 der Menschen zu allen Zeiten hinblickt, thut dies nicht mit Ekel, mit Haß: sondern so wie Beethoven die Natur
 in der Pastorale sieht, mit Liebe, mit einem alles verstehenden Mitleid. In größeren Bildern des menschlichen
@@ -551,7 +551,7 @@ mächtigen Kunst auch eine Menge Gefahren mit sich führt und daß gerade die gr
 gehabt haben, welche den besorgteren Denkern fast bei jedem neuen Erscheinen solcher Mächte Furcht einflößen
 muß. Allzu leicht erscheint es so als ob die Kunst die Ziele des thätigen Lebens selber hinzustellen hätte,
 und mit gefährlichstem Mißverstande wird dann der Künstler als unmittelbarer Erzieher verstanden. Wird dagegen
-seine wundervolle Aufgabe mit Recht so begriffen, daß er für das kämpfende und zielesetzende Leben einzuweihen hat, so ist man ebenso im Recht, ihn sich auf das Schärfste vom Leben selber
+seine wundervolle Aufgabe mit Recht so begriffen, daß er für das kämpfende und zielesetzende Leben **einzuweihen** hat, so ist man ebenso im Recht, ihn sich auf das Schärfste vom Leben selber
 abgetrennt zu denken und seinen Nachwirkungen ein Strombett anzuweisen, welches nicht den Gang des Lebens
 durchkreuzt und bestimmt. Man würde Plato’s Meinung treffen, wenn man mit einiger Härte darauf bestünde, daß
 es gleichgültig sei, was ein Künstler in socialer und politischer Hinsicht denke: daß es z.B. für die Athener
@@ -559,7 +559,7 @@ ohne Gewicht sein mußte, ob Aeschylus sich für oder gegen die Beschränkung de
 sogar, erst dadurch, daß man in dem Künstler gerade etwas Überzeitliches verehrt, wird man sich gegen das
 Gefährliche, was in seiner direkten Wirkung auf die Zeit liegt, einigermaßen schützen können. Ich will in
 diesem Zusammenhange darauf aufmerksam machen, daß es überaus nahe liegt und deshalb gefährlich ist, Wagner
-nicht als Künstler zu verstehen oder anders ausgedrückt: aus seinen Kunstwerken
+**nicht als**Künstler zu verstehen oder anders ausgedrückt: aus seinen Kunstwerken
 bestimmte Winke über die Gestaltung des Lebens entnehmen zu wollen. Es liegt dies so nahe, weil Wagner selber
 in verschiedenen Perioden den Versuch gemacht hat, bestimmtere Antworten auf die Frage nach dem Zusammenhang
 seiner Kunst mit dem Leben zu finden. Es giebt Aufsätze von ihm, die ganz von dem magischen Lichte eines
@@ -584,40 +584,40 @@ leide).
 
 Nach der Unterbrechung weiter. Der Vereinfacher der Welt, wie in der Philosophie.
 
-Er sieht sie unter einem einzigen aber nothwendigen Sehwinkel: wie steht es mit der Kunst? Da verkürzt er die Geschichte sehr.
+Er sieht sie unter einem einzigen aber nothwendigen Sehwinkel: wie steht es mit der Kunst? Da **verkürzt** er die Geschichte sehr.
 
-Er reinigt: er verscheucht die Vorstellung, daß die Welt organisch alt geworden sei.
+Er **reinigt**: er verscheucht die Vorstellung, daß die Welt organisch **alt** geworden sei.
 
 Die Quelle der Natur noch eben so frisch, der Mensch noch unausgeschöpft.
 
-Man muß nur Begriffswolken verscheuchen, falsche Beängstigungen, als ob der Mensch schon verarmt sei.
+Man muß nur Begriffswolken verscheuchen, falsche Beängstigungen, als ob der Mensch schon **verarmt** sei.
 
 Der Haß gegen die weichlichen Kunstfreunde.
 
-Das Wesen der Musik giebt ihm das Licht; sie steht im Gegensatz zu unsrer begrifflichen
-und litterarischen Welt (die Welt des Scheins unfruchtbar, Hillebrand mit seinen
+Das Wesen der **Musik** giebt ihm das Licht; sie steht im Gegensatz zu unsrer begrifflichen
+und litterarischen Welt (die Welt des **Scheins** unfruchtbar, Hillebrand mit seinen
 Hoffnungen lächerlich). Wagner bildet die innere Phantasie aus.
 
-Schopenhauer faßt sie als etwas Metaphysisches, Wagner fragt: giebt es ein Leben,
+Schopenhauer faßt sie als etwas Metaphysisches, Wagner fragt: giebt es ein **Leben**,
 welches der Musik einmal entsprechen wird? (Griechen gründeten ihre Staaten auf Musik)
 
-Daß es eine solche Welt geben muß, ersieht er als Dramatiker (das
-Drama ist keine Kunstart, kein Litteraturzweig).
+Daß es **eine solche Welt geben** muß, ersieht er als **Dramatiker** (das
+Drama ist keine Kunst**art**, kein Litteratur**zweig**).
 
 Er sieht Phänomene vor sich gleichsam mit drei Dimensionen — hörbar schaubar begreifbar.
 
-Wo hat er dies Phänomen zuerst gesehen? In der Oper.
+Wo hat er dies Phänomen zuerst gesehen? In der **Oper**.
 
-Schillers Ahnung.
+**Schillers** Ahnung.
 
-Der moderne Künstler hat immer erst zu reinigen, ehe er schaffen kann — meistens wird
+Der moderne Künstler hat immer erst zu **reinigen**, ehe er schaffen kann — meistens wird
 die Reinigung zuerst eine persönliche sein.
 
   
 
 5. (b)
 
-Wagner’s Kampf im Kunstwerke.
+**Wagner’s Kampf im Kunstwerke.**
 
   
 
@@ -625,25 +625,25 @@ Wagner’s Kampf im Kunstwerke.
 
 Wagner in der Oper. Das Publikum. Weg zu Beethoven.
 
-Das anscheinend Reaktionäre-Romantische. Gegensatz zur Civilisation.
+Das anscheinend **Reaktionäre-Romantische**. Gegensatz zur **Civilisation**.
 
   
 
 7.
 
-Das anscheinend Desperative. Gegensatz zur Welt der Erscheinung.
+Das anscheinend **Desperative**. Gegensatz zur Welt der **Erscheinung**.
 
-So erscheint er fast als restaurativer Typus?
+So erscheint er fast als **restaurativer Typus**?
 
 Logische Trägheit.
 
-Fühlen Ahnen. Die Unbewußtheit, Instinktivität. — Aber alles dies ist nur als Schein zu
-nehmen: sein Charakter ist progressiv.
+Fühlen Ahnen. Die Unbewußtheit, Instinktivität. — Aber alles dies ist nur als **Schein** zu
+nehmen: sein **Charakter** ist **progressiv**.
 
 [12[29]](javascript:;)
 ----------------------
 
-Wagner’s Kampf im Kunstwerk.
+**Wagner’s Kampf im Kunstwerk.**
 
 Rienzi — Gegensatz zur „Ordnung“, der Reformator.
 
@@ -674,15 +674,15 @@ Von da aus reinigt er seine Vorstellung von dieser Kunst und sich selbst.
 ----------------------
 
 — — — Er geht nicht nur durch das Feuer, sondern auch durch den Dampf des Wissens und der Gelehrsamkeit
-hindurch — mit jener Treue gegen ein höheres Selbst oder, noch richtiger, durch die Treue
+hindurch — mit jener **Treue** gegen ein höheres Selbst oder, noch richtiger, durch die Treue
 eines höheren Selbst gegen ihn, welches ihn aus seinen schwersten Gefahren immer wieder herausführte. Dieses
-höhere Selbst verlangte von ihm nur Gesammtthaten seines polyphonen Wesens, und hieß ihn
+höhere Selbst verlangte von ihm nur **Gesammtthaten** seines polyphonen Wesens, und hieß ihn
 leiden und lernen, um jene Thaten thun zu können, es führte ihn zur Prüfung und Stärkung an immer schwereren
 Aufgaben vorbei. Die höheren Gefahren und Prüfungen aber nahten ihm nicht als dem persönlich Unbefriedigten
 und Leidenden, nicht als dem Lernenden, sie erwuchsen aus einer Verbindung von Leiden und Lernen, aus dem
 heftigen Triebe, dem eignen Leide, das er in immer höherer Verallgemeinerung empfand und zu dessen Verständniß
 er Historie und Philosophie hinzunehmen mußte, einen rettenden Gedanken entgegenzustellen: es sind die
-Gefahren der Absichten, durch welche der Künstler die Reinheit seines Werdens kreuzte;
+Gefahren der **Absichten**, durch welche der Künstler die Reinheit seines Werdens kreuzte;
 seine Kunst sollte diesen Absichten dienen, sie sollte mehr leisten und sofort leisten, als eine Kunst, noch
 dazu eine dunkel ans Licht ringende neue Kunst vermag; indem er sie der Reihe nach zum Heilmittel seiner
 selbst, des modernen Menschen und endlich des Lebens überhaupt bestimmte, verfiel er in die schwerste
@@ -698,7 +698,7 @@ seine Kunst und alles Unabsichtliche seines Wesens sich völlig frei und ungehem
 
 4.
 
-Darüber nachzudenken, was Wagner ist, an allen Lebens- und Machtäußerungen seiner
+Darüber nachzudenken, **was Wagner ist**, an allen Lebens- und Machtäußerungen seiner
 vielspältig-einheitlichen Natur betrachtend vorüberzugehn: das wird die Heilung und Erholung sein, welche
 jedermann begehren muß, der darüber, wie Wagner wurde, gedacht und gelitten hat. Ein solches wahrhaft großes,
 wahrhaft frei gewordenes Können und Dürfen ist das herrlichste Schauspiel von der Welt; wo eine solche
@@ -720,7 +720,7 @@ Solche bereite Zuhörer aber vorausgesetzt, halte ich es allerdings für möglic
 Eindruck einer großen Begabung allmählich so deutlich für die Empfindung auszuprägen, daß wir von der
 entscheidenden Sicherheit dieses Eindrucks aus unwillkürlich auf jenen Zustand zurückschließen, in welchem der
 Künstler sich zum Schaffen gedrängt fühlt, d.h. den Eindruck der Welt auf sich als einen Anruf seiner
-eigensten Kraft empfindet. Auf ein Mitwissen um diesen Zustand kommt aber alles an, und
+eigensten Kraft empfindet. Auf ein **Mitwissen um diesen Zustand** kommt aber alles an, und
 jede Beschäftigung mit Kunst kann bei dem Nichtkünstler nur dies Ziel haben, zuletzt einen Eingang zu jenen
 sonst verborgenen Seelen-Mysterien zu entdecken, in denen das Kunstwerk geboren wird. Der Künstler ist nur
 gerade als Mittheilender über diese Mysterien Künstler; er will uns durch seine Art zu sprechen und sich
@@ -729,7 +729,7 @@ hinter dem Werk ist. „Die Natur ist nach Innen zu viel reicher, gewaltiger, se
 sie nicht, so wie ihr gewöhnlich lebt!“ ruft uns der Künstler zu, „nun folgt mir einmal und laßt das
 trüberleuchtete Stück Natur und Leben, welches ihr allein als wirklich zu kennen scheint, hinter euch. Ich
 führe euch in ein Reich, das ebenfalls wirklich ist: ihr selber sollt sagen, wenn ihr aus meiner Höhle in
-euren Tag zurückkommt, welches Leben wirklicher ist!“
+euren Tag zurückkommt, welches Leben **wirklicher** ist!“
 
 Wenn bis zu irgend einem Grade dies die Stimme jedes großen Künstlers an uns ist, so doch vor Allem die
 Stimme Wagner’s. Das, wozu sie uns ladet, ist Rückkehr zur Natur; und in diesem Zusammenhang darf man am
@@ -743,8 +743,10 @@ verwickeltsten und härtesten Gesetzbarkeiten oder regt sich in falschem Takte, 
 Gefühls verlernt: so sind wir viel zu schwach und können gar nicht so weit aus eignen Kräften gehen, um die
 Natur zu finden. Aber auch die Hand unseres Ermahners und Befreiers ist übermächtig: er führt uns, ohne daß
 wir sehen, wohin: bis wir plötzlich fühlen und hören und mit allen Sinnen auf einmal wissen, wo wir stehen —
-in der freien Natur, und selber verwandelt zu natürlich
-Freien.
+**in der freien Natur**, und selber verwandelt zu **natürlich
+Freien**.
 
 Die Bedeutung der Musik. Befreiung der Musik. Das Improvisatorische. Wagner unterjocht. Das Demosthenische.
 Wagner als Dichter, als Prosaiker. Das Adstringirende.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

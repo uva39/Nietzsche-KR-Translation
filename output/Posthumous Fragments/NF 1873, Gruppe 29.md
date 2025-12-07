@@ -16,9 +16,9 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [29[1]](javascript:;)
 ---------------------
 
-Die Wahrheit zu sagen ohne eudämonologischen Zweck; rein aus Pflicht. Dabei wird häufig
-die eigenthümliche Lust vergessen, die das Aussprechen der W<ahrheit> mit
-sich bringt. Der reinste Fall der, in dem die Wahrheit eine viel größere Unlust mit sich
+Die Wahrheit zu sagen ohne eudämonologischen **Zweck**; rein aus Pflicht. Dabei wird häufig
+die eigenthümliche **Lust** vergessen, die das Aussprechen der W&amp;lt;ahrheit&amp;gt; mit
+sich bringt. Der reinste Fall der, in dem die Wahrheit eine **viel größere Unlust** mit sich
 führt, selbst den Untergang — und trotzdem wird die Wahrheit gesagt. Ein Staatsmann hat die Existenz eines
 Staates durch ein Wort in der Hand: er sagt die Wahrheit und zerstört den Staat. Rede Kant’s an die Pflicht.
 Ein großer Mensch ist mehr werth als ein Reich, weil er heilsamer für alle Nachwelt ist. Sinn der großen That
@@ -33,13 +33,13 @@ eudämonologischen Charakter: sie sucht das Individuum zu retten.
 [29[3]](javascript:;)
 ---------------------
 
-Begriff der Unmöglichkeit in allen Tugenden, in denen der Mensch
+Begriff der **Unmöglichkeit** in allen **Tugenden**, in denen der Mensch
 groß ist.
 
 [29[4]](javascript:;)
 ---------------------
 
-1. Wahrheit als Pflicht — verderbliche Wahrheit. Analyse des Wahrheitstriebes — Pathos.
+1. Wahrheit als Pflicht — verderbliche Wahrheit. Analyse des **Wahrheits**triebes — **Pathos**.
 
 2. Das Unmögliche in den Tugenden.
 
@@ -61,7 +61,7 @@ Lüge.
 Begriff der Persönlichkeit, ja der der moralischen Freiheit nothwendige Illusionen, so daß selbst unsere
 Wahrheitstriebe auf dem Fundament der Lüge ruhn.
 
-Die Wahrheit im System des Pessimismus. Das Denken ist etwas, was besser nicht wäre.
+Die Wahrheit im System des **Pessimismus**. Das Denken ist etwas, was besser nicht wäre.
 
 [29[5]](javascript:;)
 ---------------------
@@ -104,11 +104,11 @@ Tropfen die Wahrheit, die uns bitter ist.“
 [29[8]](javascript:;)
 ---------------------
 
-1. Was entspricht der Askese in Betreff der Wahrheit? — Wahrhaftigkeit, als Fundament
+1. Was entspricht der **Askese** in Betreff der Wahrheit? — Wahrhaftigkeit, als Fundament
 aller Verträge und Voraussetzung des Bestehens des Menschengeschlechts, ist eine eudämonistische Forderung:
-dagegen tritt die Erkenntniß, daß die höchste Wohlfahrt der Menschen vielmehr in Illusionen liegt: daß also, nach dem eudämonistischen Grundsatze, Wahrheit und
-Lüge angewendet werden müßten — wie es auch geschieht. Begriffe der verbotenen
-Wahrheit d.h. einer solchen, die gerade die eudämonistische Lüge verhüllt und maskirt. Gegensatz: die verbotene Lüge, dort eintretend, wo die
+dagegen tritt die Erkenntniß, daß die höchste Wohlfahrt der Menschen vielmehr in **Illusionen** liegt: daß also, nach dem eudämonistischen Grundsatze, Wahrheit **und
+Lüge** angewendet werden müßten — wie es auch geschieht. Begriffe der **verbotenen
+Wahrheit** d.h. einer solchen, die gerade die eudämonistische Lüge **verhüllt** und **maskirt**. Gegensatz: die **verbotene Lüge**, dort eintretend, wo die
 erlaubte Wahrheit ihr Bereich hat.
 
 2) Symbol der verbotenen Wahrheit: fiat veritas, pereat mundus.
@@ -121,28 +121,28 @@ Welt, dieses opfert die Welt sich und seiner Existenz.
 
 Casuistik: ist es erlaubt, der Wahrheit die Menschheit zu opfern? — 1) Es ist nicht wohl möglich! Wollte
 Gott, die Menschheit könnte an der Wahrheit sterben. 2) Wenn es möglich wäre, so wäre es ein guter Tod und
-eine Befreiung vom Leben. 3) Niemand kann ohne einigen Wahn so fest glauben die Wahrheit
-zu haben: die Skepsis wird nicht ausbleiben. Die Frage: ist es erlaubt, einem Wahne die
-Menschheit zu opfern, müßte verneint werden. Aber praktisch geschieht <es>, weil Wahn eben
+eine Befreiung vom Leben. 3) Niemand kann ohne einigen **Wahn** so fest glauben die Wahrheit
+zu haben: die Skepsis wird nicht ausbleiben. Die Frage: ist es erlaubt, einem **Wahne** die
+Menschheit zu opfern, müßte verneint werden. Aber praktisch geschieht &amp;lt;es&amp;gt;, weil Wahn eben
 Glauben an die Wahrheit ist.
 
-3. Der Glaube an die Wahrheit — oder der Wahn. Ausscheidung aller eudämonistischen
+3. Der Glaube an die Wahrheit — oder der Wahn. Ausscheidung aller **eudämonistischen**
 Bestandtheile (1. als mein eigner Glaube, 2. als gefunden von mir, 3. als Quelle guter Meinungen bei andern,
 des Ruhms, des Geliebtwerdens, 4. als herrisches Widerstands-Lustgefühl).
 
-Ist, nach Abzug aller dieser Bestandtheile, das Aussprechen der Wahrheit rein als Pflicht noch möglich? Analyse des Glaubens in die Wahrheit: denn alles
-Wahrheit-haben ist im Grunde nur ein Glaube die Wahrheit zu haben. Das Pathos, das Pflichtgefühl geht von diesem Glauben aus, nicht von der angeblichen Wahrheit. Der Glaube setzt eine unbedingte Erkenntnißkraft voraus, bei dem Individuum, sodann die
-Überzeugung, daß nie ein erkennendes Wesen hierin weiterkommen werde: also die
-Verbindlichkeit für alle Weiten erkennender Wesen. Die Relation hebt das Pathos des
+Ist, nach Abzug aller dieser Bestandtheile, das Aussprechen der Wahrheit rein als **Pflicht** noch möglich? Analyse des **Glaubens in die Wahrheit**: denn alles
+Wahrheit-haben ist im Grunde nur ein Glaube die Wahrheit zu haben. Das Pathos, das Pflichtgefühl geht von **diesem Glauben** aus, nicht von der angeblichen Wahrheit. Der Glaube setzt eine **unbedingte Erkenntniß**kraft voraus, bei dem Individuum, sodann die
+Überzeugung, daß **nie ein erkennendes Wesen** hierin weiterkommen werde: also die
+Verbindlichkeit für alle Weiten erkennender Wesen. Die **Relation** hebt das Pathos des
 Glaubens auf, etwa die Begrenzung auf das Menschliche, mit der skeptischen Annahme, daß wir vielleicht alle
 irren.
 
-Wie ist aber Skepsis möglich? Sie erscheint als der eigentlich asketische Standpunkt des Denkers. Denn sie glaubt nicht an den Glauben und zerstört damit alles
+Wie ist aber **Skepsis** möglich? Sie erscheint als der eigentlich **asketische** Standpunkt des Denkers. Denn sie glaubt nicht an den Glauben und zerstört damit alles
 Segensreiche des Glaubens.
 
 Selbst die Skepsis enthält aber in sich einen Glauben: den Glauben an die Logik. Das äußerste ist also
 Preisgeben der Logik, das credo quia absurdum est, Zweifel an der Vernunft und deren Verneinung. Wie dies im
-Gefolge der Askesis auftritt. Leben kann niemand darin, ebensowenig wie in der reinen
+Gefolge der Askesis auftritt. **Leben** kann niemand darin, ebensowenig wie in der reinen
 Askesis. Womit erwiesen ist, daß der Glaube an die Logik und überhaupt der Glaube zum Leben nothwendig ist,
 daß also das Bereich des Denkens eudämonistisch ist. Dann tritt aber die Forderung der Lüge hervor: wenn
 nämlich Leben und εὐδαιμονία ein Argument ist. Gegen die verbotenen
@@ -162,7 +162,7 @@ Darauf beruht die Existenz der Begriffe, Formen usw.
 
 7. „Naturgesezte“. Lauter Relationen zu einander und zum Menschen.
 
-8. Der Mensch als fertig und hart gewordenes Maaß der Dinge. Sobald wir ihn uns als
+8. Der Mensch als fertig und hart gewordenes **Maaß der Dinge**. Sobald wir ihn uns als
 flüssig und schwankend denken, hört die Strenge der Naturgesetze auf. Die Empfindungsgesetze — als Kern der
 Naturgesetze. Mechanik der Bewegungen. Der Glaube an die Außenwelt und an die Vergangenheit, in der
 Naturwissenschaft.
@@ -185,7 +185,7 @@ er die Welt nicht geschaffen hätte.
 [29[10]](javascript:;)
 ----------------------
 
-Analysis des Gelehrten, hinsichtlich seines Wahrheitssinnes.
+**Analysis des Gelehrten, hinsichtlich seines Wahrheitssinnes.**
 
 1) Gewohnheit 2) Flucht vor der Langeweile
 
@@ -195,14 +195,14 @@ Analysis des Gelehrten, hinsichtlich seines Wahrheitssinnes.
 
  3) Broderwerb 4) Achtung bei
 anderen Gelehrten, Furcht vor ihrer Mißachtung 5) Erwerbssinn von etwas Eignem (es muß „wahr“ sein. sonst
-rauben es die Andren wieder) 6) Knötchen knüpfen, Knötchen lösen. — Maaß des
-Wahrheitssinnes: beim Umwerfen einer alten Theorie, bei Angriffen auf ihren Stand, ihre Bildung, heim
+rauben es die Andren wieder) 6) Knötchen knüpfen, Knötchen lösen. — **Maaß des
+Wahrheitssinnes:** beim Umwerfen einer alten Theorie, bei Angriffen auf ihren Stand, ihre Bildung, heim
 Lautwerden der Unzünftigen, Haß gegen die Philosophie, weil sie sich nichts aus dem Gelehrten macht. Die
 Unwahrheit, wenn sie in allgemeiner Geltung ist, wird von dem Gelehrten als Wahrheit behandelt. Furcht vor
-Religionen und Regierungen. — 7) Ein gewisser Stumpfsinn, sie sehen die Folgen nicht und
+Religionen und Regierungen. — 7) Ein gewisser Stumpfsinn, sie sehen die **Folgen** nicht und
 sind mitleidslos. 8) Sie merken die Hauptprobleme des Lebens nicht, deshalb beschäftigen sie sich mit den
-kleinsten Problemchen, d.h. in der Hauptsache haben sie kein Bedürfniss
-nach Wahrheit. Daher giebt es nirgends eine Gelehrten-Republik, sondern immer nur eine Gelehrten-Ochlokratie. Verhaßt und durch Scherbengericht vertrieben ist der seltene geniale Kopf, der
+kleinsten Problemchen, d.h. in der **Hauptsache haben** sie **kein Bedürfniss
+nach Wahrheit**. Daher giebt es nirgends eine Gelehrten-Republik, sondern immer nur eine **Gelehrten-Ochlokratie**. Verhaßt und durch Scherbengericht vertrieben ist der seltene geniale Kopf, der
 Wahrheitsfreund, ebenso der Künstler.
 
 [29[11]](javascript:;)
@@ -216,7 +216,7 @@ leidendes
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  und abnorm ausfallendes Organ hin — auf eine Vernunft? Seele? —
-Das ganz und gar Subjektive ist es, vermöge dessen wir — Menschen
+Das ganz und gar **Subjektive** ist es, vermöge dessen wir — **Menschen**
 sind. Es ist das angehäufte Erbgut, an dem alle Theil haben.
 
 [29[12]](javascript:;)
@@ -232,26 +232,26 @@ Der Gelehrte.
 
   
 
-1. Eine gewisse Biederkeit, fast nur Ungelenkigkeit zur Verstellung, zu der einiger Witz
+1. **Eine gewisse Biederkeit**, fast nur Ungelenkigkeit zur Verstellung, zu der einiger Witz
 gehört. Überall wo dialektische Advocatenmanier da ist, mag man auch in Betreff dieser Biederkeit Zweifel
 haben und auf seiner Hut sein. Es ist bequemer, in adiaphoris die Wahrheit zu sagen, es entspricht einer
 gewissen Trägheit. Gegen das copernikanische System z.B. machte gerade die Biederkeit Opposition, weil es dem
 Augenschein widersprach: Augenschein und Wahrheit fällt aber für die trägen Geister zusammen. Auch der Hass
 gegen die Philosophie bei den Gelehrten ist vor allem Hass gegen die langen Schlussketten und die
 Künstlichkeit der Beweise: die Bewunderung des Scharfsinns ist mit Furcht verbunden, und im Grunde hat jede
-Gelehrtengeneration ein Maass für den erlaubten Scharfsinn: was darüber hinaus ist, wird
+Gelehrtengeneration ein Maass für den **erlaubten** Scharfsinn: was darüber hinaus ist, wird
 abgelehnt.
 
-2. Scharfsichtigkeit in der Nähe mit grosser Myopie in die Ferne und in das Allgemeine.
+2. **Scharfsichtigkeit in der Nähe** mit grosser Myopie in die Ferne und in das Allgemeine.
 Das Gesichtsfeld sehr klein und die Augen werden sehr nahe heran gehalten. Will der Gelehrte von einem eben
 durchforschten Punkte zu einem neuen, so rückt er den ganzen Sehapparat zu jenem Punkte: er zerlegt ein Bild,
-wie durch Anwendung eines Opernglases, in lauter Flecke. Sie alle sieht er nie verbunden,
+wie durch Anwendung eines Opernglases, in lauter Flecke. Sie alle **sieht** er nie verbunden,
 sondern berechnet nur ihren Zusammenhang: deshalb hat er von allem Allgemeinen keinen starken Eindruck. Er
 beurtheilt z.B. eine Schrift, die er im Ganzen nicht zu überschauen vermag, nach einem Flecken aus dem
 Bereiche seiner Studien: er würde nach seiner Art zu sehen zuerst behaupten müssen, ein Oelgemälde sei ein
 wilder Haufen von Klexen.
 
-3. Normalität seiner Motive, Nüchternheit, insofern zu allen Zeiten die gemeineren
+3. **Normalität seiner Motive**, Nüchternheit, insofern zu allen Zeiten die gemeineren
 Naturen und somit die Masse von gleichen Motiven geleitet worden ist. Diese wittert er heraus. In einem
 Maulwurfsloch findet sich der Maulwurf am besten zurecht. Er ist behütet vor vielen künstlichen und abnormen
 Hypothesen und vor allem Ausschweifenden und gräbt, wenn er beharrlich ist, alle gemeinen Motive der
@@ -262,17 +262,17 @@ Vergangenheit, durch seine eigne Gemeinheit, auf
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 . Freilich ist er deshalb
-unfähig, das Seltne Grosse und Abnorme, d.h. das Wichtige und Wesentliche zu verstehen.
+unfähig, das Seltne Grosse und Abnorme, d.h. das **Wichtige** und **Wesentliche** zu verstehen.
 
-4. Gefühlsarmut befähigt sie selbst zu Vivisectionen. Er ahnt das Leiden nicht, das
+4. **Gefühlsarmut** befähigt sie selbst zu Vivisectionen. Er ahnt das Leiden nicht, das
 manche Erkenntniss mit sich führt und fürchtet sich deshalb nicht auf gefährlichstem Bereiche. Das Maulthier
 kennt den Schwindel nicht. Sie sind kalt und erscheinen deshalb leicht grausam, ohne es zu sein.
 
-5. Geringe Selbstschätzung, ja Bescheidenheit. Sie fühlen, im dürftigsten Studienbezirk,
+5. **Geringe Selbstschätzung**, ja Bescheidenheit. Sie fühlen, im dürftigsten Studienbezirk,
 nichts von Vergeudung, selbst nichts von Aufopferung, sie wissen es im tiefsten Grunde, dass sie kriechendes,
 nicht fliegendes Gethier sind. Darin sind sie oft rührend.
 
-6. Treue gegen ihre Führer und Lehrer; diesen wollen sie helfen und sie wissen wohl,
+6. **Treue** gegen ihre Führer und Lehrer; diesen wollen sie helfen und sie wissen wohl,
 dass sie ihnen am besten mit der Wahrheit helfen. Gegen diese sind sie dankbar gestimmt, weil sie nur durch
 sie Einlass in die würdigen Hallen der Wissenschaft bekommen haben, in die sie, auf eignem Wege, nie
 hineingekommen wären. Wer in Deutschland ein Gebiet zu erschliessen weiss, auf dem die geringen Köpfe arbeiten
@@ -282,13 +282,13 @@ nämlich unmässig gross und übertrieben, an einem viel kleineren Individuum: w
 an eben demselben Individuum proportional verkleinert erscheinen. In so fern ist es eine Missgestalt, und
 wirkt als solche, wenn sie es aus Treue ist, rührend-drollig.
 
-7. Gewohnheitsmässiges Fortlaufen auf der Bahn, in die man ihn gestossen hat:
+7. **Gewohnheitsmässiges** Fortlaufen auf der Bahn, in die man ihn gestossen hat:
 Wahrheitssinn aus Gedankenlosigkeit und Bequemlichkeit in der einmal angenommenen Gewöhnung. Dies gilt
-besonders von dem Lernen, das Viele von ihrer Übung im Gymnasium her, wie im Bann einer
+besonders von dem **Lernen**, das Viele von ihrer Übung im Gymnasium her, wie im Bann einer
 unentrinnbaren Noth, betreiben. Solche Naturen sind Sammler, Commentatoren, Verfertiger von Indices, Herbarien
 etc. Der Fleiss derselben entsteht beinahe aus Trägheit, ihr Denken aus Gedankenlosigkeit.
 
-8. Flucht vor der Langeweile. Während der wirkliche Denker nichts mehr ersehnt als
+8. **Flucht vor der Langeweile.** Während der wirkliche Denker nichts mehr ersehnt als
 Musse, flieht der Gelehrte vor ihr, weil er mit ihr nichts anzufangen weiss. Seine Tröster sind die Bücher:
 d.h. er hört zu, wie jemand Anderes denkt und lässt sich auf diese Art unterhalten und über den langen Tag
 hinweg —
@@ -303,13 +303,13 @@ gerathen kann: Schriften, wo er in Betracht kommt, oder sein Stand, seine politi
 grammatische Meinung: hat er erst eine eigne Wissenschaft, so hat er auch ein Mittel, immer wieder interessirt
 zu werden.
 
-9. Broderwerb. Der Wahrheit wird gedient, wenn sie im Stande ist, zu höheren Stellungen
-und Gehalten zu verhelfen, wenn durch sie Beförderung bei Höheren erreicht werden kann. Aber eben auch nur dieser Wahrheit wird gedient: weshalb sich eine Grenze für die erspriessliche Wahrheit und
-die unerspriessliche W<ahrheit> finden lässt. Letztere wirkt nicht zu Gunsten des Broderwerbs
-und, da sie Mühe und Zeit braucht und diese der ersteren wegnimmt, sogar gegen den
+9. **Broderwerb.** Der Wahrheit wird gedient, wenn sie im Stande ist, zu höheren Stellungen
+und Gehalten zu verhelfen, wenn durch sie Beförderung bei Höheren erreicht werden kann. Aber eben auch nur **dieser** Wahrheit wird gedient: weshalb sich eine Grenze für die erspriessliche Wahrheit und
+die unerspriessliche W&amp;lt;ahrheit&amp;gt; finden lässt. Letztere wirkt nicht zu Gunsten des Broderwerbs
+und, da sie Mühe und Zeit braucht und diese der ersteren wegnimmt, sogar **gegen** den
 Broderwerb. Ingenii largitor venter. Die „Borborygmen eines leidenden Magens“.
 
-10. Achtung bei andern Gelehrten, Furcht vor ihrer Missachtung. Sie Alle überwachen sich
+10. **Achtung** bei andern Gelehrten, Furcht vor ihrer Missachtung. Sie Alle überwachen sich
 eifersüchtig, damit die Wahrheit, an der so viel hängt, Ehre, Broderwerb, Beamtungen, wirklich auf den Namen
 des Erfinders lautet. Die Achtung vor der Wahrheit, die ein Andrer gefunden, wird gezollt, weil man sie wieder
 fordert, bei der, die man selbst findet. Die Unwahrheit wird schallend explodirt, damit sie nicht als Wahrheit
@@ -318,12 +318,12 @@ wird auch die wirkliche Wahrheit explodirt, damit wenigstens Platz für andre Wa
 wollen, geschafft werde. „Moralische Idiotismen, die man Schelmenstreiche nennt.“ „Ausnahmen vom allgemeinen
 Gewissen.“
 
-11. Der Gelehrte aus Eitelkeit, schon eine seltnere Spielart. Er will etwas ganz für
+11. Der **Gelehrte** aus Eitelkeit, schon eine seltnere Spielart. Er will etwas ganz für
 sich haben, wählt deshalb die Curiositäten als sein Forschungsfeld und freut sich, wenn er selbst als
 Curiosität neugierig betrachtet wird. Er begnügt sich meistens mit dieser Art Ehrbezeigung und gründet nicht
 seinen Lebensunterhalt auf einen solchen Wahrheitstrieb.
 
-12. Der Gelehrte aus Spieltrieb. Seine Ergötzlichkeit ist, Knötchen zu suchen und sie zu
+12. **Der Gelehrte aus Spieltrieb.** Seine Ergötzlichkeit ist, Knötchen zu suchen und sie zu
 lösen: wobei er sich nicht zu sehr anstrengen mag, damit er das Gefühl des Spiels nicht verliert. Deshalb
 dringt er nicht gerade in die Tiefe, doch sieht er oft etwas, was der Brodgelehrte in seiner stumpfen und
 mühsam kriechenden Befangenheit des Auges nicht wahrnimmt: er hat doch wenigstens ein Vergnügen an der
@@ -342,18 +342,18 @@ Die reine Erkenntniss ist trieblos.
 
 Triebe, die mit einem Wahrheitstriebe leicht verwechselt werden:
 
-1. Neubegier, gesteigert Sucht nach Abenteuern der Erkenntniss. Das
+1. **Neubegier**, gesteigert **Sucht nach Abenteuern** der Erkenntniss. Das
 Neue, Seltne im Gegensatze zum Langweilig-Alten.
 
-2. Dialektischer Spür- und Spieltrieb, Lust an verschmitzten Fuchsgängen: nicht die
+2. **Dialektischer Spür-** und Spieltrieb, Lust an verschmitzten Fuchsgängen: nicht die
 Wahrheit wird gesucht, sondern das listige Herumschleichen, Umzingeln usw.
 
-3. Trieb zum Widerspruch, die Persönlichkeit will sich einer andern gegenüber geltend
+3. **Trieb zum Widerspruch**, die Persönlichkeit will sich einer andern gegenüber geltend
 machen. Klopffechterthum, der Kampf ist die Lust, persönlicher Sieg das Ziel.
 
-4. Trieb aus Unterthänigkeit gegen Personen Religionen Regierungen, gewisse „Wahrheiten“ zu finden.
+4. **Trieb aus Unterthänigkeit** gegen Personen Religionen Regierungen, **gewisse** „Wahrheiten“ zu finden.
 
-5. Trieb aus Liebe Mitleid usw. gegen einen Menschen, Stand oder die Menschheit, eine
+5. **Trieb aus Liebe** Mitleid usw. gegen einen Menschen, Stand oder die Menschheit, eine
 rettende beglückende Wahrheit zu finden — Trieb der Religionsstifter.
 
 [29[16]](javascript:;)
@@ -361,10 +361,10 @@ rettende beglückende Wahrheit zu finden — Trieb der Religionsstifter.
 
 Alle Triebe mit Lust und Unlust verbunden — einen Trieb zur Wahrheit d.h. zur völlig folgenlosen reinen
 affectlosen Wahrheit kann es nicht geben, denn dort hörte Lust und Unlust auf, und es giebt keinen Trieb, der
-nicht in seiner Befriedigung eine Lust ahnte. Die Lust zu denken weist nicht auf ein
-Begehren nach Wahrheit. Die Lust aller Sinneswahrnehmung<en> liegt darin, dass sie mit Schlüssen zu Stande gebracht sind. Der Mensch schwimmt insofern immer in einem Lustmeere.
-In wiefern kann aber der Schluss, die logische Operation, Lust
-bereiten?
+nicht in seiner Befriedigung eine Lust ahnte. **Die Lust zu denken** weist nicht auf ein
+Begehren nach Wahrheit. Die Lust aller Sinneswahrnehmung&amp;lt;en&amp;gt; liegt darin, dass sie mit **Schlüssen** zu Stande gebracht sind. Der Mensch schwimmt insofern immer in einem Lustmeere.
+In wiefern kann aber der **Schluss**, die **logische Operation, Lust
+bereiten**?
 
 [29[17]](javascript:;)
 ----------------------
@@ -384,19 +384,19 @@ Die Kunst legt es doch auf eine Täuschung ab — aber wir werden nicht getäusc
 
 Woher die Lust an der versuchten Täuschung, an dem Schein, der immer als Schein erkannt wird?
 
-Kunst behandelt also den Schein als Schein, will also gerade nicht
-täuschen, ist wahr.
+Kunst behandelt also den **Schein als Schein**, will also gerade **nicht**
+täuschen, **ist wahr**.
 
 Das reine begierdenlose Betrachten ist nur an dem Scheine möglich, der als Schein erkannt wird, der gar nicht
 zum Glauben verführen will und insofern unsern Willen gar nicht anregt.
 
-Nur der, der die ganze Welt als Schein betrachten könnte, wäre im Stande, sie begierden-
+Nur der, der die ganze Welt **als Schein** betrachten könnte, wäre im Stande, sie begierden-
 und trieblos anzusehen — Künstler und Philosoph. Hier hört der Trieb auf.
 
-So lange man Wahrheit an der Welt sucht, steht man unter der Herrschaft des Triebes: der aber will Lust und nicht Wahrheit, er will den Glauben an die Wahrheit, also die Lustwirkungen dieses
+So lange man Wahrheit an der Welt sucht, steht man unter der Herrschaft des Triebes: der aber will **Lust** und nicht Wahrheit, er will den Glauben an die Wahrheit, also die Lustwirkungen dieses
 Glaubens.
 
-Die Welt als Schein — Heiliger Künstler Philosoph.
+**Die Welt als Schein** — Heiliger Künstler Philosoph.
 
 [29[18]](javascript:;)
 ----------------------
@@ -416,7 +416,7 @@ Philosophen? — Das lässt errathen, wozu sie die Wahrheit wollen.
 |  |  |
 | --- | --- |
 | I. | Wahrheit als Deckmantel ganz anderer Regungen und Triebe. |
-| II. | Das Pathos der Wahrheit bezieht sich auf den Glauben. |
+| II. | Das Pathos der Wahrheit bezieht sich auf den **Glauben**. |
 | III. | Der Trieb zur Lüge fundamental. |
 | IV. | Die Wahrheit ist unerkennbar. Alles Erkennbare Schein. Bedeutung der Kunst als des wahrhaftigen Scheines. |
 
@@ -432,7 +432,7 @@ Philosophen? — Das lässt errathen, wozu sie die Wahrheit wollen.
 [29[22]](javascript:;)
 ----------------------
 
-Die geistig wirksamen Mächte sind über alle Vergangenheiten hin zerstreut — Colonienbildung! Aber die eigentliche Heimat verarmt, wenn alles auswandert. Sie sind zurückzurufen zum
+Die geistig wirksamen Mächte sind über alle Vergangenheiten hin zerstreut — **Colonien**bildung! Aber die eigentliche Heimat verarmt, wenn alles auswandert. Sie sind zurückzurufen zum
 Nothwendigsten. Gegen das laisser aller in der Wissenschaft.
 
 Alle sind so zerstreut und von einander entfernt, dass kein Band sie alle umschlingt: den verbindenden Kitt
@@ -444,7 +444,7 @@ wird von der Ausbildung seiner selbst?
 [29[23]](javascript:;)
 ----------------------
 
-Allerlei Diener der Wahrheit.
+**Allerlei Diener der Wahrheit.**
 
 Zuerst optimistisches Staunen! Wie viele Wahrheitsforscher!
 
@@ -460,13 +460,13 @@ Preis der Gerechtigkeit als der Mutter des wahren Wahrheitstriebes.
 
 Prüfung der „Diener der Wahrheit“ nach ihrem Sinn für Gerechtigkeit.
 
-Es ist recht gut, dass diese alle exilirt sind: denn sie würden überall nur stören und
+Es ist recht gut, dass diese alle **exilirt** sind: denn sie würden überall nur stören und
 Schaden anrichten. Wir wollen sie die Lohnarbeiter der Wahrheit nennen, sie dienen ihr wider Willen und
 seufzend.
 
 Die Wissenschaft ist für jene eine Correctionsanstalt, eine Galeere.
 
-Hinweis auf Socrates, der sie alle wahnsinnig nennt, im Hause wissen sie nicht, was gut
+Hinweis auf **Socrates**, der sie alle wahnsinnig nennt, im Hause wissen sie nicht, was gut
 und böse.
 
 Unschädlichmachung der Wissenschaft durch Klöster.
@@ -478,7 +478,7 @@ Wissenschaften.
 [29[24]](javascript:;)
 ----------------------
 
-Was Zöllner beklagt, das unendliche Experimentiren und der Mangel an logisch-deductiver
+Was **Zöllner** beklagt, das unendliche Experimentiren und der Mangel an logisch-deductiver
 Kraft, ist ebenfalls in den historischen Disciplinen zu sehen — Unterschätzung
 der classischen
 
@@ -502,18 +502,18 @@ Popularisirern gezeichnet wird, so hier das Vergangenheitsbild.
 
 |  |  |
 | --- | --- |
-| Schiller: | ihr geht aus, die Wahrheit mit Stangen zu fangen, aber sie geht mitten hindurch. |
+| **Schiller:** | ihr geht aus, die Wahrheit mit Stangen zu fangen, aber sie geht mitten hindurch. |
 
 [29[26]](javascript:;)
 ----------------------
 
-„Allerlei Diener der Wahrheit.“
+**„Allerlei Diener der Wahrheit.“**
 
 |  |  |
 | --- | --- |
-| 1. | Schilderung des laissez *Erratum:*laisser *lies:*laissez [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  faire der Wissenschaft. Es fehlt die Dictatur. |
+| 1. | **Schilderung** des laissez *Erratum:*laisser *lies:*laissez [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  faire der Wissenschaft. Es fehlt die Dictatur. |
 | 2. | Folge: es fehlt der rechte Kitt — (dafür Zeitungscultur-Kitt!)  im Allgemeinen immer grössere Roheit.  Verkümmerung des Bildes des Wahrheitsdieners. |
-| 3. | Daher haben sich Viele eingeschlichen. Schilderung. |
+| 3. | Daher haben sich Viele **eingeschlichen**. **Schilderung.** |
 | 4. | Stellung der deutschen Cultur dazu: was ist die Aufgabe? (Goethes Stellung zur Naturwissenschaft.) |
 
 [29[27]](javascript:;)
@@ -531,8 +531,8 @@ lassen, was noch nicht todt ist, und es nicht sofort als wissenschaftliches Obje
 [29[28]](javascript:;)
 ----------------------
 
-Durch Wissen tödten: eig<entlich> ist es nicht einmal das Wissen, sondern nur das neugierige
-unruhige Belauern, also ein nothwendiges Mittel und conditio der Wissenschaft.
+Durch Wissen tödten: eig&amp;lt;entlich&amp;gt; ist es nicht einmal das Wissen, sondern nur das neugierige
+unruhige Belauern, also ein nothwendiges **Mittel** und conditio der Wissenschaft.
 Mitreden-Wollen, wo man nur stört, wenn man redet.
 
 Defienda me Dios de my „Gott behüte mich vor mir“.
@@ -559,8 +559,8 @@ zufriedener
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  mit sich und entspricht ihrem Wesen und ihren Bedürfnissen,
-zeigt also, was sie ist, wie gross oder gemein sie ist. — Wodurch nützt aber der Trieb
-zum Klassischen der Gegenwart? Er deutet an, dass, was einmal war, jedenfalls einmal möglich war und deshalb wohl auch wieder möglich sein wird (wie die Pythagoreer meinen dass, wenn die
+zeigt also, was sie ist, wie gross oder **gemein** sie ist. — Wodurch nützt aber der Trieb
+zum Klassischen der Gegenwart? Er deutet an, dass, was einmal war, jedenfalls einmal **möglich** war und deshalb wohl auch wieder möglich sein wird (wie die Pythagoreer meinen dass, wenn die
 Sterne die gleiche Stellung haben, alles wieder völlig gleich geschehen werde). An das Mögliche und Unmögliche
 denkt aber der Muthige und der Verwegene: ihn stärkt die Vergangenheit: z.B. wenn er hofft, dass 100
 productive Menschen im Stande sind, die ganze deutsche Cultur zu gründen und findet, dass auf ähnliche Weise
@@ -584,15 +584,15 @@ Hundert-Männer-Schaar
 [29[31]](javascript:;)
 ----------------------
 
-Die Schätzung der Geschichte und die in ihr verschwendete Kraft. Die antiquarische
+Die **Schätzung der Geschichte und die in ihr verschwendete Kraft**. Die antiquarische
 Manier, die das Klassische möglichst beseitigt oder als ganz individuelle Möglichkeit zu begreifen sucht. Weil
 viel Vernunft verwendet wird, irgend ein Stückchen Vergangenheit so zu begreifen, meint man zuletzt auch, dass
 Vernunft sie zu Stande gebracht. So entsteht der Aberglaube an die Vernünftigkeit der Geschichte: wobei die
 absolute Nothwendigkeit verstanden wird als Manifestation des Vernünftigen und Zweckmässigen. Aber die grösste
 historische Macht ist die Dummheit und der Teufel. Es schwächt den Muth ab, so viele Möglichkeiten zu wissen
-als dagewesen: wenn es nicht darauf abgesehn ist, abzuschätzen (also das Klassische und
+als dagewesen: wenn es nicht darauf abgesehn ist, **abzuschätzen** (also das Klassische und
 Gute aus dem Vergangnen auszuscheiden), sondern nur alles als geworden zu begreifen, so lähmt der
-antiquarische Sinn; denn er wittert auch im Unsinnigen Zweck und Vernunft. Die Geschichte will nur eine grosse Behandlung; sonst macht sie Sclaven.
+antiquarische Sinn; denn er wittert auch im Unsinnigen Zweck und Vernunft. Die Geschichte will nur eine **grosse** Behandlung; sonst macht sie Sclaven.
 
 Nun giebt es zweitens ein Maass des erlaubten Retrospectiven und des Unerlaubten. Verboten ist die
 Vivisection; es soll den Kindern verboten werden dort zu
@@ -630,18 +630,18 @@ entzieht. Wiederzukauen
 
  ist die Sache gewisser Thiere: sich aber durch
 Wiederkäuen ruiniren scheint hier und da einmal bei dem menschlichen Rindvieh vorzukommen. Wenn alles, was
-wird, interessant, des Studiums würdig erachtet wird, so fehlt bald für alles, was man thun soll, der Maassstab und das Gefühl, der Mensch wird in der Hauptsache gleichgültig.
+wird, interessant, des Studiums würdig erachtet wird, so fehlt bald für alles, was man thun **soll**, der Maassstab und das Gefühl, der Mensch wird in der Hauptsache gleichgültig.
 
 [29[33]](javascript:;)
 ----------------------
 
-Die Mythologie, mit der sich die antiquarischen Menschen umgeben — die Ideen „die es
+Die **Mythologie**, mit der sich die antiquarischen Menschen umgeben — die Ideen „die es
 lieben, sich in immer reineren Formen zu offenbaren“ usw.
 
 [29[34]](javascript:;)
 ----------------------
 
-Das Monumentale sieht von den Ursachen ab. „Effect an sich“ „das, was zu allen Zeiten
+Das **Monumentale** sieht von den Ursachen ab. „Effect an sich“ „das, was zu allen Zeiten
 Effect macht“ (oder das zu allen Zeiten entstehen kann, zu dem die Ursachen immer da sind).
 
 [29[35]](javascript:;)
@@ -666,7 +666,7 @@ selbst Erkenntnissobject wird und damit auch den Antiquaren „interessant“ wi
 [29[36]](javascript:;)
 ----------------------
 
-Die Geschichte gehört dem Thätigen. Es ist ein widerliches Schauspiel, neugierige Mikrologe<n>
+Die Geschichte gehört dem Thätigen. Es ist ein widerliches Schauspiel, neugierige Mikrologe&amp;lt;n&amp;gt;
 oder Egoisten oder Touristen auf Pyramiden herumklettern zu sehn. Die Geschichte ist jetzt ebenso zur Schau
 gestellt wie Bilder in der Galerie
 
@@ -681,13 +681,13 @@ die Kunst und gegen das Grosse.
 [29[37]](javascript:;)
 ----------------------
 
-Woraus erklärt sich die Hypertrophie des historischen Sinnes?
+**Woraus** erklärt sich die **Hypertrophie des historischen Sinnes**?
 
 |  |  |
 | --- | --- |
-| 1. | Feindschaft gegen das Erdichtete, Mythische. |
-| 2. | Feindschaft gegen die Lebensprobleme. |
-| 3. | Sie verbirgt oder drapirt die, welche sich damit befassen und *Erratum:*— *lies:*und [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  ist leichter als ein Kunstwerk. |
+| 1. | **Feindschaft** gegen das Erdichtete, **Mythische**. |
+| 2. | **Feindschaft** gegen die **Lebensprobleme**. |
+| 3. | Sie **verbirgt** oder **drapirt** die, welche sich damit **befassen** und *Erratum:*— *lies:*und [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  ist **leichter** als ein Kunstwerk. |
 | 4. | Sie löst auf und macht schlaff, weil sie durch Analogien das Rechtsgefühl und die Instinkte, kurz das Naive in Sitte und Handeln tödtet oder lähmt. |
 | 5. | Sie ist demokratisch und lässt jedermann zu, beschäftigt die geringsten Köpfe. Sie ist das Ideal eines Wahrheitsstrebens. bei dem nichts herauskommt. |
 | 6. | Wie sie im Grunde nicht von fruchtbaren kräftigen Instinkten geleitet wird, zeigt z.B. die Historie bei der Evangelienkritik *Erratum:*Evangelien-Kritik *lies:*Evangelienkritik [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) . Man vergleiche die Reformationszeit. |
@@ -695,34 +695,34 @@ Woraus erklärt sich die Hypertrophie des historischen Sinnes?
 [29[38]](javascript:;)
 ----------------------
 
-Die historische Krankheit.
+**Die historische Krankheit.**
 
 |  |  |
 | --- | --- |
 | 1. | Bei pythagoreischer Constellation wäre von einem Nutzen der Geschichte zu reden. So aber ist die Motivirung jeder Handlung eine verschiedne. |
 | 2. | Vergleichung setzt ein Gleichsetzen voraus. Gedächtniss-Begriff. Das Klassische und Monumentale, der „Effect an sich“ idealisirende Entstellung und Verallgemeinerung, das „Allgemein-Menschliche“ als Wahn. Der Wahn des Monumentalen befördert die Fortzeugung des Grossen. |
 | 3. | Kampf gegen das Grosse und Seltne und gegen das Monumentale durch die Antiquare. Alles Gewesene interessant, vernünftig: lähmender Einfluss der Antiquare auf die historische Thatkraft. |
-| 4. | Der moderne Historiker als Amalgam von beiden Trieben, Hermaphrodit. Seine Mythologie. Seine negative Praxis. Einwirkung auf Kunst Religion. Gefährlich für eine werdende Cultur. Die Vivisection. Man soll nicht Beides sein, Classiker und Antiquar, sondern Eins, aber ganz. Wirkungslosigkeit der modernen Historiker: ihr Niederschlag in der nörgelnden Kritik und der amerikanisirenden Presse. Es fehlt dem modernen Historiker das Fundament: er ist im Monumentalen willkürlich, im Antiquarischen tödtend und wurzelt nicht in einer Cultur. |
+| 4. | Der moderne Historiker als Amalgam von beiden Trieben, Hermaphrodit. Seine Mythologie. Seine negative Praxis. Einwirkung auf Kunst Religion. Gefährlich für eine werdende Cultur. Die Vivisection. Man **soll** nicht Beides sein, Classiker und Antiquar, sondern Eins, aber ganz. Wirkungslosigkeit der modernen Historiker: ihr Niederschlag in der nörgelnden Kritik und der amerikanisirenden Presse. Es fehlt dem modernen Historiker das Fundament: er ist im Monumentalen willkürlich, im Antiquarischen tödtend und wurzelt nicht in einer Cultur. |
 
 [29[39]](javascript:;)
 ----------------------
 
 Im Grunde ist jedermann zufrieden, wenn ein Tag vorüber ist. Ihn so ernst zu nehmen, dass er am andern Tag
 bereits historische Untersuchungen anstellt, ist lächerlich. Denn damit ist die Hauptlehre, die jeder Tag
-giebt, verwirkt, „das Leben ist abzuleiden“ „es ist eine Busse“. In der Hauptsache d.h.
-gerade in dem, was die Gesammtschätzung des Lebens betrifft, kann kein Ereigniss etwas wesentlich Neues lehren und einer, der vor ein Paar tausend Jahren lebte, kann ebenso weise sein wie
-einer, der die Geschichte dieser 2000 Jahre zu Hülfe nimmt. Für den Menschen, der das Dasein ableidet, ist Geschichte nichts: er findet überall dasselbe Problem, das jeder Tag ihm zeigt. Sie ist
-aber etwas für den Thätigen, Unweisen, der alles noch zu hoffen hat,
+giebt, verwirkt, „das Leben ist abzu**leiden**“ „es ist eine Busse“. In der Hauptsache d.h.
+gerade in dem, was die Gesammtschätzung des Lebens betrifft, kann kein Ereigniss etwas wesentlich **Neues** lehren und einer, der vor ein Paar tausend Jahren lebte, kann ebenso weise sein wie
+einer, der die Geschichte dieser 2000 Jahre zu Hülfe nimmt. Für den Menschen, der das Dasein **ableidet**, ist Geschichte nichts: er findet überall dasselbe Problem, das jeder Tag ihm zeigt. Sie ist
+aber etwas für den **Thätigen**, **Unweisen**, der alles noch zu hoffen hat,
 der nicht resignirt, der kämpft — der braucht Geschichte als Exempla dessen, was Einer erreichen kann, wie
-Einer geehrt werden kann, besonders aber als Tempel des Ruhms. Sie wirkt vorbildlich und
+Einer geehrt werden kann, besonders aber als **Tempel des Ruhms**. Sie wirkt vorbildlich und
 stärkend.
 
 [29[40]](javascript:;)
 ----------------------
 
-Nun aber die Geschichte als Wissenschaft! Da handelt es sich also um Gesetze, die Personen kommen wenig in Betracht, Muth und Begeisterung sind hier nicht mehr zu
+Nun aber die Geschichte als **Wissenschaft**! Da handelt es sich also um **Gesetze**, die Personen kommen wenig in Betracht, Muth und Begeisterung sind hier nicht mehr zu
 gewinnen, sie stören vielmehr. Vorausgesetzt dass sich Gesetze finden liessen, so bekämen wir als Resultat den
-Determinismus und der Thätige würde mit Gewalt wieder zu einem Leidenden gemacht, ohne
+**Determinismus** und der Thätige würde mit Gewalt wieder zu einem Leidenden gemacht, ohne
 dass eine moralische Empfindung ihn zur Resignation brächte. Zudem sind die Gesetze wenig werth: weil sie aus
 den Massen und deren Bedürfnissen abgeleitet sind, also als Bewegungsgesetze der niederen Lehm- und
 Thonschichten. Die Dummheit und der Hunger sind immer dabei, wie bei jedem französischen Criminalprozess la
@@ -735,10 +735,10 @@ Widerstand gegen die Grossen 3) als Werkzeug der Grossen. Im Übrigen hole sie d
 [29[41]](javascript:;)
 ----------------------
 
-„Die <Statistik beweist dass es Gesetze in der Geschichte> giebt.“
+„Die &amp;lt;Statistik beweist dass es Gesetze in der Geschichte&amp;gt; giebt.“
 
 *Erratum:*Die Statistik beweist dass es Gesetze in der Geschichte giebt  
-*lies:*„Die <Statistik beweist dass es Gesetze in der Geschichte> giebt.“  
+*lies:*„Die &amp;lt;Statistik beweist dass es Gesetze in der Geschichte&amp;gt; giebt.“  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 Ja, sie beweist, wie gemein und ekelhaft uniform die Masse ist. Ihr hättet einmal in Athen Statistik treiben
@@ -750,7 +750,7 @@ giebt in der Geschichte, sind sie nichts werth und ist die Geschichte d.h. das, 
 werth.
 
 Überdies: was heisst denn hier „Gesetze“? Stehen sie irgendwie gleich einem Naturgesetz oder einem
-Rechtsgesetz? Es sagt doch nicht „ihr sollt“, sondern „leider war es so“. Es ist der Ausdruck eines dummen faktischen Verhältnisses, bei dem Niemand mehr nach dem Warum? fragen darf. „Hier
+Rechtsgesetz? Es sagt doch nicht „ihr sollt“, sondern „leider war es so“. Es ist der Ausdruck eines **dummen** faktischen Verhältnisses, bei dem Niemand mehr nach dem Warum? fragen darf. „Hier
 werden jährlich c. 40 Ehen geschlossen“ — Warum denn so viel und nicht 80? „Es ist nun einmal nicht anders“! —
 Sehr belehrend! Wir danken.
 
@@ -764,19 +764,19 @@ darnach „das Grosse“ ab: „Gross“ heisst, was historisch nachhaltig gewir
 Qualität verwechseln. Wenn die plumpe Masse irgend einen Gedanken, eine Religion sich recht adäquat gefunden
 hat und ihn zäh vertheidigt: soll der Finder und Gründer jenes Gedankens „gross“ sein! Warum doch! Das Edelste
 und Höchste wirkt gar nicht auf die Massen: und der historische Erfolg des Christenthums beweist
-glücklicherweise nichts über seinen Gründer, da es im Grunde gegen ihn beweisen würde:
+glücklicherweise nichts über seinen Gründer, da es im Grunde **gegen ihn** beweisen würde:
 hier scheint aber das Ursprüngliche ganz verloren gegangen zu sein und der Name für Tendenzen der Massen und
 vieler ehrsüchtig-egoistischen Einzelnen geblieben zu sein.
 
 [29[42]](javascript:;)
 ----------------------
 
-Vergötterung des Erfolgs ist recht der menschlichen Gemeinheit angemessen. Wer aber nur
+**Vergötterung des Erfolgs** ist recht der menschlichen Gemeinheit angemessen. Wer aber nur
 einen einzigen Erfolg einmal genau studirt hat, weiss, was für Faktoren (Dummheit, Bosheit, Faulheit usw.)
 immer mitgewirkt haben, und nicht als die schwächsten Faktoren. Es ist toll, dass der Erfolg mehr werth sein
 soll als die unmittelbar vorher noch bestehende schöne Möglichkeit! Gar aber in der Geschichte die
 Verwirklichung des Guten und Rechten sehen ist Blasphemie gegen das Gute und Rechte. Diese schöne
-Weltgeschichte ist, um Heraklitisch zu reden „ein wirrer Kehrichthaufen“! Das Kräftige
+Weltgeschichte ist, um Heraklitisch zu reden „ein wirrer Kehrichthaufen“! Das **Kräftige**
 schlägt sich durch, das ist das allgemeine Gesetz: wenn es nur nicht so oft gerade das Dumme und das Böse
 wäre!
 
@@ -798,23 +798,23 @@ Die schreckliche Übung, Charactere und Individuen zu begreifen und somit aus ih
 rechtfertigen, scheint vielleicht auf Gerechtigkeit zu beruhen und auf Gerechtigkeit gegen die Zeitgenossen
 hinzuwirken. Dem steht entgegen, dass wir gerade an den Zeitgenossen die fatalste Uniformität fordern und am
 wenigsten gerecht gegen die mannigfachen Charactere sind. Der geübteste Historiker ist, der Zeit gegenüber,
-„un personnage haineux“, und ist ungerecht oder blasirt.
+„un personnage **haineux**“, und ist **ungerecht** oder **blasirt**.
 
 [29[46]](javascript:;)
 ----------------------
 
 Der wissenschaftliche Stand ist eine Art Clerus und missachtet die Laien; er ist der Erbe des geistlichen
 Clerus, ohne diese vererbte Ehrfurcht würde schwerlich unsere Zeit so die Wissenschaften pflegen. Was man
-früher der Kirche gab, giebt man jetzt, obzwar spärlicher, der Wissenschaft: dass man
+früher der Kirche gab, giebt man jetzt, obzwar spärlicher, der Wissenschaft: **dass** man
 aber giebt, hat einstmals die Kraft der Kirche bewirkt, die noch jetzt, in dem wissenschaftlichen Clerus,
-nachwirkt. Und gerade Geschichte zu treiben ist immer noch eine verkappte Theologie, als
+nachwirkt. Und gerade **Geschichte** zu treiben ist immer noch eine verkappte Theologie, als
 Lehre von dem Wirken Gottes oder des Vernünftigen. Bemächtigt sich der Menge die Meinung, Geschichte sei ein
 Wust und keine Wissenschaft, so ist es aus mit ihrer Förderung.
 
 [29[47]](javascript:;)
 ----------------------
 
-Die verfluchte Volksseele! Wenn wir von deutschem Geiste reden, so
+Die verfluchte **Volks**seele! Wenn wir von **deutschem Geiste** reden, so
 meinen wir die deutschen grossen Geister,
 nicht das mythologische Phantom der vereinigten Ungeistermasse, indes Luther, Goethe, Schiller und einige Andere
 
@@ -823,31 +823,31 @@ nicht das mythologische Phantom der vereinigten Ungeistermasse, indes Luther, Go
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 Besser wäre es schon, von lutherartigen Menschen usw. zu reden. Wir wollen vorsichtig sein, etwas deutsch zu
-nennen: zunächst ist es die Sprache, diese aber als Ausdruck des Volkscharacters zu
+nennen: zunächst ist es die **Sprache**, diese aber als Ausdruck des Volkscharacters zu
 fassen, ist eine reine Phrase und bis jetzt bei keinem Volke möglich gewesen, ohne fatale Unbestimmtheiten und
 Redensarten. Griechische Sprache und griechisches Volk! Das bringe Einer zusammen! Überdies steht es ähnlich
-wie bei der Schrift: das allerwichtigste Fundament der Sprache ist eben nicht griechisch,
+wie bei der Schrift: das allerwichtigste Fundament der Sprache ist eben nicht **griechisch**,
 sondern wie man jetzt sagt, indogermanisch. Schon besser steht es mit Stil und Mensch. Von einem Volke
 Prädikate auszusagen, ist immer sehr gefährlich: zuletzt ist alles so gemischt, dass erst immer später eine
 Einheit wieder an der Sprache sich einfindet oder eine Illusion der Einheit sich an ihr einstellt. Ja
 Deutsche! Deutsches Reich! Das ist etwas, Deutschsprechende ist auch etwas. Aber Race-Deutsche! Das Deutsche
-als künstlerische Stileigenschaft ist erst noch zu finden, wie bei den Griechen der
+als künstlerische Stileigenschaft ist erst noch zu **finden**, wie bei den Griechen der
 griechische Stil erst spät gefunden ist: eine frühere Einheit gab es nicht, wohl aber eine schreckliche
 κρᾶσις.
 
 [29[48]](javascript:;)
 ----------------------
 
-Gegen die Parallele der Geschichte mit Jugend, Mannesalter und Greisenalter: auch nicht die Spur Wahrheit daran! Ein fünf-sechs Jahrtausende ist gar
+Gegen die Parallele der Geschichte mit **Jugend**, **Mannesalter** und **Greisenalter**: auch nicht die Spur Wahrheit daran! Ein fünf-sechs Jahrtausende ist gar
 nichts und vor allem keine Einheit, weil immer wieder neue Völker hinzukommen und alte in einen Winterschlaf
-verfallen. Zuletzt aber handelt es sich gar nicht um Völker, sondern um Menschen, die Nationalität ist zumeist nur die Consequenz starrer Regierungsmassregeln, d.h.
+verfallen. Zuletzt aber handelt es sich gar nicht um Völker, sondern um Menschen, die **Nationalität** ist zumeist nur die **Consequenz** starrer Regierungsmassregeln, d.h.
 einer Art Züchtung durch umschliessende Gewalt und Bändigung, nebst Nöthigung, sich zu heirathen und mit
 einander zu sprechen und zu leben.
 
 [29[49]](javascript:;)
 ----------------------
 
-Christlich ausgedrückt: so ist der Teufel der Regent der Welt und dabei wird es im
+Christlich ausgedrückt: so ist der **Teufel** der Regent der Welt und dabei wird es im
 Wesentlichen bleiben. Aber jetzt sagt man gebildeter: das System miteinander kämpfender Egoismen: wobei man an
 den Wald denkt, der so gleichförmig und regelmässig wächst, weil alle Bäume nur ihren Egoismus
 befriedigen.
@@ -861,7 +861,7 @@ befriedigen.
 *lies:*7  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-) Die Gefahr des Monumentalen,
+) Die **Gefahr** des **Monumentalen**,
 das, zusammengeschleppt aus allen Zeiten, den suchenden Instinkt verwirrt und
 schwächt!
 
@@ -875,7 +875,7 @@ Gesellschaftsschichten: hätte sie der Bauer, was würde er wohl mit dem Pfluge 
 [29[51]](javascript:;)
 ----------------------
 
-Eine Bändigung des unbegrenzten historischen Sinnes ist nöthig: und thatsächlich besteht
+Eine **Bändigung** des unbegrenzten historischen Sinnes ist nöthig: und thatsächlich besteht
 eine schon, die aber nicht nöthig ist, die Bändigung durch den nüchternen uniformirten Zeitgeist, der sich
 überall sucht und zu finden glaubt, und die Geschichte auf sein Maass herunterschraubt. Ein solches
 Herunterschrauben nehme ich wahr bei Cicero (Mommsen), Seneca (Hausrath), Luther (Protestantenverein) usw. In
@@ -883,9 +883,9 @@ andrer Art bändigte und streckte Hegel die Geschichte, er, der recht eigentlich
 Historie“ zu nennen ist; denn er fühlte sich auf der Höhe und am Ende der Entwicklung und damit auch im Besitz
 aller ehemaligen Zeiten, als deren ordnender νοῦς. Jeder Versuch, das
 Gegenwärtige als das Höchste zu begreifen, ruinirt die Gegenwart, weil er die vorbildliche Bedeutung des
-Geschichtlichen leugnet. Die schrecklichste Formel ist die Hartmannsche „sich dem Weltprozess hinzugeben“.
+Geschichtlichen leugnet. Die schrecklichste Formel ist die Hartmannsche „sich dem **Weltprozess** hinzugeben“.
 
-Wohin es führt, die Geschichte als einen Prozess anzusehen, zeigt E. von Hartmann p. 618
+Wohin es führt, die Geschichte als einen **Prozess** anzusehen, zeigt E. von Hartmann p. 618
 (woraus mir der ungeheure Erfolg klar wird). Die historische Ansicht verbrüdert sich hier mit dem Pessimismus:
 nun sehe man die Consequenzen! Die Lebensalter des Einzelnen bieten die Analogie, die gar nicht
 schmeichelhafte Schilderung der Gegenwart erweckt nur den Schluss, dass es noch schlimmer kommt und dass dies
@@ -913,10 +913,10 @@ ihn zu ertragen, legt er als τέλος zu Grunde die bewusste Erlösung und
 Freiheit von Illusionen und das Wählen des Unterganges. Aber das Ende der Menschheit kann jeden Augenblick
 durch eine geologische Umwälzung da sein: und jene Illusionslosigkeit setzte eine höhere Entwicklung der
 moralischen und intellectuellen Kräfte voraus: was ganz unwahrscheinlich ist: vielmehr dürften, wenn diese alt
-würden, die Illusionen nur immer mächtiger werden und das Greisenalter mit einem Kindischwerden schliessen. Tröstlich ist somit das letzte Resultat keinesfalls und könnte gewiss nicht
+würden, die Illusionen nur immer mächtiger werden und das Greisenalter mit einem **Kindischwerden** schliessen. Tröstlich ist somit das letzte Resultat keinesfalls und könnte gewiss nicht
 als τέλος bezeichnet werden. So wie er das Mannesalter schildert, nimmt
 überdies die Fähigkeit, das Dasein als Problem zu nehmen, immer mehr ab und das Bedürfniss nach Erlösung wird
-immer geringer. Wir wollen uns ja aller Constructionen der Menschheitsgeschichte
+immer geringer. Wir wollen uns ja aller Constructionen der **Menschheitsgeschichte**
 enthalten und überhaupt nicht die Massen betrachten, sondern die überall hin zerstreuten Einzelnen: diese
 bilden eine Brücke über den wüsten Strom. Diese setzen nicht etwa einen Prozess fort; sondern sie leben
 gemeinsam und gleichzeitig, Dank der Geschichte, die ein solches
@@ -933,16 +933,16 @@ wieder zur Erzeugung des Grossen und Schönen Anlass zu geben und Kraft zu verle
 kann nicht am Ende liegen, sondern in den höchsten Exemplaren, die, zerstreut durch Jahrtausende, zusammen
 alle höchsten Kräfte, die in der Menschheit verborgen sind, repräsentiren.
 
-Überdies: Weltprozess!! Es handelt sich doch nur um die Lumperei der menschlichen
+Überdies: **Welt**prozess!! Es handelt sich doch nur um die Lumperei der menschlichen
 Erdflöhe!
 
 Hartmann sagt p. 637: „So wenig es sich mit dem Begriff der Entwicklung vertragen würde, dem Weltprozess eine
-unendliche Dauer in der Vergangenheit zuzuschreiben, weil dann jede irgend denkbare
-Entwicklung bereits durchlaufen sein müsste, was doch nicht der Fall ist (!!!),
-ebensowenig können wir dem Prozess eine unendliche Dauer für die Zukunft zugestehen;
-beides höbe den Begriff der Entwicklung zu einem Ziele auf und stellte den Weltprozess
+unendliche Dauer in der **Vergangenheit** zuzuschreiben, weil dann jede irgend denkbare
+Entwicklung bereits durchlaufen sein müsste, was **doch nicht der Fall ist** (!!!),
+ebensowenig können wir dem Prozess eine unendliche Dauer für die **Zukunft** zugestehen;
+beides höbe den Begriff der **Entwicklung zu einem Ziele** auf und stellte den Weltprozess
 dem Wasserschöpfen der Danaïden gleich. Der vollendete Sieg des Logischen über das Unlogische muss also mit
-dem zeitlichen Ende des Weltprozesses, dem jüngsten Tage zusammenfallen(!!)“.
+dem **zeitlichen Ende des Weltprozesses, dem jüngsten Tage** zusammenfallen(!!)“.
 
 Von diesem Hartmannschen „Weltprozess“ flüchtet man gern zu dem demokritischen Atomengewirr und
 zu Darwinistischer
@@ -970,27 +970,27 @@ Willenverneinung
 eigentliche Pflicht. Zuletzt sollen gar die Majoritäten auf der Erde für die Vernichtung und die Rückkehr in’s
 Nichts abstimmen!
 
-Dagegen unsre Lehre, dass das Bewusstsein nur durch immer höhere Illusionen gefördert
+Dagegen unsre Lehre, **dass das Bewusstsein nur durch immer höhere Illusionen gefördert**
 und entwickelt wird. Wir stehen deshalb mit unserm „Bewusstsein“ so niedrig (verglichen etwa mit den
-Griechen), weil unsre Illusionen niedriger und gemeiner sind, als
+Griechen), weil unsre Illusionen **niedriger** und **gemeiner** sind, als
 die ihrigen. Diesen Fortschritt zur Gemeinheit bin ich nicht im Stande, einen Fortschritt zum „Mannesalter“ zu
 nennen. Dächte man die Illusionen verschwinden, so verdunstet das Bewusstsein bis zur Pflanze. Illusionen sind
-übrigens nur der Ausdruck für einen unbekannten Sachverhalt. Die Menschheit zur Blasirtheit zu führen ist das Hartmannsche Ziel: dann allgemeiner Selbstmord: von der Majorität der
+übrigens nur der Ausdruck für einen unbekannten Sachverhalt. Die Menschheit zur **Blasirtheit** zu führen ist das Hartmannsche Ziel: dann allgemeiner Selbstmord: von der Majorität der
 Menschen ausgeführt! Dann kippt die Welt um und versinkt wieder ins Meer des Nichts. Aufgabe der nächsten
 Generationen, durch Hingabe an den Weltprozess d.h. Bejahung des Willens zum Leben die Blasirtheit
 einzuleiten!
 
 Ekelhaftes Buch, eine Schande für die Zeit! Wie unendlich reiner, höher und sittlicher wirkt Schopenhauers
-Pessimismus! Diese Hartmannsche Philosophie ist die Fratze des Christenthums, mit ihrer
-absoluten Weisheit, ihrem jüngsten Tag, ihrer Erlösung usw. Die Speculation auf den Effect der monströsen Paradoxie, verbunden mit dem laissez faire, war nie toller. Die
+Pessimismus! Diese Hartmannsche Philosophie ist die **Fratze des Christenthums**, mit ihrer
+absoluten Weisheit, ihrem jüngsten Tag, ihrer Erlösung usw. Die Speculation auf den Effect der **monströsen Paradoxie**, verbunden mit dem **laissez faire**, war nie toller. Die
 David-Straussische Gegenwart wird in den Weltprozess eingeordnet, findet ihre Stelle und wird also
-justificirt. Daher der Erfolg bei der Litteraten-Masse (das heisst nämlich jetzt „Erfolg“
+justificirt. Daher der Erfolg bei der **Litteraten-Masse** (das heisst nämlich jetzt „Erfolg“
 überhaupt: die vermögen es schon, das Publikum zum Kaufen aufzureizen!).
 
 [29[53]](javascript:;)
 ----------------------
 
-Der Hegelsche „Weltprozess“ verlief sich in einen fetten preussischen Staat mit guter
+Der **Hegelsche** „Weltprozess“ verlief sich in einen fetten preussischen Staat mit guter
 Polizei. Das ist alles verkappte Theologie, auch bei Hartmann noch. Wir vermögen aber Anfang und Ende nicht zu
 denken: so lassen wir doch diese „Entwicklung“ auf sich beruhen! Es ist sofort lächerlich! Der Mensch und der
 „Weltprozess“! Der Erdfloh und der Weltgeist!
@@ -999,8 +999,8 @@ denken: so lassen wir doch diese „Entwicklung“ auf sich beruhen! Es ist sofo
 ----------------------
 
 Wozu die Menschen da sind, wozu „der Mensch“ da ist, soll uns gar nicht kümmern: aber wozu Du da bist, das
-frage dich: und wenn Du es nicht erfahren kannst, nun so stecke Dir selber Ziele, hohe
-und edle Ziele und gehe an ihnen zu Grunde! Ich weiss keinen besseren Lebenszweck als am
+frage dich: und wenn Du es nicht erfahren kannst, nun so stecke Dir selber Ziele, **hohe**
+und **edle Ziele** und gehe an ihnen zu Grunde! Ich weiss keinen besseren Lebenszweck als am
 Grossen und Unmöglichen zu Grunde zu gehen: animae magnae prodigus.
 
 [29[55]](javascript:;)
@@ -1008,14 +1008,14 @@ Grossen und Unmöglichen zu Grunde zu gehen: animae magnae prodigus.
 
 |  |  |
 | --- | --- |
-| 1. | Schilderung des historischen Sinns, zuletzt mit seinem Extrem, dem Weltprozess und daraus abgeleiteten Moralgesetz. |
-| 2. | Innere Gründe dieser Hypertrophie des historischen Sinns. |
-| 3. | Bedeutung der Historie für eine Cultur. |
+| 1. | **Schilderung** des **historischen Sinns**, zuletzt mit seinem Extrem, dem Weltprozess und daraus abgeleiteten Moralgesetz. |
+| 2. | Innere **Gründe** dieser Hypertrophie des historischen Sinns. |
+| 3. | **Bedeutung** der **Historie** für eine **Cultur**. |
 
 [29[56]](javascript:;)
 ----------------------
 
-Das Historische in der Erziehung. Der junge Mensch wird durch alle Jahrtausende
+Das Historische in der **Erziehung**. Der junge Mensch wird durch alle Jahrtausende
 gepeitscht, das wurde der Grieche und Römer nicht. Dazu politische Geschichte für Jünglinge! Die nichts von
 einem Kriege, nichts von einer Staatsaktion, von Handelspolitik, Machtfragen usw. verstehen können! So geht
 der moderne Mensch durch Galerien, so hört er Concerte! Das klingt anders als jenes, fühlt er, und das nennt
@@ -1039,7 +1039,7 @@ wie die Neueren zeigen.
 
 Nun der historische Student! Ein ganz isolirtes Capitelchen der Vergangenheit hat er erforscht: jetzt ist er
 Diener der Wissenschaft, der Wahrheit, jetzt ist es vorbei mit aller Bescheidenheit, er ist fertig! Der
-gelehrte Dünkel hindert die höhere Erziehung. Ich betrachte junge Doktoren der Geschichte
+gelehrte Dünkel **hindert** die höhere Erziehung. Ich betrachte junge Doktoren der Geschichte
 als Menschen, welche in der Bildung nicht bis drei zählen können und meistens auch nie zählen werden: denn sie
 sind bereits „produktiv“! Herr Je!
 
@@ -1054,11 +1054,11 @@ pardonner: aber man „verzeiht“ nicht, man justificirt alles. Selbst nicht ge
 Journalist alle Bande: er lässt sie nur im utilitarischen Sinne bestehn.
 
 Es soll nicht mehr das Zeitalter der harmonischen Persönlichkeit sein, sondern das der „gemeinsamen Arbeit“.
-Das heisst doch nur: die Menschen, bevor sie fertig sind, werden in der Fabrik gebraucht.
+Das heisst doch nur: die Menschen, **bevor** sie fertig sind, werden in der Fabrik gebraucht.
 Aber seid überzeugt, in Kurzem ist die Wissenschaft ebenso ruinirt, wie die Menschen dieser Fabrikarbeit. Die
-„gediegene Mittelmässigkeit“ wird immer mittelmässiger, der Mensch ist weiser als irgend ein Mensch in einem Punkt und in allen andern dümmer als irgend ein ehemaliger Gelehrter: in summa aber
+„gediegene Mittelmässigkeit“ wird immer mittelmässiger, der Mensch ist weiser als irgend ein Mensch in **einem** Punkt und in allen andern dümmer als irgend ein ehemaliger Gelehrter: in summa aber
 unendlich dünkelhafter. System der Kärrner, die das Genie als überflüssig dekretiren: man wird es euren Bauten
-ansehen, dass sie zusammengekarrt, nicht zusammengebaut sind. Dem,
+ansehen, dass sie zusammenge**karrt**, nicht zusammen**gebaut** sind. Dem,
 der ewig „Arbeitstheilung!“ „In Reih und Glied“ usw. im Munde hat, ist klärlich und voll zu sagen: wollt ihr
 die Wissenschaft möglichst schnell fördern, so werdet ihr sie auch möglichst schnell vernichten: wie auch die
 Henne zu Grunde geht, die ihr künstlich zum allzuschnellen Eierlegen zwingt. Gut, die Wissenschaft ist in den
@@ -1076,7 +1076,7 @@ Publikum“ kann man sich aber nicht leicht gemein genug denken!
 [29[58]](javascript:;)
 ----------------------
 
-Zum Schlusse. Wenn ihr durch diese Betrachtung unmuthig geworden
+Zum **Schlusse**. Wenn ihr durch diese Betrachtung **unmuthig** geworden
 seid, so kann euch der Autor sagen, dass er dies vorausgesehen hat: etwas aber, was er nicht voraussehen kann,
 ist, wohin ihr nun jenen Unmuth richten werdet: ob nämlich gegen den Autor oder gegen euch selbst. Im
 letzteren, gewiss seltnen Falle, werdet ihr am besten thun, den Autor ganz zu vergessen: was kommt auch darauf
@@ -1089,19 +1089,19 @@ Geschrieben habe ich für beide Classen und, wie ich hoffe, deutlich genug.
 In der ganzen Welt redet man nicht vom Unbewussten, weil es seinem Wesen nach ungewusst ist; nur in Berlin
 redet und weiss man etwas davon und erzählt uns, worauf es eigentlich abgesehn ist. Nämlich darauf, dass unsre
 Zeit gerade so sein muss wie sie ist, wenn die Menschheit dieses Dasein einmal satt bekommen soll: was wir von
-Herzen glauben — während nur E. von H<artmann> es weiss. — Was David
-Strauss als naive Thatsächlichkeit hinnimmt, wird bei H<artmann> nicht nur von hinten, ex causis
+Herzen glauben — während nur E. von H&amp;lt;artmann&amp;gt; es **weiss**. — Was David
+Strauss als naive Thatsächlichkeit hinnimmt, wird bei H&amp;lt;artmann&amp;gt; nicht nur von hinten, ex causis
 efficientibus gerechtfertigt, sondern sogar von vorn, ex causa finali: von dem jüngsten Tage her lässt
-H<artmann> das Licht über unsre Zeit strahlen, und da findet sich, dass sie sich dem Mannesalter
+H&amp;lt;artmann&amp;gt; das Licht über unsre Zeit strahlen, und da findet sich, dass sie sich dem Mannesalter
 der Menschheit nähert, jenem beglückten Zustande, wo es nur noch gediegene Mittelmässigkeit, Kunst von der
 Art, wie sie der Berliner Börsenmann am Abend braucht, wo die „Genies kein Bedürfniss der Zeit mehr sind, weil
 es hiesse, die Perlen vor die Säue werfen oder auch weil die Zeit über das Stadium, welchem Genie’s gebührten,
-zu einem wichtigeren hinweggeschritten ist“ (p. 619I). Wir wünschten,
+zu einem **wichtigeren** hinweggeschritten ist“ (p. 619I). Wir wünschten,
 wir hatten uns verschrieben; aber ich habe nur abgeschrieben. Moral: es steht ganz und gar erbärmlich, es wird
 noch erbärmlicher kommen, aber es muss so stehen, es muss so kommen, „sichtbar greift der Antichrist weiter
 und weiter um sich“ (p. 610). Aber wir sind auf dem besten Wege mit dem allem: „darum rüstig vorwärts im
 Weltprozess als Arbeiter im Weinberge des Herrn, denn der Prozess ist es allein, der zur Erlösung führen kann“
-p. 638. Errathen wir den Sinn des H<artmann>, wenn wir in ihm den ironischen Farceur wittern,
+p. 638. Errathen wir den Sinn des H&amp;lt;artmann&amp;gt;, wenn wir in ihm den ironischen Farceur wittern,
 der ein-
 
 *Erratum:*ein  
@@ -1112,8 +1112,8 @@ der ein-
 preisgeben will? In diesem Sinne haben wir selten eine lustigere Erfindung und eine philosophischere
 Schelmerei gelesen: aber das gesammte Litteratenthum hat nicht recht hingehört und nur seine eigene
 Rechtfertigung im apokalyptischen Lichte darin gefunden, so dass ihm entgangen ist, dass
-H<artmann> geradezu die Weltprozess-Philosophie als eine Philosophie für zeitgenössisches
-Strolchthum geschrieben hat. Das ist der eigentliche Reiz bei allen Erfindungen H<artmann>’s:
+H&amp;lt;artmann&amp;gt; geradezu die Weltprozess-Philosophie als eine Philosophie für zeitgenössisches
+Strolchthum geschrieben hat. Das ist der eigentliche Reiz bei allen Erfindungen H&amp;lt;artmann&amp;gt;’s:
 der Wissende fühlt, dass er es gar nicht ernsthaft meint, ausser so weit es nöthig ist, die Unwissenden zu
 biederem Ernste zu verführen.
 
@@ -1159,7 +1159,7 @@ Begebenheiten selbst erfinden, wenn er anders dazu Lust hat.“
 [29[63]](javascript:;)
 ----------------------
 
-Wie man vom Schauspieler gesagt hat, seine Kunst habe drei Stufen: „eine Rolle verstehen, eine Rolle fühlen und das Wesen einer Rolle anschauen“, und nur alles
+Wie man vom Schauspieler gesagt hat, seine Kunst habe drei Stufen: „eine Rolle **verstehen**, eine Rolle **fühlen** und das Wesen einer Rolle anschauen“, und nur alles
 dreies den wahren Schauspieler macht: so wird man anders vom historisch grossen Menschen sagen: er schaut vor
 allem das, was zu thun ist, seine Mission, als eine Summe von lauter einzelnen anschaulichen Fällen, selten
 fühlt er die Einheit aller dieser Fälle als seine Mission und am seltensten versteht er seine Mission. Aber
@@ -1168,12 +1168,12 @@ der Historiker folgt ihm auf den Fersen und kann alles dreies.
 [29[64]](javascript:;)
 ----------------------
 
-Ungar und der Hegelsche Professor.
+Ungar und **der Hegelsche Professor**.
 
 Die Geschichte als „der sich selbst realisirende Begriff, mit nachweisbarer Nothwendigkeit und zu
 immerwährendem Fortschritt. Sie bekommt dadurch „einen theoretischen Heiligenschein“, sie ist „das Wandeln
 Gottes auf der Erde, welcher Gott aber seinerseits erst durch die Geschichte gemacht wird“. Da möchte ich fast
-dem Spanier Juan Huart<e> beistimmen, der von den Deutschen sagt, sie hätten ein starkes
+dem Spanier Juan Huart&amp;lt;e&amp;gt; beistimmen, der von den Deutschen sagt, sie hätten ein starkes
 Gedächtniss und wenig Verstand; ihr Verstand wäre immer wie der Verstand der Betrunknen, weil ihnen die viele
 Feuchtigkeit, womit ihr Gehirn und ihr übriger Körper ausgefüllt sind, nicht verstatte in die Natur der Dinge
 einzudringen.“ Auch wird man daran erinnert, dass er ihnen grosse Erfindungskraft in Uhrwerken, Wasserkünsten
@@ -1239,17 +1239,17 @@ selbst belügen könne.
 [29[68]](javascript:;)
 ----------------------
 
-„In die Zukunft schauen ist schwer, sagt Grillparzer; in die Vergangenheit rein
-zurückblicken, noch schwerer. Ich sage rein, d.h. ohne von dem, was in der Zwischenzeit
+„In die Zukunft schauen ist schwer, sagt **Grillparzer**; in die Vergangenheit rein
+zurückblicken, noch schwerer. Ich sage **rein**, d.h. ohne von dem, was in der Zwischenzeit
 sich begeben oder herausgestellt hat, etwas in den Rückblick mit einzumischen.“
 
-Grillparzer: „Der Grundfehler des deutschen Denkens und Strebens liegt in einer schwachen Persönlichkeit, zufolge dessen das Wirkliche, das Bestehende nur einen geringen
+**Grillparzer:** „Der Grundfehler des deutschen Denkens und Strebens liegt in einer **schwachen Persönlichkeit**, zufolge dessen das Wirkliche, das Bestehende nur einen geringen
 Eindruck auf den Deutschen macht.“
 
 [29[69]](javascript:;)
 ----------------------
 
-Innerlichkeit — nach aussen Unehrlichkeit. Philosophie.
+Innerlichkeit — nach aussen Unehrlichkeit. **Philosophie.**
 
 [29[70]](javascript:;)
 ----------------------
@@ -1278,19 +1278,19 @@ ordentliches thun will, muss vorempfinden und nicht nachempfinden und darf sich 
 ----------------------
 
 Hegel „wenn der Geist einen Ruck macht, da sind wir Philosophen auch
-dabei.“ Nun da wird wohl auch bei Hartmann etwas von dem ironischen Bewusstsein aufrucken.
+dabei.“ Nun da wird wohl auch bei **Hartmann** etwas von dem ironischen Bewusstsein aufrucken.
 In der Philosophie ist es der Geist eines Volkes, der Geist einer Zeit, der sich darin zum Bewusstsein
 kommt.
 
 *Erratum:*
 
-Hegel „wenn der Geist einen Ruck macht, da sind wir Philosophen auch dabei.“ In der Philosophie ist es der Geist eines Volkes, der Geist einer Zeit, der sich darin zum Bewusstsein kommt. Nun da wird wohl auch bei Hartmann etwas von dem ironischen Bewusstsein zu finden <sein.>
+Hegel „wenn der Geist einen Ruck macht, da sind wir Philosophen auch dabei.“ In der Philosophie ist es der Geist eines Volkes, der Geist einer Zeit, der sich darin zum Bewusstsein kommt. Nun da wird wohl auch bei **Hartmann** etwas von dem ironischen Bewusstsein zu finden &amp;lt;sein.&amp;gt;
 
   
 *lies:*
 
 Hegel „wenn der Geist einen Ruck macht, da sind wir Philosophen auch
-dabei.“ Nun da wird wohl auch bei Hartmann etwas von dem ironischen Bewusstsein aufrucken.
+dabei.“ Nun da wird wohl auch bei **Hartmann** etwas von dem ironischen Bewusstsein aufrucken.
 In der Philosophie ist es der Geist eines Volkes, der Geist einer Zeit, der sich darin zum Bewusstsein
 kommt.
 
@@ -1298,17 +1298,17 @@ kommt.
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 Gott soll „der in allen Völkergeistern thätige allgemeine Geist der
-Menschheit“ sein, die Erhebung zum Genuss der Idee an und für sich soll Religion sein. Hegel: „die allgemeine
-Weltgeschichte, deren Begebenheiten die Dialektik der besonderen Völkergeister, — die er auf Fläschchen hat, — das
-Weltgericht
+Menschheit“ sein, die Erhebung zum Genuss der Idee an und für sich soll Religion sein. Hegel: „die **allgemeine**
+**Weltgeschichte**, deren Begebenheiten die Dialektik der besonderen **Völker**geister, — die er auf Fläschchen hat, — das
+**Weltgericht**
 
 *Erratum:*Weltgericht  
-*lies:*Weltgericht  
+*lies:***Weltgericht**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  darstellt.“ „Dass der Geschichte und zwar
 wesentlich der Weltgeschichte ein Endzweck an und für sich zum Grunde liege und derselbe wirklich in ihr
-realisirt worden sei und werde — der Plan der Vorsehung — dass überhaupt Vernunft in der
+realisirt worden sei und werde — der Plan der Vorsehung — dass überhaupt **Vernunft** in der
 Geschichte sei, muss für sich selbst philosophisch und damit als an und für sich nothwendig ausgemacht
 werden.“ „Eine Geschichte ohne solchen Zweck und ohne solche Beurtheilung wäre nur ein schwachsinniges Ergehen
 des Vorstellens, nicht einmal ein Kindermährchen, denn selbst die Kinder fordern in den Erzählungen ein
@@ -1358,7 +1358,7 @@ gäbe einen Weltzweck, so wäre es unmöglich ihn zu wissen, weil wir Erdflöhe 
 Vergötterung der abgezogenen Allgemeinbegriffe, Staat, Volk, Menschheit, Weltprozess hat den Nachtheil, die
 Bürde des Individuums kleiner zu machen und seine Verantwortung zu erleichtern. Wenn es auf den Staat ankommt,
 dann liegt wenig am Einzelnen: wie jeder Krieg zeigt. In’s Moralische gewendet: wer dem Menschen den Glauben
-nimmt, dass er etwas Fundamental-Werthvolleres sei als alle die Mittel zu seiner
+**nimmt**, dass er etwas Fundamental-Werthvolleres sei als alle die Mittel zu seiner
 Existenz, der macht ihn schlechter. Die Abstracta sind seine Erzeugnisse, seine Mittel zur Existenz — nichts
 mehr, nicht seine Herren. Es muss ihm als dem moralischen Wesen, jederzeit erlaubt sein, im Kampfe gegen
 übermächtig werdende, zu Zwecken umgedeutete Mittel zu Grunde zu gehen, d.h. Märtyrer zu werden: um nicht
@@ -1367,10 +1367,10 @@ propter vitam vitae perdere causas.
 [29[75]](javascript:;)
 ----------------------
 
-Was der Mensch als Ursache und Wirkung in einander greifen sieht,
-ist er geneigt, als Mittel und Absicht zu verbinden. Schiller: „eine Erscheinung nach der andern fängt an, sich dem blinden Ohngefähr, der gesetzlosen
-Freiheit zu entziehen und sich einem übereinstimmenden Ganzen — das freilich nur in seiner
-Vorstellung vorhanden ist — als ein passendes Glied einzureihen.“ Ich stelle als allgemeinen Kanon auf,
+Was der Mensch als **Ursache** und **Wirkung** in einander greifen sieht,
+ist er geneigt, als **Mittel** und **Absicht** zu verbinden. **Schiller:** „eine Erscheinung nach der andern fängt an, sich dem blinden Ohngefähr, der gesetzlosen
+Freiheit zu entziehen und sich einem übereinstimmenden Ganzen — **das freilich nur in seiner
+Vorstellung vorhanden ist** — als ein passendes Glied einzureihen.“ Ich stelle als allgemeinen Kanon auf,
 die Geschichte der Völker mit Anwendung eines Minimums von Geist und Absicht, im Ganzen rein materiell, nach
 Analogie von stossenden Atomencomplexen, zu erklären. Schwerkraft Dummheit. — Gegen die Mythologie.
 
@@ -1406,8 +1406,8 @@ sämmtlichen Ackergesetze gehen mich eigentlich gar nichts an, aber die Art, wie
 die complicirten Verhältnisse deutlich macht, das ist’s, was mich fördert, was mir die Pflicht auferlegt, in
 den Geschäften, die ich übernehme, auf gleiche gewissenhafte Weise zu verfahren.“
 
-Goethe an Lavater „Resultate und Abstractionen mag ich nicht, Geschichte und Einzelheiten
-will ich nicht.“
+Goethe an Lavater **„Resultate und Abstractionen mag ich nicht, Geschichte und Einzelheiten
+will ich nicht.“**
 
 [29[79]](javascript:;)
 ----------------------
@@ -1422,17 +1422,17 @@ und ohne Bedenken. Das war ein rechter Mensch, und so sollte man auch sein!“
 
 Mit der historischen Bildung steht es wie mit der Gelehrsamkeit.
 
-Lichtenberg sagt „ich glaube, dass einige der grössten Geister, die je gelebt haben,
+**Lichtenberg** sagt „ich glaube, dass einige der grössten Geister, die je gelebt haben,
 nicht halb so viel gelesen hatten und bei weitem nicht so viel wussten, als manche unserer mittelmässigen
 Gelehrten. Und mancher unserer sehr mittelmässigen Gelehrten hätte ein grösserer Mann werden können, wenn er
 nicht so viel gelesen hätte.“
 
-Lichtenberg „sollte es nicht sehr viel besser um das menschliche Geschlecht stehen, wenn
+**Lichtenberg** „sollte es nicht sehr viel besser um das menschliche Geschlecht stehen, wenn
 wir gar keine Geschichte, wenigstens keine politische, mehr hätten? Der Mensch würde mehr nach den
 jedesmaligen Kräften handeln, die er hat; da jetzt hier und da das Exempel, gegen einen, den es bessert,
 Tausende schlimmer macht.“
 
-Goethe „Wer sich von nun an nicht auf eine Kunst oder Handwerk legt, der wird übel daran
+**Goethe** „Wer sich von nun an nicht auf eine Kunst oder Handwerk legt, der wird übel daran
 sein. Das Wissen fördert nicht mehr, bei dem schnellen Umtrieb der Welt; bis man von allein Notiz genommen
 hat, verliert man sich selbst.“
 
@@ -1473,7 +1473,7 @@ Eitelkeit.
 [29[84]](javascript:;)
 ----------------------
 
-„Nur durch eine erhöhte Praxis, sagt Goethe, sollten die
+„Nur durch eine **erhöhte Praxis**, sagt **Goethe**, sollten die
 Wissenschaften auf die äussere Welt wirken; denn eigentlich sind sie alle
 esoterisch
 
@@ -1485,7 +1485,7 @@ esoterisch
 werden. Alle übrige Theilname führt zu nichts. — Dass man auch die übrige Welt dazu beruft und ihr davon Notiz
 giebt, wie es in der neueren Zeit geschieht, ist ein Missbrauch und trägt mehr Schaden als Nutzen.“
 
-Goethe „Durchaus aber bleibt ein Hauptkennzeichen, woran das Wahre vom Blendwerk am
+**Goethe** „Durchaus aber bleibt ein Hauptkennzeichen, woran das Wahre vom Blendwerk am
 sichersten zu unterscheiden ist: jenes wirkt immer fruchtbar und begünstigt den, der es besitzt und hegt;
 dahingegen das Falsche an und für sich todt und fruchtlos daliegt, ja sogar wie eine Nekrose anzusehen ist, wo
 der absterbende Theil den lebendigen hindert die Heilung zu vollbringen.“
@@ -1499,11 +1499,11 @@ Einem Pferde reiten, so muss schon einer hinten aufsitzen.“
 [29[86]](javascript:;)
 ----------------------
 
-„Fragen Sie sich selbst, sagt Hume, oder jeden ihrer Bekannten, ob sie die letzten zehn
+„Fragen Sie sich selbst, sagt **Hume**, oder jeden ihrer Bekannten, ob sie die letzten zehn
 oder 20 Jahre ihres Lebens noch einmal zu durchleben wünschten. Nein! Aber die nächsten 20 werden besser sein,
 sagen sie —
 
-And from the dregs of live hope to rec<e>ive,
+And from the dregs of live hope to rec&amp;lt;e&amp;gt;ive,
 
 What the first sprightly running could not give.“
 
@@ -1514,7 +1514,7 @@ da das Glück nicht da ist, muss es offenbar kommen, schliessen sie, oder dagewe
 verglichen mit dem früheren Unglück usw. Was jeden Menschen vorwärts treibt, treibt sie alle vorwärts: sie
 benutzen die Geschichte zum Glücklicherwerden in der Zukunft.
 
-Es giebt zwei Betrachtungsarten des Vergangnen: für die eine genügt jeder Zeitraum,
+Es giebt zwei **Betrachtungsarten des Vergangnen**: für die eine genügt jeder Zeitraum,
 jedes Volk, jeder Tag: die andre ist unersättlich, weil sie nirgends die Antwort findet, die sie sucht: wie
 sich’s glücklich lebt. Nach der ersten lebt der Weise, nach der zweiten, der historischen, der Unweise,
 thätige Mensch. Nun giebt es eine Art, Geschichte zu treiben, die die Menschen hindert, thätig zu sein, ohne
@@ -1546,7 +1546,7 @@ der nächsten Nähe und ist bald satt am Dasein, das andre ist unersättlich und
 Bei der zweiten Art sollte eigentlich die Vergangenheit immer nur pessimistisch betrachtet werden — um
 nämlich die Gegenwart relativ erträglich zu finden. Jedoch wieder nicht so pessimistisch, dass sie jene erste
 Lehre von der Werthlosigkeit gäbe, sondern so, dass sie zwar schlechter ist als die Gegenwart, und der
-Gegenwärtige mit ihr nicht tauschen mag, aber doch einen Fortschritt in sich zeigt, eben
+Gegenwärtige mit ihr nicht tauschen mag, aber doch einen **Fortschritt** in sich zeigt, eben
 zur Gegenwart hin, damit der Glaube bekräftigt werde, dass das Glück bei einem weitern Fortschreiten zu
 erreichen sei. Je nachdem also eine Zeit ihr eignes Elend erkennt, um so dunkler wird sie die Vergangenheit
 zeichnen, je weniger, um so heller. Und die Glücklichen d.h. die Behaglichen werden alles Vergangene im
@@ -1558,19 +1558,19 @@ Bei uns ist nun der historische Trieb ausserordentlich stark wie noch nie: und t
 von dem Glück der Gegenwart eben so stark. Ein Widerspruch! Hier scheint das natürliche Verhältniss zu
 fehlen.
 
-Man denke an Livius’ Ziel, an Tacitus, an Macc<h>iavell — Flucht vor der Gegenwart und Trost —
-oft genügt schon die Betrachtung, dass es einmal anders war, oft dass es eben so war, oft dass es besser war.
+Man denke an Livius’ Ziel, an Tacitus, an Macc&amp;lt;h&amp;gt;iavell — Flucht vor der Gegenwart und Trost —
+oft genügt schon die Betrachtung, dass es einmal **anders** war, oft dass es **eben so** war, oft dass es **besser** war.
 
-Unsre Zeit dagegen capricirt sich auf die objective Geschichtsschreibung, das heisst
+Unsre Zeit dagegen capricirt sich auf die **objective** Geschichtsschreibung, das heisst
 Geschichte als Luxus: und verräth das allergrösste Behagen an sich selbst.
 
-Geschichte treiben ist zum luxuriirenden Triebe geworden: deshalb soll man sich der
+Geschichte treiben ist zum **luxuriirenden Triebe** geworden: deshalb soll man sich der
 Nöthe bewusst werden und damit ein naturgemässes Verhältniss von Geschichte und gegenwärtiger Noth
 herstellen.
 
-Wie kommt es, dass das Nothgefühl so schwach geworden ist? Von der schwachen Persönlichkeit.
+Wie kommt es, dass das Nothgefühl so **schwach** geworden ist? Von der **schwachen Persönlichkeit**.
 
-Der luxuriirende historische Trieb macht diese aber immer schwächer.
+Der luxuriirende historische Trieb macht diese aber immer **schwächer**.
 
 [29[88]](javascript:;)
 ----------------------
@@ -1602,13 +1602,13 @@ leben nach unserer Meinung schwach gewordene, in heissem Clima und Trägheit üb
 ihnen die schwache Persönlichkeit vor und erklären ihre unhistorische Betrachtungsart als Zeichen der
 Stagnation. Vielleicht aber ist auch unsere Forderung geschichtlicher Menschen und Völker nur ein
 occidentalisches Vorurtheil. Gewiss ist wenigstens, dass die Weisen aller Zeiten so unhistorisch gedacht haben
-und dass durch Jahrtausende von historischen Erlebnissen auch keinen Schritt breit mehr
+und dass durch Jahrtausende von historischen Erlebnissen auch keinen Schritt breit **mehr**
 Weisheit zu erlangen ist. Die folgende Untersuchung aber wendet sich an die Unweisen und Thätigen, um zu
-fragen, ob nicht gerade unsre jetzige Manier Geschichte zu treiben erst recht der Ausdruck schwacher Persönlichkeiten ist: während wir doch mit dieser Manier so weit als möglich von jenem
+fragen, ob nicht gerade unsre jetzige Manier Geschichte zu treiben erst recht der Ausdruck **schwacher Persönlichkeiten** ist: während wir doch mit dieser Manier so weit als möglich von jenem
 unhistorischen Betrachten und Weisewerden entfernt sind. —
 
 Nehmen wir an, die historische Untersuchung vermöchte in Betreff von etwas Lebendigem die Wahrheit zu
-erreichen, z.B. in Betreff des Christenthums: dann hätte sie jedenfalls den Wahn
+erreichen, z.B. in Betreff des Christenthums: dann hätte sie jedenfalls den **Wahn**
 zerstört, der um alles Lebendige und Thätige, wie eine Atmosphaere, sich breitet, — nämlich
 
 „bei allen grossen Dingen,  
@@ -1645,7 +1645,7 @@ war.
 | II | Monumental — Antiquarisch. |
 | III | Wirkungen der Hypertrophie. |
 | IV | Ursachen derselben. Hartmann als Illustration zum Schluss. |
-| V | Die schwache Persönlichkeit. Deshalb ist jener Trieb zu bezwingen, er ruht auf einer Schwäche   (Mythologie der Geschichte.)   Mittel gegen das historische Fieber:   |  |  | | --- | --- | | 1) | Keine Geschichte? | | 2) | Leugnung aller Zwecke: das Atomengewirr. | | 3) | Goethe Naturwissenschaft. | | 4) | Pflege des unhistorischen Sinns: Philosophie — Religion —  Kunst. Seher: Zukunft. | |
+| V | Die schwache Persönlichkeit. **Deshalb ist jener Trieb zu bezwingen**, er ruht auf einer **Schwäche**   (Mythologie der Geschichte.)   **Mittel** gegen das historische Fieber:   |  |  | | --- | --- | | 1) | Keine Geschichte? | | 2) | Leugnung aller Zwecke: das Atomengewirr. | | 3) | Goethe Naturwissenschaft. | | 4) | Pflege des **unhistorischen Sinns**: Philosophie — Religion —  Kunst. Seher: Zukunft. | |
 
 [29[91]](javascript:;)
 ----------------------
@@ -1684,33 +1684,33 @@ herrscht“.
 [29[95]](javascript:;)
 ----------------------
 
-Niebuhr (fere): „zu einer Sache wenigstens ist die Geschichte, klar und ausführlich
+Niebuhr **(fere)**: „zu einer Sache wenigstens ist die Geschichte, klar und ausführlich
 begriffen, nutz: dass man weiss, wie auch die grössten und höchsten Geister unsres menschlichen Geschlechts
 nicht wissen wie zufällig ihr Auge die Form angenommen hat, wodurch sie sehen, und wodurch zu sehen sie von
 Jedermann gewaltsam fordern, gewaltsam nämlich, weil die Intensität ihres Bewusstseins ausnehmend gross ist.
 Wer dies nicht ganz bestimmt und in vielen Fällen weiss und begriffen hat, den unterjocht die Erscheinung
 eines mächtigen Geistes, der in eine gegebene Form die höchste Leidenschaftlichkeit bringt: ist der Leser
-unreif, so bewirkt das unmittelbare Anschauen des täglichen intellectuellen Lebens eines Mächtigen in seiner Seele den gleichen Nachtheil, den Romanlecture für ein schwaches Mädchen hat.“
+unreif, so bewirkt das unmittelbare Anschauen des täglichen intellectuellen Lebens eines **Mächtigen** in seiner Seele den gleichen Nachtheil, den Romanlecture für ein schwaches Mädchen hat.“
 
 [29[96]](javascript:;)
 ----------------------
 
 „Objectivität des Historikers“ ist ein Unsinn. Man meint, es bedeute, dass ein Ereigniss in allen seinen
-Motiven und Folgen so rein angeschaut werde, dass es keine Wirkung mehr thut, nämlich ein
+Motiven und Folgen so rein angeschaut werde, dass es keine **Wirkung** mehr thut, nämlich ein
 reiner intellectueller Process bleibt: wie die Landschaft für den Künstler, der sie nur darstellt.
 „Interesseloses Anschauen“, ein ästhetisches Phänomen, Abwesenheit aller Willensregungen. Mit „objectiv“ ist
-also ein Zustand im
+also ein Zustand **im**
 
 *Erratum:*im  
-*lies:*im  
+*lies:***im**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Historiker gemeint, die
 künstlerische Beschaulichkeit: ein Aberglaube aber ist es, dass das Bild, das die Dinge in einem solchermassen
 gestimmten Menschen zeigen, das wahre Wesen der Dinge offenbare. Oder meint man, dass in jenem Zustande die
-Dinge sich förmlich abphotographiren, meint man, es sei ein rein passiver Zustand? Im
+Dinge sich förmlich abphotographiren, meint man, es sei ein rein **passiver** Zustand? Im
 Gegentheil: es ist die eigentliche Zeugungszeit des Kunstwerks, ein Compositionsmoment allerhöchster Art: der
-Einzelwille schläft dabei. Das Gemälde ist künstlerisch wahr, gewiss noch nicht
+Einzelwille schläft dabei. Das Gemälde ist **künstlerisch wahr**, gewiss noch nicht
 historisch; es sind die facta nicht, sondern deren Gewebe und Zusammenhang, der hier hinzugedichtet ist und
 der zufällig wahr sein kann: ist er aber falsch, immer noch „objectiv“.
 
@@ -1721,48 +1721,48 @@ versteht, widerstreitet. Dass der Mensch die Vergangenheit überspinnt und bänd
 Wahrheitstrieb. Die vollkommene Form einer solchen Geschichtsschreibung ist rein Kunstwerk: ohne einen Funken
 der gemeinen Wahrheit.
 
-Ist es erlaubt, dass alles küntlerisch betrachtet werde? Für das Vergangne wünsche ich
-vor allem die moralische Abschätzung. Also eine bedenkliche Verwechslung des
+Ist es erlaubt, dass alles **küntlerisch** betrachtet werde? Für das Vergangne wünsche ich
+vor allem die **moralische** Abschätzung. Also eine bedenkliche Verwechslung des
 Künstlerischen und des Moralischen: wodurch das Moralische abgeschwächt wird.
 
-Nun aber ist meistens jene Objectivität nur eine Phrase, weil die künstlerische Potenz
-fehlt. An Stelle jener künstlerischen Ruhe tritt die schauspielerische Affectation der
+Nun aber ist meistens jene Objectivität nur eine Phrase, weil die **künstlerische** Potenz
+fehlt. An Stelle jener künstlerischen Ruhe tritt die **schauspielerische Affectation** der
 Ruhe: der Mangel an Pathos und moralischer Kraft kleidet sich als überlegne Kälte der Betrachtung. In
-gemeineren Fälle<n> tritt die Banalität, und Allerweltsweisheit, die allerdings gar nichts
-Aufregendes hat, an Stelle der künstlerischen Interesselosigkeit. Alles Nichtaufregende
+gemeineren Fälle&amp;lt;n&amp;gt; tritt die Banalität, und Allerweltsweisheit, die allerdings gar nichts
+Aufregendes hat, an Stelle der künstlerischen Interesselosigkeit. Alles **Nichtaufregende**
 wird gesucht —
 
 Wo nun gerade das Höchste und Seltenste behandelt wird, da ist die gemeine und flache Motivation empörend,
-wenn sie aus der Eitelkeit des Historikers herstammt. (Swift: „jeder
+wenn sie aus der **Eitelkeit** des Historikers herstammt. (**Swift:** „jeder
 Mann hat gerade soviel Eitelkeit, als es ihm am Verstande mangelt.“)
 
 Soll der Richter kühl sein? Nein: er soll nicht parteiisch sein, nicht Nutzen und Schaden für sich im Auge
 haben. Vor allem muss er wirklich über den Parteien stehen. Ich sehe nicht ein, weshalb ein Spätgeborner schon
-deshalb Richter aller früher Gebornen sein solle. Die meisten Historiker stehen unter
+deshalb Richter aller früher Gebornen sein solle. Die meisten Historiker stehen **unter**
 ihren Objecten!
 
-Man nimmt jetzt an: der, den ein Moment der Vergangenheit gar nichts angeht, sei berufen
+Man nimmt jetzt an: der, den ein Moment der Vergangenheit gar **nichts angeht**, sei berufen
 ihn darzustellen: Philologen und Griechen verhalten sich meistens so zu einander: sie gehen sich nichts an.
 Das nennt man auch „Objectivität“: selbst zum Photographiren gehört, ausser Object und Platte, das Licht: doch
 meint man, es genüge Object und Platte. An strahlendem Sonnenlicht fehlt es: im besten Falle glaubt man, dass
 das Oellicht der Studirstube genüge.
 
 Ganz unbesonnene Menschen glauben überhaupt dass sie und ihre Zeit, in allen Popularansichten, Recht
-habe<n>: wie jede Religion es von sich glaubt. Sie nennen „Objectivität“
+habe&amp;lt;n&amp;gt;: wie jede Religion es von sich glaubt. Sie nennen **„Objectivität“**
 das Messen vergangner Meinungen an den Allerweltsmeinungen, in denen sie den Canon aller Wahrheiten suchen.
 Übersetzung der Vergangenheit in die Trivialität der Gegenwart ist ihre Arbeit. Feindselig sind sie gegen jede
 Geschichtsschreibung, die diese Popularmeinungen nicht für kanonisch hält: das soll „subjectiv“ sein!
 
-Nur aus der höchsten Kraft der Gegenwart dürft ihr das Vergangne deuten: nur in der
+**Nur aus der höchsten Kraft der Gegenwart dürft ihr das Vergangne deuten:** nur in der
 höchsten Anspannung werdet ihr errathen, was in dem Vergangnen wissenswürdig ist. Gleiches durch Gleiches!
-Sonst seid ihr verloren, sonst zieht ihr das Vergangne zu euch nieder. Glaubt einer
-Geschichtsschreibung nicht, wenn sie nicht in den Händen der seltensten
-Geister ist: ihr werdet es immer merken, welcher Qualität ihr Geist ist, wenn einmal ein allgemeiner
+Sonst seid ihr verloren, sonst zieht ihr das Vergangne zu euch nieder. **Glaubt** einer
+Geschichtsschreibung **nicht**, wenn sie nicht in den Händen der **seltensten
+Geister** ist: ihr werdet es immer merken, welcher Qualität ihr Geist ist, wenn einmal ein allgemeiner
 Satz ausgesprochen wird. Es kann Keiner zugleich ein grosser Historiker und ein Flach- oder Duselkopf sein.
 Verwechselt mir aber die Arbeiter nicht: z.B. les historiens de Ms. Thiers wie man in Frankreich naiver sagt.
 Ein grosser Gelehrter und zugleich ein Flachkopf — das ist möglich!
 
-Also: Geschichte bedarf der Thätige, Geschichte schreibt der Erfahrne! Wer nicht Einiges
+Also: **Geschichte bedarf der Thätige, Geschichte schreibt der Erfahrne!** Wer nicht Einiges
 grösser und höher erlebt hat als alle, wird auch nichts aus der Vergangenheit zu deuten
 vermögen.
 
@@ -1819,14 +1819,14 @@ Mehr noch, weil nie der Überdruss dich quälet!
   
 
 Wir seufzen aber über uns, dass wir das Vergangne nicht los werden können: während es uns scheinen will, als
-ob das Thier glücklich sein müsse, weil es <nicht> überdrüssig wird, sofort vergisst und
+ob das Thier glücklich sein müsse, weil es &amp;lt;nicht&amp;gt; überdrüssig wird, sofort vergisst und
 fortwährend den erlebten Augenblick in Nebel und Nacht zurückweichen sieht. So geht es auf in der Gegenwart,
 wie eine Zahl in einer andern ohne Rest aufgeht, und erscheint als das ganz und gar, was es ist, in jedem
 Moment, ohne alle Schauspielerei und absichtliches Verbergen. Wir dagegen leiden alle an dem dunkeln und
 unauflöslichen Reste des Gewesenen und sind etwas anderes als was wir
 erscheinen und
 
-*Erratum:*erscheinen, <wir>  
+*Erratum:*erscheinen, &amp;lt;wir&amp;gt;  
 *lies:*erscheinen und  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -1838,7 +1838,7 @@ Leiden und der Kampf beginnt und das Leben als ein unendliches Imperfectum inaug
 Tod auf diese Erkenntniss, dass das Dasein ein ewiges Imperfectum ist — als ewiges Gewesensein —, sein Siegel,
 indem er zwar das begehrte Vergessen bringt, aber die Gegenwart und Dasein selbst dabei unterschlägt.
 
-Wir müssen also das Vergangne betrachten — das ist nun einmal Menschenloos: unter diesem
+Wir **müssen** also das Vergangne betrachten — das ist nun einmal Menschenloos: unter diesem
 harten Joche hart zu werden soll keinem erspart sein, und wenn einer sehr hart geworden ist, bringt er es
 vielleicht sogar so weit, das Menschenloos eben wegen jenes Nichtvergessenkönnens zu preisen, eben deshalb
 weil das Vergangne in uns nicht sterben kann und uns mit der Unruhe eines Gespenstes rastlos weiter treibt,
@@ -1883,17 +1883,17 @@ Natürliche Bedingungen bei Monumentalem und Antiquarischem.
 
 Historie als Luxus — Einwirkung rein negativ.
 
-Diese Triebe bringen Gefahren für die Wahrheit der Geschichte mit
-sich: deshalb hat man sie exstirpiren wollen: aber jetzt hat Historie keinen Sinn.
+**Diese** Triebe bringen **Gefahren für die Wahrheit** der Geschichte mit
+sich: deshalb hat man sie **exstirpiren** wollen: aber jetzt hat Historie keinen Sinn.
 
 |  |  |
 | --- | --- |
-| A. | Nachmachen — nicht nachmachen — Resultat: Assimilation. Gesichtspunkt des Monumentalen. |
-|  | Verehren, Dank: Resultat Treue — Motiv des Antiquarischen — Pietät. „Es war einmal so“ „Trost“. |
-| B. | Historie ohne alle subjectiven Anlässe, ohne Nachahmung, Pietät, gegenwärtige Noth. |
-|  | Höchste Schätzung des Wahren ein Characteristikum der Zeit: Kant — Lüge. |
-|  | Jetzt reines Begreifen, ohne Beziehung zum Leben — übernimmt die Ausartung des Antiquarischen (das Todte ohne Verehrung) und des Monumentalen (das Lebende ohne Nachahmung). |
-|  | Schilderung der Objectivität. |
+| A. | **Nachmachen** — nicht nachmachen — Resultat: **Assimilation**. Gesichtspunkt des Monumentalen. |
+|  | **Verehren, Dank:** Resultat **Treue** — Motiv des Antiquarischen — Pietät. „Es war einmal so“ „Trost“. |
+| B. | Historie ohne alle subjectiven **Anlässe**, ohne Nachahmung, Pietät, gegenwärtige Noth. |
+|  | Höchste Schätzung des **Wahren** ein Characteristikum der Zeit: Kant — Lüge. |
+|  | Jetzt **reines Begreifen**, ohne Beziehung zum Leben — übernimmt die Ausartung des Antiquarischen (das Todte **ohne** Verehrung) und des Monumentalen (das Lebende ohne Nachahmung). |
+|  | **Schilderung** der Objectivität. |
 | C. | Von welchen Trieben lebt dieser Luxus (da die natürlichen fehlen). |
 |  | Motive der Hypertrophie. |
 | D. | Consequenzen solcher Historiker für die Historie selbst. Neue Mythologie. |
@@ -1906,7 +1906,7 @@ sich: deshalb hat man sie exstirpiren wollen: aber jetzt hat Historie keinen Sin
 
 Was bedeutet Historie für die Bildung einer Cultur?
 
-Sie warnt und räth ab: sie ist gleich dem Dämonion zu benutzen:
+Sie **warnt und räth ab**: sie ist gleich dem **Dämonion** zu benutzen:
 sonst nicht.
 
 [29[104]](javascript:;)
@@ -1918,7 +1918,7 @@ Lebendigen zu schonen), ohne gegenwärtige Noth — — —
 [29[105]](javascript:;)
 -----------------------
 
-Niebuhr schreibt 1796, dass es mit Deutschland’s Litteratur sichtbarlich auf die Neige
+**Niebuhr** schreibt 1796, dass es mit Deutschland’s Litteratur sichtbarlich auf die Neige
 gehe, dass Schiller und Goethe schlimmer als todt seien „soll Voss allein stehen bleiben?“ Als Grund wird
 zunächst angeführt „der gewöhnliche Naturgang, der sich durchgängig bewiesen hat bei allen Völkern“. „Mich
 freuts die Erbitterung über den heurigen Schillerschen Almanach mit Baggesen zu theilen.“
@@ -1926,7 +1926,7 @@ freuts die Erbitterung über den heurigen Schillerschen Almanach mit Baggesen zu
 [29[106]](javascript:;)
 -----------------------
 
-Hölderlin „du wirst durchaus finden, dass jetzt die
+**Hölderlin** „du wirst durchaus finden, dass jetzt die
 menschlicheren
 
 *Erratum:*menschlichen  
@@ -1936,16 +1936,16 @@ menschlicheren
  Organisationen, Gemüther, welche die Natur zur Humanität am
 bestimmtesten gebildet zu haben scheint, dass diese jetzt überall die unglücklicheren sind, eben weil sie
 seltener sind als sonst in anderen Zeiten und Gegenden. Die Barbaren um uns her zerreissen unsre besten
-Kräfte, ehe sie zur Bildung kommen können, und nur die feste tiefe Einsicht dieses Schicksals
-kann uns retten, dass wir wenigstens nicht in Unwürdigkeit vergehen. Wir müssen das Treffliche
-aufsuchen, zusammenhalten mit ihm, so viel wir können, uns im Gefühle desselben stärken und heilen und so Kraft gewinnen; das Rohe, Schiefe, Ungestalte nicht nur im Schmerz, sondern als das, was
-es ist, was seinen Character, seinen eigenthümlichen Mangel ausmacht, zu erkennen.“
+Kräfte, ehe sie zur Bildung kommen können, und nur die **feste tiefe Einsicht dieses Schicksals
+kann uns retten, dass wir wenigstens nicht in Unwürdigkeit vergehen**. Wir müssen das Treffliche
+aufsuchen, zusammenhalten mit ihm, so viel wir können, uns im Gefühle desselben stärken und heilen **und so Kraft gewinnen; das Rohe, Schiefe, Ungestalte nicht nur im Schmerz, sondern als das, was
+es ist, was seinen Character, seinen eigenthümlichen Mangel ausmacht, zu erkennen**.“
 
 [29[107]](javascript:;)
 -----------------------
 
-Hölderlin, „auch ich, mit allem guten Willen, tappe mit meinem Thun und Denken diesen
-einzigen Menschen (den Griechen) in der Welt nur nach und bin in dem, was ich treibe und
+**Hölderlin**, „auch ich, mit allem guten Willen, tappe mit meinem Thun und Denken diesen
+einzigen **Menschen** (den Griechen) in der Welt nur nach und bin in dem, was ich treibe und
 sage, oft nur um so ungeschickter und ungereimter, weil ich wie die Gänse mit platten Füssen im modernen
 Wasser stehe und unmächtig zum griechischen Himmel emporflügle.“
 
@@ -1964,7 +1964,7 @@ Voraussetzung, die universale Pietät ist verloren, der Wunsch überall zu helfe
 [29[110]](javascript:;)
 -----------------------
 
-Goethe an Sch<iller> „Sie haben ganz Recht, dass in den Gestalten der alten Dichtkunst, wie in
+Goethe an Sch&amp;lt;iller&amp;gt; „Sie haben ganz Recht, dass in den Gestalten der alten Dichtkunst, wie in
 der Bildhauerkunst, ein Abstractum erscheint, das seine Höhe nur durch das, was man Styl nennt, erreichen
 kann. Es giebt auch Abstracta durch Manier, wie bei den Franzosen.“
 
@@ -1981,7 +1981,7 @@ darum eilen wir nicht ungeduldig zu einem Ziele, sondern verweilen mit Liebe bei
 Goethe „es ist doch nur die Neigung, die alles sehen kann, was das Kunstwerk enthält, und die reine Neigung,
 die dabei noch sehen kann, was ihm mangelt.“
 
-Goethe „es ist lustig zu sehen, was diese Menschenart eigentlich geärgert hat, was sie
+**Goethe** „es ist lustig zu sehen, was diese Menschenart eigentlich geärgert hat, was sie
 glauben, dass einen ärgert, wie schaal leer und gemein sie eine fremde Existenz ansehen, wie sie ihre Pfeile
 gegen das Aussenwerk der Erscheinung richten, wie wenig sie auch nur ahnen, in welcher unzugänglichen Burg der
 Mensch wohnt, dem es nur immer Ernst um sich und um die Sachen ist.“
@@ -1989,19 +1989,19 @@ Mensch wohnt, dem es nur immer Ernst um sich und um die Sachen ist.“
 [29[113]](javascript:;)
 -----------------------
 
-Die Pietät für das Vergangene geht so weit, dass die Griechen den hieratischen Stil
+Die **Pietät für das Vergangene** geht so weit, dass die Griechen den hieratischen Stil
 neben dem freien und grossen duldeten, mit den spitzen Nasen und dem Lächeln: später wurde daraus eine
 Feinschmeckerei. So die antiquarische Manier gegenüber der monumentalen.
 
 [29[114]](javascript:;)
 -----------------------
 
-Antiquarisch. — Pietät gegen das, woraus oder worin wir sind. Heiligende Macht der
+**Antiquarisch.** — Pietät gegen das, woraus oder worin wir sind. Heiligende Macht der
 Persönlichkeit — Urväterhausrath und Gemeindeinstitutionen bekommen Würde und erregen eifriges Nachforschen.
 Das Kleine, das Beschränkte wird geadelt — frauenhaft — das Idyllische gefunden. Überall Zeugnisse von braver
 treuer fleissiger Sinnesart.
 
-Schäden: alles Vergangne gleich wichtig genommen, keine Beziehung auf’s Leben als bewahrend, nicht schaffend, das Lebendige zu Gunsten
+**Schäden:** alles Vergangne gleich wichtig genommen, keine Beziehung auf’s Leben als **bewahrend**, nicht **schaffend**, das Lebendige zu Gunsten
 der
 
 *Erratum:*des  
@@ -2017,7 +2017,7 @@ ehrwürdigsten: man ehrt die Masse Liebe. Man vergisst nach den Motiven dieser S
 Egoismus Gedankenbequemlichkeit usw.
 
 Wie leidet dabei die Vergangenheit? Es giebt keine Proportion der Dinge zu einander, der Eine hält dies, der
-Andere das wichtig. Die V<ergangenheit> zerfällt: ein Partikel ist jemandem sympathisch, das
+Andere das wichtig. Die V&amp;lt;ergangenheit&amp;gt; zerfällt: ein Partikel ist jemandem sympathisch, das
 nächste kalt und gleichgültig. Dazu wird das Unbedeutende perpetuirt.
 
 Allmählich entsteht eine gelehrtenhafte Gewohnheit, die Pietät stirbt ab, die Sammelwuth tritt ein, völlige
@@ -2049,13 +2049,13 @@ Bestimmtheit des Kunstwerkes ausruhte.
 
 Schiller gebrauchte die Historie im monumentalen Sinne, doch nicht als handelnder Mensch, sondern als zur
 That antreibender, als zum Dran drängender Dramatiker. Vielleicht müssen wir jetzt alle Dinge eine Stufe
-weiter stellen: wozu früher die Historie diente, dazu jetzt das Drama. Schiller’s Ahnung
+weiter stellen: wozu früher die Historie diente, dazu jetzt das Drama. **Schiller’s Ahnung**
 war die rechte: das Wortdrama muss die Historie bezwingen, um die Wirkung hervorzubringen, die ursprünglich
 die Historie (monumentalisch dargestellt) hatte. Das historische Drama darf aber um keinen Preis antiquarisch
 sein; Shakespeare hat das Rechte, der Römer als Engländer auftreten liess. Im Drama wird der mächtige Mensch
 vorangestellt: es ist nicht als statistisches Gesetz, darin liegt die Erhebung über die jetzige Wirkung der
-Geschichte. Nur mache man nicht die höchsten Kunstansprüche daran: man stelle das Drama hin als ein rhetorisches Kunstwerk: was es wirklich bei Schiller ist, man unterschätze nicht die Kraft
-der Beredsamkeit und lasse wenigstens unsre Schauspieler gut reden lernen, da sie
+Geschichte. Nur mache man nicht die höchsten Kunstansprüche daran: man stelle das Drama hin als ein **rhetorisches** Kunstwerk: was es wirklich bei Schiller ist, man unterschätze nicht die Kraft
+der Beredsamkeit und lasse wenigstens unsre Schauspieler gut **reden** lernen, da sie
 wahrscheinlich gar nicht mehr lernen werden, etwas Poetisches vorzutragen. Dadurch dass wir alle die höchsten
 Wirkungen der Tragödie für das musikalische Drama separiren, bekommen wir eine freiere Stellung zum Wortdrama:
 es darf rhetorisch sein, es darf dialektisch sein, es darf naturalistisch sein, es soll auf die Moralität
@@ -2074,12 +2074,12 @@ nachmachte, was man früher peinlich nachmachte. Es ist alles erlaubt zu denken,
 die öffentliche Meinung erlaubt. Man ist scheinbar frei geworden, indem man sich die Fesseln der strengen
 Convention zerriss und die Stricke der Philisterei eintauschte.
 
-„Einfach und natürlich“ zu sein ist das höchste und letzte Ziel der Cultur: inzwischen
+**„Einfach und natürlich“** zu sein ist das höchste und letzte Ziel der Cultur: inzwischen
 wollen wir uns bestreben, uns zu binden und zu formen, damit wir zuletzt vielleicht ins Einfache und Schöne
 zurückkommen. Es ist ein so toller Widerspruch in unserer Schätzung der Griechen und unserer Befähigung für
 deren Stil und Leben. Fast ist es unmöglich gemacht, auf einer der unteren und niederen Stufen des Stils
 stehen zu bleiben (was doch so nöthig wäre!), weil das Wissen um das Höhere und Bessere so mächtig ist, dass
-man gar nicht mehr den Muth hat, das Geringere auch nur zu können. Hier ist die grösste
+man gar nicht mehr den Muth hat, das Geringere auch nur zu **können**. Hier ist die grösste
 Gefahr der Historie.
 
 [29[119]](javascript:;)
@@ -2101,23 +2101,23 @@ immer, wie er, wieder anfangen.
 [29[120]](javascript:;)
 -----------------------
 
-Wirkung des musikalischen Drama’s auf die Entwicklung der Gruppe,
-der langen Stellung.
+Wirkung des musikalischen Drama’s auf die **Entwicklung** der **Gruppe**,
+der **langen Stellung**.
 
 [29[121]](javascript:;)
 -----------------------
 
-In Deutschland ist die Furcht vor der Convention epidemisch. Aber bevor es zu einem
+In Deutschland ist die Furcht vor der **Convention** epidemisch. Aber bevor es zu einem
 nationalen Stile kommt, ist eine Convention nöthig. Dazu lebt man doch in einer bummelig-inkorrecten
 Convention, wie all unser Gehen Stehen Unterhalten anzeigt. Es scheint, man will die Convention, die am
 wenigsten Selbstüberwindung kostet, bei der jeder recht schlampen kann. Die Historie ist freilich sehr
-gefährlich, indem sie alle Conventionen neben einander zur Vergleichung stellt und damit
+gefährlich, indem sie alle Conventionen **neben einander zur Vergleichung** stellt und damit
 das Urtheil dort aufruft, wo die δύναμις alles entscheidet.
 
-Man gehe durch eine deutsche Stadt — alle Convention, verglichen mit anderen Nationen, zeigt sich im Negativen, alles ist farblos, bummelig, abgelebt, jeder treibt es nach Belieben, aber nicht
+Man gehe durch eine deutsche Stadt — alle Convention, verglichen mit anderen Nationen, zeigt sich im **Negativen**, alles ist farblos, bummelig, abgelebt, jeder treibt es nach Belieben, aber nicht
 einem kräftigen gedankenreichen Belieben, sondern nach der Bequemlichkeit, die unsre Kleidung bereits als
 Hauptrücksicht anklagt. Zudem will man keine Zeit verlieren, denn man ist in Hast. Nur die Convention ist
-gebilligt, die dem Faulen-Hastigen gemäss ist.
+gebilligt, die dem **Faulen-Hastigen** gemäss ist.
 
 Es ist wie beim Christenthum; der Protestantism
 
@@ -2132,7 +2132,7 @@ sieht aber auch nichts mehr davon.
 [29[122]](javascript:;)
 -----------------------
 
-Gegensatz der Convention und der Mode. Gerade die letztere wird von
+Gegensatz der **Convention** und der **Mode**. Gerade die letztere wird von
 dem historischen Sinne befruchtet: sie erwächst auf
 
 *Erratum:*aus  
@@ -2147,57 +2147,57 @@ zur Convention zu machen.
 [29[123]](javascript:;)
 -----------------------
 
-Ist es wahr, dass es zum Wesen des Deutschen gehört, stillos zu sein? Oder ist es ein
-Zeichen seiner Unfertigkeit? Es ist wohl so: das, was deutsch ist, hat sich noch nicht
+Ist es wahr, dass es zum Wesen des Deutschen gehört, **stillos** zu sein? Oder ist es ein
+Zeichen seiner Unfertigkeit? Es ist wohl so: das, was **deutsch** ist, hat sich noch nicht
 völlig klar herausgestellt. Durch Zurückschauen ist es nicht zu lernen: man muss der eignen Kraft
 vertrauen.
 
-Das deutsche Wesen ist noch gar nicht da, es muss erst werden; es muss irgendwann einmal
+**Das deutsche Wesen ist noch gar nicht da, es muss erst werden; es muss irgendwann einmal
 herausgeboren werden, damit es vor allem sichtbar und ehrlich vor sich selber sei. Aber jede Geburt ist
-schmerzlich und gewaltsam.
+schmerzlich und gewaltsam.**
 
 [29[124]](javascript:;)
 -----------------------
 
 |  |  |
 | --- | --- |
-| Heilmittel: | die Schillerische Benutzung der Historie  ihre Gefahren (Drastiker usw.)  Bedeutung als Warnerin, als Dämonion — ja sie warnt vor sich selber. |
+| Heilmittel: | die **Schillerische** Benutzung der Historie  ihre Gefahren (Drastiker usw.)  Bedeutung als **Warnerin**, als Dämonion — ja sie warnt vor sich selber. |
 
 [29[125]](javascript:;)
 -----------------------
 
-Goethe: Madame de Stael „gerirt sich mit aller Artigkeit noch immer grob genug als
+**Goethe:** Madame de Stael „gerirt sich mit aller Artigkeit noch immer grob genug als
 Reisende zu den Hyperboreern, deren capitale alte Fichten und Eichen, deren Eisen und Bernstein sich noch so
 ganz wohl in Nutz und Putz verwenden liessen; indessen nöthigt sie einen doch die alten Teppiche als
 Gastgeschenk und die verrosteten Waffen zur Vertheidigung hervorzuholen“.
 
-Goethe: „übrigens ist mir Alles verhasst, was mich bloss belehrt, ohne meine Thätigkeit
+**Goethe:** „übrigens ist mir Alles verhasst, was mich bloss belehrt, ohne meine Thätigkeit
 zu vermehren, oder unmittelbar zu beleben.“
 
 [29[126]](javascript:;)
 -----------------------
 
-Schiller: „ich kann nicht anders glauben, als dass der naive Geist, welchen alle
+**Schiller:** „ich kann nicht anders glauben, als dass der naive Geist, welchen alle
 Kunstwerke aus einer gewissen Periode des Alterthums gemeinschaftlich zeigen, die Wirkung und folglich auch
 der Beweis für die Wirksamkeit der Überlieferung durch Lehre und Muster ist. Nun wäre aber die Frage, was sich
-in einer Zeit wie die unserige von einer Schule für die Kunst erwarten liesse. Jene alten
-Schulen waren Erziehungsanstalten für Zöglinge, die neueren müssten Correctionshäuser für Züchtlinge sein und sich dabei, wegen Armuth des productiven Genie’s, mehr
+in einer Zeit wie die unserige von einer **Schule** für die Kunst erwarten liesse. Jene alten
+Schulen waren **Erziehungsanstalten für Zöglinge**, die neueren müssten **Correctionshäuser für Züchtlinge** sein und sich dabei, wegen Armuth des productiven Genie’s, mehr
 kritisch als schöpferisch bildend beweisen.“
 
 [29[127]](javascript:;)
 -----------------------
 
-Goethe „ein alter Hofgärtner pflegte zu sagen: die Natur lässt sich wohl forciren aber
+**Goethe** „ein alter Hofgärtner pflegte zu sagen: die Natur lässt sich wohl forciren aber
 nicht zwingen.“
 
-Goethe „wie wird es möglich, dass das Alberne, ja das Absurde sich mit der höchsten
+**Goethe** „wie wird es möglich, dass das Alberne, ja das Absurde sich mit der höchsten
 ästhetischen Herrlichkeit der Musik so glücklich verbindet? Es geschieht dieses allein durch den
 
 *Erratum:*das  
 *lies:*den  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Humor; denn dieser
+**Humor**; denn dieser
 
 *Erratum:*dieses  
 *lies:*dieser  
@@ -2211,25 +2211,25 @@ oder Menschenverstand vor sich trägt.“
 [29[128]](javascript:;)
 -----------------------
 
-Schiller zu Goethe „Sie sind wirklich, so lang Sie arbeiten, im Dunkeln, und das Licht
+**Schiller zu Goethe** „Sie sind wirklich, so lang Sie arbeiten, im Dunkeln, und das Licht
 ist bloss in Ihnen; und wenn Sie anfangen zu reflectiren, so tritt das innere Licht von Ihnen heraus und
 bestrahlt die Gegenstände Ihnen und andern.“
 
 [29[129]](javascript:;)
 -----------------------
 
-Schiller „dass die Deutschen nur für’s Allgemeine, für’s Verständige und für’s
-Moralische Sinn haben“ (nichts verriethe „einen Blick in die poetische Oekonomie des Ganzen“). Goethe „in Herrmann und Dorothea habe ich, was das Material <betrifft, den Deutschen einmal
-ihren Willen gethan und nun sind sie äusserst zufrieden.“>
+**Schiller** „dass die Deutschen nur für’s Allgemeine, für’s Verständige und für’s
+Moralische Sinn haben“ (nichts verriethe „einen Blick in die poetische Oekonomie des Ganzen“). **Goethe** „in Herrmann und Dorothea habe ich, was das Material &amp;lt;betrifft, den Deutschen einmal
+ihren Willen gethan und nun sind sie äusserst zufrieden.“&amp;gt;
 
-*Erratum:*zufrieden.>  
-*lies:*zufrieden.“>  
+*Erratum:*zufrieden.&amp;gt;  
+*lies:*zufrieden.“&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 [29[130]](javascript:;)
 -----------------------
 
-Goethe: „Niemand hat das materielle Costüme mehr verachtet als er; er kennt recht gut
+**Goethe:** „Niemand hat das materielle Costüme mehr verachtet als er; er kennt recht gut
 das innere Menschen-Costüme, und hier gleichen sich Alle. Man sagt, er habe die Römer vortrefflich
 dargestellt; ich finde es nicht; es sind lauter eingefleischte Engländer, aber freilich Menschen sind es,
 Menschen von Grund aus, und denen passt wohl auch die römische Toga.“ „Der Dichter lebt zur würdigen und
@@ -2239,21 +2239,21 @@ wichtigen Zeit und stellt ihre Bildung, ja Verbildung mit grosser Heiterkeit uns
 oder Leutnantsmanieren vorzuführen. Es wäre eine Carikatur: woraus sich ergiebt, dass sie keine Menschen
 sind.
 
-Dies gehört zum historischen Thema. Wir pflegen uns durch fremde Zeiten und Sitten zu
+Dies gehört zum **historischen Thema**. Wir pflegen uns durch fremde Zeiten und Sitten zu
 drapiren: sobald wir die fremden Zeiten und Menschen mit uns drapiren wollten, machen wir sie zur läppischen
 Carikatur.
 
 [29[131]](javascript:;)
 -----------------------
 
-Goethe „genau aber genommen, so ist nichts theatralisch, als was für die Augen zugleich
+**Goethe** „genau aber genommen, so ist nichts theatralisch, als was für die Augen zugleich
 symbolisch ist: eine wichtige Handlung, die auf eine noch wichtigere deutet.“
 
 [29[132]](javascript:;)
 -----------------------
 
 Man findet, dass „der Deutsche isolirt lebe und eine Ehre darin suche, seine Individualität originell
-auszubilden.“ Ich kann <das> jetzt nicht mehr zugeben: ja, eine gewisse Freiheit der Sinnesart
+auszubilden.“ Ich kann &amp;lt;das&amp;gt; jetzt nicht mehr zugeben: ja, eine gewisse Freiheit der Sinnesart
 ist erlaubt: die Handlungsart ist uniformirt und starr imperativisch. Es bleibt überall bei dem Innern ohne
 ein Äusseres, wie der Protestantism
 
@@ -2264,8 +2264,8 @@ ein Äusseres, wie der Protestantism
  das Christenthum gereinigt zu haben
 glaubt, indem er es durch Verinnerlichung verflüchtigte und aus der Welt schaffte. An Stelle der Sitte d.h.
 der natürlich zutreffenden und angemessenen Tracht steht die Mode, die willkürlich übergehängte, die
-Individuen auszeichnende und sofort wieder uniformirende Tracht. Man erlaubt jetzt die
-Mode, aber nicht mehr die abweichende Denk- und Handlungsart.
+Individuen auszeichnende und sofort wieder uniformirende Tracht. Man **erlaubt** jetzt die
+**Mode**, aber **nicht mehr** die abweichende Denk- und Handlungsart.
 Umgekehrt hätte der antike Mensch die Mode ausgelacht, aber die individuelle Manier zu leben, bis auf die
 Kleidung, gutgeheissen. Die Individuen waren stärker und freier und unabhängiger in allem, was sichtbar werden
 kann in Handlung und Leben. Unsre Individuen sind schwach und furchtsam: ein widerhaariger Geist des
@@ -2273,7 +2273,7 @@ Individuellen hat sich in’s Innere zurückgezogen und zeigt seine Mucken hier 
 verdriesslich und versteckt. Die Pressfreiheit hat diesen muckenden Individuen Luft gemacht: sie können jetzt
 ohne Gefahr sogar ihr elendes Separatvotumchen schriftlich geben: für das Leben bleibt es beim Alten. Die
 Renaissance zeigt freilich einen andern Anlauf, nämlich in’s Heidnisch-stark-Persönliche zurück. Aber auch das
-Mittelalter war freier und stärker. Die „Neuzeit“ wirkt durch Massen
+Mittelalter war freier und stärker. Die **„Neuzeit“** wirkt durch **Massen**
 gleichartiger Natur: ob sie „gebildet“ sind, ist gleichgültig.
 
 [29[133]](javascript:;)
@@ -2288,13 +2288,13 @@ Das Wort „Tugend“ ist in Deutschland altmodisch
  verrostet und ein wenig
 lächerlich geworden: man merkt aber auch praktisch nichts mehr von der Strenge der Selbstzucht, von dem
 kategorischen Imperativ und einer bewussten Moralität. Wie viele Lehrer würden sich nicht lächerlich fühlen,
-wenn sie davon reden sollten! Man beruhigt sich dabei, die Sache zu haben: was mir aber
+wenn sie davon reden sollten! Man beruhigt sich dabei, die **Sache** zu haben: was mir aber
 auch zweifelhaft wird.
 
 [29[134]](javascript:;)
 -----------------------
 
-Die reife Goethesche Weisheit kann man nicht im Sprunge erfassen; nicht als junger Mensch. Da ist es nur „Blasirtheit“.
+Die reife Goethesche Weisheit kann man nicht im Sprunge erfassen; nicht als junger Mensch. Da ist es nur **„Blasirtheit“**.
 
 [29[135]](javascript:;)
 -----------------------
@@ -2316,8 +2316,8 @@ ein Kölner Leitartikelschreiber zu Tyrtäus verhält. Pfui dich mal an, Junfer 
 -----------------------
 
 Der historische Sinn des Deutschen wurde offenbar in dem Sturm der Empfindung, mit der Goethe an Erwin von
-Steinbach dachte: im Faust, in W<agner>’s R<ing> d<es>
-N<ibelungen>, in Luther, in dem deutschen Soldaten, in Grimm. Ein Hindurchfühlen und -Ahnen, ein
+Steinbach dachte: im Faust, in W&amp;lt;agner&amp;gt;’s R&amp;lt;ing&amp;gt; d&amp;lt;es&amp;gt;
+N&amp;lt;ibelungen&amp;gt;, in Luther, in dem deutschen Soldaten, in Grimm. Ein Hindurchfühlen und -Ahnen, ein
 Wittern auf fast verlöschten Spuren, ein Herauslesen des Palimpsest
 
 *Erratum:*Palympsest  
@@ -2336,15 +2336,15 @@ Polypsest
 [29[137]](javascript:;)
 -----------------------
 
-Programm. 6. November 1873.
+**Programm.** 6. November 1873.
 
 |  |  |
 | --- | --- |
-| 1. | Freiheit der Städte — die conditio. |
+| 1. | **Freiheit der Städte** — die **conditio**. |
 | 2. | Schule und Sitte in der städtischen Gewalt. |
 | 3. | Der absolute Lehrer vernichtet („Bildungskosak“). |
 | 4. | Der historische Sinn als Pietät, nicht als Rechnung tragen. |
-| 5. | Der Soldat zur Vorbereitung einer ernsteren Cultur zu benutzen. |
+| 5. | Der Soldat zur **Vorbereitung** einer ernsteren Cultur zu benutzen. |
 | 6. | Folgen der Centralisation und Uniformirung der Meinungen zum Äussersten zu steigern, um ihre reinste Formel zu gewinnen und abzuschrecken. |
 | 7. | Die sociale Crisis nur städtisch zu lösen, nicht staatlich. |
 | 8. | Beseitigung der Presse durch städtische Beredsamkeit. |
@@ -2375,7 +2375,7 @@ Statisten, das Volk usw.
 [29[140]](javascript:;)
 -----------------------
 
-Wie leicht geht die objective Geschichtsschreibung in die tendenziöse über! Das ist
+Wie leicht geht die **objective** Geschichtsschreibung in die tendenziöse über! Das ist
 eigentlich das Kunststück, das zweite zu sein und das erste zu scheinen.
 
 [29[141]](javascript:;)
@@ -2434,7 +2434,7 @@ vielmehr, etwas zu thun, was Spätere richten mögen.
 [29[145]](javascript:;)
 -----------------------
 
-Alles Historische misst sich an etwas. Was hat unsre Zeit entgegenzusetzen?
+Alles Historische **misst** sich an etwas. Was hat unsre Zeit entgegenzusetzen?
 
 [29[146]](javascript:;)
 -----------------------
@@ -2454,7 +2454,7 @@ Alles Historische misst sich an etwas. Was hat unsre Zeit entgegenzusetzen?
 [29[147]](javascript:;)
 -----------------------
 
-Plan.
+**Plan.**
 
 |  |  |
 | --- | --- |
@@ -2486,8 +2486,8 @@ Dass der Mensch als Heerdenthier ist, beweist die Statistik.
 
 Wartburgwettkampf: von der Hagen, Minnesinger, II 2ff. vom Jahr 1300.
 
-Ludus Paschalis de adventu et interitu Antichristi. Pezii thesaur<us>
-Anecdot<orum> N<ovissimus> 2.
+Ludus Paschalis de adventu et interitu Antichristi. Pezii thesaur&amp;lt;us&amp;gt;
+Anecdot&amp;lt;orum&amp;gt; N&amp;lt;ovissimus&amp;gt; 2.
 
 [29[151]](javascript:;)
 -----------------------
@@ -2545,11 +2545,11 @@ Die Hitze des Rechtsgefühls.
 
 |  |  |  |
 | --- | --- | --- |
-| Das Übermaass bewiesen | 1) | dadurch dass alles innerlich bleibt |
-| 2) | dass nichts mehr reif wird |
-| 3) | das Gefühl Spätlinge zu sein |
-| 4) | Stadium der Selbstverspottung |
-| 5) | die Historie selbst erlahmt: angebliche Objectivität. |
+| Das Übermaass bewiesen | 1) | dadurch dass alles **innerlich** bleibt |
+| 2) | dass nichts mehr **reif** wird |
+| 3) | das Gefühl **Spätlinge** zu sein |
+| 4) | Stadium der **Selbstverspottung** |
+| 5) | die **Historie selbst erlahmt**: angebliche Objectivität. |
 | Übergang: da wirft man sich gern einmal in den Gedanken: gar keine Historie. Rousseau. | | |
 
 [29[156]](javascript:;)
@@ -2598,7 +2598,7 @@ Die Historie dem Leben feindlich.
 | 2. | erweckt den Anschein der Gerechtigkeit. |
 | 3. | hindert das Reif- und Fertigwerden. |
 | 4. | erweckt den Glauben an das Alter der Menschheit und ist der advocatus diaboli. |
-| 5. | eignet <sich> für den Dienst der klugen Egoismen. *Erratum:*des klugen Egoismus. *lies:*der klugen Egoismen. [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) |
+| 5. | eignet &amp;lt;sich&amp;gt; für den Dienst der klugen Egoismen. *Erratum:*des klugen Egoismus. *lies:*der klugen Egoismen. [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) |
 
 [29[159]](javascript:;)
 -----------------------
@@ -2620,7 +2620,7 @@ länger zurück, ihn also anzureden.
 [29[160]](javascript:;)
 -----------------------
 
-Vom Nutzen und Nachtheil der Historie für das Leben.
+**Vom Nutzen und Nachtheil der Historie für das Leben.**
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -2647,7 +2647,7 @@ Praxis, die Heilkunst.
 [29[162]](javascript:;)
 -----------------------
 
-Zum Schluss.
+**Zum Schluss.**
 
 Von der Ironie zum Cynismus.
 
@@ -2663,7 +2663,7 @@ Atmosphaere zu bilden.
 [29[163]](javascript:;)
 -----------------------
 
-Entwurf der Unzeitgemässen Betrachtungen.
+**Entwurf der Unzeitgemässen Betrachtungen.**
 
 |  |  |
 | --- | --- |
@@ -2714,13 +2714,13 @@ Görres, Europa und die Revolution, p. 206.
 
   
 
-Wie veränderlich und schwimmend die Grenzlinien jeder gemachten Zeichnung sind. Licht<enberg> I
+Wie veränderlich und schwimmend die Grenzlinien jeder gemachten Zeichnung sind. Licht&amp;lt;enberg&amp;gt; I
 206.
 
 [29[167]](javascript:;)
 -----------------------
 
-Cyclus von Vorlesungen.
+**Cyclus von Vorlesungen.**
 
 |  |  |  |
 | --- | --- | --- |
@@ -2733,12 +2733,12 @@ Cyclus von Vorlesungen.
 -----------------------
 
 Römer und Griechen: Stellung der Römer zu der griechischen Kultur. Ihre Urtheile darüber. Von ihnen stammt
-die dekorative Manier der Cultur.
+die **dekorative Manier der Cultur**.
 
 [29[169]](javascript:;)
 -----------------------
 
-Drei Abhandlungen von Friedrich Nietzsche.
+**Drei Abhandlungen** von Friedrich Nietzsche.
 
   
 
@@ -2768,13 +2768,13 @@ Anfänge einer ironischen Stellung zur Religion. Neues Auftauchen der Philosophi
 
   
 
-Schluss: Plato’s Staat als überhellenisch, als nicht unmöglich. Philosophie erreicht
+Schluss: Plato’s Staat als **überhellenisch**, als nicht unmöglich. Philosophie erreicht
 hier ihre Höhe, als Staatengründerin eines metaphysisch geordneten Staates.
 
 [29[171]](javascript:;)
 -----------------------
 
-Griechen und Barbaren.
+**Griechen und Barbaren.**
 
 Erster Theil: Geburt der Tragödie.
 
@@ -2848,13 +2848,13 @@ Vier Abhandlungen.
 [29[174]](javascript:;)
 -----------------------
 
-Plato.
+**Plato.**
 
 |  |  |
 | --- | --- |
-| Jugend. | Pest.  Critias.  Das Künstlerische in Plato.  Heracliteer.  Sokrates. Der platonische Socrates. |
-| Reisen. | Ziele — das praktische Ideal.  Pythagoreer—Ideen (geringere Conception).  Dion. |
-| Akademie. | Der Philosoph im Staate. Sophist. Rhetor. Kunst.  Schriftstellerei — Eros. Dialektik.  Zweite Reise.  Dritte Reise — Staatsideal.  Dion’s Ende. Andre politische Wirkungen.  Parmenides. Präludirende Skepsis zu der Theorie: Plato hauptsächlich Legislator und Reformator, nie darin Skeptiker. |
+| **Jugend.** | Pest.  Critias.  Das Künstlerische in Plato.  Heracliteer.  Sokrates. Der platonische Socrates. |
+| **Reisen.** | Ziele — das praktische Ideal.  Pythagoreer—Ideen (geringere Conception).  Dion. |
+| **Akademie.** | Der Philosoph im Staate. Sophist. Rhetor. Kunst.  Schriftstellerei — Eros. Dialektik.  Zweite Reise.  Dritte Reise — Staatsideal.  Dion’s Ende. Andre politische Wirkungen.  Parmenides. Präludirende Skepsis zu der Theorie: Plato hauptsächlich Legislator und Reformator, nie darin Skeptiker. |
 
 [29[175]](javascript:;)
 -----------------------
@@ -2944,14 +2944,14 @@ schraubt Mommsen seinen Cicero zum Journalisten herab, Luther nennt ihn (siehe v
 [29[185]](javascript:;)
 -----------------------
 
-Gewiss ist das Bedürfniss des Umgangs mit grossen Vorgängern usw. Umgang mit den kleinen, koboldartig (siehe hinten).
+Gewiss ist das Bedürfniss des **Umgangs mit grossen Vorgängern** usw. Umgang mit **den kleinen**, koboldartig (siehe hinten).
 
 [29[186]](javascript:;)
 -----------------------
 
-Goethe (wer sich von nun an nicht auf eine Kunst oder ein Handwerk legt usw.).
+**Goethe** (wer sich von nun an nicht auf eine Kunst oder ein Handwerk legt usw.).
 
-Pietät für das Vergangene zu Gunsten des Hieratischen (s. h<inten>).
+Pietät für das Vergangene zu Gunsten des Hieratischen (s. h&amp;lt;inten&amp;gt;).
 
 Zu den redenden Künsten gehört die schweigende.
 
@@ -2960,7 +2960,7 @@ Zu den redenden Künsten gehört die schweigende.
 [29[187]](javascript:;)
 -----------------------
 
-Zum Schlusse. Goethe über Niebuhr „der Historiker als das eigentlich werthvolle Object,
+**Zum Schlusse.** Goethe über Niebuhr „der Historiker als das eigentlich werthvolle Object,
 nicht die Historie.“ Davon ist etwas zu hoffen (siehe hinten).
 
 Schiller von Goethe gepriesen (siehe hinten).
@@ -2970,7 +2970,7 @@ Schiller von Goethe gepriesen (siehe hinten).
 
 |  |  |  |
 | --- | --- | --- |
-| Gegenmittel: | 1) | Keine Geschichte? |
+| Gegenmittel: | 1) | **Keine** Geschichte? |
 | 2) | Leugnung der Zwecke Atomengewirr? |
 | 3) | Interesse für den Historiker gegen die Historie gewendet? Die meisten Historiker stehen unter *Erratum:*unter *lies:*stehen unter [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  ihren Objecten. |
 | 4) | Goethe, Natur. |
@@ -2979,7 +2979,7 @@ Schiller von Goethe gepriesen (siehe hinten).
 [29[189]](javascript:;)
 -----------------------
 
-Niebuhr zur Vertheidigung Macchiavelli<s> „es giebt Zeiten, in denen Einem jeder Mensch heilig
+Niebuhr zur Vertheidigung Macchiavelli&amp;lt;s&amp;gt; „es giebt Zeiten, in denen Einem jeder Mensch heilig
 sein muss: andre wo man sie nur als Masse behandeln kann und soll; es kommt darauf an, die Zeit zu
 kennen“.
 
@@ -2994,7 +2994,7 @@ verunglimpfend, und nichts weniger als billig: und noch weniger liebend.“
 
 Gehofftes Resultat:
 
-Character zu offenbaren in der Bildung, keine dekorative Bildung, sondern eine
+**Character** zu offenbaren in der Bildung, keine dekorative Bildung, sondern eine
 organische.
 
 So gelingt vielleicht den Deutschen noch, was den Griechen in Betreff des Orients gelang — und so das, was
@@ -3032,7 +3032,7 @@ Philosophie.
 [29[195]](javascript:;)
 -----------------------
 
-Handwerk lernen, nothwendige Rückkehr des Bildungsbedürftigen in den kleinsten Kreis,
+**Handwerk** lernen, nothwendige Rückkehr des Bildungsbedürftigen in den kleinsten Kreis,
 den er möglichst idealisirt. Kampf gegen die abstracte Production der Maschinen und Fabriken.
 
 Ein Hohn und Hass gegen das zu erzeugen, was jetzt als „Bildung“ gilt: dadurch dass man eine reifere Bildung
@@ -3042,13 +3042,13 @@ dagegen stellt.
 -----------------------
 
 Und was wird aus uns, werden die Historiker unwillig entgegnen: wohin soll
-die
+**die**
 
 *Erratum:*die  
-*lies:*die  
+*lies:***die**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Wissenschaft der Historie?
+**Wissenschaft** der Historie?
 unsre berühmte strenge nüchterne methodische
 
 *Erratum:*mütterliche  
@@ -3059,10 +3059,10 @@ unsre berühmte strenge nüchterne methodische
 Kloster, Ophelia, sagt Hamlet; in welches Kloster wir aber die Wissenschaft und den historischen Gelehrten
 bannen wollen, dieses Räthsel wird der Leser sich selber aufgeben, sich selber lösen, falls er zu ungeduldig
 ist dem langsamen Gange des Autors zu folgen und einer hiermit versprochenen späteren Betrachtung —
-„über <den Gelehrten“ und die gedankenlose Einordnung desselben in die moderne> Gesellschaft —
+„über &amp;lt;den Gelehrten“ und die gedankenlose Einordnung desselben in die moderne&amp;gt; Gesellschaft —
 
 *Erratum:*„über den Gelehrten“ und die gedankenlose Einordnung desselben in die moderne Gesellschaft   
-*lies:*„über <den Gelehrten“ und die gedankenlose Einordnung desselben in die moderne> Gesellschaft —  
+*lies:*„über &amp;lt;den Gelehrten“ und die gedankenlose Einordnung desselben in die moderne&amp;gt; Gesellschaft —  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 vorauszueilen vorzieht.
@@ -3072,7 +3072,7 @@ Schluss. Es giebt eine Gesellschaft der Hoffenden.
 [29[197]](javascript:;)
 -----------------------
 
-Die Bedrängniss der Philosophie.
+**Die Bedrängniss der Philosophie.**
 
   
 
@@ -3081,31 +3081,31 @@ Von aussen: Naturwissenschaft Geschichte (Beispiel Instinkt. Begriff geworden).
 Von innen: der Muth, eine Philosophie zu leben, ist gebrochen.
 
 Die anderen Wissenschaften (Natur, Geschichte) vermögen nur zu erklären, nicht zu befehlen. Und wenn sie
-befehlen, vermögen sie nur auf den Nutzen zu verweisen. Jede Religion, jede Philosophie
-hat aber gerade irgendwo eine erhabene Naturwidrigkeit, eine auffallende Unnützlichkeit.
+befehlen, vermögen sie nur auf den **Nutzen** zu verweisen. Jede Religion, jede Philosophie
+hat aber gerade irgendwo eine erhabene **Naturwidrigkeit**, eine auffallende Unnützlichkeit.
 Damit wäre es denn zu Ende? — Wie mit der Poesie, die eine Art Unsinn ist.
 
 Das Glück des Menschen beruht darauf, dass es irgendwo für ihn eine
-undiskutirbare
+**undiskutirbare**
 
-*Erratum:*Undiskutirbare  
-*lies:*undiskutirbare  
+*Erratum:***Undiskutirbare**  
+*lies:***undiskutirbare**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Wahrheit giebt, gröbere (z.B. das Wohl
 seiner Familie als höchsten Beweggrund) feinere, der Glaube an die Kirche usw. Hier hört er gar nicht hin,
 wenn dagegen gesprochen wird.
 
-In der ungeheuren Bewegtheit sollte der Philosoph Hemmschuh sein: kann er es noch
+In der ungeheuren Bewegtheit sollte der Philosoph **Hemmschuh** sein: kann er es noch
 sein?
 
-Das Misstrauen der strengen Forscher gegen jedes deductive System,
+Das **Misstrauen** der strengen Forscher gegen jedes **deductive** System,
 vid. Bagehot.
 
 [29[198]](javascript:;)
 -----------------------
 
-Die Bedrängniss der Philosophie.
+**Die Bedrängniss der Philosophie.**
 
 |  |  |
 | --- | --- |
@@ -3116,13 +3116,13 @@ Die Bedrängniss der Philosophie.
 [29[199]](javascript:;)
 -----------------------
 
-Die Philosophie rein zur Wissenschaft zu machen (wie Trendelenburg) heisst die Flinte
+Die **Philosophie** rein zur Wissenschaft zu machen (wie Trendelenburg) heisst die Flinte
 in’s Korn werfen.
 
 [29[200]](javascript:;)
 -----------------------
 
-Die mangelhaft entwickelte Logik! Durch die historischen Studien ist sie verkümmert.
+Die mangelhaft entwickelte **Logik**! Durch die historischen Studien ist sie verkümmert.
 Auch Zöllner klagt. Lob des Spir. Und der Engländer.
 
 [29[201]](javascript:;)
@@ -3160,7 +3160,7 @@ Hölderlin.
 [29[203]](javascript:;)
 -----------------------
 
-Zur Religion. Ich bemerke eine Erschöpfung, man ist an den bedeutenden Symbolen ermüdet.
+Zur **Religion**. Ich bemerke eine Erschöpfung, man ist an den bedeutenden Symbolen ermüdet.
 Alle Möglichkeiten des christlichen Lebens, die ernstesten und lässigsten, die
 harmlosigsten
 
@@ -3208,7 +3208,7 @@ diesen Beziehungen sein. Ich meine: selbst wenn er sich streng von ihnen absonde
 er damit eine Lehre, ein Beispiel und ist Philosoph auch für die Andern. Er mag sich benehmen, wie er will:
 sein Philosoph-sein hat eine Seite, die den Menschen zugekehrt ist.
 
-Das Product des Philosophen ist sein Leben (zuerst, vor seinen Werken). Das ist sein Kunstwerk. Jedes Kunstwerk ist einmal dem Künstler, sodann den andern Menschen
+Das Product des Philosophen ist sein **Leben** (zuerst, vor seinen **Werken**). Das ist sein Kunstwerk. Jedes Kunstwerk ist einmal dem Künstler, sodann den andern Menschen
 zugekehrt. — Welches sind die Wirkungen des Philosophen auf die Nichtphilosophen und andre Philosophen?
 
 Der Staat, die Gesellschaft, die Religion usw., alle können fragen: was hat uns die Philosophie geleistet?
@@ -3216,7 +3216,7 @@ Was kann sie uns jetzt leisten? So auch Cultur.
 
 Frage nach den Culturwirkungen der Philosophie überhaupt.
 
-Umschreibung der Cultur — als einer Temperatur und Stimmung vieler ursprünglich feindselig<er>
+Umschreibung der Cultur — als einer Temperatur und Stimmung vieler ursprünglich feindselig&amp;lt;er&amp;gt;
 Kräfte, die jetzt eine Melodie abspielen lassen.
 
 [29[206]](javascript:;)
@@ -3234,7 +3234,7 @@ Bewegung gerathen.
 [29[207]](javascript:;)
 -----------------------
 
-Unter allen Umständen die Revolution: aber von der Klugheit und Menschlichkeit der
+Unter allen Umständen die **Revolution**: aber von der Klugheit und Menschlichkeit der
 nächsten Geschlechter hängt es ab, ob daraus die Barbarei oder etwas Anderes hervorgeht:
 
 der Mangel an ethischer Philosophie in den gebildeten Schichten ist natürlich in deutlicheren Formen in die
@@ -3273,7 +3273,7 @@ euch zu Sklaven machen wollen.
 [29[211]](javascript:;)
 -----------------------
 
-Jede Philosophie muss das können, was ich fordere, einen Menschen concentriren — aber
+**Jede** Philosophie muss das können, was ich fordere, einen Menschen concentriren — aber
 jetzt kann es keine.
 
 [29[212]](javascript:;)
@@ -3284,12 +3284,12 @@ Zwei Aufgaben: das Neue gegen das Alte zu defendiren und das Alte an das Neue an
 [29[213]](javascript:;)
 -----------------------
 
-Zum Plan.
+Zum **Plan**.
 
-Der Philosoph hat zwei Seiten: eine kehrt er den Menschen zu, die
+Der Philosoph hat **zwei Seiten**:**eine kehrt er den Menschen zu**, die
 andre bekommen wir nicht zu sehen, da ist er Philosoph für sich. Wir betrachten zuerst das Verhältniss des
 Philosophen zu den anderen Menschen. Resultat für unsre Zeit: es kommt bei diesem Verhältniss nichts heraus.
-Warum wohl? Sie sind nicht Philosophen für sich selbst.
+Warum wohl? **Sie sind nicht Philosophen für sich selbst.**
 
 „Arzt hilf dir selber!“ müssen
 
@@ -3319,7 +3319,7 @@ so früh kommt und nicht weichen will.
 [29[215]](javascript:;)
 -----------------------
 
-Die fliegenden Spinnefäden des Altmännersommers — Strauss als Bekenner. —
+Die fliegenden Spinnefäden des Altmännersommers — **Strauss** als Bekenner. —
 
 [29[216]](javascript:;)
 -----------------------
@@ -3331,14 +3331,14 @@ vorbei.
 [29[217]](javascript:;)
 -----------------------
 
-Vom Maler auszugehn und <von> dem Kunstkenner vor dem Bilde — Goethe.
+Vom Maler auszugehn und &amp;lt;von&amp;gt; dem Kunstkenner vor dem Bilde — Goethe.
 
 [29[218]](javascript:;)
 -----------------------
 
 Nicht nur den nennen wir unvernünftig, welcher einen unvernünftigen Zweck verfolgt, sondern auch den, der um
 einen vernünftigen Zweck zu erreichen unzweckmässige und unverhältnissmässige Mittel anwendet:
-als<o> sowohl den, der das Meer ausschöpfen will, als den, welcher nach Sperlingen schiesst,
+als&amp;lt;o&amp;gt; sowohl den, der das Meer ausschöpfen will, als den, welcher nach Sperlingen schiesst,
 aber mit Kartätschen. Von dieser zweiten Art der Unvernunft ist die Natur voll. Auch in ihrem höchsten
 Bereiche, das wir kennen, innerhalb der Menschen, zeigt sie sich nicht klüger, was die Mittel betrifft, so
 ausserordentlich ihre Zwecke und Absichten sind. Die Art, wie sie die seltenen Begabungen zum Wohl der
@@ -3409,7 +3409,7 @@ wächst mit dem Quadrate der Entfernungen. Ist es sinnlos zu wünschen, dass die
 schwächere, zuletzt das stärkere Ende habe? Oder dass mindestens so viel genommen wird als gegeben ist, dass
 Ursache und Wirkung gleich stark sind?
 
-Deshalb sieht es oft so aus, als ob ein Künstler und zumal ein Philosoph zufällig in
+Deshalb sieht es oft so aus, als ob ein Künstler und zumal ein Philosoph **zufällig** in
 ihrer Zeit seien, versprengte Wanderer oder zurückgebliebene Einsiedler.
 
 Wo wir aber ein Verhältniss zwischen einem Philosophen und einem Volk entdecken, so spüren wir folgende
@@ -3430,7 +3430,7 @@ fehlt. Der Philosoph als Einsiedler. Schopenhauer zeigt, wie die Natur sich anst
 [29[220]](javascript:;)
 -----------------------
 
-Weisheit unabhängig vom Wissen der Wissenschaft.
+**Weisheit** unabhängig vom Wissen der Wissenschaft.
 
 Jetzt allein zu hoffen auf die Klassen der niedern ungelehrten Menschen. Die gelehrten und gebildeten Stände
 sind preiszugeben. Damit auch die Priester, die nur jene Stände verstehen und ihnen angehören. Die Menschen,
@@ -3450,7 +3450,7 @@ Die Bildung wird täglich geringer, weil die Hast grösser wird.
 -----------------------
 
 Es ist ernsthaft zu erwägen, ob für eine werdende Kultur überhaupt noch Fundamente da sind. Ob die
-Philosophie als ein solches Fundament zu gebrauchen ist? — Aber das war sie nie.
+Philosophie als ein solches Fundament zu gebrauchen ist? — Aber das war sie **nie**.
 
 Mein Vertrauen zur Religion ist grenzenlos gering: die abfluthenden Gewässer kann man sehen, nach einer
 ungeheuren Überschwemmung.
@@ -3458,7 +3458,7 @@ ungeheuren Überschwemmung.
 [29[222]](javascript:;)
 -----------------------
 
-Zum Anfang. Überall Symptome eines Absterbens der Bildung, einer
+Zum **Anfang**. Überall **Symptome eines Absterbens** der Bildung, einer
 völligen Ausrottung. (Laissez faire der Wissenschaften). Hast, abfluthende Gewässer des Religiösen, die
 nationalen Kämpfe, die zersplitternde und auflösende Wissenschaft, die verächtliche Geld- und
 Genusswirthschaft der gebildeten Stände, ihr Mangel an Liebe und Grossartigkeit. Dass die gelehrten Stände
@@ -3474,7 +3474,7 @@ abzuweisen. Das ist der grösste Feind, weil er den Ärzten hinderlich ist und d
 [29[223]](javascript:;)
 -----------------------
 
-Von der Bestimmung des Philosophen.
+**Von der Bestimmung des Philosophen.**
 
 Es giebt etwas Unzweckmässiges, das der Natur vorzuwerfen ist: man bemerkt es bei der Frage: wozu ist ein
 Kunstwerk da? Für wen? Für den Künstler? Für die andern Menschen? Aber der Künstler hat es nicht nöthig, ein
@@ -3487,7 +3487,7 @@ an
 
  seinem Werke, ebenso wie sein Verständniss desselben grösser als das
 Glück und das Verständniss bei allen Übrigen. Diese Disproportion finde ich unzweckmässig. Die Ursache sollte
-der Wirkung entsprechen. Dies ist nie bei Kunstwerken der Fall. Es ist dumm eine grosse
+der Wirkung entsprechen. Dies ist **nie** bei Kunstwerken der Fall. Es ist dumm eine grosse
 Lawine zu wälzen, um ein wenig Schnees
 
 *Erratum:*Schnee  
@@ -3546,8 +3546,8 @@ Ach dieser Mangel an Liebe in diesen Philosophen, die immer nur an die Ausgewäh
 Glauben zu ihrer Weisheit haben. Es muss die Weisheit wie die Sonne für jedermann scheinen: und ein blasser
 Strahl selbst in die niedrigste Seele hinabtauchen können.
 
-Einen Besitz den Menschen verheissen! Philosophie und Religion ist
-Sehnsucht nach einem Eigenthum.
+**Einen**Besitz den Menschen verheissen! Philosophie und Religion ist
+Sehnsucht nach einem **Eigenthum**.
 
 [29[225]](javascript:;)
 -----------------------
@@ -3555,7 +3555,7 @@ Sehnsucht nach einem Eigenthum.
 Ich ergötze mich an der Vorstellung, dass die Menschen bald einmal das Lesen satt bekommen
 werden
 
-*Erratum:*werden  
+*Erratum:***werden**  
 *lies:*werden  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -3571,8 +3571,8 @@ jetziges Zeitalter als die dunkelste Periode der Vergangenheit gelte, weil nicht
 Wie glücklich sind wir also, dass wir unsre Zeit noch kennen lernen können aus dem überreichen Material, was
 sie täglich den Druckerpressen übergiebt: hat es nämlich überhaupt einen guten Sinn, sich mit seinem
 Gegenstand zu beschäftigen, so ist es jedenfalls ein Glück, sich so gründlich mit ihr zu beschäftigen, dass
-einem kein Zweifel über sie übrig bleibt. Es hat aber einen guten Sinn; denn man lernt
-viel dadurch selbst kennen, und gerade die schlechte Litteratur einer Zeit
+einem kein Zweifel über sie übrig bleibt. Es **hat** aber einen guten Sinn; denn man lernt
+viel dadurch **selbst kennen**, und gerade die schlechte Litteratur einer Zeit
 erlaubt,
 
 *Erratum:*erlaubt  
@@ -3585,12 +3585,12 @@ guten Bücher der Zeitgenossen meistens von solchen herrühren, die mit der Zeit
 die Zeit. Deshalb sind sie zur Selbsterkenntniss nicht so nützlich wie jene.
 
 Aus den schlechten Büchern und Zeitungen will ich nun beweisen, dass wir alle Stümper in der Philosophie sind
-und keine Ph<ilosophie> haben.
+und keine Ph&amp;lt;ilosophie&amp;gt; haben.
 
 [29[226]](javascript:;)
 -----------------------
 
-Lesen und Schreiben.
+**Lesen und Schreiben.**
 
 Denken und Reden dagegen: welchen Einfluss übt darauf das viele Lesen und Schreiben?
 
@@ -3620,8 +3620,8 @@ Rührend: ein Fest im tiefen Schneegebirge bei Winterszeit.
 [29[229]](javascript:;)
 -----------------------
 
-Der Weg zur Freiheit.
-Dreizehnte Unzeitgemässe.
+**Der Weg zur Freiheit.**
+**Dreizehnte** Unzeitgemässe.
 
 Stufe der Beobachtung. Der Verwirrung. Des Hasses. Der Verachtung. Der Verknüpfung. Der Aufklärung. Der
 Erleuchtung. Des Kampfes für. Des inneren Friedens und Freisinns. Versuche der Construction. Der historischen
@@ -3630,7 +3630,7 @@ Einordnung. Der staatlichen Einordnung. Der Freunde.
 [29[230]](javascript:;)
 -----------------------
 
-Der Philosoph.
+**Der Philosoph.**
 
 |  |  |  |
 | --- | --- | --- |
@@ -3657,3 +3657,5 @@ Ich würde einem Amte nie erlauben, mir mehr als ein Viertel meiner Kraft zu rau
 
 Ich schätze das Glück nicht übermässig, unter den Deutschen geboren zu sein, und würde das Leben mit
 vielleicht mehr Befriedigung als Spanier betrachten.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

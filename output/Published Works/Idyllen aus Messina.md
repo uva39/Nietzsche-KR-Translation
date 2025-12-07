@@ -352,7 +352,7 @@ Du Liebling weit und nah,
 
 So fromm, so mild von Herzen,
 
-Amorosissima!
+**Amorosissima!**
 
 Was riss so früh die Kette?
 
@@ -368,7 +368,7 @@ Den milden Augen nah:
 
 Du schwiegst — und starbst vor Sehnen,
 
-Amorosissima?
+**Amorosissima?**
 
 [Vogel Albatross.](javascript:;)
 --------------------------------
@@ -439,3 +439,5 @@ Stehts mit deinem Kopf so schlecht? —
 „Ja, mein Herr! Sie sind ein Dichter!“
 
 — Also sprach der Vogel Specht.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

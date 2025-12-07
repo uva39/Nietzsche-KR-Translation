@@ -16,18 +16,18 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [11[1]](javascript:;)
 ---------------------
 
-schlafloser Qual blutend
+**schlafloser** Qual **blutend**
 
 [11[2]](javascript:;)
 ---------------------
 
-Von den Gelehrten.
+**Von den Gelehrten.**
 
-Vom Lande der Bildung.
+**Vom Lande der Bildung.**
 
-Vom Gesindel.
+**Vom Gesindel.**
 
-Die Todtenfeier.
+**Die Todtenfeier.**
 
 [11[3]](javascript:;)
 ---------------------
@@ -46,7 +46,7 @@ Die verletzte Eitelkeit.
 
 Wer von uns Beiden ist der Glücklichste?
 
-<Der> dem sein Unglück am besten mißrathen ist.
+&amp;lt;Der&amp;gt; dem sein Unglück am besten mißrathen ist.
 
   
 
@@ -63,7 +63,7 @@ lernte!
 [11[5]](javascript:;)
 ---------------------
 
-Der Ärger darob, daß die Nothwendigkeit ehern ist und daß uns der rückwirkende Wille
+Der Ärger darob, daß die **Nothwendigkeit ehern ist** und daß uns der rückwirkende Wille
 versagt ist:
 
 Ingrimm darob, daß die Zeit in die Zukunft abfließt und nicht zur Mühle des Vergangenen sich zwingen
@@ -76,7 +76,7 @@ Daß Etwas leidet, erquickt uns —: das ist unsere älteste Thorheit.
 [11[6]](javascript:;)
 ---------------------
 
-W<agner> wendet sich an die, welche man mit Gründen mißtrauisch macht, aber mit erhabenen
+W&amp;lt;agner&amp;gt; wendet sich an die, welche man mit Gründen mißtrauisch macht, aber mit erhabenen
 Gebärden überzeugt.
 
 [11[7]](javascript:;)
@@ -101,20 +101,20 @@ Dühring. Es ist ihm genug, wenn er ein Paar gereizte und gespreizte Worte hinzu
 
 III Zarathustra kommen vor:
 
-der Büßer des Geistes
+**der Büßer des Geistes**
 
-Der 
-Gottes-Mörder
+**Der**
+**Gottes-Mörder**
 
-*Erratum:*Gottesmörder  
-*lies:*Gottes-Mörder  
+*Erratum:***Gottesmörder**  
+*lies:***Gottes-Mörder**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-.
+**.**
 
-die Müden
+**die Müden**
 
-Die Bienenstöcke
+**Die Bienenstöcke**
 
 [11[11]](javascript:;)
 ----------------------
@@ -158,7 +158,7 @@ c die stillste Stunde
 [11[14]](javascript:;)
 ----------------------
 
-Bei jeder Handlung wird viel erreicht, woran wir nicht denken.
+Bei jeder Handlung wird viel **erreicht**, woran wir nicht denken.
 
 [11[15]](javascript:;)
 ----------------------
@@ -179,7 +179,7 @@ Vom Gesindel
 
 Von den Taranteln
 
-der Wahr<sager>
+der Wahr&amp;lt;sager&amp;gt;
 
 Die Todtenfeier
 
@@ -199,7 +199,7 @@ Die stillste Stunde
 [11[19]](javascript:;)
 ----------------------
 
-Sieg über den Geist der Schwere
+Sieg über den **Geist der Schwere**
 
 [11[20]](javascript:;)
 ----------------------
@@ -210,3 +210,5 @@ ein Baustil für diese Seele
 ----------------------
 
 einzelne absonderliche Heilige kommen auch, auch ein Narr.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -17,18 +17,18 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 ---------------------
 
 Was wir hier über das Verhältniß der Sprache zur Musik aufgestellt haben, muß aus gleichen Gründen auch vom
-Verhältniß des Mimus
+Verhältniß des **Mimus**
 zur
 
-*Erratum:*zur  
+*Erratum:***zur**  
 *lies:*zur  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Musik gelten. Auch der Mimus, als die gesteigerte Geberdensymbolik des Menschen ist, an
+**Musik** gelten. Auch der Mimus, als die gesteigerte Geberdensymbolik des Menschen ist, an
 der ewigen Bedeutsamkeit der Musik gemessen, nur ein Gleichniß, das deren innerstes Geheimniß gar nicht,
 sondern nur ihre rhythmische Außenseite und auch diese nur sehr äußerlich, nämlich am Substrat des
 leidenschaftlich-bewegten Menschenleibes, darstellen kann. Fassen wir aber auch die Sprache mit unter die
-Kategorie der leiblichen Symbolik, halten wir selbst das Drama, gemäß unserem
+Kategorie der leiblichen Symbolik, halten wir selbst das **Drama**, gemäß unserem
 aufgestellten Kanon, an die Musik heran: so dürfte jetzt ein Satz Schopenhauers in die hellste Beleuchtung
 treten (Parerga, Band 2 S. 465): „Es möchte hingehn, obgleich ein rein musikalischer Geist es nicht verlangt,
 daß man der reinen Sprache der Töne, obwohl sie, selbstgenugsam, keiner Beihülfe bedarf, Worte, sogar auch
@@ -46,7 +46,7 @@ Ursprünglichkeit der Vokalmusik, der Verbindung von Ton mit Bild und Begriff, f
 Ausspruchs. Die Musik jedes Volkes beginnt durchaus im Bunde mit der Lyrik, und lange bevor an eine absolute
 Musik gedacht werden kann, durchläuft sie in jener Vereinigung die wichtigsten Entwicklungsstufen. Verstehen
 wir diese Urlyrik eines Volkes, wie wir es ja müssen, als eine Nachahmung der künstlerisch vorbildenden Natur,
-so muß uns als ursprüngliches Vorbild jener Vereinigung von Musik und Lyrik die von der Natur vorgebildete Doppelheit im Wesen der Sprache gelten: in welches wir jetzt, nach den Erörterungen über
+so muß uns als ursprüngliches Vorbild jener Vereinigung von Musik und Lyrik die von der Natur vorgebildete **Doppelheit im Wesen der Sprache** gelten: in welches wir jetzt, nach den Erörterungen über
 die Stellung von Musik zum Bild, tiefer eindringen werden.
 
 In der Vielheit der Sprachen giebt sich sofort die Thatsache kund, daß Wort und Ding sich nicht vollständig
@@ -64,15 +64,15 @@ unterscheiden. Die einen offenbaren sich uns als Lust- und Unlustempfindungen un
 Grundbaß alle übrigen Vorstellungen. Diese allgemeinste Erscheinungsform, aus der und unter der wir alles
 Werden und alles Wollen einzig verstehen und für die wir den Namen „Wille“ festhalten wollen, hat nun auch in
 der Sprache ihre eigne symbolische Sphaere: und zwar ist diese für die Sprache eben so fundamental, wie jene
-Erscheinungsform für alle übrigen Vorstellungen. Alle Lust- und Unlustgrade — Äußerungen eines uns nicht durchschaubaren Urgrundes — symbolisiren sich im Tone des
-Sprechenden: während sämmtliche übrigen Vorstellungen durch die Geberdensymbolik
-des Sprechenden bezeichnet werden. Insofern jener Urgrund in allen Menschen derselbe ist, ist auch der Tonuntergrund der allgemeine und über die Verschiedenheit der Sprachen hinaus
+Erscheinungsform für alle übrigen Vorstellungen. Alle Lust- und Unlustgrade — Äußerungen **eines** uns nicht durchschaubaren Urgrundes — symbolisiren sich im **Tone des
+Sprechenden**: während sämmtliche übrigen Vorstellungen durch die **Geberdensymbolik**
+des Sprechenden bezeichnet werden. Insofern jener Urgrund in allen Menschen derselbe ist, ist auch der **Tonuntergrund** der allgemeine und über die Verschiedenheit der Sprachen hinaus
 verständliche. An ihm entwickelt sich nun die willkürlichere und ihrem Fundament nicht völlig adäquate
 Geberdensymbolik: mit der die Mannichfaltigkeit der Sprachen beginnt, deren Vielheit wir gleichnißweise als
 einen strophischen Text auf jene Urmelodie der Lust- und Unlustsprache ansehen dürfen. Das ganze Bereich des
-Consonantischen und Vokalischen glauben wir nur unter die Geberdensymbolik rechnen zu dürfen — Consonanten und Vokale sind ohne den vor allem nöthigen fundamentalen Ton nichts als Stellungen der Sprachorgane, kurz Geberden —; sobald wir uns das Wort aus dem
+Consonantischen und Vokalischen glauben wir nur unter die Geberdensymbolik rechnen zu dürfen — Consonanten **und** Vokale sind ohne den vor allem nöthigen fundamentalen Ton nichts als **Stellungen** der Sprachorgane, kurz Geberden —; sobald wir uns das **Wort** aus dem
 Munde des Menschen hervorquellen denken, so erzeugt sich zu allererst die Wurzel des Wortes und das Fundament
-jener Geberdensymbolik, der Tonuntergrund, der Wiederklang der Lust- und
+jener Geberdensymbolik, der **Tonuntergrund**, der Wiederklang der Lust- und
 Unlustempfindungen. Wie sich unsre ganze Leiblichkeit zu jener ursprünglichsten Erscheinungsform, dem Willen
 verhält, so verhält sich das consonantisch-vokalische Wort zu seinem Tonfundamente.
 
@@ -119,7 +119,7 @@ Gedichtes zu seiner Komposition jedenfalls ein anderes sein muß als das des Vat
 welches?
 
 Hier nun wird man uns, auf Grund einer beliebten aesthetischen Anschauung, mit dem Satze entgegenkommen
-„nicht das Gedicht, sondern das durch das Gedicht erzeugte Gefühl ist es,
+„nicht das Gedicht, sondern das durch das Gedicht erzeugte **Gefühl** ist es,
 welches
 
 *Erratum:*welche  
@@ -131,18 +131,18 @@ das Gefühl, die leisere oder stärkere Erregung jenes Lust- und Unlustuntergrun
 produktiven Kunst das an sich Unkünstlerische, ja erst seine gänzliche Ausschließung ermöglicht das volle sich
 Versenken und interesselose Anschauen des Künstlers. Hier möchte man mir etwa erwiedern, daß ich ja selbst so
 eben vom „Willen“ ausgesagt habe, er komme in der Musik zu einem immer adäquateren symbolischen Ausdruck.
-Meine Antwort, in einen aesthetischen Grundsatz zusammengefaßt, ist diese: der „Wille“ ist
-Gegenstand der Musik, aber nicht Ursprung derselben, nämlich der Wille in seiner allergrößten
+Meine Antwort, in einen aesthetischen Grundsatz zusammengefaßt, ist diese: **der „Wille“ ist
+Gegenstand der Musik, aber nicht Ursprung derselben**, nämlich der Wille in seiner allergrößten
 Allgemeinheit, als die ursprünglichste Erscheinungsform, unter der alles Werden zu verstehn ist. Das, was wir
-Gefühle nennen, ist, hinsichtlich dieses Willens, bereits schon mit bewußten und
+**Gefühle** nennen, ist, hinsichtlich dieses Willens, bereits schon mit bewußten und
 unbewußten Vorstellungen durchdrungen und gesättigt und deshalb nicht mehr direkt Gegenstand der Musik:
 geschweige denn, daß es diese aus sich erzeugen könnte. Man nehme beispielsweise die Gefühle von Liebe, Furcht
 und Hoffnung: die Musik kann mit ihnen auf direktem Wege gar nichts mehr anfangen, so erfüllt ist ein jedes
 dieser Gefühle schon mit Vorstellungen. Dagegen können diese Gefühle dazu dienen, die Musik zu symbolisiren:
 wie dies der Lyriker thut, der jenes begrifflich und bildlich unnahbare Bereich des „Willens“, den
 eigentlichen Inhalt und Gegenstand der Musik, sich in die Gleichnißwelt der Gefühle übersetzt. Dem Lyriker
-ähnlich sind alle diejenigen Musikhörer, welche eine Wirkung der Musik auf ihre Affekte
-spüren: die entfernte und entrückte Macht der Musik appelliert bei ihnen an ein Zwischenreich, das ihnen gleichsam einen Vorgeschmack, einen symbolischen Vorbegriff der eigentlichen
+ähnlich sind alle diejenigen Musikhörer, welche **eine Wirkung der Musik auf ihre Affekte**
+spüren: die entfernte und entrückte Macht der Musik appelliert bei ihnen an ein **Zwischenreich**, das ihnen gleichsam einen Vorgeschmack, einen symbolischen Vorbegriff der eigentlichen
 Musik giebt, an das Zwischenreich der Affekte. Von ihnen dürfte man, im Hinblick auf den „Willen“, den
 einzigen Gegenstand der Musik, sagen, sie verhielten sich zu diesem Willen, wie der analogische Morgentraum,
 nach der Schopenhauerischen Theorie zum eigentlichen Traume. Allen jenen aber, die der Musik nur mit ihren
@@ -152,7 +152,7 @@ symbolisiren vermag.
 
 Was dagegen den Ursprung der Musik betrifft, so habe ich schon erklärt, daß dieser nie und nimmer im „Willen“
 liegen kann, vielmehr im Schooße jener Kraft ruht, die unter der Form des „Willens“ eine Visionswelt aus sich
-erzeugt: der Ursprung der Musik liegt jenseits aller Individuation, ein Satz, der sich
+erzeugt: **der Ursprung der Musik liegt jenseits aller Individuation**, ein Satz, der sich
 nach unsrer Erörterung über das Dionysische aus sich selbst beweist. An dieser Stelle möchte ich mir
 gestatten, die entscheidenden Behauptungen, zu denen uns der behandelte Gegensatz des Dionysischen und des
 Apollinischen genöthigt hat, noch einmal übersichtlich neben einander zu stellen.
@@ -173,24 +173,24 @@ apollinischen Anschauung, jenen Affekten enthoben ist. —
 
 Wenn also der Musiker ein lyrisches Lied componiert, so wird er als Musiker weder durch die Bilder, noch
 durch die Gefühlssprache dieses Textes erregt: sondern eine aus ganz andern Sphaeren kommende Musikerregung
-wählt sich jenen Liedertext als einen gleichnißartigen Ausdruck ihrer selbst. Von einem
+**wählt** sich jenen Liedertext als einen gleichnißartigen Ausdruck ihrer selbst. Von einem
 nothwendigen Verhältniß zwischen Lied und Musik kann also nicht die Rede sein; denn die beiden hier in Bezug
 gebrachten Welten des Tons und des Bildes stehn sich zu fern, um mehr als eine äußerliche Verbindung eingehen
 zu können; das Lied ist eben nur Symbol und verhält sich zur Musik wie die ägyptische Hieroglyphe der
 Tapferkeit zum tapferen Krieger selbst. Bei den höchsten Offenbarungen der Musik empfinden wir sogar
-unwillkürlich die Roheit jeder Bildlichkeit und jedes zur Analogie herbeigezogenen
+unwillkürlich die **Roheit** jeder Bildlichkeit und jedes zur Analogie herbeigezogenen
 Affektes: wie z.B. die letzten Beethoven’schen Quartette jede Anschaulichkeit, überhaupt das gesammte Reich
 der empirischen Realität völlig beschämen. Das Symbol hat Angesichts des höchsten, wirklich sich offenbarenden
 Gottes keine Bedeutung mehr: ja es erscheint jetzt als eine beleidigende Äußerlichkeit.
 
 Man verarge uns hier nicht, wenn wir auch von diesem Standpunkte aus den unerhörten und in seinen Zaubern
-nicht auflösbaren letzten Satz der neunten Symphonie Beethovens in unsre Betrachtung
+nicht auflösbaren **letzten Satz der neunten Symphonie Beethovens** in unsre Betrachtung
 ziehn, um über ihn ganz unverhohlen zu reden. Daß dem dithyrambischen Welterlösungsjubel dieser Musik das
 Schillersche Gedicht „an die Freude“ gänzlich incongruent ist, ja wie blasses Mondlicht von jenem Flammenmeere
 überfluthet wird, wer möchte mir dieses allersicherste Gefühl rauben? Ja wer möchte mir überhaupt streitig
 machen können, daß jenes Gefühl beim Anhören dieser Musik nur deshalb nicht zum schreienden Ausdruck kommt,
-weil wir, durch die Musik für Bild und Wort völlig depotenzirt, bereits gar nichts von dem
-Gedichte Schiller’s hören? Aller jener edle Schwung, ja die Erhabenheit der Schillerschen Verse wirkt
+weil wir, durch die Musik für Bild und Wort völlig depotenzirt, bereits **gar nichts von dem
+Gedichte Schiller’s hören**? Aller jener edle Schwung, ja die Erhabenheit der Schillerschen Verse wirkt
 schon neben der wahrhaft naiv-unschuldigen Volksmelodie der Freude störend, beunruhigend, selbst roh und
 beleidigend: nur daß man sie nicht hört, bei der immer volleren Entfaltung des Chorgesanges und der
 Orchestermassen, hält jene Empfindung der Incongruenz von uns fern. Was sollen wir also von jenem
@@ -203,7 +203,7 @@ anstimmen und freudenvollere!“ Angenehmere und freudenvollere! Dazu brauchte e
 Menschenstimme, dazu brauchte er die Unschuldsweise des Volksgesanges. Nicht nach dem Wort, aber nach dem
 „angenehmeren“ Laut, nicht nach dem Begriff, aber nach dem innig-freudenreichsten Tone griff der erhabene
 Meister in der Sehnsucht nach dem seelenvollsten Gesammtklange seines Orchesters. Und wie konnte man ihn
-mißverstehn! Vielmehr gilt von diesem Satze genau dasselbe, was Richard Wagner in Betreff
+mißverstehn! Vielmehr gilt von diesem Satze genau dasselbe, was **Richard Wagner** in Betreff
 der großen Missa solemnis sagt, die er „ein rein symphonisches Werk des ächtesten Beethovenschen Geistes“
 nennt. „Beethoven“ S. 47: „Die Gesangstimmen sind hier ganz im Sinne wie menschliche Instrumente behandelt,
 welchen Schopenhauer diesen sehr richtig auch nur zugesprochen wissen wollte: der ihnen untergelegte Text wird
@@ -212,14 +212,14 @@ sondern er dient, im Sinne des musikalischen Kunstwerkes, lediglich als Material
 verhält sich nur deswegen nicht störend zu unsrer musikalisch bestimmten Empfindung, weil er uns keineswegs
 Vernunftvorstellungen anregt, sondern, wie dieß auch sein kirchlicher Charakter bedingt, uns nur mit dem
 Eindrucke wohlbekannter symbolischer Glaubensformeln berührt.“ Übrigens zweifle ich nicht, daß Beethoven,
-falls er die projektirte zehnte Symphonie geschrieben hätte — zu der noch Skizzen vorliegen — eben die zehnte Symphonie geschrieben haben würde.
+falls er die projektirte zehnte Symphonie geschrieben hätte — zu der noch Skizzen vorliegen — eben die **zehnte** Symphonie geschrieben haben würde.
 
-Nahen wir uns jetzt, nach diesen Vorbereitungen, der Besprechung der Oper, um von ihr
+Nahen wir uns jetzt, nach diesen Vorbereitungen, der Besprechung der **Oper**, um von ihr
 nachher zu ihrem Gegenbild in der griechischen Tragödie fortgehen zu können. Was wir im letzten Satze der
 Neunten, also auf den höchsten Gipfeln der modernen Musikentwicklung, zu beobachten hatten, daß der Wortinhalt
 ungehört in dem allgemeinen Klangmeere untergeht, ist nichts Vereinzeltes und Absonderliches, sondern die
 allgemeine und ewig gültige Norm in der Vokalmusik aller Zeiten, die dem Ursprunge des lyrischen Liedes einzig
-gemäß ist. Der dionysisch erregte Mensch hat ebensowenig wie die orgiastische Volksmasse einen Zuhörer, dem er
+gemäß ist. Der dionysisch erregte Mensch hat ebensowenig wie die orgiastische Volksmasse einen **Zuhörer**, dem er
 
 *Erratum:*sie  
 *lies:*er  
@@ -232,27 +232,29 @@ wie ich an einer früheren Stelle sagte, nur von seinesgleichen verstanden. Denk
 bei jenen endemischen Ausbrüchen der dionysischen Erregung, so müßten wir ihm ein Schicksal weissagen, wie es
 Pentheus, der entdeckte Lauscher, erlitt: nämlich von den Mänaden zerrissen zu werden. Der Lyriker singt „wie
 der Vogel singt“, allein, aus innerster Nöthigung und muß verstummen, wenn ihm der Zuhörer fordernd
-entgegentritt. Deshalb würde es durch<aus> unnatürlich sein, vom Lyriker zu verlangen, daß man
-auch die Textworte seines Liedes verstünde, unnatürlich, weil hier der Zuhörer fordert,
+entgegentritt. Deshalb würde es durch&amp;lt;aus&amp;gt; unnatürlich sein, vom Lyriker zu verlangen, daß man
+auch die Textworte seines Liedes verstünde, unnatürlich, weil hier der **Zuhörer** fordert,
 der überhaupt bei dem lyrischen Erguß kein Recht beanspruchen darf. Nun frage man sich einmal aufrichtig, mit
 den Dichtungen der großen antiken Lyriker in der Hand, ob sie auch nur daran gedacht haben können, der
 umherstehenden lauschenden Voksmenge mit ihrer Bilder- und Gedankenwelt deutlich zu werden: man beantworte
 sich diese ernsthafte Frage, mit dem Blick auf Pindar und die äschyleischen Chorgesänge. Diese kühnsten und
 dunkelsten Verschlingungen des Gedankens, dieser ungestüm sich neu gebärende Bilderstrudel, dieser Orakelton
-des Ganzen, den wir, ohne die Ablenkung durch Musik und Orchestik, bei angespanntester
+des Ganzen, den wir, **ohne** die Ablenkung durch Musik und Orchestik, bei angespanntester
 Aufmerksamkeit so oft nicht durchdringen können — diese ganze Welt von Mirakeln sollte der griechischen Menge
 durchsichtig wie Glas, ja eine bildlich-begriffliche Interpretation der Musik gewesen sein? Und mit solchen
 Gedankenmysterien, wie sie Pindar enthält, hätte der wunderbare Dichter die an sich eindringlich deutliche
 Musik noch verdeutlichen wollen? Sollte man hier nicht zur Einsicht in das kommen müssen, was der Lyriker ist,
-nämlich der künstlerische Mensch, der die Musik sich durch die Symbolik der Bilder und
+nämlich der künstlerische Mensch, der die Musik **sich** durch die Symbolik der Bilder und
 Affekte deuten muß, der aber dem Zuhörer nichts mitzutheilen hat: der sogar, in völliger Entrücktheit,
 vergißt, wer gierig lauschend in seiner Nähe steht. Und wie der Lyriker seinen Hymnus, so singt das Volk das
 Volkslied, für sich, aus innerem Drange, unbekümmert ob das Wort einem Nichtmitsingenden verständlich ist.
 Denken wir an unsre eignen Erfahrungen im Gebiete der höheren Kunstmusik: was verstanden wir vom Texte einer
 Messe Palestrina’s, einer Kantate Bach’s, eines Oratoriums Händels, wenn wir nicht etwa selbst mitsangen? Nur
-für den Mitsingenden giebt es eine Lyrik, giebt es Vokalmusik: der Zuhörer steht ihr
+für den **Mitsingenden** giebt es eine Lyrik, giebt es Vokalmusik: der Zuhörer steht ihr
 gegenüber als einer absoluten Musik.
 
-Nun aber beginnt die Oper, nach den deutlichsten Zeugnissen, mit der Forderung des Zuhörers, das Wort zuverstehn.
+Nun aber beginnt die **Oper**, nach den deutlichsten Zeugnissen, mit der **Forderung des Zuhörers, das Wort zuverstehn**.
 
-Wie? Der Zuhörer fordert? Das Wort soll verstanden werden?
+Wie? Der Zuhörer **fordert**? Das Wort soll verstanden werden?
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

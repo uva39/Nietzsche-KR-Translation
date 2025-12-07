@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [10[1]](javascript:;)
 ---------------------
 
-Wer den höchsten Augenblick geniesst, erblindet.
+Wer den höchsten Augenblick geniesst, **erblindet**.
 
 [10[2]](javascript:;)
 ---------------------
@@ -51,7 +51,7 @@ Physik.
 
 Chemie.
 
-Naturwissenschaften descript<iv>.
+Naturwissenschaften descript&amp;lt;iv&amp;gt;.
 
 Physiologie.
 
@@ -97,15 +97,15 @@ Schriftstellerei (aus Noth, da das Beispiel nicht möglich war).
 [10[12]](javascript:;)
 ----------------------
 
-Das Genossenschaftliche der B<ayreuther> Unternehmung.
+Das **Genossenschaftliche** der B&amp;lt;ayreuther&amp;gt; Unternehmung.
 
 [10[13]](javascript:;)
 ----------------------
 
-Die Zukunft der Kunst (wenn die Menschheit ihr Ende begreift).
+Die Zukunft der Kunst (wenn die Menschheit ihr **Ende** begreift).
 
-Ich könnte mir auch eine vorwärtsblickende Kunst denken, die ihre Bilder in der Zukunft
-sucht. Warum giebt es solche nicht? Die Kunst knüpft an die Pietät an.
+Ich könnte mir auch eine **vorwärts**blickende Kunst denken, die ihre Bilder in der Zukunft
+sucht. Warum giebt es solche nicht? Die Kunst knüpft an die **Pietät** an.
 
 [10[14]](javascript:;)
 ----------------------
@@ -115,25 +115,25 @@ Die sich Zurückhaltenden, aus Desperation, wie Jacob Burckhardt.
 [10[15]](javascript:;)
 ----------------------
 
-Jede Kunst schiesst in’s Kraut, bei einer Höhe der Entwicklung.
+Jede Kunst schiesst **in’s Kraut**, bei einer Höhe der Entwicklung.
 
 [10[16]](javascript:;)
 ----------------------
 
-Wie W<agner> der Musik erst die Zunge löst und die Glieder bricht.
+Wie W&amp;lt;agner&amp;gt; der Musik erst die Zunge löst und die Glieder bricht.
 
 [10[17]](javascript:;)
 ----------------------
 
-Gegensatz der Höhe der Kunst und der elenden Männergesangsmusik. Bei den Griechen sorgte
-der Staat.
+Gegensatz der Höhe der Kunst und der elenden **Männergesangs**musik. Bei den Griechen sorgte
+der **Staat**.
 
 [10[18]](javascript:;)
 ----------------------
 
 Schilderung der Hauptcharactere.
 
-Überblick der Arten.
+**Überblick** der Arten.
 
 Reichthum.
 
@@ -147,7 +147,7 @@ Musiker — Dichter — Schriftsteller — Schauspieler.
 
 Griechen.
 
-Philologen, Kastenlehrer (einer höheren Kaste).
+Philologen, **Kasten**lehrer (einer höheren Kaste).
 
 Wagner.
 
@@ -175,3 +175,5 @@ Schule der Erzieher.
 ----------------------
 
 Ich bin bereit.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

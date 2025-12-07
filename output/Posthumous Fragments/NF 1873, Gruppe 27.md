@@ -16,8 +16,8 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [27[1]](javascript:;)
 ---------------------
 
-Der Stil des Strauß beweist, daß er während eines langen Lebens viel schlechte Bücher
-gelesen — ich meine vor allem die Schriften seiner Gegner.
+Der Stil des Strauß beweist, daß er während eines langen Lebens viel **schlechte Bücher**
+gelesen — ich meine vor allem die Schriften seiner **Gegner**.
 
 Er hat am Christenthum das Beste vergessen, die großen Einsiedler und Heiligen, kurz das Genie und urtheilt
 wie der Dorfpastor über die Kunst oder wie Kant über die Musik (der sie nur als Militärmusik schätzt).
@@ -39,10 +39,10 @@ wenig durch die Vernunft über das Ansich der Dinge auszumachen ist.
 Er sieht nirgends, wo die Probleme liegen. Er nimmt das Christenthum, die Kunst immer in der niedrigsten
 demokratischen Verkümmerung und widerlegt dann. Er glaubt an die moderne Kultur — aber die antike war eine
 viel größere und doch ist das Christenthum darüber Herr geworden. Er ist kein Philosoph. Er ist ohne
-Stilgefühl. Er ist kein Künstler. Er ist ein Magister. Er zeigt den magisterhaften Typus
+Stilgefühl. Er ist kein Künstler. Er ist ein **Magister**. Er zeigt den magisterhaften Typus
 der Bildung unsrer Bourgeoisie.
 
-Das Bekenntniß ist eine Überschreitung seiner Grenze: der Gelehrte ist zu Grunde
+Das Bekenntniß ist eine **Überschreitung** seiner Grenze: der Gelehrte ist zu Grunde
 gegangen, dadurch daß er Philosoph scheinen wollte. Und doch ist nur ein magisterhaftes Wesen von
 Weltanschauung, unfrei, ärmlich, bornirt, entstanden.
 
@@ -63,7 +63,7 @@ für den Menschen der sittliche Maßstab sein.
 ---------------------
 
 Es ist ein lapsus von Strauß, ein Leben Jesu zu geben. Er mußte sich auf die historische Arbeit beschränken.
-— Dagegen durfte er jetzt das eigentl<ich> wahrhafte Christenthum, das Mönchsthum, nicht
+— Dagegen durfte er jetzt das eigentl&amp;lt;ich&amp;gt; wahrhafte Christenthum, das Mönchsthum, nicht
 vergessen.
 
 [27[4]](javascript:;)
@@ -81,7 +81,7 @@ Wenn die „Wir“ von Strauß wirklich so zahlreich sind
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 , so trifft ein, was
-Lichtenberg prophezeit, daß unsre Zeiten noch einmal die dunklen heißen.
+Lichtenberg prophezeit, daß unsre Zeiten noch einmal die **dunklen** heißen.
 
 [27[6]](javascript:;)
 ---------------------
@@ -119,7 +119,7 @@ Er geht in sein Kämmerchen und spielt Kammermusik, — „so leben wir, so lebe
 [27[9]](javascript:;)
 ---------------------
 
-Es soll euch durchaus nicht erlaubt sein, Lessing zu glorificiren, da ihr doch nur euch
+Es soll euch durchaus nicht erlaubt sein, Lessing zu glorificiren, da ihr doch nur **euch**
 meint. Davon daß dieses herrliche Wesen unter euch stumpfen Gesellen zu Grunde gieng, habt ihr keine Ahnung.
 Daß er sich in den verschiedensten Gebieten herumwarf, ist kein Glück, dafür hat er in nichts es zu wahrer
 Größe gebracht. Gervinus. Grillparzer.
@@ -127,7 +127,7 @@ Größe gebracht. Gervinus. Grillparzer.
 [27[10]](javascript:;)
 ----------------------
 
-Jahn, dem das Lied an die Freude nicht gelungen erschien.
+**Jahn**, dem das Lied an die Freude nicht gelungen erschien.
 
 [27[11]](javascript:;)
 ----------------------
@@ -180,7 +180,7 @@ weichlich.
 [27[17]](javascript:;)
 ----------------------
 
-Welcher Muth, sich zum Darwinism
+Welcher **Muth**, sich zum Darwinism
 
 *Erratum:*Darwinismus  
 *lies:*Darwinism  
@@ -193,18 +193,18 @@ zurückzufallen!
 [27[18]](javascript:;)
 ----------------------
 
-Die charakterlose und stumpfe Manier als Ausdruck der Gesundheit.
+Die **charakterlose und stumpfe Manier** als Ausdruck der **Gesundheit**.
 
-Das Alterthümliche als Ausdruck der deutschen
-Kraft.
+Das **Alterthümliche** als Ausdruck der **deutschen
+Kraft**.
 
-Das Bild und zwar aus der modernsten Welt als Zeichen des Geschmacks
+Das **Bild** und zwar aus der modernsten Welt als Zeichen des Geschmacks
 und zwar des modernen Geschmacks.
 
-Er affektirt ein großer populärer
+Er **affektirt** ein **großer populärer**
 Schriftsteller zu sein: falscher Begriff der Popularität.
 
-Er gehört zu denen, die in einem gewissen Alter unfähig sind, Kant
+Er gehört zu denen, die in einem gewissen Alter unfähig sind, **Kant**
 zu verstehen.
 
 Das klassische Alterthum existirt für ihn nicht.
@@ -229,7 +229,7 @@ Ich will Ihnen zeigen, daß ich Sie verstanden habe.
 
 |  |  |  |
 | --- | --- | --- |
-| Brief | 1. | Der Wunsch, als Autor naiv und populär, ja ein Genie zu sein. Preis der Form. |
+| Brief | 1. | Der Wunsch, als Autor **naiv** und **populär**, ja ein Genie zu sein. Preis der Form. |
 | 2. | Archaismen Neologismen. |
 | 3. | Verwirrung der Bilder. |
 | 4. | Hegel und die Zeitungen — so wie die Gegner. |
@@ -261,7 +261,7 @@ Briefe eines Ausländers an den deutschen Schriftsteller David Strauss.
 [27[23]](javascript:;)
 ----------------------
 
-Es ist ein schmerzlicher Gedanke, daß Jemand alt und doch nicht weise werden kann. Bei
+Es ist ein schmerzlicher Gedanke, daß Jemand alt und doch nicht **weise** werden kann. Bei
 Strauß frage ich mich immer: wie hat er nur bis dahin leben können?
 
 Die Menge ist unphilosophisch und Strauß gehört zur Menge.
@@ -273,7 +273,7 @@ Sein „Aristokratismus der Natur“ ist ganz inconsequent und angeschwindelt: e
 
 Ein seelenloses Wörtermosaik mit europäischer Syntax schreibt bald das Deutsche. Wir verlieren die Sprache
 immer mehr und wir sollten wissen, was wir an ihr haben — das Deutsche! Wir bekommen ein deutsches Reich, zu
-der Zeit als wir bald aufgehört haben Deutsche zu sein. Der abstrakte europäische Mensch,
+der Zeit als wir bald aufgehört haben Deutsche zu sein. Der **abstrakte europäische Mensch**,
 der alles nachmacht und schlecht —
 
 Was sind doch deutsche Sitten — meistens schlechte und festgewordene Nachahmungen, die als solche vergessen
@@ -319,8 +319,8 @@ deutsche Dummheit.“
 [27[28]](javascript:;)
 ----------------------
 
-Es sind rohe Empiriker: unsre Schulen sind gänzlich unzureichend.
-Der Nothstand ist auf der Spitze. Polizeiliches Verbieten eines Zeitungsblattes, das den geringsten sprachlichen Fehler hat.
+Es sind **rohe Empiriker**: unsre **Schulen** sind gänzlich unzureichend.
+Der Nothstand ist auf der Spitze. Polizeiliches **Verbieten** eines **Zeitungsblattes**, das den geringsten sprachlichen Fehler hat.
 
 [27[29]](javascript:;)
 ----------------------
@@ -373,10 +373,10 @@ Mensch sagen kann. Somit muß es in allen Theilen durchdacht, als zusammenhänge
 Die erste Niederschrift hat weiter keinen Werth als den allgemeinen Gang und die Dimensionen zu finden, das
 totum ponere: allerdings die Hauptsache für den Inhalt: meistens auch werden die richtigen Farben gefunden.
 Nun ist das Ganze noch voll von zahllosen Fehlern, hier und da ist ein vorläufiger Bretterverschlag und
-„Fehlboden“, überall liegt Staub, die Zeichen der Arbeit, der Noth sind sichtbar. Die
+„Fehlboden“, überall liegt Staub, die Zeichen der Arbeit, der Noth sind sichtbar. **Die**
 ganze jetzt noch nöthige Arbeit, fehlt bei Strauß: selbst angenommen, das totum ponere sei gelungen.
 
-Das totum ponere ist insofern gelungen, als das ganze Buch wenigstens eine Art Mensch
+Das totum ponere ist insofern gelungen, als das ganze Buch wenigstens **eine** Art Mensch
 abmalt, so, daß auch die großen Inconsequenzen und Halbheiten in’s Bild gehören. Es soll ja einen Glauben
 darstellen, nicht eine Philosophie, und hat sich deshalb seiner Gedankenlosigkeiten nicht zu schämen, da es
 auf das Ethos vor allem ankommt. Dieses Ethos zeigt Muth, soweit es dem Philister wohlthut, also in
@@ -396,7 +396,7 @@ Hermann und Dorothea in die Volksschule — das ist alles, im Übrigen
 ----------------------
 
 Er hat das Leichtschürzen mißverstanden an großen Autoren: diese wollten ein zierliches Gartenhaus, dagegen
-spricht der plumpe Entwurf von Str<auss> es fehlt gerade die Leichtigkeit und Anmuth. Das
+spricht der plumpe Entwurf von Str&amp;lt;auss&amp;gt; es fehlt gerade die Leichtigkeit und Anmuth. Das
 Oberflächliche Unausgebaute ist noch lange nicht das Zierliche.
 
 [27[34]](javascript:;)
@@ -425,7 +425,7 @@ Sie werden zugeben, daß ich mich nicht an die „höheren Galerien“ wende, we
 [27[37]](javascript:;)
 ----------------------
 
-Man redet von den geologischen und darwin<istischen> Vorgängen: da denkt man sich das Subjekt
+Man redet von den geologischen und darwin&amp;lt;istischen&amp;gt; Vorgängen: da denkt man sich das Subjekt
 als ewig. Es ist auch völlig unmöglich es wegzudenken. Unwillkürlich nimmt alle Naturwissenschaft die Einheit
 des Subjekts, seine Ewigkeit und Unveränderlichkeit an. Unser Gehirn, unser Auge ist bereits ein extra nos
 oder praeter nos: es ist nicht die Welt eine Gehirnqualität, sondern das Gehirn selbst ist ein Theil dieser
@@ -457,29 +457,29 @@ das
 
 Strauß sagt: „es wäre auch Undank gegen meinen Genius, wollte ich mich nicht freuen, daß mir neben der Gabe
 der schonungslos zersetzenden Kritik zugleich die harmlose Freude am künstlerischen Gestalten verliehen ward.“
-„Man erwies mir von verschiedenen Seiten sogar die ungesuchte Ehre, mich als eine Art von
+„Man erwies mir von verschiedenen Seiten sogar die **ungesuchte** Ehre, mich als eine Art von
 klassischem Prosaschreiber gelten zu lassen.“ Freilich, Sie haben es nicht gesucht, sondern alles unterlassen,
 es zu werden.
 
 „Unsre Zeit, der das Formlose als erhaben gilt“ ironisch auf Strauß anzuwenden.
 
-Merck: „solchen Quark mußt du nicht mehr machen, das können die Andern auch.“ Nachwort,
+**Merck:** „solchen Quark mußt du nicht mehr machen, das können die Andern auch.“ Nachwort,
 p. 10. Einer meiner Freunde hat eine Blüthenlese von stilistischen Classicitäten des Voltaire.
 
 [27[40]](javascript:;)
 ----------------------
 
-An Stelle des „Reich Gottes“ scheint „das Reich“ getreten.
+An Stelle des **„Reich Gottes“** scheint „das**Reich**“ getreten.
 
 [27[41]](javascript:;)
 ----------------------
 
-Die absichtliche Oberflächlichkeit — er kann alles besser. Riehlsche Hausmusik.
+Die **absichtliche Oberflächlichkeit** — er kann alles besser. Riehlsche Hausmusik.
 
-Es ist durchaus nöthig, daß wir kräftig auffordernde Redner hören — an Stelle der
+Es ist durchaus nöthig, daß wir kräftig auffordernde **Redner** hören — an Stelle der
 schlechten Prediger. Ungeheure Aufgabe der Kunst!
 
-Die Vernunft des Universums als Religion festzuhalten, ist sehr unvernünftig und
+Die **Vernunft** des Universums als Religion festzuhalten, ist sehr unvernünftig und
 jedenfalls ungefähr so toll, wie zu behaupten, daß eins gleich drei sei — ein Glaube.
 
 Was Strauß gegen die Antinomie der Unendlichkeit sagt, ist furchtbar dumm. Er hat gar nicht begriffen, worum
@@ -488,9 +488,9 @@ es sich handelt.
 [27[42]](javascript:;)
 ----------------------
 
-Strauß, p. 10: „Man denkt sich Manches halbträumerisch im Innern zusammen, was, wenn man
-es einmal in der festen Gestalt von Worten und Sätzen aus sich herausstellen will, nicht
-zusammengeht.“
+Strauß, p. 10: „Man denkt sich Manches **halbträumerisch** im Innern zusammen, was, wenn man
+es einmal in der festen Gestalt von Worten und Sätzen aus sich herausstellen will, **nicht
+zusammengeht**.“
 
 [27[43]](javascript:;)
 ----------------------
@@ -506,16 +506,16 @@ ob sie mehr oder weniger geeignet ist, das Gebäude eines wahrhaft menschlichen 
 glücklichen Lebens darauf zu gründen.“ Antwort steht p. 366: „Wer hier sich nicht selbst zu helfen weiß, dem
 ist überhaupt nicht zu helfen, der ist für unsern Standpunkt noch nicht reif.“
 
-Es soll ein Katechismus der modernen Ideen sein; „er will nach der Richtung hinzeigen,
+Es soll ein Katechismus der **modernen Ideen** sein; „er will nach der Richtung hinzeigen,
 wo seiner Überzeugung nach ein festerer Boden zu finden ist“ — „nämlich die moderne Weltanschauung, das mühsam
 errungene Ergebniß fortgesetzter Natur- und Geschichtsforschung.“ Nachher stellt er den alten Glauben der
-neueren Wissenschaft gegenüber. Kunst und Philosophie ist
+neueren Wissenschaft gegenüber. **Kunst** und **Philosophie** ist
 vergessen.
 
 [27[45]](javascript:;)
 ----------------------
 
-„Rolle“ p. 35 zweimal, p. 143.
+**„Rolle“** p. 35 zweimal, p. 143.
 
 „Man geht nicht mit steifem Tritte auf unbekannten und von tausend Abgründen unterbrochnen Wegen.“ Aber muß
 man denn affektiren zu tänzeln?
@@ -540,8 +540,8 @@ Kunst.
 
 Christenthum.
 
-Er benutzt das aristokratische Genie wie Bismarck die
-Socialdemok<rat>ie benutzt: Strauß aber gegen die Socialdemokraten zu Gunsten der Bourgeoisie,
+Er benutzt das aristokratische **Genie** wie Bismarck die
+Socialdemok&amp;lt;rat&amp;gt;ie benutzt: Strauß aber gegen die Socialdemokraten zu Gunsten der Bourgeoisie,
 höchst ungern.
 
 Er läuft wie eine Rauchsäule vor seinen „Wir“ einher.
@@ -583,7 +583,7 @@ müßte, und benimmt sich so, als ob es gar niemals sterben sollte.
 ----------------------
 
 Entstehung des Philisters der Bildung. An sich die Bildung immer in sehr exclusiven Kreisen. Der
-eig<entliche> Philister hielt sich davon fern. Der Gelehrte machte einen Übergang, er glaubte an
+eig&amp;lt;entliche&amp;gt; Philister hielt sich davon fern. Der Gelehrte machte einen Übergang, er glaubte an
 das klassische Alterthum, die Künstler galten ihm als bedenkliche Gesellen. Hegel hat sehr viel Aesthetik auf
 Universitäten in Umlauf gebracht. Das Publikum des Almanachs ist das Stammpublikum, Abendzeitung. In den 50ger
 Jahren die Realisten, Julian Schmidt. Allmählich entsteht das Publikum der populären Vorträge, als eine Macht,
@@ -627,10 +627,10 @@ unaesthetische Natur.
 
 Aus dem wilden Gebräu von Philosophie, Romantik und Experimentiren aller Art entstand zuletzt eine ungeheure
 Sicherheit im Vernichten und Verurtheilen, durch die fortwährende Übung — und dadurch wieder ein Zutrauen auf
-Seiten der Nichtproduzirenden zu ihrer eignen Kultur als einem
-Maßstabe. Worin bestand denn das Positive? In einem gewissen Behagen, das jenem
+Seiten der **Nichtproduzirenden** zu ihrer **eignen Kultur** als einem
+Maßstabe. Worin bestand denn das Positive? In einem **gewissen Behagen**, das jenem
 praktischen Experimentiren entgegengesetzt war; Behagen am eignen Leben. Dazu fanden sich auch noch Talente,
-die dies verherrlichten, die idyllische Heimlichkeit des Deutschen, des Gelehrten usw. Diese Behaglichen suchten jetzt die Klassiker sich zuzulegen, und alles noch lebendig Produzirende
+die dies verherrlichten, die idyllische Heimlichkeit des Deutschen, des Gelehrten usw. Diese **Behaglichen** suchten jetzt die Klassiker sich zuzulegen, und alles noch lebendig Produzirende
 hochmüthig abzuweisen; sie setzten sich in Ruhe und erfanden das Epigonenzeitalter. Otto Jahn und Mozart. Die
 neunte Symphonie und Strauß. Gervinus und Shakespeare. Historisch sollte alles Große begriffen werden. Alle
 lebendige Kraft zeigte sich auf dem historischen Gebiete, im Ablehnen und Zerstören gegenwärtiger entarteter
@@ -644,8 +644,8 @@ machte allen Fanatismus unmöglich.
 [27[56]](javascript:;)
 ----------------------
 
-Der Philister ist ja gerade der ἄμουσος: es ist
-merkwürdig zu sehen, wie er trotzdem dazu kommt, in aesthetischen und Kulturfragen
+Der **Philister** ist ja gerade der ἄμουσος: es ist
+merkwürdig zu sehen, wie er **trotzdem** dazu kommt, in aesthetischen und Kulturfragen
 mitreden zu wollen. Ich glaube, daß der Schulmann hier den Übergang gemacht hat: er, der von Berufswegen mit
 dem klassischen Alterthum sich abgab und allmählich meinte deshalb auch einen klassischen Geschmack haben zu
 müssen.
@@ -653,7 +653,7 @@ müssen.
 [27[57]](javascript:;)
 ----------------------
 
-David Strauss, der Bekenner und der Schriftsteller.
+**David Strauss, der Bekenner und der Schriftsteller.**
 
   
 
@@ -680,7 +680,7 @@ werden sollte. Vielmehr dürfte ein solcher Angriff, wie der hier versuchte, Str
 nur deshalb nicht schaden, weil er sich nicht genannt hat. Nach dieser Vorbereitung mag der Kampf beginnen:
 und als Zeugen wünsche ich mir eben jene, welche dem neuen Bekenntnißbuche des Dr. Strauß zugethan sind und
 sich freuen, wenn der Angreifende von vorn herein freiwillig eine schlechte Position wählt. Und welche
-Position könnte schlechter sein als die eines vereinzelten Ausländers, der den allgemeinen deutschen Erfolg jenes Buches den Deutschen zum Vorwurf macht? und als das
+Position könnte schlechter sein als die eines vereinzelten Ausländers, der den allgemeinen **deutschen Erfolg** jenes Buches den Deutschen zum Vorwurf macht? und als das
 Merkmal
 
 *Erratum:*Merkmahl  
@@ -702,7 +702,7 @@ Merkmal
 
 Hat die „deutsche Kultur“ gesiegt? Nein. Aber sie glaubt es.
 
-Wie es mit der Bildung steht, ist zu erkennen
+Wie es mit der **Bildung** steht, ist zu erkennen
 
 1) aus den Confessionen selbst.
 
@@ -712,8 +712,8 @@ b) aus der Art der Bekenntnisse.
 
 2) aus der schriftstellerischen Leistung: direkter.
 
-Resultat. Worüber sie gesiegt hat. Nicht über die französische, aber über die deutsche
-Kultur und den deutschen Genius.
+Resultat. Worüber sie gesiegt hat. Nicht über die französische, aber über die **deutsche
+Kultur** und den deutschen Genius.
 
 [27[61]](javascript:;)
 ----------------------
@@ -783,11 +783,11 @@ Vorplatonische Philosophen.
 [27[65]](javascript:;)
 ----------------------
 
-Der Kulturphilister weiß nicht, was Kultur ist — Einheit des
-Stils.
+Der Kulturphilister weiß nicht, was **Kultur** ist — **Einheit des
+Stils**.
 
 Er findet sich damit ab, daß es Klassiker giebt (Schiller Goethe Lessing) und vergißt, daß sie eine Kultur
-suchten, aber kein Fundament, auf dem man ruhen könnte, sind.
+**suchten**, aber kein Fundament, auf dem man ruhen könnte, sind.
 
 Er versteht deshalb den Ernst noch lebendiger Kultursucher nicht.
 
@@ -795,21 +795,21 @@ Er glaubt, daß das Leben, das Geschäft sich trennen müssen von der Kultur-Erh
 Kultur, die fortwährend fordert.
 
 Die Autoren der Deutschen sind auf Nachahmung der Natur angewiesen, der bäuerlichen oder städtischen zumal,
-also zum Idyll oder der Satyre. Zu den höheren reinen Formen haben sie kein natürliches
+also zum Idyll oder der Satyre. Zu den höheren **reinen** Formen haben sie kein natürliches
 Verhältniß, weil das entsprechende Wirkliche unkünstlerisch und vorbildlos ist.
 
-Es ist die Zeit der unstilisirten Portraitkünste, kurz ikonischer
+Es ist die Zeit der unstilisirten **Portraitkünste**, kurz **ikonischer**
 Künste und Geschichtsschreibung.
 
 [27[66]](javascript:;)
 ----------------------
 
-Zur Einleitung. Es ist für uns kein Ereigniß, dieses Straußische Buch, sondern nur sein
-Erfolg. Kein Gedanke ist darin, der werth wäre, als gut und neu bemerkt zu werden.
+Zur Einleitung. Es ist für uns kein **Ereigniß**, dieses Straußische Buch, sondern nur sein
+**Erfolg**. Kein Gedanke ist darin, der werth wäre, als gut und neu bemerkt zu werden.
 
 Wir haben keine Kultur, sondern Civilisation mit einigen Kulturmoden, doch noch mehr Barbarei.
 
-Wir haben auch in der Sprache noch keinen Stil, sondern nur Experimente.
+Wir haben auch in der Sprache noch keinen **Stil**, sondern nur Experimente.
 
 Eine „Kultur“ kann nicht über die französische gesiegt haben, denn wir hängen nach wie vor von ihnen ab und
 in der französischen selbst ist keine Änderung eingetreten.
@@ -837,11 +837,11 @@ Schwierigkeit ein guter Schriftsteller zu werden.
 1) Mangel des guten Redens und der Übung.  
 Verderb des Geschmacks durch die öffentlichen Reden.
 
-2) Mangel an Übung in den Schulen im Schreiben und <an> Strenge der
+2) Mangel an Übung in den Schulen im Schreiben und &amp;lt;an&amp;gt; Strenge der
 Methode.
 
-Trotzdem ist das Lob leicht zu erreichen. Bes<onders> unter Gelehrten. Sie sehen nicht nach den
-produktiven Zügen, sondern urtheilen nach dem Mangel des Anstößigen und einer gewissen
+Trotzdem ist das Lob leicht zu erreichen. Bes&amp;lt;onders&amp;gt; unter Gelehrten. Sie sehen nicht nach den
+produktiven Zügen, sondern urtheilen nach dem **Mangel des Anstößigen** und einer gewissen
 schulmäßigen Annahme über Bilder, Lebendigkeit.
 
 Lessing schrieb
@@ -878,11 +878,11 @@ Hölderlin an Deutschland:
 
 Noch säumst und schweigst du, sinnest ein freudig Werk,
 
-Das von dir zeuge, sinnest ein neu Gebild,
+Das von dir zeuge, sinnest ein **neu Gebild,**
 
-Das einzig wie du selber, das aus
+**Das einzig wie du selber, das aus**
 
-Liebe geboren und gut, wie du, sey.
+**Liebe geboren und gut, wie du, sey.**
 
   
 
@@ -893,7 +893,7 @@ Liebe geboren und gut, wie du, sey.
 [27[70]](javascript:;)
 ----------------------
 
-Falsch p. 106: „man wisse ja längst, daß Gott, allgegenwärtig, eines besonderen Sitzes
+Falsch p. 106: „man wisse ja längst, daß Gott, **allgegenwärtig**, eines besonderen Sitzes
 nicht bedürfe.“
 
 p. 44: „so bringt Schleiermacher in seiner Art wieder einen Gottmenschen heraus.“
@@ -929,7 +929,7 @@ p. 12.
 [27[74]](javascript:;)
 ----------------------
 
-Feinere Wendungen.
+**Feinere Wendungen.**
 
 [27[75]](javascript:;)
 ----------------------
@@ -992,24 +992,24 @@ sicher, nicht der Gegner einer geistreichen Sache zu sein.
 [27[79]](javascript:;)
 ----------------------
 
-Neu.
+**Neu.**
 
-Zweites Stück: Historie.
+**Zweites Stück:** Historie.
 
-Plato und Vorgänger.
+**Plato und Vorgänger.**
 
-Drei Abhandlungen.
+**Drei Abhandlungen.**
 
-2. A<uflage>
+2. A&amp;lt;uflage&amp;gt;
 
-Erstes Stück: Strauss.
+Erstes Stück: **Strauss.**
 
-Geburt der Tragödie.
+**Geburt der Tragödie.**
 
 [27[80]](javascript:;)
 ----------------------
 
-Zum Schlusskapitel.
+**Zum Schlusskapitel.**
 
 Die Zeit kann keine gefährlichere Wendung machen, als wenn sie aus der Ironie über sich zum Cynismus
 übergeht.
@@ -1017,7 +1017,7 @@ Die Zeit kann keine gefährlichere Wendung machen, als wenn sie aus der Ironie �
 [27[81]](javascript:;)
 ----------------------
 
-Geschichte — schwächt das Handeln und macht blind gegen das Vorbildliche, durch Masse
+Geschichte — schwächt das Handeln und macht blind gegen das **Vorbildliche**, durch Masse
 
 *Erratum:*masse  
 *lies:*Masse  
@@ -1025,13 +1025,15 @@ Geschichte — schwächt das Handeln und macht blind gegen das Vorbildliche, dur
 
  verwirrend.
 
-Vergeudete Energie, an das völlig Vergangne
+**Vergeudete Energie**, an das völlig **Vergangne**
 gewendet.
 
-Die historische Krankheit als Feindin der Cultur.
+Die **historische Krankheit als Feindin der Cultur**.
 
 Übertreiben ist Zeichen des Barbarischen. Wir übertreiben den Wissenstrieb.
 
 Nur der Alte lebt in lauter Erinnerungen.
 
-Nicht Respect vor der Geschichte, sondern ihr sollt den Muth haben, Geschichte zu machen!
+Nicht Respect vor der Geschichte, sondern ihr sollt den Muth haben, Geschichte zu **machen**!
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

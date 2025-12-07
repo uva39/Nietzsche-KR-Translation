@@ -16,16 +16,16 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [4[1]](javascript:;)
 --------------------
 
-Erlangen Samstag den 20. August.
+**Erlangen Samstag den 20. August.**
 
   
 
-Hier seit acht Tagen: Samstag mit einem Zuge, der verwundete Preussen Franzosen und
-Turcos enthielt, angekommen. Früh von Lindau aus: Mosengel, Schwester und ich. Im Wallfisch einlogirt, breit und bequem. Unsere Karten noch Abends an Heinecke
+Hier seit acht Tagen: **Samstag** mit einem Zuge, der verwundete Preussen Franzosen und
+Turcos enthielt, angekommen. Früh von Lindau aus: Mosengel, Schwester und ich. Im **Wallfisch** einlogirt, breit und bequem. Unsere Karten noch Abends an **Heinecke**
 geschickt: um über die Felddiakonie Auskunft zu bekommen. Damit bekannt geworden durch eine Nummer der
 Augsburger am selben Tage.
 
-Sonntag. Heinecke ist nicht hier. Besuch bei Ziemsen, dann bei Ebrard. Im Hospital mit
+**Sonntag.** Heinecke ist nicht hier. Besuch bei Ziemsen, dann bei Ebrard. Im Hospital mit
 Dr. Hess bekannt geworden, Ziemsen verspricht, mit uns im Lauf der Woche abzureisen. Abends bei der Visite,
 Mosengel als Interpret. Jeden Morgen 1/2 9-10 Verbandlehre bei Hess. Früh um 7, Abends um 6 bei der
 Visite.
@@ -46,10 +46,10 @@ Gestern Brief von Tribschen. Sofort mit einer Composition beantwortet. — Wunde
 in Paris, Liebesgeschichte und undurchdringlicher Stoff eines ungarischen Grafen (vom Kaiser beim Orsinischen
 Attentat getragen?).
 
-Ausbruch der Diphtheritis im Spital. Der Prof. Reinsch und Familie: fürchterliche Angst
+Ausbruch der **Diphtheritis** im Spital. Der Prof. Reinsch und Familie: fürchterliche Angst
 erregt. Preussenbegräbniss mit Schwarzrothgold.
 
-Montag. Auftrag vom Verein, der uns Souverainität giebt. Abfahrt mit Ziemsen. In
+**Montag.** Auftrag vom Verein, der uns Souverainität giebt. Abfahrt mit Ziemsen. In
 Nürnberg selbständig. Wir nach Stuttgart (50 Napol. Cigarrenkiste).
 
 (In Erlangen widerwärtige Tischgespräche, entsetzliche Baiernrohheit und Philisterei.)
@@ -153,13 +153,13 @@ nerstag früh um fünf fort.
 *lies:*Donnerstag früh um 5 fort.  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Nach Nancy, Hôtel Dombasle. Soldaten auf dem Markt (Place Stanislaus). Spion. Schmutz. Freitag Park Bahnhof Erlanger Hoffmann Bartosch. Nach Ars sur Moselle. Verwundetenzug. Johanniter
+Nach Nancy, Hôtel Dombasle. Soldaten auf dem Markt (Place Stanislaus). Spion. Schmutz. **Freitag** Park Bahnhof Erlanger Hoffmann Bartosch. Nach Ars sur Moselle. Verwundetenzug. Johanniter
 Frauen. Dort Offizier, orientalische Cigaretten. Liebig. Verwundeter. Herr Stolbie aus Leipzig. Bild des [—].
 Weg zur Stadt zerstört.
 
 Wachtfeuer. Nacht.
 
-Samstag. Cafe Weinkeller
+**Samstag.** Cafe Weinkeller
 
 Verbunden Johanniter.
 
@@ -172,7 +172,7 @@ Goethe, 4. Bd., p. 149.
 --------------------
 
 Wenn es Ictus in dem Sprechen giebt — verschieden vom Accent — dann muß der im Verse sich wiederfinden. Aber
-die Worte haben die verschiedenste Stellung im Verse, bald in der Arsis, bald <in der> Thesis,
+die Worte haben die verschiedenste Stellung im Verse, bald in der Arsis, bald &amp;lt;in der&amp;gt; Thesis,
 somit haben sie keinen Ictus.
 
 Giebt es einen Versictus (a), dann gewiß keinen Wortiktus (b).
@@ -185,13 +185,13 @@ Wenn b nicht ist, ist a nicht.
 
 Also giebt es nicht
 
-*Erratum:*nicht  
+*Erratum:***nicht**  
 *lies:*nicht  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  a.
 
-Giebt es keinen Versictus, dann ist Wortiktus möglich.
+Giebt es **keinen** Versictus, dann ist Wortiktus möglich.
 
 Wenn es Wortiktus giebt, dann ist Versictus möglich.
 
@@ -231,3 +231,5 @@ starken Eindruck gemacht und Lust erweckt.
 ---------------------
 
 Geographie!
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

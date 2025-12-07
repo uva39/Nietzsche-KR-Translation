@@ -16,10 +16,10 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [47[1]](javascript:;)
 ---------------------
 
-„Er hat einen starken Willen“, sein Intellekt sein Urtheil und Phantasie ist sehr gleich
-in versch<iedenen> Zeiten, sagt dieselben Dinge oder so nahe und reizvoll —
+„Er hat einen **starken Willen**“, sein Intellekt sein Urtheil und Phantasie ist sehr gleich
+in versch&amp;lt;iedenen&amp;gt; Zeiten, sagt dieselben Dinge oder so nahe und reizvoll —
 
-es hat nichts mit dem freien Willen zu thun: er ist unabhängig von Anderen, also frei (als abhängig von sich). Der Unfreie Schwache ist von sich nicht genug abhängig, daher
+es hat nichts mit dem freien Willen zu thun: er ist **unabhängig** von Anderen, also **frei** (als abhängig von sich). Der Unfreie Schwache ist von sich nicht genug abhängig, daher
 sehr von Anderen abhängig.
 
 [47[2]](javascript:;)
@@ -32,13 +32,13 @@ verhüten, mit dem vermutlichen Erfolge aber, daß —
 [47[3]](javascript:;)
 ---------------------
 
-Für das Volk ein Maulkorb-Christenthum! — So sagen viele Gebildete, die sich nicht zum
+Für das **Volk** ein Maulkorb-Christenthum! — So sagen viele Gebildete, die sich nicht zum
 Volk rechnen, unter sich: denn laut dürfen sie es nicht sagen, die Angst vor dem Volke ist ihr Maulkorb.
 
 [47[4]](javascript:;)
 ---------------------
 
-Wenn ein griechischer K<ünstler> sich seine Zuhörer oder Zuschauer vor die Seele stellte, so
+Wenn ein griechischer K&amp;lt;ünstler&amp;gt; sich seine Zuhörer oder Zuschauer vor die Seele stellte, so
 dachte er nicht an die Frauen (weder an die Mädchen, wie deutsche Romanschriftsteller, noch an die jungen
 Frauen, wie alle französischen Romanschriftsteller, noch an die alten, wie die englischen
 Romanschriftsteller), auch dachte er nicht an das „Volk“, an die große Masse, welche arbeitend und schwitzend
@@ -47,14 +47,14 @@ ringsumher so wie die Fremden und zeitweilig Angesiedelten seines Heimwesens: so
 oder Tausende von regierenden Männern standen vor ihm, die eigentliche Bürgerschaft seines Ortes, also eine
 sehr kleine Minderheit der Einwohnerschaft ausgezeichnet durch eine gleiche Erziehung und ähnliche Ansprüche
 in allen Dingen. Der Blick auf eine so feste und gleichartige Größe gab allen seinen Schriften eine sichere
-„Culturperspektive“: etwas, das heutzutage z.B. allen fehlt, die an den Zeitungen
+**„Culturperspektive“**: etwas, das heutzutage z.B. allen fehlt, die an den Zeitungen
 arbeiten.
 
 [47[5]](javascript:;)
 ---------------------
 
 Der große Grund-Fehler Schopenhauer’s liegt darin, nicht gesehen zu haben, daß das Begehren (der „Wille“) nur
-eine Art des Erkennens und gar nichts weiter ist.
+eine **Art des Erkennens** und gar nichts weiter ist.
 
 [47[6]](javascript:;)
 ---------------------
@@ -72,7 +72,7 @@ sittsam mit deinem Autor zusammensitzest.
 
   
 
-Ein Autor hat immer seinen Worten Bewegung mitzutheilen.
+**Ein Autor** hat immer seinen Worten Bewegung mitzutheilen.
 
   
 
@@ -95,7 +95,7 @@ Moral: man soll gutlesen lernen; man soll gutlesen lehren.
 
   
 
-Die Moral ist: man soll nicht für seine Leser schreiben. Sie meinen, man soll nicht
+Die Moral ist: man soll nicht für seine Leser schreiben. Sie meinen, man soll **nicht**
 schreiben. Womöglich für sich — — —
 
   
@@ -104,23 +104,23 @@ Beachten Sie wie schnell er liest, wie er die Seiten umschlägt — genau nach d
 für Seite. Nehmen Sie die Uhr zur Hand.
 
 Es sind lauter einzelne wohlüberdenkbare Gedanken schwerere leichtere — und er hat für alle Einen Genuß! Er
-liest sie durch, der Unglückliche, als ob man je Gedanken-Sammlungen durchlesen
+liest sie **durch**, der Unglückliche, als ob man je Gedanken-Sammlungen durchlesen
 dürfte!
 
 [47[8]](javascript:;)
 ---------------------
 
 Daß die dramatische Person (auch wenn das Thema der Gegenwart gehört) singt, ist erlaubt, das ist unsere Art
-Kothurn des Gefühls.
+**Kothurn des Gefühls**.
 
 [47[9]](javascript:;)
 ---------------------
 
 In wiefern kann das Gefühl der Überlegenheit oder gar der Herrschaft Freude machen? Nicht an sich und
-ursprünglich, sondern nur als der Born vieler Güter und das Hinderniß vieler Übel — also als Mittel, das eigentlich nur im Vorgenießen des Zieles selber Freude machen könnte. Aber, um so
-häufiger, ist die Macht allmählich das Mittel zum Zweck geworden und wird um seiner selber
-willen begehrt: als etwas Begehrtes macht es Freude, sobald es erlangt wird: namentlich im Hinblick auf
-die, welche nicht an’s gl<eiche> Ziel kamen.
+ursprünglich, sondern nur als der Born vieler Güter und das Hinderniß vieler Übel — also als **Mittel**, das eigentlich nur im Vorgenießen des Zieles selber Freude machen könnte. Aber, um so
+häufiger, ist die Macht allmählich das Mittel zum Zweck geworden und wird **um seiner selber
+willen** begehrt: als etwas Begehrtes macht es Freude, sobald es erlangt wird: namentlich im Hinblick auf
+die, welche nicht an’s gl&amp;lt;eiche&amp;gt; Ziel kamen.
 
 [47[10]](javascript:;)
 ----------------------
@@ -138,7 +138,7 @@ Gewählte Cultur — — —
 [47[12]](javascript:;)
 ----------------------
 
-Blindschleichen. — Aber vielleicht thut es euren Augen wohl, daß ihr in euren dunklen
+**Blindschleichen. —** Aber vielleicht thut es euren Augen wohl, daß ihr in euren dunklen
 Zimmern wohnt — wer hätte ein Recht, euch drob zu schelten!
 
 [47[13]](javascript:;)
@@ -157,9 +157,9 @@ Nach dieser Musik zu schließen, ist er der ideale Zuschauer des Dramas.
 
 Schwangerschaft
 
-Larochef<oucald> und Rée
+Larochef&amp;lt;oucald&amp;gt; und Rée
 
-Cultur-Ansiedelungen gegen das Nomade<nthum>
+Cultur-Ansiedelungen gegen das Nomade&amp;lt;nthum&amp;gt;
 
 — Wundt „Aberglaube in der Wissenschaft“
 
@@ -168,3 +168,5 @@ Cultur-Ansiedelungen gegen das Nomade<nthum>
 — umnebelter Sumpf
 
 — Retorte
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

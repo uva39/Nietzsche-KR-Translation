@@ -49,8 +49,8 @@ die andren Schafe beschweren.
 ---------------------
 
 In der herrlichen Kunstwelt — wie philosophirten sie! Wenn eine Vollendung des Lebens erreicht wird, hört
-dann das Philosophiren auf? Nein: jetzt beginnt erst das wahre Philosophiren. Ihr Urtheil über
-das Dasein besagt mehr, weil es die relative Vollendung und alle Kunstschleier und Illusionen vor sich
+dann das Philosophiren auf? Nein: jetzt beginnt erst das wahre Philosophiren. Ihr Urtheil **über
+das Dasein besagt mehr**, weil es die relative Vollendung und alle Kunstschleier und Illusionen vor sich
 hat.
 
 [19[6]](javascript:;)
@@ -63,10 +63,10 @@ Die tugendhafte Energie ihrer Künstler!
 [19[7]](javascript:;)
 ---------------------
 
-Gegensatz zur Presse — die öffentlich meinende — wir die öffentlich
-belehrenden.
+Gegensatz zur Presse — die **öffentlich meinende** — wir die **öffentlich
+belehrenden**.
 
-Wir haben die unsterblichen Sorgen des Volks — wir müssen frei sein von den momentanen,
+Wir haben die **unsterblichen Sorgen des Volks** — wir müssen frei sein von den momentanen,
 zeitlichen.
 
 Bild der Aufgabe der neueren philosophischen Generation.
@@ -88,7 +88,7 @@ Charakteristik Schopenhauers: das Einsame, in der höchsten Gesellschaft.
 [19[9]](javascript:;)
 ---------------------
 
-Jene griechischen Philosophen überwanden den Zeitgeist, um den Geist des Hellenischen
+Jene griechischen Philosophen **überwanden den Zeitgeist**, um den Geist des Hellenischen
 nachempfinden zu können: sie drücken das Bedürfniß nach der Lösung ewiger Fragen aus.
 
 [19[10]](javascript:;)
@@ -103,12 +103,12 @@ man sieht, in welcher Linie dies für die Natur kommt.
 
 — Wie kann aber das Genie zugleich das höchste Ziel der Natur sein!
 
-Das Weiterleben durch Historie und das Weiterleben durch Zeugung.
+Das **Weiterleben durch Historie** und das Weiterleben durch **Zeugung**.
 
 Hier Plato’s Erzeugen im Schönen — also zur Geburt des Genius ist Überwindung der Historie nöthig, sie ist in
 die Schönheit zu tauchen und zu aeternisiren.
 
-Gegen die ikonische Geschichtsschreibung! Sie hat ein barbarisirendes Element in
+Gegen die **ikonische Geschichtsschreibung**! Sie hat ein barbarisirendes Element in
 sich.
 
 Sie hat nur von dem Großen und Einzigen zu reden, von dem Vorbild.
@@ -120,8 +120,8 @@ Alle die großen Griechen aus der Zeit der Tragödie haben nichts vom Historiker
 [19[11]](javascript:;)
 ----------------------
 
-Der Erkenntnißtrieb ohne Auswahl steht gleich dem wahllosen Geschlechtstrieb — Zeichen
-der Gemeinheit!
+Der Erkenntnißtrieb **ohne Auswahl** steht gleich dem wahllosen Geschlechtstrieb — Zeichen
+**der Gemeinheit**!
 
 [19[12]](javascript:;)
 ----------------------
@@ -147,14 +147,14 @@ Der Philosoph des tragischen Zeitalters.
   
 
 Der Philosoph steht nicht so ganz abseits, wie eine Ausnahme, vom Volk: der Wille will auch mit ihm etwas.
-Die Absicht ist die gleiche, wie bei der Kunst — seine eigne Verklärung und Erlösung. Der Wille strebt nach Reinheit und Veredelung: von einer Stufe zur Andern.
+Die Absicht ist die gleiche, wie bei der Kunst — seine eigne Verklärung und Erlösung. Der Wille **strebt nach Reinheit und Veredelung**: von einer Stufe zur Andern.
 
-Die Daseinsform als Bildung und Kultur — der Wille auf den Köpfen der Menschen.
+**Die Daseinsform als Bildung und Kultur** — der Wille auf den Köpfen der Menschen.
 
 [19[14]](javascript:;)
 ----------------------
 
-Der beschränkte Erkenntnißtrieb.
+**Der beschränkte Erkenntnißtrieb.**
 
   
 
@@ -166,7 +166,7 @@ Die sieben Weisen — die episch-apollinische Stufe der Philosophie.
 Die Triebe, welche die Griechen von andern Völkern unterscheiden, kommen in ihrer Philosophie zum
 Ausdruck.
 
-Das aber sind gerade ihre klassischen Triebe.
+Das aber sind gerade ihre **klassischen** Triebe.
 
 Wichtig ihre Art mit der Historie umzugehen.
 
@@ -182,12 +182,12 @@ Auflösung in die neugierige Allwisserei.
 [19[16]](javascript:;)
 ----------------------
 
-Aufgabe: Die Teleologie des philosophischen Genius zu erkennen. Ist er wirklich nur ein
+Aufgabe: Die **Teleologie** des philosophischen Genius zu erkennen. Ist er wirklich nur ein
 zufällig erscheinender Wanderer? Jedenfalls hat er, wenn es ein rechter ist, nichts mit der zufälligen
-politischen Lage eines Volks zu thun, sondern seinem Volk gegenüber ist er zeitlos. Aber
+politischen Lage eines Volks zu thun, sondern seinem Volk gegenüber ist er **zeitlos**. Aber
 deshalb nicht mit diesem Volke zufällig verbunden — das Spezifische des Volkes kommt hier als Individuum zu
-Tage und zwar der Volkstrieb als Welttrieb erklärt, zur Welträthsellösung benutzt. Der
-Natur gelingt es einmal, ihre Triebe durch Separation rein anzuschauen. Der Philosoph ist
+Tage und zwar der Volkstrieb als **Welttrieb** erklärt, zur Welträthsellösung benutzt. Der
+Natur gelingt es einmal, ihre Triebe durch **Separation** rein anzuschauen. Der Philosoph ist
 ein Mittel, im rastlosen Strome zur Ruhe zu kommen, mit Verachtung der unendlichen Vielheit sich der
 bleibenden Typen bewußt zu werden.
 
@@ -199,7 +199,7 @@ Handwerksgeheimnissen der Natur.
 
 Über dem Getümmel der Zeitgeschichte lebt die Sphäre des Philosophen und des Künstlers, abseits der Noth.
 
-Der Philosoph als Hemmschuh im Rade der Zeit.
+Der Philosoph als **Hemmschuh im Rade der Zeit**.
 
 Es sind die Zeiten großer Gefahr, in denen die Philosophen erscheinen — dann wenn das Rad immer schneller
 rollt — sie und die Kunst treten an Stelle des verschwindenden Mythus. Sie werden aber weit vorausgeworfen,
@@ -211,7 +211,7 @@ Ein Volk, das sich seiner Gefahren bewußt wird, erzeugt den Genius.
 ----------------------
 
 Freiheit vom Mythus. Thales. Ein
-Element als Proteus!
+**Element als Proteus**!
 
 Das Tragische des Daseins. Anaximander.
 
@@ -238,7 +238,7 @@ wenn er aus seiner spezifisch historisch-kritischen Luft heraustritt.
 [19[20]](javascript:;)
 ----------------------
 
-Nach Sokrates ist das allgemeine Wohl nicht mehr zu retten, darum die individualisirende Ethik, die die Einzelnen retten will.
+Nach Sokrates ist das allgemeine Wohl nicht mehr zu retten, darum die individualisirende Ethik, die die **Einzelnen** retten will.
 
 [19[21]](javascript:;)
 ----------------------
@@ -250,7 +250,7 @@ Der maßlose
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  unwählerische Erkenntnißtrieb, mit historischem Hintergrunde,
-ist ein Zeichen, daß das Leben alt geworden ist: die Gefahr ist groß, daß die Individuen schlecht werden, deshalb werden ihre Interessen gewaltsam an Erkenntnißobjekte gefesselt, gleichviel
+ist ein Zeichen, daß das Leben alt geworden ist: die Gefahr ist groß, daß die Individuen **schlecht** werden, deshalb werden ihre Interessen gewaltsam an Erkenntnißobjekte gefesselt, gleichviel
 welche. Die allgemeinen Triebe sind so matt geworden und halten das Individuum nicht mehr im Zaume.
 
 Der Germane hat alle seine Beschränktheiten durch die Wissenschaften verklärt, indem er sie übertrug: Treue
@@ -266,7 +266,7 @@ ihm
 .
 
 Jetzt ist uns eine höhere Form des Lebens gegeben, ein Hintergrund der Kunst — jetzt ist auch die nächste
-Folge ein wählerischer Erkenntnißtrieb d.h. Philosophie.
+Folge ein wählerischer Erkenntnißtrieb d.h. **Philosophie**.
 
 Schreckliche Gefahr: daß das amerikanisch-politische
 
@@ -280,9 +280,9 @@ haltlose Gelehrtenkultur sich verschmelzen.
 [19[22]](javascript:;)
 ----------------------
 
-Die Schönheit tritt bei dem wählerischen Erkenntnißtrieb wieder als Macht hervor.
+Die **Schönheit** tritt bei dem wählerischen Erkenntnißtrieb wieder als Macht hervor.
 
-Höchst merkwürdig, daß Schopenhauer schön schreibt! Sein Leben hat auch mehr Stil als
+Höchst merkwürdig, daß Schopenhauer **schön schreibt**! Sein Leben hat auch mehr Stil als
 das der Universitätslehrer — aber verkümmerte Umgebungen!
 
   
@@ -292,17 +292,17 @@ nicht. Die Presse ruinirt dazu immer mehr das Gefühl.
 
   
 
-Das Erhabene festhalten zu können!
+**Das Erhabene festhalten zu können!**
 
 [19[23]](javascript:;)
 ----------------------
 
-Gegen die ikonische Geschichtsschreibung und gegen die Naturwissenschaften sind ungeheure künstlerische Kräfte nöthig.
+Gegen die ikonische Geschichtsschreibung und gegen die Naturwissenschaften sind ungeheure **künstlerische** Kräfte nöthig.
 
 Was soll der Philosoph? Inmitten der ameisenhaften Wimmelei das Problem des Daseins, überhaupt die ewigen
 Probleme zu betonen.
 
-Der Philosoph soll erkennen, was noth thut, und der Künstler soll es schaffen. Der Philosoph soll am stärksten das allgemeine Leid nachempfinden: wie die alten
+Der Philosoph soll **erkennen, was noth thut**, und der Künstler soll es **schaffen**. Der Philosoph soll am stärksten das allgemeine Leid nachempfinden: wie die alten
 griechischen Philosophen jeder eine Noth ausdrückt: dort, in die Lücke hinein stellt er sein System. Er baut
 seine Welt in diese Lücke hinein.
 
@@ -315,21 +315,21 @@ Unterschied in der Entstehung.
 [19[24]](javascript:;)
 ----------------------
 
-Es handelt sich nicht um eine Vernichtung der Wissenschaft, sondern um eine Beherrschung. Sie hängt nämlich in allen ihren Zielen und Methoden durch und durch ab von
-philosophischen Ansichten, vergißt dies aber leicht. Die beherrschende
+Es handelt sich nicht um eine Vernichtung der Wissenschaft, sondern um eine **Beherrschung**. Sie hängt nämlich in allen ihren Zielen und Methoden durch und durch ab von
+philosophischen Ansichten, **vergißt****dies aber leicht. Die beherrschende
 Philosophie hat aber auch das Problem zu bedenken, bis zu welchem Grade die Wissenschaft wachsen darf: sie
-hat den Werth zu bestimmen!
+hat den**Werth**zu bestimmen!**
 
 [19[25]](javascript:;)
 ----------------------
 
-Nachweis der barbarisirenden Wirkungen der Wissenschaften. Sie verlieren sich leicht in
+Nachweis der **barbarisirenden** Wirkungen der Wissenschaften. Sie verlieren sich leicht in
 den Dienst der „praktischen Interessen“.
 
 [19[26]](javascript:;)
 ----------------------
 
-Werth Schopenhauers, weil er naive allgemeine Wahrheiten in’s Gedächtniß ruft: er wagt
+Werth Schopenhauers, weil er **naive allgemeine** Wahrheiten in’s Gedächtniß ruft: er wagt
 es, sogenannte „Trivialitäten“ schön auszusprechen.
 
 Wir haben keine edle Popularphilosophie, weil wir keinen edlen Begriff von peuple publicum haben. Unsere
@@ -339,39 +339,39 @@ Popularphilosophie ist für den peuple, nicht für das Publikum.
 ----------------------
 
 Wenn wir noch je eine Kultur erringen sollen, so sind unerhörte Kunstkräfte nöthig, um den unbeschränkten
-Erkenntnißtrieb zu brechen, um eine Einheit wieder zu erzeugen. Höchste Würde des Philosophen
-zeigt sich hier, wo er den unbeschränkten Erkenntnißtrieb concentrirt, zur Einheit bändigt.
+Erkenntnißtrieb zu brechen, um eine Einheit wieder zu erzeugen. **Höchste Würde des Philosophen
+zeigt sich hier, wo er den unbeschränkten Erkenntnißtrieb concentrirt, zur Einheit bändigt.**
 
 So sind die älteren griechischen Philosophen zu verstehen, sie bändigen den Erkenntnißtrieb. Wie kam es, daß
-nach Sokrates er allmählich aus der Hand fiel? Zunächst sehen wir selbst bei Sokrates und
-Schule dieselbe Tendenz: er soll eingeschränkt werden durch die individuelle
-Rücksicht auf Glücklich-Leben. Es ist eine letzte niedere Phase. Ehemals handelte es sich
-nicht um Individuen, sondern um die Hellenen.
+nach Sokrates er allmählich aus der Hand fiel? Zunächst sehen wir selbst bei **Sokrates und
+Schule** dieselbe Tendenz: er soll eingeschränkt werden durch die **individuelle**
+Rücksicht auf **Glücklich-Leben**. Es ist eine letzte niedere Phase. Ehemals handelte es sich
+nicht um **Individuen**, sondern um die **Hellenen**.
 
 [19[28]](javascript:;)
 ----------------------
 
-Die großen alten Philosophen gehören in das Allgemein<le>ben des
-Hellenischen: nach Sokrates bilden sich Sekten. Allmählich
+Die großen alten Philosophen gehören in das **Allgemein&amp;lt;le&amp;gt;ben des
+Hellenischen**: **nach Sokrates** bilden sich **Sekten**. Allmählich
 verliert die Philosophie die Zügel der Wissenschaft aus den Händen.
 
 Im Mittelalter übernimmt die Theologie die Zügel der Wissenschaft: jetzt gefährliche Emancipationszeit.
 
-Die allgemeine Wohlfahrt will wieder eine Bändigung und dadurch zugleich Erhebung und
+Die allgemeine Wohlfahrt will wieder eine **Bändigung** und dadurch zugleich Erhebung und
 Concentration.
 
-Das laisser aller unserer Wissenschaft, wie bei gewissen nationalökonomischen Dogmen: man glaubt an einen unbedingt heilsamen Erfolg.
+Das **laisser aller unserer Wissenschaft**, wie bei gewissen **nationalökonomischen Dogmen**: man glaubt an einen unbedingt heilsamen Erfolg.
 
-Kant hat im gewissen Sinne mit schädlich eingewirkt: denn der Glaube an die Metaphysik
+**Kant** hat im gewissen Sinne mit schädlich eingewirkt: denn der Glaube an die Metaphysik
 ist verloren gegangen. Auf sein „Ding an sich“ wird niemand rechnen können, als ob es ein bändigendes Princip
 sei.
 
-Jetzt begreifen wir die merkwürdige Erscheinung Schopenhauer’s: er sammelt alle
+Jetzt begreifen wir die merkwürdige Erscheinung **Schopenhauer’s**: er sammelt alle
 Elemente, die zur Beherrschung der Wissenschaft noch taugen. Er kommt auf die tiefsten Urprobleme der Ethik
 und der Kunst, er wirft die Frage vom Werthe des Daseins auf.
 
 Wunderbare Einheit Wagner’s und Schopenhauer’s! Sie entstammen dem gleichen Triebe. Die tiefsten
-Eigenschaften des germanischen Geistes rüsten sich hier zum Kampfe: wie bei den Griechen. Wiederkehr der Besonnenheit.
+Eigenschaften des germanischen Geistes rüsten sich hier zum Kampfe: wie bei den Griechen. Wiederkehr der **Besonnenheit**.
 
 [19[29]](javascript:;)
 ----------------------
@@ -382,12 +382,12 @@ Kolonien, der Reichthum, die Sinnlichkeit.
 [19[30]](javascript:;)
 ----------------------
 
-Das Problem: die Kultur zu unserer Musik zu finden!
+Das Problem: die **Kultur zu unserer Musik zu finden**!
 
 [19[31]](javascript:;)
 ----------------------
 
-Es ist die Methode zu bezeichnen, wie der philosophische Mensch zu leben hat.
+Es ist die Methode zu bezeichnen, wie der philosophische Mensch **zu leben** hat.
 
 [19[32]](javascript:;)
 ----------------------
@@ -398,33 +398,33 @@ Kritik, unsere Schulen.
 [19[33]](javascript:;)
 ----------------------
 
-Meine Aufgabe: deren
+Meine Aufgabe: **deren**
 
-*Erratum:*den  
-*lies:*deren  
+*Erratum:***den**  
+*lies:***deren**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- inneren
-Zusammenhang und die Nothwendigkeit jeder wahren Kultur zu begreifen. Die Schutz- und Heilmittel einer
+**inneren
+Zusammenhang und die Nothwendigkeit jeder wahren Kultur** zu begreifen. Die Schutz- und Heilmittel einer
 Kultur, das Verhältniß derselben zum Volksgenius. Die Consequenz jeder großen Kunstwelt ist eine Kultur: aber
 oft kommt es, durch feindselige Gegenströmungen, nicht zu diesem Ausklingen eines Kunstwerks.
 
-Die Philosophie soll den geistigen Höhenzug durch die Jahrhunderte festhalten: damit die
+Die Philosophie soll den **geistigen Höhenzug** durch die Jahrhunderte festhalten: damit die
 ewige Fruchtbarkeit alles Großen.
 
 Für die Wissenschaft giebt es kein Groß und Klein — aber für die Philosophie! An jenem Satze mißt sich der
 Werth der Wissenschaft.
 
-Das Festhalten des Erhabenen!
+**Das Festhalten des Erhabenen!**
 
-Welcher außerordentliche Mangel an Büchern in unserer Zeit, die eine heroische Kraft
+Welcher außerordentliche **Mangel** an Büchern in unserer Zeit, die eine heroische Kraft
 athmen! — Selbst Plutarch wird nicht mehr gelesen!
 
 [19[34]](javascript:;)
 ----------------------
 
-Kant sagt (2. Vorrede zur Kritik): „ich mußte das Wissen aufheben, um zum Glauben Platz zu
-bekommen, und der Dogmatism
+Kant sagt (2. Vorrede zur Kritik): „**ich mußte das Wissen aufheben, um zum Glauben Platz zu
+bekommen**, und der Dogmatism
 
 *Erratum:*Dogmatismus  
 *lies:*Dogmatism  
@@ -434,73 +434,73 @@ bekommen, und der Dogmatism
 in ihr ohne Kritik der reinen Vernunft fortzukommen, ist die wahre Quelle alles der Moralität widerstrebenden
 Unglaubens, der jederzeit gar sehr dogmatisch ist“. Sehr wichtig! Eine Kulturnoth hat ihn getrieben!
 
-Sonderbarer Gegensatz „Wissen und Glauben“! Was hätten die Griechen davon gedacht! Kant
-kannte keinen andern Gegensatz! Aber wir!
+Sonderbarer Gegensatz **„Wissen und Glauben“**! Was hätten die Griechen davon gedacht! Kant
+**kannte keinen andern Gegensatz**! **Aber**wir**!**
 
-Eine Kulturnoth treibt Kant: er will ein Gebiet vor dem Wissen retten: dorthin legt die
+Eine Kulturnoth treibt Kant: er will ein Gebiet vor **dem Wissen retten**: dorthin legt die
 Wurzeln alles Höchsten und Tiefsten, Kunst und Ethik — Schopenhauer.
 
-Andrerseits sammelt er alles Wissenswürdige für alle Zeit — die ethische Volks- und
+Andrerseits sammelt er alles **Wissenswürdige für alle Zeit** — die ethische Volks- und
 Menschenweisheit (Standpunkt der7 Weisen, der griechischen Popularphilosophen).
 
 Er zersetzt die Elemente jenes Glaubens und zeigt, wie wenig gerade der christliche Glaube dem tiefsten
 Bedürfniß genügt: Frage nach dem Werthe des Daseins!
 
-Der Kampf des Wissens mit dem Wissen!
+**Der Kampf des Wissens mit dem Wissen!**
 
-Schopenhauer macht selbst auf das uns unbewußte Denken und Wissen aufmerksam.
+Schopenhauer macht selbst auf das uns **unbewußte** Denken und Wissen aufmerksam.
 
-Die Bändigung des Erkenntnißtriebes — ob zu Gunsten einer Religion? Oder einer künstlerischen
-Kultur, soll sich nun zeigen; ich stehe auf der zweiten Seite.
+**Die Bändigung des Erkenntnißtriebes — ob zu Gunsten einer Religion? Oder einer künstlerischen
+Kultur**, soll sich nun zeigen; ich stehe auf der zweiten Seite.
 
-Ich setze hinzu die Frage nach dem Werthe des historischen
-ikonischen Erkennens, auch der Natur.
+Ich setze hinzu die Frage nach dem Werthe des **historischen
+ikonischen** Erkennens, auch der **Natur**.
 
-Bei den Griechen ist es die Bändigung zu Gunsten einer künstlerischen Kultur (und
-Religion?), die Bändigung, welche ein volles Entfesseltsein verhüten will: wir wollen den
-ganz entfesselten wieder zurückbändigen.
+Bei den Griechen ist es die Bändigung zu Gunsten einer künstlerischen Kultur (**und**
+Religion?), die Bändigung, welche ein volles Entfesseltsein **verhüten** will: wir wollen den
+ganz entfesselten wieder **zurückbändigen**.
 
 [19[35]](javascript:;)
 ----------------------
 
-Der Philosoph der tragischen Erkenntniß. Er bändigt den entfesselten Wissenstrieb, nicht
-durch eine neue Metaphysik. Er stellt keinen neuen Glauben auf. Er empfindet den weggezogenen
-Boden der Metaphysik tragisch und kann sich doch an dem bunten Wirbelspiele der Wissenschaften nie
-befriedigen. Er baut an einem neuen Leben: der Kunst giebt er ihre Rechte wieder
+**Der Philosoph der tragischen Erkenntniß.** Er bändigt den entfesselten Wissenstrieb, nicht
+durch eine neue Metaphysik. Er stellt keinen neuen Glauben auf. Er empfindet den **weggezogenen
+Boden der Metaphysik tragisch** und kann sich doch an dem bunten Wirbelspiele der Wissenschaften nie
+befriedigen. Er baut an einem neuen **Leben**: der Kunst giebt er ihre Rechte wieder
 zurück.
 
-Der Philosoph der desperaten Erkenntniß wird in blinder Wissenschaft aufgehen: Wissen um
+Der Philosoph der **desperaten Erkenntniß** wird in blinder Wissenschaft aufgehen: Wissen um
 jeden Preis.
 
-Für den tragischen Philosophen vollendet es das Bild des Daseins, daß das Metaphysische
-nur anthropomorphisch erscheint. Er ist nicht Skeptiker.
+Für den tragischen Philosophen vollendet es das **Bild des Daseins**, daß das Metaphysische
+nur anthropomorphisch erscheint. Er ist nicht **Skeptiker**.
 
-Hier ist ein Begriff zu schaffen: denn Skepsis ist nicht das Ziel. Der Erkenntnißtrieb,
-an seine Grenzen gelangt, wendet sich gegen sich selbst, um nun zur Kritik des Wissens zu
+Hier ist ein Begriff zu **schaffen**: denn Skepsis ist nicht das Ziel. Der Erkenntnißtrieb,
+an seine Grenzen gelangt, wendet sich gegen sich selbst, um nun zur **Kritik des Wissens** zu
 schreiten. Die Erkenntniß im Dienste des besten Lebens.
 
-Man muß selbst die Illusion wollen — darin liegt das Tragische.
+Man muß selbst die **Illusion wollen** — darin liegt das Tragische.
 
 [19[36]](javascript:;)
 ----------------------
 
-Der letzte Philosoph — es können ganze Generationen sein. Er hat nur zum Leben zu helfen. „Der letzte“, natürlich relativ. Für unsere Welt. Er beweist die Nothwendigkeit der
+Der letzte Philosoph — es können ganze Generationen sein. Er hat nur zum **Leben** zu helfen. „Der letzte“, natürlich relativ. Für unsere Welt. Er beweist die Nothwendigkeit der
 Illusion, der Kunst und der das Leben beherrschenden Kunst. Es ist für uns nicht möglich, wieder eine solche
-Reihe von Philosophen zu erzeugen, wie Griechenland zur Zeit der Tragödie. Ihre Aufgabe erfüllt jetzt ganz allein die Kunst. Nur als Kunst ist noch so
+Reihe von Philosophen zu erzeugen, wie Griechenland zur Zeit der Tragödie. Ihre Aufgabe erfüllt jetzt **ganz allein** die **Kunst**. Nur als **Kunst** ist noch so
 ein System möglich. Vom jetzigen Standpunkt aus fällt auch jene ganze Periode der griechischen Philosophie mit
 ins Bereich ihrer Kunst.
 
-Die Bändigung der Wissenschaft geschieht jetzt nur noch durch die
-Kunst. Es handelt sich um Werthurtheile über dasWissen und
+Die **Bändigung der Wissenschaft** geschieht jetzt **nur noch** durch die
+**Kunst**. Es handelt sich um **Wert**hurtheile über dasWissen und
 Vielwissen.
 
-Ungeheure Aufgabe und Würde der Kunst in dieser Aufgabe! Sie muß alles neu schaffen und
-ganz allein das Leben neu gebären! Was sie kann, zeigen uns die
-Griechen: hätten wir diese nicht, so wäre unser Glaube chimärisch.
+**Ungeheure Aufgabe und Würde der Kunst in dieser Aufgabe!** Sie muß alles neu schaffen und
+**ganz allein das Leben neu gebären! Was sie kann**, zeigen **uns die
+Griechen**: hätten wir diese nicht, so wäre unser Glaube chimärisch.
 
-Ob eine Religion hier hinein, in das Vacuum hinein, sich bauen kann, hängt von ihrer Kraft ab. Wir sind der Kultur zugekehrt: das „Deutsche“ als erlösende Kraft!
+Ob eine Religion hier hinein, in das Vacuum hinein, sich bauen kann, hängt von ihrer Kraft ab. **Wir** sind der **Kultur** zugekehrt: das „Deutsche“ als **erlösende**Kraft!
 
-Jedenfalls müßte die Religion, welche es könnte, eine ungeheure Liebeskraft haben: an
+Jedenfalls müßte die Religion, welche es könnte, eine ungeheure **Liebeskraft** haben: an
 der zerbricht auch das Wissen, wie es an der Sprache der Kunst zerbricht.
 
 Aber vielleicht vermag die Kunst sogar sich eine Religion zu schaffen, den Mythus zu gebären? So bei den
@@ -509,28 +509,27 @@ Griechen.
 [19[37]](javascript:;)
 ----------------------
 
-Die jetzt vernichteten Philosophien und Theologien wirken aber noch immer fort in den
+Die jetzt **vernichteten** Philosophien und Theologien wirken aber noch immer fort in den
 Wissenschaften: auch wenn die Wurzeln abgestorben sind, ist hier in den Zweigen noch eine Zeitlang Leben. Das
-Historische ist besonders als Gegenkraft gegen den theologischen Mythus, aber auch
-gegen die Philosophie, so breit entwickelt: das absolute Erkennen feiert hier und in den
-mathematischen Naturwissenschaften seine Saturnalien, das Geringste, was hier wirklich ausgemacht werden kann, gilt höher als alle metaphysischen Ideen. Der Grad der Sicherheit bestimmt hier den Werth, nicht der Grad der Unentbehrlichkeit für
-Menschen. Es ist der alte Kampf von Glauben
-und
+**Historische** ist besonders als Gegenkraft gegen den theologischen Mythus, aber auch
+gegen die Philosophie, so breit entwickelt: das **absolute Erkennen** feiert hier und in den
+mathematischen Naturwissenschaften seine Saturnalien, das Geringste, was hier wirklich **ausgemacht** werden kann, gilt höher als alle metaphysischen Ideen. Der Grad der **Sicherheit** bestimmt hier den Werth, nicht der Grad der **Unentbehrlichkeit** für
+Menschen. Es ist der alte Kampf von **Glauben****und**
 
 *Erratum:*und  
-*lies:*und  
+*lies:***und**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Wissen.
+**Wissen**.
 
 Es sind dies barbarische Einseitigkeiten.
 
-Jetzt kann die Philosophie nur noch das Relative aller Erkenntiß betonen und das Anthropomorphische, so wie die überall herrschende Kraft der Illusion.
+Jetzt kann die Philosophie nur noch das **Relative** aller Erkenntiß betonen und das **Anthropomorphische**, so wie die überall herrschende Kraft der **Illusion**.
 Sie kann damit den entfesselten Erkenntnißtrieb nicht mehr hemmen: der immer mehr nach dem Grade der
-Sicherheit urtheilt und immer kleinere Objekte sucht. Während jeder Mensch zufrieden ist,
+Sicherheit **urtheilt** und immer kleinere Objekte sucht. Während jeder Mensch zufrieden ist,
 wenn ein tag vorbei ist, wühlt gräbt und combinirt später der Historiker nach diesem Tag, um ihn der
-Vergessenheit zu entreißen: das Kleine soll auch ewig sein, weil es
-erkennbar ist.
+Vergessenheit zu entreißen: das **Kleine** soll auch ewig sein, **weil es
+erkennbar ist**.
 
   
 
@@ -540,67 +539,67 @@ Für uns gilt nur der aesthetische Maßstab
 *lies:*Maßstab  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-: das Große
-hat ein Recht auf Historie, aber auf keine ikonische, sondern eine produktive erregende
-Geschichtsmalerei. Wir lassen die Gräber ruhn: aber bemächtigen uns des ewig
+: das **Große**
+hat ein Recht auf Historie, aber auf keine ikonische, sondern eine **produktive erregende
+Geschichtsmalerei**. Wir lassen die **Gräber ruhn**: aber bemächtigen uns des ewig
 Lebendigen.
 
-Lieblingsthema der Zeit: die großen Wirkungen des Kleinsten. Das historische Wühlen hat
+Lieblingsthema der Zeit: die **großen Wirkungen des Kleinsten**. Das historische Wühlen hat
 z.B. als Ganzes etwas Großartiges: es ist wie die dürftige Vegetation, die allmählich die Alpen zerreibt. Wir
-sehen einen großen Trieb, der kleine Werkzeuge, aber großartig viele hat.
+sehen einen großen Trieb, der kleine Werkzeuge, aber **großartig viele** hat.
 
-Man könnte dagegen stellen: die kleinen Wirkungen des Großen! wenn es nämlich durch
+Man könnte dagegen stellen: **die kleinen Wirkungen des Großen**! wenn es nämlich durch
 Individuen vertreten wird. Es ist schwer zu fassen, oft stirbt die Tradition weg, der Haß dagegen ist
 allgemein, sein Werth beruht auf der Dualität, die hat immer wenig Schätzer.
 
-Das Große wirkt nur auf das Große: wie die Fackelpost im Agamemnon nur von Höhe zu Höhe
-springt. Es ist die Aufgabe einer Kultur, daß das Große in einem Volke nicht als
+**Das Große wirkt nur auf das Große:** wie die Fackelpost im Agamemnon nur von Höhe zu Höhe
+springt. Es ist die Aufgabe einer **Kultur**, daß das Große in einem Volke nicht als
 Einsiedler erscheint, noch als Verbannter.
 
 Deshalb wollen wir reden, was wir empfinden: es ist nicht unsere Sache zu warten, bis der matte Abglanz
 dessen, was mir hell erscheint, auch bis in die Thäler dringt. Zuletzt nämlich sind die großen Wirkungen des
-Kleinsten eben die Nachwirkungen der Großen; sie haben eine Lawine in’s Rollen gebracht.
+Kleinsten eben die Nachwirkungen der **Großen**; sie haben eine Lawine in’s Rollen gebracht.
 Nun haben wir Mühe, sie aufzuhalten.
 
 [19[38]](javascript:;)
 ----------------------
 
 Das Historische und die Naturwissenschaften waren nöthig gegen das Mittelalter: das Wissen gegen den Glauben.
-Wir richten jetzt gegen das Wissen die Kunst: Rückkehr zum Leben! Bändigung des
+Wir richten jetzt gegen das Wissen die **Kunst**: Rückkehr zum Leben! Bändigung des
 Erkenntnißtriebes! Stärkung der moralischen und ästhetischen Instinkte!
 
-Dies erscheint uns als Rettung des deutschen Geistes, damit er wieder Retter sei!
+Dies erscheint uns als **Rettung des deutschen Geistes, damit er wieder Retter sei**!
 
-Das Wesen dieses Geistes ist uns in der Musik aufgegangen. Wir verstehen jetzt, wie die
-Griechen ihre Kultur von der Musik abhängig machten.
+Das Wesen dieses Geistes ist uns in der **Musik** aufgegangen. Wir verstehen jetzt, wie die
+**Griechen** ihre Kultur von der Musik abhängig machten.
 
 [19[39]](javascript:;)
 ----------------------
 
 Die Schöpfung einer Religion würde darin liegen, daß einer für sein in das Vacuum hineingestelltes mythisches
-Gebäude Glauben erweckt, d.h. daß er einem außerordentlichen Bedürfnisse entspricht.
+Gebäude **Glauben erweckt**, d.h. daß er einem außerordentlichen Bedürfnisse entspricht.
 
-Es ist unwahrscheinlich, daß das je wieder geschieht, seit der Kritik der reinen
+Es ist **unwahrscheinlich**, daß das je wieder geschieht, seit der Kritik der reinen
 Vernunft.
 
-Dagegen kann ich mir eine ganz neue Art des Philosophen-Künstlers imaginiren, der ein
-Kunstwerk hinein in die Lücke stellt, mit ästhetischem Werthe.
+Dagegen kann ich mir eine ganz neue Art des **Philosophen-Künstlers** imaginiren, der ein
+**Kunstwerk** hinein in die Lücke stellt, mit ästhetischem Werthe.
 
 Das Gutsein und das Mitleiden ist glücklicherweise unabhängig vom Verderben und Gedeihen einer Religion:
-dagegen ist das Guthandeln sehr bestimmt durch religiöse Imperative. Die weitaus größte
-Masse der guten pflichtmäßigen Handlungen hat keinen ethischen Werth, sondern ist erzwungen.
+dagegen ist das Gut**handeln** sehr bestimmt durch religiöse Imperative. Die weitaus größte
+Masse der guten pflichtmäßigen Handlungen hat keinen ethischen Werth, sondern ist **erzwungen**.
 
-Die praktische Moralität wird bei allem Zusammenbrechen einer Religion sehr leiden. Die
+Die **praktische** Moralität wird bei allem Zusammenbrechen einer Religion sehr leiden. Die
 strafende und belohnende Metaphysik scheint unentbehrlich.
 
-Wenn man die Sitte, die mächtige Sitte schaffen kann! Damit hat man
+Wenn man die **Sitte**, die mächtige **Sitte** schaffen kann! Damit hat man
 auch die Sittlichkeit.
 
-Die Sitte aber durch Vorangehn einzelner mächtiger Persönlichkeiten
+Die **Sitte** aber durch **Vorangehn einzelner mächtiger Persönlichkeiten**
 gebildet.
 
-Auf erwachende Güte in der Masse der Besitzenden rechne ich nicht, wohl aber könnte man
-sie zu einer Sitte bringen, zu einer Pflicht gegen das Herkommen.
+Auf erwachende **Güte** in der Masse der Besitzenden rechne ich nicht, wohl aber könnte man
+sie zu einer **Sitte** bringen, zu einer Pflicht gegen das Herkommen.
 
 Wenn die Menschheit, was sie bis jetzt auf den Bau von Kirchen, auf Erziehung und Schulen verwendet, wenn sie
 den Intellekt, den sie auf Theologie, jetzt auf Erziehung richtet.
@@ -608,51 +607,51 @@ den Intellekt, den sie auf Theologie, jetzt auf Erziehung richtet.
 [19[40]](javascript:;)
 ----------------------
 
-Die freidichtende Art, wie die Griechen mit ihren Göttern umgiengen!
+Die **freidichtende** Art, wie die Griechen mit ihren Göttern umgiengen!
 
 Wir sind an den Gegensatz von historischer Wahrheit und Unwahrheit zu sehr gewöhnt. Es ist komisch, daß die
-christlichen Mythen durchaus historisch sein sollen!
+christlichen Mythen durchaus **historisch** sein sollen!
 
 [19[41]](javascript:;)
 ----------------------
 
-Das Problem einer Kultur selten richtig gefaßt. Ihr Ziel ist nicht das größtmögliche Glück eines Volkes, auch nicht die ungehinderte Entwicklung aller
-seiner Begabungen: sondern in der richtigen Proportion dieser Entwicklungen zeigt sie
+Das Problem einer **Kultur** selten richtig gefaßt. Ihr Ziel ist nicht das größtmögliche **Glück** eines Volkes, auch nicht die ungehinderte Entwicklung **aller**
+seiner Begabungen: sondern in der richtigen **Proportion** dieser Entwicklungen zeigt sie
 sich. Ihr Ziel zeigt über das Erdenglück hinaus: die Erzeugung großer Werke ist ihr Ziel.
 
-In allen griechischen Trieben zeigt sich eine bändigende Einheit: nennen wir sie den
-hellenischen Willen. Jeder dieser Triebe versucht allein in’s Unendliche zu existiren.
+In allen griechischen Trieben zeigt sich eine **bändigende Einheit**: nennen wir sie den
+hellenischen **Willen**. Jeder dieser Triebe versucht allein in’s Unendliche zu existiren.
 Die alten Philosophen versuchen aus ihnen die Welt zu construiren.
 
-Die Kultur eines Volkes offenbart sich in der einheitlichen
-Bändigung der Triebe dieses Volkes: die Philosophie bändigt den Erkentnißtrieb,
+Die **Kultur** eines Volkes offenbart sich in der **einheitlichen
+Bändigung** der **Triebe dieses Volkes**: die Philosophie bändigt den Erkentnißtrieb,
 die Kunst den Formentrieb und die Ekstasis, die ἀγάπη den ἔρως usw.
 
-Die Erkenntniß isolirt: die älteren Philosophen stellen isolirt dar, was die griechische
+Die Erkenntniß **isolirt**: die älteren Philosophen stellen isolirt dar, was die griechische
 Kunst zusammen erscheinen läßt.
 
-Der Inhalt der Kunst und der alten Philosophie fällt zusammen, aber als Philosophie sehen wir die isolirten Bestandtheile der Kunst verwendet, um den Erkenntnißtrieb zu
-bändigen. Das muß sich auch bei den Italiänern zeigen lassen: der Individualismus im Leben und der
+Der Inhalt der Kunst und der alten Philosophie fällt zusammen, aber als Philosophie sehen wir die **isolirten** Bestandtheile der Kunst verwendet, um den **Erkenntnißtrieb zu
+bändigen**. Das muß sich auch bei den Italiänern zeigen lassen: der Individualismus im Leben und der
 Kunst.
 
 [19[42]](javascript:;)
 ----------------------
 
-Die Griechen als Entdecker und Reisende und Kolonisatoren. Sie verstehen zu lernen:
+Die Griechen als Entdecker und Reisende und Kolonisatoren. Sie verstehen zu **lernen**:
 ungeheure Aneignungskraft. Unsre Zeit soll nicht glauben, in ihrem Wissenstrieb so viel höher zu stehen: nur
-wurde bei den Griechen alles Leben! Bei uns bleibt es Erkenntniß!
+wurde bei den Griechen alles **Leben**! Bei uns bleibt es Erkenntniß!
 
 [19[43]](javascript:;)
 ----------------------
 
-Wenn es auf den Werth der Erkenntniß ankommt, anderseits ein schöner Wahn, wenn nur an
+Wenn es auf den **Werth** der Erkenntniß ankommt, anderseits ein schöner Wahn, wenn nur an
 ihn geglaubt wird, ganz den gleichen Werth wie eine Erkenntniß hat, so sieht man, daß das Leben Illusionen
 braucht, d.h. für Wahrheiten gehaltene Unwahrheiten. Es braucht den Glauben an die Wahrheit, aber es genügt
 dann die Illusion, d.h. die „Wahrheiten“ beweisen sich durch ihre Wirkungen, nicht durch logische Beweise,
 Beweise der Kraft. Das Wahre und das Wirkende gilt für identisch, man beugt sich der Gewalt auch hier. Wie
-kommt es dann, daß ein logisches Wahrheitsbeweisen überhaupt stattfand? Im Kampf von
-„Wahrheit“ und „Wahrheit“ suchen sie die Alliance der Reflexion. Alles wirkliche
-Wahrheitsstreben ist in die Welt gekommen durch den Kampf um eine heilige Überzeugung, durch das
+kommt es dann, daß ein logisches Wahrheitsbeweisen überhaupt stattfand? Im **Kampf von
+„Wahrheit“ und „Wahrheit“** suchen sie die Alliance der Reflexion. **Alles wirkliche
+Wahrheitsstreben ist in die Welt gekommen durch den Kampf um eine heilige Überzeugung**, durch das
 πάϑος des Kämpfens: sonst hat der Mensch kein Interesse für den logischen
 Ursprung.
 
@@ -671,22 +670,22 @@ Wir fragen die großen Philosophen. Ach, sie sind zu Grunde gegangen! Wie leicht
 ----------------------
 
 Wie verhält sich der philosophische Genius zur Kunst? Aus dem direkten Verhalten ist wenig zu lernen. Wir
-müssen fragen: was ist an seiner Philosophie Kunst? Kunstwerk? Was bleibt, wenn sein
-System als Wissenschaft vernichtet ist? Gerade dieses Bleibende aber muß es sein, was den Wissenstrieb bändigt, also das Künstlerische daran. Warum ist eine solche Bändigung nöthig? Denn
+müssen fragen: was ist an seiner Philosophie Kunst? Kunstwerk? Was **bleibt**, wenn sein
+System als Wissenschaft vernichtet ist? Gerade dieses Bleibende aber muß es sein, was den Wissenstrieb **bändigt**, also das Künstlerische daran. Warum ist eine solche Bändigung nöthig? Denn
 wissenschaftlich betrachtet, ist es eine Illusion, eine Unwahrheit, die den Trieb nach Erkenntniß täuscht und
 nur vorläufig befriedigt. Der Werth der Philosophie in dieser Bändigung liegt nicht in der Erkenntnißsphäre,
 sondern in der
-Lebens
+**Lebens**
 
 *Erratum:*Lebens  
-*lies:*Lebens  
+*lies:***Lebens**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 sphäre: der
-Wille zum Dasein benutzt die Philosophie zum Zwecke einer höheren Daseinsform.
+**Wille zum Dasein benutzt die Philosophie** zum Zwecke einer höheren Daseinsform.
 
-Es ist nicht möglich, daß Kunst und Philosophie sich gegen den Willen richten könnten:
-aber ebenfalls die Moral ist in seinem Dienste. Allherrschaft des Willens. Eine der
+Es ist nicht möglich, daß Kunst und Philosophie sich **gegen** den Willen richten könnten:
+aber ebenfalls die Moral ist in seinem Dienste. Allherrschaft des **Willens**. Eine der
 zartesten Daseinsformen das relative Nirvana.
 
 [19[46]](javascript:;)
@@ -698,7 +697,7 @@ Es ist alles so bestimmt wie möglich zu sagen und jeder terminus, auch „Wille
 ----------------------
 
 Die Schönheit und die Großartigkeit einer Weltconstruktion (alias Philosophie) entscheidet jetzt über ihren
-Werth — d.h. sie wird als Kunst beurtheilt. Ihre Form wird sich wahrscheinlich verändern!
+Werth — d.h. sie wird als **Kunst** beurtheilt. Ihre Form wird sich wahrscheinlich verändern!
 Die starre mathematische Formel (wie bei Spinoza) — die auf Göthe einen so beruhigenden Eindruck machte, hat
 eben nur noch als ästhetisches Ausdrucksmittel ein Recht.
 
@@ -706,7 +705,7 @@ eben nur noch als ästhetisches Ausdrucksmittel ein Recht.
 ----------------------
 
 Der Satz ist festzustellen — wir leben nur durch Illusionen — unser Bewußtsein streift die Oberfläche. Vieles
-ist vor unsern Blicken verborgen. Es ist auch nie zu fürchten, daß der Mensch sich ganz
+ist vor unsern Blicken verborgen. Es ist auch nie zu fürchten, daß der Mensch sich **ganz**
 erkennt, daß er in jedem Augenblicke alle die Gesetze der Hebelkräfte, der Mechanik, alle die Formeln der
 Baukunst, der Chemie, die zu seinem Leben nöthig sind, durchschaue. Wohl aber ist möglich, daß durch dies
 
@@ -714,36 +713,35 @@ Baukunst, der Chemie, die zu seinem Leben nöthig sind, durchschaue. Wohl aber i
 *lies:*durch dies  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Schema alles erkannt werde. Das ändert für unser Leben fast nichts. Zudem sind es alles
+**Schema** alles erkannt werde. Das ändert für unser Leben fast nichts. Zudem sind es alles
 nur Formeln für absolut unerkennbare Kräfte.
 
 [19[49]](javascript:;)
 ----------------------
 
 Wir leben allerdings durch die Oberflächlichkeit unseres Intellekts in einer fortwährenden Illusion: d.h. wir
-brauchen, um zu leben, in jedem Augenblicke die Kunst. Unser Auge hält uns an den Formen
+brauchen, um zu leben, in jedem Augenblicke die Kunst. Unser Auge hält uns an den **Formen**
 fest. Wenn wir es aber selbst sind, die allmählich uns dies Auge anerzogen haben, so sehen wir in uns selbst
-eine Kunstkraft walten. Wir sehen also in der Natur selbst Mechanismen gegen das absolute
-Wissen: der Philosoph erkennt
-die Sprache der Natur und sagt: „wir brauchen die Kunst“ und „wir bedürfen nur
+eine **Kunstkraft** walten. Wir sehen also in der Natur selbst Mechanismen gegen das absolute
+**Wissen**: der **Philosoph**erkennt**die Sprache der Natur** und **sagt**: „wir brauchen die Kunst“ und „wir bedürfen nur
 eines Theils des Wissens“.
 
 [19[50]](javascript:;)
 ----------------------
 
-Jede Art von Kultur beginnt damit, daß eine Menge von Dingen verschleiert werden. Der Fortschritt des Menschen hängt an diesem Verschleiern — das Leben in einer
+Jede Art von **Kultur** beginnt damit, daß eine Menge von Dingen **verschleiert** werden. Der Fortschritt des Menschen hängt an diesem Verschleiern — das Leben in einer
 reinen und edlen Sphäre und das Abschließen der gemeineren Reizungen. Der Kampf gegen die „Sinnlichkeit“ durch
-die Tugend ist wesentlich ästhetischer Art. Wenn wir die großen Individuen als unsere
+die Tugend ist wesentlich ästhetischer Art. Wenn wir die **großen** Individuen als unsere
 Leitsterne gebrauchen, so verschleiern wir viel an ihnen, ja wir verhüllen alle die Umstände und Zufälle, die
-ihr Entstehen möglich machen, wir isoliren sie uns, um sie zu verehren. Jede Religion
+ihr Entstehen möglich machen, wir **isoliren** sie uns, um sie zu verehren. Jede Religion
 enthält so ein Element: die Menschen unter göttlicher Obhut, als etwas unendlich Wichtiges. Ja, alle Ethik
-beginnt damit, daß wir das einzelne Individuum unendlich wichtig nehmen — anders als die
+beginnt damit, daß wir das einzelne Individuum **unendlich wichtig** nehmen — anders als die
 Natur, die grausam und spielend verfährt. Wenn wir besser und edler sind, so haben es die isolirenden
 Illusionen gemacht!
 
 Dem stellt nun die Naturwissenschaft die absolute Naturwahrheit entgegen: die höhere Physiologie wird
 freilich die künstlerischen Kräfte schon in unserem Werden begreifen, ja nicht nur in dem des Menschen,
-sondern des Thieres: sie wird sagen, daß mit dem Organischen auch das Künstlerische beginnt.
+sondern des Thieres: sie wird sagen, daß mit dem **Organischen** auch das **Künstlerische beginnt**.
 
 [19[51]](javascript:;)
 ----------------------
@@ -754,7 +752,7 @@ Die barbarisirende Einwirkung des Wissens.
 
 Die Bändigung des Wissens als Trieb der Kunst.
 
-Wir leben nur durch diese Illusionen der Kunst.
+Wir **leben** nur durch diese Illusionen der Kunst.
 
 Jede höhere Kultur ist es durch diese Bändigung.
 
@@ -770,10 +768,10 @@ abhängig von der Art, wie man „das Große“ definirt.
 [19[52]](javascript:;)
 ----------------------
 
-Das absolute Wissen führt zum Pessimismus: die Kunst ist das Heilmittel dagegen.
+Das absolute Wissen führt zum **Pessimismus**: die Kunst ist das Heilmittel dagegen.
 
-Die Philosophie ist zur Bildung unentbehrlich, weil sie das Wissen
-in eine künstlerische Weltconception hineinzieht und dadurch veredelt.
+Die Philosophie ist zur **Bildung** unentbehrlich, weil sie das **Wissen**
+in eine künstlerische Weltconception **hineinzieht** und dadurch veredelt.
 
 [19[53]](javascript:;)
 ----------------------
@@ -790,12 +788,12 @@ geschrieben! Er sehnte sich nach dem Weiterzeugen im Schönen!
 ----------------------
 
 Die chemischen Verwandlungen in der unorganischen Natur sind vielleicht auch künstlerische Prozesse, mimische
-Rollen zu nennen, die eine Kraft spielt: es giebt aber mehrere! die sie spielen kann.
+Rollen zu nennen, die eine Kraft spielt: es giebt aber **mehrere**! die sie spielen kann.
 
 [19[55]](javascript:;)
 ----------------------
 
-Denen, welche nur eine gelehrte Befriedigung dabei empfinden wollen, habe ich es nicht
+Denen, welche nur eine **gelehrte** Befriedigung dabei empfinden wollen, habe ich es nicht
 leicht gemacht, weil ich auf sie zuletzt gar nicht rechnete. Die Citate fehlen.
 
 [19[56]](javascript:;)
@@ -841,19 +839,19 @@ Apollodor bekämpft sie: wer hat sie aufgestellt?
 [19[60]](javascript:;)
 ----------------------
 
-Die Entstehung philosophischer Secten im griechischen Alterthum.
+**Die Entstehung philosophischer Secten im griechischen Alterthum.**
 
 Aus der tiefsten Umwandlung des hellenischen Geistes.
 
-Anfang mit den Pythagoreern, von denen lernt es Plato.
+Anfang mit den Pythagoreern, von denen lernt es **Plato**.
 
-Die Akademie giebt den Typus an. Es sind Oppositionsanstalten gegen das hellenische
+Die Akademie giebt den **Typus** an. Es sind Oppositionsanstalten gegen das hellenische
 Leben.
 
 Die früheren Philosophen sind Isolirungen einzelner Triebe des hellenischen Wesens.
 
-Wir erleben den Übergang des philosophischen Sektengeistes in das Kulturbewußtsein, Übergang
-der Philosophie in die Kultur. Dort Scheidung der Philosophie und der Kultur.
+Wir erleben den Übergang des philosophischen Sektengeistes in das Kulturbewußtsein, **Übergang
+der Philosophie in die Kultur.** Dort **Scheidung** der Philosophie und der Kultur.
 
 Die Oberflächlichkeit aller nachsokratischen Ethik! Die tiefe hellenische ältere Ethik hat sich nicht in
 Worten und Begriffen darstellen lassen.
@@ -879,23 +877,23 @@ Es ist eine Kunst in ihren Zwecken und in ihrer Produktion. Aber das Mittel, die
 hat sie mit der Wissenschaft gemein. Es ist eine Form der Dichtkunst. — Sie ist nicht unterzubringen: deshalb
 müssen wir eine Species erfinden und charakterisiren.
 
-Die Naturbeschreibung des Philosophen. Er erkennt, indem er dichtet, und dichtet, indem
+**Die Naturbeschreibung des Philosophen.** Er erkennt, indem er dichtet, und dichtet, indem
 er erkennt.
 
 Er wächst nicht, ich meine, die Philosophie nimmt nicht den Verlauf, wie die andern Wissenschaften: wenn auch
 irgend welche Gebiete des Philosophen allmählich in die Hände der Wissenschaft übergehen. Heraklit kann nie
-veralten. Es ist die Dichtung außer den Grenzen der Erfahrung, Fortsetzung des mythischen
-Triebes; auch wesentlich in Bildern. Die mathematische Darstellung gehört nicht zum Wesen des
+veralten. Es ist die Dichtung außer den Grenzen der Erfahrung, Fortsetzung des **mythischen
+Triebes**; auch wesentlich in Bildern. Die mathematische Darstellung gehört nicht zum Wesen des
 Philosophen.
 
-Überwindung des Wissens durch mythenbildende Kräfte. Kant
-merkwürdig — Wissen und Glauben! Innerste Verwandtschaft der Philosophen und der Religionsstifter!
+Überwindung des Wissens durch **mythenbildende Kräfte**. **Kant**
+merkwürdig — Wissen und Glauben! Innerste Verwandtschaft der **Philosophen** und der **Religionsstifter**!
 
 [19[63]](javascript:;)
 ----------------------
 
 Sonderbares Problem: das sich Verzehren der philosophischen Systeme! Unerhört für die Wissenschaft wie für
-die Kunst! Ähnlich steht es mit den Religionen: das ist merkwürdig und bezeichnend.
+die Kunst! **Ähnlich** steht es mit den Religionen: das ist merkwürdig und bezeichnend.
 
 [19[64]](javascript:;)
 ----------------------
@@ -920,10 +918,10 @@ Durchaus unpersönlich und kalt zu schreiben. Kein „ich“ und „wir“.
 [19[66]](javascript:;)
 ----------------------
 
-Unser Verstand ist eine Flächenkraft, ist oberflächlich. Das nennt man auch „subjektiv“.
-Er erkennt durch Begriffe: das heißt unser Denken ist ein Rubriziren, ein Benamsen. Also
-etwas, was auf eine Willkür des Menschen hinausläuft und nicht das Ding selbst trifft. Nur rechnen<d> und nur in den Formen des Raumes hat der Mensch absolute Erkenntniß d.h. die
-letzte Grenze alles Erkennbaren sind Quantitäten, er versteht keine
+Unser Verstand ist eine Flächenkraft, ist **oberflächlich**. Das nennt man auch „subjektiv“.
+Er erkennt durch **Begriffe**: das heißt unser Denken ist ein Rubriziren, ein Benamsen. Also
+etwas, was auf eine Willkür des Menschen hinausläuft und nicht das Ding selbst trifft. Nur **rechnen&amp;lt;d&amp;gt;** und nur in den Formen des Raumes hat der Mensch absolute Erkenntniß d.h. die
+letzte Grenze alles Erkennbaren sind **Quantitäten**, er **versteht** keine
 Qualität, sondern nur eine Quantität.
 
 Was kann der Zweck einer solchen Flächenkraft sein?
@@ -931,35 +929,35 @@ Was kann der Zweck einer solchen Flächenkraft sein?
 Dem Begriff entspricht zuerst das Bild, Bilder sind Urdenken d.h. die Oberflächen der Dinge im Spiegel des
 Auges zusammengefaßt.
 
-Das Bild ist das eine, das Rechenexempel das andre.
+Das **Bild** ist das eine, das **Rechenexempel** das andre.
 
-Bilder in menschlichen Augen! Das beherrscht alles menschliche Wesen: vom Auge aus!
-Subjekt! das Ohr hört den Klang! Eine ganz andere wunderbare Conception derselben
+Bilder in menschlichen Augen! Das beherrscht alles menschliche Wesen: vom **Auge** aus!
+Subjekt! das **Ohr** hört den Klang! Eine ganz andere wunderbare Conception derselben
 Welt.
 
-Auf der Ungenauigkeit des Sehens beruht die Kunst. Auch beim Ohr Ungenauigkeit in Rhythmus, Temperatur usw. darauf beruht wiederum die Kunst.
+Auf der **Ungenauigkeit** des **Sehens** beruht die **Kunst**. Auch beim Ohr Ungenauigkeit in Rhythmus, Temperatur usw. darauf beruht wiederum die **Kunst**.
 
 [19[67]](javascript:;)
 ----------------------
 
-Es ist eine Kraft in uns, die die großen Züge des Spiegelbildes intensiver wahrnehmen
+Es ist eine Kraft in uns, die die **großen** Züge des Spiegelbildes intensiver wahrnehmen
 läßt, und wieder eine Kraft, die den gleichen Rhythmus auch über die wirkliche Ungenauigkeit hinweg betont.
-Dies muß eine Kunstkraft sein. Denn sie schafft. Ihr Hauptmittel ist
-weglassen und übersehen und überhören. Also
+Dies muß eine **Kunst**kraft sein. Denn sie **schafft**. Ihr Hauptmittel ist
+**weglassen** und **übersehen** und **überhören**. Also
 antiwissenschaftlich: denn sie hat nicht für alles Wahrgenommene ein gleiches Interesse.
 
 Das Wort enthält nur ein Bild, daraus der Begriff. Das Denken rechnet also mit künstlerischen Größen.
 
 Alles Rubriziren ist ein Versuch zum Bilde zu kommen.
 
-Zu jedem wahren Sein verhalten wir uns oberflächlich, wir reden die Sprache des Symbols,
+Zu jedem wahren **Sein** verhalten wir uns oberflächlich, wir reden die Sprache des Symbols,
 des Bildes: sodann thun wir etwas hinzu, mit künstlerischer Kraft, indem wir die Hauptzüge verstärken, die
 Nebenzüge vergessen.
 
 [19[68]](javascript:;)
 ----------------------
 
-Apologie der Kunst.
+**Apologie der Kunst.**
 
   
 
@@ -974,21 +972,21 @@ erziele.
 
 Diese Zeit hat einen Haß auf die Kunst, wie auf die Religion. Sie will weder eine Abfindung durch einen
 Hinweis auf das Jenseits, noch durch einen Hinweis auf die Verklärung der Kunstwelt. Sie hält das für unnütze
-„Poesie“, Spaß usw. Unsre „Dichter“ entsprechen. Aber die Kunst als furchtbarer Ernst!
+„Poesie“, Spaß usw. Unsre „Dichter“ **entsprechen**. Aber die Kunst als furchtbarer Ernst!
 Die neue Metaphysik als furchtbarer Ernst! Wir wollen euch die Welt noch so umstellen mit Bildern, daß euch
 schaudert. Das aber steht in unserer Hand! Verstopft euch die Ohren, eure Augen werden unseren Mythus sehen.
 Unsere Flüche werden euch treffen!
 
 Die Wissenschaft muß ihre Utilität jetzt zeigen! Sie ist zur Ernährerin geworden, im Dienste des Egoismus:
-der Staat und die Gesellschaft haben sie in ihren Frohndienst genommen, um sie auszubeuten zu ihren Zwecken.
+der Staat und die Gesellschaft haben sie in ihren Frohndienst genommen, um sie auszubeuten zu **ihren** Zwecken.
 
-Der normale Zustand ist der Krieg: wir schließen Frieden nur auf
+Der normale Zustand ist der **Krieg**: wir schließen **Frieden** nur auf
 bestimmte Zeiten.
 
 [19[70]](javascript:;)
 ----------------------
 
-Es ist mir nöthig zu wissen, wie die Griechen zur Zeit ihrer Kunst philosophirt haben. Die sokratischen Schulen saßen inmitten eines Meeres der Schönheit — was merkt man davon bei ihnen?
+Es ist mir nöthig zu wissen, wie die Griechen zur Zeit ihrer Kunst philosophirt haben. Die **sokratischen** Schulen saßen inmitten eines Meeres der Schönheit — was merkt man davon bei ihnen?
 Ungeheurer Aufwand wird für die Kunst gemacht. Die Sokratiker haben entweder ein feindseliges oder
 theoretisches Verhalten dazu.
 
@@ -1004,7 +1002,7 @@ Er ist entweder seiner Kultur entsprungen oder ihr feindlich.
 
 Er ist beschaulich wie der bildende Künstler, mitempfindend wie der Religiöse, causal wie der Mann der
 Wissenschaft: er sucht alle Töne der Welt in sich nachklingen zu lassen und diesen Gesammtklang aus sich
-heraus zu stellen in Begriffen. Das Aufschwellen zum Makrokosmos und dabei besonnenes Betrachten — wie der Schauspieler oder der dramatische Dichter, der sich
+heraus zu stellen in Begriffen. Das **Aufschwellen zum Makrokosmos** und dabei **besonnenes Betrachten** — wie der Schauspieler oder der dramatische Dichter, der sich
 verwandelt und dabei die Besonnenheit behält, nach außen sich zu projiciren.
 
 Das dialektische Denken als Sturzbad darüber gegossen.
@@ -1016,7 +1014,7 @@ Merkwürdig Plato: Enthusiast der Dialektik d.h. jener Besonnenheit.
 
 |  |  |
 | --- | --- |
-| Die Philosophen. Naturbeschreibung des Philosophen.  Der Philosoph neben dem wissenschaftlichen Menschen und dem Künstler. | |
+| **Die Philosophen. Naturbeschreibung des Philosophen.**  Der Philosoph neben dem wissenschaftlichen Menschen und dem Künstler. | |
 | Bändigung | des Erkenntnißtriebes durch die Kunst, des religiösen Einheitstriebes durch den Begriff. |
 | Sonderbar das Nebeneinander von Conception und Abstraktion.  Bedeutung für die Kultur.  Die Metaphysik als Vacuum. | |
 
@@ -1050,10 +1048,10 @@ Was ist aber eine solche „Möglichkeit“? Ein Einfall d.h.
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  „es könnte
-vielleicht“. Aber wie kommt der Einfall? Mitunter zufällig äußerlich: ein Vergleichen,
-das Entdecken irgend einer Analogie findet statt. Nun tritt eine Erweiterung ein. Die
-Phantasie besteht im schnellen Ähnlichkeitenschauen. Die Reflexion mißt nachher Begriff
-an Begriff und prüft. Die Ähnlichkeit soll ersetzt werden durch Causalität.
+vielleicht“. Aber wie **kommt** der Einfall? Mitunter zufällig äußerlich: ein Vergleichen,
+das Entdecken irgend einer Analogie findet statt. Nun tritt eine **Erweiterung** ein. Die
+Phantasie besteht im **schnellen Ähnlichkeitenschauen**. Die Reflexion mißt nachher Begriff
+an Begriff und prüft. Die **Ähnlichkeit** soll ersetzt werden durch **Causalität**.
 
 Ist denn nun „wissenschaftlich
 
@@ -1068,14 +1066,14 @@ Ist denn nun „wissenschaftlich
 *lies:*philosophisch  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-“ nur durch die Dosis verschieden? Oder
-vielleicht durch die Gebiete?
+“ nur durch die **Dosis** verschieden? Oder
+vielleicht durch die **Gebiete**?
 
 [19[76]](javascript:;)
 ----------------------
 
-Es giebt keine aparte Philosophie, getrennt von der Wissenschaft: dort
-wie hier wird gleich gedacht. Daß ein unbeweisbares
+Es giebt **keine aparte Philosophie, getrennt von der Wissenschaft**: **dort
+wie hier wird gleich gedacht**. Daß ein **unbeweisbares**
 Philosophem
 
 *Erratum:*Philosophiren  
@@ -1083,27 +1081,26 @@ Philosophem
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  noch einen Werth hat, mehr als meistens ein wissenschaftlicher
-Satz, hat seinen Grund in dem aesthetischen Werthe eines solchen
+Satz, hat seinen Grund in dem aesthetischen **Werthe** eines solchen
 Philosophems
 
 *Erratum:*Philosophirens  
 *lies:*Philosophems  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-, d.h. durch Schönheit und Erhabenheit. Es ist als Kunstwerk noch vorhanden, wenn es sich als wissenschaftlicher Bau nicht erweisen kann. Ist
+, d.h. durch Schönheit und Erhabenheit. Es ist als **Kunstwerk** noch vorhanden, wenn es sich als wissenschaftlicher Bau nicht erweisen kann. Ist
 das aber bei wissenschaftlichen Dingen nicht ebenso? —
 
-Mit anderen Worten: es entscheidet nicht der reine Erkenntnißtrieb, sondern der aesthetische: die wenig erwiesene Philosophie des Heraklit hat einen größeren Kunstwerth
+Mit anderen Worten: es entscheidet nicht der reine **Erkenntnißtrieb**, sondern der **aesthetische**: die wenig erwiesene Philosophie des Heraklit hat einen größeren Kunstwerth
 als alle Sätze des Aristoteles.
 
 Der Erkenntnißtrieb wird also gebändigt durch die Phantasie in der Kultur eines Volkes. Dabei ist der
-Philosoph vom höchsten Wahrheitspathos erfüllt: der Werth seiner
-Erkenntniß verbürgt ihm ihre Wahrheit. Alle Fruchtbarkeit, und alle
-treibende Kraft liegt in diesen vorausgeworfnen
-Blicken
+Philosoph vom höchsten **Wahrheitspathos** erfüllt: der **Werth** seiner
+Erkenntniß verbürgt ihm ihre **Wahrheit**. Alle **Fruchtbarkeit**, und alle
+treibende Kraft liegt in diesen **vorausgeworfnen****Blicken**
 
 *Erratum:*Blicken  
-*lies:*Blicken  
+*lies:***Blicken**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 .
@@ -1112,7 +1109,7 @@ Blicken
 ----------------------
 
 Die Phantasieerzeugung kann man im Auge beobachten. Ähnlichkeit führt zur kecksten Fortbildung: aber auch
-ganz andre Verhältnisse, Contrast den Contrast, und unaufhörlich. Hier sieht man die
+ganz andre Verhältnisse, Contrast den Contrast, und unaufhörlich. Hier **sieht** man die
 außerordentliche Produktivität des Intellekts. Es ist ein Bilderleben.
 
 [19[78]](javascript:;)
@@ -1123,10 +1120,10 @@ beurtheilen. Dies thut sie, indem sie es an gewöhnlichen und häufig erprobten 
 
 Was ist eigentlich „logisch“ beim Bilderdenken? —
 
-Der nüchterne Mensch braucht die Phantasie wenig und hat sie wenig.
+Der nüchterne Mensch braucht die Phantasie wenig und **hat** sie wenig.
 
-Es ist jedenfalls etwas Künstlerisches, dieses Erzeugen von Formen, bei denen dann der
-Erinnerung etwas einfällt: diese Form hebt sie heraus und verstärkt sie dadurch. Denken
+Es ist jedenfalls etwas **Künstlerisches**, dieses Erzeugen von Formen, bei denen dann der
+Erinnerung etwas einfällt: **diese Form hebt sie heraus** und verstärkt sie dadurch. Denken
 ist ein Herausheben.
 
 Es ist viel mehr von Bilderreihen im Gehirn, als zum Denken verbraucht wird: der Intellekt wählt schnell
@@ -1161,7 +1158,7 @@ darunter sich bewegenden Nerventhätigkeit. Das allerzarteste sich Schwingen und
 Prozeß ist physiologisch absolut bestimmt und nothwendig. Alles Denken erscheint uns auf der Oberfläche als
 willkürlich, als in unserem Belieben: wir bemerken die unendliche Thätigkeit nicht.
 
-Einen künstlerischen Vorgang ohne Gehirn zu denken ist eine starke Anthropopathie: aber
+Einen **künstlerischen Vorgang ohne Gehirn** zu denken ist eine starke Anthropopathie: aber
 ebenso steht es mit dem Willen, der Moral usw.
 
 Das Begehren ist doch nur eine physiologische Ubertät, die sich entladen
@@ -1176,17 +1173,17 @@ möchte
 [19[80]](javascript:;)
 ----------------------
 
-Resultat: es kommt nur auf die Grade und Quantitäten an: alle
+Resultat: es kommt nur auf die **Grade** und **Quantitäten** an: alle
 Menschen sind künstlerisch philosophisch wissenschaftlich usw.
 
-Unsre Werthschätzung bezieht sich auf Quantitäten, nicht auf Qualitäten. Wir verehren das Große. Das ist freilich auch das Unnormale.
+Unsre Werthschätzung bezieht sich auf Quantitäten, nicht auf Qualitäten. Wir verehren das **Große**. Das ist freilich auch das **Unnormale**.
 
 Denn die Verehrung der großartigen Wirkungen des Kleinen ist nur ein Staunen vor dem Resultat und dem
-Mißverhältniß der kleinsten Ursache. Nur indem wir sehr viele Wirkungen zusammenaddiren und als Einheit anschauen, haben wir den Eindruck der Größe: d.h. wir
-erzeugen, durch diese Einheit, die Größe.
+Mißverhältniß der kleinsten Ursache. Nur indem wir sehr viele Wirkungen zusammenaddiren und als **Einheit** anschauen, haben wir den Eindruck der Größe: d.h. **wir
+erzeugen**, durch diese Einheit, die Größe.
 
-Die Menschheit wächst aber nur durch die Verehrung des Seltnen Großen. Selbst das als
-Selten Groß Gewähnte, z.B. das Wunder, übt diese Wirkung. Das Erschrecken ist der
+Die Menschheit wächst aber nur durch die Verehrung des **Seltnen Großen**. Selbst das als
+Selten Groß Gewähnte, z.B. das **Wunder**, übt diese Wirkung. Das Erschrecken ist der
 Menschheit bestes Theil.
 
 [19[81]](javascript:;)
@@ -1194,13 +1191,13 @@ Menschheit bestes Theil.
 
 Das Träumen als die auswählende Fortsetzung der Augenbilder.
 
-Im Reiche des Intellekts ist alles Qualitative nur ein Quantitatives. Zu den Qualitäten
+Im Reiche des Intellekts ist alles Qualitative nur ein **Quantitatives**. Zu den Qualitäten
 führt uns der Begriff, das Wort.
 
 [19[82]](javascript:;)
 ----------------------
 
-Vielleicht kann der Mensch nichts vergessen. Die Operation des Sehens und des Erkennens
+Vielleicht kann der Mensch nichts **vergessen**. Die Operation des Sehens und des Erkennens
 ist viel zu complicirt, als daß es möglich wäre, sie völlig wieder zu verwischen, d.h. alle Formen, die einmal
 vom Gehirn und Nervensystem erzeugt sind, wiederholt es von jetzt ab so oft. Eine gleiche Nerventhätigkeit
 erzeugt das gleiche Bild wieder.
@@ -1208,14 +1205,14 @@ erzeugt das gleiche Bild wieder.
 [19[83]](javascript:;)
 ----------------------
 
-Das philosophische Denken ist spezifisch gleichartig mit dem wissenschaftlichen, aber bezieht sich auf große Dinge und Angelegenheiten. Der Begriff der Größe ist aber ein wandelbarer, theils
-ästhetisch, theils moralisch. Es ist eine Bändigung des Erkenntnißtriebes. Darin liegt
+Das philosophische Denken ist spezifisch gleichartig mit dem wissenschaftlichen, aber bezieht sich auf **große** Dinge und Angelegenheiten. Der Begriff der Größe ist aber ein wandelbarer, theils
+ästhetisch, theils moralisch. Es ist eine **Bändigung** des Erkenntnißtriebes. Darin liegt
 die Kulturbedeutung.
 
-Wenn aber die Metaphysik beseitigt ist, dann wird allmählich der Menschheit manches Andere wieder groß erscheinen. Ich meine, die Philosophen werden andere Gebiete bevorzugen: und
+Wenn aber die Metaphysik beseitigt ist, dann wird allmählich der Menschheit manches Andere wieder **groß** erscheinen. Ich meine, die Philosophen werden andere Gebiete bevorzugen: und
 hoffentlich die, wo sie auf die neue Kultur heilsam einwirken.
 
-Es ist ein Gesetzgebung der Größe, ein „Namengeben“ mit der Philosophie verbunden: „das
+Es ist ein **Gesetzgebung der Größe**, ein „Namengeben“ mit der Philosophie verbunden: „das
 ist groß“ sagt er und dadurch erhebt er den Menschen. Es beginnt mit der Gesetzgebung der Moral: „das ist
 groß“, Standpunkt der sieben Weisen, den die Römer in guter Zeit nie verlassen haben.
 
@@ -1230,16 +1227,16 @@ Fläche, in der
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  die Nerventhätigkeit in Lust und Schmerz Formen
-hinzeichnet, ist das eigentliche Geheimniß: das, was Empfindung ist, projicirt zugleich Formen, die dann wieder neue Empfindungen erzeugen.
+hinzeichnet, ist das eigentliche Geheimniß: das, was Empfindung ist, projicirt zugleich **Formen**, die dann wieder neue Empfindungen erzeugen.
 
 Es ist das Wesen der Lust- und Unlustempfindung, sich in adäquaten Bewegungen auszudrücken: dadurch daß diese
-adäquaten Bewegungen wieder andere Nerven zur Empfindung veranlassen, entsteht die Empfindung des Bildes.
+adäquaten Bewegungen wieder andere Nerven zur Empfindung veranlassen, entsteht die Empfindung des **Bildes**.
 
 [19[85]](javascript:;)
 ----------------------
 
 Weisheit und Wissenschaft.  
-Über die Philosophen.
+**Über die Philosophen.**
 
   
 
@@ -1292,7 +1289,7 @@ Entstehung der Philosophen und — das Philosophentribunal für die Kultur der Z
 ----------------------
 
 Ob das Denken mit Lust oder Unlust vor sich geht, ist ganz wesentlich: wem es rechte Beschwerde macht, der
-ist eben weniger dazu angelegt und wird wohl auch weniger weit kommen: er zwingt sich und
+ist eben weniger dazu angelegt und wird wohl auch weniger weit kommen: er **zwingt** sich und
 in diesem Bereich ist es nichts nütze.
 
 [19[91]](javascript:;)
@@ -1308,7 +1305,7 @@ Makrokosmos, um am Ende zu sagen „du bist am Ende, was du bist“.
 Mitunter erweist sich das durch Sprünge erreichte Resultat sofort als wahr und fruchtbar, von seinen
 Consequenzen aus.
 
-Wird ein genialer Forscher von einer richtigen Ahnung geleitet? Ja, er sieht eben Möglichkeiten, ohne zureichende Stützen: daß er aber so etwas für möglich hält, zeigt seine
+Wird ein genialer Forscher von einer richtigen **Ahnung** geleitet? Ja, er sieht eben **Möglichkeiten**, ohne zureichende Stützen: daß er aber so etwas für möglich hält, zeigt seine
 Genialität. Er überschlägt sehr schnell das ungefähr für ihn Beweisbare.
 
 Der Mißbrauch der Erkenntniß im ewigen Wiederholen von Experimenten und von Materialsammeln, während der
@@ -1320,13 +1317,13 @@ in vielen Fällen etwas Unnützes.
 
 Auch das Moralische hat keine andere Quelle als den Intellekt, aber die verbindende Bilderkette wirkt hier
 anders als bei dem Künstler und Denker: sie reizt zur That. Ganz gewiß ist das Empfinden des Ähnlichen, das
-Identificiren nothwendige Voraussetzung. Sodann Erinnerung an eignen Schmerz. Gut sein
-hieße also: sehr leicht identificiren und sehr schnell. Es ist also
+**Identificiren** nothwendige Voraussetzung. Sodann Erinnerung an eignen Schmerz. Gut sein
+hieße also: **sehr leicht** identificiren und sehr **schnell**. Es ist also
 eine Verwandlung, ähnlich wie bei dem Schauspieler.
 
 Alle Rechtschaffenheit und alles Recht dagegen kommt aus einem Gleichgewicht der Egoismen: gegenseitige
 Anerkennung sich nicht zu schädigen. Also aus Klugheit. In der Form von festen Grundsätzen sieht es dann
-wieder anders aus: als Charakterfestigkeit. Liebe und Recht Gegensätze: Kulminationspunkt
+wieder anders aus: als Charakter**festigkeit**. Liebe und Recht Gegensätze: Kulminationspunkt
 Aufopfern für die Welt.
 
 Das Vorausnehmen von möglichen Unlustempfindungen bestimmt die Handlung des rechtlichen Menschen: er kennt
@@ -1353,7 +1350,7 @@ zu sagen, daß sie mir nicht gleichgültig sind, daß ich aber wünschen möchte
 [19[96]](javascript:;)
 ----------------------
 
-Es war ein großer Mathematiker, mit dem die Philosophie in
+Es war ein großer **Mathematiker**, mit dem die **Philosophie** in
 Griechenland anhebt. Dorther stammt sein Gefühl für das Abstrakte, Unmythische. Bei einer antimythischen
 Gesinnung gilt er doch als der „Weise“ in Delphi: — Orphiker zeigen den abstrakten Gedanken in
 Allegorien
@@ -1364,7 +1361,7 @@ Allegorien
 
 .
 
-Die Griechen übernehmen die Wissenschaft von den Orientalen. Die Mathematik und Astronomie ist älter als die Philosophie.
+Die Griechen übernehmen die **Wissenschaft** von den Orientalen. Die **Mathematik und Astronomie ist älter als die Philosophie**.
 
 [19[97]](javascript:;)
 ----------------------
@@ -1377,8 +1374,8 @@ Zusammenleben. Man antecipirt
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  die schlimmen Folgen gegenseitiger Lügen.
-Von hier aus entsteht die Pflicht der Wahrheit. Dem epischen Erzähler gestattet man die
-Lüge, weil hier keine schädliche Wirkung zu ersehen ist. — Also wo die Lüge als
+Von hier aus entsteht **die Pflicht der Wahrheit**. Dem epischen Erzähler gestattet man die
+**Lüge**, weil hier keine schädliche Wirkung zu ersehen ist. — Also wo die Lüge als
 angenehm gilt, ist sie erlaubt: die Schönheit und Anmuth der Lüge, vorausgesetzt daß sie nicht schadet. So
 erfindet der Priester Mythen seiner Götter: sie rechtfertigt ihre Erhabenheit. Außerordentlich schwer, das
 mythische Gefühl der freien Lüge wieder sich lebendig zu machen. Die großen griechischen Philosophen leben
@@ -1388,17 +1385,17 @@ Wo man nichts Wahres wissen kann, ist die Lüge erlaubt.
 
 Jeder Mensch läßt sich Nachts im Traume fortwährend belügen.
 
-Das Wahrheitsstreben ist ein unendlich langsamer Erwerb der Menschheit. Unser
+Das **Wahrheitsstreben** ist ein unendlich langsamer Erwerb der Menschheit. Unser
 historisches Gefühl etwas ganz Neues in der Welt. Es wäre möglich, daß es die Kunst ganz unterdrückte.
 
-Das Aussprechen der Wahrheit um jeden Preis ist sokratisch.
+Das Aussprechen der **Wahrheit um jeden Preis** ist **sokratisch**.
 
 [19[98]](javascript:;)
 ----------------------
 
 Der Philosoph.
   
-Betrachtungen über den Kampf von Kunst und Erkenntniss.
+**Betrachtungen über den Kampf von Kunst und Erkenntniss.**
 
 [19[99]](javascript:;)
 ----------------------
@@ -1422,71 +1419,71 @@ Wahrheit und Lüge physiologisch.
 
 Wahrheit als Moralgesetz — zwei Quellen der Moral.
 
-Das Wesen der Wahrheit nach den Wirkungen beurtheilt.
+Das Wesen der Wahrheit nach den **Wirkungen** beurtheilt.
 
 Die Wirkungen verführen zur Annahme von unbewiesenen „Wahrheiten“.
 
-Im Kampf solcher durch die Kraft lebenden „Wahrheiten“ zeigt sich das Bedürfniß, einen
+Im **Kampf** solcher durch die Kraft lebenden „Wahrheiten“ zeigt sich das Bedürfniß, einen
 andern Weg zu ihnen zu finden. Entweder von dort alles erklärend, oder von den Exempeln, Erscheinungen zu ihr
 hinaufsteigend.
 
 Wunderbare Erfindung der Logik.
 
-Allmähliches Überwiegen der logischen Kräfte und Beschränkung des Wissensmöglichen.
+Allmähliches Überwiegen der logischen Kräfte und Beschränkung des Wissens**möglichen**.
 
-Fortwährende Reaktion der künstlerischen Kräfte und Beschränkung auf das Wissenswürdige
-(nach der Wirkung beurtheilt).
+Fortwährende Reaktion der künstlerischen Kräfte und Beschränkung auf das Wissens**würdige**
+(nach der **Wirkung** beurtheilt).
 
 [19[103]](javascript:;)
 -----------------------
 
-Kampf im Philosophen.
+Kampf im **Philosophen**.
 
 Sein universaler Trieb zwingt ihn zum schlechten Denken, das ungeheure Pathos der Wahrheit, am Weitblick
-seines Standpunktes erzeugt, zwingt ihn zur Mittheilung und diese wieder zur Logik.
+seines Standpunktes erzeugt, zwingt ihn zur **Mittheilung** und diese wieder zur Logik.
 
-Auf der einen Seite erzeugt sich eine optimistische Metaphysik der Logik — allmählich
-alles vergiftend und belügend. Die Logik, als Alleinherrscherin, führt zur Lüge: denn sie ist nicht die Alleinherrscherin.
+Auf der einen Seite erzeugt sich eine **optimistische Metaphysik der Logik** — allmählich
+alles vergiftend und belügend. Die Logik, als Alleinherrscherin, führt zur Lüge: denn sie **ist** nicht die Alleinherrscherin.
 
-Das andre Wahrheitsgefühl stammt aus der Liebe, Beweis der Kraft.
+Das andre Wahrheitsgefühl stammt aus der **Liebe**, Beweis der Kraft.
 
-Das Aussprechen der beseligenden Wahrheit aus Liebe: bezieht sich
+Das Aussprechen der **beseligenden Wahrheit** aus **Liebe**: bezieht sich
 auf Erkenntnisse des Einzelnen, die er nicht mittheilen muß, aber deren überquellende Beseligung ihn
 zwingt.
 
 [19[104]](javascript:;)
 -----------------------
 
-Ganz wahrhaftig zu sein — herrliche heroische Lust des Menschen, in einer lügenhaften Natur! Aber nur sehr relativ möglich! Das ist tragisch. Das ist das tragische Problem
-Kants! Jetzt bekommt die Kunst eine ganz neue Würde. Die Wissenschaften dagegen
-sind einen Grad degradirt.
+Ganz wahrhaftig zu sein — herrliche heroische Lust des Menschen, in einer lügenhaften Natur! **Aber nur sehr relativ möglich!** Das ist tragisch. Das ist das **tragische Problem
+Kants**! Jetzt bekommt die Kunst eine ganz **neue** Würde. Die Wissenschaften dagegen
+sind einen Grad **degradirt**.
 
 [19[105]](javascript:;)
 -----------------------
 
-Wahrhaftigkeit der Kunst: sie ist allein jetzt ehrlich.
+**Wahrhaftigkeit der Kunst:** sie ist allein jetzt ehrlich.
 
-So kommen wir, auf ungeheurem Umweg, wieder auf das natürliche Verhalten (bei den
+So kommen wir, auf ungeheurem Umweg, wieder auf das **natürliche** Verhalten (bei den
 Griechen) zurück. Es hat sich unmöglich erwiesen, eine Kultur auf das Wissen zu bauen.
 
 [19[106]](javascript:;)
 -----------------------
 
-Kämpfen für eine Wahrheit und Kämpfen um die
+Kämpfen für **eine Wahrheit** und Kämpfen **um**die
 Wahrheit ist etwas ganz Verschiedenes.
 
 [19[107]](javascript:;)
 -----------------------
 
-Die unbewußten Schlüsse erregen mein Bedenken: es wird wohl jenes Übergehn von Bild zu Bild sein: das letzterreichte Bild wirkt dann als Reiz und
+Die unbewußten **Schlüsse** erregen mein Bedenken: es wird wohl jenes Übergehn von **Bild** zu **Bild** sein: das letzterreichte Bild wirkt dann als Reiz und
 Motiv.
 
-Das unbewußte Denken muß sich ohne Begriffe vollziehn: also in Anschauungen.
+Das unbewußte Denken muß sich ohne Begriffe vollziehn: also in **Anschauungen**.
 
 Dies ist aber das Schlußverfahren des beschaulichen Philosophen und des Künstlers. Er thut dasselbe, was
 Jeder in physiologischen persönlichen Antrieben thut, übertragen auf eine unpersönliche Welt.
 
-Dieses Bilderdenken ist nicht von vorn herein streng logischer Natur, aber doch mehr
+Dieses Bilderdenken ist nicht von vorn herein streng **logischer** Natur, aber doch mehr
 oder weniger logisch. Der Philosoph bemüht sich dann, an Stelle des Bilderdenkens ein Begriffsdenken zu
 setzen. Die Instinkte scheinen auch ein solches Bilderdenken zu sein, das zuletzt zum Reiz und Motiv wird.
 
@@ -1500,7 +1497,7 @@ Willensfreiheit durchbrechen.
 -----------------------
 
 Zur Theorie der Moral: in der Politik anticipirt oft der Staatsmann das Thun seines Gegners und thut die That
-vorher: „wenn ich sie nicht thue, thut er sie“. Eine Art Nothwehr als politischer
+vorher: „wenn ich sie nicht thue, thut er sie“. Eine Art **Nothwehr** als politischer
 Grundsatz. Standpunkt des Kriegs.
 
 [19[110]](javascript:;)
@@ -1509,7 +1506,7 @@ Grundsatz. Standpunkt des Kriegs.
 Die alten Griechen ohne normative Theologie: jeder hat das Recht daran zu dichten und er kann glauben was er
 will.
 
-Die ungeheure Masse philosophischen Denkens bei den Griechen (mit der Fortsetzung als
+Die ungeheure **Masse** philosophischen Denkens bei den Griechen (mit der Fortsetzung als
 Theologie durch alle Jahrhunderte).
 
 Die großen logischen Kräfte erweisen sich z.B. im Ordnen der Kultsphären der einzelnen Städte.
@@ -1517,14 +1514,14 @@ Die großen logischen Kräfte erweisen sich z.B. im Ordnen der Kultsphären der 
 [19[111]](javascript:;)
 -----------------------
 
-Die Orphiker unplastisch in ihren Phantasmen, grenzen an die Allegorie.
+Die Orphiker **unplastisch** in ihren Phantasmen, grenzen an die Allegorie.
 
 Logische — — —
 
 [19[112]](javascript:;)
 -----------------------
 
-Die Götter der Stoiker bekümmern sich nur um das Große, vernachlässigen das Kleine und
+Die Götter der Stoiker bekümmern sich nur um das **Große**, vernachlässigen das Kleine und
 Einzelne.
 
 [19[113]](javascript:;)
@@ -1533,7 +1530,7 @@ Einzelne.
 Schopenhauer leugnet die Wirksamkeit der moralischen Philosophie auf die Moralitäten: wie der Künstler nicht
 nach Begriffen schaffe. Merkwürdig! Es ist wahr, jeder Mensch ist schon ein intelligibles Wesen (durch
 zahllose Generationen bedingt?). Aber das stärkere Erregen bestimmter Reizempfindungen durch Begriffe wirkt
-doch stärkend für diese moralischen Kräfte. Es bildet sich nichts Neues, aber es
+doch **stärkend** für diese moralischen Kräfte. Es bildet sich nichts Neues, aber es
 concentrirt sich nach einer Seite hin die schaffende Energie. Z.B. der kategorische Imperativ hat die
 uneigennützige Tugendempfindung sehr bestärkt.
 
@@ -1553,7 +1550,7 @@ Die höchste Gesetzmäßigkeit der Welt, aber doch kein Optimismus bei Heraclit.
 -----------------------
 
 Der Prozeß aller Religion und Philosophie und Wissenschaft gegenüber der Welt: er beginnt mit den gröbsten
-Anthropomorphismen und hört nie auf sich zu verfeinern.
+Anthropomorphismen und **hört nie auf sich zu verfeinern**.
 
 Der einzelne Mensch betrachtet sogar das Sternensystem als ihm dienend oder mit ihm im Zusammenhang.
 
@@ -1568,7 +1565,7 @@ Dies drückte Thales in seinem Satz aus: daß alles Wasser sei.
 
 |  |  |
 | --- | --- |
-| Bezieht sich die Intuition auf die Gattungsbegriffe oder auf die vollendeten Typen? Aber der Gattungsbegriff bleibt immer weit hinter einem guten Exemplar zurück, der Vollkommenheitstypus geht über die Wirklichkeit hinaus. | |
+| Bezieht sich die Intuition auf die Gattungsbegriffe oder auf die vollendeten **Typen**? Aber der Gattungsbegriff bleibt immer weit hinter einem guten Exemplar zurück, der Vollkommenheitstypus geht über die Wirklichkeit hinaus. | |
 | Ethische Anthropomorphismen: | Anaximander: Gericht.  Heraklit: Gesetz.  Empedokles: Liebe und Haß. |
 | Logische Anthropomorphismen: | Parmenides: nur Sein.  Anaxagoras: νοῦς  Pythagoras: alles Zahl. |
 
@@ -1583,15 +1580,15 @@ nirgends
 *lies:*nirgends  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- bei den Griechen: sie füllen den größten
+ bei den **Griechen**: sie füllen den größten
 Zeitraum aus, sie haben wirklich alle Typen erzeugt.
 
-Es sind die Entdecker der Logik.
+Es sind die Entdecker der **Logik**.
 
 Hat nicht die Sprache schon die Befähigung des Menschen zur Erzeugung der Logik verrathen?
 
 Gewiß, es ist die bewunderungswürdigste logische Operation und Distinktion. Aber sie ist nicht auf einmal
-geworden, sondern endlos langer Zeiträume logisches Ergebniß. Hier ist an die Entstehung
+geworden, sondern endlos langer Zeiträume **logisches** Ergebniß. Hier ist an die Entstehung
 der Instinkte zu denken: ganz allmählich erwachsen.
 
 Die geistige Thätigkeit von Jahrtausenden in der Sprache niedergelegt.
@@ -1605,7 +1602,7 @@ ganz einfach, d.h. so oberflächlich als er selbst ist.
 Er geht von sich aus, von dem allerspätesten Resultat der Natur, und denkt sich die Kräfte, die Urkräfte so,
 wie das ist, was in sein Bewußtsein kommt.
 
-Er nimmt die Wirkungen der complicirtesten Mechanismen, des Gehirns, an, als seien die
+Er nimmt die **Wirkungen der complicirtesten Mechanismen**, des Gehirns, an, als seien die
 Wirkungen seit Uranfang gleicher Art. Weil dieser complicirte Mechanismus etwas Verständiges in kurzer Zeit
 hervorbringt, nimmt er das Dasein der Welt für sehr jung: es kann den
 
@@ -1618,7 +1615,7 @@ Schöpfer nicht so viel Zeit gekostet haben, meint er.
 So glaubt er mit dem Wort „Instinkt“ irgendetwas erklärt und er überträgt wohl gar die unbewußten
 Zweckhandlungen auf das Urwerden der Dinge.
 
-Zeit Raum und Kausalitätsempfindung scheint mit der ersten Empfindung gegeben zu
+Zeit Raum und Kausalitätsempfindung scheint mit der ersten **Empfindung** gegeben zu
 sein.
 
 Der Mensch kennt die Welt in dem Grade, als er sich kennt: d.h. ihre Tiefe entschleiert sich ihm in dem
@@ -1627,8 +1624,8 @@ Grade, als er über sich und seine Komplicirtheit erstaunt.
 [19[119]](javascript:;)
 -----------------------
 
-Es muß durchaus zu zeigen sein, daß alles Vorhandene und Seiende irgendwann nicht war
-und deshalb auch irgendwann nicht sein wird. Das Werden Heraclits.
+Es muß durchaus zu zeigen sein, daß alles Vorhandene und Seiende irgendwann **nicht war**
+und deshalb auch irgendwann **nicht sein wird**. Das Werden Heraclits.
 
 [19[120]](javascript:;)
 -----------------------
@@ -1639,7 +1636,7 @@ rationell als die mechanischen: d.h. wir kennen weder den Stoß, noch die Schwer
 [19[121]](javascript:;)
 -----------------------
 
-Wir kennen nicht das wahre Wesen einer einzigen Kausalität.
+Wir kennen nicht das wahre Wesen **einer einzigen Kausalität**.
 
 Absolute Skepsis: Nothwendigkeit der Kunst und Illusion.
 
@@ -1652,7 +1649,7 @@ Sonnensystem rotirt.
 [19[123]](javascript:;)
 -----------------------
 
-Zu erweisen ist weder die metaphysische, noch die ethische, noch die aesthetische
+Zu **erweisen** ist weder die metaphysische, noch die ethische, noch die aesthetische
 Bedeutung des Daseins.
 
 [19[124]](javascript:;)
@@ -1664,17 +1661,17 @@ begriffen — Heraklit!
 [19[125]](javascript:;)
 -----------------------
 
-Es ist zu beweisen, daß alle Weltconstruktionen Anthropomorphismen sind: ja alle
+Es ist zu **beweisen**, daß alle Weltconstruktionen Anthropomorphismen sind: ja alle
 Wissenschaften, wenn Kant Recht hat. Freilich giebt es hier einen Cirkelschluß — haben die Wissenschaften
 Recht, so stehen wir nicht auf Kant’s Grundlage: hat Kant Recht, so haben die Wissenschaften Unrecht.
 
-Gegen Kant ist dann immer noch einzuwenden, daß, alle seine Sätze zugegeben, doch noch die volle Möglichkeit bestehen bleibt, daß die Welt so ist, wie sie uns erscheint. Persönlich ist
+Gegen Kant ist dann immer noch einzuwenden, daß, alle seine Sätze zugegeben, doch noch die volle **Möglichkeit** bestehen bleibt, daß die Welt so ist, wie sie uns erscheint. Persönlich ist
 übrigens diese ganze Position unbrauchbar. In dieser Skepsis kann niemand leben.
 
-Wir müssen über diese Skepsis hinaus, wir müssen sie vergessen! Wie viel müssen wir
+Wir müssen über diese Skepsis hinaus, wir müssen sie **vergessen**! Wie viel müssen wir
 nicht vergessen in dieser Welt! Kunst, die Idealgestalt, die Temperatur.
 
-Nicht im Erkennen, im Schaffen liegt unser Heil! Im höchsten
+Nicht im **Erkennen**, im **Schaffen** liegt unser Heil! Im höchsten
 Scheine, in der edelsten Wallung liegt unsre Größe. Geht uns das Weltall nichts an, so wollen wir das Recht
 haben es zu verachten.
 
@@ -1682,8 +1679,8 @@ haben es zu verachten.
 -----------------------
 
 Furchtbare Einsamkeit des letzten Philosophen! Ihn umstarrt die Natur, Geier schweben über ihm. Und so ruft
-er in die Natur: Gieb Vergessen! Vergessen! — Nein, er erträgt das Leiden als Titan — bis die
-Versöhnung ihm geboten wird in der höchsten tragischen Kunst.
+er in die Natur: Gieb Vergessen! Vergessen! — **Nein, er erträgt das Leiden als Titan — bis die
+Versöhnung ihm geboten wird in der** höchsten tragischen Kunst.
 
 [19[127]](javascript:;)
 -----------------------
@@ -1755,7 +1752,7 @@ Einer
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  stirbt — der Mensch. — Und doch! Ich höre dich noch, geliebte
-Stimme! Es stirbt noch Einer außer mir, dem letzten Menschen, in diesem Weltall: der letzte Seufzer, dein Seufzer, stirbt mit mir, das hingezogene Wehe! Wehe! geseufzt um mich, der
+Stimme! Es stirbt noch Einer außer mir, dem letzten Menschen, in diesem Weltall: der letzte Seufzer, **dein** Seufzer, stirbt mit mir, das hingezogene Wehe! Wehe! geseufzt um mich, der
 Wehemenschen letzten, Oedipus.
 
 [19[132]](javascript:;)
@@ -1767,7 +1764,7 @@ sich auf Qualitäten, die wir für ewig halten: moralisch, künstlerisch, religi
 Mit den Instinkten kommt man keinen Schritt weiter, um die Zweckmäßigkeit zu erklären. Denn eben diese
 Instinkte sind bereits das Erzeugniß endlos lang fortgesetzter Prozesse.
 
-Der Wille objektivirt sich nicht adäquat, wie Schopenhauer sagt: so scheint es, wenn man
+Der Wille objektivirt sich nicht **adäquat**, wie Schopenhauer sagt: so scheint es, wenn man
 von den vollendetsten Formen ausgeht.
 
 Auch dieser Wille ist ein höchst complicirter Letzter
@@ -1776,22 +1773,22 @@ Auch dieser Wille ist ein höchst complicirter Letzter
 *lies:*complicirter Letzter  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- in der Natur. Nerven vorausgesetzt.
+ in der Natur. **Nerven** vorausgesetzt.
 
 Und selbst die Schwerkraft: ist doch kein einfaches Phänomen, sondern wieder Wirkung von einer
 Sonnensystembewegung, von Aether usw.
 
 Und der mechanische Stoß ist auch etwas Complicirtes.
 
-Der Weltaether als Urstoff.
+**Der Weltaether als Urstoff.**
 
 [19[133]](javascript:;)
 -----------------------
 
 Alles Erkennen ist ein Wiederspiegeln in ganz bestimmten Formen, die von vornherein nicht existiren. Die
-Natur kennt keine Gestalt, keine Größe, sondern nur für ein
-Erkennendes treten die Dinge so groß und so klein auf. Das Unendliche in der Natur: sie
-hat keine Grenze, nirgends. Nur für uns giebt es Endliches. Die Zeit in’s Unendliche
+Natur kennt keine **Gestalt**, keine **Größe**, sondern nur für ein
+Erkennendes treten die Dinge so groß und so klein auf. Das **Unendliche** in der Natur: sie
+hat keine Grenze, nirgends. Nur für uns giebt es Endliches. Die Zeit in’s **Unendliche**
 theilbar.
 
 [19[134]](javascript:;)
@@ -1799,7 +1796,7 @@ theilbar.
 
 |  |  |
 | --- | --- |
-| Von Thales bis Sokrates — lauter Übertragungen des Menschen auf die Natur — ungeheure Schattenspiele des Menschen auf der Natur, wie auf Gebirgen!  Sokrates und Plato. Erkennen und Gut universal. Das Schöne in dem Anfang. Ideen des Künstlers. | |
+| Von Thales bis Sokrates — lauter Übertragungen des Menschen auf die Natur — ungeheure Schattenspiele des Menschen auf der Natur, wie auf Gebirgen!  Sokrates und Plato. Erkennen und Gut universal. Das **Schöne** in dem Anfang. **Ideen** des Künstlers. | |
 | Pythagoreer | die Zahl. |
 | Demokrit | der Stoff. |
 | Pythagoras | der Mensch nicht Produkt der Vergangenheit, sondern Wiederkehr. Einheit alles Lebendigen. |
@@ -1809,32 +1806,31 @@ theilbar.
 | Heraclit | die bildende Kraft des Künstlers uranfänglich. |
 | Anaximander | Gericht und Strafe universal. |
 | Thales. |  |
-| Vorher die Götter und die Natur. Die Religionen sind nur unverhülltere Ausdrücke. Astrologie. Der Mensch als Zweck. „Weltgeschichte.“  Kant’s Ding an sich als Kategorie.  Der Philosoph ist die Fortsetzung des Triebes, mit dem wir fortwährend, durch anthropomorphische Illusionen, mit der Natur verkehren. Das Auge. Zeit. | |
+| Vorher die Götter und die Natur. Die Religionen sind nur unverhülltere Ausdrücke. Astrologie. Der Mensch als Zweck. „Weltgeschichte.“  Kant’s Ding an sich als Kategorie.  **Der Philosoph ist die Fortsetzung des Triebes, mit dem wir fortwährend, durch anthropomorphische Illusionen, mit der Natur verkehren.** Das Auge. Zeit. | |
 
 [19[135]](javascript:;)
 -----------------------
 
-Der Philosoph in den Netzen der Sprache eingefangen.
+Der Philosoph in den Netzen der **Sprache** eingefangen.
 
 [19[136]](javascript:;)
 -----------------------
 
-Ich will die ungeheure Entwicklung des einen
-Philosophen, der die Erkenntniß will, des Menschheits-Philosophen, schildern und nachempfinden.
+Ich will die **ungeheure Entwicklung** des einen**Philosophen**, der die Erkenntniß will, des Menschheits-Philosophen, schildern und nachempfinden.
 
 Die meisten stehen so unter der Leitung des Triebes, daß sie gar nicht merken, was geschieht. Ich will es
 sagen und merken lassen, was geschieht.
 
-Der eine Philosoph ist hier identisch mit allem Wissenschaftsstreben. Denn alle
+Der **eine** Philosoph ist hier identisch mit allem Wissenschaftsstreben. Denn alle
 Wissenschaften ruhen nur auf dem allgemeinen Fundamente des Philosophen.
 
-Die ungeheure Einheit in allen Erkenntnißtrieben nachzuweisen: der zerbrochene
+Die ungeheure **Einheit** in allen Erkenntnißtrieben nachzuweisen: der zerbrochene
 Gelehrte.
 
 [19[137]](javascript:;)
 -----------------------
 
-Aufgaben:
+**Aufgaben:**
 
 Die sogenannten Abstraktionen.
 
@@ -1843,13 +1839,13 @@ Formen als Oberflächen.
 [19[138]](javascript:;)
 -----------------------
 
-Apologie der Kunst.
+**Apologie der Kunst.**
 
   
 
-Einleitung.
+**Einleitung.**
 
-Nothlüge und die veracité du dieu des Descartes.
+**Nothlüge** und die **veracité du dieu** des Descartes.
 
 Plato gegen die Kunst.
 
@@ -1864,7 +1860,7 @@ Plato gegen die Kunst.
 [19[139]](javascript:;)
 -----------------------
 
-Die Unendlichkeit ist die uranfängliche Thatsache: es wäre nur zu erklären, woher das
+Die **Unendlichkeit** ist die uranfängliche Thatsache: es wäre nur zu erklären, woher das
 Endliche stamme. Aber der Gesichtspunkt des Endlichen ist rein sinnlich d.h. eine Täuschung.
 
 Wie kann man von einer Bestimmung der Erde zu reden wagen!
@@ -1876,10 +1872,10 @@ In der unendlichen Zeit und dem unendlichen Raum
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  giebt es keine Ziele:
-was da ist, ist ewig da in irgend welchen Formen. Was für eine methaphysische Welt es
+**was da ist, ist ewig da** in irgend welchen Formen. Was für eine methaphysische Welt es
 geben soll, ist gar nicht abzusehn.
 
-Ohne jede derartige Anlehnung muß die Menschheit stehen können — ungeheure Aufgabe der
+Ohne jede derartige Anlehnung muß die Menschheit **stehen** können — ungeheure Aufgabe der
 Künstler!
 
 [19[140]](javascript:;)
@@ -1887,7 +1883,7 @@ Künstler!
 
 Zeit an sich ist Unsinn: nur für ein empfindendes Wesen giebt es Zeit. Ebenso Raum.
 
-Alle Gestalt ist dem Subjekt zugehörig. Es ist das Erfassen der Oberflächen durch Spiegel. Alle Qualitäten müssen wir abziehn.
+Alle **Gestalt** ist dem Subjekt zugehörig. Es ist das Erfassen der **Oberflächen** durch Spiegel. Alle Qualitäten müssen wir abziehn.
 
 Wir können uns die Dinge nicht denken, wie sie sind, weil wir sie eben nicht denken dürften.
 
@@ -1904,50 +1900,50 @@ Alles Wissen entsteht durch Separation, Abgrenzung, Beschränkung; kein absolute
 
 Lust und Unlust als universale Empfindungen? Ich glaube nicht.
 
-Aber wo treten die künstlerischen Kräfte auf? Gewiß im Krystall. Die Bildung der Gestalt: doch ist da nicht ein anschauendes Wesen vorauszusetzen?
+Aber wo treten die künstlerischen Kräfte auf? Gewiß im Krystall. Die Bildung der **Gestalt**: doch ist da nicht ein anschauendes Wesen vorauszusetzen?
 
 [19[143]](javascript:;)
 -----------------------
 
-Die Musik als Supplement der Sprache: viele Reize, und ganze Reizzustände, die die Sprache nicht darstellen kann, giebt die Musik wieder.
+Die **Musik**als**Supplement der Sprache**: viele **Reize**, und ganze Reizzustände, die die Sprache nicht darstellen kann, giebt die Musik wieder.
 
 [19[144]](javascript:;)
 -----------------------
 
-Es giebt keine Form in der Natur, denn es giebt kein Inneres und kein Äußeres.
+Es giebt keine **Form** in der Natur, denn es giebt kein Inneres und kein Äußeres.
 
-Alle Kunst beruht auf dem Spiegel des Auges.
+Alle Kunst beruht auf dem **Spiegel** des Auges.
 
 [19[145]](javascript:;)
 -----------------------
 
-Die menschliche Sinnenerkenntniß ist sicherlich auf Schönheit aus,
+Die menschliche **Sinnenerkenntniß** ist sicherlich auf **Schönheit** aus,
 sie verklärt die Welt. Was haschen wir nach einer anderen? Was wollen wir über unsere Sinne hinaus? Die
-rastlose Erkenntniß geht in’s Oede und Häßliche. — Zufriedensein mit der künstlerisch
+rastlose Erkenntniß geht in’s Oede und Häßliche. — **Zufriedensein** mit der künstlerisch
 angeschauten Welt!
 
 [19[146]](javascript:;)
 -----------------------
 
-Sobald man das Ding an sich erkennen will, so ist es eben diese
-Welt — erkennen ist nur möglich, als ein Wiederspiegeln und Sichmessen an einem
+Sobald man das Ding an sich **erkennen** will, so **ist es eben diese
+Welt** — erkennen ist nur möglich, als ein Wiederspiegeln und Sichmessen an **einem**
 Maße (Empfindung).
 
-Wir wissen, was die Welt ist: absolute und unbedingte Erkenntniß ist Erkennenwollen ohne
+Wir **wissen**, was die Welt ist: absolute und unbedingte Erkenntniß ist Erkennenwollen ohne
 Erkenntniß.
 
 [19[147]](javascript:;)
 -----------------------
 
-Die sogenannten unbewußten Schlüsse sind zurückzuführen auf das alles
-aufbewahrende Gedächtniß, das Erfahrungen paralleler Art darbietet und somit die Folgen einer Handlung
-schon kennt. Es ist nicht Anticipation der Wirkung, sondern das Gefühl: gleiche Ursachen
+Die sogenannten **unbewußten Schlüsse** sind zurückzuführen auf das **alles
+aufbewahrende Gedächtniß**, das Erfahrungen paralleler Art darbietet und somit die Folgen einer Handlung
+schon **kennt**. Es ist nicht Anticipation der Wirkung, sondern das Gefühl: gleiche Ursachen
 gleiche Wirkungen, hervorgebracht durch ein Gedächtnißbild.
 
 [19[148]](javascript:;)
 -----------------------
 
-Gar zu leicht verwechseln wir Kants Ding an sich und das wahre Wesen der Dinge der Buddhisten: d.h. die Wirklichkeit zeigt ganz Schein oder eine der Wahrheit ganz adäquate Erscheinung.
+Gar zu leicht verwechseln wir **Kants** Ding an sich und das wahre Wesen der Dinge der **Buddhisten**: d.h. die Wirklichkeit zeigt ganz **Schein** oder eine der **Wahrheit ganz adäquate Erscheinung**.
 
 Schein als Nichtsein und Erscheinung des Seienden werden mit einander verwechselt.
 
@@ -1957,7 +1953,7 @@ In das Vacuum setzen sich alle möglichen Superstitionen.
 -----------------------
 
 Der Gang der Philosophie: es werden zuerst Menschen als Urheber aller Dinge gedacht — allmählich erklärt man
-sich die Dinge nach Analogie einzelner menschlicher Eigenschaften — zuletzt langt man bei der Empfindung an. Große Frage: ist die Empfindung eine Urthatsache aller Materie?
+sich die Dinge nach Analogie einzelner menschlicher Eigenschaften — zuletzt langt man bei der **Empfindung** an. Große Frage: ist die Empfindung eine Urthatsache aller Materie?
 
 Anziehung und Abstoßung?
 
@@ -1974,13 +1970,13 @@ gegenwärtige Kultur um nichts höher.
 -----------------------
 
 Die Philosophie anzuschauen wie die Astrologie: nämlich das Schicksal der Welt mit dem des Menschen zu
-verknüpfen: d.h. die höchste Evolution des Menschen als die höchste Evolution der Welt zu betrachten. Von diesem philosophischen Triebe aus empfangen alle Wissenschaften
+verknüpfen: d.h. die höchste Evolution des **Menschen** als die höchste Evolution der **Welt** zu betrachten. Von diesem philosophischen Triebe aus empfangen alle Wissenschaften
 ihre Nahrung. Die Menschheit vernichtet erst die Religionen, dann die Wissenschaft.
 
 [19[152]](javascript:;)
 -----------------------
 
-Der Schönheitssinn zusammenhängend mit der Zeugung.
+Der **Schönheits**sinn zusammenhängend mit der Zeugung.
 
 [19[153]](javascript:;)
 -----------------------
@@ -1991,17 +1987,17 @@ doch nur: man denke daß ein Kunstwerk besteht und ein dummer Mensch, es zu betr
 als Gehirnphänomen für jenen Dummen, nur soweit er selbst noch Künstler ist und die Formen mitbringt. Er
 könnte kühn behaupten: außer meinem Gehirn hat es gar keine Realität.
 
-Die Formen des Intellekts sind aus der Materie entstanden, sehr allmählich. Es ist an
+Die **Formen** des Intellekts sind aus der Materie entstanden, sehr allmählich. Es ist an
 sich wahrscheinlich, daß sie streng der Wahrheit adäquat sind. Woher sollte so ein Apparat, der etwas Neues
 erfindet, gekommen sein!
 
-Die Hauptfähigkeit scheint mir die Gestalt zu percipiren, d.h. beruhend auf dem Spiegel.
-Raum und Zeit sind nur gemessene, an einem Rhythmus gemessene Dinge.
+Die Hauptfähigkeit scheint mir die **Gestalt** zu percipiren, d.h. beruhend auf dem Spiegel.
+Raum und Zeit sind nur **gemessene**, an einem Rhythmus gemessene Dinge.
 
 [19[154]](javascript:;)
 -----------------------
 
-Ihr sollt nicht in eine Metaphysik flüchten, sondern sollt euch der werdenden Kultur
+Ihr sollt nicht in eine Metaphysik flüchten, sondern sollt euch der **werdenden Kultur**
 thätig opfern! Deshalb bin ich streng gegen den Traumidealism
 
 *Erratum:*Traumidealismus  
@@ -2015,27 +2011,27 @@ thätig opfern! Deshalb bin ich streng gegen den Traumidealism
 
 Alles Erkennen ist ein Messen an einem Maßstabe. Ohne einen Maßstab, d.h. ohne jede Beschränkung, giebt es
 kein Erkennen. So steht es im Bereiche der intellektuellen Formen eben so, wie wenn ich nach dem Werthe des
-Erkennens überhaupt frage: ich muß irgend eine Position nehmen, die höher steht oder die
-wenigstens fest ist, um als Maßstab zu dienen.
+Erkennens überhaupt frage: ich muß irgend eine Position nehmen, die **höher** steht oder die
+wenigstens **fest** ist, um als Maßstab zu dienen.
 
 [19[156]](javascript:;)
 -----------------------
 
-Führen wir die ganze intellektuelle Welt zurück bis zum Reiz und zur Empfindung, so erklärt diese dürftigste Perception am wenigsten.
+Führen wir die ganze intellektuelle Welt zurück bis zum **Reiz** und zur **Empfindung**, so erklärt diese dürftigste Perception am wenigsten.
 
 Der Satz: es giebt keine Erkenntniß ohne ein Erkennendes oder kein Subjekt ohne Objekt und kein Objekt ohne
 Subjekt, ist ganz wahr, aber die äußerste Trivialität.
 
 Wir können vom Ding an sich nichts aussagen, weil wir den Standpunkt des Erkennenden d.h. des Messenden uns
-unter den Füßen weggezogen haben. Eine Qualität existirt für uns d.h. gemessen an uns.
+unter den Füßen weggezogen haben. Eine Qualität existirt **für uns** d.h. gemessen an uns.
 Ziehen wir das Maaß weg, was ist dann noch Qualität!
 
-Was die Dinge sind, ist aber nur zu beweisen durch ein daneben gestelltes messendes
+Was die Dinge **sind**, ist aber nur zu beweisen durch ein daneben gestelltes messendes
 Subjekt. Ihre Eigenschaften an sich gehen uns nichts an, aber insofern sie auf uns wirken.
 
 Nun ist zu fragen: wie entstand ein solches messendes Wesen?
 
-Die Pflanze ist auch ein messendes Wesen.
+Die Pflanze ist auch ein **messendes Wesen**.
 
 [19[157]](javascript:;)
 -----------------------
@@ -2049,17 +2045,17 @@ Perceptionsapparates.
 Für die Pflanze ist die Welt so und so — für uns so und so. Vergleichen wir die beiden Perceptionskräfte, so
 gilt uns unsre Auffassung der Welt als richtiger d.h. der Wahrheit entsprechender. Nun hat sich der Mensch
 langsam entwickelt und die Erkenntniß entwickelt sich noch: also das Weltbild wird immer wahrer und
-vollständiger. Natürlich ist es nur eine Wiederspiegelung, eine immer deutlichere. Der
+vollständiger. Natürlich ist es nur eine **Wiederspiegelung**, eine immer deutlichere. Der
 Spiegel selbst ist aber nichts ganz Fremdes und dem Wesen der Dinge Ungehöriges, sondern selbst langsam
 entstanden als Wesen der Dinge gleichfalls. Wir sehen ein Streben, den Spiegel immer adäquater zu machen: den
 natürlichen Prozeß setzt die Wissenschaft fort. — So spiegeln sich die Dinge immer reiner: allmähliche
-Befreiung vom allzu Anthropomorphischen. Für die Pflanze ist die ganze Welt Pflanze, für
+Befreiung vom allzu Anthropomorphischen. **Für die Pflanze ist die ganze Welt Pflanze**, für
 uns Mensch.
 
 [19[159]](javascript:;)
 -----------------------
 
-Der Stoß, das Einwirken des einen Atoms auf das andre, setzt ebenso Empfindung voraus.
+Der Stoß, das Einwirken des einen Atoms auf das andre, setzt ebenso **Empfindung** voraus.
 Etwas an sich Fremdes kann nicht auf einander wirken.
 
 Nicht das Erwachen der Empfindung, sondern das des Bewußtseins in der Welt, ist das Schwere. Aber doch noch
@@ -2068,14 +2064,14 @@ erklärbar, wenn alles Empfindung hat.
 Wenn alles Empfindung hat, so haben wir ein Durcheinander von kleinsten größeren und größten
 Empfindungscentren. Diese Empfindungscomplexe, größer oder kleiner, wären „Wille“ zu benennen.
 
-Wir machen uns schwer von den Qualitäten los.
+Wir machen uns schwer von den **Qualitäten** los.
 
 [19[160]](javascript:;)
 -----------------------
 
 Von einem unbewußten Ziele der Menschheit zu reden halte ich für falsch. Sie ist kein Ganzes wie ein
 Ameisenhaufen. Vielleicht kann man von dem unbewußten Ziele einer Stadt, eines Volkes reden: aber was heißt
-es, von dem unbewußten Ziele aller Ameisenhaufen der Erde zu reden!
+es, von dem unbewußten Ziele **aller Ameisenhaufen** der Erde zu reden!
 
 [19[161]](javascript:;)
 -----------------------
@@ -2086,19 +2082,19 @@ die Schlußoperation d.h. das Gefühl der Kausalität. Von der Kausalitätsempfi
 Das Gedächtniß bewahrt die gemachten Reflexbewegungen.
 
 Das Bewußtsein hebt an mit der Kausalitätsempfindung d.h. das Gedächtniß ist älter als das Bewußtsein. Z.B.
-bei der Mimosa haben wir Gedächtniß, aber kein Bewußtsein. Gedächtniß natürlich ohne Bild, bei der Pflanze.
+bei der Mimosa haben wir Gedächtniß, aber kein Bewußtsein. Gedächtniß natürlich ohne **Bild**, bei der Pflanze.
 
-Aber Gedächtniß muß dann zum Wesen der Empfindung gehören, also
-eine Ureigenschaft der Dinge <sein>. Dann aber auch die Reflexbewegung.
+Aber **Gedächtniß** muß dann zum Wesen der **Empfindung** gehören, also
+eine Ureigenschaft der Dinge &amp;lt;sein&amp;gt;. Dann aber auch die Reflexbewegung.
 
 Die Unverbrüchlichkeit der Naturgesetze heißt doch: Empfindung und Gedächtniß ist im Wesen der Dinge. Daß
 sich ein Stoff, bei der Berührung mit einem anderen, gerade so entscheidet, ist Gedächtniß und
-Empfindungssache. Irgendwann hat er es gelernt, d.h. die Thätigkeiten der Stoffe sind gewordene Gesetze. Dann aber muß die Entscheidung gegeben sein durch Lust und Unlust.
+Empfindungssache. Irgendwann hat er es **gelernt**, d.h. die Thätigkeiten der Stoffe sind **gewordene Gesetze**. Dann aber muß die Entscheidung gegeben sein durch Lust und Unlust.
 
-Wenn aber Lust Unlust Empfindung Gedächtniß Reflexbewegung zum Wesen der Materie gehört, dann reicht die Erkenntniß des Menschen viel tiefer in’s Wesen der Dinge.
+Wenn aber Lust Unlust Empfindung Gedächtniß Reflexbewegung zum Wesen der Materie gehört, dann **reicht die Erkenntniß des Menschen viel tiefer in’s Wesen der Dinge**.
 
-Die ganze Logik in der Natur löst sich dann auf in ein Lust- und
-Unlustsystem. Jedes greift nach der Lust und flieht die Unlust, das sind die ewigen
+Die ganze **Logik** in der Natur löst sich dann auf in ein **Lust**- und
+**Unlust**system. Jedes greift nach der Lust und flieht die Unlust, das sind die ewigen
 Naturgesetze.
 
 [19[162]](javascript:;)
@@ -2107,7 +2103,7 @@ Naturgesetze.
 Gedächtniß hat nichts mit Nerven, mit Gehirn zu thun. Es ist eine Ureigenschaft. Denn der Mensch trägt das
 Gedächtniß aller vorigen Generationen mit sich herum.
 
-Das Gedächtnißbild etwas sehr Künstliches und Seltenes.
+Das Gedächtniß**bild** etwas sehr Künstliches und **Seltenes**.
 
 [19[163]](javascript:;)
 -----------------------
@@ -2118,13 +2114,13 @@ Naturgesetze die Rede sein.
 [19[164]](javascript:;)
 -----------------------
 
-Ist es ein unbewußter Schluß? Schließt die Materie? Sie empfindet und kämpft für ihr
-individuelles Sein. Der „Wille“ zeigt sich erstens in der Veränderung, d.h. es giebt eine
-Art freien Willen, welcher die Essenz eines Dinges modificirt, aus Lust und der Flucht
-vor Unlust. — Die Materie hat eine Anzahl Qualitäten, die proteusartig sind, die sie je
+Ist es ein unbewußter Schluß? **Schließt** die Materie? Sie empfindet und kämpft für ihr
+individuelles Sein. Der „Wille“ zeigt sich erstens in der **Veränderung**, d.h. es giebt eine
+Art **freien Willen**, welcher die Essenz eines Dinges modificirt, aus Lust und der Flucht
+vor Unlust. — Die Materie hat eine Anzahl Qualitäten, die **proteus**artig sind, die sie je
 nach dem Angriff betont, verstärkt, für das Ganze einsetzt.
 
-Die Qualitäten scheinen nur bestimmte modificirte Thätigkeiten einer Materie zu sein. Je
+Die Qualitäten scheinen nur bestimmte modificirte Thätigkeiten **einer** Materie zu sein. Je
 nach den Maaß- und Zahlproportionen auftretend.
 
 [19[165]](javascript:;)
@@ -2133,31 +2129,31 @@ nach den Maaß- und Zahlproportionen auftretend.
 Wir kennen nur
 eine
 
-*Erratum:*eine  
+*Erratum:***eine**  
 *lies:*eine  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Realität
+ **Realität**
 
 *Erratum:*Realität  
-*lies:*Realität  
+*lies:***Realität**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  —
-die der Gedanken. Wie wenn das das Wesen der Dinge wäre!
+die der **Gedanken**. Wie wenn das das Wesen der Dinge wäre!
 
-Wenn Gedächtniß- und Empfindung das Material der Dinge wären!
+Wenn Gedächtniß- und Empfindung das **Material** der Dinge wären!
 
 [19[166]](javascript:;)
 -----------------------
 
-Der Gedanke giebt uns den Begriff einer ganz neuen Form der Realität: er ist aus
+Der Gedanke giebt uns den Begriff einer ganz neuen Form der **Realität**: er ist aus
 Empfindung und Gedächtniß zusammengesetzt.
 
 [19[167]](javascript:;)
 -----------------------
 
-Der Mensch in der Welt könnte sich wirklich begreifen als Einer aus einem Traume, der selbst mitgeträumt wird.
+Der Mensch in der Welt könnte sich wirklich begreifen als Einer aus einem **Traume**, der selbst mitgeträumt wird.
 
 [19[168]](javascript:;)
 -----------------------
@@ -2176,7 +2172,7 @@ welche die Griechen zu ihrer Kultur gekommen sind.
 -----------------------
 
 Die Philosophen sind die vornehmste Klasse der Großen des Geistes. Sie haben kein Publikum, sie brauchen den
-Ruhm. Ihre höchsten Freuden mitzutheilen, brauchen sie den Beweis:
+**Ruhm**. Ihre höchsten Freuden mitzutheilen, brauchen sie den **Beweis**:
 darin sind sie unglücklicher als die Künstler.
 
 [19[171]](javascript:;)
@@ -2196,7 +2192,7 @@ Das Erkennen ist wohl gar ein Ersatz der Kultur.
 -----------------------
 
 Es ist wohl nur die Vereinzelung des Erkennens durch Trennung der Wissenschaften, daß das Erkennen und die
-Kultur einander fremd bleiben können. Im Philosophen berührt sich das Erkennen wieder mit
+Kultur einander fremd bleiben können. Im **Philosophen** berührt sich das Erkennen wieder mit
 der Kultur.
 
 Er umfaßt das Wissen und regt die Frage nach dem Werthe der Erkenntniß auf. Das ist ein Kulturproblem:
@@ -2205,28 +2201,28 @@ Erkenntniß und Leben.
 [19[173]](javascript:;)
 -----------------------
 
-Sind die Verdunkelungen z.B. im Mittelalter wirklich Gesundheitsperioden, etwa
+Sind die **Verdunkelungen** z.B. im Mittelalter wirklich Gesundheitsperioden, etwa
 Schlafenszeiten für den intellektuellen Genius der Menschen?
 
-Order: sind auch die Verdunkelungen Resultate höherer Zwecke? Wenn Bücher ihre fata
+Order: sind auch die **Verdunkelungen** Resultate höherer Zwecke? Wenn Bücher ihre fata
 haben, dann ist wohl auch das Untergehen eines Buchs ein fatum, mit irgend einem Zweck.
 
-Die Zwecke bringen uns in Verwirrung.
+Die **Zwecke** bringen uns in **Verwirrung**.
 
 [19[174]](javascript:;)
 -----------------------
 
-Im Philosophen setzen sich Thätigkeiten fort, durch Metapher. Das Streben nach einheitlichem Beherrschen. Jedes Ding strebt ins Unermeßliche, der Individualcharakter in der Natur
-ist selten fest, sondern immer weiter greifend. Ob langsam oder schnell, ist eine höchst menschliche Frage. Wenn man nach der Seite des unendlich Kleinen hinsieht,
-ist jede Entwicklung immer eine unendlich schnelle.
+Im Philosophen setzen sich Thätigkeiten fort, durch Metapher. Das Streben nach **einheitlichem** Beherrschen. Jedes Ding strebt ins Unermeßliche, der Individualcharakter in der Natur
+ist selten fest, sondern immer weiter greifend. Ob **langsam** oder **schnell**, ist eine höchst menschliche Frage. Wenn man nach der Seite des unendlich Kleinen hinsieht,
+ist jede Entwicklung immer eine **unendlich schnelle**.
 
 [19[175]](javascript:;)
 -----------------------
 
 Was thut den Menschen die Wahrheit!
 
-Es ist das höchste und reinste Leben möglich, im Glauben die Wahrheit zu haben. Der Glaube an
-die Wahrheit ist dem Menschen nöthig.
+Es ist das höchste und reinste Leben möglich, im Glauben die Wahrheit zu haben. Der **Glaube an
+die Wahrheit** ist dem Menschen nöthig.
 
 Die Wahrheit erscheint als sociales Bedürfniß: durch eine Metastase wird sie nachher auf alles angewandt, wo
 sie nicht nöthig ist.
@@ -2234,7 +2230,7 @@ sie nicht nöthig ist.
 Alle Tugenden entstehn aus Nothdurften. Mit der Societät beginnt das Bedürfniß nach Wahrhaftigkeit. Sonst
 lebt der Mensch in ewigen Verschleierungen. Die Staatengründung erregt die Wahrhaftigkeit. —
 
-Der Trieb zur Erkenntniß hat eine moralische Quelle.
+Der Trieb zur Erkenntniß hat eine **moralische** Quelle.
 
 [19[176]](javascript:;)
 -----------------------
@@ -2251,7 +2247,7 @@ Durch häufige Übung erstarkt der Trieb und wird jetzt durch Metastase, unberec
 Hang an sich. Aus einer Übung für bestimmte Fälle wird eine Qualität. — Nun haben wir den Trieb nach
 Erkenntniß.
 
-Diese Verallgemeinerung geschieht durch den dazwischentretenden Begriff. Mit einem falschen Urtheil beginnt diese Qualität — wahr sein heißt immer wahr
+Diese Verallgemeinerung geschieht durch den dazwischentretenden **Begriff**. Mit einem **falschen** Urtheil beginnt diese Qualität — wahr sein heißt **immer** wahr
 sein. Daraus entsteht der Hang nicht in der Lüge zu leben: Beseitigung aller Illusionen.
 
 Aber er wird aus einem Netz in’s andere gejagt.
@@ -2259,7 +2255,7 @@ Aber er wird aus einem Netz in’s andere gejagt.
 Der gute Mensch will nun auch wahr sein und glaubt an die Wahrheit aller Dinge. Nicht nur der Societät,
 sondern der Welt. Somit auch an die Ergründbarkeit. Denn weshalb sollte die Welt ihn täuschen?
 
-Also er überträgt seinen Hang auf die Welt und glaubt, daß auch die Welt wahr gegen ihn sein muß.
+Also er überträgt seinen Hang auf die Welt und glaubt, daß auch die Welt wahr gegen ihn sein **muß**.
 
 [19[178]](javascript:;)
 -----------------------
@@ -2270,7 +2266,7 @@ nöthigen Denk- und Handelnsweise.
 
 Von Natur ist der Mensch nicht zum Erkennen da.
 
-Zwei zu verschiedenen Zwecken nöthige Eigenschaften — die Wahrhaftigkeit — und die Metapher — haben den Hang zur Wahrheit erzeugt. Also ein moralisches Phänomen, aesthetisch
+Zwei zu verschiedenen Zwecken nöthige Eigenschaften — die **Wahrhaftigkeit** — und die **Metapher** — haben den Hang zur Wahrheit erzeugt. Also ein moralisches Phänomen, aesthetisch
 verallgemeinert, erzeugt den intellektuellen Trieb.
 
 Instinkt ist hier eben Gewohnheit, oft so zu schließen und daraus κατὰ ἀνάλογον eine Pflicht überhaupt immer so schließen zu müssen.
@@ -2281,7 +2277,7 @@ Instinkt ist hier eben Gewohnheit, oft so zu schließen und daraus κατὰ ἀ
 Die Natur hat den Menschen in lauter Illusionen gebettet. — Das ist sein eigentliches Element. Formen sieht
 er, Reize empfindet er statt der Wahrheiten. Er träumt, er imaginirt sich Göttermenschen als Natur.
 
-Der Mensch ist zufällig ein erkennendes Wesen geworden, durch die unabsichtliche Paarung
+**Der Mensch ist zufällig ein erkennendes Wesen geworden**, durch die unabsichtliche Paarung
 zweier Qualitäten. Irgendwann wird er aufhören und es wird nichts geschehen sein.
 
 Sie waren es lange nicht und wenn sie selbst aufgehört haben zu existiren, wird sich nichts begeben haben.
@@ -2297,7 +2293,7 @@ was Gedächtniß ist, ist auch Perception des Neuen. Nicht Gedanke auf Gedanke �
 [19[180]](javascript:;)
 -----------------------
 
-Über die Lüge.
+**Über die Lüge.**
 
   
 
@@ -2321,22 +2317,22 @@ Die Verlogenheit und Illusion, in der der Mensch lebt.
 Die Lüge und die Wahrheitsrede — Mythus Poesie.
 
 Die Fundamente alles Großen und Lebendigen ruhen auf der Illusion. Das Wahrheitspathos
-führt zum Untergang. (Da liegt das „Große“.) Vor allem zum Untergang der Kultur.
+führt zum Untergang. (Da liegt das „Große“.) Vor allem zum Untergang der **Kultur**.
 
 Empedokles und die Opfer. Eleaten. Plato braucht zum Staat die Lüge.
 
-Trennung von der Kultur durch Sektenwesen bei den Griechen.
+Trennung von der Kultur durch **Sekten**wesen bei den Griechen.
 
-Wir umgekehrt kehren sektenartig zur Kultur zurück, wir suchen das
+Wir umgekehrt kehren **sektenartig** zur Kultur zurück, wir suchen das
 unermeßliche Erkennen wieder in dem Philosophen zurückzudrängen und diesen wieder von dem Anthropomorphischen
 aller Erkenntniß zu überzeugen.
 
 [19[181]](javascript:;)
 -----------------------
 
-Objektiver Werth der Erkenntniß — sie macht nicht besser. Letzte Weltziele hat sie
+Objektiver Werth der Erkenntniß — sie macht nicht **besser**. Letzte Weltziele hat sie
 nicht. Ihr Entstehen zufällig. Werth der Wahrhaftigkeit. — Doch sie macht besser! Ihr Ziel ist der Untergang.
-Sie opfert auf. Unsere Kunst ist Abbild der desperaten Erkenntniß.
+Sie opfert auf. Unsere **Kunst** ist Abbild der desperaten Erkenntniß.
 
 [19[182]](javascript:;)
 -----------------------
@@ -2347,7 +2343,7 @@ Die Menschheit hat an der Erkenntniß ein schönes Mittel zum Untergang.
 -----------------------
 
 Daß der Mensch so und nicht anders geworden ist, ist doch gewiß sein Werk: daß er so eingetaucht ist in die
-Illusion (Traum) und auf die Oberfläche (Auge) angewiesen ist, ist sein Wesen. Ist es
+Illusion (Traum) und auf die Oberfläche (Auge) angewiesen ist, ist sein **Wesen**. Ist es
 wunderbar, wenn auch die Wahrheitstriebe zuletzt doch wieder auf sein Grundwesen hinauslaufen? —
 
 [19[184]](javascript:;)
@@ -2362,24 +2358,24 @@ noch mehr wenn ein Staatsmann, aus Wahrhaftigkeit, ein Reich zerstört.
 Unsre Gewohnheiten werden zu Tugenden durch eine freie Übertragung ins Reich der Pflicht, d.h. dadurch daß
 wir die Unverbrüchlichkeit mit in den Begriff hineinnehmen; d.h. unsere Gewohnheiten werden dadurch zu
 Tugenden, daß wir das eigne Wohl für geringer halten als ihre Unverbrüchlichkeit — somit durch eine
-Aufopferung des Individuums oder wenigstens durch die vorschwebende Möglichkeit einer solchen
-Aufopferung. — Dort wo das Individuum sich gering zu achten anfängt, beginnt das Reich der Tugenden und
-der Künste — unsere metaphysische Welt. Besonders rein wäre die Pflicht, wenn im Wesen der Dinge dem Moralischen nichts entspräche.
+Aufopferung des Individuums oder wenigstens durch die **vorschwebende Möglichkeit einer solchen
+Aufopferung**. — Dort wo das Individuum sich gering zu achten anfängt, beginnt das Reich der Tugenden und
+der Künste — unsere metaphysische Welt. Besonders **rein** wäre die **Pflicht**, wenn im Wesen der Dinge dem **Moralischen nichts entspräche**.
 
 [19[186]](javascript:;)
 -----------------------
 
 Es wirkt nicht etwa Gedanke auf Gedächtniß, sondern der Gedanke durchläuft zahllose feine Metamorphosen, d.h.
-dem Gedanken entspricht ein Ding an sich, das nun das analoge Ding
+**dem Gedanken** entspricht **ein Ding an sich**, das nun das analoge Ding
 an sich im Gedächtniß erfaßt.
 
 [19[187]](javascript:;)
 -----------------------
 
-Die Individuen sind die Brücken, auf denen das Werden beruht. Alle Qualitäten sind ursprünglich nur einmalige Aktionen, dann, in gleichen Fällen öfter wiederholte, endlich Gewohnheiten. An
+Die Individuen sind die Brücken, auf denen das Werden beruht. Alle Qualitäten sind ursprünglich nur **einmalige Aktionen**, dann, in gleichen Fällen öfter wiederholte, endlich Gewohnheiten. An
 jeder Aktion hat das ganze Wesen des Individuums Theil und einer Gewohnheit entspricht eine spezifische
 Umbildung des Individuums. In einem Individuum ist bis in die kleinste Zelle hinein alles individuell, d.h.
-hat Theil an allen Erfahrungen und Vergangenheiten. Daher die Möglichkeit der Zeugung.
+hat Theil an allen Erfahrungen und Vergangenheiten. Daher die Möglichkeit der **Zeugung**.
 
 [19[188]](javascript:;)
 -----------------------
@@ -2397,14 +2393,14 @@ F. N.
 |  |  |
 | --- | --- |
 | Einleitung. | |
-| 1. | Thales Anaximander Heraklit Parmenides Anax<agoras> Empedokles Demokrit Pyth<agoreer> Sokrates. |
+| 1. | Thales Anaximander Heraklit Parmenides Anax&amp;lt;agoras&amp;gt; Empedokles Demokrit Pyth&amp;lt;agoreer&amp;gt; Sokrates. |
 | Kapitel 1. | |
 | Kapitel 2. | |
 
 [19[190]](javascript:;)
 -----------------------
 
-Geschichte der griechischen Philosophie.
+**Geschichte der griechischen Philosophie.**
 
 Einleitung.
   
@@ -2416,20 +2412,19 @@ Einleitung.
   
 4. Parmenides.
   
-5. Anax<agoras>.
+5. Anax&amp;lt;agoras&amp;gt;.
   
 6. Empedokles.
   
 7. Demokrit.
   
-8. Pythag<oreer>.
+8. Pythag&amp;lt;oreer&amp;gt;.
   
 9. Sokrates.
   
 Nachtrag.
 
-*Erratum:*
-Einleitung.
+*Erratum:***Einleitung.
   
 1. Thales.
   
@@ -2439,18 +2434,17 @@ Einleitung.
   
 4. Parmenides.
   
-5. Anax<agoras>.
+5. Anax&amp;lt;agoras&amp;gt;.
   
 6. Empedokles.
   
 7. Demokrit.
   
-8. Pythag<oreer>.
+8. Pythag&amp;lt;oreer&amp;gt;.
   
 9. Sokrates.
   
-Nachtrag.
-  
+Nachtrag.**  
 *lies:*
 Einleitung.
   
@@ -2462,13 +2456,13 @@ Einleitung.
   
 4. Parmenides.
   
-5. Anax<agoras>.
+5. Anax&amp;lt;agoras&amp;gt;.
   
 6. Empedokles.
   
 7. Demokrit.
   
-8. Pythag<oreer>.
+8. Pythag&amp;lt;oreer&amp;gt;.
   
 9. Sokrates.
   
@@ -2487,15 +2481,13 @@ Einleitung über Wahrheit und Lüge.
   
 3.  — — —
 
-*Erratum:*
-Einleitung über Wahrheit und Lüge.
+*Erratum:***Einleitung über Wahrheit und Lüge.
   
 1. Das Pathos der Wahrheit.
   
 2. Die Genesis der Wahrheit.
   
-3.  — — —
-  
+3.  — — —**  
 *lies:*
 Einleitung über Wahrheit und Lüge.
   
@@ -2510,22 +2502,22 @@ Einleitung über Wahrheit und Lüge.
 [19[192]](javascript:;)
 -----------------------
 
-Der politische Sinn der älteren griechischen Philosophen, ebenso nachzuweisen als ihre
-Kraft zur Metapher.
+Der **politische** Sinn der älteren griechischen Philosophen, ebenso nachzuweisen als ihre
+Kraft zur **Metapher**.
 
 [19[193]](javascript:;)
 -----------------------
 
-Wie nur in den niedersten Formen unsre theatralische Anlage sich noch bewährt, so in der
+Wie nur in den niedersten Formen unsre **theatralische** Anlage sich noch bewährt, so in der
 Bierbank unsre Geselligkeit.
 
 [19[194]](javascript:;)
 -----------------------
 
-Am Unmöglichen pflanzt sich die Menschheit fort, das sind ihre Tugenden — der
+Am Unmöglichen pflanzt sich die Menschheit fort, das sind ihre **Tugenden** — der
 kategorische Imperativ, wie die Forderung „Kindlein liebet euch“ sind solche Unmöglichkeitsforderungen.
 
-So ist die reine Logik das Unmögliche, an dem sich die Wissenschaft erhält.
+So ist die **reine Logik** das Unmögliche, an dem sich die Wissenschaft erhält.
 
 [19[195]](javascript:;)
 -----------------------
@@ -2549,24 +2541,24 @@ mit dem höchsten
 [19[196]](javascript:;)
 -----------------------
 
-Wir sollen so lernen, wie die Griechen von ihren Vergangenheiten und Nachbarn lernten — zum Leben, also mit größter Auswahl und alles Erlernte sofort als Stütze benutzend, auf der man sich hoch
+Wir sollen so lernen, wie die Griechen von ihren Vergangenheiten und Nachbarn lernten — zum **Leben**, also mit größter Auswahl und alles Erlernte sofort als Stütze benutzend, auf der man sich hoch
 — und höher als alle Nachbarn schwingt. Also nicht gelehrtenhaft! Was nicht zum Leben taugt, ist keine wahre
-Historie. Freilich kommt es darauf an, wie hoch und wie gemein ihr dieses Leben nehmt.
+Historie. Freilich kommt es darauf an, wie hoch und wie gemein ihr dieses **Leben** nehmt.
 Wer die römische Geschichte durch ekelhafte Beziehung auf klägliche moderne Parteistandpunkte und deren
-ephemere Bildung lebendig macht, der versündigt sich noch mehr an der Vergangenheit als
+ephemere **Bildung** lebendig macht, der versündigt sich noch mehr an der Vergangenheit als
 der bloße Gelehrte, der alles todt und mumienhaft läßt. (So ein in dieser Zeit oft genannter Historiker,
 Mommsen.)
 
 [19[197]](javascript:;)
 -----------------------
 
-Das Benehmen des Sokrates bei dem Prozeß der Feldherrn ist sehr
+Das **Benehmen des Sokrates** bei dem **Prozeß der Feldherrn** ist sehr
 merkwürdig, weil es, in politischen Dingen, seine Wahrhaftigkeit zeigt.
 
 [19[198]](javascript:;)
 -----------------------
 
-Unsre Naturwissenschaft geht auf den Untergang, im Ziele der Erkenntniß, hin.
+Unsre Naturwissenschaft geht auf den **Untergang**, im Ziele der Erkenntniß, hin.
 
 Unsre historische Bildung auf den Tod jeder Kultur. Sie kämpft gegen die
 Religionen,
@@ -2639,14 +2631,14 @@ Verschollenheit allmählich auftauchte — — —
 [19[204]](javascript:;)
 -----------------------
 
-Die Abstraktionen sind Metonymien d.h. Vertauschungen von Ursache
+Die **Abstraktionen** sind **Metonymien** d.h. Vertauschungen von Ursache
 und Wirkung. Nun aber ist jeder Begriff eine Metonymie und in Begriffen geht das Erkennen vor sich. „Wahrheit“
-wird zu einer Macht, wenn wir sie erst als Abstraktion losgelöst haben.
+wird zu einer **Macht**, wenn wir sie erst als Abstraktion losgelöst haben.
 
 [19[205]](javascript:;)
 -----------------------
 
-Eine verneinende Moral höchst großartig, weil wundervoll unmöglich. Was heißt es, wenn
+Eine **verneinende** Moral höchst großartig, weil wundervoll unmöglich. Was heißt es, wenn
 der Mensch, im offnen Bewußtsein, Nein! sagt, während alle seine Sinne und Nerven Ja! sagen und jede Faser,
 jede Zelle opponirt.
 
@@ -2687,22 +2679,22 @@ Ein empfundener Reiz und ein Blick auf eine Bewegung
 
  verbunden, ergeben
 die Kausalität zunächst als Erfahrungssatz: zwei Dinge, nämlich eine bestimmte Empfindung und ein bestimmtes
-Gesichtsbild erscheinen immer zusammen: daß das Eine die Ursache des Andern ist, ist eine
-Metapher, entlehnt aus Wille und That: ein
+Gesichtsbild erscheinen immer zusammen: daß das Eine die Ursache des Andern ist, ist **eine
+Metapher, entlehnt aus**Wille**und That**: ein
 Analogieschluß.
 
 Die einzige Kausalität, die uns bewußt ist, ist zwischen Wollen und Thun — diese übertragen wir auf alle
 Dinge und deuten uns das Verhältniß von zwei immer beisammen befindlichen Veränderungen. Die Absicht oder das
 Wollen ergiebt die Nomina, das Thun die Verba. Das Thier als wollendes — das ist sein Wesen.
 
-Aus Qualität und That: eine Eigenschaft von uns führt zum Handeln:
+Aus **Qualität und That**: eine **Eigenschaft** von uns führt zum Handeln:
 während im Grunde es so ist, daß aus Handlungen wir auf Eigenschaften schließen: wir nehmen Eigenschaften an,
 weil wir Handlungen bestimmter Art sehn.
 
-Also: das Erste ist die Handlung, diese verknüpfen wir mit einer Eigenschaft.
+Also: das Erste ist die **Handlung**, diese verknüpfen wir mit einer Eigenschaft.
 
 Zuerst entsteht das Wort für die Handlung, von da das Wort für die Qualität. Dies Verhältniß übertragen auf
-alle Dinge ist Causalität.
+alle Dinge ist **Causalität**.
 
 Zuerst „sehen“, dann „Gesicht“. Das „Sehende“ gilt als Ursache des „Sehens“. Zwischen dem Sinn und seiner
 Funktion empfinden wir ein regelmäßiges Verhältniß: Causalität ist die Ubertragung dieses Verhältnisses (von
@@ -2710,20 +2702,20 @@ Sinn auf Sinnesfunktion) auf alle Dinge.
 
 Ein Urphänomen ist: den im Auge empfundenen Reiz auf das Auge zu beziehn, das heißt eine Sinneserregung auf
 den Sinn zu beziehn. An sich gegeben ist ja nur ein Reiz: diesen als Aktion des Auges zu empfinden und ihn
-sehen zu nennen ist ein Kausalitätsschluß. Einen Reiz als eine Thätigkeit zu empfinden,
+sehen zu nennen ist ein Kausalitätsschluß. **Einen Reiz als eine Thätigkeit zu empfinden**,
 etwas Passives aktiv zu empfinden ist die erste Kausalitätsempfindung d.h. die erste Empfindung bringt bereits
-diese Kausalitätsempfindung hervor. Der innere Zusammenhang von Reiz und Thätigkeit übertragen auf alle Dinge. So ein Wort „sehen“ ist ein Wort für jenes
-Ineinander von Reiz und Thätigkeit. Das Auge ist thätig auf einen Reiz: d.h. sieht. An
+diese Kausalitätsempfindung hervor. Der innere Zusammenhang von **Reiz** und **Thätigkeit** übertragen auf alle Dinge. So ein Wort „sehen“ ist **ein** Wort für jenes
+Ineinander von Reiz und Thätigkeit. **Das Auge ist thätig auf einen Reiz:** d.h. sieht. An
 unseren Sinnesfunktionen deuten wir uns die Welt: d.h. wir setzen überall eine Kausalität voraus, weil wir
-selbst solche Veränderungen fortwährend erleben.
+selbst solche Veränderungen **fortwährend erleben**.
 
 [19[210]](javascript:;)
 -----------------------
 
-Zeit Raum und Kausalität sind nur Erkenntnißmetaphern, mit denen wir die Dinge uns
+Zeit Raum und Kausalität sind nur Erkenntniß**metaphern**, mit denen wir die Dinge uns
 deuten. Reiz und Thätigkeit verbunden: wie das ist, wissen wir nicht, wir verstehn keine einzige Kausalität,
 aber wir haben unmittelbare Erfahrung von ihnen. Jedes Leiden ruft ein Thun hervor, jedes Thun ein Leiden —
-dies das allgemeinste Gefühl bereits schon Metapher. Die wahrgenommene Vielheit setzt
+dies das allgemeinste Gefühl bereits schon **Metapher**. Die wahrgenommene Vielheit setzt
 dann schon Zeit und Raum voraus, hintereinander und nebeneinander. Das Nebeneinander in der Zeit erzeugt die
 Raumempfindung.
 
@@ -2732,8 +2724,8 @@ Schnelligkeitsgrade bei verschiedenen Kausalitäten.
 
 Raumempfindung erst durch Metapher aus der Zeitempfindung abzuleiten — oder umgekehrt?
 
-Zwei Causalitäten
-nebeneinander lokalisirt —
+Zwei **Causalitäten**
+**neben**einander **lokalisirt** —
 
 [19[211]](javascript:;)
 -----------------------
@@ -2753,24 +2745,24 @@ Gefahr in falsche Hände zu gerathen.
 [19[212]](javascript:;)
 -----------------------
 
-Einleitung. Typen von Köpfen und Lehren zur Einleitung nöthig.
+**Einleitung. Typen** von Köpfen und Lehren zur Einleitung nöthig.
 Einfach müssen sie sein und leichter zu überschauen.  
 Das, was Philosophie ist, muß deutlich werden, speziell die Aufgabe der Philosophie
 innerhalb einer Kultur.  
-Daß es die Griechen sind, im Zeitalter der Tragödie, die
+Daß es die **Griechen** sind, im Zeitalter der Tragödie, die
 philosophiren.  
-Der Sinn der Geschichte: wie
+Der Sinn der **Geschichte**: wie
 
 *Erratum:*eine  
 *lies:*wie  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 Metamorphose der Pflanzen. Beispiel.  
-(Ideal<e> und „ikonische“ Geschichte — letztere unmöglich.) Über die
+(Ideal&amp;lt;e&amp;gt; und „ikonische“ Geschichte — letztere unmöglich.) Über die
 Filtration durch den gewöhnlichen Kopf.  
-Schopenhauer, I, XXVI.  
+**Schopenhauer**, I, XXVI.  
 Widerwille gegen Compilationen.  
-Vorbildlich Schopenhauers Fragen zur Philosophie und Kritik Kants. Schopenhauer, I 290.
+Vorbildlich Schopenhauers Fragen zur Philosophie und Kritik Kants. **Schopenhauer**, I 290.
 
 [19[213]](javascript:;)
 -----------------------
@@ -2800,27 +2792,27 @@ Meister der Griechen.
 Die einzige Art, die Vielheit zu bezwingen, ist, daß wir Gattungen machen, z.B. kühn eine ganze Menge von
 Handlungsweisen nennen. Wir erklären sie uns, wenn wir sie unter die Rubrik „kühn“ bringen. Alles Erklären und
 Erkennen ist eigentlich nur ein Rubriziren. — Nun mit kühnem Schwung: die Vielheit der Dinge wird unter einen
-Hut gebracht, wenn wir sie gleichsam als unzählige Handlungen einer Qualität betrachten
-z.B. als Handlungen des Wassers, wie bei Thales. Hier haben wir eine Übertragung: eine
+Hut gebracht, wenn wir sie gleichsam als unzählige Handlungen **einer** Qualität betrachten
+z.B. als Handlungen des **Wassers**, wie bei Thales. Hier haben wir eine Übertragung: eine
 Abstraktion faßt zahllose Handlungen zusammen und gilt als Ursache. Welches ist die Abstraktion (Eigenschaft),
 welche die Vielheit aller Dinge zusammenfaßt? Die Qualität „wässerig“, „feucht“. Die ganze Welt ist feucht,
-also ist Feuchtsein die ganze Welt. Metonymia! Ein falscher Schluß. Ein Prädikat ist
+**also ist Feuchtsein die ganze Welt**. Metonymia! Ein falscher Schluß. Ein Prädikat ist
 verwechselt mit einer Summe von Prädikaten (Definition).
 
-Das logische Denken wenig geübt bei den Ioniern, entwickelt sich ganz langsam. Die
+Das **logische Denken** wenig geübt bei den Ioniern, entwickelt sich ganz langsam. Die
 falschen Schlüsse werden wir aber richtiger als Metonymien d.h. rhetorisch poetisch fassen.
 
-Alle rhetorischen Figuren (d.h. das Wesen der Sprache) sind logische
-Fehlschlüsse. Damit fängt die Vernunft an!
+Alle **rhetorischen Figuren** (d.h. das Wesen der Sprache) sind **logische
+Fehlschlüsse**. Damit fängt die Vernunft an!
 
 [19[216]](javascript:;)
 -----------------------
 
-Wir sehen, wie zuerst weiter philosophirt wird, so wie die Sprache
-entstanden ist, d.h. unlogisch.
+Wir sehen, wie zuerst weiter **philosophirt** wird, so wie die **Sprache
+entstanden ist**, d.h. unlogisch.
 
-Nun kommt das Pathos der Wahrheit und Wahrhaftigkeit hinzu. Dies
-hat zunächst mit dem Logischen nichts zu thun. Es besagt nur, daß keine bewußte Täuschung
+Nun kommt das Pathos der **Wahrheit** und **Wahrhaftigkeit** hinzu. Dies
+hat zunächst mit dem Logischen nichts zu thun. Es besagt nur, daß **keine bewußte Täuschung**
 begangen wird. Jene Täuschungen aber in der Sprache und in der Philosophie sind zuerst unbewußte und sehr
 schwer zum Bewußtsein zu bringen. Aber durch das Nebeneinander verschiedener mit gleichem Pathos aufgestellter
 Philosophien (oder religiöser Systeme) entstand ein sonderbarer Kampf. Bei dem Nebeneinander feindlicher
@@ -2836,8 +2828,8 @@ richtigen Rubrizirens.
 
 Tropen sind’s, nicht unbewußte Schlüsse, auf denen unsre Sinneswahrnehmungen beruhn. Ähnliches mit Ähnlichem
 identificiren — irgend welche Ähnlichkeit an einem und einem andern Ding ausfindig machen ist der Urprozeß.
-Das Gedächtniß lebt von dieser Thätigkeit und übt sich fortwährend. Die Verwechslung ist das Urphänomen. — Dies setzt voraus das Gestaltensehen. Das Bild
-im Auge ist für unser Erkennen maßgebend, dann der Rhythmus unseres Gehörs. Vom Auge aus würden wir nie zur Zeitvorstellung kommen, vom Ohre aus nie zur Raumvorstellung. Dem Tastgefühl
+Das **Gedächtniß** lebt von dieser Thätigkeit und übt sich fortwährend. Die **Verwechslung** ist das Urphänomen. — Dies setzt voraus das **Gestaltensehen**. Das Bild
+im Auge ist für unser Erkennen maßgebend, dann der Rhythmus unseres Gehörs. Vom Auge aus würden wir **nie** zur Zeitvorstellung kommen, vom Ohre aus nie zur Raumvorstellung. Dem Tastgefühl
 entspricht die Kausalitätsempfindung.
 
 Von vornherein
@@ -2846,11 +2838,11 @@ Von vornherein
 *lies:*vornherein  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- sehen wir ja die Bilder im Auge nur in
-uns, wir hören den Ton nur in uns — von da zur Annahme einer Außenwelt ist ein
+ sehen wir ja die Bilder im Auge nur **in
+uns**, wir hören den Ton nur **in uns** — von da zur Annahme einer Außenwelt ist ein
 weiter Schritt. Die Pflanze z.B. empfindet keine Außenwelt. Das Tastgefühl, und zugleich das Gesichtsbild
 geben zwei Empfindungen nebeneinander empirisch, diese, weil sie immer mit einander erscheinen, erwecken die
-Vorstellung eines Zusammenhangs (durch Metapher — denn nicht alles
+Vorstellung eines Zusammenhangs (durch **Metapher** — denn nicht alles
 Miteinander-Erscheinende hängt zusammen).
 
 Die Abstraktion ist ein höchst wichtiges Erzeugniß. Es ist ein dauernder im Gedächtniß festgehaltener und
@@ -2909,13 +2901,13 @@ Die Kultur eine Einheit. Nur scheint der Philosoph außerhalb zu stehn. Er wende
 
 Merkwürdig, daß die Griechen philosophirt haben. Die schöne Lüge.
 
-Aber noch merkwürdiger, daß der Mensch überhaupt zum Wahrheitspathos gekommen.
+Aber noch merkwürdiger, daß der **Mensch** überhaupt zum Wahrheitspathos gekommen.
 
 Die Bilder in ihm sind ja viel mächtiger als die Natur um ihn: wie bei den deutschen Malern des 15ten Jhs.,
 die, trotz der sie umgebenden Natur, so spinnenartige Glieder schaffen — von der alten frommen Tradition
 bestimmt.
 
-Plato will einen neuen Staat, in dem die Dialektik herrscht, er verneint die Kultur der schönen Lüge.
+Plato will einen neuen Staat, in dem die **Dialektik** herrscht, er verneint die **Kultur** der schönen Lüge.
 
 [19[222]](javascript:;)
 -----------------------
@@ -2931,7 +2923,7 @@ Die verzweifelte Ungelegenheit, als Philosoph unter den Deutschen geboren zu wer
 -----------------------
 
 Die Moralitätsinstinkte: die Mutterliebe — allmählich zur Liebe überhaupt. Ebenso die Geschlechtsliebe.
-Überall erkenne ich Übertragungen.
+Überall erkenne ich **Übertragungen**.
 
 [19[224]](javascript:;)
 -----------------------
@@ -2946,14 +2938,14 @@ Unwahrheit des Menschen gegen sich selbst und gegen andere: Voraussetzung die Un
 existiren (selbst — und in Gesellschaft). In das vacuum stellt sich die Täuschung der Vorstellungen. Der
 Traum. Die überkommenen Begriffe (die den altdeutschen Maler, trotz der Natur, beherrschen) in allen Zeiten
 verschieden. Metonymien. Reize, nicht volle Erkenntnisse. Das Auge giebt Gestalten. Wir hängen an der
-Oberfläche. Die Neigung zum Schönen. Mangel an Logik, aber Metaphern Religionen. Philosophien. Nachahmen.
+Oberfläche. Die Neigung zum Schönen. Mangel an Logik, aber Metaphern Religionen. Philosophien. **Nachahmen**.
 
 [19[226]](javascript:;)
 -----------------------
 
-Das Nachahmen ist das Mittel aller Kultur, dadurch wird allmählich der Instinkt erzeugt.
-Alles Vergleichen (Urdenken) ist ein Nachahmen. So bilden sich Arten, daß die ersten nur ähnliche Exemplare stark nachahmen, d.h. dem größten und kräftigsten
-Exemplare es nachmachen. Die Anerziehung einer zweiten Natur durch Nachahmung. In der
+Das **Nachahmen** ist das Mittel aller Kultur, dadurch wird allmählich der Instinkt erzeugt.
+**Alles Vergleichen (Urdenken) ist ein Nachahmen.** So bilden sich **Arten**, daß die ersten nur ähnliche Exemplare stark nachahmen, d.h. dem größten und kräftigsten
+Exemplare es nachmachen. Die Anerziehung einer **zweiten Natur** durch Nachahmung. In der
 Zeugung ist das unbewußte Nachbilden am merkwürdigsten, dabei das Erziehen einer zweiten Natur.
 
 Unsre Sinne ahmen die Natur nach, indem sie immer mehr dieselbe abkonterfeien.
@@ -2972,9 +2964,9 @@ Reiz — Erinnerungsbild
 
 durch Metapher (Analogieschluß) verbunden.
 
-Resultat: es werden Ähnlichkeiten entdeckt und neu belebt. An einem Erinnerungsbilde spielt sich der wiederholte Reiz noch einmal ab.
+Resultat: es werden Ähnlichkeiten entdeckt und neu belebt. An einem Erinnerungsbilde spielt sich der **wiederholte** Reiz noch einmal ab.
 
-Reiz percipirt — jetzt wiederholt, in vielen Metaphern, wobei
+**Reiz percipirt** — jetzt **wiederholt**, in vielen Metaphern, wobei
 verwandte Bilder, aus den verschiedenen Rubriken, herbeiströmen. Jede Perception erzielt eine vielfache
 Nachahmung des Reizes, doch mit Übertragung auf verschiedene Gebiete.
 
@@ -2996,17 +2988,17 @@ etwas bei bestimmten Tönen. Dies ein ganz allgemeines Phänomen.
 [19[228]](javascript:;)
 -----------------------
 
-Das Nachahmen ist darin der Gegensatz des Erkennens, daß das
+Das **Nachahmen** ist darin der Gegensatz des **Erkennens**, daß das
 Erkennen eben keine Übertragung gelten lassen will, sondern ohne Metapher den Eindruck festhalten will und
 ohne Consequenzen. Zu diesem Behufe wird er petrificirt: der Eindruck durch Begriffe eingefangen und
 abgegränzt, dann getödtet, gehäutet und als Begriff mumisirt und aufbewahrt.
 
-Nun aber giebt es keine „eigentlichen“ Ausdrücke und kein eigentliches Erkennen ohne
-Metapher. Aber die Täuschung darüber besteht, d.h. der Glaube an eine Wahrheit des Sinneneindrucks. Die gewöhnlichsten Metaphern, die usuellen, gelten jetzt als
+Nun aber giebt es keine „eigentlichen“ Ausdrücke und **kein eigentliches Erkennen ohne
+Metapher**. Aber die Täuschung darüber besteht, d.h. der **Glaube** an eine **Wahrheit** des Sinneneindrucks. Die gewöhnlichsten Metaphern, die usuellen, gelten jetzt als
 Wahrheiten und als Maaß für die seltneren. An sich herrscht hier nur der Unterschied zwischen Gewöhnung und
 Neuheit, Häufigkeit und Seltenheit.
 
-Das Erkennen ist nur ein Arbeiten in den beliebtesten Metaphern, also ein nicht mehr als
+Das **Erkennen** ist nur ein Arbeiten in den beliebtesten Metaphern, also ein nicht mehr als
 Nachahmung empfundenes Nachahmen. Es kann also natürlich nicht ins Reich der Wahrheit dringen.
 
 Das Pathos des Wahrheitstriebes setzt die Beobachtung voraus, daß die verschiedenen Metapherwelten mit
@@ -3021,7 +3013,7 @@ die eine die seltnere, die andere die häufige
 gegen die Ausnahme an, das Regelmäßige gegen das Ungewöhnliche. Daher die Achtung der Tageswirklichkeit vor
 der Traumwelt.
 
-Nun aber ist das Seltene und Ungewöhnliche das Reizvollere — die Lüge wird als Reiz
+Nun aber ist das Seltene und Ungewöhnliche das **Reizvollere** — die Lüge wird als Reiz
 empfunden. Poesie.
 
 [19[229]](javascript:;)
@@ -3029,17 +3021,17 @@ empfunden. Poesie.
 
 In der politischen Gesellschaft ist eine feste Übereinkunft nöthig, sie ist auf den usuellen Gebrauch von
 Metaphern gegründet. Jeder ungewöhnliche regt sie auf, ja vernichtet sie. Also jedes Wort so brauchen, wie es
-die Masse braucht, ist politische Convenienz und Moral. Wahr sein heißt nur nicht
+die Masse braucht, ist politische Convenienz und Moral. **Wahr** sein heißt nur nicht
 abweichen vom usuellen Sinne
 
 *Erratum:*Sinn  
 *lies:*Sinne  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- der Dinge. Das Wahre ist das Seiende, im Gegensatz zum Nichtwirklichen. Die erste Convention ist die über das, was als „seiend“
+ der Dinge. Das Wahre ist das **Seiende**, im Gegensatz zum Nichtwirklichen. Die erste Convention ist die über das, was als „seiend“
 gelten soll.
 
-Aber der Trieb wahr zu sein, übertragen auf die Natur, erzeugt den Glauben daß auch die
+Aber der Trieb wahr zu sein, übertragen auf die **Natur**, erzeugt den Glauben daß auch die
 Natur gegen uns wahr sein muß. Erkenntnißtrieb beruht auf dieser Übertragung.
 
 Unter „wahr“ wird zuerst nur verstanden das, was usuell die gewohnte Metapher ist — also nur eine Illusion,
@@ -3049,11 +3041,11 @@ Metapher, d.h. eine Metapher, bei der vergessen ist, daß es eine ist.
 [19[230]](javascript:;)
 -----------------------
 
-Der Trieb zur Wahrheit beginnt mit der starken Beobachtung, wie entgegengesetzt die
+Der **Trieb zur Wahrheit** beginnt mit der starken Beobachtung, wie entgegengesetzt die
 wirkliche Welt und die der Lüge ist und wie alles Menschenleben unsicher ist, wenn die Conventions-Wahrheit
 nicht unbedingt gilt: es ist eine moralische Überzeugung von der Nothwendigkeit einer festen Convention, wenn
-eine menschliche Gesellschaft existiren soll. Wenn irgendwo der Kriegszustand aufhören
-soll, so muß er beginnen mit der Fixirung der Wahrheit d.h. einer gültigen und verbindlichen Bezeichnung der Dinge.
+eine menschliche Gesellschaft existiren soll. Wenn irgendwo der **Kriegszustand** aufhören
+soll, so muß er beginnen mit der Fixirung der Wahrheit d.h. einer gültigen und verbindlichen **Bezeichnung** der Dinge.
 
 Der Lügner gebraucht die Worte, um das Unwirkliche als Wirklich erscheinen zu machen, d.h. er mißbraucht das
 feste Fundament.
@@ -3067,20 +3059,20 @@ Andrerseits
  ist der Trieb zu immer neuen Metaphern da, er entladet sich
 im Dichter, im Schauspieler usw., in der Religion vor allem.
 
-Der Philosoph sucht nun in dem Bereich, in dem die Religionen walteten, auch das „Wirkliche“, das Bleibende, im Gefühl des ewigen mythischen Lügenspiels. Er will Wahrheit, die bleibt. Er breitet also das Bedürfniß nach festen Wahrheitsconventionen auf neue Gebiete
+Der Philosoph sucht nun in dem Bereich, in dem die Religionen walteten, auch das „Wirkliche“, das **Bleibende**, im Gefühl des ewigen mythischen Lügenspiels. Er will Wahrheit, die **bleibt**. Er breitet also das Bedürfniß nach festen Wahrheitsconventionen auf neue Gebiete
 aus.
 
 [19[231]](javascript:;)
 -----------------------
 
-Der älteste Monotheismus meint eben das eine glänzende
+Der **älteste Monotheismus** meint eben das **eine** glänzende
 Himmelsgewölbe und nennt es dewas. Sehr beschränkt und unplastisch. Welcher Fortschritt sind die
 polytheistischen Religionen.
 
 [19[232]](javascript:;)
 -----------------------
 
-Die redenden Künste! Da liegt’s, weshalb die Deutschen keine Schriftsteller werden
+Die **redenden** Künste! Da liegt’s, weshalb die Deutschen keine Schriftsteller werden
 können!
 
 [19[233]](javascript:;)
@@ -3094,7 +3086,7 @@ Goethe konnte Mährchen
 
  erzählen, Herder war Prediger.
 
-Der Faust ist die einzige nationale Redeentfaltung im Knittelvers.
+Der Faust ist die einzige nationale Redeentfaltung im **Knittel**vers.
 
 [19[234]](javascript:;)
 -----------------------
@@ -3105,11 +3097,11 @@ durchschaut. Ohne böse zu sein, aber ohne Gemüth.
 [19[235]](javascript:;)
 -----------------------
 
-Alle Naturgesetze sind nur Relationen eines x zu y und z. Wir definiren Naturgesetze als
-die Relation
+Alle Naturgesetze sind nur **Relationen** eines x zu y und z. Wir definiren Naturgesetze als
+die **Relation**
 
-*Erratum:*Relationen  
-*lies:*Relation  
+*Erratum:***Relationen**  
+*lies:***Relation**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  zu einem xyz,
@@ -3119,25 +3111,25 @@ deren
 *lies:*deren  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- jedes wiederum uns nur als Relationen zu andern
+ jedes wiederum **uns nur als Relationen** zu andern
 xyz bekannt ist.
 
 [19[236]](javascript:;)
 -----------------------
 
-Das Erkennen, ganz streng genommen, hat nur die Form der Tautologie und ist leer. Jede
-uns fördernde Erkenntniß ist ein Identificiren des Nichtgleichen, des Ähnlichen, d.h. ist
+Das Erkennen, ganz streng genommen, hat nur die Form der Tautologie und ist **leer**. Jede
+uns fördernde Erkenntniß ist ein **Identificiren des Nichtgleichen**, des Ähnlichen, d.h. ist
 wesentlich unlogisch.
 
 Wir gewinnen einen Begriff nur auf diesem Wege und thun nachher, als ob der Begriff „Mensch“ etwas
 Thatsächliches wäre, während er doch nur durch Fallenlassen aller individuellen Züge von uns gebildet ist. Wir
 setzen voraus, daß die Natur nach einem solchen Begriff verfahre: hier ist aber einmal die Natur und sodann
-der Begriff anthropomorphisch. Das Übersehn des Individuellen giebt uns den Begriff und
-damit beginnt unsre Erkenntniß: im Rubriziren, in Aufstellungen von Gattungen. Dem entspricht aber das Wesen der Dinge nicht: es ist ein Erkenntnißprozeß, der das Wesen
+der Begriff anthropomorphisch. Das **Übersehn** des Individuellen giebt uns den Begriff und
+damit beginnt unsre Erkenntniß: im **Rubriziren**, in Aufstellungen von **Gattungen**. Dem entspricht aber das Wesen der Dinge nicht: es ist ein Erkenntnißprozeß, der das Wesen
 der Dinge nicht trifft. Viele einzelne Züge bestimmen uns ein Ding, nicht alle: die Gleichheit dieser Züge
 veranlaßt uns viele Dinge unter einen Begriff zusammenzunehmen.
 
-Wir produziren als Träger der Eigenschaften Wesen und Abstraktionen als Ursachen dieser
+Wir produziren als **Träger der Eigenschaften** Wesen und Abstraktionen als Ursachen dieser
 Eigenschaften.
 
 Daß eine Einheit, ein Baum z.B., uns als Vielheit von Eigenschaften, von Relationen erscheint, ist in
@@ -3149,11 +3141,11 @@ Relation, sondern wieder anthropomorphisch gefärbt.
 -----------------------
 
 Der Philosoph sucht nicht die Wahrheit, sondern die Metamorphose der Welt in den Menschen: er ringt nach
-einem Verstehen der Welt mit Selbstbewußtsein. Er ringt nach einer Assimilation: er ist
+einem Verstehen der Welt mit Selbstbewußtsein. Er ringt nach einer **Assimilation**: er ist
 befriedigt, wenn er irgend etwas anthropomorphisch zurechtgelegt hat. Wie der Astrolog die Welt im Dienste der
 einzelnen Individuen ansieht, so der Philosoph die Welt als Mensch.
 
-Der Mensch als Maaß der Dinge ist ebenfalls der Gedanke der Wissenschaft. Jedes
+Der **Mensch** als Maaß der Dinge ist ebenfalls der Gedanke der Wissenschaft. Jedes
 Naturgesetz ist zuletzt eine Summe von anthropomorphischen Relationen. Besonders die Zahl: die Auflösung aller
 Gesetze in Vielheiten, ihr Ausdruck in Zahlenformeln ist eine μεταφορά, wie
 jemand, der nicht hören kann, die Musik und den Ton nach den Chladnischen Klangfiguren beurtheilt.
@@ -3161,7 +3153,7 @@ jemand, der nicht hören kann, die Musik und den Ton nach den Chladnischen Klang
 [19[238]](javascript:;)
 -----------------------
 
-Am schwersten entwickelt sich das Gefühl für die Gewißheit. Zunächst sucht man Erklärung: wenn eine Hypothese viel erklärt, so wird der Schluß
+Am schwersten entwickelt sich das Gefühl für die **Gewißheit**. Zunächst sucht man **Erklärung**: wenn eine Hypothese **viel** erklärt, so wird der Schluß
 gemacht, daß sie alles erkläre.
 
 [19[239]](javascript:;)
@@ -3173,7 +3165,7 @@ Grunde.
 [19[240]](javascript:;)
 -----------------------
 
-Die Welt ist Erscheinung — aber nicht wir allein sind Ursache, daß sie erscheint. Noch
+Die Welt ist Erscheinung — aber nicht **wir** allein sind Ursache, daß sie erscheint. Noch
 von einer anderen Seite her ist sie unreal.
 
 [19[241]](javascript:;)
@@ -3189,20 +3181,20 @@ Das Wesen der Definition: der Bleistift ist ein länglicher usw. Körper. A ist 
 hier zugleich bunt. Die Eigenschaften enthalten nur Relationen.
 
 Ein bestimmter Körper ist gleich so und so viel Relationen. Relationen können nie das Wesen sein, sondern nur
-Folgen des Wesens. Das synthetische Urtheil beschreibt ein Ding nach seinen Folgen, d. h. Wesen und Folgen werden identificirt, d.h. eine Metonymie.
+Folgen des Wesens. Das synthetische Urtheil beschreibt ein Ding nach seinen Folgen, d. h. **Wesen** und **Folgen** werden **identificirt**, d.h. eine **Metonymie**.
 
-Also im Wesen des synthetischen Urtheils liegt eine Metonymie,
+Also im Wesen des synthetischen Urtheils liegt eine **Metonymie**,
 
-d.h. es ist eine falsche Gleichung.
+d.h. es ist eine **falsche Gleichung**.
 
-D.h. die synthetischen Schlüsse sind unlogisch. Wenn wir sie anwenden, setzen wir die
+D.h. **die synthetischen Schlüsse sind unlogisch**. Wenn wir sie anwenden, setzen wir die
 populäre Metaphysik voraus, d.h. die, welche Wirkungen als Ursachen betrachtet.
 
 Der Begriff „Bleistift“ wird verwechselt mit dem „Ding“ Bleistift. Das „ist“ im synthetischen Urtheil ist
 falsch, es enthält eine Übertragung, zwei verschiedene Sphären werden neben einander gestellt, zwischen denen
 nie eine Gleichung stattfinden kann.
 
-Wir leben und denken unter lauter Wirkungen des Unlogischen, in
+Wir leben und denken unter lauter Wirkungen des **Unlogischen**, in
 Nichtswissen
 
 *Erratum:*Nichtwissen  
@@ -3214,7 +3206,7 @@ Nichtswissen
 [19[243]](javascript:;)
 -----------------------
 
-Die Welt der Unwahrheit:
+**Die Welt der Unwahrheit:**
 
 Der Traum und das Wachen.
 
@@ -3235,19 +3227,19 @@ Zeit und Raum.
 [19[244]](javascript:;)
 -----------------------
 
-Woher in aller Welt das Wahrheitspathos?
+Woher in aller Welt das **Wahrheitspathos**?
 
 Es will nicht die Wahrheit, sondern den Glauben, das Zutrauen zu etwas.
 
 [19[245]](javascript:;)
 -----------------------
 
-Frage nach der Teleologie des Philosophen — der die Dinge nicht historisch und nicht
+Frage nach der **Teleologie des Philosophen** — der die Dinge nicht historisch und nicht
 gemüthlich ansieht.
 
 Die Frage erweitert sich ihm zur Frage vom Werthe der Erkenntniß.
 
-Umschreibung des Philosophen — er braucht den Ruhm, er denkt nicht an den Nutzen, der
+Umschreibung des Philosophen — er braucht den Ruhm, er denkt nicht an den **Nutzen**, der
 von der Erkenntniß ausgeht, sondern den Nutzen, der in der Erkenntniß selbst liegt.
 
 Wenn er ein Wort fände, das ausgesprochen die Welt vernichten würde, glaubt ihr, er spräche es nicht aus?
@@ -3318,8 +3310,8 @@ gleichen Wirkungen, gilt ebenfalls als Metaphysikum.
 [19[249]](javascript:;)
 -----------------------
 
-Metapher heißt etwas als gleich behandeln, was man in einem Punkte
-als ähnlich erkannt hat.
+**Metapher** heißt etwas als **gleich** behandeln, was man in einem Punkte
+als **ähnlich** erkannt hat.
 
 [19[250]](javascript:;)
 -----------------------
@@ -3330,7 +3322,7 @@ gefühlt hat. Also auch nie die völlige Schätzung möglich.
 [19[251]](javascript:;)
 -----------------------
 
-Das Vertrauen zu einer gefundenen Wahrheit zeigt sich darin, daß man sie mittheilen
+Das Vertrauen zu einer gefundenen **Wahrheit** zeigt sich darin, daß man sie mittheilen
 will. Man kann sie nun doppelt mittheilen: in ihren Wirkungen, so daß die Anderen durch sie rückwärts von dem
 Werthe des Fundamentes überzeugt sind. Oder durch
 Beweis — die Entstehung aus logischer
@@ -3357,7 +3349,7 @@ Warum wollen wir nicht getäuscht werden?
 — Wir wollen es in der Kunst. Wir begehren wenigstens für vieles die Unwissenheit d.h. auch die
 Täuschung.
 
-Er will, soweit es zum Leben nöthig ist, nicht getäuscht werden d.h. er muß sich
+Er will, soweit es zum **Leben** nöthig ist, nicht getäuscht werden d.h. er muß sich
 erhalten können, in diesen
 
 *Erratum:*diesem  
@@ -3367,11 +3359,11 @@ erhalten können, in diesen
  Bereich des Bedürfnisses will er Zutrauen haben
 dürfen.
 
-Nur die Täuschung, die feindlich ist, verschmäht er, nicht die erfreuliche. Er flieht das Betrogenwerden, die schlimme Täuschung. Also im Grunde nicht die Täuschung, sondern die Folge der
+Nur die Täuschung, die feindlich ist, verschmäht er, nicht die erfreuliche. Er flieht das **Betrogenwerden**, die schlimme Täuschung. Also im Grunde nicht die Täuschung, sondern die Folge der
 Täuschung und zwar die schlimme Folge. Also wo in seinem Zutrauen mit bösen Folgen getäuscht zu werden möglich
 ist, da verwirft er die Täuschung. Da will er die Wahrheit d.h. wieder er will die angenehmen Folgen. Die
-Wahrheit kommt nur in Betracht als Mittel gegen feindselige Täuschungen. Die Forderung
-der Wahrheit heißt: thue den Menschen durch Betrug nichts Böses. Gegen die reine, folgenlose Erkenntniß der Wahrheit ist der Mensch gleichgültig.
+Wahrheit kommt nur in Betracht als Mittel gegen feindselige Täuschungen. Die **Forderung**
+der **Wahrheit** heißt: thue den Menschen durch Betrug nichts Böses. Gegen die **reine, folgenlose Erkenntniß der Wahrheit** ist der Mensch **gleichgültig**.
 
 Dafür hat ihn die Natur auch nicht eingerichtet. Der Glaube an die Wahrheit ist der Glaube an gewisse
 beglückende Wirkungen. — Woher kommt nun alle Moralität des Wahrheitsverlangens? Bis jetzt ist alles
@@ -3433,13 +3425,13 @@ Wahrheit.
 Dann heißt die Wahrheit suchen auch richtig rubriziren, d.h. einem vorhandenen Begriff richtig die einzelnen
 Fälle unterordnen. Hier ist aber der Begriff unsere That, wie auch die vergangenen Zeiten. Die ganze Welt
 unter die richtigen Begriffe subsumiren heißt doch nichts als unter die ursprünglich menschlichen
-allgemeinsten Formen der Relation die einzelnen Dinge einreihen: also die Begriffe nur bewähren, das was wir unter sie steckten, wieder auch unter ihnen zu suchen — also im Grunde auch
+allgemeinsten Formen der Relation die einzelnen Dinge einreihen: also die Begriffe nur **bewähren**, das was wir unter sie steckten, wieder auch unter ihnen zu suchen — also im Grunde auch
 Tautologie.
 
 [19[259]](javascript:;)
 -----------------------
 
-Anzugreifen:
+**Anzugreifen:**
 
   
 
@@ -3463,7 +3455,7 @@ Kunstdotation im Reichstage.
 
 Grimm, Lübke, Julian Schmidt.
 
-Jürgen <Bona>-Meyer, Kuno Fischer, Lotze.
+Jürgen &amp;lt;Bona&amp;gt;-Meyer, Kuno Fischer, Lotze.
 
 Riehl, Schwind.
 
@@ -3492,7 +3484,7 @@ Accenten.
 [19[261]](javascript:;)
 -----------------------
 
-Elemente der deutschen Kultur
+**Elemente der deutschen Kultur**
 
 gelehrte
 
@@ -3516,7 +3508,7 @@ Der Kulturweg der Deutschen wagt jetzt sich eine Organisation, ein Tribunal zu s
 [19[264]](javascript:;)
 -----------------------
 
-Ein Glück, daß die Musik nicht spricht — obschon jetzt die Musiker viel schwätzen.
+Ein Glück, daß die Musik nicht **spricht** — obschon jetzt die Musiker viel schwätzen.
 Deshalb eignet sie sich zu einem Keim der Rettung.
 
 [19[265]](javascript:;)
@@ -3550,19 +3542,19 @@ Sie haben es zu keiner Form gebracht.
 und symbolische Hoffnung aus seinem Leben für unsre Kultur. Unsre höchste Furcht, daß wir nicht reif sind für
 die Wunder, daß ihre Wirkung nicht tief genug ist.
 
-2. Ringsum Stille, keiner merkt etwas. Die Regierungen glauben an die Güte ihrer
-Bildung, die Gelehrten auch. Benutzung der Wirkung des Krieges. Wodurch hat man ihn geheiligt? — Dumpfe Abneigung gegen Wagner.
+2. Ringsum Stille, keiner merkt etwas. Die Regierungen glauben an die Güte **ihrer**
+Bildung, die Gelehrten auch. Benutzung der Wirkung des Krieges. Wodurch hat man ihn geheiligt? — **Dumpfe Abneigung** gegen Wagner.
 
 3. Den einzigen Lärm erheben die zunächst bedrohten Vertreter der schlechten jetzigen Kunstinstitute,
-Journale, diese fürchten sich. Lärmende Abneigung. Kann nur bestehen durch Anlehnung an
+Journale, diese fürchten sich. **Lärmende** Abneigung. Kann nur bestehen durch Anlehnung an
 jene dumpfe ahnende Abneigung.
 
-Ahnung des Untergangs des jetzigen Gebildeten.
+Ahnung des **Untergangs** des jetzigen Gebildeten.
 
 [19[268]](javascript:;)
 -----------------------
 
-Plan zu 6 Vorträgen.
+**Plan zu 6 Vorträgen.**
 
 Die Kluft
 
@@ -3599,7 +3591,7 @@ Philologenversammlung. Straßburg. — Lehrer und Universitäten und deren Leite
 | --- | --- |
 | 1.2.3. | Charakteristik des Gebildeten. |
 | 1.2.3. | Genesis des Gebildeten. Es giebt für sie kein δός μοι ποῦ στῶ. Ungeheures Ringen Schiller’s und Goethe’s. Sie suchen nach dem Talisman des Deutschen. Lernen vom Auslande bei den Griechen. Romanischer und hellenischer Begriff der Kunst. |
-| 1.2.3. | Wagner erkennt die Musik als solches δός μοι ποῦ στῶ. Antiker Satz von der Musik und dem Staate. Der nächste Schritt: Musik schafft sich das Drama. Jetzt kommt zu Tage, was das Wortdrama ist: gelehrt, unoriginal, erlogen oder Drastik. Wagner. Goethes Volkslied, Marionettentheater, Volksvers. Mythus. Er schafft erst das Deutsche. Consequenzen der antiken Tragödie für alle Künste und das Leben. Die „Gebildeten“ sind in Verlegenheit. |
+| 1.2.3. | Wagner erkennt die Musik als solches δός μοι ποῦ στῶ. Antiker Satz von der Musik und dem Staate. Der nächste Schritt: Musik schafft sich das Drama. Jetzt kommt zu Tage, was das Wortdrama ist: gelehrt, unoriginal, erlogen oder Drastik. Wagner. Goethes Volkslied, Marionettentheater, Volksvers. Mythus. Er **schafft** erst das Deutsche. Consequenzen der antiken Tragödie für alle Künste und das Leben. Die „Gebildeten“ sind in Verlegenheit. |
 
 [19[271]](javascript:;)
 -----------------------
@@ -3618,7 +3610,7 @@ Hegel
 
 Heine
 
-das politische Fieber, das das Nationale betonte.
+das politische Fieber, das das **Nationale** betonte.
 
 Kriegsruhm.
 
@@ -3629,35 +3621,34 @@ Schopenhauer — vertieft die Weltbetrachtung der Goethe-Schiller-Kultur.
 [19[273]](javascript:;)
 -----------------------
 
-Masken des bürgerlichen Lustspiels
+**Masken des bürgerlichen Lustspiels**
   
-Kotzebue’s.
+**Kotzebue’s.**
 
-Die „alten Jungfern“, die sentimentalischen:  
+Die **„alten Jungfern“**, die sentimentalischen:  
 Riehl, Gervinus, Schwind, Jahn, Freitag  
 reden viel von der Unschuld und der Schönheit.
 
-Die jungen
- Greise
+Die **jungen****Greise**
 
-*Erratum:* „Greise“  
-*lies:* Greise  
+*Erratum:***„Greise“**  
+*lies:***Greise**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  (Blasirten), die historischen:  
 Ranke, die Zeitungsschreiber, Mommsen, Bernays.  
 sind über alles hinaus.
 
-Die ewigen Gymnasiasten:  
+Die **ewigen Gymnasiasten**:  
 Gottschall, Lindau, Gutzkow, Laube.
 
-Die Unfrommen vom Lande:  
+Die **Unfrommen** vom Lande:  
 Strauß. Die Philisterei ist die eigentliche Unfrömmigkeit.
 
 [19[274]](javascript:;)
 -----------------------
 
-Bayreuther Horizont-Betrachtungen.
+**Bayreuther Horizont-Betrachtungen.**
 
   
 
@@ -3671,8 +3662,8 @@ Bayreuther Horizont-Betrachtungen.
 | 6. | Die Naturwissenschaftlichen. |
 | 7.8. | Schulen. Universitäten. | } | Genesis des „Gebildeten“. |
 | 9. | sein *Erratum:*Ihr *lies:*sein [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Verfahren mit der Kunst. |
-| 10. | Der Phönizier in den Hauptstädten: als Nachahmer jener Bildung. | | |
-| 11.12. | Hauptsatz: Es giebt keine deutsche Bildung, weil es noch keinen deutschen Kunststil giebt. Ungeheure Arbeit Schillers Goethes zu einem deutschen Stile zu kommen. Kosmopolitische Tendenz nothwendig. Fortsetzung der Reformationsarbeit. | | |
+| 10. | Der Phönizier in den Hauptstädten: als **Nachahmer** jener Bildung. | | |
+| 11.12. | **Hauptsatz:** Es giebt **keine deutsche Bildung**, weil es noch keinen **deutschen** Kunststil giebt. Ungeheure Arbeit Schillers Goethes zu einem deutschen Stile zu kommen. Kosmopolitische Tendenz nothwendig. Fortsetzung der Reformationsarbeit. | | |
 
 Wagner’s δός μοι ποῦ στῶ; die deutsche Musik. An ihr kann man lernen, wie
 die deutsche Kultur sich verhalten wird zu anderen Kulturen. Plato über
@@ -3747,7 +3738,7 @@ Das Aufheben, das die Deutschen von dem in allen Kunstfragen wahrhaft albernen G
 [19[280]](javascript:;)
 -----------------------
 
-Heinrich Kleist redet als Dramatiker und Erzähler zu uns, als ob er zugleich einen hohen
+Heinrich **Kleist** redet als Dramatiker und Erzähler zu uns, als ob er zugleich einen hohen
 Berg besteige.
 
 Goethe über Kleist: fürchtet sich.
@@ -3765,13 +3756,13 @@ Gelehrtsein liegt ein Widerspruch mit der Einheit der Bildung, im christlichen F
 [19[282]](javascript:;)
 -----------------------
 
-Scheidung der intellectuellen Faktoren von den intelligibeln im
+Scheidung der **intellectuellen** Faktoren von den **intelligibeln** im
 Wesen des Philosophen.
 
 [19[283]](javascript:;)
 -----------------------
 
-Die Faktoren der jetzigen Cultur.
+Die Faktoren der jetzigen **Cultur**.
 
   
 
@@ -3796,14 +3787,14 @@ Die Faktoren der jetzigen Cultur.
 [19[284]](javascript:;)
 -----------------------
 
-Bisher war es die Sprache, an die das Deutsche sich anschloss. Jetzt dazu die Musik.
+Bisher war es die **Sprache**, an die das Deutsche sich anschloss. Jetzt dazu die **Musik**.
 
-Die kosmopolitische Tendenz Schillers und Goethes entsprechend der orientalischen
+Die **kosmopolitische Tendenz** Schillers und Goethes entsprechend der orientalischen
 Tendenz.
 
 Das Deutsche muss sich erst bilden:
 
-Bildung nicht auf nationaler Grundlage, sondern Bildung des Deutschen, nicht Bildung nach dem Deutschen.
+Bildung nicht auf nationaler Grundlage, sondern **Bildung des Deutschen**, nicht Bildung **nach dem Deutschen**.
 
 Das Deutsche muss gebildet werden: das noch nicht existirt. Weder auf Tugenden noch auf Laster zu
 gründen.
@@ -3811,7 +3802,7 @@ gründen.
 [19[285]](javascript:;)
 -----------------------
 
-Faktoren deutscher Vergangenheit.
+**Faktoren deutscher Vergangenheit.**
 
   
 
@@ -3825,10 +3816,10 @@ Treue und Ritter, Orient — Lohengrin.
 
 Metaphysik der Liebe — Tristan.
 
-Das ist unsre Mythenwelt, sie reicht bis zur Reformation. Der Glaube an sie ist dem der
+Das ist unsre **Mythenwelt**, sie reicht bis zur Reformation. Der Glaube an sie ist dem der
 Griechen an ihre Mythen sehr ähnlich.
 
-Nicht deutsche Bildung, sondern Bildung des Deutschen ist unser
+Nicht **deutsche Bildung**, sondern **Bildung des Deutschen** ist unser
 erstes Ziel.
 
 An Stelle des Historischen — die mythenbildende Kraft.
@@ -3845,7 +3836,7 @@ An Stelle des Schreibens — Denken und Sprechen.
 
 An Stelle der Dogmatik — die Philosophie.
 
-Überwindung der Religionsmischung, des Asiatischen (in
+Überwindung der **Religionsmischung, des Asiatischen** (in
 Haß
 
 *Erratum:*Hast  
@@ -3854,14 +3845,14 @@ Haß
 
  und Luxus — Phönizisch).
 
-Heilighaltung von Sprache und Musik.
+Heilighaltung von **Sprache** und **Musik**.
 
 [19[286]](javascript:;)
 -----------------------
 
 |  |  |
 | --- | --- |
-| Aesthetik in Deutschland. | |
+| **Aesthetik in Deutschland.** | |
 | Lessing Winckelmann Hamann Herder. | |
 | Schiller Goethe. | |
 | Grillparzer. | |
@@ -3883,7 +3874,7 @@ Die Seelenwanderungs-Metamorphosen.
 [19[289]](javascript:;)
 -----------------------
 
-Fortsetzung der Reformation.
+**Fortsetzung der Reformation.**
 
   
 
@@ -3908,27 +3899,27 @@ Experimentiren, das Drama zu finden, eine Litteratur zu schaffen —: kosmopolit
 Vollendete Einsicht in die Zusammenhänge des Lebens mit der Kunst — Überwindung des Begriffs „Litteratur“ —:
 Wagner.
 
-Beseitigung des Abseits-Musikmachens. Gegen das Mönchische der
+Beseitigung des Abseits-Musikmachens. Gegen das **Mönchische** der
 Musik.
 
-Übergang aus der Gelehrsamkeit zum Bedürfniss der Kunst.
+Übergang aus der **Gelehrsamkeit** zum **Bedürfniss** der **Kunst**.
 
-Überwindung des romanischen Begriffs der Kunst: Kunst als Convention, als Thesis.
+Überwindung des **romanischen** Begriffs der Kunst: Kunst als Convention, als Thesis.
 
-Rückkehr zum hellenischen Begriff: Kunst als Physis.
+Rückkehr zum **hellenischen** Begriff: Kunst als Physis.
 
 [19[291]](javascript:;)
 -----------------------
 
-Auch die hellenische Kunst wurde lange Zeit romanisch verstanden, ich meine so, wie sie
-die Römer verstanden haben: zum Schmucke, beliebig hineinzusetzen, Gewächshaus im
+Auch die hellenische Kunst wurde lange Zeit **romanisch** verstanden, ich meine so, wie sie
+die Römer verstanden haben: zum **Schmucke**, beliebig hineinzusetzen, Gewächshaus im
 Vergleich zum Walde. Vornehme Convention. —
 
 [19[292]](javascript:;)
 -----------------------
 
-Das schlechte Buch von Lotze, in dem der Raum mit Besprechung eines ganz unaesthetischen
-Menschen: Ritter
+Das schlechte Buch von **Lotze**, in dem der Raum mit Besprechung eines ganz unaesthetischen
+Menschen: **Ritter**
 (ein fast schon verschollener Historiker
 
 *Erratum:*eines fast schon verschollenen Historikers  
@@ -3941,7 +3932,7 @@ verdrehten Leipziger Philosophen Weisse verbraucht wird.
 [19[293]](javascript:;)
 -----------------------
 
-Plautus römische Kunst, neuere attische Komödie. Die feste Masken-Komödie.
+Plautus römische Kunst, neuere attische Komödie. Die feste **Masken**-Komödie.
 
 [19[294]](javascript:;)
 -----------------------
@@ -3956,13 +3947,13 @@ Cosmopolitism
 , theils Reaktion der Musik gegen eine kalte Plastik, theils
 Erweiterung des kosmopolitischen Nachmachens und Nachsingens. Zu wenig Kraft bei viel Witterung.
 
-Das junge Deutschland ist, wie Kotzebue gegen Schiller-Goethe,
+Das **junge Deutschland** ist, wie **Kotzebue** gegen Schiller-Goethe,
 Vertreter einer französirenden Aufklärung in plumper Nachmacherei.
 
 [19[295]](javascript:;)
 -----------------------
 
-Nicht Bildung auf nationaler Grundlage, sondern Bildung des deutschen Stils im Leben
+Nicht Bildung auf nationaler Grundlage, sondern Bildung **des deutschen Stils** im Leben
 Erkennen Schaffen Reden Gehen usw.
 
 [19[296]](javascript:;)
@@ -3983,9 +3974,9 @@ Unterscheidung der Völker durch ihre Schwächen, ihre Tugenden, bei einiger Civ
 [19[298]](javascript:;)
 -----------------------
 
-Über die Bildung eines deutschen
+**Über die Bildung eines deutschen**
   
-Kunststils.
+**Kunststils.**
 
   
 
@@ -3994,16 +3985,16 @@ Bevor dieser da ist, ist, um zu einiger Bildung zu kommen, nur der kosmopolitisc
 Bildung ist das Leben eines Volkes unter dem Regiment der Kunst. Philosophie ist nicht für das Volk, Religion
 verträgt sich mit Barbarei, ebenso die Wissenschaft.
 
-Auszugehen von den Forderungen der Kultur nach dem Kriege. 1872. Straßburg, Unfähigkeit
-auch nur einzusehen, wie lächerlich eine Behauptung des National-Deutschen wäre. Die Kunst hat bei uns die romanische Geltung und nicht einmal. Wissenschaft verträgt sich mit Barbarei.
+Auszugehen von den Forderungen der Kultur nach dem **Kriege**. 1872. Straßburg, Unfähigkeit
+auch nur einzusehen, wie lächerlich eine Behauptung des National-Deutschen wäre. Die Kunst hat bei uns die **romanische** Geltung und nicht einmal. Wissenschaft verträgt sich mit Barbarei.
 
 [19[299]](javascript:;)
 -----------------------
 
 Begabung ist nur die Voraussetzung für die Cultur, die Hauptsache ist die Zucht nach Mustern.
 
-Die Bildung ist nicht nothwendig eine begriffliche, sondern vor allem eine anschauende und richtig wählende: wie der Musiker richtig im Finstern
-greift. Die Erziehung eines Volkes zur Bildung ist wesentlich
+Die Bildung ist nicht nothwendig eine **begriffliche**, sondern vor allem eine **anschauende** und richtig **wählende**: wie der Musiker richtig im Finstern
+greift. Die **Erziehung** eines Volkes **zur Bildung** ist wesentlich
 Gewöhnung an gute Vorbilder und Bildung edler Bedürfnisse.
 
 [19[300]](javascript:;)
@@ -4032,7 +4023,7 @@ Reden eines Hoffenden.
 
 Bayreuths Horizont.  
 Der Horizont Bayreuths.  
-Bayreuther Horizont-Betrachtungen.
+**Bayreuther Horizont-Betrachtungen.**
 
 [19[304]](javascript:;)
 -----------------------
@@ -4056,13 +4047,13 @@ denen es zweifelhaft ist.
 [19[307]](javascript:;)
 -----------------------
 
-Gebildet nennen wir den, der ein Gebilde geworden <ist>, eine Form bekommen hat: Gegensatz der
-Form ist hier das Ungestaltete Gestaltlose, ohne Einheit.
+Gebildet nennen wir den, der ein Gebilde geworden &amp;lt;ist&amp;gt;, eine Form bekommen hat: Gegensatz der
+Form ist hier das Ungestaltete Gestaltlose, ohne **Einheit**.
 
 [19[308]](javascript:;)
 -----------------------
 
-Woran hängt die Einheit eines Volkes? Äußerlich Regierung,
+Woran hängt die **Einheit** eines **Volkes**? Äußerlich Regierung,
 innerlich Sprache und Sitten. Die Sitten aber erst ganz allmählich einheitlich, viel aus Zusammenleben,
 Einwandern.
 
@@ -4074,18 +4065,18 @@ Goethe: „wir haben zwar viel ‚kultivirt‘.“
 [19[310]](javascript:;)
 -----------------------
 
-Kultur — Herrschaft der Kunst über das Leben. Die Grade ihrer Güte
-hängen einmal ab vom Grade dieser Herrschaft und zweitens von dem Werthe der Kunst selbst.
+Kultur — Herrschaft der **Kunst** über das **Leben**. Die Grade ihrer Güte
+hängen einmal ab vom **Grade dieser Herrschaft** und zweitens von dem **Werthe** der **Kunst** selbst.
 
 [19[311]](javascript:;)
 -----------------------
 
-Milderungen der Sitten durch Religionen Gesetze usw.
+**Milderungen der Sitten** durch Religionen Gesetze usw.
 
-Steigerung der Erkenntniß und dadurch weniger Aberglaube,
+**Steigerung** der **Erkenntniß** und dadurch weniger Aberglaube,
 Finsterniß, Fanatismus, mehr Beschaulichkeit und Ruhe.
 
-Erfindungen, Steigerungen des Wohlstandes, Verkehr mit andern Völkern.
+**Erfindungen**, Steigerungen des Wohlstandes, Verkehr mit andern Völkern.
 
 Dabei ist Religion und Barbarei.
 
@@ -4109,7 +4100,7 @@ prunken als sei er aber der Harnisch der Göttin Kultur selbst.
 
  Man
 erschöpfte sich in Versicherungen, daß das deutsche Volk das gelehrigste gelehrteste
-sanftmüthig<st>e tugendhafteste und reinlichste von der Welt sei: selbst gegen den Vorwurf der
+sanftmüthig&amp;lt;st&amp;gt;e tugendhafteste und reinlichste von der Welt sei: selbst gegen den Vorwurf der
 Menschenfresserei und des Seeraubs fühlte man sich hinlänglich sicher. Als nun bald darauf eine Stimme
 jenseits des Kanals laut wurde und der ehrwürdige Carlyle eben jene Eigenschaften an den Deutschen öffentlich
 belobte und ihnen ihretwegen den Sieg mit segnenden Händen anwünschte, da war man über die deutsche Kultur im
@@ -4150,19 +4141,19 @@ benannten, so sind Barbaren also Quäcker
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  sinnloses und unschönes
-Geplapper. Mangel an aesthetischer Erziehung.
+Geplapper. Mangel an **aesthetischer Erziehung**.
 
 [19[314]](javascript:;)
 -----------------------
 
 Der Franzose dachte natürlich an seine in der ganzen Erde siegreiche Civilisation und den Grad von
 verkümmerter Nachahmung, den er von ihr in der deutschen Gesellschaft wiederfand: er sagte keine Kultur, weil
-sie keine erzeugt <haben> und nicht einmal eine vorhandene geschickt nachahmen können, wie z.B.
+sie keine erzeugt &amp;lt;haben&amp;gt; und nicht einmal eine vorhandene geschickt nachahmen können, wie z.B.
 den Russen zuzugestehen ist.
 
 Und deshalb war jede Kriegsgefahr so furchtbar, weil sie die heimlich wachsende Frucht zerstören konnte.
 
-Der Kriegsruhm fast noch eine größere Gefahr.
+Der **Kriegsruhm** fast noch eine größere Gefahr.
 
 [19[315]](javascript:;)
 -----------------------
@@ -4190,11 +4181,11 @@ Der Kriegsruhm fast noch eine größere Gefahr.
 [19[316]](javascript:;)
 -----------------------
 
-Die
+**Die**
   
-Rechtfertigung der Philosophie
+**Rechtfertigung der Philosophie**
   
-durch die Griechen.
+**durch die Griechen.**
 
   
 
@@ -4205,12 +4196,12 @@ Friedrich Nietzsche.
 [19[317]](javascript:;)
 -----------------------
 
-Betrachtungen eines Hoffenden.
+**Betrachtungen eines Hoffenden.**
 
 [19[318]](javascript:;)
 -----------------------
 
-Der letzte Philosoph.
+**Der letzte Philosoph.**
 
   
 
@@ -4221,12 +4212,12 @@ Der letzte Philosoph.
 3. Heraklit gegen das Dionysische.  
 Empedokles gegen das Thieropfer.  
 Pythagoreer Ordenswesen.  
-Demokrit der wissensch<aftliche> Reisende.
+Demokrit der wissensch&amp;lt;aftliche&amp;gt; Reisende.
 
 [19[319]](javascript:;)
 -----------------------
 
-Der ursprüngliche Zweck der Philosophie ist vereitelt.
+**Der ursprüngliche Zweck der Philosophie ist vereitelt.**
 
 Gegen die ikonische Geschichtsschreibung.
 
@@ -4390,7 +4381,7 @@ Homer.
 | 4) | Litterarische Musiker (wie die Anhänger des Genie’s *Erratum:*Genius *lies:*Genie’s [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  die Wirkungen desselben todt machen) . |
 | 5) | Deutsch und Afterdeutsch. |
 | 6) | Soldaten-Cultur. |
-| 7) | Allgemeine Bildung — Socialismus usw. |
+| 7) | **Allgemeine** Bildung — Socialismus usw. |
 | 8) | Bildungs-Theologie *Erratum:*Bildungs—Theologie *lies:*Bildungs-Theologie [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) . |
 | 9) | Gymnasien und Universitäten. |
 | 10) | Philosophie und Cultur. |
@@ -4407,3 +4398,5 @@ Entwurf der „Unzeitgemässen Betrachtungen“.
 Basel, 2. September 1873.
 
 \* Spätere Eintragung
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -46,7 +46,7 @@ pudendum zum Geburtsschooß, wie der Mensch.
 Aristoteles meint, der Weise σοφός sei der welcher sich nur mit dem
 Wichtigen Wunderbaren Göttlichen beschäftige. Da steckt der Fehler in der ganzen Richtung des Denkens. Gerade
 das Kleine Schwache Menschliche Unlogische Fehlerhafte wird übersehn und doch kann man nur durch
-sorgfältigstes Studium desselben weise werden. Der Weise hat sehr viel Stolz abzulegen,
+sorgfältigstes Studium desselben **weise** werden. Der Weise hat sehr viel Stolz abzulegen,
 er hat nicht die Augenbrauen so hoch zu ziehn, zuletzt ist es der, welcher ein Vergnügen sich macht, das
 Vergnügen des Menschen zu stören.
 
@@ -61,7 +61,7 @@ ist auch hier von Nöthen, aber eine ungeheure Quelle der Macht versiegt freilic
 [23[7]](javascript:;)
 ---------------------
 
-Epikur’s Stellung zum Stil ist typisch für viele Verhältnisse. Er glaubte zur Natur
+**Epikur’s Stellung zum Stil** ist typisch für viele Verhältnisse. Er glaubte zur Natur
 zurückzukehren, weil er schrieb, wie es ihm einfiel. In Wahrheit war so viel Sorge um den Ausdruck in ihm
 vererbt und an ihm großgezogen, daß er nur sich gehen ließ und doch nicht völlig frei und ungebunden war. Die
 „Natur“, die er erreichte, war der durch Gewohnheit angezogene Instinkt für den Stil. Man nennt dies
@@ -76,10 +76,10 @@ Kunst die Wissenschaft verhindernd bei den Griechen.
 [23[9]](javascript:;)
 ---------------------
 
-Warum überhaupt einen Erhaltungstrieb annehmen? Unter zahllosen unzweckmäßigen Bildungen
-kamen lebensfähige, fortlebensfähige vor; es sind millionenjahrelange Anpassungen der
+Warum überhaupt einen **Erhaltungstrieb** annehmen? Unter zahllosen unzweckmäßigen Bildungen
+kamen lebensfähige, **fort**lebensfähige vor; es sind millionenjahrelange Anpassungen der
 einzelnen menschlichen Organe nöthig gewesen, bis endlich der jetzige Körper regelmäßig entstehen konnte und
-bis jene Thatsachen regelmäßig sich zeigen, welche man gewöhnlich dem Erhalt<ungs>trieb
+bis jene Thatsachen regelmäßig sich zeigen, welche man gewöhnlich dem Erhalt&amp;lt;ungs&amp;gt;trieb
 zuschreibt. Im Grunde geht es dabei jetzt ebenso nothwendig, nach chemischen Gesetzen, zu, wie beim
 Wasserfalle mechanisch. Der Finger des Klavierspielers hat keinen „Trieb“ die richtigen Tasten zu treffen,
 sondern nur die Gewohnheit. Überhaupt ist das Wort Trieb nur eine Bequemlichkeit und wird überall dort
@@ -91,7 +91,7 @@ zurückgeführt sind.
 
 Alle Ziele und Zwecke, die der Mensch hat, waren einmal in seinen Vorfahren auch bewußt; aber sie sind
 vergessen worden. Der Mensch hängt in seinen Richtungen sehr von der Vergangenheit ab:
-Platon<ische> ἀνάμνησις. Dem Wurm ist der Kopf abgeschnitten,
+Platon&amp;lt;ische&amp;gt; ἀνάμνησις. Dem Wurm ist der Kopf abgeschnitten,
 aber er bewegt sich in gleicher Richtung.
 
 [23[11]](javascript:;)
@@ -114,7 +114,7 @@ werden soll!) individuale Lebenskräfte, gegen welche dasselbe einzuwenden ist w
 bevor der Mensch ist, ist auch sein Individualwille noch nicht: oder was sollte dieser sein? Im Leben selber
 aber sich äußernd — ja ist denn das Wille zum Leben? Doch mindestens Wille im Leben zu bleiben, also, um den
 bekannteren Ausdruck zu wählen, Erhaltungstrieb. Ist es wahr, daß, wenn der Mensch in sein Inneres blickt, er
-sich als Erhaltungstrieb wahrnimmt? Vielmehr nimmt er nur wahr, daß er immer fühlt,
+sich als **Erhaltungstrieb** wahrnimmt? Vielmehr nimmt er nur wahr, daß er immer fühlt,
 genauer daß er irgend an welchem Organe irgend welche, gewöhnlich ganz unbedeutende Lust- oder
 Unlustempfindungen hat: die Bewegung des Blutes des Magens der Gedärme drückt irgend wie auf die Nerven, er
 ist immer fühlend und immer wechselt dies Gefühl. Der Traum verräth diese innere fortwährende Wandlung des
@@ -122,15 +122,15 @@ Gefühls und deutet sie phantastisch aus. Die Stellungen, die die Glieder im Sch
 Umstellung der Muskeln nöthig und beeinflussen die Nerven und diese wieder das Gehirn. Unser Sehnerv unser Ohr
 unser Getast ist immer irgend wie erregt. Aber mit dem Erhaltungstrieb hat diese Thatsache einer fortwährenden
 Erregtheit und Bemerkbarkeit des Gefühls nichts gemein. Der Erhaltungstrieb oder die Liebe zum Leben ist
-entweder etwas ganz Bewußtes oder nur ein unklares irreführendes Wort für etwas anderes: daß wir der Unlust entgehen wollen, auf alle Weise, und dagegen nach Lust streben. Diese universale
+entweder etwas ganz Bewußtes oder nur ein unklares irreführendes Wort für etwas anderes: daß wir der **Unlust** entgehen wollen, auf alle Weise, und dagegen nach Lust streben. Diese universale
 Thatsache alles Beseelten ist aber jedenfalls keine erste ursprüngliche Thatsache, wie es Schopenhauer vom
 Willen zum Leben annimmt: — Unlust fliehen, Lust suchen setzt die Existenz der Erfahrung und diese wieder den
 Intellekt voraus. — Die Stärke der Wollust beweist nicht den Willen zum Leben, sondern den Willen zur Lust.
 Die große Angst vor dem Tode, mit der Schopenhauer ebenfalls zu Gunsten seiner Annahme vom Willen argumentirt,
 ist in langem Zeitraum großgezüchtet durch einzelne Religionen, welche den Tod als entscheidende Stunde
-ansehen; sie ist hier und da so groß geworden. Falls sie aber unabhängig davon beobachtet
-wird, so ist sie nicht mehr als Angst vor dem Sterben d.h. dem ungeprobten und vielleicht
-zu groß vorgestellten Schmerz dabei, dann vor den Verlusten, welche durch das Sterben
+ansehen; sie ist hier und da so groß **geworden**. Falls sie aber unabhängig davon beobachtet
+wird, so ist sie nicht mehr als Angst vor dem **Sterben** d.h. dem ungeprobten und vielleicht
+zu groß vorgestellten **Schmerz** dabei, dann vor den Verlusten, welche durch das Sterben
 eintreten. Es ist nicht wahr daß man das Dasein um jeden Preis will, z.B. nicht als Thiere, auf welche
 Schopenhauer so gern hinweist um die ungeheure Macht des allgemeinen Willens zum Leben festzustellen.
 
@@ -146,7 +146,7 @@ vielleicht einmal auch der Künste.
 [23[14]](javascript:;)
 ----------------------
 
-Der Weise kennt keine Sittlichkeit mehr außer der, welche ihre Gesetze aus ihm selbst
+Der Weise kennt **keine Sittlichkeit** mehr außer der, welche ihre Gesetze aus ihm selbst
 nimmt; ja schon das Wort „Sittlichkeit“ paßt für ihn nicht. Denn er ist völlig unsittlich geworden, insofern
 er keine Sitte kein Herkommen, sondern lauter neue Lebensfragen und deren Antworten anerkennt. Er bewegt sich
 auf unbegangenen Pfaden vorwärts, seine Kraft wächst, je mehr er wandert. Er ist einer großen Feuersbrunst
@@ -155,7 +155,7 @@ gleich, die ihren eigenen Wind mit sich bringt, und von ihm gesteigert und weite
 [23[15]](javascript:;)
 ----------------------
 
-Um der Kultur seine Erkenntniß zu weihen, sind wir in dem denkbar glücklichsten
+Um der Kultur seine Erkenntniß zu weihen, sind wir in dem denkbar **glücklichsten**
 Zeitpunkte: jede Freiheit der Erkenntniß ist erobert und abgerungen und doch stehen wir allen
 Grundempfindungen, auf denen die alte Kultur ruht, noch nahe. Es wäre möglich, daß dies letztere einige
 Generationen später fehlte! —
@@ -165,13 +165,13 @@ Generationen später fehlte! —
 
 Der Moment, in welchem die Luftschifffahrt erfunden und eingeführt wird, ist günstig für den Socialismus,
 denn der verändert alle Begriffe von Boden-Eigenthum. Der Mensch ist überall und nirgends, er wird entwurzelt.
-Man muß durch Gesellschaften sich sicherstellen, in strenger gegenseitiger Verpflichtung und Ausschließung aller Nichtverpflichteten. Sonst geht alles in die Lüfte und läßt sich anderswo nieder,
+Man muß durch Gesellschaften sich sicherstellen, in strenger gegenseitiger Verpflichtung und **Ausschließung aller Nichtverpflichteten**. Sonst geht alles in die Lüfte und läßt sich anderswo nieder,
 wenn er nicht zahlen kann, nicht Verpflichtung halten mag.
 
 [23[17]](javascript:;)
 ----------------------
 
-Menschen, die keine wissenschaftliche Cultur haben, schwatzen, wenn
+Menschen, die keine **wissenschaftliche** Cultur haben, **schwatzen**, wenn
 sie über ernste und schwere Gegenstände reden und thun es mit Anmaaßung. Sokrates behält recht. Das
 Wichtigthun der Menschen ist beinahe so schlimm als völlige Verrücktheit. Freilich, zum Handeln, zum Ausbau
 der Cultur ist dieser Eifer diese Art Wahnsinn für Meinungen sehr wesentlich. Ohne Wuth kommt nichts zu
@@ -181,7 +181,7 @@ Fahne hoch halten, wenn auch mit keiner Grimasse des Pathos.
 [23[18]](javascript:;)
 ----------------------
 
-Selbst bei den freisinnigsten Denkern schleicht sich Mythologie ein, wenn sie von der Natur reden. Da soll die Natur das und das vorgesehen, erstrebt haben, sich freuen oder: „die
+Selbst bei den freisinnigsten Denkern schleicht sich Mythologie ein, wenn sie von der **Natur** reden. Da soll die Natur das und das vorgesehen, erstrebt haben, sich freuen oder: „die
 menschliche Natur müßte eine Stümperei sein, wenn sie — “. Wille, Natur sind Überbleibsel des alten
 Götterglaubens.
 
@@ -193,7 +193,7 @@ was von Zeiten oder Classen der Gesellschaft gilt; aber dasselbe haben alle Phil
 die Menschen geschrieben haben — erst die Historie in Verbindung mit der Thiergeschichte läßt erkennen, wie
 groß der Mangel an Besonnenheit war. So verweist Schopenhauer, um zu zeigen, daß das Leben der Menschen einen
 moralischen metaphysischen Zweck habe, darauf, daß am Ende des Lebens man sich um seine moralischen Qualitäten
-bewußt werde — als ob ein solches Gefühl, wenn es jetzt wirklich allgemein existirte,
+bewußt werde — als ob ein solches Gefühl, wenn es **jetzt** wirklich allgemein existirte,
 irgend etwas anderes beweisen könnte als daß durch bestimmte Meinungen und Glaubenssätze die Menschen sich
 gewöhnt haben, in der Nähe des Todes an ihre Sünden zu denken: das heißt: eine solche Thatsache, wie sie
 Schopenhauer hinstellt, beweist, daß gewisse metaphysische Vorstellungen existiren und existirt haben, nicht
@@ -215,17 +215,17 @@ Kampf.
 
 Wenn man eine Natur- und Menschenerklärung sucht, welche unsern höchsten und stärksten Stimmungen entspricht,
 so wird man allein auf metaphysische stoßen. Wie es ohne alle diese erhabenen Irrthümer um die Menschen
-aussehen würde — ich glaube thierisch. Dächte man sich ein Thier mit dem Wissen einer
+aussehen würde — ich glaube **thierisch**. Dächte man sich ein Thier mit dem Wissen einer
 strengen Naturkunde begabt, es würde damit kein Mensch werden, sondern im Wesentlichen als Thier fortleben,
 nur daß es in seinen vielen Mußestunden z.B. als Pferd vor der Krippe, gute Bücher läse, welche ihm es völlig
-begreiflich machten, daß die Wahrheit und das Thier sich gut
+begreiflich machten, daß die **Wahrheit** und das **Thier** sich gut
 vertragen.
 
 [23[22]](javascript:;)
 ----------------------
 
-Fast bei allen Philosophen ist die Benutzung des Vorgängers und die Bekämpfung desselben
-nicht streng, und ungerecht. Sie haben nicht gelernt ordentlich zu lesen und zu
+Fast bei allen **Philosophen** ist die Benutzung des Vorgängers und die Bekämpfung desselben
+nicht streng, und ungerecht. Sie haben nicht gelernt **ordentlich zu lesen** und zu
 interpretiren, die Philosophen unterschätzen die Schwierigkeit wirklich zu verstehen, was einer gesagt hat und
 wenden ihre Sorgfalt nicht dahin. So hat Schopenhauer ebensowohl Kant als Plato völlig mißverstanden. Auch die
 Künstler pflegen schlecht zu lesen, sie neigen zum allegorischen und pneumatischen Erklären.
@@ -252,7 +252,7 @@ durch sie genährt und mächtig geworden.
 ----------------------
 
 Man wirft dem Socialismus vor, daß er die thatsächliche Ungleichheit der Menschen übersehe; aber das ist kein
-Vorwurf, sondern eine Charakteristik, denn der Socialismus entschließt sich, jene
+Vorwurf, sondern eine Charakteristik, denn der Socialismus **entschließt** sich, jene
 Ungleichheit zu übersehen und die Menschen als gleich zu behandeln d.h. zwischen allen das Verhältniß der
 Gerechtigkeit eintreten zu lassen, welches auf der Annahme beruht, daß alle gleich mächtig, gleich werthvoll
 seien; ähnlich wie das Christenthum in Hinsicht auf sündhafte Verdorbenheit und Erlösungsbedürftigkeit die
@@ -260,8 +260,8 @@ Menschen als gleich nahm. Die thatsächlichen Differenzen (zwischen gutem und sc
 erscheinen jenem zu gering, so daß man sie bei der Gesammtrechnung nicht in Anschlag bringt; so nimmt auch der
 Socialismus den Menschen als vorwiegend gleich, den Unterschied von gut und böse, intelligent und dumm als
 geringfügig oder als wandelbar: worin er übrigens in Hinsicht auf das Bild des Menschen, welches ferne
-Pfahlbauten-Zeiten gewähren, jedenfalls Recht hat: wir Menschen dieser Zeit sind im
-W<esentlichen> gleich. In jenem Entschluß, über die Differenzen hinweg zu
+Pfahlbauten-Zeiten gewähren, jedenfalls Recht hat: wir Menschen dieser Zeit **sind** im
+W&amp;lt;esentlichen&amp;gt; gleich. In jenem **Entschluß**, über die Differenzen hinweg zu
 sehen, liegt seine begeisternde Kraft.
 
 [23[26]](javascript:;)
@@ -290,7 +290,7 @@ Menschen verwandelt: man möchte sagen, die Welt ist Schopenhauer im Großen. Da
 [23[28]](javascript:;)
 ----------------------
 
-Die bittersten Leiden sind die, welche keine große Erregung mit
+Die bittersten Leiden sind die, welche keine **große** Erregung mit
 sich bringen — denn die hohe Leidenschaft, sie sei welche sie wolle, hat ihr Glück in sich — sondern jene,
 welche nagen, wühlen und stechen: also namentlich die, welche durch rücksichtslose Menschen, welche ihre Art
 von Übermacht benutzen, uns zugefügt werden: etwa mit dem erschwerenden Umstande daß sie dabei von einer
@@ -303,10 +303,10 @@ aber dabei nicht froh; er ist an die Zeit gewiesen, an das Schwächerwerden alle
 [23[29]](javascript:;)
 ----------------------
 
-Zwei Dinge sind schädlich: der nagende Verdruß über eine Unbilde, mit seinem
+Zwei Dinge sind schädlich: der nagende **Verdruß** über eine Unbilde, mit seinem
 hundertfachen Wiederkäuen Ausspeien des Erlebten, dann matte imaginäre Rachebefriedigungen — eine wirkliche
 Rache und eine schnelle, wenn ihre Folgen uns auch mit Schmerz belasten, ist viel gesünder. Sodann das Leben
-in erotischen Vorstellungen, welche die Phantasie beschmutzen und allmählich eine
+in **erotischen** Vorstellungen, welche die Phantasie beschmutzen und allmählich eine
 Oberherrschaft gewinnen, bei welcher die Gesundheit leidet. — Die Selbsterziehung hat hier vorzubeugen: beiden
 Trieben muß auf die natürliche Art entsprochen werden und die Vorstellung rein erhalten werden. Die versagte
 Rache und die versagte Liebe machen den Menschen krank, schwach und schlecht.
@@ -320,7 +320,7 @@ Schlangen stellen sich zwar harmlos —
 [23[31]](javascript:;)
 ----------------------
 
-In welchem Gedichte wird soviel geweint wie in der Odyssee? — Und höchst wahrscheinlich
+In welchem Gedichte wird soviel **geweint** wie in der Odyssee? — Und höchst wahrscheinlich
 wirkte das Gedicht auch ebenso auf die zuhörenden Griechen der älteren Zeit; jeder genoss dabei unter Tränen
 die Erinnerung an alles Erlittene und Verlorne. Jeder ältere Mann hatte eine Anzahl Erlebnisse mit Odysseus
 gemein, er fühlte dem Dulder alles nach. — Mich rührt oft das gar nicht Rührende, sondern das Einfache
@@ -330,33 +330,33 @@ Gesang.
 [23[32]](javascript:;)
 ----------------------
 
-Vielleicht ist der unegoistische Trieb eine späte Entwicklung des socialen Triebes; jedenfalls nicht umgekehrt. Der sociale Trieb entsteht aus dem Zwange, welcher
+Vielleicht ist der **unegoistische** Trieb eine späte Entwicklung des **socialen** Triebes; jedenfalls nicht umgekehrt. Der sociale Trieb entsteht aus dem Zwange, welcher
 ausgeübt wird, sich für ein anderes Wesen zu interessiren (der Sclave für seinen Herrn, der Soldat für seinen
 Führer) oder aus der Furcht, mit ihrer Einsicht, dass wir zusammen wirken müssen, um nicht einzeln zu Grunde
 zu gehen. Diese Empfindung, vererbt, entsteht später, ohne dass das ursprüngliche Motiv mit in’s Bewusstsein
 trete; es ist zum Bedürfniss geworden, welches nach der Gelegenheit ausschaut sich zu bethätigen. Für andere,
-für eine Gemeinsamkeit, für eine Sache (wie Wissenschaft) sich interessiren erscheint
+für eine Gemeinsamkeit, für eine Sache (wie Wissenschaft) sich interessiren **erscheint**
 dann als unegoistisch, ist es aber im Grunde nicht gewesen. —
 
 [23[33]](javascript:;)
 ----------------------
 
 Gründliche Kenner der Nordamerikaner sagen dass „die herrschende Meinung in den Vereinigten Staaten sich
-gegen jeden erklärt, der es unterlässt nach dem Höchsten zu streben, was für ihn
-erreichbar ist. Zurückbleiben aus freiem Willen gilt geradezu als Schande, als eine Art
+gegen jeden erklärt, der es unterlässt nach dem **Höchsten** zu streben, was für ihn
+erreichbar ist. **Zurückbleiben aus freiem Willen** gilt geradezu als Schande, als eine Art
 von Vergehen, gegen die Gesellschaft.“
 
 [23[34]](javascript:;)
 ----------------------
 
-Die Welt ohne Eros. — Man bedenke, dass, vermöge des Eros, zwei Menschen an einander
+**Die Welt ohne Eros. —** Man bedenke, dass, vermöge des Eros, zwei Menschen an einander
 gegenseitig Vergnügen haben: wie ganz anders würde diese Welt des Neides der Angst und der Zwietracht ohne
 diess aussehen!
 
 [23[35]](javascript:;)
 ----------------------
 
-Tragische Jünglinge. — In der Neigung der Jünglinge für die Tragödie, in ihrer Manier
+**Tragische Jünglinge. —** In der Neigung der Jünglinge für die Tragödie, in ihrer Manier
 sich trübselige Geschicke zu prophezeien, von den Menschen schlecht zu denken, ist etwas von jener Lust
 versteckt, welche in ihnen rege wird, wenn einer ausruft: „Wie weise ist er für sein Alter: wie kennt er schon
 den Lauf der Welt!“
@@ -384,7 +384,7 @@ fähig“.
 [23[38]](javascript:;)
 ----------------------
 
-Auch wenn man Martern und den Tod für seinen Glauben erduldet, beweist man nichts für die Wahrheit, sondern nur für die Stärke des Glaubens an das, was man für Wahrheit
+Auch wenn man Martern und den Tod für seinen Glauben erduldet, beweist man nichts für die **Wahrheit**, sondern nur für die **Stärke des Glaubens** an das, was man für Wahrheit
 hält. (Das Christenthum freilich geht von dem unstatthaften Einfalle aus: „was stark geglaubt wird, ist wahr“.
 „Was stark geglaubt wird, macht selig, muthig, usw.“) Das Pathos der „Wahrheit“ ist an sich nicht förderlich
 für dieselbe, insofern es dem erneuten Prüfen und Forschen entgegenwirkt. Es ist eine Art Blindheit mit ihm
@@ -401,20 +401,20 @@ Der welcher über die inneren Motive des Menschen schreibt, hat nicht nur kalt a
 kann er seine Schlüsse nicht glaubhaft machen. Er muß die Erinnerung an diese und jene Leidenschaft, Stimmung
 erwecken können, und muß also ein Künstler der Darstellung sein. Dazu wiederum ist nöthig, daß er alle diese
 Affekte aus Erfahrung kennt; denn sonst wird er indigniren durch Kälte und den Anschein von Geringschätzung
-dessen, was die anderen Menschen so tief bewegt und erschüttert hat. Daher muß er die
+dessen, was die anderen Menschen so **tief** bewegt und erschüttert hat. Daher muß er die
 wichtigsten Stufen der Menschheit durchgemacht haben und fähig sein, sich auf sie zu stellen: er muß religiös,
 künstlerisch, wollüstig, ehrgeizig böse und gut, patriotisch und kosmopolitisch, aristokratisch und plebejisch
-gewesen sein und die Kraft der Darstellung behalten haben. Denn bei seinem Thema ist es
+**gewesen** sein und die Kraft der Darstellung behalten haben. Denn bei seinem Thema ist es
 nicht wie bei der Mathematik, wo ganz bestimmte Mittel des Ausdrucks, Zahlen Linien da sind, welche ganz
-unzweideutig sind. Jedes Wort über die Motive des Menschen ist unbestimmt und andeutend, man muß aber stark anzudeuten verstehen, um ein starkes Gefühl darzustellen.
+unzweideutig sind. Jedes Wort über die Motive des Menschen ist unbestimmt und andeutend, man muß aber **stark** anzudeuten verstehen, um ein starkes Gefühl darzustellen.
 
 [23[40]](javascript:;)
 ----------------------
 
-Es giebt tröpfelnde Denker und fließende, wie sich die Quellen
+Es giebt **tröpfelnde** Denker und **fließende**, wie sich die Quellen
 ebenso unterscheiden. Lichtenberg hält fleißig unter und bekommt endlich den Becher voll; aber er hat die Zeit
 nicht gehabt, uns den Becher voll zu reichen; seine Verwandten haben uns die Tropfen zugemessen. Da wird man
-leicht unbillig. An sich erweckt der fließende Denker den Anschein der vollen Kraft, aber
+leicht unbillig. An sich erweckt der fließende Denker den Anschein der **vollen Kraft**, aber
 es kann auch nur Täuschung sein.
 
 [23[41]](javascript:;)
@@ -432,7 +432,7 @@ Verdächtigung hätten.
 [23[42]](javascript:;)
 ----------------------
 
-Der Reiz mancher Schriften z.B. des Tristram Shandy beruht unter anderem darauf, daß der
+Der **Reiz** mancher Schriften z.B. des Tristram Shandy beruht unter anderem darauf, daß der
 angeerbten und angezogenen Scheu, manche Dinge nicht zu sehen, sich nicht einzugestehen, in ihnen widerstrebt
 wird, daß also mit einer gewissen „Keuschheit der Seele“ ein schelmisches Spiel getrieben wird. Dächte man
 sich diese Scheu nicht mehr angeerbt, so würde jener Reiz verschwinden. Insofern ist der Werth der
@@ -445,12 +445,12 @@ Schaden thut.
 [23[43]](javascript:;)
 ----------------------
 
-Die außerordentliche Unsicherheit alles Unterrichtswesens hat darin
+Die außerordentliche **Unsicherheit** alles **Unterrichtswesens** hat darin
 ihren Grund, daß es kein gemeinsam anerkanntes Fundament mehr giebt, und daß jetzt weder Christenthum noch
 Alterthum noch Naturwissenschaft noch Philosophie eine überstimmende und herrschende Macht haben. Man bewegt
 sich schwankend zwischen sehr verschiedenen Ansprüchen: zuletzt will gar noch der Nationalstaat eine
 „nationale“ Kultur, um damit die Unklarheit auf den Gipfel zu bringen — denn national und Kultur sind
-Widersprüche. Selbst an den Universitäten, den Festungen der Wissenschaft, giebt es Leute, welche über der Wissenschaft noch als höhere Mächte Religion oder Metaphysik, mit der Heimlichkeit
+Widersprüche. Selbst an den Universitäten, den Festungen der Wissenschaft, giebt es Leute, welche **über** der Wissenschaft noch als höhere Mächte Religion oder Metaphysik, mit der Heimlichkeit
 von Verräthern, anerkennen.
 
 [23[44]](javascript:;)
@@ -466,7 +466,7 @@ Erziehung auf, ja überwiegt bei weitem. Im Allgemeinen sind alle Lehrer-Urtheil
 und voreilig: und kein Beweis von wissenschaftlicher Sorgfalt und Behutsamkeit. Man versuche es nur immer mit
 einer Gleichsetzung und Gleichschätzung aller Schüler und nehme das Niveau ziemlich hoch, ja man behandle
 alles Censurengeben mit ersichtlicher Geringschätzung und beschränke sich darauf, den Gegenstand des
-Unterrichts interessant zu machen, so sehr daß der Lehrer es sich, vor der Klasse, anrechnet, wenn ein Schüler sich auffällig uninteressirt zeigt —: es ist ein bewährtes
+Unterrichts interessant zu machen, so sehr daß der Lehrer es **sich**, **vor** der Klasse, anrechnet, wenn ein Schüler sich auffällig uninteressirt zeigt —: es ist ein bewährtes
 Recept, und läßt überdies das Gewissen des Lehrers ruhiger. — Es versteht sich übrigens von selbst, daß
 Klassenerziehung eben nur ein Nothbehelf ist, wenn der einzelne Mensch durchaus nicht von einem einzelnen
 Lehrer erzogen werden kann und somit der individuelle Charakter und die Begabung ihren eigenen Wegen
@@ -478,12 +478,12 @@ Gefahr? —
 
 Verwunderung der Naiven daß der Staat die Erziehung und Schule nicht ganz unparteiisch fördert: wozu hätte er
 sonst sie mit aller Mühe in die Hand genommen! Das Mittel, die Geister zu beherrschen. (Anwartschaft aller
-Lehrer auf Stellen! so hat man sie.)
+Lehrer auf Stellen! so **hat** man sie.)
 
 [23[46]](javascript:;)
 ----------------------
 
-Wir gewinnen eine neue Freude hinzu, wenn uns die metaphysischen Vorstellungen Humor
+Wir gewinnen eine neue Freude hinzu, wenn uns die **metaphysischen Vorstellungen** Humor
 machen, und die feierliche Miene, die Rührung der angeblichen Entdeckung, der geheimnißvolle Schauer wie eine
 alte Geistergeschichte uns anmuthet. Seien wir nicht gegen uns mißtrauisch! Wir haben doch die Resultate
 langer Herrschaft der Metaphysik in uns, gewisse complexe Stimmungen und Empfindungen, welche zu den höchsten
@@ -499,12 +499,12 @@ Rée als scharfzielender Schütze zu bezeichnen welcher immer ins Schwarze triff
 [23[48]](javascript:;)
 ----------------------
 
-Die moralische Selbstbeobachtung genügt jetzt keineswegs, Historie und die Kenntniß der
+Die moralische **Selbstbeobachtung** genügt jetzt keineswegs, Historie und die Kenntniß der
 zurückgebliebenen Völkerschaften gehört dazu, um die verwickelten Motive unseres Handelns kennen zu lernen. In
-ihnen spielt <sich> die ganze Geschichte der Menschheit ab, alle ihre großen Irrthümer und
+ihnen spielt &amp;lt;sich&amp;gt; die ganze Geschichte der Menschheit ab, alle ihre großen Irrthümer und
 falschen Vorstellungen sind mit eingeflochten; weil wir diese nicht mehr theilen, suchen wir sie auch nicht
-mehr in den Motiven unserer Handl<ungen>, aber als Stimmung Farbe Oberton erklingen sie mit
-darin. Man meint, wenn man die Motive des Menschen classificirt nach der nothwendigen
+mehr in den Motiven unserer Handl&amp;lt;ungen&amp;gt;, aber als Stimmung Farbe Oberton erklingen sie mit
+darin. Man meint, wenn man die Motive des Menschen classificirt nach der **nothwendigen**
 Befriedigung seiner Ansprüche, dann habe man wirklich alle Motive aufgezählt. Aber es gab zahllose fast
 unglaubliche, ja verrückte Bedürfnisse, welche nicht so leicht jetzt zu errathen wären: diese alle wirken
 jetzt noch mit.
@@ -513,7 +513,7 @@ jetzt noch mit.
 ----------------------
 
 Manchmal überkommt uns, etwa bei der tiefsten Erschütterung durch einen Trauerfall Treubruch Liebeswerbung,
-eine Empörung wenn wir die naturalistisch historische Erklärung hören. Aber solche Empfindungen beweisen nichts, sie sind wiederum nur zu erklären. Die Empfindungen sind tief geworden, aber nicht immer gewesen; und jenen höchsten Steigerungen entspricht kein realer
+eine Empörung wenn wir die naturalistisch historische Erklärung hören. Aber solche Empfindungen **beweisen** nichts, sie sind wiederum nur zu erklären. Die Empfindungen sind tief **geworden**, aber nicht immer gewesen; und jenen höchsten Steigerungen entspricht kein realer
 Grund, sie sind Imaginationen.
 
 [23[50]](javascript:;)
@@ -535,24 +535,24 @@ Protestantismus ist eben auch nur nordischen Naturen begreiflich.
 
 Die Musik ist erst allmählich so symbolisch geworden, die Menschen haben immer mehr gelernt, bei gewissen
 Wendungen und Figuren seelische Vorgänge mitzuverstehen. Von vorn herein liegen sie nicht darin. Musik ist
-nicht unmittelbarer Ausdruck des Willens, sondern erst in der Fülle der Kunst kann sie so erscheinen.
+nicht unmittelbarer Ausdruck des Willens, sondern erst in der Fülle der Kunst kann sie so **erscheinen**.
 
 [23[53]](javascript:;)
 ----------------------
 
 Musik hat als gesammte Kunst gar keinen Charakter, sie kann heilig und gemein sein, und beides ist sie erst,
 wenn sie durch und durch symbolisch geworden ist. Jene sublimirten Verherrlichungen der Musik überhaupt, wie
-sie z.B. bei Bettina zu finden sind, sind Beschreibungen von Wirkungen gewisser Musik auf
-ganz bestimmte Individuen, welche alle jene sublimirten Zustände in sich haben und durch
+sie z.B. bei Bettina zu finden sind, sind Beschreibungen von Wirkungen **gewisser** Musik auf
+ganz bestimmte Individuen, welche alle jene sublimirten Zustände in sich haben und **durch**
 sie nun auch der Musik sich nähern.
 
 [23[54]](javascript:;)
 ----------------------
 
-Man lobt das Unegoistische ursprünglich, weil es nützlich, das Egoistische <tadelt man>, weil
-es schädlich ist. Wie aber, wenn dies ein Irrthum wäre! Wenn das Egoistische in viel
+Man lobt das Unegoistische ursprünglich, weil es nützlich, das Egoistische &amp;lt;tadelt man&amp;gt;, weil
+es schädlich ist. Wie aber, wenn dies ein **Irrthum** wäre! Wenn das Egoistische in viel
 höherem Grade nützlich wäre, auch den anderen Menschen, als das Unegoistische! Wie wenn man beim Tadel des
-Egoistischen immer nur an den dummen Egoismus gedacht hätte! Im Grunde lobte man die
+Egoistischen immer nur an den **dummen** Egoismus gedacht hätte! Im Grunde lobte man die
 Klugheit? — Freilich Güte und Dummheit gehen auch zusammen, un bon homme usw.
 
 [23[55]](javascript:;)
@@ -564,7 +564,7 @@ Scottischen Stile; er ist durchaus meisterhaft sicher.
 [23[56]](javascript:;)
 ----------------------
 
-Lob Epicur’s. — Die Weisheit ist um keinen Schritt über Epikur
+**Lob Epicur’s. —** Die Weisheit ist um keinen Schritt über **Epikur**
 hinausgekommen — und oftmals viele tausend Schritt hinter ihn zurück.
 
 [23[57]](javascript:;)
@@ -587,20 +587,20 @@ Wagnerische Musik nicht, weil sie nicht genussfähig durch höchste musikalische
 Menschen, welche sich in hervorragender Weise vom Ererbt-Sittlichen loslösen „gewissen“-los sind, können dies
 nur in der gleichen Weise werden, wie Missgeburten entstehen; das Wachsen und Sich-bilden geht ja nach der
 Geburt fort, in Folge der angeerbten Gewohnheiten und Kräfte. So könnte man in jenem Falle den Begriff der
-Missgeburt erweitern und etwa von Missgebilden reden. Gegen solche hat die übrige
+Missgeburt erweitern und etwa von **Missgebilden** reden. Gegen solche hat die übrige
 Menschheit dieselben Rechte wie gegen die Missgeburten und Monstra: sie darf sie vernichten, um nicht die
-Propagation des Zurückgebliebenen Missrathenen zu fördern. Z.B. der Mörder ist ein
+Propagation des Zurückgebliebenen Missrathenen zu fördern. Z.B. der **Mörder** ist ein
 Missgebilde. —
 
 [23[60]](javascript:;)
 ----------------------
 
-Eine gewöhnliche Erfahrung: es ging schlecht, aber viel besser als ich glaubte.
+**Eine gewöhnliche Erfahrung:** es ging schlecht, aber viel besser als ich glaubte.
 
 [23[61]](javascript:;)
 ----------------------
 
-Glück und Unglück. — Bei manchen Menschen zeigt sich das Glück ergreifender als ihr
+**Glück und Unglück. —** Bei manchen Menschen zeigt sich das Glück ergreifender als ihr
 Unglück. — Wer kann heitere Musik aus einem Irrenhause heraus tönend ohne Thränen hören?
 
 [23[62]](javascript:;)
@@ -613,27 +613,27 @@ um einen Ton und erlangt eine eigne Selbstständigkeit, welche aber nur Täuschu
 [23[63]](javascript:;)
 ----------------------
 
-Das Hauptelement des Ehrgeizes ist, zum Gefühl seiner Macht zu
+Das Hauptelement des Ehrgeizes ist, zum **Gefühl** seiner **Macht** zu
 kommen. Die Freude an der Macht ist nicht darauf zurückzuführen, dass wir uns freuen, in der Meinung anderer
 bewundert dazustehen. Lob und Tadel, Liebe und Hass sind gleich für den Ehrsüchtigen, welcher Macht will.
 
 Furcht (negativ) und Wille zur Macht (positiv) erklären unsere starke Rücksicht auf die Meinungen der
 Menschen.
 
-Lust an der Macht. — Die Lust an der Macht erklärt sich aus der hundertfältig erfahrenen
+**Lust an der Macht. —** Die Lust an der Macht erklärt sich aus der hundertfältig erfahrenen
 Unlust der Abhängigkeit, der Ohnmacht. Ist diese Erfahrung nicht da, so fehlt auch die Lust.
 
 [23[64]](javascript:;)
 ----------------------
 
-Zeichen höherer Naturen. — Die metaphysischen Vorstellungen eines Menschen sind
+**Zeichen höherer Naturen. —** Die metaphysischen Vorstellungen eines Menschen sind
 Zeugnisse für seine höhere Natur, edlere Bedürfnisse: insofern soll man immer im würdigsten Tone von ihnen
 reden.
 
 [23[65]](javascript:;)
 ----------------------
 
-Nutzen und Nachtheil alles Märtyrerthums. — Die vielen Märtyrertode sind Kraftquellen
+**Nutzen und Nachtheil alles Märtyrerthums. —** Die vielen Märtyrertode sind Kraftquellen
 für die Menschen geworden, nach der Seite der Überzeugungs-Hartnäckigkeit, nicht nach der Seite der strengen
 Wahrheitsprüfung. Die Grausamkeiten schaden der Wahrheit, aber nützen dem Willen (der sich im Glauben
 manifestirt).
@@ -650,7 +650,7 @@ zu dienen.
 [23[67]](javascript:;)
 ----------------------
 
-Übliche Form des Argwohns. — Man ist unbillig argwöhnisch gegen Bücher, deren Resultate
+**Übliche Form des Argwohns. —** Man ist unbillig argwöhnisch gegen Bücher, deren Resultate
 uns missfallen — und umgekehrt. In einer Partei werden die Grundsätze des Parteikampfes niemals ernsthaft
 geprüft; nur die entgegenstrebenden Parteien und deren Interessen bringen eine starke Kritik hervor.
 
@@ -663,7 +663,7 @@ hätte die Sache ganz verfehlt.
 [23[69]](javascript:;)
 ----------------------
 
-Ablösung des Zufälligen durch das Nothwendige. — Im Stadium höherer geistiger Befreiung
+**Ablösung des Zufälligen durch das Nothwendige. —** Im Stadium höherer geistiger Befreiung
 soll man alles Zufällig-Natürliche, mit dem man das Leben verknüpft hat, durch Gewähltes-Nöthiges ersetzen.
 Wer unzureichende Freunde von früher her hat, soll sich lösen; einen neuen Vater, neue Kinder soll man sich
 unter Umständen wählen.
@@ -671,7 +671,7 @@ unter Umständen wählen.
 [23[70]](javascript:;)
 ----------------------
 
-Grosse Wirkungen falsch abgeleitet. — Grosse Wirkungen auf grosse Ursachen
+**Grosse Wirkungen falsch abgeleitet. —** Grosse Wirkungen auf grosse Ursachen
 zurückzuführen ist ein sehr gewöhnlicher Fehlschluss. Erstens können es kleine Ursachen sein, welche aber eine
 lange Zeit wirken. Dann kann das Object, auf welches gewirkt wird, wie ein vergrössernder Spiegel sein: ein
 schlechter Dichter kann grosse Wirkung thun, weil das Publikum gerade ihm homogen ist, z.B. Uhland unter
@@ -691,7 +691,7 @@ Nicht die Abwesenheit der Liebe, sondern die Abwesenheit der Freundschaft macht 
 [23[73]](javascript:;)
 ----------------------
 
-Der Ausdruck „Lohn“ ist aus der Zeit her in unsere verschleppt, in welcher der
+Der Ausdruck **„Lohn“** ist aus der Zeit her in unsere verschleppt, in welcher der
 Niedriggeborne Unfreie wenn man ihm überhaupt etwas gab oder gönnte sich immer beglückt begnadet fühlte, wo er
 wie ein Thier bald durch die Peitsche bald durch Lockungen aufgemuntert wurde, aber niemals etwas „verdiente“.
 Wenn jener thut, was er thun muss, so ist kein Verdienst dabei: wird er trotzdem belohnt, so ist dies eine
@@ -700,7 +700,7 @@ Wenn jener thut, was er thun muss, so ist kein Verdienst dabei: wird er trotzdem
 [23[74]](javascript:;)
 ----------------------
 
-Die jetzigen Dramatiker gehen häufig von einem falschen Begriff des Dramas aus und sind Drastiker: es muß bei ihnen um jeden Preis geschrieen gelärmt geschlagen geschossen getödtet werden.
+Die jetzigen Dramatiker gehen häufig von einem falschen Begriff des Dramas aus und sind **Drastiker**: es muß bei ihnen um jeden Preis geschrieen gelärmt geschlagen geschossen getödtet werden.
 Aber „Drama“ bedeutet „Ereigniß “ factum, im Gegensatz zum fictum. Nicht einmal die historische Ableitung des
 griechischen Wort-Begriffs giebt ihnen Recht. Die Geschichte des Dramas aber erst recht nicht; denn der
 Darstellung des Drastischen gehen die Griechen gerade aus dem Wege.
@@ -708,22 +708,22 @@ Darstellung des Drastischen gehen die Griechen gerade aus dem Wege.
 [23[75]](javascript:;)
 ----------------------
 
-Der ehemalige Wunderbeweis. — Wenn jemand seine Hand in glühend flüssiges Metall taucht
+**Der ehemalige Wunderbeweis. —** Wenn jemand seine Hand in glühend flüssiges Metall taucht
 und unversehrt herauszieht, so setzt es immer noch in Erstaunen aber ehemals meinte man gewiß ein Wunder zu
 sehen: der es that, glaubte selber an eine geheimnißvolle Kraft und übernatürlichen Beistand. Auch der,
 welcher die Erklärung der Thatsache jetzt nicht weiß, meint doch, es gehe natürlich zu und es werde ihm so gut
-glücken wie jenem. Ehemals hätte man jede Behauptung damit beweisen können und jeder
+glücken wie jenem. Ehemals hätte man jede Behauptung damit **beweisen** können und jeder
 hätte einem solchen Beweise geglaubt.
 
 [23[76]](javascript:;)
 ----------------------
 
-Die wissenschaftlichen Methoden entlasten die Welt von dem großen Pathos, sie zeigen,
+Die wissenschaftlichen Methoden **entlasten** die Welt von dem großen Pathos, sie zeigen,
 wie grundlos man sich in diese Höhe der Empfindung hineingearbeitet hat. Man lacht und wundert sich jetzt über
 einen Zank, der zwei Feinde und allmählich ganze Geschlechter rasend macht und zuletzt das Schicksal der
 Völker bestimmt, während vielleicht der Anlaß längst vergessen ist: aber ein solcher Vorgang ist das Symbol
 aller großen Affekte und Leidenschaften in der Welt, welche in ihrem Ursprunge immer lächerlich klein sind.
-Nun bleibt zunächst der Mensch verwundert vor der Höhe seines Gefühls und der Niedrigkeit des Ursprungs stehen; auf die Dauer mildert sich dieser Gegensatz, denn das
+Nun bleibt zunächst der Mensch verwundert vor der **Höhe** seines Gefühls und der **Niedrigkeit** des Ursprungs stehen; auf die Dauer mildert sich dieser Gegensatz, denn das
 beschämende Gefühl des Lächerlichen arbeitet still an dem Menschen, der hier einmal zu erkennen angefangen
 hat. — Es giebt anspruchsvolle Tugenden, welche ihre Höhe nur unter metaphysischen Voraussetzungen behaupten
 können z.B. Virginität; während sie an sich nicht viel bedeutet, als eine blasse unproduktive Halbtugend,
@@ -732,15 +732,15 @@ welche überdies geneigt macht, über die Mitmenschen recht ketzerrichterisch ab
 [23[77]](javascript:;)
 ----------------------
 
-Unterscheidet man Stufen der Moralität, so würde ich als erste nennen: Unterordnung unter das Herkommen, Ehrfurcht und Pietät gegen das Herkommen und seine Träger (die Alten) als zweite Stufe. Gebundensein des Intellekts, Beschränkung seines Herumgreifens
-und Versuchens, Steigerung des Gefühls innerhalb des abgegrenzten Bereichs erlaubter
+Unterscheidet man Stufen der Moralität, so würde ich als erste nennen: Unterordnung unter das Herkommen, **Ehrfurcht** und **Pietät** gegen das Herkommen und seine **Träger** (die Alten) als zweite Stufe. Gebundensein des Intellekts, Beschränkung seines Herumgreifens
+und Versuchens, **Steigerung des Gefühls** innerhalb des abgegrenzten Bereichs erlaubter
 Vorstellungen. — Dagegen die Forderung des unegoistischen unpersönlichen Handelns, worin man gewöhnlich den
 Ursprung der Moralität sieht, gehört den pessimistischen Religionen an, insofern diese von der Verwerflichkeit
 des ego, der Person ausgehen, also die metaphysische Bedeutung des „Radikal-Bösen“ vorher in den Menschen
 gelegt haben müssen. Von der pessimistischen Religion her hat Kant sowohl das Radikal-Böse als den Glauben daß
 das Unegoistische das Kennzeichen des Moralischen sei. Nun existirt dies aber nur, wie Schopenhauer richtig
 sah, im Nachgeben gegen bestimmte Empfindungen, z.B. des Mitleidens Wohlwollens. Empfindungen kann man aber
-nicht fordern, anbefehlen. Die Moral hat aber immer gefordert, sie wird somit
+**nicht fordern**, anbefehlen. Die Moral hat aber immer gefordert, sie wird somit
 „mitleidig und wohlwollend sein (unegoistisch sein) nicht als entscheidende Kennzeichen des „moralischen
 Menschen“ gelten lassen: wie man ja thatsächlich oft von „unmoralischen Menschen“ spricht, welche aber sehr
 gutmüthig und mitleidig sind.
@@ -750,7 +750,7 @@ gutmüthig und mitleidig sind.
 
 Die falsche Voraussetzung aller Moral ist der Irrthum, daß der Mensch frei handele und verantwortlich sei.
 Jedes Gesetz, jede Vorschrift (in Staat, Gesellschaft, Schule) setzt diesen Glauben voraus, wir sind so daran
-gewöhnt, daß wir loben und tadeln, auch nach der erworbenen Einsicht in die
+gewöhnt, daß wir loben und tadeln, auch **nach** der erworbenen Einsicht in die
 Unverantwortlichkeit: während wir doch die Natur nicht tadeln und loben. Unegoistische Handlungen fordern, wie
 es die pessimistischen Religionen thun, Liebe fordern: das setzt denselben Grundirrthum voraus.
 
@@ -763,12 +763,12 @@ denken; auch die Thiere haben sie vielfach. Überall wo das Weibchen seltener is
 Auffindung dem Männchen Mühe gemacht hat, entsteht die Begierde, den Besitz desselben gegen neue Ansprüche
 anderer Männchen zu vertheidigen. Das Männchen läßt das einmal erworbene Weibchen nicht wieder los, weil es
 weiß, wie schwer ein neues zu finden ist, wenn es dies verloren hat. Die Monogamie ist nicht freiwillige
-Beschränkung auf ein Weib, während man unter vielen die Auswahl hat, sondern die
+Beschränkung auf **ein** Weib, während man unter vielen die Auswahl hat, sondern die
 Behauptung eines Besitzthums in weiberarmen Verhältnissen. Deshalb ist die Eifersucht bis zu der gegenwärtigen
 Stärke angeschwollen und aus dem Thierreich her in überaus langen Zeiträumen auf uns vererbt. In den
 Menschenstaaten ist das Herkommen der Monogamie vielfach aus verschiedenen Rücksichten der Nützlichkeit
 sanktionirt worden, vor allem zum Wohle der möglichst fest zu organisirenden Familie. Auch wuchs die Schätzung
-des Weibes in derselben, so daß es von sich aus später das Verhältniß der Monogamie allen
+des Weibes in derselben, so daß es **von sich aus** später das Verhältniß der Monogamie allen
 übrigen vorzog. — Wenn thatsächlich das Weib ein Besitzstück nach Art eines Haussklaven war, so stellte sich
 doch bei dem Zusammenleben zweier Menschen, bei gemeinsamen Freuden und Leiden, und weil das Weib auch manches
 verweigern konnte, in manchem dem Mann als Stellvertreter dienen konnte, eine höhere Stellung des Eheweibes
@@ -787,28 +787,28 @@ Schmerz und Begehren können wir gar nicht vom Intellekt mehr losgetrennt denken
 Zartheit des Gemüths ist durch zahllose Gedankenvorgänge großgezüchtet worden; wie die Poesie sich zur
 jetzigen Musik verhält, als die Lehrerin aller Symbolik, so der Gedanke zum jetzigen Gemüth. Diese Gedanken
 sind vielfache Irrthümer gewesen; z.B. die Stimmung der Frömmigkeit ruht ganz auf dem Irrthume. Lust und
-Schmerz ist wie eine Kunst ausgebildet worden, genau durch dieselben Mittel wie eine
+Schmerz ist wie eine **Kunst** ausgebildet worden, genau durch dieselben Mittel wie eine
 Kunst. Die eigentlichen Motive der Handlungen verhalten sich jetzt so wie die Melodien der jetzigen Musik; es
 ist gar nicht mehr zu sagen, wo Melodie, wo Begleitung Harmonie ist; so ist bei den Motiven der Handlungen
 alles künstlich gewebt, mehrere Motive bewegen sich neben einander und geben sich gegenseitig Harmonie Farbe
 Ausdruck Stimmung. Bei gewissen Stimmungen meinen wir wohl den Willen abgesondert vom Intellekt zu haben, es
 ist eine Täuschung; sie sind ein Resultat. Jede Regung ist intellektual geworden; was einer z.B. bei der Liebe
 empfindet, ist das Ergebniß alles Nachdenkens darüber, aller je damit verbundenen Metaphysik, aller verwandten
-miterklingenden Nachbarstimmungen.
+**miterklingenden Nachbarstimmungen**.
 
 [23[81]](javascript:;)
 ----------------------
 
-Bei dem Ursprunge der Kunst hat man nicht von aesthetischen Zuständen und dergleichen
+Bei dem **Ursprunge der Kunst** hat man nicht von aesthetischen Zuständen und dergleichen
 auszugehen; das sind späte Resultate, ebensowie der Künstler. Sondern der Mensch wie das Thier sucht die Lust
 und ist darin erfindsam. Die Moralität entsteht, wenn er das Nützliche sucht d.h. das was nicht sogleich oder
-gar nicht Lust gewährt, aber Schmerzlosigkeit verbürgt, namentlich im Interesse Mehrerer.
-Das Schöne und die Kunst geht auf das direkte Erzeugen möglichst vieler und mannichfaltiger Lust zurück. Der Mensch hat die thierische Schranke einer Brunstzeit übersprungen; das zeigt ihn auf
+gar nicht Lust gewährt, aber **Schmerzlosigkeit** verbürgt, namentlich im Interesse Mehrerer.
+Das Schöne und die Kunst geht auf das direkte Erzeugen möglichst vieler und mannichfaltiger **Lust** zurück. Der Mensch hat die thierische Schranke einer Brunstzeit übersprungen; das zeigt ihn auf
 der Bahn der Lust-Erfindung. Viele Sinnenfreuden hat er von den Thieren her geerbt (der Farbenreiz bei den
-Pfauen, die Gesangfreude bei den Singvögeln). Der Mensch erfand die Arbeit ohne Mühe, das Spiel, die Bethätigung ohne vernünftigen Zweck. Das Schweifen der Phantasie, das Ersinnen des
+Pfauen, die Gesangfreude bei den Singvögeln). Der Mensch erfand die Arbeit ohne Mühe, das **Spiel**, die Bethätigung ohne vernünftigen Zweck. Das Schweifen der Phantasie, das Ersinnen des
 Unmöglichen, ja des Unsinnigen macht Freude, weil es Thätigkeit ohne Sinn und Zweck ist. Mit den Armen und
 Beinen sich bewegen ist ein Embryo des Kunsttriebs. Der Tanz ist Bewegung ohne Zweck; Flucht vor der
-Langeweile ist die Mutter der Künste. Alles Plötzliche gefällt, wenn es nicht schadet, so der Witz, das Glänzende, Starktönende (Licht Trommellärm). Denn eine Spannung
+Langeweile ist die Mutter der Künste. Alles **Plötzliche** gefällt, wenn es nicht **schadet**, so der Witz, das Glänzende, Starktönende (Licht Trommellärm). Denn eine Spannung
 löst sich, dadurch daß es aufregt und doch nicht schadet. Die Emotion an sich wird erstrebt, das Weinen, der
 Schrecken (in der Schauergeschichte) die Spannung: alles was aufregt, ist angenehm, also die Unlust im
 Gegensatz zur Langeweile als Lust empfunden.
@@ -823,7 +823,7 @@ opfern, hier heiligt der gute Zweck das Mittel. Wer die Menschheit eines Experim
 würde von uns wie ein ganz gefährliches Subjekt in Banden gelegt werden; wir fordern: das Wohl der Menschheit
 muß der Grenzgesichtspunkt im Bereich der Forschung nach Wahrheit sein (nicht der leitende Gedanke, aber der,
 welcher gewisse Grenzen zieht). Freilich ist da die Inquisition in der Nähe; denn das Wohl aller war der
-Gesichtspunkt, nach dem man die Ketzer verfolgte. In gewissem Sinne ist also eine Inquisitions-Censur nothwendig, die Mittel freilich werden immer humaner werden.
+Gesichtspunkt, nach dem man die Ketzer verfolgte. In gewissem Sinne ist also eine **Inquisitions-Censur** nothwendig, die Mittel freilich werden immer humaner werden.
 
 [23[83]](javascript:;)
 ----------------------
@@ -836,35 +836,35 @@ Thema.
 [23[84]](javascript:;)
 ----------------------
 
-Man überschätzt an Künstlern die fortlaufende Improvisation, welche gerade bei den
+Man überschätzt an Künstlern die fortlaufende **Improvisation**, welche gerade bei den
 originellsten Künstlern nicht existirt, wohl aber bei den halb reproduktiven Nachahmern. Beethoven sucht seine
 Melodien in vielen Stücken, mit vielem Suchen zusammen. Aber die Künstler selbst wünschen, daß das Instinktive
 „Göttliche“ Unbewußte in ihnen am höchsten taxirt werde und stellen den Sachverhalt nicht treu dar, wenn sie
-darüber sprechen. Die Phantasie (wie z.B. bei dem Schauspieler) schiebt viele Formen ohne
-Wahl heran, die höhere Cultur des Künstler-Geschmacks trifft die Auswahl unter
+darüber sprechen. Die Phantasie (wie z.B. bei dem Schauspieler) schiebt viele Formen **ohne
+Wahl** heran, die höhere Cultur des Künstler-**Geschmacks** trifft die Auswahl unter
 diesen Geburten und tödtet die anderen ab, mit der Härte einer lykurgischen Amme.
 
 [23[85]](javascript:;)
 ----------------------
 
-Der Vorzug unserer Cultur ist die Vergleichung. Wir bringen die verschiedensten
-Erzeugnisse älterer Culturen zusammen und schätzen ab; dies gut zu machen ist unsere
-Aufgabe. Unsre Kraft soll sich zeigen, wie wir wählen; wir sollen Richter sein.
+Der Vorzug unserer Cultur ist die **Vergleichung**. Wir bringen die verschiedensten
+Erzeugnisse älterer Culturen zusammen und schätzen ab; **dies** gut zu machen ist unsere
+Aufgabe. Unsre Kraft soll sich zeigen, wie wir **wählen**; wir sollen Richter sein.
 
 [23[86]](javascript:;)
 ----------------------
 
-Zum Schluß: Vernunft und Wissenschaft, „des Menschen allerhöchste Kraft!“
+Zum Schluß: **Vernunft** und **Wissenschaft**, „des Menschen **allerhöchste Kraft**!“
 
 [23[87]](javascript:;)
 ----------------------
 
-Wir nennen den moralisch, welcher in Hinsicht auf ein von ihm anerkanntes Gesetz sich
+Wir nennen den **moralisch**, welcher in Hinsicht auf ein von ihm anerkanntes Gesetz sich
 unterordnet und demgemäß handelt, sei dies ein Staatsgesetz, sei es die Stimme Gottes in der Form religiöser
 Gebote, sei es selbst nur das Gewissen, oder die philosophische „Pflicht“. Ob jemand mit Recht oder Unrecht
 solche Gesetze glaubt, ist gleichgültig; für die Moral ist nur wichtig, daß er nach ihnen sich richtet. —
 Innerhalb der verschiedenen Sphären des Egoismus ist ein Unterschied von Höher und Nieder: hier sich auf
-Seiten des höheren geläuterten Egoismus stellen nennen wir ebenfalls moralisch. — Gut
+Seiten des höheren geläuterten Egoismus stellen nennen wir ebenfalls moralisch. — **Gut**
 nennen wir jetzt eine moralische Handlungsweise ohne weiteres noch nicht. Seelengüte wird dem Menschen
 zugesprochen, welcher nicht in Hinsicht auf ein Gesetz, sondern nach inneren Trieben gern Mitleiden Mitfreude
 Aufopferung usw. zeigt. Also Moralität zum Instinkt geworden, in ihrer Ausübung mit Lust verbunden, wie dies
@@ -873,10 +873,10 @@ nach langer Vererbung und Gewohnheit zu geschehen pflegt: das heißt bei uns Gut
 [23[88]](javascript:;)
 ----------------------
 
-Man spricht von Milderungsgründen: sie sollen die Schuld mindern und darnach soll die
+Man spricht von Milderungsgründen: sie sollen die **Schuld** mindern und darnach soll die
 Strafe geringer ausfallen. Aber geht man auf die Genesis der Schuld ein, so mildert man allmählich die Schuld
 weg, und dann dürfte es gar keine Strafe geben. Denn im Grunde giebt es eben, bei der Unfreiheit des Willens,
-keine Schuld. Läßt man die Strafe als Abschreckung gelten, so darf es keine
+keine Schuld. Läßt man die Strafe als Abschreckung gelten, so darf es **keine**
 Milderungsgründe geben, die sich auf die Entstehung der Schuld beziehen. Ist die That constatirt, so folgt die
 Strafe unerbittlich; der Mensch ist Mittel zum Wohle aller. Auch das Christenthum sagt: Richtet nicht!
 freilich mit der Rücksicht auf den persönlichen Nachtheil. Christus: „Gott soll richten“. Dies ist aber ein
@@ -885,9 +885,9 @@ Irrthum.
 [23[89]](javascript:;)
 ----------------------
 
-Die Philosophen finden den Willen zum Leben namentlich dadurch bewiesen, daß sie das
-Schreckliche oder Nutzlose des Lebens einsehen und doch nicht zum Selbstmord greifen —
-aber ihre Schilderung des Lebens könnte falsch sein! —
+Die Philosophen finden den **Willen zum Leben** namentlich dadurch bewiesen, daß sie das
+Schreckliche oder Nutzlose des Lebens einsehen und doch nicht zum **Selbstmord** greifen —
+aber ihre **Schilderung** des Lebens könnte **falsch** sein! —
 
 [23[90]](javascript:;)
 ----------------------
@@ -901,36 +901,36 @@ Realität ihrer Annahmen.
 [23[91]](javascript:;)
 ----------------------
 
-Das gute Kunstwerk der Erzählung wird das Hauptmotiv so entfalten wie die Pflanze
+Das gute Kunstwerk der **Erzählung** wird das Hauptmotiv so entfalten wie die Pflanze
 wächst, immer deutlicher sich vorbildend, bis endlich als neu und doch geahnt die Blüthe sich erschließt. Die
 Kunst des Novellisten ist namentlich die, das Thema präludiren zu lassen, es symbolisch mehrermal
 vorwegzunehmen, die Stimmung vorzubereiten, in welcher man den Ausbruch des Gewitters anticipirt, benachbarte
 Töne der Hauptmelodie erklingen zu machen und so auf jede Weise die erfindende Fähigkeit des Lesers zu
-erregen, als ob er ein Räthsel rathen sollte; dieses aber dann so zu lösen, daß des den
+erregen, als ob er ein Räthsel rathen sollte; dieses aber dann so zu **lösen**, daß des den
 Leser doch noch überrascht. — Wie der Knabe spielt, so wird der Mann arbeiten, ein Schulereigniß kann alle
 handelnden Personen eines politisch großen Vorgangs schon deutlich erkennen lassen. — Vielleicht ist auch eine
-Philosophie so darzustellen, daß man die eigentliche Behauptung
+**Philosophie** so **darzustellen**, daß man die eigentliche Behauptung
 erst zuletzt stellt und zwar mit ungeheurem Nachdruck.
 
 [23[92]](javascript:;)
 ----------------------
 
-Es ist ein Zeichen von Größe, mit geringen Gaben hoch beglücken zu
+Es ist ein Zeichen von **Größe**, mit **geringen Gaben** hoch beglücken zu
 können.
 
 [23[93]](javascript:;)
 ----------------------
 
-Die Philosophie großer Menschen entspricht gewöhnlich dem Lebensalter, in welchem die Conception dazu gemacht wurde. So ist für den,
+Die **Philosophie** großer Menschen entspricht gewöhnlich dem **Lebensalter**, in welchem die **Conception** dazu gemacht wurde. So ist für den,
 welcher die zwanziger Jahre Schopenhauers intim kennt, die ganze Philosophie Schopenhauers förmlich
-auszurechnen, zu prophezeien.
+auszurechnen, zu **prophezeien**.
 
 [23[94]](javascript:;)
 ----------------------
 
-Erzogen wird jeder Mensch, durch die Umstände, Gesellen, Eltern, Geschwister, Ereignisse
+**Erzogen** wird jeder Mensch, durch die Umstände, Gesellen, Eltern, Geschwister, Ereignisse
 der Zeit, des Ortes: aber dies ist alles Erziehung des Zufalls und vielfältig geeignet, ihn recht unglücklich
-zu entwickeln. Über diese Erziehung durch den Zufall ist aber die Menschheit im Ganzen
+zu entwickeln. Über diese **Erziehung durch den Zufall** ist aber die Menschheit im Ganzen
 noch nicht hinausgekommen: gehindert durch die metaphysische Vorstellung (an welcher selbst Lessing’s scharfer
 Geist stumpf wurde), daß ein Gott die Erziehung der Menschheit in die Hand genommen habe und daß wir seine
 Wege nicht völlig begreifen können. Von nun an hat die Erziehung sich ökumenische Ziele zu stecken und den
@@ -941,8 +941,8 @@ von Erziehern, ein neues Gebilde aus Ärzten Lehrern Priestern Naturforschern K�
 [23[95]](javascript:;)
 ----------------------
 
-Die Besonnenheit der antiken Dichter zeigt sich darin, daß sie das Gefühl von einer Stufe zur
-andern heben und es so sehr hoch steigern. Die Neuern versuchen es gerne mit einem Überfalle; oder: sie
+Die Besonnenheit der antiken Dichter zeigt sich darin, daß sie das **Gefühl von einer Stufe zur
+andern** heben und es so sehr hoch steigern. Die Neuern versuchen es gerne mit einem Überfalle; oder: sie
 ziehen gleich mit aller Gewalt am Glockenstrange der Leidenschaft. Mißlingt es ihnen aber am Anfang, so sind
 sie auch verloren. Ein gutes Buch sollte, als Ganzes, einer Leiter der Empfindung gleichen, es müßte nur von
 Einer Seite her einen Zugang haben, der Leser müßte sich verwirrt fühlen, wenn er es auf eigne Faust
@@ -964,41 +964,41 @@ nicht zu benutzen, um den Ursprung des Moralischen zu erklären. Überdies ist m
 Handeln zwar ein uns geläufiger Begriff, aber keine wirkliche Thatsache, sondern nur eine scheinbare ist; die
 Ableitung des Mitleidens z.B. führt vielleicht auf den Egoismus zurück, ebenso wie es wahrscheinlich keine
 Thaten der Bosheit an sich, des Schädigens ohne persönlichen Grund usw. giebt. Das Reich des Moralischen ist
-vor allem das Reich des Sittlichen gewesen, man nannte aber den „guten Menschen“ durchaus
-nicht zu allen Zeiten den, welcher die Sitte unegoistischer Handlungen, das Mitleiden und
-dergleichen hatte, sondern vielmehr den, welcher überhaupt den Sitten folgte. Ihm stand
+vor allem das Reich des **Sittlichen** gewesen, man nannte aber den „guten Menschen“ durchaus
+nicht zu allen Zeiten den, welcher die Sitte **un**egoistischer Handlungen, das Mitleiden und
+dergleichen hatte, sondern vielmehr den, welcher überhaupt **den Sitten** folgte. Ihm stand
 der böse Mensch, der ohne Sitte (der unsittliche) gegenüber.
 
 [23[97]](javascript:;)
 ----------------------
 
-Das Mitgefühl mit dem Nächsten ist ein spätes Resultat der Cultur:
+Das **Mitgefühl** mit dem Nächsten ist ein **spätes** Resultat der Cultur:
 wie weit muß die Phantasie entwickelt sein, um anderen wie uns selber nachzufühlen (erst wenn wir gelernt
-unsere eigenen nicht gegenwärtigen Schmerzen und Freuden durch die Erinnerung
+unsere eigenen **nicht** gegenwärtigen Schmerzen und Freuden durch die Erinnerung
 nachzufühlen und wie gegenwärtige zu empfinden). Vielen Antheil hat gewiß die Kunst, wenn sie uns lehrt,
 Mitleiden selbst mit vorgestellten Empfindungen unwirklicher Personen zu haben.
 
 [23[98]](javascript:;)
 ----------------------
 
-Die gute Recension eines wissenschaftlichen Buches besteht darin, daß das aufgestellte
-Problem desselben besser gelöst wird; dem entsprechend wäre es, wenn die Kritik eines
+Die gute **Recension** eines wissenschaftlichen Buches besteht darin, daß das aufgestellte
+Problem desselben **besser gelöst** wird; dem entsprechend wäre es, wenn die Kritik eines
 Kunstwerks darin bestünde, daß jemand das darzustellende Motiv des Kunstwerks besser darstellte, z.B. ein
 Musiker durch die That zeigte, daß ein Anderer mit seinem Thema nicht genug zu machen gewußt habe; insgleichen
-ein Bildhauer, ein Romanschreiber. Alle gute Kritik heißt Bessermachen; deshalb ist Bessermachen-können unerläßliche Bedingung für den Kritiker. — Nun sehe man aber die gewöhnlichen
+ein Bildhauer, ein Romanschreiber. Alle gute Kritik heißt Bessermachen; deshalb ist **Bessermachen-können** unerläßliche Bedingung für den Kritiker. — Nun sehe man aber die gewöhnlichen
 Kritiker der Kunst und Philosophie an! Sie sagen: „es gefällt uns nicht“; aber wodurch wollen sie beweisen,
 daß ihr Geschmack entwickelter höher steht, wenn nicht durch die That?
 
 [23[99]](javascript:;)
 ----------------------
 
-Man redet von Ahnungen, als ob z.B. die Religion gewisse Erkenntnisse, wenngleich
+Man redet von **Ahnungen**, als ob z.B. die Religion gewisse Erkenntnisse, wenngleich
 dunkel, vorausgefühlt habe. Ein solches Verhältniß zwischen Religion und Wissenschaft giebt es nicht. Das was
 man Ahnung nennt, ist aus ganz anderen Motiven aufgestellt als wissenschaftlichen, auf ganz anderen Methoden
-begründet, nicht einmal auf halbwissenschaftlicher Methode. Es ist zufällig, wenn das
+begründet, nicht einmal auf halbwissenschaftlicher Methode. Es ist **zufällig**, wenn das
 Eine dem Andern ähnlich sieht. Alle Religionen zusammen sollen gewisse gemeinsame „Wahrheiten“ dunkel
 enthalten, man glaubt damit einer Philosophie etwas Günstiges zu sagen, wenn man die religiöse Phantastik auf
-ihre Seite bringt: aber es ist umgekehrt. Wissenschaft und Religion werden sich in ihren Resultaten gar nicht ähnlich sehen können.
+ihre Seite bringt: aber es ist umgekehrt. Wissenschaft und Religion werden sich in ihren Resultaten **gar nicht** ähnlich sehen können.
 
 [23[100]](javascript:;)
 -----------------------
@@ -1012,15 +1012,15 @@ Zeiträume, ganze Jahrhunderte voraus in den verschiedenen Phasen seiner Natur.
 [23[101]](javascript:;)
 -----------------------
 
-Die Künstler sind die Advokaten der Leidenschaft, denn sie ist voller Effekt und giebt
+Die Künstler sind die **Advokaten der Leidenschaft**, denn sie ist voller Effekt und giebt
 dem Künstler zehnmal mehr Gelegenheit, seine Kunst zu zeigen. So entsteht der Schein als ob die Leidenschaften
 etwas Herrliches, Begehrenswerthes seien, denn die Dichter nehmen die schönsten Worte in den Mund; eigentlich
-aber verherrlichen sie die Leidenschaft, weil sie sich am meisten verherrlichen wollen.
+aber verherrlichen sie die Leidenschaft, weil sie **sich** am meisten verherrlichen wollen.
 Theilweise sind sie auch selber von leidenschaftlichem Hange und insofern ihre eignen Advokaten. Nun stellen
 sie aber in der Welt das Verherrlichenswerthe überhaupt fest, sie sind die geborenen Lobredner der Dinge — sie
-haben die Stellung des Menschen zur Leidenschaft wirklich verändert d.h. diese selbst
-subtilisirt,
-veredelt: z.B. die Liebe. Es ist ihr Verdienst.
+haben die Stellung des Menschen zur Leidenschaft wirklich verändert d.h. **diese selbst
+subtilisirt,**
+**veredelt**: z.B. die Liebe. Es ist ihr Verdienst.
 
 [23[102]](javascript:;)
 -----------------------
@@ -1030,7 +1030,7 @@ Frau von Staël: das Zeitalter der Einsicht hat seine Unschuld ebensowohl wie da
 [23[103]](javascript:;)
 -----------------------
 
-Werth der Gewissensbisse für die geistige Befreiung. — Es ist kein Zweifel, dass zur
+**Werth der Gewissensbisse für die geistige Befreiung. —** Es ist kein Zweifel, dass zur
 Vermehrung der geistigen Freiheit in der Welt die Gewissenbisse wesentlich beigetragen haben. Sie reizten
 häufig zu einer Kritik der Vorstellungen, welche, auf Grund früherer Handlungen, so schmerzhaft wirkten; und
 man entdeckte, dass nicht viel daran war, ausser der Gewöhnung und der allgemeinen Meinung innerhalb der
@@ -1041,7 +1041,7 @@ Gewissensbisse.
 -----------------------
 
 Künstler könnten die glücklichsten Menschen sein, denn ihnen ist es erlaubt, das Vollkommene zu erzeugen als
-Ganzes und sogar oft; während die Andern immer nur an kleinen Theilen eines Ganzen
+**Ganzes** und sogar oft; während die Andern immer nur an kleinen Theilen eines Ganzen
 arbeiten. Aber die Künstler verwöhnen sich durch den Anblick des Vollkommnen Ganzen und fordern es auch sonst,
 sie machen höhere Ansprüche, sind neidisch, haben sich nicht gewöhnt sich zu beherrschen, sind dünkelhaft im
 Urtheil; und mitunter fehlen ihrem Schaffen die geniessenden und lobenden Empfänger.
@@ -1049,7 +1049,7 @@ Urtheil; und mitunter fehlen ihrem Schaffen die geniessenden und lobenden Empfä
 [23[105]](javascript:;)
 -----------------------
 
-Das Pathos gehört in die Kunst. — Wer wird nicht giftig und innerlich aufgebracht, wenn
+**Das Pathos gehört in die Kunst. —** Wer wird nicht giftig und innerlich aufgebracht, wenn
 er einen hört, der sein Leben gar zu pathetisch nimmt und von „Golgatha“ und „Gethsemane“ redet! — Wir
 vertragen das Pathetische nur in der Kunst; der lebende Mensch soll schlicht und nicht zu laut sein.
 
@@ -1070,7 +1070,7 @@ nüchterner Morgenfrische alle Dinge zu sehen und tiefen Athem in reiner Luft zu
 [23[108]](javascript:;)
 -----------------------
 
-Richtig lesen. — Die Kunst richtig zu lesen ist so selten, dass fast jedermann eine
+**Richtig lesen. —** Die Kunst richtig zu lesen ist so selten, dass fast jedermann eine
 Urkunde ein Gesetz einen Vertrag sich erst interpretiren lassen muss; namentlich wird durch die christlichen
 Prediger viel verdorben, welche fortwährend von der Kanzel herab die Bibel mit der verzweifeltsten
 Erklärungskunst heimsuchen und weit und breit Respect vor einer solchen künstlich spitzfindigen Manier, ja
@@ -1083,19 +1083,19 @@ Wenn die Moral auf den Gesichtspunkt des gemeinsamen Nutzens und Schadens zurüc
 das Moralische einer Handlung nicht nach den Absichten des Individuums, sondern nach der That und deren Erfolg
 zu bemessen. Das Seelenspalten und Nierenprüfen gehört einer Auffassung der Ethik an, bei der auf Nutzen und
 Schaden gar nichts ankommt. Man verlange die Handlung und kümmere sich nicht so ängstlich um die Motive (deren
-Verflechtung übrigens viel zu gross ist als dass man nicht bei jeder psychologischen
+Verflechtung übrigens viel zu gross ist als dass man nicht bei **jeder** psychologischen
 Analysis einer Handlung immer etwas irrte).
 
 [23[110]](javascript:;)
 -----------------------
 
-Geistige Übergangsclimata. — Wir haben uns freigemacht von vielen Vorstellungen — Gott
+**Geistige Übergangsclimata. —** Wir haben uns freigemacht von vielen Vorstellungen — Gott
 ewiges Leben vergeltende jenseitige und diesseitige Gerechtigkeit, Sünde Erlöser Erlösungsbedürftigkeit —;
 eine Art vorübergehende Krankheit verlangt einen Ersatz an die leeren Stellen hin, die Haut schaudert etwas
-vor Frost, weil sie früher hier bekleidet war. Da giebt es Philosophien, welche gleichsam Übergangsclimata darstellen, für die, welche die frische Höhenluft noch nicht direct vertragen. —
+vor Frost, weil sie früher hier bekleidet war. Da giebt es Philosophien, welche gleichsam **Übergangsclimata** darstellen, für die, welche die frische Höhenluft noch nicht direct vertragen. —
 Vergleiche, wie die griechischen Philosophensekten als Übergangsklimata dienen: die alte Polis und deren
-Bildung wirkt noch in ihnen nach: wozu soll aber übergegangen werden? — es ist wohl nicht
-gefunden. Oder war es der Sophist, der volle Freigeist?
+Bildung wirkt noch in ihnen nach: **wozu** soll aber übergegangen werden? — es ist wohl nicht
+gefunden. Oder war es der **Sophist**, der volle Freigeist?
 
 [23[111]](javascript:;)
 -----------------------
@@ -1117,7 +1117,7 @@ Seele.
 [23[113]](javascript:;)
 -----------------------
 
-Selbstverachtung. — Jene heftige Neigung zur Selbstprüfung und -Verachtung, die man bei
+**Selbstverachtung. —** Jene heftige Neigung zur Selbstprüfung und -Verachtung, die man bei
 Sündern Büssern und Heiligen wahrnimmt, ist häufig auf eine allgemeine Ermüdung ihres Lebenswillens (oder der
 Nerven) zurückzuführen, gegen welche sie auch die schmerzhaftesten Reizmittel anwenden.
 
@@ -1136,7 +1136,7 @@ Nichtachtung? Etwa weil auch dem leeren und eiteln Gesindel der Gesellschaft, m�
 Geschlechts, gelegentlich solche Bemerkungen gelingen, weil man da in bestimmten Zeiten sich moralische
 Sentenzen im Carneval der geistreichen Gefallsucht als eine Art Confetti zuzuwerfen pflegte? — Aber der
 Unterschied ist eben außerordentlich, wenn ein streng wägender Denker den gleichen psychologischen Satz, der
-einmal auch in jenen Kreisen entdeckt worden ist, ausspricht und ihn mit dem Gepräge und Kopfbilde seiner Autorität versieht. Vielleicht thut jetzt, als Vorarbeit für alles zukünftige
+einmal auch in jenen Kreisen entdeckt worden ist, ausspricht und ihn mit dem Gepräge und Kopfbilde **seiner** Autorität versieht. Vielleicht thut jetzt, als Vorarbeit für alles zukünftige
 Philosophiren, nichts so noth, als Stein auf Stein, Steinchen auf Steinchen psychologische Arbeit zu häufen
 und tapfer jeder Mißachtung dieser Art Arbeit zu widerstreben. Zu welchen Entdeckungen wird eine spätere
 Generation, vermöge eines solchen Materials, kommen! — Freilich muß jener unehrliche Geist von diesem Gebiete
@@ -1159,13 +1159,13 @@ alte Gewöhnung noch hängen und gieng auf die neu erlernte Sprache über.
 [23[116]](javascript:;)
 -----------------------
 
-Dankbar gegen die Folgen. — Manche metaphysische und historische Hypothesen werden nur
+**Dankbar gegen die Folgen. —** Manche metaphysische und historische Hypothesen werden nur
 deshalb so stark vertheidigt, weil man so dankbar gegen ihre Folgen ist.
 
 [23[117]](javascript:;)
 -----------------------
 
-Naturgenuss. — Bei einer Critik des Naturgenusses wird viel abzuziehn sein, was gar
+**Naturgenuss. —** Bei einer Critik des Naturgenusses wird viel abzuziehn sein, was gar
 nicht auf aesthetische Erregung zurückgeht, z.B. bei Besteigung eines hohen Berges die Wirkung der dünnen
 leichten Luft, das Bewusstsein der besiegten Schwierigkeit, das Ausruhen, das geographische Interesse, die
 Absicht dasselbe schön zu finden was andere Leute schön fanden, der vorweggenommene Genuss, davon einmal zu
@@ -1195,7 +1195,7 @@ Welt mehr. Liebeshändel gehören unter die Harmlosigkeiten des Daseins.
 [23[121]](javascript:;)
 -----------------------
 
-Ein socratisches Mittel. — Socrates hat Recht: man soll, um vom Eros nicht ganz
+**Ein socratisches Mittel. —** Socrates hat Recht: man soll, um vom Eros nicht ganz
 unterjocht zu werden, sich mit den weniger schönen Weibern einlassen.
 
 [23[122]](javascript:;)
@@ -1207,7 +1207,7 @@ Büchermachens (welches ja sogar im herkömmlichen Urtheil als akademische Verpf
 weitschweifigen Art der Mittheilung bestimmen lassen, welche bei ihm doppelt bedauerlich ist, weil es ihm
 (seiner akademischen Pflichten wegen) immer an Zeit gefehlt hat: er mußte während des Schreibens sich häufig
 erst wieder in seine Gedankenkreise eindenken. Hätte er sich begnügt, das in kürzester Form, in der Weise
-Hume’s, mitzutheilen, was er vor dem Schreiben (vielleicht auf einem Spaziergange) in
+Hume’s, mitzutheilen, was er **vor** dem Schreiben (vielleicht auf einem Spaziergange) in
 sich festgestellt hatte, so wäre der ganze Streit über das richtige Verständniß Kant’s, der jetzt noch
 fortlebt, überflüssig gewesen.
 
@@ -1254,8 +1254,8 @@ aufhellen.
 Es ist wahr, niemals ist in Deutschland so viel philosophirt worden wie jetzt: selbst zur Zeit der höchsten
 Gewalt Hegel’s über die deutschen Köpfe erschienen nicht annähernd so viele philosophische Schriften wie in
 den letzten 15 Jahren. Aber irre ich mich? Oder habe ich Recht zu vermuthen, daß eine große Gefahr in diesem
-Anzeichen liegt? Die Gattung des jetzt beliebten Philosophirens ist derart, daß sie als
-Symptom einer über Hand nehmenden Abneigung gegen exakte strenge methodische Studien
+Anzeichen liegt? Die **Gattung** des jetzt beliebten Philosophirens ist derart, daß sie als
+Symptom einer über Hand nehmenden **Abneigung** gegen exakte strenge methodische Studien
 erscheint. Es ist ein vergnügliches, unter Umständen geistreiches Herumwerfen der philosophischen
 Ideen-Fangbälle, welche jetzt fast für jedes Verständniß faßlich geworden sind; ein solches Spiel nimmt sich
 besser aus als das ermüdende Wälzen schwerer einzelner Probleme der Wissenschaft und giebt in der That eine
@@ -1269,7 +1269,7 @@ Wer vom Reiz der Gefahr spricht, kennt die Lust an der Emotion der Furcht an sic
 [23[128]](javascript:;)
 -----------------------
 
-Frauen in Colonien. — Die Achtung und Artigkeit, welche die Amerikaner den Frauen
+**Frauen in Colonien. —** Die Achtung und Artigkeit, welche die Amerikaner den Frauen
 erweisen, ist vererbt aus jener Zeit, in der diese bedeutend in der Minderheit waren: sie ist eine
 Eigenthümlichkeit colonialer Staaten. Manches bei den Griechen erklärt sich hieraus. Ein Ausnahmefall:
 Colonisten viele Weiber antreffen, entsteht gewöhnlich ein Sinken der Schätzung der Weiber.
@@ -1286,7 +1286,7 @@ Zeit gespart (wie bei unserer Kleidung) und der ganze Sinn nicht auf diese Äuss
 der es in etwas zur Meisterschaft bringen will, erhebt sich zu einer vornehmen Art zu sein durch sein Ziel. —
 Wie wir in den Künsten durch Vergeistigung eine Menge des Hässlichen mit in’s Reich der Kunst hinübergetragen
 haben, so auch im Leben; man muss fühlen, was in diesen auf den ersten Blick unschönen Lebensformen pulsirt,
-welche neuen und höheren Gewalten, da erschliesst sich dem Blick
+welche **neuen** und **höheren** Gewalten, da erschliesst sich dem Blick
 eine höhere Schönheit.
 
 [23[130]](javascript:;)
@@ -1294,7 +1294,7 @@ eine höhere Schönheit.
 
 Es gehört zu den Eigenheiten des metaphysischen Philosophirens, ein Problem zu verschärfen und als unlösbar
 hinzustellen, es sei denn dass man ein Wunder als eine Lösung ansieht, z.B. das Wesen des Schauspielers in der
-Selbstentäusserung und förmlichen Verwandlung zu sehen: während das eigentliche Problem doch ist, durch welche Mittel der Täuschung es der Schauspieler dahin bringt, dass es so scheint, als wäre er verwandelt.
+Selbstentäusserung und förmlichen Verwandlung zu sehen: während das eigentliche Problem doch ist, **durch welche Mittel der Täuschung** es der Schauspieler dahin bringt, dass es so **scheint**, als wäre er verwandelt.
 
 [23[131]](javascript:;)
 -----------------------
@@ -1303,8 +1303,8 @@ Der denkende Geist bei Musikern ist gewöhnlich frisch, sie sind öfter geistrei
 haben in der Ausübung ihrer Kunst das Mittel, dem reflektirenden Denken beinahe völlige Ruhe, eine Art
 Schlafleben zu verschaffen; deshalb erhebt sich dies so lustig und morgenfrisch, wenn der Musiker aufhört
 Musik zu machen. — Man täuscht sich mitunter darüber, weil vielfach die Bildung des Musikers zu gering ist und
-er nicht genug Stoff hat, an dem er Geist zeigen könnte. Eben so steht es mit
-<dem> denkenden Geist der Frauen.
+er nicht genug Stoff hat, **an** dem er Geist zeigen könnte. Eben so steht es mit
+&amp;lt;dem&amp;gt; denkenden Geist der Frauen.
 
 [23[132]](javascript:;)
 -----------------------
@@ -1324,7 +1324,7 @@ den Zugang zu vielen der besten Lustempfindungen.
 [23[133]](javascript:;)
 -----------------------
 
-Man ist auch ungerecht, wenn man die großen Männer zu groß findet und die Dinge in der
+Man ist auch ungerecht, wenn man die großen Männer **zu groß** findet und die Dinge in der
 Welt zu tief. Wer dem Leben die tiefste Bedeutung geben will, umspinnt die Welt mit Fabeln; wir sind alle noch
 tief hinein verstrickt, so freisinnig wir uns auch vorkommen mögen. Es giebt eine starke Neigung, uralt
 angeboren, die Abstände zu übertreiben, die Farben zu stark aufzutragen, das Glänzende als das
@@ -1343,7 +1343,7 @@ des Mitmenschen entnommen, nicht mehr wirken, weil er die Wahrheit diesem Urthei
 [23[134]](javascript:;)
 -----------------------
 
-Warum erdichtet man nicht ganze Geschichten von Völkern, von Revolutionen, von
+Warum erdichtet man nicht ganze **Geschichten von Völkern**, von Revolutionen, von
 politischen Parteien? Weshalb rivalisirt der Dichter des Roman’s nicht mit dem Historiker? Hier sehe ich eine
 Zukunft der Dichtkunst.
 
@@ -1358,7 +1358,7 @@ sich den Sinn eines Wortes neu abzugränzen: es ist unverbindlich.
 [23[136]](javascript:;)
 -----------------------
 
-Die Schule der Erzieher entsteht auf Grund der Einsicht: daß unsere
+Die **Schule** der **Erzieher** entsteht auf Grund der Einsicht: daß unsere
 Erzieher selber nicht erzogen sind, daß das Bedürfniß nach ihnen immer größer, die Qualität immer geringer
 wird, daß die Wissenschaften durch die natürliche Zertheilung der Arbeitsgebiete bei dem Einzelnen die
 Barbarei kaum verhindern können, daß es kein Tribunal der Cultur giebt, welches von nationalen Interessen
@@ -1377,17 +1377,17 @@ eine andere hervorzuheben, d.h. man macht sich ein Surrogat eines Buches.
 [23[138]](javascript:;)
 -----------------------
 
-Da die Kunst immer seelenvoller wird, so bemerken die späteren
+Da die **Kunst** immer **seelenvoller** wird, so bemerken die späteren
 Meister, daß die Kunstwerke der früheren Zeit ihnen nicht entsprechen und dies veranlaßt sie, da etwas
 nachzuhelfen und zu glauben daß es nur die technischen Bedingungen sind, welche damals den alten Meistern
-fehlten. So denkt Wagner, daß Beethoven besser d.h. seelenvoller instrumentirt haben würde, wenn die Instrumente besser gewesen wären; namentlich aber in der Modifikation des Tempo’s,
+fehlten. So denkt Wagner, daß Beethoven besser d.h. seelenvoller instrumentirt haben **würde**, wenn die Instrumente besser gewesen wären; namentlich aber in der Modifikation des Tempo’s,
 denkt er, daß jener, wie alle früheren, nur ungenügend in der Bezeichnung gewesen wäre. In Wahrheit ist die
 Seele aber noch nicht so zart bewegt, so lebendig in jedem Augenblick gewesen. Alle ältere Kunst war starr,
 steif; in Griechenland wie bei uns. Die Mathematik, die Symmetrie, der strenge Takt herrschten. — Soll man den
-modernen Musikern das Recht geben, ältere Werke mehr zu beseelen? — Ja; denn nur dadurch
+modernen Musikern das Recht geben, ältere Werke mehr zu **beseelen**? — Ja; denn nur dadurch
 daß wir ihnen unsere Seele geben, leben sie noch fort. Wer die dramatische seelenvolle Musik kennt, wird Bach
 ganz anders vortragen, unwillkürlich. Hört er ihn anders vortragen, so versteht er ihn nicht mehr. Ist ein
-historischer Vortrag überhaupt möglich?
+historischer Vortrag überhaupt **möglich**?
 
 [23[139]](javascript:;)
 -----------------------
@@ -1422,7 +1422,7 @@ wußte auch durch diesen Schluß nicht in ihrem Gelächter gestört wurden.
 [23[141]](javascript:;)
 -----------------------
 
-Alle urspr<ünglich> starre, peinliche Empfindung wird allmählich angenehm. Aus Zwang wird
+Alle urspr&amp;lt;ünglich&amp;gt; starre, peinliche Empfindung wird allmählich angenehm. Aus Zwang wird
 Gewohnheit, daraus Sitte, endlich Tugend mit Lust verbunden. Aber die Menschen, welche diese letzte Stufe
 erreicht haben, wollen nichts davon wissen, daß ihre fernen Vorfahren den Weg begonnen haben.
 
@@ -1452,26 +1452,26 @@ wollen von der Enthaltung nichts wissen.
 [23[145]](javascript:;)
 -----------------------
 
-Der gut befähigte Mensch erlebt mehrenmal den Zustand der Reife, insofern er
+Der gut befähigte Mensch erlebt mehrenmal den Zustand der **Reife**, insofern er
 verschiedene Culturen durchlebt und im Verstehen und Erfassen jeder einzelnen einmal einen Höhepunkt erreicht:
 und so kann ein Mensch in sich den Inhalt von ganzen Jahrhunderten vorausfühlen: weil der Gang, den er durch
 die verschiedenen Culturen macht, derselbe ist, welchen mehrere Generationen hinter einander machen. — So hat
-er auch mehrenmal den Zustand der Unreife, der perfecten Blüthe, der Überreife: diese
+er auch mehrenmal den Zustand der **Unreife**, der perfecten Blüthe, der Überreife: diese
 ganze Stufenleiter macht er vielleicht erst einmal als religiöser, dann wieder als künstlerischer und endlich
 wissenschaftlicher Mensch durch.
 
 [23[146]](javascript:;)
 -----------------------
 
-Man verwundert sich immer von Neuem, wie Shakespeare im Stande gewesen sei, seine Helden
+Man verwundert sich immer von Neuem, wie **Shakespeare** im Stande gewesen sei, seine Helden
 jedesmal so passend, so gedankenreich reden zu lassen, so daß sie Sentenzen äußern, welche an sich bedeutend
 aber doch auch wiederum ihrem Charakter entsprechend lauten? Da vermuthet man wohl, um es zu erklären, daß
-solche Gespräche ein Mosaik von gelegentlich gefundenen Einzelsätzen seien. Dieser
+solche Gespräche ein Mosaik von **gelegentlich gefundenen Einzelsätzen** seien. Dieser
 Vermuthung möchte ich entgegnen, daß es bei dem Dramatiker eine fortwährende Gewöhnung giebt, jede Bemerkung
 nur dem Charakter einer bestimmten Person gemäß, im Verhältniß zu einer Situation zu erfinden: eine Gewohnheit
 welche eben eine ganz andere als die unsere ist: die Bemerkung ihrer Wahrheit halber zu machen, ganz abgesehn
-von Person und Situation. Aber auch wir fragen uns mitunter: „was würdest du sagen, wenn
-du dies erlebtest?“ An dieses hypothetische Reden ist der Dramatiker gewöhnt, es ist
+von Person und Situation. Aber auch wir fragen uns mitunter: „was würdest du sagen, **wenn**
+du dies erlebtest?“ An dieses **hypothetische Reden** ist der Dramatiker gewöhnt, es ist
 seine Natur geworden, immer unter solchen Voraussetzungen seine Gedanken zu erfinden.
 
 [23[147]](javascript:;)
@@ -1479,7 +1479,7 @@ seine Natur geworden, immer unter solchen Voraussetzungen seine Gedanken zu erfi
 
 Wie alte sinnreiche religiöse Zeremonien zuletzt als abergläubische unverstandene Prozeduren übrigbleiben, so
 wird die Geschichte überhaupt, wenn sie nur noch gewohnheitsmäßig fortlebt, dem magischen Unsinn oder
-<der> carnevalistischen Verkleidung ähnlich. Die Sonne, welche bei der Verkündigung der
+&amp;lt;der&amp;gt; carnevalistischen Verkleidung ähnlich. Die Sonne, welche bei der Verkündigung der
 Infallibilität auf den Papst leuchten sollte, die Taube, welche dabei fliegen sollte, erscheinen jetzt als
 bedenkliche Kunststückchen, welche nur auf Täuschung absehen; aber die alte Cultur ist voll davon, und die
 ganze Unterscheidung, wo die Täuschung beginnt, gar nicht gemacht. Jetzt bewegte sich in Neapel ein
@@ -1492,7 +1492,7 @@ Priester zur Erweckung des Glaubens die betrügerische Absicht hinein versteckt.
 [23[148]](javascript:;)
 -----------------------
 
-Das Alterthum ist im Ganzen das Zeitalter des Talents zur Festfreude. Die tausend
+Das Alterthum ist im Ganzen das Zeitalter des Talents zur **Festfreude**. Die tausend
 Anlässe sich zu freuen waren nicht ohne Scharfsinn und großes Nachdenken ausfindig gemacht; ein guter Theil
 der Gehirnthätigkeit, welche jetzt auf Erfindung von Maschinen, auf Lösung der wissenschaftlichen Probleme
 gerichtet ist, war damals auf die Vermehrung der Freudenquellen gerichtet: die Empfindung, die Wirkung sollte
@@ -1502,15 +1502,15 @@ palliativisch. — Unsere Feste werden billigerweise Cultur-Feste und im Ganzen 
 [23[149]](javascript:;)
 -----------------------
 
-Wir haben ein Vergnügen an der kleinen Bosheit, weil sie uns so wenig schadet z.B. am Sarkasmus; ja wenn wir uns völlig geschützt fühlen, so dient uns selbst die große Bosheit (etwa in dem
+Wir haben ein Vergnügen an der kleinen Bosheit, weil sie uns so wenig schadet z.B. am **Sarkasmus**; ja wenn wir uns völlig geschützt fühlen, so dient uns selbst die große Bosheit (etwa in dem
 giftigen Geifer eines Pamphletes) zum Behagen; denn sie schadet uns nicht und nähert sich dadurch der Wirkung
 des Komischen, — das überrascht, ein wenig erschreckt und doch nicht Schaden anstiftet.
 
 [23[150]](javascript:;)
 -----------------------
 
-Die Kunst gehört nicht zur Natur, sondern allein zum Menschen. — In der Natur giebt es
-keinen Ton, diese ist stumm; keine Farbe. Auch keine Gestalt, denn diese ist das Resultat
+**Die Kunst gehört nicht zur Natur, sondern allein zum Menschen. —** In der Natur giebt es
+keinen **Ton**, diese ist stumm; keine Farbe. Auch keine Gestalt, denn diese ist das Resultat
 einer Spiegelung der Oberfläche im Auge, aber an sich giebt es kein Oben und Unten, Innen und Außen. Könnte
 man anders sehen, als vermöge der Spiegelung, so würde man nicht von Gestalten reden, sondern vielleicht in’s
 Innre sehen, so daß der Blick ein Ding allmählich durchschnitte. Die Natur, von welcher man unser Subjekt
@@ -1519,11 +1519,11 @@ Welträthsel; wir vermögen ja durch die Wissenschaft vielfach über die Sinnesa
 den Ton als eine zitternde Bewegung zu begreifen; je mehr wir die Natur entmenschlichen, um so leerer
 bedeutungsloser wird sie für uns. — Die Kunst beruht ganz und gar auf der vermenschlichten Natur, auf der mit
 Irrthümern und Täuschungen umsponnenen und durchwebten Natur, von der keine Kunst absehen kann;
-<sie> erfaßt nicht das Wesen der Dinge, weil sie ganz an das Auge und das Ohr angeknüpft ist.
-Zum Wesen führt nur der schließende Verstand. Er belehrt uns z.B. <daß> die Materie selbst ein
+&amp;lt;sie&amp;gt; erfaßt nicht das Wesen der Dinge, weil sie ganz an das Auge und das Ohr angeknüpft ist.
+Zum Wesen führt nur der schließende Verstand. Er belehrt uns z.B. &amp;lt;daß&amp;gt; die Materie selbst ein
 uraltes eingefleischtes Vorurtheil ist, daher stammend daß das Auge Spiegelflächen sieht und das menschliche
 Tastorgan sehr stumpf ist: wo man nämlich widerstrebende Punkte fühlt, so construirt man sich unwillkürlich
-widerstrebende continuirliche Ebenen (welche aber nur in unserer Vorstellung existiren),
+widerstrebende continuirliche **Ebenen** (welche aber nur in unserer Vorstellung existiren),
 unter der angewöhnten Illusion des spiegelnden Auges, welches im Grunde eben auch nur ein grobes Tastorgan
 ist. Ein Ball von elektrischen Strömungen, welche an bestimmten Punkten umkehren, würde sich als etwas
 Materielles, als ein festes Ding anfühlen: und das chemische Atom ist ja eine solche Figur, welche von den
@@ -1536,7 +1536,7 @@ Beharrendes vorspiegeln: während es im Grunde kein „Ding“, kein Verharrende
 -----------------------
 
 Da die neue Erziehung den Menschen eine viel größere Gehirnthätigkeit zumuthet, so muß die Menschheit viel
-energischer nach Gesundheit ringen, um nicht eine nervös überreizte, ja verrückte
+energischer nach **Gesundheit** ringen, um nicht eine nervös überreizte, ja verrückte
 Nachkommenschaft zu haben (denn sonst wäre eine Nachwelt von Verrückten und Überspannten sehr wohl möglich —
 wie die überreifen Individuen des späteren Athen’s mitunter in das Irrsinnige hineinspielen): also durch
 Paarung gesunder Eltern, richtige Kräftigung der Weiber, gymnastische Übungen, die so sehr gewöhnlich und
@@ -1566,20 +1566,20 @@ ja auch nicht an sich existirt), so haben wir als hohes Resultat der bisherigen 
 Sinn. Er ist aber nicht auf logische Denkgesetze und auf strenge Naturbeobachtung gegründet, sondern wie der
 Sinn für die Künste auf mancherlei falsche Urtheile und Fehlschlüsse. Die Wissenschaft kann nicht umhin, dies
 unlogische Fundament der Moral aufzudecken, wie sie dies bei der Kunst thut. Vielleicht schwächt sie auf die
-Dauer diesen Sinn damit etwas ab: aber der Sinn für Wahrheit ist selber eine der höchsten
-und mächtigsten Effloreszenzen dieses moralischen Sinnes. Hier liegt die
+Dauer diesen Sinn damit etwas ab: aber der **Sinn für Wahrheit** ist selber eine der höchsten
+und mächtigsten **Effloreszenzen dieses moralischen Sinnes**. Hier liegt die
 Compensation.
 
 [23[153]](javascript:;)
 -----------------------
 
-Barbarisirende Wirkung der Abstraktion und Sublimation bei Gelegenheit des
-Aristotelis<mus> in der Wissenschaft.
+**Barbarisirende** Wirkung der Abstraktion und Sublimation bei Gelegenheit des
+Aristotelis&amp;lt;mus&amp;gt; in der Wissenschaft.
 
 [23[154]](javascript:;)
 -----------------------
 
-Wenn man an die höhere Nützlichkeit, an ökumenische Zwecke bei dem Wort Moral denkt, so ist im Handel mehr Moralität enthalten, als im Leben nach jener Kantischen Aufforderung „thue das
+Wenn man an die höhere Nützlichkeit, an ökumenische Zwecke bei dem Wort Moral denkt, so ist im **Handel** mehr Moralität enthalten, als im Leben nach jener Kantischen Aufforderung „thue das
 was du willst daß dir gethan werde“ oder im christlichen Wandel nach der Richtschnur des Wortes: „liebe den
 Nächsten um Gottes willen“. Der Satz Kant’s ergiebt eine kleinbürgerliche Privat-Achtbarkeit der Sitte und
 steht im Gegensatz zu ökumenischen Zwecken: von deren Existenz er nicht einmal einen Begriff hat. Wie wenig
@@ -1594,7 +1594,7 @@ gern hat: der hat ihn gekannt“?
 -----------------------
 
 Durch gewisse Ansichten über die Dinge ist das Pathos der Empfindung in die Welt gekommen, nicht durch die
-Dinge selbst: z.B. alles, was Faust in der ersten Scene als Ursache seiner Leiden
+Dinge selbst: z.B. alles, was **Faust** in der ersten Scene als Ursache seiner Leiden
 angiebt, ist irrthümlich, nämlich auf Grund metaphysischer Erdichtungen erst so bedeutungsschwer geworden:
 könnte er dies einsehen, so würde das Pathos seiner Stimmung fehlen.
 
@@ -1652,19 +1652,19 @@ widersprechen.
 
 Zum Schluß.
 
-Ich will weise werden bis zum 60. Jahre und erkenne dies als ein Ziel für Viele. Eine
+Ich will **weise** werden bis zum 60. Jahre und erkenne dies als ein Ziel für Viele. Eine
 Menge von Wissenschaft ist der Reihe nach anzueignen und in sich zu verschmelzen. Es ist das Glück unseres
 Zeitalters, daß man noch eine Zeitlang in einer Religion aufwachsen kann und, in der Musik, einen ganz echten
 Zugang zur Kunst hat; das wird späteren Zeiten nicht mehr so gut zu Theil werden. Mit Hülfe dieser
 persönlichen Erfahrungen kann man ungeheure Strecken der Menschheit erst verstehen: was wichtig ist, weil alle
-unsere Cultur auf diesen Strecken ruht. Man muß Religion und Kunst verstehen — sonst kann
-man nicht weise werden. Aber man muß über sie hinaus sehen können; bleibt man darin, so versteht man sie nicht. Ebenso ist die Metaphysik eine Stufe, auf der man gestanden haben muß. Ebenso
+unsere Cultur auf diesen Strecken ruht. Man **muß** Religion und Kunst verstehen — sonst kann
+man nicht weise werden. Aber man muß über sie hinaus sehen können; bleibt man darin, so **versteht** man sie nicht. Ebenso ist die Metaphysik eine Stufe, auf der man gestanden haben muß. Ebenso
 die Historie und das Relativische. Man muß in großen Schritten dem Gang der Menschheit als Individuum
 nachgehen und über das bisherige Ziel hinauskommen.
 
-Wer weise werden will, hat ein individuelles Ziel, in welchem alles
+Wer **weise** werden will, hat ein **individuelles Ziel**, in welchem alles
 Erlebte, Glück Unglück Unrecht usw., als Mittel und Hülfe aufgeht. Überdies kommt das menschliche Leben da in
-die richtige Gestalt, denn der alte Mensch erreicht das Ziel seiner ganzen Natur nach am
+die richtige Gestalt, denn der **alte** Mensch erreicht das Ziel seiner ganzen Natur nach am
 leichtesten. Das Leben verläuft auch interessant, das Thema ist sehr groß und nicht zu zeitig zu erschöpfen. —
 Die Erkenntniß selbst hat kein Ziel weiter.
 
@@ -1687,7 +1687,7 @@ an Würde.
 [23[163]](javascript:;)
 -----------------------
 
-Wenn Worte einmal da sind, so glauben die Menschen, es müsse ihnen etwas entsprechen
+Wenn **Worte** einmal da sind, so glauben die Menschen, es müsse ihnen etwas entsprechen
 z.B. Seele Gott Wille Schicksal usw.
 
 [23[164]](javascript:;)
@@ -1720,11 +1720,11 @@ zu den höchsten Culturformen Anlaß gegeben. Die „Wahrheiten“ vermögen sol
 [23[168]](javascript:;)
 -----------------------
 
-Will man über Kunst Erfahrungen machen, so mache man einige Kunstwerke, es giebt keinen
+Will man über **Kunst** Erfahrungen machen, so mache man einige Kunstwerke, es giebt keinen
 anderen Weg zum aesthetischen Urtheil. Die meisten Künstler selbst sind dadurch allein nützlich, daß sie das
 Bewußtsein der großen Meister gewinnen, festhalten und übertreiben: also gleichsam als wärmeleitende Medien.
 Einige Novellen, einen Roman, eine Tragödie — das kann man machen, ohne mit seinen Hauptbeschäftigungen
-Schiffbruch zu leiden; auch soll man solcherlei keineswegs drucken. Überhaupt soll man lernen, mannichfach productiv zu sein: es ist das Hauptkunststück, um in vielen Dingen weise zu werden.
+Schiffbruch zu leiden; auch soll man solcherlei keineswegs drucken. Überhaupt soll man lernen, mannichfach **productiv** zu sein: es ist das Hauptkunststück, um in vielen Dingen weise zu werden.
 
 [23[169]](javascript:;)
 -----------------------
@@ -1752,7 +1752,7 @@ Jahrhunderts.
 [23[171]](javascript:;)
 -----------------------
 
-Die Mängel des Stils geben ihm bisweilen seinen Reiz. — Alexander von Humboldt’s Stil.
+**Die Mängel des Stils geben ihm bisweilen seinen Reiz. —** Alexander von Humboldt’s Stil.
 Die Gedanken haben etwas Unsicheres, soweit es sich nicht um Mittheilung von Facta handelt. Dazu ist alles in
 die Höhe gehoben und durch ausgewählte schöne Worte mit Glanz überzogen: die langen Perioden spannen es aus.
 So erzeugt dieser Stil als Ganzes eine Stimmung, einen Durst, man macht die Augen klein, weil man gar zu gern
@@ -1763,8 +1763,8 @@ führen).
 [23[172]](javascript:;)
 -----------------------
 
-Eine neue Darstellung der Kunstlehre hat davon auszugehen, dass der Mensch sich an allen
-Gemüthserregungen an sich, eben als Emotionen, erfreut, auch den schmerzlichsten: er
+Eine neue Darstellung der **Kunstlehre** hat davon auszugehen, dass der Mensch sich an allen
+**Gemüthserregungen** an sich, eben als Emotionen, erfreut, auch den schmerzlichsten: er
 will den Rausch. Die Kunst erregt ihn spielend zu Schmerz Thränen Zorn Begierde, aber ohne die praktischen
 schlimmen Folgen: doch giebt es auch Menschen, welche selbst jene Folgen mit hinnehmen, nur um die Emotion zu
 haben (der Grausame).
@@ -1787,7 +1787,7 @@ Die ausgeschlüpfte Seidenraupe schleppt eine Zeitlang die leere Puppe noch nach
 [23[175]](javascript:;)
 -----------------------
 
-Neigung und Abneigung unvernünftig. — Wenn Neigung oder Abneigung die Zähne erst
+**Neigung und Abneigung unvernünftig. —** Wenn Neigung oder Abneigung die Zähne erst
 eingebissen haben, so ist es schwer loszukommen, wie wenn eine Schildkröte sich in einen Stock verbissen hat.
 Die Liebe, der Hass und die Schildkröte sind dumm.
 
@@ -1803,7 +1803,7 @@ Unegoistischen — aber auch des Moralischen?
 [23[177]](javascript:;)
 -----------------------
 
-Philosophie nicht religiös aufzufassen. — Eine Philosophie mit religiösen Bedürfnissen
+**Philosophie nicht religiös aufzufassen. —** Eine Philosophie mit religiösen Bedürfnissen
 erfassen heisst sie völlig missverstehen. Man sucht einen neuen Glauben, eine neue Autorität — wer aber Glaube
 und Autorität will, der hat es an den hergebrachten Religionen bequemer und sicherer.
 
@@ -1811,7 +1811,7 @@ und Autorität will, der hat es an den hergebrachten Religionen bequemer und sic
 -----------------------
 
 Es war Abend, Tannengeruch strömte heraus, man sah hindurch auf graues Gebirge, oben schimmerte der Schnee.
-Blauer beruhigter Himmel darüber aufgezogen. — So etwas sehen wir nie, wie es an sich
+Blauer beruhigter Himmel darüber aufgezogen. — So etwas sehen wir **nie**, wie es an sich
 ist, sondern legen immer eine zarte Seelenmembrane darüber — diese sehen wir dann. Vererbte Empfindungen,
 eigne Stimmungen werden bei diesen Naturdingen wach. Wir sehen etwas von uns selber — insofern ist auch diese
 Welt unsere Vorstellung. Wald Gebirge, ja das ist nicht nur Begriff, es ist unsere Erfahrung und Geschichte,
@@ -1820,14 +1820,14 @@ ein Stück von uns.
 [23[179]](javascript:;)
 -----------------------
 
-Aberglaube. — Menschen in grosser Erregung sind am abergläubischsten. Die
+**Aberglaube. —** Menschen in grosser Erregung sind am abergläubischsten. Die
 Wiederherstellung der Religionen liegt in Perioden grosser Erschütterung und Unsicherheit. Wo alles weicht,
 greift man nach dem Strickwerk der Illusionen des Jenseits.
 
 [23[180]](javascript:;)
 -----------------------
 
-Das sterbende Kind. — Man giebt einem Kinde, das sterben muss, alles, was es will,
+**Das sterbende Kind. —** Man giebt einem Kinde, das sterben muss, alles, was es will,
 Zuckerbrod — was thut es wenn es sich den Magen verdirbt? — Und sind wir nicht alle in der Lage eines solchen
 Kindes? —
 
@@ -1840,57 +1840,57 @@ Klavierspiel heraus aus dem Irrenhause.
 [23[182]](javascript:;)
 -----------------------
 
-Sollten nicht Viele welche ehrgeizig sind, im Grunde nur die Emotion suchen, die mit ehrgeizigen Bestrebungen verbunden ist? Man kann solche Empfindung hemmen
+Sollten nicht Viele welche **ehrgeizig** sind, im Grunde nur die **Emotion** suchen, die mit ehrgeizigen Bestrebungen verbunden ist? Man kann solche Empfindung hemmen
 ersticken oder gross wachsen machen; letzteres thun die Emotionsbedürftigen. Viele suchen ja sich zu ärgern —
 so weit geht jenes Bedürfniss der Emotion.
 
 [23[183]](javascript:;)
 -----------------------
 
-Aus der Furcht erklärt sich zumeist die Rücksicht auf fremde Meinungen; ein guter Theil
-der Liebenswürdigkeit (des Wunsches nicht zu missfallen) gehört hierher. So wird die Güte
+Aus der **Furcht** erklärt sich zumeist die Rücksicht auf fremde Meinungen; ein guter Theil
+der Liebenswürdigkeit (des Wunsches nicht zu missfallen) gehört hierher. So wird die **Güte**
 der Menschen, mit Hülfe der Vererbung, durch die Furcht grossgezogen.
 
 [23[184]](javascript:;)
 -----------------------
 
-Nutzen der z<urückgebliebenen> St<andpuncte>. — Die zurückgebliebenen Standpuncte (politische sociale, oder ganze Typen bei Künstlern,
+**Nutzen der z&amp;lt;urückgebliebenen&amp;gt; St&amp;lt;andpuncte&amp;gt;. —** Die **zurückgebliebenen Standpuncte** (politische sociale, oder ganze Typen bei Künstlern,
 Metaphysikern) sind ebenso nöthig als die fortschreitenden Bewegungen: sie erzeugen die nöthige Reibung und
 sind für die neuen Bestrebungen Kraftquellen.
 
 [23[185]](javascript:;)
 -----------------------
 
-Glaube versetzt Berge. — Ein interessanter Aberglaube ist es, dass der Glaube Berge versetzen könne, dass ein gewisser hoher Grad von Fürwahrhalten die Dinge gemäss diesem
+**Glaube versetzt Berge. —** Ein interessanter Aberglaube ist es, dass der **Glaube** Berge versetzen könne, dass ein gewisser hoher Grad von Fürwahrhalten die Dinge gemäss diesem
 Glauben umgestaltet, dass der Irrthum zur Wahrheit wird, wenn nur kein Gran Zweifel dabei ist: d.h. die Stärke
 des Glaubens ergänzt die Mängel des Erkennens; die Welt wird so, wie wir sie uns vorstellen.
 
 [23[186]](javascript:;)
 -----------------------
 
-Liebe und Hass nicht ursprüngliche Kräfte. — Hinter dem Hassen
-liegt das Fürchten, hinter dem Lieben das Bedürfen. Hinter Fürchten
+**Liebe und Hass nicht ursprüngliche Kräfte. —** Hinter dem **Hassen**
+liegt das **Fürchten**, hinter dem **Lieben** das Bedürfen. Hinter Fürchten
 und Bedürfniss liegt Erfahrung (Urtheilen und Gedächtniss). Der Intellekt scheint älter zu sein als die
 Empfindung.
 
 [23[187]](javascript:;)
 -----------------------
 
-Erweiterung der Erfahrung. — Es giebt Fälle, wo Träume den Kreis
-unserer Erfahrung wirklich bereichern: wer wüsste, ohne Träume, wie es einem Schwebenden
+**Erweiterung der Erfahrung. —** Es giebt Fälle, wo **Träume** den Kreis
+unserer Erfahrung wirklich bereichern: wer wüsste, ohne Träume, wie es einem **Schwebenden**
 zu Muthe ist?
 
 [23[188]](javascript:;)
 -----------------------
 
-Sehnsucht nach dem Tode. — Wie der Seekranke vom Schiff in erstem Morgengrauen nach der
+**Sehnsucht nach dem Tode. —** Wie der Seekranke vom Schiff in erstem Morgengrauen nach der
 Küste zu späht, so sehnt man sich oft nach dem Tode — man weiss, dass man den Gang und die Richtung seines
 Schiffes nicht verändern kann.
 
 [23[189]](javascript:;)
 -----------------------
 
-Traurigkeit und Sinnenlust. — Warum ist der Mensch im Zustand der Trauer geneigter sich
+**Traurigkeit und Sinnenlust. —** Warum ist der Mensch im Zustand der Trauer geneigter sich
 sinnlichen Vergnügungen blindlings zu überlassen? Ist es das Betäubende in ihnen, was er begehrt? Oder
 Bedürfniss von Emotion um jeden Preis? — Sancho Pansa sagt „wenn der Mensch sich zu sehr der Traurigkeit
 überlässt, wird er zum Thier“.
@@ -1910,7 +1910,7 @@ Beethoven hätte keine Freude daran und sagte „das ist ich und nicht-ich, hol�
 -----------------------
 
 Der Philolog ist der, welcher lesen und schreiben kann, der Dichter der, welcher nach der deutlichen
-Wortableitung und gemäß der Historie „diktiren“ mußte, da er nicht lesen und schreiben
+Wortableitung und gemäß der Historie **„diktiren“** mußte, da er nicht lesen und schreiben
 kann. Man kann aus diesem Gegensatz des Lese-Schriftgelehrten und des Dichters viel wichtige Dinge
 ableiten.
 
@@ -1920,7 +1920,7 @@ ableiten.
 Nicht nur in dem Verhalten des Staates, welcher straft um abzuschrecken, sondern im Verhalten jedes
 Einzelnen, der lobt oder tadelt, wird der Grundsatz „der Zweck heiligt das Mittel“ befolgt: denn tadeln hat
 ebenfalls nur Sinn, als Mittel abzuschrecken und fürderhin als Motiv zu wirken; loben will antreiben, zum
-Nachmachen auffordern: insofern aber beides gethan wird als ob es einer geschehenen
+Nachmachen auffordern: insofern aber beides gethan wird **als ob** es einer geschehenen
 Handlung gelte, so ist die Lüge, der Schein bei allem Loben und Tadeln nicht zu vermeiden; sie sind eben das
 Mittel, welches vom höheren Zwecke geheiligt wird. Vorausgesetzt freilich, daß alle, sowohl die Tadelnden als
 die Getadelten, von der Lehre der völligen Unverantwortlichkeit und Schuldlosigkeit überzeugt sind, so wirkt
@@ -1930,8 +1930,8 @@ als alle durch Lehren beigebrachte Überzeugungen.
 [23[193]](javascript:;)
 -----------------------
 
-Ach, wenn die Mittelmäßigen eine Ahnung hätten, wie sicher ihre Leistungen von den Oligarchen
-des Geistes — welche zu jeder Zeit leben — als mittelmäßig empfunden werden! Nicht der größte Erfolg
+Ach, wenn die Mittelmäßigen eine Ahnung hätten, wie sicher ihre Leistungen von den **Oligarchen
+des Geistes** — welche zu jeder Zeit leben — als mittelmäßig empfunden werden! Nicht der größte Erfolg
 bei der Masse würde sie trösten.
 
 [23[194]](javascript:;)
@@ -1952,7 +1952,7 @@ Und wenn der Urheber dieses Buches sich fragt, zu wessen Vortheil er seine Aufze
 wünscht, so ist er unbescheiden genug, geradezu denjenigen Denker zu nennen, welcher als Verfasser jener
 Schrift über den Ursprung der moralischen Empfindungen ein Besitzrecht auf die angrenzenden Gebiete seines
 wissenschaftlichen Bezirks sich erworben hat und der seinen Untersuchungen jenen entscheidenden auch dieses
-Buch beherrschen<den> Gedanken vorangestellt hat. Dieser Satz, hart und schneidig gemacht unter
+Buch beherrschen&amp;lt;den&amp;gt; Gedanken vorangestellt hat. Dieser Satz, hart und schneidig gemacht unter
 dem Hammerschlag der historischen Erkenntniß, kann vielleicht einmal als die Axt dienen, welche dem
 „metaphysischen Bedürfnisse der Menschen“ an die Wurzel gelegt werden soll: und in sofern würde er zu den
 folgenreichsten Sätzen der menschlichen Erkenntniß gehören.
@@ -1960,8 +1960,8 @@ folgenreichsten Sätzen der menschlichen Erkenntniß gehören.
 [23[196]](javascript:;)
 -----------------------
 
-Reisebuch  
-unterwegs zu lesen.
+**Reisebuch  
+unterwegs zu lesen.**
 
 Vorrede, — — —
 
@@ -2000,7 +2000,7 @@ Sommersonnenwende 1877
 
 |  |  |  |
 | --- | --- | --- |
-| 1 | Sylvesternacht: | das Klanggespenst meines Ohrs  selbst entweicht  Kalt — die Sterne funkeln  O du  Hohnvolle Larve des Weltalls  — alte und neue Zeit — vor Neujahr. |
+| 1 | **Sylvesternacht:** | das Klanggespenst meines Ohrs  selbst entweicht  Kalt — die Sterne funkeln  O du  Hohnvolle Larve des Weltalls  — alte und neue Zeit — **vor** Neujahr. |
 | 2 | der Springbrunnen im Mondschein  schön gelangweilt boshaft  will kalt übergießen | |
 | 3 | Morgens auf dem Schiff. Wohin? wir wagen nicht den Tod | |
 | 4 | Der Blinde am Wege. Die Seele giebt keinen Schein | |
@@ -2008,3 +2008,5 @@ Sommersonnenwende 1877
 | 6 | Alpa Alpa | |
 | 7 | Campo Santo | |
 | 8 | Bergkrystall | |
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

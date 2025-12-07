@@ -33,7 +33,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [6[2]](javascript:;)
 --------------------
 
-Andrer Gegensatz:
+**Andrer Gegensatz:**
 
 andre Welt auf der Bühne verehrt, andre Welt im Leben.
 
@@ -51,7 +51,7 @@ also keine Erziehung eintritt, so ist dies ein Beweis, daß jenes Phänomen nich
 
 Eine Erziehung zur tragischen Erkenntniß setzt also Bestimmbarkeit des Charakters, freie Wahlentschließung
 usw. voraus — für die Praxis, leugnet aber theoretisch dieselbe und stellt dies Problem sofort an die Spitze
-der Erziehung. Wir werden uns immer so benehmen wie wir sind und nie wie wir sein
+der Erziehung. Wir werden uns immer so benehmen wie wir **sind** und nie wie wir sein
 sollen.
 
 Der Genius hat die Kraft, die Welt mit einem neuen Illusionsnetze zu umhängen: die Erziehung zum Genius heißt
@@ -99,7 +99,7 @@ würde!
 --------------------
 
 Das Logische hat als Ziel die Erkenntniß des „unlogischen Centrums“ der Welt: ebenso wie die Moral eine Art
-Logik ist. So wird durch diese Erkenntniß das Schöne nothwendig.
+Logik ist. So wird durch diese **Erkenntniß** das **Schöne** nothwendig.
 
 Das Logische ist die reine Wissenschaft der Erscheinung und bezieht sich nur auf den Schein. Bereits das
 Kunstwerk liegt außer ihr. Das Schöne als Spiegelung des Logischen. Die
@@ -113,9 +113,9 @@ Gesetze der Logik sind das Objekt der Gesetze des Schönen.
 [6[8]](javascript:;)
 --------------------
 
-Die homerische Heiterkeit.
+**Die homerische Heiterkeit.**
 
-Metaphysik der Kunst.
+**Metaphysik der Kunst.**
 
 [6[9]](javascript:;)
 --------------------
@@ -148,7 +148,7 @@ Heilmittel.
 [6[10]](javascript:;)
 ---------------------
 
-Kunst und Wissenschaft.
+**Kunst und Wissenschaft.**
 
 [6[11]](javascript:;)
 ---------------------
@@ -183,7 +183,7 @@ festzuspinnen. Einem so Gestimmten erscheint dann das Bild der platonische
 *lies:*der platonische  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Sokrates als der Lohn, als ganz neue Form der Daseinsseligkeit.
+Sokrates als **der Lohn, als ganz neue Form der Daseinsseligkeit**.
 
 Der theoretische Genius als Vernichter der hellenischen apollinischen Kunst: dagegen die Weltbilder der
 Philosophie und des Christenthums und Religion, überhaupt der instinktiven Mächte: aus den Ruinen der
@@ -202,7 +202,7 @@ großartiger wird. Man wird zur mystischen Conception gedrängt. Sodann aber dr�
 logischen Denkens die Gegenmacht hervor, die dann mitunter auf Jahrtausende die Logik in Bande schließt.
 
 Kampf dieser beiden Formen der Kunst: die philosophischen Weltbilder behaupten sich als erweisbare Wahrheit,
-die religiösen als nicht erweisbare, darum geoffenbarte W<ahrheit>. Gegensatz des theoretischen
+die religiösen als nicht erweisbare, darum geoffenbarte W&amp;lt;ahrheit&amp;gt;. Gegensatz des theoretischen
 Genies und des religiösen Genies. Es ist eine Vereinigung möglich: einmal schärfste Bestimmung der Grenze des
 Logischen, anderseits die Erkenntniß, daß zu unsrer Existenz der Schein nöthig ist.
 
@@ -226,7 +226,7 @@ Kunst muß uns als entwickelt sich zeigen: aber sie muß sich wieder abwickeln. 
 |  |  |
 | --- | --- |
 | 1. | Sokrates Gegner der Mysterien, Todesfurcht durch Gründe zu beschwichtigen. Der Grund, seine Voraussetzung die Ergründlichkeit. Optimism *Erratum:*Optimismus *lies:*Optimism [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  der Dialektik. Glaube daß der Begriff das Wesen des Dings trifft: platonische Idee. Daher Metaphysik der Logik: Identität von Denken und Sein. Voraussetzung der Ziele des Denkens und der Ziele des Guten und Schönen. Heiterkeit. |
-| 2. | Der Wahn. |
+| 2. | **Der Wahn.** |
 | 3. | Voraussetzung der Willensfreiheit. Es giebt nur Erkennen: alles Handeln nach Vorstellungen. |
 | 4. | Alexandrinismus der Erkenntniß, Zug nach Indien. Wildes Hervorbrechen des Dionysischen. Johannes. |
 
@@ -311,3 +311,5 @@ Griechische Heiterkeit.
 | IV. | Der Tod der Tragödie. |  | Homer. |
 | V. | Wissenschaft und Kunst. | Die Sprache. |
 | VI. | Metaphysik der Kunst. | Metrik. |
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

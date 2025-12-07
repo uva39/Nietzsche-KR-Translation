@@ -51,7 +51,7 @@ Seufzern. Die Sehnsucht nach der Urheimat: der Kuhreigen der Metaphysik. „Sehn
 Ausspannen der Seele, um zu flüchten, Hervorbrechen der Flügel.
 
 Der Mythus stellt jetzt, zu unserer Beschwichtigung, das Bild dazwischen und das Wort. — Die Helden des
-Mythus sind Atlas ähnlich, sie tragen die Welt auf ihrem Rücken. Sie entlasten uns. — Wir begreifen hier, weshalb die Musik nach Bildern verlangt: sie will den heilenden Apollo. Das ist das
+Mythus sind Atlas ähnlich, sie tragen die Welt auf ihrem Rücken. Sie entlasten uns. — Wir begreifen hier, **weshalb** die Musik nach Bildern verlangt: sie will den heilenden Apollo. Das ist das
 Verhältniß des Dramas zur Musik.
 
 Wir haben diesen Prozeß in größter Reinheit erlebt: jetzt erst verstehen wir die Tragödie in ihrer Bedeutung
@@ -73,7 +73,7 @@ Menschen sollen wir wieder tragische Menschen werden — und für uns Deutsche i
 Dinge. Unsere Perserkriege haben kaum begonnen.
 
 Allein in der Musik sind wir noch nicht wissenschaftliche historische Menschen: wir leben noch bei
-Palestrina: ein Beweis, daß wir hier wirklich lebendig sind.
+Palestrina: ein Beweis, daß wir hier wirklich **lebendig** sind.
 
 Deshalb steht das größte deutsche Kunstfest in Bayreuth einzig da: hier feiern die tragischen Menschen ihr
 Weihefest, zum Zeichen daß eine neue Kultur beginnt. Ein Zurückstreben zur Gesundheit.
@@ -113,10 +113,10 @@ unzählicher
 *lies:*unzählicher  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Menschen, acht Tage lang weltl<iche>
+ Menschen, acht Tage lang weltl&amp;lt;iche&amp;gt;
 Ergötzungen.
 
-„Rad Was<s>erblase, hohle Bogenlinie.“
+„Rad Was&amp;lt;s&amp;gt;erblase, hohle Bogenlinie.“
 
 [13[4]](javascript:;)
 ---------------------
@@ -136,12 +136,12 @@ Ergötzungen.
 [13[5]](javascript:;)
 ---------------------
 
-Was bedeutet die Tragödie für uns?
+**Was bedeutet die Tragödie für uns?**
 
   
 
-Von den Griechen sollen wir das Wagnersche
-Kunstwerk verstehn.
+Von den **Griechen** sollen wir das **Wagnersche
+Kunstwerk** verstehn.
 
 Die Geburt der Tragödie.
 
@@ -175,7 +175,7 @@ Die Verwirrung über Wagner.
 
 *Erratum:*
 
-Palestrina und die Maler der Ren<aissance>
+Palestrina und die Maler der Ren&amp;lt;aissance&amp;gt;
 
 Die Verwirrung über Wagner.
 
@@ -185,7 +185,7 @@ Die Verwirrung über Wagner.
 Die Verwirrung über Wagner.
 
   
-[Nach KGW Nachberichte](documentation/de/corrections.html) wird die Zeile „Palestrina und die Maler der Ren<aissance>“ getilgt, sie gehört zu Fragment [NF-1871,13[2]](/texts/eKGWB/NF-1871,13%5B2%5D).
+[Nach KGW Nachberichte](documentation/de/corrections.html) wird die Zeile „Palestrina und die Maler der Ren&amp;lt;aissance&amp;gt;“ getilgt, sie gehört zu Fragment [NF-1871,13[2]](/texts/eKGWB/NF-1871,13%5B2%5D).
 
 Eine neue Kultur beginnt: zuerst müssen die Mittel da sein, um in ihr leben zu
 können, wobei freilich die Genien, die die Mittel bringen, den wüthenden Anfall der unterlegnen Kultur ewig an sich zu erleiden haben.
@@ -193,3 +193,5 @@ können, wobei freilich die Genien, die die Mittel bringen, den wüthenden Anfal
 *Erratum:*.  
 *lies:*, wobei freilich die Genien, die die Mittel bringen, den wüthenden Anfall der unterlegnen Kultur ewig an sich zu erleiden haben.  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -13,17 +13,17 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 
 [3 = M II 1. Frühjahr 1880]
 
-L’Ombra  
+**L’Ombra  
 di  
-Venezia.
+Venezia.**
 
 [3[1]](javascript:;)
 --------------------
 
-Vorrede.
+**Vorrede.**
 
-*Erratum:*Vorrede  
-*lies:*Vorrede.  
+*Erratum:***Vorrede**  
+*lies:***Vorrede.**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 Als ich jüngst den Versuch machte, meine älteren Schriften, die ich vergessen hatte, kennen zu lernen,
@@ -36,7 +36,7 @@ dreien zugleich wieder von Grund aus aufhelfen will, muß sich auf eine langwier
 
 Nachdem ich so viel und dazu nicht das Erbaulichste von mir gesagt habe — wie es die Sitte der Vorrede zwar
 nicht anräth, aber doch erlaubt — darf ich wenigstens hoffen damit erreicht zu haben, daß meine neuesten
-Gedanken, welche ich im vorliegenden Buche mittheile, nicht ohne Vorsicht gelesen
+Gedanken, welche ich im vorliegenden Buche mittheile, **nicht ohne Vorsicht** gelesen
 werden.
 
 [3[2]](javascript:;)
@@ -56,15 +56,15 @@ jede versucht, auf unserem Boden zu wachsen.
 --------------------
 
 3. Unsere Liebe zur Wahrheit zeigen wir am deutlichsten in der Behandlung der
-„Wahrheiten“, welche Andere dafür halten: da verräth sich, ob wir wirklich die Wahrheit
+„Wahrheiten“, welche **Andere** dafür halten: da verräth sich, ob wir wirklich die Wahrheit
 oder nur uns selber lieben.
 
 [3[5]](javascript:;)
 --------------------
 
-5. Dies sind die abnehmenden Grade des Mitleidens: erstens
-Mitleid mit Eigenem (Kind, Erzeugniß, Besitz, Weib, Diener), zweitens mit dem von uns zum
-Eigenthum Begehrten, drittens mit uns Ähnlichem, viertens mit uns
+5. Dies sind die abnehmenden Grade des Mitleidens: **erstens**
+Mitleid mit Eigenem (Kind, Erzeugniß, Besitz, Weib, Diener), **zweitens** mit dem von uns zum
+Eigenthum Begehrten, **drittens** mit uns Ähnlichem, **viertens** mit uns
 Bekanntem. Das Merkmal, welches das Mitleid vom Leiden unterscheidet, ist die Erbitterung, daß unserem
 Eigenthum oder Eigenthum-Ähnlichen Etwas zu Leide geschieht. Das Leiden des uns Feindlichen ist angenehm, als
 Anzeichen vom Schwinden einer Kraft der Feindseligkeit: am Fremden, uns Unähnlichen, beinahe angenehm, weil
@@ -74,10 +74,10 @@ Empfindung für das Eigenthum verwandt ist.
 [3[6]](javascript:;)
 --------------------
 
-8. Einem kommenden Zeitalter, welches wir das bunte nennen
-wollen und das viele Experimente des Lebens machen soll, wird eigenthümlich sein: erstens
+8. Einem kommenden Zeitalter, welches wir **das bunte** nennen
+wollen und das viele Experimente des Lebens machen soll, wird eigenthümlich sein: **erstens**
 die Enthaltung in Bezug auf die letzten Entscheidungen (sobald man nämlich eingesehen hat, wodurch diese
-bisher ihre ungeheure Überschätzung erhalten haben, hören sie auf für uns bedeutend zu sein); zweitens die Voreingenommenheit gegen alle Sitten und alles nach Art der Sitte Bindende; drittens eine größere Ehrlichkeit im Sichtbar-werden-lassen sogenannter böser
+bisher ihre ungeheure Überschätzung erhalten haben, hören sie auf für uns bedeutend zu sein); **zweitens** die Voreingenommenheit gegen alle Sitten und alles nach Art der Sitte Bindende; **drittens** eine größere Ehrlichkeit im Sichtbar-werden-lassen sogenannter böser
 Eigenschaften.
 
 [3[7]](javascript:;)
@@ -129,21 +129,21 @@ Ding wider die Natur sein? Sonst wäre es ja, nach seinem eigenen Urtheil, etwas
 
 21. In den Leidenschaften des Menschen erwacht das Thier wieder; die Menschen kennen
 nichts Interessanteres, als diesen Rückgang ins Reich des Unberechenbaren. Es ist als ob sie sich an der
-Vernunft allzusehr lan<g>weilten.
+Vernunft allzusehr lan&amp;lt;g&amp;gt;weilten.
 
 [3[13]](javascript:;)
 ---------------------
 
 22. Was man besitzt, das vertritt man, helfend und fürsorgend; was man liebt,
 begehrt, das heißt besitzen will, vertritt man noch lebhafter, weil der Besitz noch nicht enttäuscht, noch
-nicht gesättigt hat. Die Empfindung der Liebe setzt die Empfindung für das Eigenthum
+nicht gesättigt hat. Die Empfindung der **Liebe** setzt die Empfindung für das Eigenthum
 voraus.
 
 [3[14]](javascript:;)
 ---------------------
 
 25. Wir können dem Nächsten immer nur helfen, indem wir ihn in eine Gattung (Kranke,
-Gefangene, Bettler, Künstler, Kinder) einordnen und dergestalt erniedrigen; dem
+Gefangene, Bettler, Künstler, Kinder) einordnen und dergestalt **erniedrigen**; dem
 Individuum ist nicht zu helfen.
 
 [3[15]](javascript:;)
@@ -193,7 +193,7 @@ Wort haben.
 ---------------------
 
 33. Das Neue an unserer jetzigen Stellung zur Philosophie ist eine Überzeugung, die
-noch kein Zeitalter hatte: daß wir die Wahrheit nicht haben. Alle früheren Menschen
+noch kein Zeitalter hatte: **daß wir die Wahrheit nicht haben**. Alle früheren Menschen
 „hatten die Wahrheit“: selbst die Skeptiker.
 
 [3[20]](javascript:;)
@@ -208,7 +208,7 @@ suchten mit Inbrunst ein Mittel, ihr Leben auszuhalten und aushaltenswerth zu fi
 Welt ihre neue Art von Glück an. Ein Glück solchen Ursprungs war die größte Paradoxie des Alterthums; die
 damalige Bildung war zu paradoxensüchtig, um es nicht sehr anziehend zu finden. „Das Heil kommt von den
 Juden“, — das war ein Satz, gegen den kein geistreicher Alter seine Haltung auf die Dauer behauptete.
-„Versuchen wir es also mit den Juden“ — so klang die innere Stimme, durch welche der Geist auf die Seite der großen Bewegung gerufen wurde.
+„Versuchen wir es also mit den Juden“ — so klang die innere Stimme, durch welche der **Geist** auf die Seite der großen Bewegung gerufen wurde.
 
 [3[21]](javascript:;)
 ---------------------
@@ -228,12 +228,12 @@ individuationis durchbrochen sein?
 
 38. Jene Moralität, welche am allerstrengsten von Jedermann gefordert, geehrt und
 heilig gesprochen wird, die Grundlage des socialen Lebens: was ist sie denn als jene Verstellung, welche die
-Menschen nöthig haben, um mit einander ohne Furcht leben zu können? (So daß der Einzelne
+Menschen nöthig haben, um mit einander **ohne Furcht** leben zu können? (So daß der Einzelne
 sich dem Anderen als gleich giebt und sich benutzen läßt, so wie er jenen benutzt.) Der allergrößte Theil
 dieser Verstellung ist schon in Fleisch Blut und Muskel übergegangen, wir fühlen es nicht mehr als
 Verstellung, so wenig wir bei Begrüßungsworten und höflichen Mienen an Verstellung denken: was sie trotzdem
-sind. Die gewöhnlichsten Arten der Verstellung sind: erstens man ähnelt sich seiner
-Umgebung an, man versteckt sich gleichsam in ihr; zweitens man macht es einem andern
+sind. Die gewöhnlichsten Arten der Verstellung sind: **erstens** man ähnelt sich seiner
+Umgebung an, man versteckt sich gleichsam in ihr; **zweitens** man macht es einem andern
 Menschen, der Ansehen und Erfolg hat, nach und giebt sich als etwas Höheres als man ist. Im ersten Falle folgt
 man der Sitte und wird „sittlich“, im zweiten Falle folgt man der Autorität und wird „gläubig“: unter allen
 Umständen erregt man keine Furcht mehr — denn wir haben jetzt viele „Unsers Gleichen“.
@@ -270,7 +270,7 @@ eigentlichen Musiker; er ist in
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Vergleich zu jedem von ihnen geringerer
-Gattung. Aber als Schauspieler kann er sich zur Genialität und zum gleichen Range mit
+Gattung. Aber als **Schauspieler** kann er sich zur Genialität und zum gleichen Range mit
 ihnen erheben.
 
 [3[28]](javascript:;)
@@ -313,7 +313,7 @@ nach, so mischte er sich wieder unter die Menschen und nun befand sich sein Kopf
 ---------------------
 
 74. Alles, was wir für uns thun, thun wir um der Anderen willen; aber auch Alles, was
-wir für die Anderen thun, thun wir um der Anderen willen.
+wir **für** die Anderen thun, thun wir um der Anderen willen.
 — Dies
 
 *Erratum:*Dies  
@@ -341,7 +341,7 @@ gut sie sonst auch sein mögen.
 ---------------------
 
 78. Die Kraft, zu wollen, die einige Menschen und Culturen in höherem Grade, als
-andere, besitzen, besteht darin, daß man ungefähr die gleiche Anzahl von eingeübten
+andere, besitzen, besteht darin, daß man ungefähr die **gleiche Anzahl** von eingeübten
 inneren Mechanismen und von Werthschätzungen hat: so daß, sobald nur ein werthgeschätztes Ding in die
 Vorstellung tritt, sofort auch der dazu gehörige Mechanismus sein Stück abspielt. Anderen Menschen und
 Zeitaltern fehlt es an einer solchen Zahlencongruenz von Mechanismen und Werthschätzungen. Sie erzeugen sehr
@@ -376,7 +376,7 @@ auch mit der geliebtesten Person keine Ehe eingehen, im Falle die Kirche ihren S
 umgekehrt würden auf die Ehe verzichten, wenn dieselbe von einer kirchlichen Einsegnung abhängig gemacht
 würde; wieder andere finden Gelegenheit zum Heroismus in dem Gedanken, daß die einmal geschlossene Ehe
 unlösbar sei, dagegen hatte die George Sand umgekehrt ihre strengsten und sittlichsten Empfindungen in die
-Forderung gedrängt, daß die Ehe nur so lange Dauer haben dürfe, als die leibliche
+Forderung gedrängt, daß die Ehe nur so lange Dauer haben **dürfe**, als die leibliche
 Vereinigung von Seiten beider Gatten mit dem Zustande einer seelischen Begeisterung für einander verbunden
 ist.
 
@@ -483,7 +483,7 @@ also das Plötzliche für das humanisirende Element wie jene Früheren das Gegen
 ---------------------
 
 101. Giebt es Menschen, welche die Affekte bewundern, die Vernünftigkeit verachten
-und die moralische Werthschätzung <bei Seite> stellen? Unter den handelnden Menschen gewiß
+und die moralische Werthschätzung &amp;lt;bei Seite&amp;gt; stellen? Unter den handelnden Menschen gewiß
 nicht; hie und da aber wird ein Künstler die Vernünftigkeit und die Moralität nicht malerisch genug finden: er
 will Menschen mit starken Contrasten.
 
@@ -557,8 +557,8 @@ genug gelernt haben und welche vermeinen, hier wenigstens könne ein Jeder von v
 113. Wenn wir das Gute, das wir einem Besitze verdanken, bei allem Bemühen, es zu
 überschauen, nicht mehr zu überschauen vermögen, so entsteht Liebe: ein Überströmen gegen etwas Unbegrenztes;
 es fehlt ihr die Kenntniß des ganzen Werthes einer Sache oder Person, weil keine Wage groß genug ist
-<ihn> zu fassen. Man bringt alles Höchste, das man kennt, zur Vergleichung heran; lieben wir, so
-denken wir fortwährend an alles Höchste aller Art, und weil es <uns> immer zugleich mit dem
+&amp;lt;ihn&amp;gt; zu fassen. Man bringt alles Höchste, das man kennt, zur Vergleichung heran; lieben wir, so
+denken wir fortwährend an alles Höchste aller Art, und weil es &amp;lt;uns&amp;gt; immer zugleich mit dem
 geliebten Gegenstande einfällt, so verwechseln wir es auch wohl mit ihm.
 
 [3[59]](javascript:;)
@@ -612,7 +612,7 @@ verändert mittelbar auch die Lust- und Unlust-Arten und -Grade der Menschen.
 ---------------------
 
 123. Zu den Trostmitteln der leidenschaftlichen und ungebändigten Charaktere gehört
-die Tragödie; sie räth an, Ruhe innere Freiheit nur jenseits der Welt zu erwarten — damit
+die Tragödie; sie räth an, Ruhe innere Freiheit **nur** jenseits der Welt zu erwarten — damit
 beseitigt sie vorübergehend die moralische Unzufriedenheit solcher Naturen mit sich, denn sie scheint zu
 sagen: das Unmögliche nicht zu vermögen, sollte keinen Kummer machen.
 
@@ -694,7 +694,7 @@ Christenthum und die socialistische Phantasterei zu beurtheilen.
 [3[75]](javascript:;)
 ---------------------
 
-136. Erstens: die Strafe aus der Welt zu schaffen; zweitens: die Sünde aus der Welt zu schaffen; drittens: das moralische
+136. **Erstens**: die Strafe aus der Welt zu schaffen; **zweitens**: die Sünde aus der Welt zu schaffen; **drittens**: das moralische
 Messen und Wägen aus der Welt zu schaffen.
 
 [3[76]](javascript:;)
@@ -731,7 +731,7 @@ in den höchsten Erregungen schreibt er sich übermenschliche Fähigkeiten zu �
 Erregungen für die Erkenntniß einer Sache am wenigsten geeignet, wohl aber sieht er da Visionen, Gespenster,
 siebente Himmel und höllische Abgründe. Daher die Religion, daher die meiste Metaphysik —. Und mit diesen
 Ausgeburten der halben Verrücktheit hätte die Wissenschaft nöthig, sich zu
-versöhnen?
+**versöhnen**?
 
 *Erratum:*!  
 *lies:*?  
@@ -814,7 +814,7 @@ weil sie es wollten, denn sie waren schrecklich.
 
 152. Thiere gleicher Art schonen sich vielfach gegenseitig, nicht aus einem
 wunderbaren Instinkte des Mitgefühles, sondern weil sie bei einander gleiche Kraft voraussetzen und sich als
-unsichere Beute betrachten; sie versuchen es, von Thieren anderer Art zu leben und sich ihrer zu enthalten. Daraus bildet sich die Gewöhnung, von einander abzusehen und endlich Annäherung
+unsichere Beute betrachten; sie versuchen es, von Thieren anderer Art zu leben und sich **ihrer** zu enthalten. Daraus bildet sich die Gewöhnung, von einander abzusehen und endlich Annäherung
 und dergleichen. Schon die Absicht, Weibchen oder Männchen an sich zu locken, kann die Thiere bestimmen, in
 Hinsicht auf ihre Art nicht schrecklich zu erscheinen, sondern harmlos. In ritterlichen Zeitaltern wird der
 Mann um so artiger und huldvoller gegen alle Frauen, je stolzer und furchtbarer er gegen alle Männer
@@ -890,7 +890,7 @@ nachhängt.
 [3[97]](javascript:;)
 ---------------------
 
-161. Inwiefern hat die Moral schädlich gewirkt? Insofern sie den
+161. Inwiefern hat die Moral **schädlich** gewirkt? Insofern sie den
 Körper verachtete, im Asketismus der Pflicht, des Muthes, des Fleißes, der Treue usw. Namentlich in jenem mit
 Religion verquickten Kanon, daß Sich-Freuden-bereiten der Gottheit unangenehm, Sich-Leiden-bereiten ihr
 angenehm sei. Man lehrte, zu leiden, man rieth ab, sich zu freuen, — in allen Moralen (die des Epikur
@@ -949,14 +949,14 @@ würde sein ganzes Leben verzehren. Das Christenthum bezeichnete den Nächsten a
 Handlungen und überließ es Gott, zu bestimmen, wer unsere Nächsten werden sollten; wem dieser religiöse Ausweg
 nicht offen steht, müßte doch sagen: ich will mir in Bezug auf die Handlungen, die ich thue, doch nicht jeden
 beliebigen Nächsten als Objekt gefallen lassen, sondern die suchen, zu denen meine Handlungen am meisten
-passen, denen sie wirklich nützen können. Dazu freilich müßte man seinen Nächsten so gut
+passen, denen sie wirklich nützen **können**. Dazu freilich müßte man seinen Nächsten so gut
 wie sich kennen lernen, und das könnte wieder das ganze Leben verzehren.
 
 [3[101]](javascript:;)
 ----------------------
 
 165. Vorschriften, wie gehandelt werden soll, sind um so indiskutabler, je mehr die
-Einsicht der Handelnden unter der des Vorschreibenden steht. Da außer ihm niemand genau weiß, welche Folgen er von den Handlungen erwartet, so sind auch jene Folgen, welche sich thatsächlich aus
+Einsicht der Handelnden unter der des Vorschreibenden steht. Da außer ihm niemand genau weiß, **welche** Folgen er von den Handlungen erwartet, so sind auch jene Folgen, welche sich thatsächlich aus
 den Vorschriften ergeben, indiskutabel. So stellt sich der religiöse Mensch zu Gottes Gebot, der moralische
 Mensch zum Sittengesetz — eine Erbschaft aus Zeiten, in denen es einen Häuptling und blind gehorchende
 Anhänger gab, welche in ihm ihre Vernunft sahen und ohne ihn keine hatten.
@@ -1052,7 +1052,7 @@ solche Wahrheit will kritisirt, nicht angebetet sein.
 [3[108]](javascript:;)
 ----------------------
 
-175. Der Dichter scheint fortwährend Zugänge zu einer neuen oder
+175. Der Dichter **scheint** fortwährend Zugänge zu einer neuen oder
 besseren Erkenntniß von Natur und menschlichen Dingen zu eröffnen: bevor man noch recht begriffen hat, daß was
 hier so aufregend winkt, ein Irrlicht ist, gaukelt schon wieder ein anderes vor den Sinnen. Die
 Vergleichungen, die Metaphern des Dichters sind von ihm durchaus nicht als solche gegeben, sondern als neue,
@@ -1060,7 +1060,7 @@ bisher unerhörte Identitäten vermöge deren ein Reich der Erkenntniß sich zu 
 darüber fest steht, was in der Natur wirklich wahr und erwiesen ist, um so stärker ist die Wirkung des
 Dichters, um so größer seine Schauspielerkunst, zeitweilig den Ergründer der Natur zu repräsentiren. Die
 Frage, wie weit etwas, das ein Dichter sagt, wahr ist, ist eine Pedanterie. Aller Werth liegt gerade darin,
-daß es nur einen Augenblick wahr scheint, und dies gilt von seiner gesammten
+daß es nur einen Augenblick wahr **scheint**, und dies gilt von seiner gesammten
 Weltbetrachtung, seiner moralischen Ordnung, seinen moralischen Sentenzen ebenso sehr wie von seinen
 Gleichnissen, seinen Charakteren, seinen Geschichten. Eine ernsthafte, der Wissenschaft zugehörige Meinung
 damit bekräftigen wollen, daß irgend ein Tragiker etwas Ähnliches gesagt hat, ist eine Albernheit: Dichter
@@ -1171,8 +1171,8 @@ leidendes Wesen als schuldig zu behandeln. Das Christenthum kennt nur den würde
 [3[118]](javascript:;)
 ----------------------
 
-187. Der Dichter läßt den erkennenwollenden Trieb spielen, der
-Musiker läßt ihn ausruhen, — sollte wirklich Beides neben einander möglich sein? Sind wir
+187. Der Dichter läßt den erkennenwollenden Trieb **spielen**, der
+Musiker läßt ihn **ausruhen**, — sollte wirklich Beides neben einander möglich sein? Sind wir
 ganz der Musik hingegeben, so giebt es keine Worte in unserem Kopfe, — eine große Erleichterung; sobald wir
 wieder Worte hören und Schlüsse machen, das heißt sobald wir den Text verstehen, ist unsere Empfindung für die
 Musik oberflächlich geworden: wir verbinden sie jetzt mit Begriffen, wir vergleichen sie mit Gefühlen und üben
@@ -1199,23 +1199,23 @@ genug? Ein solches Mädchen gilt als verächtlich, — aber welche Art des Ungeh
 ungehorsam gegen die Sitte; man verachtet also die Blindheit der Begierde, das Thier im Mädchen. Insofern sagt
 man auch: sie ist unkeusch — denn damit kann ja nicht gesagt sein, daß sie das thut, was die ehelich
 angetraute Gattin auch thut, und welche man deshalb doch nicht unkeusch nennt. — Die Sitte fordert demnach,
-daß die Unlust des unbefriedigten Bedürfnisses ertragen werde, daß die Begierde warten
+daß die Unlust des unbefriedigten Bedürfnisses ertragen werde, daß die Begierde **warten**
 könne. Unsittlich heißt also hier, eine Unlust trotz des Gedankens an die vorschriftengebende Macht nicht
-ertragen können. Es soll ein Gefühl durch einen Gedanken niedergerungen werden, genauer:
+ertragen können. Es soll **ein Gefühl durch einen Gedanken niedergerungen werden**, genauer:
 durch den Gedanken der Furcht (sei dies die Furcht vor der heiligen Sitte oder vor der Strafe und Schande,
 welche die Sitte androht). An sich ist es nun keineswegs schimpflich, sondern natürlich und billig, daß ein
-Bedürfniß sofort befriedigt werde; somit liegt das eigentlich Verächtliche in jenem
-Mädchen in der Schwäche ihrer Furcht. Sittlich sein heißt: in hohem Grade der Furcht
+Bedürfniß **sofort** befriedigt werde; somit liegt das eigentlich Verächtliche in jenem
+Mädchen in der **Schwäche ihrer Furcht**. Sittlich sein heißt: in hohem Grade der Furcht
 zugänglich sein; Furcht ist die Macht, von welcher das Gemeinwesen erhalten wird. — Erwägt man andererseits,
 daß jedes ursprüngliche Gemeinwesen in anderen Stücken auf’s Höchste gerade die Furchtlosigkeit seiner
 Mitglieder nöthig hat, so ergiebt sich, daß, was im Falle des Sittlichen schlechterdings gefürchtet werden
-soll, im höchsten Grade furchtgebietend sein muß;
+soll, **im höchsten Grade** furchtgebietend sein muß;
 
 *Erratum:*muß,  
 *lies:*muß;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-deshalb hat sich die Sitte überall als göttlichen Willen eingeführt und sich unter die
+deshalb hat sich die Sitte überall als **göttlichen** Willen eingeführt und sich unter die
 Furchtbarkeit von Göttern und dämonischer Strafmittel
 
 *Erratum:*und dämonischen Strafmitteln  
@@ -1223,7 +1223,7 @@ Furchtbarkeit von Göttern und dämonischer Strafmittel
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  zurückgezogen: so
-daß unsittlich sein bedeutete das unbegrenzt Furchtbare nicht fürchten. — Von Einem, der
+daß unsittlich sein bedeutete das unbegrenzt Furchtbare **nicht** fürchten. — Von Einem, der
 die Götter leugnete, war man Alles gewärtig, es war dadurch der fürchterlichste Mensch, den kein Gemeinwesen
 ertragen konnte: weil er die Wurzeln der Furcht ausriß, auf denen das Gemeinwesen gewachsen war. Man nahm an,
 daß in einem solchen Menschen die Begierde schrankenlos walte: man hielt jeden Menschen ohne diese Furcht für
@@ -1245,8 +1245,8 @@ heute, und war im Ertragen von Martern geübt und stolz; um solcher Gründe will
 Raubgelüst, seine Wolllust in Schranken zu halten, würde man kaum für männlich gehalten haben; anders ist es,
 wenn mit Wahnsinn, Furien, Ausschlag, weißen Haaren, mit plötzlichem Altwerden, mit nächtlichen Schrecken
 gedroht wird: die Drohung solcher Strafen wirkt. Kurz gesagt, die Furcht, auf der damals die Sittlichkeit
-ruhte, war die abergläubische Furcht: unsittlich sein hieß ohne abergläubische Furcht
-sein. — Je friedlicher der Zustand eines Gemeinwesens ist, je feiger seine Bürger werden, je weniger
+ruhte, war die abergläubische Furcht: **unsittlich sein hieß ohne abergläubische Furcht
+sein**. — Je friedlicher der Zustand eines Gemeinwesens ist, je feiger seine Bürger werden, je weniger
 sie an das Ertragen von Schmerzen gewöhnt sind, um so mehr werden die weltlichen Strafen als
 Abschreckungsmittel schon genügen, um so schneller erweisen sich die religiösen Drohungen als überflüssig. Der
 Friede also verdrängt die Religion, die unbestimmten Angstmittel der Phantasie werden nicht mehr nöthig; denn
@@ -1262,7 +1262,7 @@ selbst die Strafen höchst überflüssige Schreckmittel werden; schon die Furcht
 Eitelkeit ist so beständig wirksam, daß daraufhin die unsittlichen Handlungen unterbleiben. — Die Verfeinerung
 der Sittlichkeit nimmt mit der Verfeinerung der Furchtsamkeit zu. Jetzt ist die Furcht vor unangenehmen
 Empfindungen anderer Menschen fast die stärkste unserer unangenehmen Empfindungen. Man möchte gar zu gerne so
-leben, daß man nichts mehr thue, als was Anderen angenehme Empfindungen macht und selber
+leben, daß man nichts mehr thue, als was Anderen **angenehme** Empfindungen macht und selber
 an nichts mehr Vergnügen haben
 
 *Erratum:*habe  
@@ -1284,9 +1284,9 @@ Stolz aufrecht erhält. Gelingt es einmal nicht, was wir wollen, so muß es wohl
 liegen, welches, wiederum durch Zauberei, zwischen unsern Willen und die That ein Hemmniß legt. Das Gute
 wollen und das Verkehrte thun — das schiebt der Eine dem Teufel zu, der Andere der Sündhaftigkeit, ein Dritter
 sieht darin die Strafe für die Schuld früherer Lebenszeiten: alle fast legen es moralisch und dämonisch aus.
-Kurz, nachdem wir den Wilden-Glauben an die Wunder als die Regel der Natur aufgegeben
+Kurz, nachdem wir den Wilden-Glauben an die **Wunder als die Regel der Natur** aufgegeben
 haben, hat derselbe Glaube sich in Bezug auf unsere psychologischen Vorgänge festgesetzt; hier gilt noch immer
-das Wunder als die Regel. In Wahrheit heißt etwas wollen ein Experiment machen, um zu erfahren, was wir können; darüber kann uns allein der Erfolg oder Mißerfolg belehren.
+das Wunder als die Regel. In Wahrheit heißt etwas wollen ein Experiment machen, um zu erfahren, was wir **können**; darüber kann uns allein der Erfolg oder Mißerfolg belehren.
 
 [3[121]](javascript:;)
 ----------------------
@@ -1296,26 +1296,26 @@ das Wunder als die Regel. In Wahrheit heißt etwas wollen ein Experiment machen,
 [3[122]](javascript:;)
 ----------------------
 
-192. Das allgemeine Glück oder die allgemeine Nächstenliebe sind Resultate, welche vielleicht durch fortwährendes Wachsen der Moralität erreicht
+192. Das allgemeine Glück oder die allgemeine Nächstenliebe sind **Resultate**, welche **vielleicht** durch fortwährendes Wachsen der Moralität erreicht
 werden können (vielleicht auch nicht!). Nichts von den menschlichen Errungenschaften wieder fahren lassen und
-immer die jeweilige Höhe der Menschheit festhalten, das ist vielleicht eine Folge der
+immer die jeweilige Höhe der Menschheit festhalten, das ist vielleicht eine **Folge** der
 allgemeinen Moralität (eine Begleit-Erscheinung); aber das, was die Menschen zu moralischen Handlungen treibt,
 jetzt 
 
-*Erratum:*jetzt  
+*Erratum:***jetzt**  
 *lies:*jetzt   
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-treibt
+**treibt**
 
 *Erratum:*treibt  
-*lies:*treibt  
+*lies:***treibt**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 ,
 sind nicht jene Resultate, noch weniger diese Folgen, auch etwas anderes, als das, was ursprünglich die
 Anerkennung moralischer Prädikate erzeugt hat. Der Ursprung der Moralität kann nicht im Moralischen liegen.
-Man hat also nicht zu verwechseln: erstens Resultate der Moral, zweitens Folgen der Moral, drittens Motive moralischer Handlungen, viertens Motive der Entstehung moralischer Begriffe. Und doch soll in den bisherigen
+Man hat also nicht zu verwechseln: **erstens** Resultate der Moral, **zweitens** Folgen der Moral, **drittens** Motive moralischer Handlungen, **viertens** Motive der Entstehung moralischer Begriffe. Und doch soll in den bisherigen
 Moralen Ein Ding, das „Princip“, für so verschiedene Dienste genügen.
 
 [3[123]](javascript:;)
@@ -1358,7 +1358,7 @@ Stern erlöschen zu sehen.
 197. Ein Übel geschehen lassen, das man hindern kann, heißt beinahe es thun, deshalb
 retten wir das Kind, das spielend auf den offenen Brunnen zuläuft, nehmen den Stein aus dem Wege, der auf eine
 glatte Bahn gefallen ist, stellen einen Stuhl zurecht, der umzufallen droht, — Alles nicht aus Mitleid,
-sondern weil wir uns hüten, Schaden anzurichten. Daran haben wir uns gewöhnt; was auch
+sondern weil wir uns hüten, Schaden anzurichten. Daran haben wir uns **gewöhnt**; was auch
 die Motive für diese Gewohnheit sein mögen, jetzt handeln wir nach Gewohnheit und nicht mehr nach jenen
 Motiven.
 
@@ -1366,7 +1366,7 @@ Motiven.
 ----------------------
 
 199. Wir können manches Wort einer fremden Sprache nicht nachsprechen, ja nicht
-einmal richtig hören; wir können manche Dinge nicht sehen, wenn wir nicht gelernt haben,
+einmal richtig **hören**; wir können manche Dinge nicht sehen, wenn wir nicht gelernt haben,
 die Theile zu sehen. Auch das Sprechen, Hören und Sehen muß gelernt werden; aber bei unserer ungenauen
 Beobachtung des Lernvorganges glauben wir in allen drei Fällen, der gute Wille genüge und setzen bei einem
 jungen Menschen, dem es mißlingt, bösen Willen voraus. Wie böse hat man sich die Menschheit dadurch gemacht,
@@ -1376,7 +1376,7 @@ daß man ihr Unvermögen in den Willen verlegte.
 ----------------------
 
 201. Europa hat einen Exceß von orientalischer Moralität in sich wuchern lassen, wie
-die Juden ihn ausgedacht und ausempfunden haben. Man wird nicht das glücklichste und
+die **Juden** ihn ausgedacht und ausempfunden haben. Man wird nicht das glücklichste und
 besonnenste Volk sein, wenn man derart im Moralischen ausschweift und es in’s Göttliche, Menschen-Unmögliche
 hineinverlegt. Sie sind viel gefangen und unterworfen gewesen, sie haben die orientalische Verachtung kennen
 gelernt dafür, daß sie in ihrem Glauben hartnäckig waren; sie haben sich gegen diesen Glauben so benommen wie
@@ -1427,21 +1427,21 @@ dich, beherrsche dich, verstelle dich.
 ----------------------
 
 204. Für die bisweilen sichtbar werdende Verdüsterung der Welt giebt es folgende
-Veranlassung: erstens die Kreuzung der Culturen, aus welcher viel Häßlichkeit entsteht;
+Veranlassung: **erstens** die Kreuzung der Culturen, aus welcher viel Häßlichkeit entsteht;
 der beständige Anblick des Häßlichen macht düster;
 
 *Erratum:*düster:  
 *lies:*düster;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-zweitens die moralische Phantastik des Christenthums, welche den menschlichen Handlungen
+**zweitens** die moralische Phantastik des Christenthums, welche den menschlichen Handlungen
 nur die bösen Prädikate gelassen hat und eine Verherrlichung von Leben, Menschen, Handlungen eigentlich
-unmöglich machen wollte; wenn man niemals verherrlichen darf, wird man düster; drittens
-das Barbarische und Thierhafte, das uns zeitlich noch nicht fern genug liegt; viertens
+unmöglich machen wollte; wenn man niemals verherrlichen darf, wird man düster; **drittens**
+das Barbarische und Thierhafte, das uns zeitlich noch nicht fern genug liegt; **viertens**
 die Angst vor dem Individuellen und die Beargwöhnung desselben, weil die Gesellschaft ihrer selber nicht mehr
-sicher ist; fünftens die Angst vor dem Natürlichen, welche an die Stelle der früheren
-Angst vor der Natur getreten ist; sechstens die Vergleichung des Lebens mit imaginären
-Seligkeiten, von denen das Christenthum und die Dichter gesprochen haben; siebentens das
+sicher ist; **fünftens** die Angst vor dem Natürlichen, welche an die Stelle der früheren
+Angst vor der Natur getreten ist; **sechstens** die Vergleichung des Lebens mit imaginären
+Seligkeiten, von denen das Christenthum und die Dichter gesprochen haben; **siebentens** das
 übertriebene Gefühl der Verantwortlichkeit, welches alle indifferenten, kleinen und harmlosen Dinge
 wegstreicht und in jedem Falle so gehandelt wissen will, daß man damit einem Ankläger Stand halten kann.
 
@@ -1458,11 +1458,11 @@ Handlungen und wurde so selber die Veranlassung größeren Wehes, als das morali
 [3[133]](javascript:;)
 ----------------------
 
-206. Den moralischen und den religiösen Urtheilen ist gemeinsam: erstens der Glaube, die Erkenntniß der menschlichen Natur und des menschlichen Innern zu besitzen; zweitens beide leugnen es, nur einen lokalen und relativen Werth zu haben: wo sie auch nur
-erscheinen, so benehmen sie sich als absolute, allzeitlich gültige Urtheile; drittens
-beide glauben an Zugänge zur Erkenntniß, welche verschieden von denen sind, die die Wissenschaft kennt; viertens beide imaginiren Wesen, die nicht existiren, die religiösen Urtheile Götter, die
-moralischen Urtheile gute und böse Menschen und dergleichen; fünftens beide hassen die
-Untersuchung und sprechen von Schamlosigkeit und Schlimmerem, wenn man sie nackt sehen will; sechstens sie sind einander selber gemeinsam, sie haben sich mit einander verbunden, um sich zu
+206. Den moralischen und den religiösen Urtheilen ist gemeinsam: **erstens** der Glaube, die Erkenntniß der menschlichen Natur und des menschlichen Innern zu besitzen; **zweitens** beide leugnen es, nur einen lokalen und relativen Werth zu haben: wo sie auch nur
+erscheinen, so benehmen sie sich als absolute, allzeitlich gültige Urtheile; **drittens**
+beide glauben an Zugänge zur Erkenntniß, welche verschieden von denen sind, die die Wissenschaft kennt; **viertens** beide imaginiren Wesen, die nicht existiren, die religiösen Urtheile Götter, die
+moralischen Urtheile gute und böse Menschen und dergleichen; **fünftens** beide hassen die
+Untersuchung und sprechen von Schamlosigkeit und Schlimmerem, wenn man sie nackt sehen will; **sechstens** sie sind einander selber gemeinsam, sie haben sich mit einander verbunden, um sich zu
 stützen, und trennt man sie, so doch nie vollständig: die einen leben in den anderen weiter.
 
 [3[134]](javascript:;)
@@ -1470,7 +1470,7 @@ stützen, und trennt man sie, so doch nie vollständig: die einen leben in den a
 
 207. Höflich (hübsch), gentile, edel, vornehm, noble, généreux, courtoisie, gentleman
 — dies bezeichnet die Eigenschaften, welche man an der obersten Kaste wahrnahm und nachahmte; somit stammt ein
-guter Theil der Moralität wahrscheinlich aus den Instinkten dieser Klasse, als aus dem
+guter Theil der Moralität wahrscheinlich aus den Instinkten **dieser** Klasse, als aus dem
 persönlichen Stolz und der Lust am Gehorsam gegen einen Chef, der Auszeichnung verleiht; sie verachten nach
 unten hin, sie achten nach oben hin und bei ihres Gleichen, sie verlangen selber aber von aller Welt (Ober-,
 Mittel- und Unterwelt) Achtung, sie gebärden sich als die bessere Hälfte der Menschheit. Dagegen bedeutete im
@@ -1481,8 +1481,8 @@ die künstlicheren Gebärden und Ausdrücke der guten Gesellschaft besaß.
 ----------------------
 
 208. Das Christenthum (und nicht nur die katholische Kirche) fährt fort, sich zu
-stellen, als ob es alles forderte, aber es ist sehr zufrieden, sehr dankbar, wenn es nur etwas erhält. In dieser Genügsamkeit ist jetzt auch der beste Christ, nach christlichem Maaße
-gemessen, schlimmer als ein Heide; er will weder für seinen Glauben leben, noch mit seinem Glauben sterben; er ist zufrieden, wenn man ihnen beiden ein Almosen giebt.
+stellen, als ob es alles forderte, aber es ist sehr zufrieden, sehr dankbar, wenn es nur **etwas** erhält. In dieser Genügsamkeit ist jetzt auch der beste Christ, nach christlichem Maaße
+gemessen, schlimmer als ein Heide; er will weder **für** seinen Glauben leben, noch **mit** seinem Glauben sterben; er ist zufrieden, wenn man ihnen beiden ein Almosen giebt.
 
 [3[136]](javascript:;)
 ----------------------
@@ -1490,12 +1490,12 @@ gemessen, schlimmer als ein Heide; er will weder für seinen Glauben leben, noch
 209. Stark empfinden, eine starke Empfindung lange anhalten lassen können und auf
 Einer Saite viele Melodien spielen — das macht die großen Pathetiker unter den großen Schriftstellern, zu
 denen auch Schopenhauer gehört: sie unterscheiden sich von den Philosophen, ob sich schon Schopenhauer zu
-diesen rechnete: sie wollen nämlich nicht um jeden Preis erkennen, sonder um jeden Preis ihr Lied singen.
+diesen rechnete: sie wollen nämlich nicht um jeden Preis erkennen, sonder um jeden Preis **ihr** Lied singen.
 
 [3[137]](javascript:;)
 ----------------------
 
-210. Das Christenthum ist aus dem Judenthum hervorgegangen und
+210. Das Christenthum ist aus dem Judenthum **hervorgegangen** und
 aus nichts Anderem, aber es ist in die römische Welt hineingewachsen und hat Früchte hervorgetrieben, welche
 sowohl jüdisch als römisch sind. Dieses gekreuzte Christenthum hat im Katholicismus eine Form gefunden, bei
 der das römische Element zum Übergewicht gekommen ist: und im Protestantismus eine andere, bei der das
@@ -1512,7 +1512,7 @@ die nöthigen Handlungen leichter thun; ohne sie wären uns diese Handlungen wid
 [3[139]](javascript:;)
 ----------------------
 
-212. Nicht an den Anderen denken, alles strengstens um seiner
+212. **Nicht** an den Anderen denken, alles strengstens um seiner
 selber willen thun ist auch eine hohe Moralität. Der Mensch hat so viel für sich zu thun, daß er immer
 fahrlässig ist, wenn er etwas für Andere thut. Weil so viel für Andere gethan wird, deshalb sieht die Welt so
 unvollkommen aus.
@@ -1675,7 +1675,7 @@ höchste Billigkeit der höchsten Intelligenz, welche im Fanatismus ihren Todfei
 245. Wenn wir überall, wo der Christ sich seinen Gott wirkend denkt, den Zufall an
 die Stelle Gottes setzen, so bekommt man einen Überblick, wie sehr der Christ in der Summe seines Handelns die
 Welt entgeistet und dem Zufall wieder preisgiebt (zum Beispiel wenn er in Krankheiten den Arzt ablehnt). Die
-Religionen haben das Reich des Zufalls verlängert, das heißt dem Geiste seine Zeit und
+Religionen haben das Reich des Zufalls **verlängert**, das heißt dem Geiste seine Zeit und
 Kraft beschränkt. — So lange wir moralisch handeln, lassen wir den Zufall, daß wir in diesem Lande geboren
 sind und diese Menschen um uns haben, zum Gesetz über uns werden und entziehen uns dem Geiste, welcher nur das
 individuelle Beste sucht.
@@ -1692,9 +1692,9 @@ Unsterblichkeit.
 ----------------------
 
 247. Welches auch immer die Stufe der Gesittung, die Lage der Gesellschaft, der Grad
-der Erkenntniß sei: für das Individuum ist immer dabei eine Art glücklichen Lebens
+der Erkenntniß sei: für das Individuum ist immer dabei eine Art **glücklichen** Lebens
 möglich, — das wollen ihm die Religion und die Moral aus der Nähe zeigen und anempfehlen. Ob das Gefühl des
-Glücks und die Unvermischtheit desselben mit Leid wirklich wächst mit Zunahme der
+Glücks und die Unvermischtheit desselben mit Leid wirklich **wächst** mit Zunahme der
 Erkenntniß, Verbesserung der gesellschaftlichen Lage, Erleichterung des Lebens, ist zu bezweifeln, denn es
 gehen bei diesem Wachsthum immer Kräfte verloren oder werden schwach, denen man ehemals das Glücksgefühl
 vornehmlich dankte: die Sicherheit und die Verlängerung des Lebens, worauf sich unsere moderne Welt als ihre
@@ -1704,24 +1704,23 @@ Errungenschaften so viel zu Gute thut, sind vielleicht eher durch
 *lies:*eher durch  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Abnahme des Glücksgefühls als durch Zunahme erkauft worden. Die Cultur um
-des Glücks der Einzelnen willen fördern — das wäre demnach eine sehr zweifelhafte und vielleicht
-thörichte Sache! — aber sind wir einmal irgendwie im Glück, so können wir gar nicht
-anders als die Cultur fördern! Das neue hohe Vertrauen auf uns, die Befriedigung an unserer Kraft, das
+**Abnahme des Glücksgefühls** als durch Zunahme erkauft worden. Die Cultur **um
+des Glücks der Einzelnen willen** fördern — das wäre demnach eine sehr zweifelhafte und vielleicht
+thörichte Sache! — aber sind wir einmal irgendwie im Glück, **so können wir gar nicht
+anders** als die Cultur fördern! Das neue hohe Vertrauen auf uns, die Befriedigung an unserer Kraft, das
 Aufhören der Furcht vor Anderen, das Verlangen nach ihrer Nähe, der Ringkampf mit ihnen im Guten, der
 Überschuß an Vermögen, Werkzeugen, Kindern, Dienern, dessen wir bewußt werden, — in summa: jede Art von
 Glücksgefühl treibt uns in die Bahnen der höheren Cultur und in ihnen vorwärts. Noth dagegen bildet uns
 zurück, macht uns defensiv, argwöhnisch, in der Sitte abergläubisch und überstreng. Die Cultur ist eine
-allmähliche Folge vom Glück zahlloser Einzelner, nicht die Absicht dieser Einzelnen! — Je
+allmähliche **Folge vom Glück zahlloser Einzelner**, nicht die Absicht dieser Einzelnen! — Je
 individueller der Einzelne wird, um so produktiver für die Cultur wird sein Glück sein, selbst wenn dessen
 Zeitdauer kürzer und dessen Intensität geringer und gebrochener sein sollte, als das Glück auf niedrigeren
 Culturstufen. Wenn man die Förderung der Cultur dem Glücklichen versagen wollte, um das Glück im Allgemeinen
 auf einem hohen Grade zu erhalten, so wäre das so thöricht als dem Seidenwurme das Spinnen zu verbieten um des
-Glücks der Seidenwürmer willen. Was hat man denn vom Glück jeder Art, wenn nicht eben aus
-ihm etwas zum Besten der Cultur thun zu müssen? — Glück ist gar nicht zu erhalten weder
-hoch, noch niedrig, wenn man seine nothwendigen Äußerungen unterbinden wollte. Also: die
-Cultur ist die Äußerung des
- Glücks. —
+Glücks der Seidenwürmer willen. Was **hat** man denn vom Glück jeder Art, wenn nicht eben aus
+ihm etwas zum Besten der Cultur thun zu müssen? — Glück ist gar **nicht** zu erhalten weder
+hoch, noch niedrig, wenn man seine nothwendigen **Äußerungen** unterbinden wollte. Also: die
+Cultur ist die **Äußerung des****Glücks**. —
 
 *Erratum:*.  
 *lies:*. —  
@@ -1775,7 +1774,7 @@ von seiner Geschlechtlichkeit incommodirt wird.
 ----------------------
 
 253. Geistesgegenwart: das heißt die Fähigkeit sich seine Worte und Handlungen durch
-die Umstände diktiren <zu> lassen, — ist also eine Fähigkeit zu lügen und zu heucheln.
+die Umstände diktiren &amp;lt;zu&amp;gt; lassen, — ist also eine Fähigkeit zu lügen und zu heucheln.
 
 [3[167]](javascript:;)
 ----------------------
@@ -1829,3 +1828,5 @@ andern
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  als mangelhafte Erkenntnisse!
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

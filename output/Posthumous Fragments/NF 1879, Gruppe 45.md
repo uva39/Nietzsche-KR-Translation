@@ -52,3 +52,5 @@ Sonntag selber ist doch schon der Vor-Montag.“
 
 Der Einsame sagt: jetzt lebt meine Uhr in den blauen Tag hinein. Früher war sie moralisch und ein
 Pflichten-Wegweiser.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

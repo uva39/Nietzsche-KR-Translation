@@ -28,14 +28,14 @@ geschrieben in den ersten Wochen des Jahres 1871.
 
 Wem nun, durch die bisher gegebene Charakteristik, der Sinn für die beiden entgegengesetzten und doch
 zusammengehörigen Welten des Apollinischen und des Dionysischen erschlossen ist, der wird jetzt eine Stufe
-weiter gehen und, vom Standpunkte jener Erkenntniß aus, das hellenische Leben in seinen
-wichtigsten Erscheinungen als Vorbereitung für die höchsten Äußerungen jener Triebe, für
-die Geburt des Genius, erfassen. Während wir uns nämlich jene Triebe als Naturgewalten außer allen Zusammenhang mit gesellschaftlichen staatlichen religiösen Ordnungen und
+weiter gehen und, vom Standpunkte jener Erkenntniß aus, **das hellenische Leben** in seinen
+wichtigsten Erscheinungen als **Vorbereitung** für die höchsten Äußerungen jener Triebe, für
+**die Geburt des Genius**, erfassen. Während wir uns nämlich jene Triebe **als Naturgewalten** außer allen Zusammenhang mit gesellschaftlichen staatlichen religiösen Ordnungen und
 Sitten denken müssen giebt es noch eine viel künstlicher und überlegter vorbereitete, gleichsam indirekte
-Offenbarung jener Triebe, durch den einzelnen Genius, über dessen Natur und höchste
+Offenbarung jener Triebe, durch den einzelnen **Genius**, über dessen Natur und höchste
 Bedeutung ich mir jetzt eine halb mystische Bilderrede gestatten muß.
 
-Der Mensch und der Genius stehen sich in sofern gegenüber, als der
+Der **Mensch** und der **Genius** stehen sich in sofern gegenüber, als der
 erste durchaus Kunstwerk ist, ohne sich dessen bewußt zu werden, weil die Befriedigung an ihm als an einem
 Kunstwerke gänzlich einer anderen Erkenntniß- und Betrachtungssphaere angehört: in diesem Sinne gehört er zur
 Natur, die nichts als eine visionsartige Spiegelung des Ur-Einen ist. Im Genius dagegen ist — außer der ihm
@@ -43,10 +43,10 @@ als Menschen zukommenden Bedeutung — zugleich noch jene der anderen Sphaere ei
 Verzückung der Vision selbst zu fühlen, vorhanden. Wenn die Befriedigung am träumenden Menschen sich ihm
 selbst nur dämmernd erschließt, ist der Genius zugleich der höchsten Befriedigung an diesem Zustande fähig;
 wie er selbst andernseits über diesen Zustand Gewalt hat und ihn aus sich allein erzeugen kann. Nach dem, was
-wir über die vorwiegende Bedeutung des Traumes für das Ur-Eine bemerkt haben, dürfen wir das gesammte wache Leben des einzelnen Menschen als eine Vorbereitung für seinen Traum ansehen; jetzt
-müssen wir hinzufügen, daß das gesammte Traumleben vieler Menschen wiederum die
-Vorbereitung des Genius ist. In dieser Welt des Nicht-Seienden, des Scheines muß alles
-werden: und so wird auch der Genius, indem in einem
+wir über die vorwiegende Bedeutung des Traumes für das Ur-Eine bemerkt haben, dürfen wir das gesammte **wache** Leben des einzelnen Menschen als eine Vorbereitung für seinen Traum ansehen; jetzt
+müssen wir hinzufügen, daß **das gesammte Traumleben vieler Menschen** wiederum die
+Vorbereitung des **Genius** ist. In dieser Welt des Nicht-Seienden, des Scheines muß alles
+**werden**: und so **wird** auch der Genius, indem in einem
 Menschheitscomplexe, in einem größeren Individuum jene dämmernde Lustempfindung des Traumes sich immer mehr
 steigert, bis zu jenem dem Genius eigenthümlichen Genusse: welches Phänomen wir uns an dem allmählichen, durch
 Morgenröthe und vorausgesandte Strahlen angekündigten Aufgehen der Sonne sichtbar machen können. Die
@@ -59,17 +59,17 @@ erkennen; ja wir dürfen glücklich sein, wenn wir ihn überhaupt erkannt haben,
 geschehn kann und in vielen Fällen gewiß nie geschehn ist.
 
 Der Genius als der „nicht wachende und nur träumende“ Mensch, der, wie ich sagte, vorbereitet wird und
-entsteht in dem zugleich wachenden und träumenden Menschen, ist durch und durch apollinischer Natur: eine Wahrheit, die nach der vorausgeschickten Charakteristik des Apollinischen,
-von selbst einleuchtet. Damit werden wir zur Definition des dionysischen Genius gedrängt,
+entsteht in dem zugleich wachenden und träumenden Menschen, ist durch und durch **apollinischer** Natur: eine Wahrheit, die nach der vorausgeschickten Charakteristik des Apollinischen,
+von selbst einleuchtet. Damit werden wir zur Definition des **dionysischen** Genius gedrängt,
 als des in völliger Selbstvergessenheit mit dem Urgrunde der Welt eins gewordenen Menschen, der jetzt aus dem
-Urschmerze heraus den Wiederschein desselben zu seiner Erlösung schafft: wie wir diesen Prozeß in dem Heiligen und dem großen Musiker zu verehren haben, die beide nur
+Urschmerze heraus den Wiederschein desselben zu seiner Erlösung schafft: wie wir diesen Prozeß in dem **Heiligen** und dem großen **Musiker** zu verehren haben, die beide nur
 Wiederholungen der Welt und zweite Abgüsse derselben sind.
 
 Wenn dieser künstlerische Wiederschein des Urschmerzes aus sich heraus noch eine zweite Spiegelung, als
-Nebensonne, erzeugt: so haben wir das gemeinsame dionysisch-apollinische Kunstwerk,
+Nebensonne, erzeugt: so haben wir das gemeinsame **dionysisch-apollinische Kunstwerk**,
 dessen Mysterium wir uns in dieser Bildersprache zu nähern suchen.
 
-Für jenes eine Weltenauge, vor dem sich die empirisch-reale Welt sammt ihrem
+Für jenes eine Weltenauge, vor dem sich die empirisch-reale Welt **sammt** ihrem
 Wiederscheine im Traume ausgießt, ist somit jene dionysisch-apollinische Vereinigung eine ewige und
 unabänderliche, ja einzige Form des Genusses: es giebt keinen dionysischen Schein ohne einen apollinischen
 Wiederschein. Für unser kurzsichtiges, fast erblindetes Auge legt sich jenes Phänomen in lauter einzelne,
@@ -79,17 +79,17 @@ Abbild jenes Urgenusses des Weltauges ist. Wie für dieses der Genius die Spitze
 so darf uns wiederum das tragische Kunstwerk als Spitze der unserem Auge erreichbaren Kunstpyramide
 gelten.
 
-Wir, die wir genöthigt sind, Alles unter der Form des Werdens d.h. als Willen zu
-verstehn, verfolgen jetzt die Geburt der drei verschiedenartigen
-Genien
+Wir, die wir genöthigt sind, Alles unter der Form des Werdens d.h. als **Willen** zu
+verstehn, verfolgen jetzt die **Geburt** der drei verschiedenartigen
+**Genien**
 
 *Erratum:*Genien  
-*lies:*Genien  
+*lies:***Genien**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  in der uns allein bekannten Erscheinungswelt:
-wir untersuchen, welche wichtigsten Vorbereitungen der „Wille“ braucht, um zu ihnen zu
-gelangen. Dabei haben wir alle Gründe, diesen Nachweis an der griechischen Welt zu geben,
+wir untersuchen, welche wichtigsten **Vorbereitungen** der „Wille“ braucht, um zu ihnen zu
+gelangen. Dabei haben wir alle Gründe, diesen Nachweis an der **griechischen Welt** zu geben,
 die über jenen Prozeß einfach und ausdrucksvoll, wie dies ihre Art ist, zu uns redet.
 
 Falls wirklich der Genius Zielpunkt und letzte Absicht der Natur ist, so muß nun jetzt auch nachweisbar sein,
@@ -100,8 +100,8 @@ untersuchen: wobei sich ergeben wird, daß diese Wurzeln es gerade sind, aus den
 der griechischen Kunst einzig erwachsen konnte. Es mag sein, daß uns diese Erkenntniß mit Schauder erfüllt:
 gehört doch dieser Schauder fast zu den nothwendigen Wirkungen je der tieferen Erkenntniß. Denn die Natur ist
 auch, wo sie das Schönste zu erschaffen angestrengt ist, etwas Entsetzliches. Diesem ihren Wesen ist es gemäß,
-daß die Triumphzüge der Kultur nur einer unglaublich geringen Minderheit von bevorzugten
-Sterblichen zu Gute kommen, daß dagegen der Sklavendienst der großen Masse eine
+daß die Triumphzüge der **Kultur** nur einer unglaublich geringen Minderheit von bevorzugten
+Sterblichen zu Gute kommen, daß dagegen der **Sklavendienst** der großen Masse eine
 Nothwendigkeit ist, wenn es wirklich zu einer rechten Werdelust der Kunst kommen soll. Wir Neueren haben vor
 den Griechen zwei pfauenartig sich spreizende Begriffe voraus, die gleichsam als Trostmittel einer durchaus
 sklavisch sich gebahrenden und dabei das Wort „Sklave“ ängstlich scheuenden Welt gegeben sind: wir reden von
@@ -124,7 +124,7 @@ Verschmelzung die Noth entstanden ist, jene erstere Gier vor dem Kunstbedürfnis
 gewissermaßen zu weihen, was durch jene trefflichen Vorstellungen von der Würde des Menschen und der Arbeit
 geschehen ist. Die Griechen brauchen keine solche klägliche Nothbehelfe, bei ihnen spricht sich rein aus, daß
 die Arbeit eine Schmach sei — nicht etwa weil das Dasein eine Schmach ist, sondern im Gefühl der
-Unmöglichkeit, daß der um das nackte Fortleben kämpfende Mensch Künstler sein könne. Der kunstbedürftige Mensch regiert im Alterthum mit seinen Begriffen, während in der neueren Zeit der Sklave die Vorstellungen bestimmt: er der seiner Natur nach alle seine Verhältnisse mit
+Unmöglichkeit, daß der um das nackte Fortleben kämpfende Mensch Künstler sein könne. Der **kunstbedürftige** Mensch regiert im Alterthum mit seinen Begriffen, während in der neueren Zeit der **Sklave** die Vorstellungen bestimmt: er der seiner Natur nach alle seine Verhältnisse mit
 trügerischen glänzenden Namen bezeichnen muß, um leben zu können. Solche Phantome, wie die Würde des Menschen,
 die Würde der Arbeit sind die dürftigen Erzeugnisse des sich vor sich selbst verbergenden Sklaventhums.
 Unselige Zeit, in der der Sklave zum Nachdenken über sich und über sich hinaus gereizt worden ist! Unselige
@@ -141,14 +141,14 @@ haben, selbst ein Phidias, oder wenn er Hera in Argos sieht, selbst ein Polyklet
 würde er den Wunsch hegen Anakreon Philetas oder Archilochus zu sein, so sehr er sich auch an ihren Dichtungen
 ergötze. Das künstlerische Schaffen fällt für den Griechen eben so sehr unter den unehrwürdigen Begriff der
 Arbeit, wie jedes banausische Handwerk. Wenn aber die zwingende Kraft des künstlerischen Triebes in ihm wirkt,
-dann muß er schaffen und sich jener Noth der Arbeit unterziehn. Und wie ein Vater die
+dann **muß** er schaffen und sich jener Noth der Arbeit unterziehn. Und wie ein Vater die
 Schönheit und Begabung seines Kindes bewundert, an den Akt der Entstehung aber mit schamhaftem Widerwillen
 denkt, so ergieng es dem Griechen. Das lustvolle Staunen über das Schöne hat ihn nicht über den Werdeprozeß
 verblendet, der ihm wie alles Schaffen in der Natur erschien, als eine gewaltige Noth, als ein gieriges
 Sich-Drängen zum Dasein. Dasselbe Gefühl, mit dem der Zeugungsprozeß als etwas schamhaft zu Verbergendes
 betrachtet wird, obwohl in ihm der Mensch einem höheren Ziele dient als seiner individuellen Erhaltung:
 dasselbe Gefühl umschleierte auch die Entstehung der großen Kunstwerke, trotzdem durch sie eine höhere
-Daseinsform inaugurirt wird, wie durch jenen Akt eine neue Generation. Die Scham scheint
+Daseinsform inaugurirt wird, wie durch jenen Akt eine neue Generation. Die **Scham** scheint
 somit recht eigentlich dort einzutreten, wo der Mensch nur noch Werkzeug unendlich größerer Willenserscheinung
 ist, als er sich selbst in der Einzelgestalt des Individuums gelten darf.
 
@@ -161,12 +161,12 @@ Betreff der Sklaverei und der Arbeit hegten. Beide gelten
 
  ihnen als eine
 nothwendige Schmach, vor der man Scham empfindet: in diesem Gefühle birgt sich die unbewußte Erkenntniß, daß
-das eigentliche Ziel jene Voraussetzungen braucht, daß hier aber das Entsetzliche und
+das eigentliche Ziel jene Voraussetzungen **braucht**, daß hier aber das Entsetzliche und
 Raubthierartige der Sphinx Natur liegt, die in der gewollten Verherrlichung des künstlerisch freien
 Kulturlebens so schön den Jungfrauenleib vorstreckt. Die Bildung, die ich vornehmlich als wahrhaftes
 Kunstbedürfniß verstehe, hat einen erschrecklichen Untergrund: dieser aber giebt sich in der dämmernden
 Empfindung der Scham zu erkennen. Damit der Boden für eine größere Kunstentwicklung vorhanden ist, muß die
-ungeheure Mehrzahl im Dienste einer Minderzahl über das Maaß ihrer individuellen
+ungeheure Mehrzahl im Dienste einer Minderzahl **über** das Maaß ihrer individuellen
 Nothwendigkeit hinaus der Lebensnoth sklavisch unterworfen sein. Auf ihre Unkosten, durch ihre Mehrarbeit soll
 jene bevorzugte Klasse dem Existenzkampfe entrückt werden, um nun eine neue Welt des Bedürfnisses zu erzeugen.
 Demgemäß müssen wir uns dazu verstehen als grausame Grundbedingung jeder Bildung hinzustellen, daß zum Wesen
@@ -179,7 +179,7 @@ aber auch gegen das klassische Alterthum genährt haben. Wenn wirklich die Kultu
 stünde, wenn hier nicht unentrinnbare Mächte walteten, die dem Einzelnen Gesetz und Schranke sind, so wäre die
 Verachtung der Kultur, die Verherrlichung der Armuth des Geistes, die bilderstürmerische Vernichtung der
 Kunstansprüche mehr als eine Auflehnung der unterdrückten Masse gegen drohnenartige Einzelne: es wäre der
-Schrei des Mitleides, der die Mauern der Kultur umrisse, der Trieb nach Gerechtigkeit,
+Schrei des **Mitleides**, der die Mauern der Kultur umrisse, der Trieb nach Gerechtigkeit,
 nach Gleichmaß des Leidens würde alle anderen Vorstellungen überfluthen. Wirklich hat die überschwängliche
 Empfindung des Mitleides auf kurze Zeiten hier und da einmal alle Dämme des Kulturlebens zerbrochen: ein
 Regenbogen der mitleidigen Liebe und des Friedens erschien mit dem ersten Hervortreten des Christenthums, und
@@ -198,27 +198,27 @@ Rädern des Wagens fast zermalmt, doch noch rufen „Würde der Arbeit! Würde d
 Der moderne Mensch ist freilich an eine ganz andere verzärtelte Betrachtung der Dinge gewöhnt. Darum ist er
 ewig unbefriedigt, weil er niemals wagt, sich dem furchtbaren, eistreibenden Strome des Daseins vollkommen
 anzuvertrauen, sondern am Ufer ängstlich auf und ab läuft. Die neuere Zeit mit ihrem „Bruche“ ist zu begreifen
-als die vor allen Konsequenzen zurückfliehende: sie will nichts ganz haben, ganz auch mit
+als die vor allen Konsequenzen zurückfliehende: sie will nichts **ganz** haben, ganz auch mit
 all der natürlichen Grausamkeit der Dinge. Der Tanz ihres Denkens und Treibens ist wahrhaft lächerlich, weil
 es sich sehnsüchtig immer auf neue Gestalten stürzt, um sie zu umarmen und dann sie plötzlich, wie
 Mephistopheles die verführerischen Lamien, schaudernd fahren lassen muß. Aus der Verzärtelung der neueren
 Menschen sind die ungeheuren socialen Nothstände der Gegenwart geboren, als deren im Wesen der Natur liegendes
-Gegenmittel ich die Sklaverei, sei es auch unter mildernden Namen, zu empfehlen wage; die
+Gegenmittel ich die **Sklaverei**, sei es auch unter mildernden Namen, zu empfehlen wage; die
 Sklaverei, die weder dem ursprünglichen Christenthum, noch dem Germanenthum irgendwie anstößig, geschweige
 denn verwerflich, zu sein dünkte. Um von den griechischen Sklaven zu schweigen: wie erhebend wirkt auf uns die
 Betrachtung des mittelalterlichen Hörigen, mit dem innerlich kräftigen und zarten Rechts- und
 Sittenverhältnisse zu dem höher Geordneten, mit der tiefsinnigen und poetischen Umfriedung seines engen
 Daseins. Wie erhebend — und wie vorwurfsvoll!
 
-Wer nun über die Konfiguration der Gesellschaft nicht ohne Schwermuth nachdenken kann,
+Wer nun über die Konfiguration der **Gesellschaft** nicht ohne Schwermuth nachdenken kann,
 wer sie als die fortwährende schmerzhafte Geburt jener eximirten Kulturmenschen zu begreifen gelernt hat, in
 deren Dienst sich alles Andere verzehren muß, der wird auch von jenem erlogenen Glanze nicht mehr getäuscht
-werden, den die Neueren über Ursprung und Bedeutung des Staates gebreitet haben. Was
+werden, den die Neueren über Ursprung und Bedeutung des **Staates** gebreitet haben. Was
 nämlich kann uns der Staat bedeuten, wenn nicht das Mittel, mit dem jener eben geschilderte
 Gesellschaftsprozeß in Fluß zu bringen und in seiner ungehemmten Fortdauer zu verbürgen ist? Mag der Trieb zur
 Geselligkeit in den einzelnen Menschen auch noch so stark sein, erst die eiserne Klammer des Staates zwängt
 die größeren Massen so aneinander, daß jetzt jene chemische Scheidung der Gesellschaft, mit ihrem neuen
-pyramidalen Aufbau, vor sich gehen muß. Woher aber entspringt diese plötzliche Macht des
+pyramidalen Aufbau, vor sich gehen **muß**. Woher aber entspringt diese plötzliche Macht des
 Staates, dessen Ziel weit über die Einsicht, ja über den Egoismus des Einzelnen hinausliegt? Wie entstand der
 Sklave, der blinde Maulwurf der Kultur? Die Griechen haben es uns in ihrem völkerrechtlichen Instinkte
 verrathen, der, auch in der reifsten Fülle ihrer Gesittung und Menschlichkeit, nicht aufhörte, mit eherner
@@ -262,7 +262,7 @@ kleinen Kriege, der tigerartige Triumph auf dem Leichnam des erlegten Feindes, k
 Erneuerung jener trojanischen Kampf- und Greuelscenen, in deren Anschauung lustvoll versunken Homer der
 typische Hellene vor uns steht — wohin deutet diese naive Barbarei des griechischen Staates, woher nimmt er
 seine Entschuldigung vor dem Richterstuhle der ewigen Gerechtigkeit? Stolz und ruhig tritt der Staat vor ihn
-hin: und an der Hand führt er das herrlich blühende Weib, die griechische Gesellschaft.
+hin: und an der Hand führt er das herrlich blühende Weib, die griechische **Gesellschaft**.
 Für diese Helena und ihre Kinder führte er jene Kriege: welcher Richter dürfte hier verurtheilen?
 
 Bei diesem geheimnißvollen Zusammenhang, den wir hier zwischen Staat und Kunst, politischer Gier und
@@ -299,22 +299,22 @@ Kopfe werden sie die Politik fördern, die diesen Absichten die größte Sicherh
 ist, daß sie gegen ihre Absichten, etwa durch einen unbewußten Instinkt geleitet, der Staatstendenz sich zum
 Opfer bringen, undenkbar, weil sie eben jenes Instinktes ermangeln. Alle anderen Bürger des Staates sind über
 das, was die Natur mit ihrem Staatsinstinkte bei ihnen beabsichtigt, im Dunkeln und folgen blindlings; nur
-jene außerhalb dieser Instinkte Stehenden wissen, was sie vom Staate wollen und was ihnen
+jene außerhalb dieser Instinkte Stehenden wissen, was **sie** vom Staate wollen und was ihnen
 der Staat gewähren soll. Deshalb ist es geradezu unvermeidlich, daß solche Menschen einen großen Einfluß auf
-den Staat gewinnen, weil sie ihn als Mittel betrachten dürfen, während alle Anderen unter
+den Staat gewinnen, weil sie ihn als **Mittel** betrachten dürfen, während alle Anderen unter
 der Macht jener unbewußten Absichten des Staates selbst nur Mittel des Staatszwecks sind. Um nun durch das
 Mittel des Staats höchste Förderung ihrer eigennützigen Ziele zu erreichen, ist vor allem nöthig, daß der
 Staat von jenen schrecklich unberechenbaren Kriegszuckungen gänzlich befreit werde, damit er rational benutzt
 werden könne; und damit streben sie, so bewußt als möglich, einen Zustand an, in dem der Krieg eine
 Unmöglichkeit ist. Hierzu gilt es nun zuerst die politischen Sondertriebe möglichst zu beschneiden und
-abzuschwächen und durch Herstellung großer gleichwiegender Staatenkörper und gegenseitige
+abzuschwächen und durch Herstellung großer **gleichwiegender** Staatenkörper und gegenseitige
 Sicherstellung derselben den günstigen Erfolg eines Angriffskriegs und damit den Krieg überhaupt zur höchsten
 Unwahrscheinlichkeit zu machen; wie sie andernseits die Frage über Krieg und Frieden der Entscheidung
 einzelner Machthaber zu entreißen suchen, um vielmehr an den Egoismus der Masse oder deren Vertreter
 appellieren zu können: wozu sie wiederum nöthig haben, die monarchischen Instinkte der Völker langsam
 aufzulösen. Diesem Zwecke entsprechen sie durch die allgemeinste Verbreitung der liberal-optimistischen
 Weltanschauung, welche ihre Wurzel in den Lehren der französischen Aufklärung und Revolution d.h. in einer
-gänzlich ungermanischen, ächt romanisch flachen Philosophie hat. Ich kann nicht umhin, in
+gänzlich ungermanischen, **ächt romanisch** flachen Philosophie hat. Ich kann nicht umhin, in
 der gegenwärtig herrschenden Nationalitätenbewegung und der gleichzeitigen Verbreitung des allgemeinen
 Stimmrechts vor allem die Wirkungen der Kriegsfurcht zu sehen, ja im Hintergrunde dieser Bewegungen, als die
 eigentlich Fürchtenden, jene wahrhaft internationalen heimatlosen Geldeinsiedler zu erblicken, die, bei ihrem
@@ -328,7 +328,7 @@ gefährliches Charakteristikum der politischen Gegenwart die Verwendung der Revo
 einer eigensüchtigen staatlosen Geldaristokratie bezeichne, wenn ich die ungeheure Verbreitung des liberalen
 Optimismus zugleich als Resultat der in sonderbare Hände gerathenen modernen Geldwirthschaft begreife und alle
 Übel der socialen Zustände, sammt dem nothwendigen Verfall der Künste, entweder aus jener Wurzel entkeimt oder
-mit ihr verwachsen sehe: so wird man mir einen gelegentlich anzustimmenden Päan auf den Krieg zu Gute halten müssen. Fürchterlich erklingt sein silberner Bogen: und kommt er gleich daher wie
+mit ihr verwachsen sehe: so wird man mir einen gelegentlich anzustimmenden Päan auf den **Krieg** zu Gute halten müssen. Fürchterlich erklingt sein silberner Bogen: und kommt er gleich daher wie
 die Nacht, so ist er doch Apollo der rechte Weihe- und Reinigungsgott des Staates. Zuerst aber, wie es im
 Beginn der Ilias heißt, schnellt er den Pfeil auf die Maulthiere und Hunde. Sodann trifft er die Menschen
 selbst, und überall lodern die Holzstöße mit Leichnamen. So sei es denn ausgesprochen, daß der Krieg für den
@@ -379,21 +379,23 @@ sich selbst zu dem seinigen gemacht hatte. Diese mehr äußerliche und beinahe z
 nicht unter die Hauptmerkmale des platonischen Staates gerechnet werden.
 
 Wie Plato den innersten Zweck des Staates aus allen seinen Verhüllungen und Trübungen an’s Licht zog, so
-begriff er auch den tiefsten Grund der Stellung des hellenischen Weibes zum Staate: in
+begriff er auch den tiefsten Grund der Stellung des **hellenischen Weibes** zum Staate: in
 beiden Fällen erblickte er in dem um ihn Vorhandenen das Abbild der ihm offenbar gewordenen Ideen, vor denen
 freilich das Wirkliche nur Nebelbild und Schattenspiel war. Wer, nach allgemeiner Gewöhnung, die Stellung des
 hellenischen Weibes überhaupt für unwürdig und der Humanität widerstrebend hält, muß sich mit diesem Vorwurf
 auch gegen die platonische Auffassung dieser Stellung kehren: denn in ihr ist das Vorhandene gleichsam nur
 logisch präcisirt. Hier wiederholt sich also unsre Frage: sollte nicht das Wesen und die Stellung des
-hellenischen Weibes einen nothwendigen Bezug zu den Zielpunkten des hellenischen Willen’s
+hellenischen Weibes einen **nothwendigen** Bezug zu den Zielpunkten des hellenischen Willen’s
 haben?
 
 Das Innerste, was Plato als Grieche über die Stellung des Weibes zum Staate sagen konnte, war die so
-anstößige Forderung, daß im vollkommnen Staate die
+anstößige Forderung, daß im vollkommnen Staate **die**
 
 *Erratum:*die  
-*lies:*die  
+*lies:***die**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Familie aufhören müsse. Sehen wir jetzt davon ab, wie er, um diese
+**Familie aufhören** müsse. Sehen wir jetzt davon ab, wie er, um diese
 Forderung rein durchzuführen, selbst die Ehe aufhob und an deren Stelle feierliche, von Staatswegen — — —.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

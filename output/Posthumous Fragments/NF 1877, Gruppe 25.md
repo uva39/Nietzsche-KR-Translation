@@ -16,22 +16,22 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [25[1]](javascript:;)
 ---------------------
 
-Socialismus.
+**Socialismus.**
 
-Erstens: Man täuscht sich als Zuschauer über die Leiden und Entbehrungen der niederen
+**Erstens:** Man täuscht sich als Zuschauer über die Leiden und Entbehrungen der niederen
 Schichten des Volkes, weil man unwillkürlich nach dem Maasse der eigenen Empfindung misst, wie als ob man
 selber mit seinem höchst reizbaren und leidensfähigen Gehirn in die Lage Jener versetzt werde. In Wahrheit
 nehmen die Leiden und Entbehrungen mit dem Wachsthume der Cultur des Individuums zu; die niederen Schichten
 sind die stumpfesten; ihre Lage verbessern heisst: sie leidensfähiger machen.
 
-Zweitens: Fasst man nicht das Wohlbefinden des Einzelnen in’s Auge, sondern die Ziele
+**Zweitens:** Fasst man nicht das Wohlbefinden des Einzelnen in’s Auge, sondern die Ziele
 der Menschheit, so fragt es sich sehr, ob in jenen geordneten Zuständen, welche der Socialismus fordert,
-ähnliche grosse Resultate der Menschheit sich ergeben können, wie die ungeordneten
-Zustände der Vergangenheit sie ergeben haben. Wahrscheinlich wächst der grosse Mensch und
+ähnliche grosse Resultate der Menschheit sich ergeben **können**, wie die ungeordneten
+Zustände der Vergangenheit sie ergeben **haben**. Wahrscheinlich wächst der grosse Mensch und
 das grosse Werk nur in der Freiheit der Wildniss auf. Andere Ziele als grosse Menschen und grosse Werke hat
 die Menschheit nicht.
 
-Drittens: Weil sehr viele harte und grobe Arbeit gethan werden muss, so müssen auch
+**Drittens:** Weil sehr viele harte und grobe Arbeit gethan werden muss, so müssen auch
 Menschen erhalten werden, welche sich derselben unterziehen, so weit nämlich Maschinen diese Arbeit nicht
 ersparen können. Dringt in die Arbeiterclasse das Bedürfniss und die Verfeinerung höherer Bildung, so kann sie
 jene Arbeit nicht mehr thun, ohne unverhältnissmässig sehr zu leiden. Ein soweit entwickelter Arbeiter strebt
@@ -43,34 +43,34 @@ Verpflichtung zum Frohndienste betrachtet würde. In der That ist in den Staaten
 Arbeiters und des Arbeitgebers oft so nahegerückt, dass die noch längere Zumuthung aufreibender mechanischer
 Arbeit das Gefühl der Empörung hervorruft.
 
-Viertens: Hat man begriffen, wie der Sinn der Billigkeit und Gerechtigkeit entstanden
+**Viertens:** Hat man begriffen, wie der Sinn der Billigkeit und Gerechtigkeit entstanden
 ist, so muss man den Socialisten widersprechen, wenn sie die Gerechtigkeit zu ihrem Princip machen. Im
 Naturzustande gilt der Satz nicht: „was dem Einen recht ist, ist dem Andern billig“, sondern da entscheidet
 die Macht. Insofern die Socialisten den völligen Umsturz der Gesellschaft wollen, appelliren sie an die Macht.
 Erst wenn die Vertreter der Zukunftsordnung denen der alten Ordnungen im Kampfe gegenüberstehen und beide
-Mächte sich gleich oder ähnlich stark finden, dann sind Verträge möglich, und auf Grund der Verträge entsteht nachher eine Gerechtigkeit. — Menschenrechte giebt es nicht.
+Mächte sich gleich oder ähnlich stark finden, dann sind Verträge möglich, und auf Grund der Verträge **entsteht** nachher eine Gerechtigkeit. — Menschenrechte giebt es nicht.
 
-Fünftens: Wenn ein niedriger Arbeiter zu dem reichen Fabrikanten sagt: „Sie verdienen Ihr Glück nicht“, so hat er recht, aber seine Folgerungen daraus sind falsch:
+**Fünftens:** Wenn ein niedriger Arbeiter zu dem reichen Fabrikanten sagt: „Sie **verdienen** Ihr Glück nicht“, so hat er recht, aber seine Folgerungen daraus sind falsch:
 Niemand verdient sein Glück, Niemand sein Unglück.
 
-Sechstens: Nicht durch Veränderung der Institutionen wird das Glück auf der Erde
+**Sechstens:** Nicht durch Veränderung der Institutionen wird das Glück auf der Erde
 vermehrt, sondern dadurch, dass man das finstere, schwächliche, grüblerische, gallichte Temperament aussterben
 macht. Die äussere Lage thut wenig hinzu oder hinweg. Insofern die Socialisten meistens jene übele Art von
 Temperament haben, verringern sie unter allen Umständen das Glück auf der Erde, selbst wenn es ihnen gelingen
 sollte, neue Ordnungen zu stiften.
 
-Siebentens: Nur innerhalb des Herkommens, der festen Sitte, der Beschränkung giebt es
+**Siebentens:** Nur innerhalb des Herkommens, der festen Sitte, der Beschränkung giebt es
 Wohlbehagen auf der Welt; die Socialisten sind mit allen Mächten verbündet, welche das Herkommen, die Sitte,
 die Beschränkung zerstören; neue constitutive Fähigkeiten sind bei ihnen noch nicht sichtbar geworden.
 
-Achtens: Das Beste, was der Socialismus mit sich bringt, ist die Erregung, die er den
-weitesten Kreisen mittheilt: er unterhält die Menschen und bringt in die niedersten
+**Achtens:** Das Beste, was der Socialismus mit sich bringt, ist die Erregung, die er den
+weitesten Kreisen mittheilt: er **unterhält** die Menschen und bringt in die niedersten
 Schichten eine Art von praktisch-philosophischem Gespräch. Insofern ist er eine Kraftquelle des Geistes.
 
 [25[2]](javascript:;)
 ---------------------
 
-Vorrede.
+**Vorrede.**
 
 Wenn es schon dem Autor begegnet, dass er, vor sein eigenes Buch hingestellt, demselben mit Befremdung in’s
 Gesicht sieht und ihm die Frage über die Lippen läuft: bin ich’s? bin ich’s nicht? — um wie viel mehr müssen
@@ -100,7 +100,7 @@ anbefohlener Mässigung an eine gefestete, milde und fast frohsinnige Seele ange
 nöthig hat, gegen Tücken und plötzliche Ausbrüche auf der Hut zu sein! Namentlich fehlt diesem freien Gesellen
 der knurrende Ton und die Verbissenheit, die Eigenschaften alter Hunde und Menschen, welche lange an der Kette
 gelegen haben; der moderne Freigeist ist nicht wie seine Vorfahren aus dem Kampfe geboren, vielmehr aus dem
-Frieden der Auflösung, in welche er alle geistigen Mächte der alten gebundenen Welt
+**Frieden der Auflösung**, in welche er alle geistigen Mächte der alten gebundenen Welt
 eingegangen sieht. Nachdem dieser grösste Umschwung in der Geschichte eingetreten ist, kann seine Seele ohne
 Neid und fast bedürfnisslos sein, er erstrebt für sich nicht Vieles, nicht viel mehr; ihm genügt als der
 wünschenswertheste Zustand jenes freie furchtlose Schweben über Menschen, Sitten, Gesetzen und den
@@ -144,3 +144,5 @@ schreitet die grause Nothwendigkeit.
 | VII | Weib und Kind. |
 | VIII | Ein Blick auf den Staat. |
 | IX | Der Mensch mit sich allein. |
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

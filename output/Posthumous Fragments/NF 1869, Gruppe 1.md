@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [1[1]](javascript:;)
 --------------------
 
-Wer heutzutage von Aeschylus Sophocles Euripides spricht oder hört, der denkt unwillkürlich zunächst an sie als Litteraturpoeten, weil er sie aus dem Buche, im Original oder in der Übersetzung hat kennen lernen: dies ist aber ungefähr so als ob jemand vom Tannhäuser spricht und dabei das Textbuch und nichts mehr meint und versteht. Von jenen Männern soll also gesprochen werden, nicht als Librettisten: sondern als Operncomponisten. Doch weiss ich wohl, dass ich mit dem Worte „Oper“ Ihnen eine Carrikatur in die Hand gebe: wenn auch nur wenige von Ihnen das zuerst zugeben werden. Vielmehr bin ich zufrieden, wenn Sie am Schlusse überzeugt sind, dass unsere Opern gegenüber dem antiken Musikdrama nur Carikaturen sind.
+Wer heutzutage von Aeschylus Sophocles Euripides spricht oder hört, der denkt unwillkürlich zunächst an sie als Litteraturpoeten, weil er sie aus dem **Buche**, im Original oder in der Übersetzung hat kennen lernen: dies ist aber ungefähr so als ob jemand vom Tannhäuser spricht und dabei das Textbuch und nichts mehr meint und versteht. Von jenen Männern soll also gesprochen werden, **nicht** als Librettisten: sondern als Operncomponisten. Doch weiss ich wohl, dass ich mit dem Worte „Oper“ Ihnen eine Carrikatur in die Hand gebe: wenn auch nur wenige von Ihnen das zuerst zugeben werden. Vielmehr bin ich zufrieden, wenn Sie am Schlusse überzeugt sind, dass unsere Opern gegenüber dem antiken Musikdrama nur Carikaturen sind.
 
 Characteristisch ist schon der Ursprung. Die Oper ist ohne sinnliche Vorlage, nach einer abstracten Theorie entstanden, mit dem bewussten Willen, hiermit die Wirkungen des antiken Drama’s zu erzielen. Sie ist also ein künstlicher homunculus, in der That:
 
@@ -41,7 +41,7 @@ Characteristisch ist schon der Ursprung. Die Oper ist ohne sinnliche Vorlage, na
 [1[2]](javascript:;)
 --------------------
 
-Jene verfehlte Vorstellung, als ob das Drama seinen erhabenen hochlyrischen Character erst allmählich bekommen habe; als ob die Posse die Wurzel des Dramas sei. Es ist vielmehr die aufgeregte extatische Faschingslaune. Je mehr dieser Trieb abstirbt, um so kühler intriguanter familien-bürgerlicher wird das Schauspiel. Aus dem Schauspiel wird eine Art Schachspiel.
+Jene verfehlte Vorstellung, als ob das Drama seinen erhabenen hochlyrischen Character erst allmählich bekommen habe; als ob die Posse die Wurzel des Dramas sei. Es ist vielmehr die aufgeregte extatische Faschingslaune. Je mehr dieser Trieb abstirbt, um so kühler intriguanter familien-bürgerlicher wird das Schauspiel. Aus dem **Schauspiel** wird eine Art **Schachspiel**.
 
 [1[3]](javascript:;)
 --------------------
@@ -61,9 +61,9 @@ Odysseus ist allmählich zum schlauen Sclaven geworden (in der Komödie).
 [1[6]](javascript:;)
 --------------------
 
-Das Gelächter war die Seele der neueren Komödie,
+Das **Gelächter** war die Seele der neueren Komödie,
 
-der Schauer die des Musikdramas.
+der **Schauer** die des Musikdramas.
 
 Sophocles als Greis der Tragödie.
 
@@ -107,13 +107,13 @@ Socrates und die Tragödie.
 | — | Er thut das Rechte, wissentlich. |
 | — | Sokrates in Verdacht ihm zu helfen: sein Freund und Theatergänger. |
 | — | Nach dem Orakel noch weiser, nach der Seite des Bewußten. |
-| — | Mißachtung des Unbewußten im Menschen (in der Disputation) und im Künstler (Apologie). Vertreibung der Künstler aus dem platonischen Staate *Erratum:*Staate: *lies:*Staate [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  von Plato, der den Wahnsinn anerkennt, aber ihn ironisirt. Der Tragödiendichter zugleich Komödiendichter. Nur der Philosoph ist Dichter. |
+| — | Mißachtung des Unbewußten im Menschen (in der Disputation) und im Künstler (Apologie). Vertreibung der Künstler aus dem platonischen Staate *Erratum:*Staate: *lies:*Staate [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  von Plato, **der den Wahnsinn anerkennt**, aber ihn ironisirt. Der Tragödiendichter zugleich Komödiendichter. Nur der Philosoph ist Dichter. |
 | — | Hiernach gehört Socrates zu den Sophisten. Das Dämonion („treibe Musik“), verkehrte Welt. (Sein Tod nicht tragisch.) |
 | — | Einfluß des Socratismus auf die Vernichtung der Form bei Plato, bei den Cynikern. (Er selbst nicht-schreibend.) |
 | — | Der Dialog der Tragödie: die Dialektik dringt in die Helden der Bühne, sie sterben an einer Superfötation des Logischen. Euripides ist naiv darin. Die Dialektik erstreckt sich auf den Bau: die Intrigue. Odysseus: Prometheus. Der Sklave. |
 | — | Die unentwickelte Ethik: Bewußtsein ist zu mächtig und zwar optimistisch. Dies vernichtet die pessimistische Tragödie. |
 | — | Die Musik ist nicht in den Dialog und den Monolog gedrungen *Erratum:*zu drängen *lies:*gedrungen [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) : anders bei Shakespeare. Die Musik als Mutter der Tragödie. |
-| — | Auseinanderfallen der Künste: Zeitpunkt vor Sophokles: die absolute Kunst ist Anzeichen, daß der Baum die Früchte nicht mehr halten kann: zugleich Verfall *Erratum:*Verfall *lies:*Verfall [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  der Künste. Die Poesiezur *Erratum:*wird *lies:*zur [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Politik, Rede. Das Reich der Prosa beginnt. Früher selbst in der Prosa die Poesie. Heraclit, die Pythia. Democrit. Empedocles. |
+| — | Auseinanderfallen der Künste: Zeitpunkt vor Sophokles: die absolute Kunst ist Anzeichen, daß der Baum die Früchte nicht mehr halten kann: zugleich **Verfall** *Erratum:*Verfall *lies:***Verfall** [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  der Künste. Die Poesiezur *Erratum:*wird *lies:*zur [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Politik, Rede. Das Reich der Prosa beginnt. Früher selbst in der Prosa die Poesie. Heraclit, die Pythia. Democrit. Empedocles. |
 
 [1[8]](javascript:;)
 --------------------
@@ -134,7 +134,7 @@ Wunderbare Gesundheit der griechischen Dichtkunst (und Musik): es giebt nicht Ga
 [1[10]](javascript:;)
 ---------------------
 
-Einleitung in die griechische Litteratur.
+Einleitung **in die griechische Litteratur**.
 
 Der Gesammtkörper im Wachsen und Verfallen.
 
@@ -160,7 +160,7 @@ Wesen, später Verfall.
 [1[13]](javascript:;)
 ---------------------
 
-Aeschylus hat den freien Faltenwurf des Gemüths aufgebracht.
+Aeschylus hat den freien **Faltenwurf** des Gemüths aufgebracht.
 
 [1[14]](javascript:;)
 ---------------------
@@ -258,13 +258,13 @@ Semper, „Textile Kunst“, p. 470. Plinius, XXXV 10
 [1[22]](javascript:;)
 ---------------------
 
-Welche Zeit des Schauspielerthums, als Sophocles und Aeschylus selbst die ersten Rollen
+Welche Zeit des **Schauspielerthums**, als Sophocles und Aeschylus selbst die ersten Rollen
 spielten!
 
 [1[23]](javascript:;)
 ---------------------
 
-Zur griechischen Philosophen- und Dichtergeschichte.
+**Zur griechischen Philosophen- und Dichtergeschichte.**
 
 Heft I.
 
@@ -315,14 +315,14 @@ In Socrates dringt das Princip der Wissenschaft ein: damit Kampf und Vernichtung
 [1[28]](javascript:;)
 ---------------------
 
-Das griechische Musikdrama.
+**Das griechische Musikdrama.**
 
   
 
 |  |  |
 | --- | --- |
 | Das Musikdrama selbst: | 2t. *Erratum:*2. Th. *lies:* 2t. [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  die Vernichtung.  Mangel einer vertieften Ethik. |
-| Entwicklung der modernen Musik künstlich.  Unendliche Differenz zwischen der aesthetischen Erkenntniß und dem wirklichen Schaffen bei den Griechen.  Daher war das Wachsen der Kunstgattungen natürlich richtig.  Das Wachsen der Kunstgattungen aus einander: jede aufgeblühte vernichtet die frühere Stufe.  Wir haben nur nachgeahmte Dichtungsarten.  Das Musikdrama ist der Höhepunkt: es wird aufgelöst durch die erweiterte Reflexion und stillestehende ethische Entwicklung. | |
+| Entwicklung der modernen Musik **künstlich**.  Unendliche Differenz zwischen der aesthetischen Erkenntniß und dem wirklichen Schaffen bei den Griechen.  Daher war das Wachsen der Kunstgattungen natürlich richtig.  Das Wachsen der Kunstgattungen aus einander: jede aufgeblühte vernichtet die frühere Stufe.  Wir haben nur nachgeahmte Dichtungsarten.  Das Musikdrama ist der Höhepunkt: es wird aufgelöst durch die erweiterte Reflexion und **stillestehende** ethische Entwicklung. | |
 
 [1[29]](javascript:;)
 ---------------------
@@ -364,7 +364,7 @@ schlichtet (Uhland, p. 21).
 ---------------------
 
 Der Sturz vom Leukadischen Felsen hat eine Parallele bei den Veitstänzern, die in wilde Ströme sprangen, bei
-den Tänzern der Tarantella: „zum Meere tragt mich, wenn ihr mich heilen wollt, zum Meere hinweg! So liebt mich meine Schöne. Zum Meere, zum Meere! Solang ich lebe, lieb ich dich!“ Uhland,
+den Tänzern der Tarantella: „zum Meere tragt mich, wenn ihr mich heilen wollt, zum Meere hinweg! **So liebt mich meine Schöne.** Zum Meere, zum Meere! Solang ich lebe, lieb ich dich!“ Uhland,
 p. 402.
 
 [1[34]](javascript:;)
@@ -488,11 +488,11 @@ Die griechische Tragödie fand in Sokrates ihre Vernichtung.
 
 Das Unbewußte ist größer als das Nichtwissen des Sokrates.
 
-Das Dämonion ist das Unbewußte, das aber nur hindernd dem Bewußten hier und da
-entgegentritt: das wirkt aber nicht produktiv, sondern nur kritisch.
+Das Dämonion ist das Unbewußte, das aber nur **hindernd** dem Bewußten hier und da
+entgegentritt: das wirkt aber nicht **produktiv**, sondern nur **kritisch**.
 Sonderbarste verkehrte Welt! Sonst ist das Unbewußte immer das Produktive, das Bewußte das Kritische.
 
-Plato’s Austreibung der Künstler und Dichter ist Consequenz.
+**Plato’s** Austreibung der **Künstler** und Dichter ist Consequenz.
 
 Das delphische Orakel vertheilt den Preis der Weisheit nach der Bewußtheit.
 
@@ -501,7 +501,7 @@ Der Prozeß hat nichts Weltgeschichtliches.
 [1[44]](javascript:;)
 ---------------------
 
-Socrates und die griechische Tragödie.
+**Socrates und die griechische Tragödie.**
 
   
 
@@ -513,10 +513,10 @@ Sokrates Fanatiker der Dialektik.
 
 Sokrates Vernichter der Tragödie.
 
-Es wird Aristophanes Recht gegeben: Socrates gehörte zu den Sophisten.
+Es wird Aristophanes Recht gegeben: Socrates gehörte zu den **Sophisten**.
 
-Aeschylus thut das Rechte, ohne es zu wissen: Sophokles glaubt also das Rechte wissend
-zu thun. Euripides meint, Sophokles habe unbewußt das Unrichtige gethan: er wissend das Richtige. Das Wissen des Sophokles war nur technischer Art: Socrates hatte volles Recht ihm
+Aeschylus thut das Rechte, ohne es zu wissen: Sophokles glaubt also das Rechte **wissend**
+zu thun. Euripides meint, Sophokles habe unbewußt das Unrichtige gethan: er wissend das Richtige. Das **Wissen** des Sophokles war nur technischer Art: Socrates hatte volles Recht ihm
 entgegenzutreten.
 
 In der Stufenfolge der göttlichen Bewußtheit bezeichnete das Delphische Orakel Sophocles als unweiser als
@@ -526,7 +526,7 @@ Euripides.
 ---------------------
 
 Wir sind leider gewöhnt, die Künste in der Vereinzelung zu genießen: Wahnsinn der Gemäldegalerie und des
-Konzertsaals. Die absoluten Künste sind eine traurige moderne Unart. Es fällt alles
+Konzertsaals. Die **absoluten Künste** sind eine traurige moderne Unart. Es fällt alles
 auseinander. Es giebt keine Organisationen, die die Künste als Kunst
 zusammen pflegen
 
@@ -555,15 +555,15 @@ innerlich, intensiv, räthselvoll — unendlich
 
 Wodurch unterscheidet sich die Rhythmik der Bewegung und die Rhythmik der Ruhe (d.h. Anschauung)? Große
 Verhältnisse der Rhythmik können nur von der Anschauung gefaßt werden. Dagegen ist die Rhythmik der Bewegung
-im Einzelnen und Kleinsten viel exakter und mathematischer. Der Takt ist ihr
+im Einzelnen und Kleinsten viel exakter und mathematischer. Der **Takt** ist ihr
 eigenthümlich.
 
 [1[47]](javascript:;)
 ---------------------
 
 Was ist Kunst? Die Fähigkeit die Welt des Willens zu erzeugen ohne Willen? Nein. Die Welt des Willens wieder
-zu erzeugen, ohne daß das Produkt wieder will. Also es gilt Erzeugung des Willenlosen
-durch Willen und instinktiv. Mit Bewußtsein nennt man dies Handwerk. Dagegen leuchtet die
+zu erzeugen, ohne daß das Produkt wieder **will**. Also es gilt Erzeugung des Willenlosen
+durch Willen und **instinktiv**. Mit Bewußtsein nennt man dies Handwerk. Dagegen leuchtet die
 Verwandtschaft mit der Zeugung ein, nur daß hier das Willensvolle wieder entsteht.
 
 [1[48]](javascript:;)
@@ -585,9 +585,9 @@ Sie ist also immer allgemeiner als jede einzelne Handlung: deshalb ist sie uns v
 einzelne Handlung: die Musik ist also der Schlüssel zum Drama.
 
 Die Forderung der Einheit, unberechtigt wie wir sahen, ist die Quelle aller Verkehrtheiten der Oper und des
-Liedes. Man sah die Unmöglichkeit nun die Einheit des Ganzen herzustellen: jetzt schritt
-man dazu, die Einheit in die Stücke zu legen und das Ganze in lauter auseinanderlegbare
-absolute Stücke zu zerstückeln.
+Liedes. Man sah die Unmöglichkeit nun die Einheit des **Ganzen** herzustellen: jetzt schritt
+man dazu, die Einheit in die **Stücke** zu legen und das Ganze in lauter auseinanderlegbare
+absolute Stücke zu **zerstückeln**.
 
 Parallel geht der Schritt des Euripides, der auch in das Einzelstück des Dramas die Einheit legt.
 
@@ -599,7 +599,7 @@ Triebe und Verabscheuungen
 *lies:*Verabscheuungen  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-aller darstellend. Der Anlaß hierzu wurde vom Dichter imaginirt: weil er keine absolute Musik und Lyrik kannte. Er fingirte einen vergangenen
+**aller** darstellend. Der **Anlaß** hierzu wurde vom Dichter **imaginirt**: weil er keine absolute Musik und Lyrik kannte. Er fingirte einen vergangenen
 Zustand, indem
 
 *Erratum:*in dem  
@@ -613,17 +613,17 @@ idealisirenden Vergangenheit gesehn. Hiermit behauptet also der Dichter die Allg
 musikalisch-lyrischen Stimmungen für alle Zeiten, d.h. er thut einen Schritt zur absoluten Musik.
 
 Dies ist die Grenze der antiken Musik: sie bleibt Gelegenheitsmusik, d.h. man nimmt an, es gebe bestimmte
-musikalische Zustände und wiederum unmusikalische Zustände. Der Zustand, in dem der Mensch singt, galt als Maßstab.
+musikalische Zustände und wiederum unmusikalische Zustände. Der Zustand, in dem der Mensch **singt**, galt als Maßstab.
 
 Auf diese Weise erhielt man zwei Welten nebeneinander, die ungefähr miteinander alternirten, so daß die des
 Auges verschwand, wenn die des Ohres begann und umgekehrt. Die Handlung diente nur, um zum Leiden zu kommen,
-und der Ausguß des Pathos machte wieder eine neue Handlung nöthig. Die Konsequenz war,
+und der **Ausguß** des Pathos machte wieder eine neue Handlung nöthig. Die Konsequenz war,
 daß man nicht die Vermittlung der beiden Welten, sondern ihre scharfe Gegenüberstellung suchte: hatte man dem
 Gemüth sein Reich abgesteckt, so sollte nun auch der Verstand zu Rechte kommen; Euripides führte die
 Dialektik, den Ton der Gerichtshalle, ein in den Dialog.
 
 Wir sehen hier die ärgerliche Konsequenz: trennt man Gemüth und Verstand, Musik und Handlung, Intellekt und
-Willen unnatürlich von einander, so verkümmert jeder abgetrennte Theil. Und so entstand die absolute Musik und das Familiendrama, aus dem auseinandergerissenen Musikdrama
+Willen unnatürlich von einander, so verkümmert jeder abgetrennte Theil. Und so entstand die **absolute Musik** und das **Familiendrama**, aus dem auseinandergerissenen Musikdrama
 der Alten.
 
 [1[50]](javascript:;)
@@ -644,7 +644,7 @@ Richard Wagner’s hatte ihm brieflich ein neues Germanenthum angekündigt, das 
 [1[52]](javascript:;)
 ---------------------
 
-Das Höchste, was die bewußte Ethik der Alten erreicht hat, ist die Theorie der
+Das Höchste, was die **bewußte** Ethik der Alten erreicht hat, ist die Theorie der
 Freundschaft: dies ist gewiß ein Zeichen einer recht queren Entwicklung des ethischen Denkens, dank dem
 Musageten Sokrates!
 
@@ -657,7 +657,7 @@ und verführt, die Reihe der Scenen sich als Gemälde neben einander zu stellen 
 Komposition nach zu untersuchen. Dies ist eine wirkliche Verwirrung von Kunstprincipien: insofern man die
 Gesetze für das Nebeneinander auf das Nacheinander anwendet.
 
-Das reine Nacheinander wolle man nicht überschauen: z.B. ein Musikstück: es ist ein
+Das reine Nacheinander wolle man nicht **überschauen**: z.B. ein Musikstück: es ist ein
 Fehler, hier von einer Architektonik des Ganzen zu reden; ebenso beim Drama. Wo liegen die Gesetze des
 Nacheinanders? Z.B. in den Farben, die sich gegenseitig herausfordern, in den Dissonanzen, die eine Auflösung
 verlangen, in der Folge von Gemüthsstimmungen
@@ -681,8 +681,8 @@ Philosophie noch keine Forderungen stellte?
 Wunderbare Zeit, in der die Künste sich noch entwickelten, ohne daß der Künstler fertige Kunsttheorien
 vorfand!
 
-So ein antikes Drama ist ein großes Musikwerk: man genoß aber die Musik nie absolut,
-sondern immer hineingestellt in die Verbindung mit Kult und Umgebung, oder Gesellschaft. Es war kurz Gelegenheitsmusik. Höchst wichtige Einsicht! Der verbindende Dialog ist nur der
+So ein antikes Drama ist ein großes Musikwerk: man genoß aber die Musik nie **absolut**,
+sondern immer hineingestellt in die Verbindung mit Kult und Umgebung, oder Gesellschaft. Es war kurz **Gelegenheitsmusik**. Höchst wichtige Einsicht! Der verbindende Dialog ist nur der
 Gelegenheitsmacher; nämlich für die Musikstücke, deren jedes seinen scharfen Gelegenheitscharakter festhielt:
 Einheit der Empfindung, gleiche Höhe der Erregung.
 
@@ -695,7 +695,7 @@ die der epischen Erzählung, die der mimischen Bilder.
 Auch für den Anblick giebt es zwei Welten, die neben einander ihren Lauf gehen, im Parallelismus, nicht in
 Einheit: die Welt der Bühne und die der Orchestra.
 
-Die Griechen kennen aber auch die absolute Statue nicht: sie ist eben so mit der
+Die Griechen kennen aber auch die **absolute Statue** nicht: sie ist eben so mit der
 Architektur in Parallelismus gesetzt, wie die Bühne mit dem Chor.
 
 Moderne Unart, die Künste theoretisch auseinandergehalten als einzelne genießen zu müssen: zusammenhängend
@@ -713,11 +713,11 @@ dürfe.
 
 Warum gieng das Drama der Griechen nicht aus von der dargestellten Epik?
 
-Wichtigst. Die Handlung kam in die Tragödie erst mit dem Dialog. Dies zeigt, wie es in dieser Kunstart von vornherein gar nicht abgesehn war auf das δρᾶν: sondern auf das πάθος. Es war zunächst nichts als objektive Lyrik, d.h. ein Lied aus dem Zustande bestimmter mythologischer Wesen heraus, daher auch im Kostüm derselben. Zuerst gaben sie selbst den Grund ihrer lyrischen Stimmungen an: später trat eine Person heraus: hierdurch konnte man einen Kyklus von Chorliedern in eine stoffliche Einheit bringen. Die heraustretende Person erzählte die Hauptaktionen: bei jedem wichtigen erzählten Ereigniß erfolgte der lyrische Ausbruch. Diese Person wurde nun ebenfalls kostümirt: und als Herr des Chors gedacht, als Gott, der seine Thaten erzählt. Also
+**Wichtigst.** Die Handlung kam in die Tragödie erst mit dem **Dialog**. Dies zeigt, wie es in dieser Kunstart von vornherein gar nicht abgesehn war auf das δρᾶν: sondern auf das πάθος. Es war zunächst nichts als **objektive** Lyrik, d.h. ein Lied aus dem Zustande bestimmter mythologischer Wesen heraus, daher auch im Kostüm derselben. Zuerst gaben sie selbst den Grund ihrer lyrischen Stimmungen an: später trat eine Person heraus: hierdurch konnte man einen Kyklus von Chorliedern in eine stoffliche Einheit bringen. Die heraustretende Person erzählte die Hauptaktionen: bei jedem wichtigen erzählten Ereigniß erfolgte der lyrische Ausbruch. Diese Person wurde nun ebenfalls kostümirt: und als Herr des Chors gedacht, als Gott, der seine Thaten erzählt. Also
 
-Liedercyklen für Chor, mit verbindender Erzählung: dies der Ursprung des griechischen Drama’s.
+**Liedercyklen für Chor, mit verbindender Erzählung:** dies der Ursprung des griechischen Drama’s.
 
-Der kunstgerecht componirte Zug, das προσόδιον: hat dies nicht einen Einfluß auf das Drama? Nur daß der Zuschauer kein begleitender, sondern ein sitzender ist? Vielleicht ist die Komödie daraus entstanden, vielleicht auch die Tragödie: der Sinn ist: immer neue Gruppen mit neuen Liedern, das Ganze aber doch eine Einheit, eine Geschichte darstellend. Man vergleiche die Darstellungen auf Basreliefs.
+Der kunstgerecht componirte Zug, das προσόδιον: hat dies nicht einen Einfluß auf das Drama? Nur daß der Zuschauer kein begleitender, sondern ein sitzender ist? Vielleicht ist die Komödie daraus entstanden, vielleicht auch die Tragödie: der Sinn ist: immer neue Gruppen mit neuen Liedern, das Ganze aber doch eine Einheit, **eine** Geschichte darstellend. Man vergleiche die Darstellungen auf Basreliefs.
 
 Vorausgesetzt für solche maskirte Züge die Allgemeinverständlichkeit der Grundlage, des mythischen Stoffs.
 
@@ -740,12 +740,12 @@ Die Zeit des Euripides ist die der Götterdämmerung: er hat ein Gefühl davon.
 
 Er wendet sich energisch gegen das delphische Orakel und die Wahrhaftigkeit des Apollo.
 
-Die Bacchen an der Hofbühne des Archelaus aufgeführt.
+Die Bacchen an der **Hofbühne** des Archelaus aufgeführt.
 
 [1[60]](javascript:;)
 ---------------------
 
-Die Römer sahen lange Zeit den Schauspielen stehend zu: das Sitzen galt als
+Die Römer sahen lange Zeit den Schauspielen **stehend** zu: das Sitzen galt als
 Verweichlichung.
 
 [1[61]](javascript:;)
@@ -836,12 +836,12 @@ Soll das Satyrdrama noch die
 *lies:*noch die  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Vorstufe für Tragödie und Komödie sein?
+ Vorstufe für Tragödie **und** Komödie sein?
 
 Ist nicht die Geburt der Tragödie aus dem Dithyramb eine falsche Folgerung aus der wirklichen Entwicklung des
 Dramas aus dem Dithyramb zu Zeiten des Timotheus usw.? Ist vielleicht daher die falsche Etymologie τράγων ᾠδή entstanden? Wichtig ist der Anstoß, den die Mysterien gegeben haben
 müssen. Die heilige Aktion mit Theatereffekten im geschlossenen Raume, bei Licht, mit Beleuchtungseffekten.
-Wahrscheinlich entstand das Drama als öffentliches Mysterium, als eine Reaktion gegen die
+Wahrscheinlich entstand das Drama als **öffentliches** Mysterium, als eine Reaktion gegen die
 Geheimthuerei der Priester, zum Schutze der Demokratie seitens der Obergewalt. Ich denke, die Tyrannen führen
 diese „öffentlichen Mysterien“ ein, aus Opposition gegen das Priesterthum der Mysterien. Von Pisistratus
 wissen wir, daß er Thespis begünstigte.
@@ -872,7 +872,7 @@ gilt alles von den Niederländern. Absoluter Indifferentismus, ja Hohn
 gegen die Textesworte, die sinnlos durcheinander und verzerrt gesungen wurden.
 
 Sehr originell, wie man dem Mangel an Ausdruck begegnete: man färbte die Noten mit der Farbe der Dinge, von
-denen die Rede war, Pflanzen Felder Weinberge grün, Licht und Sonne Purpur usw. Es war dies Litteraturmusik, Lesemusik. Höchst wichtig, daß auch die Musikentwicklung diesen unnatürlichen Weg gegangen ist, wie das deutsche Drama.
+denen die Rede war, Pflanzen Felder Weinberge grün, Licht und Sonne Purpur usw. Es war dies **Litteraturmusik**, Lesemusik. Höchst wichtig, daß auch die Musikentwicklung diesen **unnatürlichen** Weg gegangen ist, wie das deutsche Drama.
 
 Allen diesen Standpunkten gegenüber sind die Griechen unvergängliche Muster.
 
@@ -916,7 +916,7 @@ Der religiöse Chortanz mit seinem Andante umschränkte die Phantasie des griech
 Bilder, nach den gemalten der Tempelwände.
 
 Zu den lebenden Bildern Musik, andauernde: dies bedingt einen Gang der Entwicklung und ein pathetisches
-Gemüthsleben im Andante. Euripides will ausdrücklich nicht durch die Neuheit des Stoffs,
+Gemüthsleben im **Andante**. Euripides will ausdrücklich nicht durch die Neuheit des Stoffs,
 durch die Überraschungen der Fabel packen: sondern durch die pathetischen Scenen, die er aus der dürren Fabel
 schafft. Vor allem aber will er durch den Prolog den Zuhörer belehren, wie er sich die Fabel gemodelt hat:
 damit der Zuhörer nicht mit falschen Präsumptionen dasitzt.
@@ -934,7 +934,7 @@ habe: von ihr beeinflußt bekommt die Tragödie das Dialogisch-Dialektische.
 [1[72]](javascript:;)
 ---------------------
 
-Zum deus ex machina. In monarchischen Staaten wird der deus ex machina im Schauspiel
+Zum **deus ex machina**. In monarchischen Staaten wird der deus ex machina im Schauspiel
 häufig nur der Fürst sein: niemals in Athen. Die Könige der Griechen können allein die Tragik des Lebens recht
 verstehn, weil sie hoch genug gestellt sind: darum spielen die Perser am Hofe des Darius-Xerxes.
 
@@ -974,10 +974,10 @@ der
 *lies:*der   
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-griechischen Theater
+**griechischen Theater**
 
-*Erratum:*griechischen Theaters  
-*lies:*griechischen Theater  
+*Erratum:***griechischen Theaters**  
+*lies:***griechischen Theater**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 :
@@ -998,7 +998,7 @@ langsamster Rhythmus des Ganzen: Andante vorherrschend. Volkstheater durchaus.
 [1[77]](javascript:;)
 ---------------------
 
-Die Passionen auf Wegen zur Wallfahrtsstätte: wenn man diese wandelnd denkt und den
+Die **Passionen** auf Wegen zur Wallfahrtsstätte: wenn man diese wandelnd denkt und den
 Zuschauer fest stehend, dann ein Vorspiel des Dramas.
 
 [1[78]](javascript:;)
@@ -1015,7 +1015,7 @@ Was fromme Väter uns gelehrt, was uns die Zeit
 
 Vorlängst geheiligt, kein Vernünfteln stößt es um,
 
-Auch wenns der höchste Menschengeist
+Auch wenns der **höchste Menschengeist**
 ausklügelte?
 
 *Erratum:*ausklügelte.  
@@ -1068,10 +1068,10 @@ der
 *lies:*der   
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Volkstheater
+**Volkstheater**
 
-*Erratum:*Volkstheaters  
-*lies:*Volkstheater  
+*Erratum:***Volkstheaters**  
+*lies:***Volkstheater**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 .
@@ -1085,7 +1085,7 @@ volksthümlichen Grundlagen
  aus und wurde nach und nach Hoftheater. In
 Frankreich war das mittelalterliche Volksdrama mit dem Dialekt ausgestorben. Corneille bemächtigt sich auf
 rein gelehrtem Wege der Bühne und nimmt die fertige Form von Spanien herüber: das Unglück ist, daß
-<sie> von vorn herein Hofbühne <war> und nie wieder die
+&amp;lt;sie&amp;gt; von vorn herein **Hofbühne** &amp;lt;war&amp;gt; und nie wieder die
 volksthümliche Basis fand. Das deutsche Fastnachtsspiel durch Reformation untergraben: jetzt isolirte Versuche
 von Gelehrten, bis auf Lessing. Jetzt Einfluß Shakespeares
 
@@ -1097,7 +1097,7 @@ von Gelehrten, bis auf Lessing. Jetzt Einfluß Shakespeares
 sie der Beschränkung durch antike Nachahmung entgangen, welche die ursprünglich spanische Bühne der Franzosen
 in Fesseln schlug. (Vornehmheit der attischen Schauspiele.)
 
-Einfluß der Weiber. Auf der altenglischen Bühne spielten Knaben die Weiberrollen und
+Einfluß der **Weiber**. Auf der altenglischen Bühne spielten Knaben die Weiberrollen und
 eben durch diese ursprünglich sittlichscheue Institution wurde die Darstellung in die maßloseste Indezenz
 getrieben. Aristophanes Zoten sind wilder Übermuth in einzelnen Ausbrüchen, gegenüber der Immoralität der
 letzten altenglischen Theaterschule.
@@ -1139,7 +1139,7 @@ tönen.
 [1[87]](javascript:;)
 ---------------------
 
-„Vollkommenheit in Kunst und Poesie verglichen mit dem Gipfel eines steilen Bergs, wo
+„Vollkommenheit in Kunst und Poesie verglichen mit dem Gipfel eines **steilen** Bergs, wo
 sich eine hinaufgewälzte Last nicht lange halten kann, sondern sogleich an der anderen Seite unaufhaltsam
 wieder hinunterrollt. Dies geht schnell und mit Leichtigkeit vor sich, es sieht sich bequem mit an, denn die
 Masse folgt ihrem natürlichen Hange: während das mühsame Hinanstreben ein gewissermaßen peinlicher Anblick
@@ -1159,7 +1159,7 @@ sie weichlich, indem sie ihren Helden übermäßige Klagen in den Mund legten.
 [1[90]](javascript:;)
 ---------------------
 
-Lessing über die Prologe: Euripides verlasse sich nur auf die Wirksamkeit der
+**Lessing** über die Prologe: Euripides verlasse sich nur auf die Wirksamkeit der
 Situationen und habe nicht auf die Spannung der Neugier gerechnet. — Schlegel meint, man möchte diese Weise
 mit den Zetteln aus dem Munde der Figuren auf alten Gemälden vergleichen. Sehr mit Unrecht: ein historisches
 Bild ist so lange wirkungslos, so lange wir nicht die Personen in den Zusammenhang der Handlung gebracht
@@ -1177,7 +1177,7 @@ ließe ich mich aufhängen, um den Euripides zu sehen.“
 [1[92]](javascript:;)
 ---------------------
 
-Enormes Wagniß des Euripides, sich vom delphischen Orakel zu emancipiren. Trotzdem nach
+Enormes Wagniß des Euripides, sich vom **delphischen Orakel** zu emancipiren. Trotzdem nach
 dem Orakel fast so weise als Socrates.
 
 [1[93]](javascript:;)
@@ -1291,31 +1291,31 @@ und Nachfolgende verschwinden lassen.
 
 |  |  |
 | --- | --- |
-| II. | In Socrates der naive Rationalismus in dem Ethischen. Alles muß bewußt sein, um ethisch zu sein. |
-| II. | Euripides ist der Dichter dieses naiven Rationalismus. Feind allem Instinktiven, sucht er das Absichtliche und Bewußte. Die Leute sind, wie <sie> sprechen, nicht mehr. |
-| II. | Die Figuren des Sophokles und Aeschylus sind viel tiefer und größer als ihre Worte: sie stammeln über und von sich. |
-| II. | Euripides schafft sich die Gestalten, indem er sie anatomisch entstehn läßt: es giebt nichts Verborgenes in ihnen. |
-| II. | Sokrates ist in der Ethik dasselbe was Demokrit in der Physik ist: eine begeisterte Engherzigkeit, eine enthusiastische Oberflächlichkeit: doch spricht die Urtheile von „engherzig“ und „oberflächlich“ erst die deutsche Nachwelt, die instinktiv reicher und stärker ist als die hellenische: der Fanatiker der Erkenntniss. |
+| II. | In Socrates der **naive Rationalismus** in dem **Ethischen**. Alles muß **bewußt** sein, um ethisch zu sein. |
+| II. | Euripides ist der Dichter dieses naiven Rationalismus. Feind allem Instinktiven, sucht er das Absichtliche und Bewußte. Die Leute sind, wie &amp;lt;sie&amp;gt; sprechen, nicht mehr. |
+| II. | Die Figuren des Sophokles und Aeschylus sind viel tiefer und größer als ihre Worte: sie **stammeln** über und von sich. |
+| II. | Euripides schafft sich die Gestalten, indem er sie **anatomisch** entstehn läßt: es giebt nichts Verborgenes in ihnen. |
+| II. | Sokrates ist in der Ethik dasselbe was Demokrit in der Physik ist: eine begeisterte Engherzigkeit, eine enthusiastische Oberflächlichkeit: doch spricht die Urtheile von „engherzig“ und „oberflächlich“ erst die **deutsche** Nachwelt, die instinktiv reicher und stärker ist als die hellenische: der Fanatiker der Erkenntniss. |
 | II. | Euripides ist der erste Dramatiker, der einer bewußten Aesthetik folgt. |
 | II. | Die Mythologie des Euripides als die idealistische Projection eines ethischen Rationalismus. |
-| II. | Euripides hat von Socrates die Vereinzelung des Individuums gelernt. |
+| II. | Euripides hat von Socrates die **Vereinzelung** des Individuums gelernt. |
 
 [1[107]](javascript:;)
 ----------------------
 
-I. Der Chor in der Tragödie: Öffentlichkeit des ganzen Treibens: alles wird im Freien
+I. Der Chor in der Tragödie: Öffentlichkeit des ganzen Treibens: alles wird im **Freien**
 berathen.
 
-I. Eine Nothwendigkeit, eine Gruppe von Männern oder Frauen zu erdenken, die mit den
+I. Eine Nothwendigkeit, eine Gruppe von Männern oder Frauen zu **erdenken**, die mit den
 handelnden Personen eng verbunden sind. Nicht der ideale Zuschauer, sondern der lyrisch-musikalische
-Resonanzboden des Dramas, d.h. der Handelnden.
+Resonanzboden des Dramas, d.h. der **Handelnden**.
 
-I. Es müssen häufige Anlässe gesucht werden zum Ausbruch des Massengefühls, also
+I. Es müssen häufige Anlässe gesucht werden zum Ausbruch des **Massengefühls**, also
 Gebetsstimmungen vornehmlich.
 
 I. Der religiöse Ursprung und die Cultfeier hielt die Chorgesänge fest. Die Satyrn sind zuerst übergegangen
-in ernste nichtbacchische Figuren: der Ursprung des Tragisch-Ernsten liegt im Chor. Die
-Tragödien vertiefen die ganze heiter-homerisch-olympische Volksmythologie. Dem
+in ernste nichtbacchische Figuren: der Ursprung des **Tragisch**-Ernsten liegt im Chor. Die
+Tragödien **vertiefen** die ganze heiter-homerisch-olympische Volksmythologie. Dem
 aeschyleischen Zeitalter gegenüber, einem sentimentalischen, ist das kyklisch-homerische naiv.
 
 I. Die Typen der großen tragischen Gestalten sind die großen zeitgenössischen Männer: die aeschyleischen
@@ -1445,4 +1445,6 @@ Mai usw. im Herbst: Vortrag: Hesiod-Homer, Wettkampf.
 
 |  |  |
 | --- | --- |
-| Zustand unterdrückter Idealität 1869. | Erkenntniss dessen Weihnach- ten auf Tribschen. |
+| Zustand unterdrückter **Idealität** 1869. | Erkenntniss dessen Weihnach- ten auf Tribschen. |
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

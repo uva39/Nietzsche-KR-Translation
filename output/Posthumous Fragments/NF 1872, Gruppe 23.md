@@ -20,7 +20,7 @@ Nun wurde die ganze Gruppe unverständlich. Später nahm man von den Ehrwürdig-
 brauchen konnte, man plünderte sie aus, und dann kommt ein Arm des Parmenides, ein Schulterstück des Heraklit,
 ein Fuß des Empedokles bald hier, bald dort vor, in Platon’s Akademie sowohl wie in der Stoa und in den Gärten
 Epikurs. Um sie als Ganzheiten zu verstehen, muß man in jedem von ihnen den Versuch und Ansatz zum
-griechischen Reformator erkennen; diesen sollten sie vorbereiten, vor dem sollten sie
+griechischen **Reformator** erkennen; diesen sollten sie vorbereiten, vor dem sollten sie
 hergehen wie eine Morgenröthe vor der Sonne. Aber die Sonne kam nicht, der Reformator mißlang: so blieb die
 Morgenröthe fast nur eine gespenstische Erscheinung. Daß aber etwas Neues in der Luft war, beweist die
 gleichzeitige Entstehung der Tragödie; nur ist der Philosoph und Gesetzgeber nie erschienen, welcher die
@@ -73,7 +73,7 @@ Opfer.
 
 Versöhnung
 
-*Erratum:*Vergl<eich>  
+*Erratum:*Vergl&amp;lt;eich&amp;gt;  
 *lies:*Versöhnung  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -84,7 +84,7 @@ Versöhnung
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| Kapitel | I. | Die Griechen als Philosophen. | Das sechste Jahrhundert. Die Wundermänner. Der Wettkampf. Das Dionysische. |
+| Kapitel | I. | Die Griechen als Philosophen. | Das **sechste Jahrhundert**. Die Wundermänner. Der Wettkampf. Das Dionysische. |
 | Capitel | II. | Thales und Anaximander. | |
 | III. | Heraklit. | |
 | IV. | Parmenides. | |
@@ -109,7 +109,7 @@ Begriffe
 [23[5]](javascript:;)
 ---------------------
 
-Das Hellenische in der Philosophie.
+Das **Hellenische in der Philosophie**.
 
   
 
@@ -130,21 +130,21 @@ Stolz des Philosophen.
 
 |  |  |  |
 | --- | --- | --- |
-| Fastnacht | Anaxagoras.  Empedocles | |
-| bis Ostern *Erratum:*Bis Ostern *lies:*bis Ostern [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) | Pythagoreer. *Erratum:*Phytagoreer. *lies:*Pythagoreer. [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Socrates. *Erratum:*Socrates. *lies:*Socrates. [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) | |
-| Ostern: | Capitel über | den Philosophen. das Hellenische. |
+| **Fastnacht** | Anaxagoras.  Empedocles | |
+| bis **Ostern** *Erratum:***Bis Ostern** *lies:*bis **Ostern** [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) | Pythagoreer. *Erratum:***Phytagoreer.** *lies:*Pythagoreer. [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Socrates. *Erratum:***Socrates.** *lies:*Socrates. [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) | |
+| **Ostern:** | Capitel über | den Philosophen. das Hellenische. |
 
 [23[7]](javascript:;)
 ---------------------
 
 |  |  |
 | --- | --- |
-|  | Was ist der Philosoph? |
-| 1. | Jenseits der Wissenschaften: entmateriali<si>ren. |
+|  | **Was ist der Philosoph?** |
+| 1. | Jenseits der Wissenschaften: entmateriali&amp;lt;si&amp;gt;ren. |
 | 2. | Diesseits der Religionen: entgöttern — entzaubern. |
 | 3. | Typen: der Kultus des Intellektes. |
 | 4. | Anthropomorphische Übertragungen. |
-|  | Was soll jetzt die Philosophie? |
+|  | **Was soll jetzt die Philosophie?** |
 | 1. | Unmöglichkeit der Metaphysik. |
 | 2. | Möglichkeit des Dinges an sich. Jenseits der Wissenschaften. |
 | 3. | Die Wissenschaft als Rettung vor dem Wunder. |
@@ -166,7 +166,7 @@ Stolz des Philosophen.
 | Heraklit: apollinisches Ideal, alles Schein und Spiel. | |
 | Parmenides: Weg zur Dialektik und wissenschaftliches Organon. | |
 | Der einzig ruhende ist Heraclit. | |
-| Thales will zur Wissenschaft, | Anaxim<ander> wieder von ihr weg. |
+| Thales will zur Wissenschaft, | Anaxim&amp;lt;ander&amp;gt; wieder von ihr weg. |
 | Ebenso Anaxagoras Democrit | Empedocles |
 | Parmenides Organon | Pythagoras. |
 | Socrates. |  |
@@ -174,15 +174,15 @@ Stolz des Philosophen.
 [23[9]](javascript:;)
 ---------------------
 
-1. Die wesentliche Unvollkommenheit der Dinge:
+1. Die wesentliche **Unvollkommenheit** der Dinge:
 
 der Consequenzen einer Religion
 
 und zwar optimistischen oder pessimistischen
 
-<der> Consequenzen der Kultur
+&amp;lt;der&amp;gt; Consequenzen der Kultur
 
-<der Consequenzen> der Wissenschaften.
+&amp;lt;der Consequenzen&amp;gt; der Wissenschaften.
 
   
 
@@ -224,7 +224,7 @@ auflösend gegen alle Kunst Parmenides.
 
 |  |  |
 | --- | --- |
-| Werth der Philosophie: Reinigen von verworrenen und  abergläub<ischen> Vorstellungen  gegen den Dogmatism *Erratum:*Dogmatismus *lies:*Dogmatism [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  der Wissenschaften  soweit Wissenschaft, ist sie reinigend und erhellend  soweit anti-wissenschaftlich: ist sie religiös-verdunkelnd.  Beseitigung der Seelenlehre und der rationalen Theologie.  Beweis des absolut Anthropomorphischen.  Gegen die starre Geltung der ethischen Begriffe.  Gegen den Haß des Leibes. | |
+| Werth der Philosophie: Reinigen von verworrenen und  abergläub&amp;lt;ischen&amp;gt; Vorstellungen  gegen den Dogmatism *Erratum:*Dogmatismus *lies:*Dogmatism [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  der Wissenschaften  soweit Wissenschaft, ist sie reinigend und erhellend  soweit anti-wissenschaftlich: ist sie religiös-verdunkelnd.  Beseitigung der Seelenlehre und der rationalen Theologie.  Beweis des absolut Anthropomorphischen.  Gegen die starre Geltung der ethischen Begriffe.  Gegen den Haß des Leibes. | |
 | Schaden der Philosophie: Auflösung | der Instinkte der Kulturen der Sittlichkeiten. |
 | Spezieller Betrieb der Philosophie für jetzt.  Mangel der populären Ethik.  Mangel vom Gefühl der Wichtigkeit des Erkennens und der Auswahl.  Oberflächlichkeit der Betrachtung von Kirche und Staat und Gesellschaft.  Die Wuth auf Geschichte.  Das Reden von Kunst und Mangel einer Kultur. | |
 
@@ -232,14 +232,14 @@ auflösend gegen alle Kunst Parmenides.
 ----------------------
 
 Der Begriff entsteht aus einem Gleichsetzen des Nichtgleichen: d.h. durch die Täuschung, es gäbe ein
-Gleiches, durch die Voraussetzung von Identitäten: also durch falsche Anschauungen.
+Gleiches, durch die Voraussetzung von **Identitäten**: also durch falsche Anschauungen.
 
 Man sieht einen Menschen gehen: nennt es „gehen“. Jetzt einen Affen, Hund: sagt auch „gehen“.
 
 [23[12]](javascript:;)
 ----------------------
 
-Dreierlei nicht mit Parm<enides> Seinslehre zu verwechseln:
+Dreierlei nicht mit Parm&amp;lt;enides&amp;gt; Seinslehre zu verwechseln:
 
 1) die Frage: können wir einen Inhalt im Denken finden, der im Sein ist?
 
@@ -251,7 +251,7 @@ Dreierlei nicht mit Parm<enides> Seinslehre zu verwechseln:
 
   
 
-Er sucht nach Gewißheit. Es ist wahr, das Nichtsein ist nicht zu denken.
+Er sucht nach **Gewißheit**. Es ist wahr, das Nichtsein ist nicht zu denken.
 
   
 
@@ -279,7 +279,7 @@ Sein, weil wir an uns glauben. Ist das Letzte eine Kategorie, so das Andere gewi
 [23[14]](javascript:;)
 ----------------------
 
-Philosophie und Volk. Keiner der großen griechischen Philosophen
+**Philosophie und Volk.** Keiner der großen griechischen Philosophen
 zieht das Volk hinter sich drein: am meisten versucht von Empedokles (nach Pythagoras), doch auch nicht mit
 der reinen Philosophie, sondern mit einem mythischen Vehikel derselben. Andre lehnen das Volk von vornherein
 ab (Heraklit). Andre haben einen ganz vornehmen Kreis von Gebildeten als Publikum (Anaxagoras). Am meisten hat
@@ -290,26 +290,26 @@ fundamentale und immer nur eine Nebenbedeutung haben. Welches ist diese?
 
   
 
-Bändigung des Mythischen. — Stärkung des Wahrheitssinnes gegenüber
-der freien Dichtung. vis veritatis oder Stärkung des reinen Erkennens (Thales Demokrit
+**Bändigung des Mythischen.**— Stärkung des Wahrheitssinnes gegenüber
+der freien Dichtung. **vis veritatis** oder Stärkung des reinen Erkennens (Thales Demokrit
 Parmenides).
 
   
 
-Bändigung des Wissenstriebes — oder Stärkung des
+**Bändigung des Wissenstriebes** — oder Stärkung des
 Mythisch-Mystischen, des Künstlerischen, (Heraklit Empedokles Anaximander.) Gesetzgebung der Größe.
 
   
 
-Zertrümmerung des starr Dogmatischen: a) in Religion b) Sitte c)
-Wissenschaft. Skeptischer Zug.  
+**Zertrümmerung des starr Dogmatischen:** a) in Religion b) Sitte c)
+Wissenschaft. **Skeptischer** Zug.  
 Jede Kraft (Religion, Mythus, Wissenstrieb) hat, in einem Übermaße, barbarisirende, unsittliche und
 verdummende Wirkungen, als starre Herrschaft. (Sokrates.)
 
   
 
-Zertrümmerung der blinden Verweltlichung (Ersatz der Religion).
-(Anaxagoras Perikles.) Mystischer Zug.
+**Zertrümmerung der blinden Verweltlichung** (Ersatz der Religion).
+(Anaxagoras Perikles.) **Mystischer** Zug.
 
   
 
@@ -319,7 +319,7 @@ Zertrümmerung der blinden Verweltlichung (Ersatz der Religion).
 
   
 
-Für uns: der Philosoph ist deshalb das Obertribunal der Schule:
+**Für uns:** der Philosoph ist deshalb das Obertribunal der Schule:
 Vorbereitung des Genius: denn wir haben keine Kultur. Aus der Symptomenlehre der Zeit ergiebt sich als Aufgabe
 der Schule:
 
@@ -333,7 +333,7 @@ Die Kultur kann immer nur von der centralisirenden Bedeutung einer Kunst oder ei
 [23[15]](javascript:;)
 ----------------------
 
-Der Philosoph als Arzt der Cultur.
+**Der Philosoph als Arzt der Cultur.**
 
 [23[16]](javascript:;)
 ----------------------
@@ -348,7 +348,7 @@ benimmt, die keine Feindin ist: hier ist der Philosoph der Giftmischer der Kultu
 [23[17]](javascript:;)
 ----------------------
 
-Es ist erstaunlich, wie schnell die Griechen frei werden, verglichen mit der dumpfen
+Es ist erstaunlich, wie schnell die Griechen **frei** werden, verglichen mit der dumpfen
 Befangenheit des Mittelalters. Kultur der Renaissance zu vergleichen.
 
   
@@ -358,18 +358,18 @@ sondern wird bewundert. Unsicher nur Zeitrechnung datirt.
 
   
 
-Demokrit der freieste Mensch.
+**Demokrit** der **freieste Mensch**.
 
 [23[18]](javascript:;)
 ----------------------
 
-Naturwissenschaftlicher Rückblick.
+**Naturwissenschaftlicher Rückblick.**
 
 Theorie der Aggregatzustände.
 
 Theorie der Materie.
 
-Also Vermischung physikalischer und metaphysischer Probleme.
+Also **Vermischung physikalischer und metaphysischer** Probleme.
 
 Das Werden und das Sein — es ergiebt sich die volle Differenz.
 
@@ -378,8 +378,8 @@ Das Werden und das Sein — es ergiebt sich die volle Differenz.
 
 Wenn sie anormal sind, dann haben sie wohl nichts mit dem Volke zu thun?
 
-So steht es nicht: das Volk braucht die Abnormitäten, wenn diese auch
-gleich nicht seinetwegen da sind.
+So steht es nicht: das Volk **braucht** die Abnormitäten, **wenn diese auch
+gleich nicht seinetwegen da sind**.
 
 Beweis giebt das Kunstwerk: es versteht der Schöpfer selbst, trotzdem ist es mit der einen Seite dem Publikum
 zugekehrt.
@@ -387,7 +387,7 @@ zugekehrt.
 Diese Seite des Philosophen wollen wir erkennen, wo er dem Volke sich zukehrt — und seine Wundernatur, also
 das eigentliche Ziel, die Frage warum? unerörtert lassen.
 
-Diese Seite ist jetzt, aus unserer Zeit <heraus>, schwer zu erkennen, weil wir keine solche
+Diese Seite ist jetzt, aus unserer Zeit &amp;lt;heraus&amp;gt;, schwer zu erkennen, weil wir keine solche
 Volkseinheit der Kultur besitzen.
 
 Deshalb die Griechen.
@@ -408,12 +408,12 @@ Deshalb die Griechen.
 [23[21]](javascript:;)
 ----------------------
 
-Der Philosoph unter Griechen.
+**Der Philosoph unter Griechen.**
 
   
 
 Das Hellenische an ihnen. Darin ewige Typen. Der Nichtkünstler in einer künstlerischen Welt. Sie zusammen
-zeigen den Hintergrund des Griechischen, so wie das Resultat der
+zeigen den **Hintergrund** des Griechischen, so wie das **Resultat** der
 Kunst. Zeitgenossen der Tragödie. Die in den Philosophen zerstreuten Requisiten zur Entstehung der
 Tragödie.
 
@@ -451,7 +451,7 @@ Zeitgenossen.
 [23[25]](javascript:;)
 ----------------------
 
-Die Philosophen des tragischen Zeitalters.
+**Die Philosophen des tragischen Zeitalters.**
 
   
 
@@ -460,7 +460,7 @@ Dem Andenken Schopenhauers.
 [23[26]](javascript:;)
 ----------------------
 
-415 wäre er παντελῶς ὑπεργεγηρακῶς, nun ist er jedenfalls nach 500 geboren. (Nach Aristoteles c. 80 Jahre, wenn er 495 geboren wäre, d.h. 5 Jahre nach
+415 wäre er παντελῶς ὑπεργεγηρακῶς, nun ist er jedenfalls **nach** 500 geboren. (Nach Aristoteles c. 80 Jahre, wenn er 495 geboren wäre, d.h. 5 Jahre nach
 Anaxagoras.)
 
 |  |  |
@@ -477,7 +477,7 @@ Wäre er Olymp. 71 geboren, so ist
 | 77 |  |
 | \_\_\_\_  492 | 492 |
 | 444 | 60 |
-| \_\_\_\_  48 | \_\_\_\_  <4>32 |
+| \_\_\_\_  48 | \_\_\_\_  &amp;lt;4&amp;gt;32 |
 
   
 
@@ -511,7 +511,7 @@ seine καϑαρμοί dichtete für Olympia. Wahrscheinlich ist er in jener Oy
 Anaxagoras hat von Heraclit die Vorstellung genommen, daß in jedem Werden und Sein das
 Entgegengesetzte zusammen ist.
 
-Er empfand wohl den Widerspruch, daß ein Körper viele Eigenschaften hat, und pulverisirte ihn, im
+Er empfand wohl den Widerspruch, daß ein Körper viele Eigenschaften hat, und **pulverisirte** ihn, im
 
 *Erratum:*in dem  
 *lies:*im  
@@ -524,7 +524,7 @@ Qualitäten aufgelöst zu haben.
 
 |  |  |
 | --- | --- |
-| Plato: erst Herakliteer  consequent Skeptiker, alles, auch das Denken, Fluß.  Durch Sokrates zum Beharren des Guten, Schönen gebracht.  Diese als seiend angenommen.  An der Idee des Guten, Schönen nehmen alle Gattungsideale theil und sind deshalb auch seiend (wie die Seele an der Idee des Lebens).  Die Idee gestaltlos.  Durch Pythag<oras’> Seelenwanderung ist die Frage beantwortet, wie wir etwas von den Ideen wissen können. | |
+| Plato: erst Herakliteer  consequent Skeptiker, alles, auch das Denken, Fluß.  Durch Sokrates zum Beharren des Guten, Schönen gebracht.  Diese als seiend angenommen.  An der Idee des Guten, Schönen nehmen alle Gattungsideale theil und sind deshalb auch **seiend** (wie die Seele an der Idee des Lebens).  Die Idee **gestaltlos**.  Durch Pythag&amp;lt;oras’&amp;gt; Seelenwanderung ist die Frage beantwortet, wie wir etwas von den Ideen wissen können. | |
 | Ende Platos: | Scepticismus im Parmenides. Widerlegung der Ideenlehre. |
 
 [23[28]](javascript:;)
@@ -544,11 +544,11 @@ Qualitäten aufgelöst zu haben.
 
 14. 15. Anaxagoras.
 
-16. 17. 18. Emped<ocles>.
+16. 17. 18. Emped&amp;lt;ocles&amp;gt;.
 
 19. 20. Democrit.
 
-21. 22. Pythagor<eer>.
+21. 22. Pythagor&amp;lt;eer&amp;gt;.
 
 23. 24. Socrates.
 
@@ -570,7 +570,7 @@ Qualitäten aufgelöst zu haben.
 ----------------------
 
 Daß diese gesammte Auffassung der Anaxagorischen Lehre richtig sein muß, beweist am deutlichsten die Art, wie
-die Nachfolger des Anaxagoras, der Agrigentiner Empedokles und der Atomenlehrer Demokrit
+die Nachfolger des Anaxagoras, der Agrigentiner **Empedokles** und der Atomenlehrer Demokrit
 in ihren Gegensystemen thatsächlich dieselbe kritisirten und verbesserten. Die Methode dieser Kritik ist vor
 allem die fortgesetzte Entsagung in jenem erwähnten naturwissenschaftlichen Geiste, das Gesetz der
 Sparsamkeit, auf die Naturerklärung angewendet. Die Hypothese, die mit dem kleinsten Aufwande von
@@ -593,7 +593,7 @@ noch in großer
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Zahl, ein weltbildendes Spiel treiben läßt. So sehen wir
-denn Empedokles bemüht, den Überfluß an Hypothesen aus der Lehre des Anaxagoras zu
+denn Empedokles bemüht, den **Überfluß** an Hypothesen aus der Lehre des Anaxagoras zu
 beseitigen.
 
 Als erste nicht nothwendige Hypothese fällt die vom Anaxagorischen Νοῦς,
@@ -606,7 +606,7 @@ zu einem anderen und das Sich-Wegbewegen eines Gegenstandes von einem anderen zu
 ----------------------
 
 Wenn unser jetziges Werden ein Ausscheiden ist, wenn auch kein völliges, so fragt
-<er>: was hindert die völlige Ausscheidung? Also eine entgegenstrebende Kraft, das heißt eine
+&amp;lt;er&amp;gt;: was hindert die völlige Ausscheidung? Also eine entgegenstrebende Kraft, das heißt eine
 latente Bewegung der Anziehung.
 
 Sodann: um jenes Chaos zu erklären, muß auch schon bereits eine Macht thätig gewesen
@@ -622,7 +622,7 @@ wäre alles geschieden.
 Das ist das Thatsächliche: zwei Bewegungsarten. Diese erklärt der νοῦς nicht. Dagegen Liebe und Haß: daß diese bewegen, sehen wir doch gewiß, so gut als daß der
 νοῦς sich bewegt.
 
-Jetzt verändert sich die Auffassung des Urzustandes: es ist der seligste. Bei Anaxagoras war es das Chaos, vor dem architektonischen Werk, gleichsam der Steinhaufen
+Jetzt verändert sich die Auffassung des Urzustandes: es ist der **seligste**. Bei Anaxagoras war es das Chaos, vor dem architektonischen Werk, gleichsam der Steinhaufen
 des Bauplatzes.
 
 [23[32]](javascript:;)
@@ -631,8 +631,8 @@ des Bauplatzes.
 Empedokles hatte den Gedanken einer der Schwere entgegenwirkenden, durch den Umschwung entstehenden
 Tangentialkraft gefaßt (de coelo, I p. 284). Schopenhauer, Welt als Wille, II 390.
 
-Er hielt die Fortsetzung der Kreisbewegung für unmöglich bei Anaxagoras. Es gäbe einen
-Wirbel, d.h. den Gegensatz der geordneten Bewegung.
+Er hielt die Fortsetzung der Kreisbewegung für **unmöglich** bei Anaxagoras. Es gäbe einen
+**Wirbel**, d.h. den Gegensatz der geordneten Bewegung.
 
 Wären die Theilchen unendlich durch einander vermischt, so könnte man die Körper ohne Kraftanstrengung
 auseinanderbrechen sie wurden nicht zusammenhalten, sie wären wie Staub.
@@ -643,7 +643,7 @@ Es ist eine Molekularkraft, eine constitutive Kraft der Körper.
 [23[33]](javascript:;)
 ----------------------
 
-Empedocles.
+**Empedocles.**
 
   
 
@@ -673,7 +673,7 @@ die Zweckmäßigkeit. Seine größte That. Bei Anaxagoras ein Dualismus.
 [23[34]](javascript:;)
 ----------------------
 
-Die Symbolik der Geschlechtsliebe. Hier wie in der
+Die Symbolik der **Geschlechtsliebe**. Hier wie in der
 Platonischen
 
 *Erratum:*platonischen  
@@ -689,7 +689,7 @@ daß einmal größere Einheiten schon existirten
 
 : wäre diese größere Einheit
 hergestellt, dann würde diese wieder nach einer noch größeren streben. Die Überzeugung von der Einheit alles
-Lebendigen verbürgt, daß es einmal ein ungeheures Lebendiges gab, von dem wir Stücke
+Lebendigen verbürgt, daß es einmal ein **ungeheures Lebendiges** gab, von dem wir Stücke
 sind: das ist wohl der Sphairos selbst. Er ist die seligste Gottheit. Alles war nur durch Liebe verbunden,
 also höchst zweckmäßig. Diese ist zerrissen und zerspalten worden durch den Haß, in seine Elemente zerstückt
 und dadurch getödtet, des Lebens beraubt. Im Wirbel entstehen keine lebenden Einzelwesen. Endlich ist alles
@@ -698,14 +698,14 @@ Die Liebe, blind wie sie ist, wirft mit wüthender Hast wieder die Elemente an e
 wieder zum Leben bringt. Hier und da gelingt es. Es setzt sich fort. Ein Ahnungsgefühl in den belebten Wesen
 entsteht, daß sie noch höhere Vereinigungen erstreben müssen, als Heimat und Urzustand. Eros. Es ist ein
 furchtbares Verbrechen Leben zu tödten, denn damit strebt man zur Urentzweiung zurück. Einstmals soll alles
-wieder ein einziges Leben sein, der seligste Zustand.
+wieder ein **einziges Leben** sein, der seligste Zustand.
 
 Die pythagoreisch-orphische Lehre in naturwissenschaftlicher Umdeutung: Empedokles beherrscht beide
 Ausdrucksmittel mit Bewußtsein, darum ist er der erste Rhetor. Politische Ziele.
 
 Die Doppelnatur — das Agonale und das Liebende, Mitleidige.
 
-Versuch der hellenischen Gesammtreform.
+Versuch der **hellenischen Gesammtreform**.
 
   
 
@@ -717,18 +717,18 @@ Mensch.
 
 |  |  |
 | --- | --- |
-| Schluß: | das Denken der Griechen im tragischen Zeitalter  ist pessimistisch oder künstlerisch optimistisch. |
+| Schluß: | das Denken der Griechen im **tragischen Zeitalter**  ist **pessimistisch** oder **künstlerisch optimistisch**. |
 
 |  |  |
 | --- | --- |
-|  | Ihr Urtheil über das Leben besagt mehr.  Das Eine, Flucht vor dem Werden.  Aut Einheit aut künstlerisches Spiel.  Tiefes Mißtrauen gegen die Realität  niemand nimmt einen guten Gott, der alles optime gemacht, an. |
+|  | Ihr Urtheil über das **Leben** besagt mehr.  Das Eine, Flucht vor dem Werden.  Aut Einheit aut künstlerisches Spiel.  Tiefes Mißtrauen gegen die Realität  niemand nimmt einen guten Gott, der alles optime gemacht, an. |
 |  | Pythagoreer, religiöse Sekte.  Anaximander.  Empedokles. |
 |  | Eleaten. |
 | |  | | --- | |  | |  | |  | |  | |  | | Anaxagoras.  Heraklit.  Demokrit. Die Welt ohne moralische und aesthetische Bedeutung, Pessimismus des Zufalls. |
 
 |  |
 | --- |
-| Wenn man sie alle vor eine Tragödie stellte, so würden die drei ersten <sie als> Spiegel der Unseligkeit des Daseins erkennen, Parmenides als vergänglichen Schein, Heraklit und Anaxagoras als künstlerischen Bau und Abbild der Weltgesetze, Demokrit als Resultat von Maschinen.   Mit Sokrates beginnt der Optimismus, der nicht mehr künstlerische, mit Teleologie und dem Glauben an den guten Gott; der Glaube an den wissenden guten Menschen. Auflösung der Instinkte.  Sokrates bricht mit der bisherigen Wissenschaft und Kultur, er will zurück zur alten Bürgertugend und zum Staate.  Plato löst sich von dem Staate, als er merkt, daß er mit der neuen *Erratum:*neueren *lies:*neuen [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Kultur identisch geworden ist.  Der sokratische Skepticism *Erratum:*Skepticismus *lies:*Skepticism [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  ist Waffe gegen die bisherige Kultur und Wissenschaft. |
+| Wenn man sie alle vor eine Tragödie stellte, so würden die drei ersten &amp;lt;sie als&amp;gt; Spiegel der Unseligkeit des Daseins erkennen, Parmenides als vergänglichen Schein, Heraklit und Anaxagoras als künstlerischen Bau und Abbild der Weltgesetze, Demokrit als Resultat von Maschinen.   Mit Sokrates beginnt der **Optimismus**, der nicht mehr künstlerische, mit Teleologie und dem Glauben an den guten Gott; der Glaube an den wissenden guten Menschen. Auflösung der Instinkte.  Sokrates bricht mit der bisherigen **Wissenschaft** und **Kultur**, er will zurück zur alten Bürgertugend und zum Staate.  Plato löst sich von dem Staate, als er merkt, daß er mit der neuen *Erratum:*neueren *lies:*neuen [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Kultur identisch geworden ist.  Der sokratische Skepticism *Erratum:*Skepticismus *lies:*Skepticism [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  ist Waffe gegen die bisherige Kultur und Wissenschaft. |
 
 [23[36]](javascript:;)
 ----------------------
@@ -751,7 +751,7 @@ Antisthenes sagt: es ist königlich bei guten Handlungen böse Urtheile dulden.
 [23[39]](javascript:;)
 ----------------------
 
-Democrit.
+**Democrit.**
 
   
 
@@ -785,17 +785,17 @@ Demokrit und die Pythagoreer finden zusammen das Fundament der Naturwissenschaft
 
   
 
-Pythagoreer.
+**Pythagoreer.**
 
 [23[41]](javascript:;)
 ----------------------
 
 |  |  |
 | --- | --- |
-| (10) | Plan. Was ist ein Philosoph? Welche Beziehung hat ein Philosoph zur Kultur? Speziell zur tragischen Kultur? |
-| (20) | Vorbereitung. Wann verschwinden die Werke?  Die Quellen: a) für das Leben b) für die Dogmata. Die Chronologie. Bestätigt durch die Systeme. |
-| (100) | Haupttheil. Die Philosophen mit Stellen und Excursen. |
-| (20) | Schluss. Die Stellung der Philos<ophie> zur Kultur. |
+| (10) | **Plan.** Was ist ein Philosoph? Welche Beziehung hat ein Philosoph zur Kultur? Speziell zur tragischen Kultur? |
+| (20) | **Vorbereitung.** Wann verschwinden die Werke?  Die Quellen: a) für das Leben b) für die Dogmata. Die Chronologie. Bestätigt durch die Systeme. |
+| (100) | **Haupttheil.** Die Philosophen mit Stellen und Excursen. |
+| (20) | **Schluss.** Die Stellung der Philos&amp;lt;ophie&amp;gt; zur Kultur. |
 
 [23[42]](javascript:;)
 ----------------------
@@ -819,7 +819,7 @@ Begriffe sind Relationen, nicht Abstraktionen.
 |  |  |
 | --- | --- |
 | 1. | Metaphern beziehen sich auf Thätigkeiten. |
-| 2. | Bilden unter sich ein System: festes Grundgerippe — bilden Zahlen. |
+| 2. | Bilden unter sich ein System: festes Grundgerippe — bilden **Zahlen**. |
 | 3. | Der Kern der Dinge, das Essentielle drückt sich in der Sprache der Zahl aus. |
 | 4. | Worin ruht das Beliebige bei den Metaphern? |
 
@@ -828,17 +828,19 @@ Begriffe sind Relationen, nicht Abstraktionen.
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| Philosophie nicht für das Volk | | | |
-|  | also nicht Basis einer Kultur, | | |
-|  | also nur Werkzeug einer Kultur. | | |
+| Philosophie **nicht für das Volk** | | | |
+|  | also **nicht Basis einer Kultur**, | | |
+|  | also nur **Werkzeug einer Kultur**. | | |
 |  | a) | Gegen den Dogmatism *Erratum:*Dogmatismus *lies:*Dogmatism [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  der Wissenschaften | |
 |  | b) | gegen die Bilderverwirrung mythischer Religionen in der Natur | |
 |  | c) | gegen die ethische Verwirrung durch Religionen. | |
-| Diesem ihrem Zweck gemäß ist ihr Wesen | | | |
+| **Diesem ihrem Zweck gemäß ist ihr Wesen** | | | |
 |  | a) | 1. | überzeugt, von dem Anthropomorphischen, ist skeptisch |
 |  |  | 2. | hat Auswahl und Größe |
 |  |  | 3. | Einheitsvorstellung überfliegend |
 |  | b) | ist gesundes Ausdeuten und Einfachnehmen der Natur, ist Beweis. | |
 |  | c) | zerstört den Glauben an die Unverbrüchlichkeit solcher Gesetze. | |
 
-Ihre Hülflosigkeit ohne Kultur, an der Gegenwart geschildert.
+**Ihre Hülflosigkeit ohne Kultur**, an der Gegenwart geschildert.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

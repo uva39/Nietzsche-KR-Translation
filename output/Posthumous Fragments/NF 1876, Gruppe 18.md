@@ -13,7 +13,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 
 [18 = M I 1. September 1876]
 
-Die Pflugschar.
+**Die Pflugschar.**
 
 [18[1]](javascript:;)
 ---------------------
@@ -23,7 +23,7 @@ sicherlich der Arme und der Reiche, dein geneusst der Wolf und der Aar und durch
 
 Der Meier Helmbrecht.
 
-Wege zur geistigen Freiheit.
+**Wege zur geistigen Freiheit.**
 
 [18[2]](javascript:;)
 ---------------------
@@ -125,7 +125,7 @@ in Jedermann, auch in Freunden, Gönnern, Lehrern, die Gefahr eines tyrannischen
 sich in Acht zu nehmen, grosse Wohlthaten zu empfangen. Aber es wird keinen Freigeist geben, der nicht diese
 Gesinnung hätte.
 
-Menschliches und Allzumenschliches.
+**Menschliches und Allzumenschliches.**
 
 [18[13]](javascript:;)
 ----------------------
@@ -144,7 +144,7 @@ Diebe und Mörder sind zu Gunsten der Gebildeten und Reichen gemacht.
 [18[15]](javascript:;)
 ----------------------
 
-55. Es giebt viel mehr Behagen, als Unbehagen in der Welt. Practisch ist der Optimismus in der Herrschaft; — der theoretische Pessimismus entsteht aus der Betrachtung:
+55. Es giebt viel mehr Behagen, als Unbehagen in der Welt. Practisch ist der **Optimismus** in der Herrschaft; — der theoretische Pessimismus entsteht aus der Betrachtung:
 wie schlecht und absurd der Grund unseres Behagens ist; er wundert sich über die geringe Besonnenheit und
 Vernunft in diesem Behagen; er würde das fortwährende Unbehagen begreiflich finden.
 
@@ -202,11 +202,11 @@ gerade daran leiden, zu viele gemacht zu haben: es ist der Gipfel der modernen G
 [18[23]](javascript:;)
 ----------------------
 
-67. Die Philosophen zweiten Ranges zerfallen in Nebendenker und
-Gegendenker, das heisst in solche, welche zu einem vorhandenen Gebäude einen
+67. Die Philosophen zweiten Ranges zerfallen in **Nebendenker** und
+**Gegendenker**, das heisst in solche, welche zu einem vorhandenen Gebäude einen
 Seitenflügel entsprechend dem gegebenen Grundplane, ausführen (wozu die Tugend tüchtiger Baumeister
 ausreicht), und in solche, die in fortwährendem Widerstreben und Widersprechen so weit geführt werden, daß sie
-zuletzt einem vorhandenen System ein anderes entgegenstellen. Alle übrigen Philosophen sind Überdenker, Historiker dessen was gedacht ist, derer die gedacht haben: jene wenigen abgerechnet,
+zuletzt einem vorhandenen System ein anderes entgegenstellen. Alle übrigen Philosophen sind **Über**denker, Historiker dessen was gedacht ist, derer die gedacht haben: jene wenigen abgerechnet,
 welche für sich stehen, aus sich wachsen und allein „Denker“ genannt zu werden verdienen. Diese denken Tag und
 Nacht und merken es gar nicht mehr, wie die welche in einer Schmiede wohnen, nicht mehr den Lärm der Ambose
 hören: so geht es ihnen wie Newton (der einmal gefragt wurde, wie er nur zu seinen Entdeckungen gekommen sei,
@@ -239,14 +239,14 @@ verdirbt.
 ----------------------
 
 90. Fast jeder gute Schriftsteller schreibt nur Ein Buch. Alles Andere sind nur
-Vorreden, Vorversuche, Erklärungen, Nachträge dazu; ja mancher sehr gute Schriftsteller hat sein Buch nie geschrieben, zum Beispiel Lessing, dessen intellectuelle Bedeutsamkeit sich hoch über
+Vorreden, Vorversuche, Erklärungen, Nachträge dazu; ja mancher sehr gute Schriftsteller hat **sein** Buch nie geschrieben, zum Beispiel Lessing, dessen intellectuelle Bedeutsamkeit sich hoch über
 jede seiner Schriften, jeden seiner dichterischen Versuche erhebt.
 
 [18[28]](javascript:;)
 ----------------------
 
-91. Ich unterscheide grosse Schriftsteller, nämlich
-sprachbildende — solche, unter deren Behandlung die Sprache noch lebt oder wieder auflebt — und classische Schriftsteller. Letztere werden classisch in Hinsicht auf ihre Nachahmbarkeit
+91. Ich unterscheide **grosse** Schriftsteller, nämlich
+sprachbildende — solche, unter deren Behandlung die Sprache noch lebt oder wieder auflebt — und **classische** Schriftsteller. Letztere werden classisch in Hinsicht auf ihre Nachahmbarkeit
 und Vorbildlichkeit genannt, während die grossen Schriftsteller nicht nachzuahmen sind. Bei den classischen
 Schriftstellern ist die Sprache und das Wort todt; das Thier in der Muschel lebt nicht mehr, und so reihen sie
 Muschel an Muschel. Aber bei Goethe lebt es noch.
@@ -259,7 +259,7 @@ empfindet, während doch das völlige Schweigen des Willens als der eigentliche 
 wird? Es scheint vielmehr, dass der Wille gleichsam erst aufgepflügt werden muss, um den Saamen der Kunst in
 sich aufzunehmen.
 
-Das leichte Leben.
+**Das leichte Leben.**
 
 [18[30]](javascript:;)
 ----------------------
@@ -332,7 +332,7 @@ Existenz, und so wird der Mensch zuletzt bei allem, was er thut, sich voller Ung
 was er erreichen kann, wird sein: Mitleid mit sich zu haben; die Liebe und das Mitleid mit sich selber sind
 für die höchsten Stufen der Erschwerung des Lebens aufgespart, als die stärksten Erleichterungsmittel.
 
-Weib und Kind.
+**Weib und Kind.**
 
 [18[35]](javascript:;)
 ----------------------
@@ -417,7 +417,7 @@ Freund werden.
 Frauen, welche sich nicht viel aus ihren Söhnen machen, haben meistens Recht damit, geben aber zu verstehen,
 dass von einem solchen Vater kein besseres Kind zu erwarten gewesen sei: so zeigt sich ihre Eitelkeit.
 
-Über die Griechen.
+**Über die Griechen.**
 
 [18[46]](javascript:;)
 ----------------------
@@ -450,7 +450,7 @@ Philosophie des Hasses, die noch nicht geschrieben ist.
 
 Fortsetzung von
 
-„Menschliches und Allzumenschliches.“
+**„Menschliches und Allzumenschliches.“**
 
 [18[49]](javascript:;)
 ----------------------
@@ -482,9 +482,9 @@ Auge der Justiz unerkennbar zu sein und desshalb erreicht auch ihr Arm es nicht.
 ----------------------
 
 157. Der Sinn der ältesten Strafen ist nicht: vor dem Vergehen abzuschrecken, sondern
-erstens: ein Versuch, den Schaden wieder gut zu machen, zum Beispiel durch ein Bussgeld
-an die Verwandten des Erschlagenen; zweitens gehören Maassregeln hieher, welche das
-Gemeinwesen trifft, um sich als Ganzes vor dem Zorn einer beleidigten Gottheit zu
+**erstens**: ein Versuch, den Schaden wieder gut zu machen, zum Beispiel durch ein Bussgeld
+an die Verwandten des Erschlagenen; **zweitens** gehören Maassregeln hieher, welche das
+Gemeinwesen trifft, um sich als **Ganzes** vor dem Zorn einer beleidigten Gottheit zu
 sichern, desshalb muss der Mörder bei Homer aus seiner Heimath flüchtig werden; es liegt kein sittlicher, wohl
 aber ein religiöser Makel auf ihm: er gefährdet das Gemeinwesen, zu dem er gehört. Diese Gattung von
 Maassregeln ist bei uns überflüssig.
@@ -567,3 +567,5 @@ verbunden und macht dieses vielleicht immer unreinlicher.
 Hohes und Tiefes hinweg und bringt es sich nah. Diess Buch ist für den Guten und den Bösen, für den Niedrigen
 und den Mächtigen. Der Böse, der es liest, wird besser werden, der Gute schlechter, der Geringe mächtiger, der
 Mächtige geringer.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

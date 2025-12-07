@@ -21,7 +21,7 @@ Metteyya
 [2[2]](javascript:;)
 --------------------
 
-Carus, vergl<eichende> Psychologie
+Carus, vergl&amp;lt;eichende&amp;gt; Psychologie
 
 [2[3]](javascript:;)
 --------------------
@@ -35,16 +35,16 @@ Wilbrandt 18761
 [2[4]](javascript:;)
 --------------------
 
-Die Moral der Ausgewählten oder die freie Moral.
+**Die Moral der Ausgewählten oder die freie Moral.**
 
 Wir als die Erhalter des Lebens.
 
-Unvermeidlich entstehend die Verachtung und der Haß gegen das Leben. Buddhismus. Die
-europäische Thatkraft wird zum Massen-Selbstmord treiben. Dazu: meine Theorie der
+**Unvermeidlich** entstehend die Verachtung und der Haß gegen das Leben. Buddhismus. Die
+europäische Thatkraft wird zum Massen-Selbstmord treiben. Dazu: **meine** Theorie der
 Wiederkunft als furchtbarste Beschwerung.
 
-Wenn wir nicht uns selber erhalten, geht Alles zu Ende. Uns selber durch eine
-Organisation.
+Wenn wir nicht uns selber erhalten, geht Alles zu Ende. **Uns selber durch eine
+Organisation.**
 
 Die Freunde des Lebens.
 
@@ -52,10 +52,10 @@ Nihilismus als kleines Vorspiel.
 
 Unmöglichkeit der Philosophie.
 
-Wie der Buddhismus unproduktiv und gut macht, so wird auch Europa unter seinem Einfluß:
+Wie der Buddhismus **unproduktiv und gut** macht, so wird auch Europa unter seinem Einfluß:
 müde!
 
-Die Guten, das ist die Ermüdung.
+Die **Guten**, das ist die Ermüdung.
 
 Die Versöhnung, das ist die Ermüdung.
 
@@ -70,19 +70,19 @@ Gegen die Idealisten.
 
 Das, was kommt.
 
-Das eigentliche Streben ins Nichts.
+Das eigentliche Streben ins **Nichts**.
 
-Kriege über das Princip von Besser-Nichtsein-als-Sein.
+**Kriege** über das Princip von Besser-Nichtsein-als-Sein.
 
 (A)
 
-Erste Consequenz der Moral: das Leben ist zu verneinen.
+Erste Consequenz der Moral: **das Leben ist zu verneinen**.
 
 Letzte Consequenz der Moral = die Moral selber ist zu verneinen.
 
 (B)
 
-Also: fällt die erste Consequenz dahin
+**Also:** fällt die erste Consequenz dahin
 
 Befreiung der Selbstsucht,
 
@@ -98,20 +98,20 @@ Rückgewinnung der Religion.
 
 (C)
 
-Durch alle diese Befreiung wächst der Reiz des Lebens. Seine innerste Verneinung, die
-moralische, ist beseitigt. — Damit Anfang vom Untergange. Die Nothwendigkeit der
-Barbarei, wohin z.B. auch die Religion gehört. Die Menschheit muß in Cyklen leben, einzige Dauerform. Nicht die Cultur möglichst lange, sondern möglichst kurz und hoch. — Wir im Mittage: Epoche.
+Durch alle diese Befreiung wächst der **Reiz** des Lebens. Seine innerste Verneinung, die
+moralische, ist **beseitigt**. — Damit Anfang vom Untergange. Die Nothwendigkeit der
+Barbarei, wohin z.B. auch die Religion gehört. Die Menschheit muß in **Cyklen** leben, **einzige** Dauerform. Nicht die Cultur möglichst lange, sondern möglichst kurz und hoch. — Wir**im**Mittage**:****Epoche.**
 
 (D)
 
-Was bestimmt die Höhe der Höhen, in der Geschichte der Cultur? Der Augenblick, wo der
+Was bestimmt die **Höhe der Höhen**, in der Geschichte der Cultur? Der Augenblick, wo der
 Reiz am größten ist. Gemessen daran, daß der mächtigste Gedanke ertragen, ja geliebt wird.
 
 [2[6]](javascript:;)
 --------------------
 
-Das, was kommt.  
-Eine Prophetie.
+**Das, was kommt.  
+Eine Prophetie.**
 
 |  |  |
 | --- | --- |
@@ -138,7 +138,7 @@ verlangen wird — das stolze Herz — ich weiß es nicht.
 [2[8]](javascript:;)
 --------------------
 
-M<enschen> die nicht nöthig haben viel zu lügen, thun sich etwas darauf zu Gute, daß sie wenig
+M&amp;lt;enschen&amp;gt; die nicht nöthig haben viel zu lügen, thun sich etwas darauf zu Gute, daß sie wenig
 lügen.
 
 [2[9]](javascript:;)
@@ -147,7 +147,7 @@ lügen.
 Und kündet mir doch ihr Thiere: Steht schon die Sonne im Mittag? Ringelt sich schon die Schlange welche
 Ewigkeit heißt? Blind wird Zarathustra.
 
-Mir gereicht Jegliches immer zum Tode. Wer will mein Schicksal sein? Ich liebe jedes
+Mir gereicht Jegliches immer zum **Tode**. Wer will mein Schicksal sein? Ich liebe jedes
 Schicksal. Selig wird Zarathustra!
 
   
@@ -157,14 +157,14 @@ Nichts weiß mehr Zarathustra, nichts erräth mehr Zarathustra.
 [2[10]](javascript:;)
 ---------------------
 
-Immer zurückgeben: nichts geschenkt annehmen, außer als Auszeichnung und Zeichen, daß
-wir die Liebenden anderer Personen an solchen erkennen und durch unsere Liebe ausgleichen.
+Immer zurückgeben: nichts geschenkt annehmen, außer als **Auszeichnung** und Zeichen, daß
+wir die Liebenden anderer Personen an solchen **erkennen** und durch unsere**Liebe** ausgleichen.
 
 [2[11]](javascript:;)
 ---------------------
 
-Den Menschen die Moral nehmen weil sie davon so schlechten Gebrauch
-machen: und ihnen harte Gefühle auflegen — „du sollst“— soldatisch
+Den Menschen die **Moral nehmen** weil sie davon **so schlechten Gebrauch**
+machen: und ihnen harte **Gefühle auflegen** — „du sollst“— **soldatisch**
 —
 
 [2[12]](javascript:;)
@@ -187,12 +187,12 @@ Verlangen nach einer vergangenen Cultur und Gesellschaft.
 ---------------------
 
 Gegen einen unabhängigen Menschen, welcher es verschmäht, Leithammel zu sein, nährt der moralische Mensch
-einen Verdacht, als ob er ein schweif<endes> Raubthier sei.
+einen Verdacht, als ob er ein schweif&amp;lt;endes&amp;gt; Raubthier sei.
 
 [2[16]](javascript:;)
 ---------------------
 
-Das Eisen haßt den Magneten, wenn der M<agnet> das Eisen nicht ganz an sich ziehen kann.
+Das Eisen haßt den Magneten, wenn der M&amp;lt;agnet&amp;gt; das Eisen nicht ganz an sich ziehen kann.
 
 [2[17]](javascript:;)
 ---------------------
@@ -296,12 +296,12 @@ Selbstmord
 [2[36]](javascript:;)
 ---------------------
 
-Gerechtigkeit nur gegen Dinge möglich.
+**Gerechtigkeit** nur gegen Dinge **möglich**.
 
 [2[37]](javascript:;)
 ---------------------
 
-Unsere Wirkungen als nothwendige Täuschungen.
+Unsere Wirkungen als **noth**wendige **Täuschungen**.
 
 [2[38]](javascript:;)
 ---------------------
@@ -311,21 +311,21 @@ Getheiltes Unrecht ist halbes Recht.
 [2[39]](javascript:;)
 ---------------------
 
-p. 200 Mensch<liches>, Allz<umenschliches>
+p. 200 Mensch&amp;lt;liches&amp;gt;, Allz&amp;lt;umenschliches&amp;gt;
 
 p 77 Morgenröthe
 
-167,8 Fr<öhliche> Wissenschaft
+167,8 Fr&amp;lt;öhliche&amp;gt; Wissenschaft
 
 [2[40]](javascript:;)
 ---------------------
 
-Furchtbare Consequenz, wenn man die Menschen nur um Gottes Willen liebt.
+Furchtbare Consequenz, wenn man die Menschen **nur um Gottes Willen** liebt.
 
 [2[41]](javascript:;)
 ---------------------
 
-„Aber wie konntest du so handeln! sagte ein Freund zu einem sehr klugen M<enschen> — es war
+„Aber wie konntest du so handeln! sagte ein Freund zu einem sehr klugen M&amp;lt;enschen&amp;gt; — es war
 eine Dummheit.“ Es ist mir auch schwer genug geworden, entgegnete dieser.
 
 [2[42]](javascript:;)
@@ -337,9 +337,9 @@ Erkenntniß ist durchaus nicht von der Moralität aus zu ersteigen.
 [2[43]](javascript:;)
 ---------------------
 
-„Das Leben um der Erkenntniß willen“, das auf dem Kopfe stehen-wollen ist vielleicht
+„Das Leben um der Erkenntniß willen“, das auf dem Kopfe **stehen**-wollen ist vielleicht
 etwas Tolles — aber wenn es ein Zeichen der Freude ist, so mag es hingehen, es sieht da nicht übel aus ein
-Ele<phant, welcher versucht auf seinem Kopfe zu stehen.>
+Ele&amp;lt;phant, welcher versucht auf seinem Kopfe zu stehen.&amp;gt;
 
 [2[44]](javascript:;)
 ---------------------
@@ -371,7 +371,7 @@ Ich verwundere mich mehr über einen Tadel als über ein Lob; ich verachte das L
 [2[49]](javascript:;)
 ---------------------
 
-Die moral<ische> Entrüstung ist die perfideste Art der Rache.
+Die moral&amp;lt;ische&amp;gt; Entrüstung ist die perfideste Art der Rache.
 
 [2[50]](javascript:;)
 ---------------------
@@ -381,3 +381,5 @@ noch mitleidige Gesichter machen, — — —
 
 Mitleid mag etwas für Götter sein, aber einem Helden geziemt es fröhlich zu sein über der Trübsal um ihn
 herum.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [8[1]](javascript:;)
 --------------------
 
-Bücher für 8 Jahre.
+**Bücher für 8 Jahre.**
 
   
 
@@ -33,11 +33,11 @@ Plato.
 [8[2]](javascript:;)
 --------------------
 
-Gegen die lyrische Poesie bei den Deutschen. Da lese ich, daß gar Mörike der größte
-deutsche Lyriker sein soll! Ist es nicht ein Verbrechen dumm zu sein, wenn man hier also Goethe nicht als den größten empfindet oder empfinden will? — Aber was muß da nur in den Köpfen
+Gegen die lyrische Poesie bei den Deutschen. Da lese ich, daß gar **Mörike** der größte
+deutsche Lyriker sein soll! Ist es nicht ein Verbrechen dumm zu sein, wenn man hier also Goethe **nicht** als den größten empfindet oder empfinden will? — Aber was muß da nur in den Köpfen
 spuken, welcher Begriff von Lyrik! Ich sah mir darauf diesen Mörike wieder an und fand ihn, mit Ausnahme von
 4—5 Sachen in der deutschen Volkslied-Manier, ganz schwach und undichterisch. Vor allem fehlt es ganz an
-Klarheit der Anschauung. Und was die Leute an ihm musikalisch nennen, ist auch nicht viel: und zeigt wie wenig die Leute von der Musik wissen: die mehr ist als so ein
+Klarheit der Anschauung. Und was die Leute an ihm musikalisch nennen, ist auch nicht viel: und zeigt **wie wenig** die Leute von der Musik wissen: die **mehr** ist als so ein
 süßliches-weichliches Schwimm-schwimm und Kling-kling! — Gedanken nun hat er gar nicht: und ich halte nur noch
 Dichter aus, die unter anderm auch Gedanken haben, wie Pindar und Leopardi. Aber was kann auf die Dauer einem
 diese Knaben-Unbestimmtheit des Gefühls sein, wie sie im deutschen Volkslied sich ausdrückt! Da lobe ich mir
@@ -48,7 +48,7 @@ selbst noch eher Horaz, ob der schon recht bestimmt ist und die Wörtchen und Ge
 
 |  |  |
 | --- | --- |
-| Der Reihe nach:   Dühring Werth des Lebens.  Dühring Cursus der Philosophie.  Reis Mathematik.  Physik usw.  Naturwissenschaftliche Bibliothek.  National-Ökonomie.  Gesundheitslehre.  Geschichte.   Erste Stunde des Tags dem Lernen gewidmet.  Dann Ausarbeitung des Collegs. | |
+| **Der Reihe nach:**   Dühring Werth des Lebens.  Dühring Cursus der Philosophie.  Reis Mathematik.  Physik usw.  Naturwissenschaftliche Bibliothek.  National-Ökonomie.  Gesundheitslehre.  Geschichte.   Erste Stunde des Tags dem Lernen gewidmet.  Dann Ausarbeitung des Collegs. | |
 | Im Seminar | Prometheus? Choephoren? Alcestis? |
 
 [8[4]](javascript:;)
@@ -78,7 +78,7 @@ Aeschylus“ „über Rhythmus“ „Hesiods und Homer’s Wettkampf“ „Diado
 [8[5]](javascript:;)
 --------------------
 
-Goethe ist vor Allem ein Epiker, viel mehr als etwa Lyriker. Ganz falsch, in ihm den größten Lyriker zu sehen.
+Goethe ist vor Allem ein **Epiker**, viel mehr als etwa Lyriker. Ganz falsch, in ihm den **größten** Lyriker zu sehen.
 
 [8[6]](javascript:;)
 --------------------
@@ -93,4 +93,6 @@ Eins der schädlichsten Bücher ist der Don Quixote.
 [8[8]](javascript:;)
 --------------------
 
-Es bedarf keineswegs des „schönen Wetters“, damit die Natur schön erscheine. Manche Natur bedarf sogar dazu des schlechten.
+Es bedarf keineswegs des „schönen Wetters“, damit die Natur schön erscheine. Manche Natur **bedarf** sogar dazu des schlechten.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

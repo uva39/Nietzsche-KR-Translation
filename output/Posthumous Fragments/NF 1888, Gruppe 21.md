@@ -16,32 +16,32 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [21[1]](javascript:;)
 ---------------------
 
-Teichm<üller>
+Teichm&amp;lt;üller&amp;gt;
 
-*Erratum:*Teich<müller>  
-*lies:*Teichm<üller>  
+*Erratum:*Teich&amp;lt;müller&amp;gt;  
+*lies:*Teichm&amp;lt;üller&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Scept<iques> gr<ecs>
+Scept&amp;lt;iques&amp;gt; gr&amp;lt;ecs&amp;gt;
 
-*Erratum:*Scep<tiques> gr<ecs>  
-*lies:*Scept<iques> gr<ecs>  
+*Erratum:*Scep&amp;lt;tiques&amp;gt; gr&amp;lt;ecs&amp;gt;  
+*lies:*Scept&amp;lt;iques&amp;gt; gr&amp;lt;ecs&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 Spir
 
-A<ugust> Müller, der Islam
+A&amp;lt;ugust&amp;gt; Müller, der Islam
 
 [21[2]](javascript:;)
 ---------------------
 
-Abends ins Café
+**Abends** ins Café
 
 *Erratum:*Cafè  
 *lies:*Café  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Livorno
+ **Livorno**
 
 3 — 5 ins Café
 
@@ -49,89 +49,89 @@ Abends ins Café
 *lies:*Café  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Florio
+ **Florio**
 
   
 
-Nicht zu Roma
+**Nicht** zu Roma
 
-nicht zu Löscher
-
-  
-
-Nicht Brille in der Straße aufsetzen!
+**nicht** zu Löscher
 
   
 
-keine Bücher kaufen!
+**Nicht** Brille in der Straße aufsetzen!
 
-nicht in die Menge gehn!
+  
 
-Abends durch Garten V<alentino> bis Schloß, dann
-wieder hinein bis Ende piazza
-Vitt<orio Emanuele I> und ins Café
+**keine** Bücher kaufen!
 
-*Erratum:*Cafè  
-*lies:*Café  
+**nicht** in die Menge gehn!
+
+Abends durch **Garten** V&amp;lt;alentino&amp;gt; bis **Schloß**, dann
+wieder hinein bis Ende **piazza**
+**Vitt**&amp;lt;orio Emanuele I&amp;gt; und ins **Café**
+
+*Erratum:***Cafè**  
+*lies:***Café**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Livorno
+ **Livorno**
 
   
 
-im Theater mit Gall<eria> num<erata>
+im Theater mit **Gall**&amp;lt;eria&amp;gt; **num**&amp;lt;erata&amp;gt;
 probiren!
 
 [21[3]](javascript:;)
 ---------------------
 
-Cap. über Glauben
+**Cap.** über Glauben
 
-Cap. überPaulus
+**Cap.** überPaulus
 
-die Mittel, krank
+die Mittel, **krank**
 
 *Erratum:*krank  
-*lies:*krank  
+*lies:***krank**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  zu machen
 
-die Mittel, verrückt zu machen
+die Mittel, **verrückt** zu machen
 
 [21[4]](javascript:;)
 ---------------------
 
-keine Briefe schreiben!
+**keine** Briefe schreiben!
 
-keine Bücher lesen!
+**keine** Bücher lesen!
 
-ins Café
+ins **Café**
 
-*Erratum:*Cafè  
-*lies:*Café  
+*Erratum:***Cafè**  
+*lies:***Café**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  etwas mitnehmen zum Lesen!
 
-Notizbuch!
+**Notizbuch!**
 
 [21[5]](javascript:;)
 ---------------------
 
-Wasser trinken.
+**Wasser** trinken.
 
-Nie
+**Nie**
 
 *Erratum:*Nie  
-*lies:*Nie  
+*lies:***Nie**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  spirituosa.
 
-von Zeit zu Zeit (Rhaba<r>ber)
+von Zeit zu Zeit (Rhaba&amp;lt;r&amp;gt;ber)
 
-Morgens Ein Glas Thee: kalt werden lassen!
+Morgens Ein Glas Thee: **kalt** werden lassen!
 
 nachts etwas wärmen
 
@@ -141,29 +141,29 @@ nachts etwas wärmen
 
 !
 
-im Theat<er> galler<ia>
+im Theat&amp;lt;er&amp;gt; galler&amp;lt;ia&amp;gt;
 
-*Erratum:*Theater galér<ie>  
-*lies:*Theat<er> galler<ia>  
+*Erratum:*Theater galér&amp;lt;ie&amp;gt;  
+*lies:*Theat&amp;lt;er&amp;gt; galler&amp;lt;ia&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- posto numer<ato>
+ posto numer&amp;lt;ato&amp;gt;
 
-nicht Brille auf Straße
+**nicht** Brille auf Straße
 
-nicht in die Menge gehn!
+**nicht** in die Menge gehn!
 
-nicht zu Löscher!
+**nicht** zu Löscher!
 
 *Erratum:*Löscher  
 *lies:*Löscher!  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-nicht zu Roma!
+**nicht** zu Roma!
 
-keine Briefe schreiben
+**keine** Briefe schreiben
 
-Abends warme Kleider!
+**Abends** warme Kleider!
 
 [21[6]](javascript:;)
 ---------------------
@@ -181,8 +181,8 @@ unterscheidet eigentlich einen Juden und
 *lies:*und  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- einem Antisemiten: der Jude weiß, daß er lügt,
-wenn er lügt: der Antisemit weiß nicht, daß er immer lügt.
+ einem Antisemiten: der Jude weiß, **daß** er lügt,
+**wenn** er lügt: der Antisemit weiß nicht, daß er immer lügt.
 
 *Erratum:*lügt —  
 *lies:*lügt.  
@@ -192,9 +192,9 @@ wenn er lügt: der Antisemit weiß nicht, daß er immer lügt.
 ---------------------
 
 Man sieht heute nicht selten junge Männer achtbarer Herkunft in durchaus zweideutigen Bewegungen
-verschwinden: sie haben lange ihrem Leben keinen Sinn zu geben gewußt, — irgend ein Sinn
+verschwinden: sie haben lange ihrem Leben keinen Sinn zu geben gewußt, — **irgend ein** Sinn
 wird schließlich bei ihnen ein fast tyrannisches Bedürfniß. Zuletzt entscheidet der Zufall: sie verfallen
-einer Partei, die einen „Sinn“ hat, gegen den im Grunde nicht nur ihr Geschmack, sondern ihr Geruch pro<te>stirt, —
+einer Partei, die einen „Sinn“ hat, gegen den im Grunde nicht nur ihr Geschmack, sondern ihr **Geruch** pro&amp;lt;te&amp;gt;stirt, —
 
 gegen die im Grunde nicht bloß der Geschmack sondern der Geruch protestirt, die Antisemiten zum Beispiel:
 bloß weil die Antisemiten ein Ziel haben, das handgreifbar
@@ -203,72 +203,72 @@ bloß weil die Antisemiten ein Ziel haben, das handgreifbar
 *lies:*handgreifbar  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- bis zur Unverschämtheit ist das jüdische Geld…
+ bis zur Unverschämtheit ist **das** jüdische **Geld…**
 
-*Erratum:*Geld  
-*lies:*Geld…  
+*Erratum:***Geld**  
+*lies:***Geld…**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 ihrem Leben keinen Sinn zu geben wissen und die endlich einer Partei verfallen, die einen Sinn hat, den
-Antisemiten zum B<eispiel>
+Antisemiten zum B&amp;lt;eispiel&amp;gt;
 
 *Erratum:*Beispiel  
-*lies:*B<eispiel>  
+*lies:*B&amp;lt;eispiel&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-, deren Ziel handgreiflich bis zur Unverschämth<eit>
+, deren Ziel handgreiflich bis zur Unverschämth&amp;lt;eit&amp;gt;
 
 *Erratum:*Unverschämtheit  
-*lies:*Unverschämth<eit>  
+*lies:*Unverschämth&amp;lt;eit&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- ist: das jüdische
-Geld
+ ist: **das jüdische
+Geld**
 
-sie werden zum Beisp<iel> A<ntisemiten>
+sie werden zum Beisp&amp;lt;iel&amp;gt; A&amp;lt;ntisemiten&amp;gt;
 
 *Erratum:*Beispiel Antisemiten  
-*lies:*Beisp<iel> A<ntisemiten>  
+*lies:*Beisp&amp;lt;iel&amp;gt; A&amp;lt;ntisemiten&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-, bloß weil die A<ntisemiten>
+, bloß weil die A&amp;lt;ntisemiten&amp;gt;
 
 *Erratum:*Antisemiten  
-*lies:*A<ntisemiten>  
+*lies:*A&amp;lt;ntisemiten&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- ein Ziel haben, das handg<reiflich>
+ ein Ziel haben, das handg&amp;lt;reiflich&amp;gt;
 
 *Erratum:*handgreiflich  
-*lies:*handg<reiflich>  
+*lies:*handg&amp;lt;reiflich&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  bis zur
-Unversch<ämtheit>
+Unversch&amp;lt;ämtheit&amp;gt;
 
 *Erratum:*Unverschämtheit  
-*lies:*Unversch<ämtheit>  
+*lies:*Unversch&amp;lt;ämtheit&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- ist — das
+ ist — **das**
 
 *Erratum:*das  
-*lies:*das  
+*lies:***das**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- jüdische Geld..
+ **jüdische** **Geld..**
 
-*Erratum:*Geld  
-*lies:*Geld..  
+*Erratum:***Geld**  
+*lies:***Geld..**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Definition der
+**Definition der
 
 *Erratum:*des  
 *lies:*der  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Antisemiten: Neid, ressentiment, ohnmächtige Wuth als Leitmotiv im Instinkt: der Anspruch des „Auserwählten“; die vollkommene moralistische
+ Antisemiten:** Neid, ressentiment, ohnmächtige Wuth als **Leitmotiv** im Instinkt: der Anspruch des „Auserwählten“; die vollkommene moralistische
 Selbstverlogenheit —,
 
 *Erratum:*Selbst-Verlogenheit —  
@@ -293,7 +293,7 @@ Selbstverlogenheit —,
 *lies:*aber  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- das typische Zeichen: sie merken nicht einmal wem sie damit zum
+ das **typische** Zeichen: sie merken nicht einmal **wem** sie damit zum
 Verwechseln ähnlich sehn? ein Antisemit ist ein „neidischer“
 
 *Erratum:*neidischer  
@@ -311,16 +311,16 @@ Ich wage noch ein proprium meiner Natur
 *lies:*meiner Natur  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- anzudeuten, zumal es beinahe das proprium ist.
+ anzudeuten, zumal es beinahe **das** proprium ist.
 Ich habe Etwas, das ich meine inneren Nüstern nenne. Bei jeder Berührung mit Menschen ist das Erste, was mir
 sich verräth, der Grad von innerer Sauberkeit [— — —] — ich rieche gerade die „schönen Seelen“ als besonders
 unreinlich. Wie Jemand zu sich steht, oder wie sich Jemand
 
-*Erratum:*ob er sich sel<ber>  
+*Erratum:*ob er sich sel&amp;lt;ber&amp;gt;  
 *lies:*oder wie sich Jemand  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Etwas vor<ma>cht, ob er
+ Etwas vor&amp;lt;ma&amp;gt;cht, ob er
 darauf hält
 
 *Erratum:*daraufhält  
@@ -333,13 +333,13 @@ darauf hält
 *lies:*sich Jemand  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- erträgt oder ein „Ideal“
-nöthig <hat>… Der Idealist riecht mir schlecht…
+ **erträgt** oder ein „Ideal“
+nöthig &amp;lt;hat&amp;gt;… Der Idealist riecht mir schlecht…
 
   
 
 Ich möchte wagen dürfen, den Namen eines Gelehrten jüdischer Abkunft zu nennen, der mir durch eine Instinkt
-gewordene vornehme Kühle und Klarheit gegen sich jeder Zeit ein tiefes Gefühl von Schönheit, von Reinlichkeit in meinem Sinn gegeben hat: er verglich
+gewordene vornehme Kühle und Klarheit gegen sich jeder Zeit ein tiefes Gefühl von Schönheit, von **Reinlichkeit** in meinem Sinn gegeben hat: er verglich
 
 *Erratum:*vergaß  
 *lies:*verglich  
@@ -352,10 +352,10 @@ kein
 *lies:*nie ein  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Anderer, u<nd> verbarg
+ Anderer, u&amp;lt;nd&amp;gt; verbarg
 
 *Erratum:*er verlor  
-*lies:*u<nd> verbarg  
+*lies:*u&amp;lt;nd&amp;gt; verbarg  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  sich weder vor Zeugen noch ohne Zeugen. Dazu gehört nicht nur eine vollkommene
@@ -378,10 +378,10 @@ Eindruck von Gesellschaft oder Beruf
 *lies:*verändern  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-. Es ist ebenso ein Zeichen der Stärke wie die sog<enannte>
+. Es ist ebenso ein Zeichen der Stärke wie die sog&amp;lt;enannte&amp;gt;
 
 *Erratum:*wie  
-*lies:*wie die sog<enannte>  
+*lies:*wie die sog&amp;lt;enannte&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  —
@@ -395,19 +395,21 @@ Den Gegensatz zu den
 *lies:*den  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- geschilderten reinlichen Typen
+ geschilderten **reinlichen** Typen
 
 *Erratum:*Typus  
 *lies:*Typen  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  geben mir im Durchschnitt fast alle
-Deutschen, die ich kenne; im Besonderen die Herren Antisemiten, die ich als [—] par excell<ence>
+Deutschen, die ich kenne; im Besonderen die Herren Antisemiten, die ich als [—] par excell&amp;lt;ence&amp;gt;
 
 *Erratum:*excellence  
-*lies:*excell<ence>  
+*lies:*excell&amp;lt;ence&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  empfinde.
 Schlechte Instinkte, ein absurder Ehrgeiz, die Eitelkeit, [— — —] und dabei die Attitüde der „höheren Werthe“,
 des „Idealismus“…
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

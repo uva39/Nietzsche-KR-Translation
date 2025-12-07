@@ -16,8 +16,10 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [26[1]](javascript:;)
 ---------------------
 
-Verkleinerungssucht als nützlich. Nicht wenige Menschen haben, um
+**Verkleinerungssucht als nützlich.** Nicht wenige Menschen haben, um
 ihre Selbstachtung und eine gewisse Tüchtigkeit im Handeln aufrecht zu erhalten, durchaus nöthig, alle ihnen
 bekannten Menschen in ihrer Vorstellung herabzusetzen und zu verkleinern. Indem wir alle den Vortheil jener
 Tüchtigkeit haben, müssen wir das nothwendige Werkzeug dazu, den Neid und die Verkleinerungssucht, wohl oder
 übel gutheissen.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

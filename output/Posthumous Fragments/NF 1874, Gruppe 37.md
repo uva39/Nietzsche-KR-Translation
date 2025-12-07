@@ -16,89 +16,89 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [37[1]](javascript:;)
 ---------------------
 
-Abarten degenerare (Sohn vom Vater)
+**Abarten** degenerare (Sohn vom Vater)
 
-abätzen (die Weide) depascere
+**abätzen** (die Weide) depascere
 
-abbesolden
+**abbesolden**
 
-eine Sache zu grün abbrechen = übereilen
+eine Sache zu grün **abbrechen** = übereilen
 
-er bricht sich nichts ab = versagt sich
+er **bricht** sich nichts **ab** = versagt sich
 nichts
 
-die Zeit wird den Aberglauben schon abbringen
+die Zeit wird den Aberglauben schon **abbringen**
 
-abbrüchig (Dat.) = nachtheilig
+**abbrüchig** (Dat.) = nachtheilig
 
-Licht abdäuben (dämpfen)
+Licht **abdäuben** (dämpfen)
 
-davon lässt sich nichts abdingen
+davon lässt sich nichts **abdingen**
 
-alles, was man uns abdringt
+alles, was man uns **abdringt**
 
-Aberglauben und Abdünkel
+Aberglauben und **Abdünkel**
 
-einem etwas abeilen (eilends wegnehmen)
+einem etwas **abeilen** (eilends wegnehmen)
 
-es gehet gegen den Abend
+es gehet **gegen den Abend**
 
-auf wahrscheinliche Vermuthungen ein Abenteuer wagen
+auf wahrscheinliche Vermuthungen ein **Abenteuer** wagen
 
-abenteuernd
+**abenteuernd**
 
-euer ganzes aberweises Jahrhundert
+euer ganzes **aberweises** Jahrhundert
 
-in Abfall und Verachtung kommen
+in **Abfall** und Verachtung kommen
 
-die Regel muss einen Abfall leiden
+die Regel muss einen **Abfall** leiden
 
-nach ihm abgeformt
+nach ihm **abgeformt**
 
-abgeführte und arglistige Köpfe
+**abgeführte** und arglistige Köpfe
 
-Fehl, Abgang und Gebrechen
+Fehl, **Abgang** und Gebrechen
 
-abgängige Kleider (abgenutzt)
+**abgängige** Kleider (abgenutzt)
 
-er gab einen Begleiter ab
+er **gab** einen Begleiter **ab**
 
-das Feuer abgehen lassen
+das Feuer **abgehen** lassen
 
-uns, denen nichts abgeht
+uns, denen nichts **abgeht**
 
-abgelebte Tage
+**abgelebte** Tage
 
-unser abgesagtester Feind
+unser **abgesagtester** Feind
 
-dir will ich leicht abgewinnen mit —
+dir will ich leicht **abgewinnen** mit —
 
-zerlumpt die Segel, Rippen abgewittert
+zerlumpt die Segel, Rippen **abgewittert**
 
-er gewöhnte ihn von den Ausschweifungen ab
+er **gewöhnte** ihn von den Ausschweifungen **ab**
 
-da wird ein Todter geschwind noch abgegossen
+da wird ein Todter geschwind noch **abgegossen**
 
-Abglimmen des Lichtes bei heiteren Abenden
+**Abglimmen** des Lichtes bei heiteren Abenden
 
-das Glück war mir abgünstig
+das Glück war mir **abgünstig**
 
-dass er ihnen nichts abhaben konnte
+dass er ihnen nichts **abhaben** konnte
 
-Spiess abhag abziehn = die Belagerung aufgeben
+**Spiess abhag abziehn** = die Belagerung aufgeben
 
-er hält gar nichts ab = aus
+**er hält gar nichts ab** = aus
 
-ich kam mir selbst abhanden
+ich kam mir selbst **abhanden**
 
-ich hange ganz von ihrem Willen ab
+ich **hange** ganz von ihrem Willen ab
 
-die Natur macht den Menschen abhängig zur Erde, das Gemüth wie eine
+die Natur macht den Menschen **abhängig zur Erde**, das Gemüth wie eine
 schwere Bleiwage nach der Eitelkeit abhängig
 
-bei abgehellter Luft
+bei **abgehellter** Luft
 
-helfet mir der
+**helfet** mir der
 
 *Erratum:*das  
 *lies:*der  
@@ -108,38 +108,38 @@ helfet mir der
 
 Abhub (ablatio ciborum)
 
-ich lasse mir nichts abheucheln
+ich lasse mir nichts **abheucheln**
 
-den Zeugen vor Gericht abhören
+den Zeugen vor Gericht **abhören**
 
-allem Laster abhold
+allem Laster **abhold**
 
-abkarten
+**abkarten**
 
 abkaufen
 
-sich von der Welt abkehren
+sich von der Welt **abkehren**
 
-das Jahr klingt
-ab, der Wind geht über die Stoppeln
+das Jahr **klingt**
+**ab**, der Wind geht über die Stoppeln
 
-abgeklaubte Formeln
+**abgeklaubte** Formeln
 
-als er seines Frostes ein wenig abgekommen war
+als er seines Frostes ein wenig **abgekommen** war
 
-abkräftige Kranke
+**abkräftige** Kranke
 
-er will sich keinen Heller von dem Gelde abkürzen lassen
+er will sich keinen Heller von dem Gelde **abkürzen** lassen
 
-nach abgelegter Reise
+nach **abgelegter** Reise
 
-einen Besuch in der Nachbarschaft abzulegen
+einen Besuch in der Nachbarschaft **abzulegen**
 
-einen Brief von Basel ablassen
+einen Brief von Basel **ablassen**
 
-das Pferd läuft von der Strasse ab
+das Pferd **läuft** von der Strasse **ab**
 
-ihm den Vortheil, den Preis ablaufen
+ihm den Vortheil, den Preis **ablaufen**
 
 du weisst dass bei Licht meine
 
@@ -147,24 +147,24 @@ du weisst dass bei Licht meine
 *lies:*meine  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Augen immer mehr ablegen
+ Augen immer mehr **ablegen**
 
-ablenken
+**ablenken**
 
-aller Wein muss erst abliegen, bevor man ihn trinken kann
+aller Wein muss erst **abliegen**, bevor man ihn trinken kann
 
-ein versetztes Pfand ablösen
+ein versetztes Pfand **ablösen**
 
-die Handgriffe abmerken
+die Handgriffe **abmerken**
 
-den Streit gütlich abmachen
+den Streit gütlich **abmachen**
 
-was aber windfällig und wipfeldürr, mag man
+was aber **windfällig** und **wipfeldürr**, mag man
 wohl abhauen
 
-du kannst dich wohl von dem Schreiben einen Augenblick abmüssigen
+du kannst dich wohl von dem Schreiben einen Augenblick **abmüssigen**
 
-die Regel aus der Analogie abnehmen
+die Regel aus der Analogie **abnehmen**
 
 Bergleute müssen manchen Schurf vergebens werfen und viel Schächte abteufen
 
@@ -172,7 +172,7 @@ ich bin nicht in Abrede, dass
 
 dass ich sie nicht recht gemahlet, sondern allein auf ein Papier schlecht abgerissen
 
-er ist auf alle Bosheit abgerichtet
+er ist auf alle Bosheit **abgerichtet**
 
 *Erratum:*
 
@@ -183,41 +183,41 @@ dass ich sie nicht recht gemahlet, sondern allein auf ein Papier schlecht abgeri
 
 dass ich sie nicht recht gemahlet, sondern allein auf ein Papier schlecht abgerissen
 
-er ist auf alle Bosheit abgerichtet
+er ist auf alle Bosheit **abgerichtet**
 
   
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-einen Absagbrief wider alle Zeitungsschreiber
+einen **Absagbrief** wider alle Zeitungsschreiber
 
-das Glück sagt ihm ab und widerstehet ihm
+das Glück **sagt** ihm **ab** und widerstehet ihm
 
-eine Neigung, welche mit ihrem Alter einen starken Absatz machte
+eine Neigung, welche mit ihrem Alter einen starken **Absatz** machte
 
 ein glücklicher Abscheid aus dieser Welt
 
-wie leichtfertig hat jener Fürst seinen Dienern das abgebrochen und
-abgeschatzet
+wie leichtfertig hat jener Fürst seinen Dienern das **abgebrochen** und
+**abgeschatzet**
 
-pfui welch ein Abscheu, welch ein Schreckbild!
+pfui welch ein **Abscheu**, welch ein Schreckbild!
 
-aus der Abschilderung, die man mir von ihm gemacht
+aus der **Abschilderung**, die man mir von ihm gemacht
 
-ich nehme keinen Abschlag an, keine vorläufige Bezahlung
+ich nehme keinen **Abschlag** an, keine vorläufige Bezahlung
 
-jeden Gewaltstreich abschlagen
+jeden Gewaltstreich **abschlagen**
 
 worauf kann er wohl sein Absehen richten? (haben)
 
-seinen Vortheil schnell absehen
+seinen Vortheil schnell **absehen**
 
-Tag und Nacht setzen so entschieden von einander ab
+Tag und Nacht **setzen** so entschieden von einander **ab**
 
-alte abgesetzte Wörter
+alte **abgesetzte** Wörter
 
-es setzte einen grossen Streit ab
+es **setzte** einen grossen Streit ab
 
-in gewisser Absicht, in Absicht der
+in gewisser **Absicht**, in **Absicht** der
 Wirkungen.
 
 [37[2]](javascript:;)
@@ -225,11 +225,11 @@ Wirkungen.
 
 Ebenmaass
 
-echt ist richtig, nicht ächt
+**echt** ist richtig, nicht ächt
 
-ehe ist falsch: eh zu schreiben
+ehe ist falsch: **eh** zu schreiben
 
-mit ehester Gelegenheit
+mit **ehester** Gelegenheit
 
 augenfällig und eindrücklich
 
@@ -301,12 +301,12 @@ Nie sich scheuen, deutlicher zu sein als der Autor.
 
 Das „zwischen Zeilen lesen“ ist in ein offneres Anspielungswesen zu übertragen.
 
-Mitunter sieht man die weissen Knochen zu sehr bei Aristoteles (so
-gewiss auch die Magerkeit am
-Platz
+Mitunter sieht man die **weissen Knochen** zu sehr bei Aristoteles (so
+gewiss auch die **Magerkeit** am
+**Platz**
 
-*Erratum:*Platze  
-*lies:*Platz  
+*Erratum:***Platze**  
+*lies:***Platz**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  ist)
@@ -344,7 +344,7 @@ seinem Elemente
 , wenn er in einer weichlichen geschwätzigen Rührung
 schwimmen kann; doch sind wir nicht gern in seinem Elemente.
 
-Eine gute Schrift wird, wo sie wirkt, vergessen machen, dass sie
+Eine gute Schrift wird, wo sie **wirkt**, vergessen machen, dass sie
 litterarisch ist; sie wirkt als Wort und Handlung eines Freundes; wer möchte darüber etwas drucken lassen!
 
 Der Niedergang der Bildung zeigt sich in Verarmung der Sprache; das
@@ -355,14 +355,14 @@ Deutsch
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  der Zeitungen ist eine κοινή
-bereits. Man kann der Sprache äusserlich aufhelfen (2. und 3. Jahrhundert n. Chr.).
+bereits. Man kann der Sprache **äusserlich** aufhelfen (2. und 3. Jahrhundert n. Chr.).
 
 [37[5]](javascript:;)
 ---------------------
 
 Die Armut der Sprache entspricht der Armut der Meinungen: man denke an unsre Litteraturzeitungen: wie wenig
 herrschende Ansichten! Zuerst glaubt man mit lauter Fachgelehrten zu thun zu haben, wenn das Urtheil über ein
-Buch gesprochen wird: jetzt sehe ich dahinter.
+Buch gesprochen wird: jetzt sehe ich **dahinter**.
 
 Die Nachtheile, die mit der Einheit einer Nation verknüpft sind, wie mit der Einheit einer Kirche; Segen des
 Kampfes. In der Concurrenz der Nationen verdorrt das widerhaarige trennlustige Deutschwesen in sich und wird
@@ -397,11 +397,11 @@ haben.
 
 Nun haben in der That viele Menschen und mitunter die Menschen ganzer Zeiträume etwas von Kühen an sich; ihre
 Seele liegt dumpf und lässig in sich. Sie mögen springen und grasen und sich anstieren, es ist nur ein elender
-Rest von Seele unter ihnen gemeinsam. Folglich muss ihre Sprache verarmt sein oder
+Rest von Seele unter ihnen gemeinsam. Folglich **muss** ihre Sprache verarmt sein oder
 mechanisch werden. Denn es ist nicht wahr, dass die Noth die Sprache erzeuge, die Noth des Individuums;
 sondern höchstens die Noth einer ganzen Heerde, eines Stammes, aber damit diese als das Gemeinsame empfunden
 werde, muss schon die Seele weiter als das Individuum ist geworden sein, sie muss auf Reisen gehen, sich
-wieder finden wollen, sie muss erst sprechen wollen, bevor sie
+wieder finden **wollen**, sie muss erst sprechen **wollen**, bevor sie
 spricht; und dieser Wille ist nichts Individuelles. Dächte man sich ein mythologisches Urwesen, mit hundert
 Köpfen und Füssen und Händen, als die Form des Urmenschen: so würde es mit sich selbst reden; und erst als es
 merkte, dass es mit sich wie mit einem zweiten, dritten, ja hundertsten Wesen reden könne, liess es sich in
@@ -436,16 +436,16 @@ Sind für einen zukünftigen
 *lies:*zukünftigen  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Schriftsteller viele
+ Schriftsteller **viele**
 Sprachen von Nutzen? Oder überhaupt fremde Sprachen? Zumal für einen deutschen Schriftsteller? Die Griechen
 hiengen von sich ab und bemühten sich nicht um fremde Sprachen: wohl aber um die eigne. Bei uns umgekehrt: die
-deutschen Studien haben sich erst allmählich eingedrängt, und sie haben, wie sie
+deutschen Studien haben sich erst allmählich eingedrängt, und sie haben, **wie** sie
 getrieben werden, etwas Ausländisches und Gelehrtenhaftes an sich. Viel wird gethan, um lateinischen Stil zu
 lehren; aber im Deutschen lehrt man Geschichte der Sprache und Litteratur: und doch hat diese Geschichte nur
 als Mittel und Hülfe einer praktischen Übung Sinn. Deutsch in frühern Perioden lesen zu können ist nichts oder
-wenig. Aber viel ist, zu einem Urtheil über das Verkommene der gegenwärtigen Sprache zu
+wenig. Aber viel ist, zu einem Urtheil über das **Verkommene** der gegenwärtigen Sprache zu
 gelangen und deshalb die Vergangenheit zu Hülfe zu nehmen. Der Wort- und Wendungen-Schatz, der jetzt jedermann
-zu Gebote steht, ist als verbraucht anzusehn und zu empfinden; wirklich ist die Sprache
+zu Gebote steht, ist als **verbraucht** anzusehn und zu empfinden; wirklich ist die Sprache
 viel reicher als man nach diesem Schatze meinen sollte; ebenso ist die verschlungene Syntax verbraucht. Man
 muss also künstlerisch mit der Sprache verfahren, um dem Ekel zu entfliehen; etwa wie ich nicht mehr
 Mendelssohn’sche Wendungen aushalte; ich verlange nach einer kräftigeren und reizvolleren Sprache. Jetzt wird
@@ -454,11 +454,11 @@ es freilich viel schwerer zu schreiben als es war; man muss sich seine Sprache m
 in dem stumpfen Character unserer Sprache recht gut unser stumpfgewordnes Deutschthum, unsre verschwindende
 Individualität. Der Kampf hier und dort ist nur ein Sich-Bäumen gegen die Vernichtung des besseren und
 stärkeren Deutschthums, an das wir noch glauben. Eine Stillehre, die auf das Correcte und Conventionelle sähe,
-wäre das letzte, was wir brauchten: während es für die Andern kaum mehr nöthig ist, da
+wäre das letzte, was **wir** brauchten: während es für die Andern kaum mehr nöthig ist, da
 sie unwillkürlich darin schon leben, ich meine im Zwange des Correcten und Conventionellen. Wer der deutschen
-Sprache noch eine Zukunft verheissen will, muss eine Strömung erzeugen gegen unser
+Sprache noch eine Zukunft verheissen will, muss eine Strömung erzeugen **gegen** unser
 jetziges Deutsch. Man muss vieles Unglückliche und Gequälte in Kauf nehmen; die nächste Hauptsache ist, dass
-man sich anstrengt, dass man auf die Sprache Blut und Kraft wendet. Schön und hässlich
+man sich **anstrengt**, dass man auf die Sprache Blut und Kraft wendet. Schön und hässlich
 sind Worte, die uns jetzt gar nichts angehen sollen, guten „Geschmack“ kann es gar nicht geben. Tod aller
 Weichlichkeit, Bequemlichkeit.
 
@@ -475,8 +475,8 @@ z.B. so ein Strauss, Auerbach und dergleichen.
 ---------------------
 
 Wie kann man nur Stil und Darstellung so wichtig nehmen! Es kommt doch nur darauf an, dass man sich
-verständlich mache. — Zugegeben: aber das ist nichts Leichtes und etwas sehr Wichtiges. Man denke, <was
-für> ein complicirtes Wesen der Mensch ist: wie unendlich schwer für ihn, sich wirklich auszudrücken: Die meisten Menschen bleiben eben in sich kleben und können nicht heraus, das ist aber
+verständlich mache. — Zugegeben: aber das ist nichts Leichtes und etwas sehr Wichtiges. Man denke, &amp;lt;was
+für&amp;gt; ein complicirtes Wesen der Mensch ist: wie unendlich schwer für ihn, sich wirklich **aus**zudrücken: Die meisten Menschen bleiben eben in sich kleben und können nicht heraus, das ist aber
 Sklaverei. Sprechen- und Schreibenlernen
 
 *Erratum:*Schreibenkönnen  
@@ -488,5 +488,7 @@ nicht immer das Beste dabei herauskommt; aber es ist gut, dass es sichtbar wird,
 findet. Barbar ist einer, der sich nicht ausdrücken kann, der sklavenhaft plappert. — „Schöner Stil“ freilich
 ist nichts als ein neuer Käfig, ein vergoldetes Barbarenthum.
 
-Ich verlange von einem Buche Stimmung als Einheit und Maass; das bestimmt Wortwahl,
+Ich verlange von einem Buche **Stimmung** als Einheit und Maass; das bestimmt Wortwahl,
 Gleichniss-Art und -Zahl, Gang und Ende.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

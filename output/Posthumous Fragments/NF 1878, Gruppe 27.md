@@ -16,36 +16,36 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [27[1]](javascript:;)
 ---------------------
 
-Hesiod’s Kunstmittel der Fabula.
+Hesiod’s **Kunst**mittel der Fabula.
 
 Museninspiration, der Prozeß.
 
 [27[2]](javascript:;)
 ---------------------
 
-Über ganz leere Ereignisse wie das Attentat, wird Lärm gemacht. Die Presse ist der permanente falsche Lärm.
+Über ganz leere Ereignisse wie das Attentat, wird Lärm gemacht. Die Presse ist der permanente falsche **Lärm**.
 
 [27[3]](javascript:;)
 ---------------------
 
 Ich sagte als Student „Wagner ist Romantik, nicht Kunst der Mitte und Fülle, sondern des letzten Viertels:
-bald wird es Nacht sein.“ Mit dieser Einsicht war ich W<agnerianer>, ich konnte nicht anders, aber ich kannte es besser.
+bald wird es Nacht sein.“ Mit dieser Einsicht war ich W&amp;lt;agnerianer&amp;gt;, ich **konnte** nicht anders, aber ich **kannte** es besser.
 
 [27[4]](javascript:;)
 ---------------------
 
-Der starke freie Mensch ist Nicht-Künstler. (Gegen Wagner.)
+Der starke freie Mensch ist **Nicht**-Künstler. (Gegen Wagner.)
 
 [27[5]](javascript:;)
 ---------------------
 
-Ob Wagner im Stande ist, über sich selbst Zeugniß abzulegen??
+Ob Wagner im Stande ist, über sich selbst **Zeugniß** abzulegen??
 
 [27[6]](javascript:;)
 ---------------------
 
-Die Energie der griechischen Musik im Unisono-Gesang. Ihre feinere Entwicklung in Ton
-und Rhythmus — wodurch Harmonie uns schadet.
+Die Energie der griechischen Musik im Unisono-Gesang. Ihre **feinere** Entwicklung in Ton
+und Rhythmus — wodurch **Harmonie** uns schadet.
 
 [27[7]](javascript:;)
 ---------------------
@@ -55,7 +55,7 @@ und Rhythmus — wodurch Harmonie uns schadet.
 [27[8]](javascript:;)
 ---------------------
 
-Zur überhandnehmen<den> Frömmigkeit: Treitschke und die Franzosen auch: „Gott müssen alle Dinge
+Zur überhandnehmen&amp;lt;den&amp;gt; Frömmigkeit: Treitschke und die Franzosen auch: „Gott müssen alle Dinge
 zum besten dienen“.
 
 [27[9]](javascript:;)
@@ -78,7 +78,7 @@ Weib und Kind.
 
 Künstler und Schriftsteller.
 
-Zukunft der Bildung. (Phase isoliren)
+Zukunft der Bildung. **(Phase isoliren)**
 
 Der Mensch mit sich allein.
 
@@ -102,20 +102,20 @@ Was ist Frivolität? Ich verstehe sie nicht. Und doch ist Wagner im Widerspruch 
 [27[14]](javascript:;)
 ----------------------
 
-Der Tadel eines Werks mit grossem Genuss verbunden. Überdiess mit Nutzen (selten für den
-Urheber), weil er die Bewunderer nöthigt, sich Gründe zu geben.
+Der **Tadel** eines Werks mit grossem Genuss verbunden. Überdiess mit Nutzen (selten für den
+Urheber), weil er die **Bewunderer** nöthigt, sich **Gründe** zu geben.
 
 [27[15]](javascript:;)
 ----------------------
 
-Lebendige Steinform die Holzform nachahmend — als Gleichniss für Rede- und Schreibstil (Lesestil).
+Lebendige **Steinform** die **Holzform** nachahmend — als **Gleichniss** für Rede- und Schreibstil (Lesestil).
 
-Die assyrischen Säulen mit den Voluten des ionischen Capitells — nach den
+Die **assyrischen** Säulen mit den Voluten des ionischen Capitells — nach den
 Abbildungen.
 
-Die aegyptische Säule protodorisch.
+Die aegyptische Säule proto**dorisch**.
 
-Thron von Amyklä und des Zeus in Olympia in Thiere aufgelöst — assyrisch.
+**Thron** von Amyklä und des Zeus in Olympia in **Thiere aufgelöst** — **assyrisch**.
 
 Behandlung des Haares in der älteren griechischen Kunst ist assyrisch.
 
@@ -123,13 +123,13 @@ Trefflich wo die Ceremonie aufhört, wie man sich gehen lassen darf.
 
 Thierbildung bei den Assyrern.
 
-Gegensatz der Handhabung der riesigen Massen und Roheit des Materials bei den Cyclopenbauten.
+Gegensatz der Handhabung der riesigen Massen und Roheit des Materials bei den **Cyclopenbauten**.
 
 „Aesthetisch zu uns sprechen“ können.
 
 Widerwillen gegen Runde und Wölbung.
 
-Alt-Gr<iechenland> voll Wälder — die Halle uralt um die Oblonge, ist das
+Alt-Gr&amp;lt;iechenland&amp;gt; voll Wälder — die **Halle** uralt um die Oblonge, ist das
 prius.
 
 [27[16]](javascript:;)
@@ -141,34 +141,34 @@ Freundesunterhaltung: es hört uns niemand zu, der nur anfängt zu lauschen. —
 [27[17]](javascript:;)
 ----------------------
 
-Menschen die vergebens versuchen, aus sich ein Princip zu machen
+Menschen die vergebens versuchen, aus **sich** ein **Princip** zu machen
 (wie Wagner).
 
 [27[18]](javascript:;)
 ----------------------
 
-Die Dramatiker entlehnen — ihr Hauptvermögen — künstlerische Gedanken aus dem Epos
+Die **Dramatiker entlehnen** — ihr Hauptvermögen — künstlerische Gedanken aus dem Epos
 (Wagner auch noch aus der klassischen Musik).
 
 [27[19]](javascript:;)
 ----------------------
 
-Dramatiker sind constructive Genies, nicht auffindende und originale wie die Epiker.
+Dramatiker sind **constructive** Genies, nicht auffindende und originale wie die Epiker.
 
-Drama steht tiefer als Epos — roheres Publikum — democratisch.
+**Drama** steht **tiefer** als Epos — roheres Publikum — democratisch.
 
 [27[20]](javascript:;)
 ----------------------
 
-Ich freue mich, dass die Natur nicht romantisch ist: die Unwahrheit ist allein
+Ich freue mich, dass die Natur **nicht** romantisch ist: die Unwahrheit ist allein
 menschlich: sich so weit als möglich von ihr lösen heisst erkennen, den Menschen in die Natur und ihre
-Wahrheit zurückübersetzen. Was liegt mir da an der Kunst! — Aber kräftige Luft, Schutz
-vor der Sonne und der Nässe, Abwesenheit der Menschen — das ist meine Natur.
+Wahrheit **zurückübersetzen**. Was liegt mir da an der Kunst! — Aber kräftige Luft, Schutz
+vor der Sonne und der Nässe, Abwesenheit der Menschen — das ist **meine** Natur.
 
 [27[21]](javascript:;)
 ----------------------
 
-Ich sehe die Leidenden, die in die Höhenluft des Engadin sich begeben. Auch ich sende die Patienten in meine Höhenluft — welcher Art ist ihre Krankheit?
+Ich sehe die Leidenden, die in die Höhenluft des Engadin sich begeben. Auch ich sende die Patienten in **meine** Höhenluft — **welcher** Art ist ihre Krankheit?
 
 [27[22]](javascript:;)
 ----------------------
@@ -179,76 +179,76 @@ von F. N.
 [27[23]](javascript:;)
 ----------------------
 
-Die Liebe für Wagner’s Kunst in Bausch und Bogen ist genau so ungerecht als die
+Die Liebe für Wagner’s Kunst in Bausch und Bogen ist genau so **ungerecht** als die
 Abneigung in Bausch und Bogen.
 
 [27[24]](javascript:;)
 ----------------------
 
-Seiner Musik fehlt, was seinen Schriften fehlt — Dialectik. Dagegen Kunst der Amplification sehr gross.
+Seiner Musik fehlt, was seinen Schriften fehlt — Dialectik. Dagegen Kunst der **Amplification** sehr gross.
 
-Seine Werke erscheinen wie gehäufte Massen grosser Einfälle; man wünscht einen grösseren
-Künstler herbei, sie zu behandeln.
+Seine Werke erscheinen wie gehäufte Massen grosser **Einfälle**; man wünscht einen grösseren
+Künstler herbei, sie zu **behandeln**.
 
-Immer auf den extremsten Ausdruck bedacht — bei jedem Wort; aber
+Immer auf den **extremsten** Ausdruck bedacht — bei jedem **Wort**; aber
 das Superlativische schwächt ab.
 
-Eifersucht gegen alle Perioden des Maasses: er verdächtigt die
-Schönheit, die Grazie, er spricht dem „Deutschen“ nur seine Tugenden zu und versteht auch
+**Eifersucht** gegen alle Perioden des **Maasses**: er verdächtigt die
+Schönheit, die Grazie, er spricht dem „Deutschen“ nur **seine Tugenden** zu und versteht auch
 alle seine Mängel darunter.
 
 [27[25]](javascript:;)
 ----------------------
 
-Es ist wirklich die Kunst der Gegenwart: ein ästhetischeres
-Zeitalter würde sie ablehnen. Feinere Menschen lehnen sie auch jetzt ab. Vergröberung alles Ästhetischen. — Gegen Goethe’s Ideal gehalten, tief zurückstehend. Der moralische
-Contrast dieser hingebenden glühend-treuen Naturen Wagner’s wirkt als Stachel, als
-Reizmittel: selbst diese Empfindung ist zur Wirkung benutzt.
+Es ist wirklich die **Kunst** der **Gegenwart**: ein ästhetischeres
+Zeitalter würde sie ablehnen. Feinere Menschen lehnen sie auch **jetzt** ab. **Vergröberung** alles Ästhetischen. — Gegen Goethe’s Ideal gehalten, tief zurückstehend. Der moralische
+Contrast dieser hingebenden glühend-treuen Naturen Wagner’s wirkt als **Stachel**, als
+Reizmittel: selbst diese Empfindung ist zur **Wirkung** benutzt.
 
 [27[26]](javascript:;)
 ----------------------
 
-Ich nannte „sittlichste Musik“ die Stelle, wo es am ekstatischsten zugeht.
+Ich nannte „sittlichste Musik“ die Stelle, wo es am **ekstatischsten** zugeht.
 Charakteristisch!
 
 [27[27]](javascript:;)
 ----------------------
 
-Wagner gegen die Klugen, die Kalten, die Zufriednen — hier seine Grösse — unzeitgemäss —
-gegen die Frivolen und Eleganten, — aber auch gegen die Gerechten, Mässigen, an der Welt
+Wagner **gegen** die Klugen, die Kalten, die Zufriednen — hier seine Grösse — unzeitgemäss —
+gegen die Frivolen und Eleganten, — aber auch **gegen** die Gerechten, Mässigen, an der Welt
 Sich-freuenden (wie Goethe), gegen die Milden, Anmuthigen, wissenschaftlichen Menschen — hier seine
 Kehrseite.
 
 [27[28]](javascript:;)
 ----------------------
 
-Epische Motive für die innere Phantasie: viele Scenen wirken viel schwächer in der
+**Epische** Motive für die innere Phantasie: viele Scenen wirken viel schwächer in der
 Versinnlichung (der Riesenwurm und Wotan).
 
 [27[29]](javascript:;)
 ----------------------
 
-Wagner kann mit seiner Musik nicht erzählen, nicht beweisen,
+Wagner kann mit seiner Musik nicht **erzählen**, nicht **beweisen**,
 sondern überfallen, umwerfen, quälen, spannen, entsetzen — was seiner Ausbildung fehlt, hat er in sein Princip
-genommen. Die Stimmung ersetzt die Composition: er geht zu direkt zu Wege.
+genommen. Die **Stimmung** ersetzt die Composition: er geht zu direkt zu Wege.
 
 [27[30]](javascript:;)
 ----------------------
 
-An unkünstlerische Menschen sich wendend, mit allen Hülfsmitteln
-soll gewirkt werden, nicht auf Kunstwirkung, sondern auf Nervenwirkung ganz allgemein ist es abgesehen.
+An **un**künstlerische Menschen sich wendend, mit **allen** Hülfsmitteln
+soll gewirkt werden, nicht auf **Kunst**wirkung, sondern auf **Nervenwirkung** ganz allgemein ist es abgesehen.
 
 [27[31]](javascript:;)
 ----------------------
 
-Nach einem Thema ist Wagner immer in Verlegenheit, wie weiter.
-Deshalb lange Vorbereitung — Spannung. Eigene Verschlagenheit, seine Schwächen als
+Nach einem **Thema** ist Wagner immer in Verlegenheit, wie **weiter**.
+Deshalb **lange** Vorbereitung — Spannung. Eigene Verschlagenheit, seine Schwächen als
 Tugenden umzudeuten. So das Improvisatorische.
 
 [27[32]](javascript:;)
 ----------------------
 
-Was aus unserer Zeit drückt Wagner aus? Das Nebeneinander von Roheit und zartester
+**Was** aus unserer Zeit drückt Wagner aus? Das Nebeneinander von Roheit und zartester
 Schwäche, Naturtrieb-Verwilderung und nervöser Über-Empfindsamkeit, Sucht nach Emotion aus Ermüdung und Lust
 an der Ermüdung. — Dies verstehen die Wagnerianer.
 
@@ -261,30 +261,30 @@ will. Die höchsten Stilgesetze sind verletzt, das Edelste kann nicht mehr errei
 [27[34]](javascript:;)
 ----------------------
 
-Das grösste Pathos erreichte ich, als ich den Schopenhauerischen Menschen entwarf: den zerstörenden Genius, gegen alles Werdende.
+Das grösste Pathos erreichte ich, als ich den Schopenhauerischen Menschen entwarf: den **zerstörenden** Genius, gegen alles Werdende.
 
 Als Gegenbedürfniss brauchte ich den aufbauenden metaphysischen Künstler, der einen schön träumen macht in
 solchem unheimlichen Tagewerk.
 
-Unzufriedenheit am tragischen Denken gesteigert.
+Unzufriedenheit am **tragischen Denken** gesteigert.
 
 Gegenmittel:
-pessimistische Kritik des Denkens und der Lust am Denken. Kritik des
+**pessimistische** Kritik des Denkens und der **Lust** am Denken. Kritik des
 Genius.
 
 |  |  |
 | --- | --- |
-| 1. Phase: | Strauss. Unbefriedigung. Dagegen Lust am Kampf. |
-| 2. Phase: | Versuch die Augen zu schliessen gegen die Erkenntniss der Historie. |
+| 1. Phase: | Strauss. Unbefriedigung. Dagegen **Lust** am Kampf. |
+| 2. Phase: | **Versuch** die **Augen** zu **schliessen** gegen die Erkenntniss der Historie. |
 | 3. Phase: | Lust der Zerstörung. |
 | 4. Phase: | Lust der Betäubung. |
 
 [27[35]](javascript:;)
 ----------------------
 
-Rhythmus nicht von Tanz aus in die Poesie der Griechen gekommen. Der Tanz und die Poesie
-unabhängig. Also: muss Musik und Tanz lange
-Zeit unabhängig gewesen sein.
+Rhythmus **nicht** von Tanz aus in die Poesie der Griechen gekommen. Der Tanz und die Poesie
+unabhängig. Also: muss **Musik** und **Tanz** lange
+Zeit **un**abhängig gewesen sein.
 
 [27[36]](javascript:;)
 ----------------------
@@ -302,13 +302,13 @@ man sich ebenso durch Gunst als durch Abgunst.
 [27[38]](javascript:;)
 ----------------------
 
-Bei Wagner ehrgeizigste Combination aller Mittel zur stärksten Wirkung: während die
+Bei Wagner ehrgeizigste **Combination** aller Mittel zur stärksten Wirkung: während die
 älteren Musiker still die einzelnen Arten fortbildeten.
 
 [27[39]](javascript:;)
 ----------------------
 
-Formbild<ende> Macht des Militärs übersehen.
+Formbild&amp;lt;ende&amp;gt; Macht des Militärs übersehen.
 
 [27[40]](javascript:;)
 ----------------------
@@ -321,7 +321,7 @@ theatralische Maschinenwesen, die Coulissen und Überraschungen — — —
 
 Das psychologische Gesetz in der Entwicklung der Leidenschaft (Handlung Rede Gebärde) und der musikalischen
 Symphonie decken sich nicht: die Wagnerische Behauptung kann als widerlegt gelten, durch seine Kunst. — Alles
-Grosse ist da, wo die Musik dominirt, oder dort, wo die Dramatik dominirt — also nicht im
+Grosse ist da, wo die Musik dominirt, oder dort, wo die Dramatik dominirt — also **nicht** im
 Parallelismus.
 
 [27[42]](javascript:;)
@@ -333,19 +333,19 @@ Ich sah in Wagner den Gegner der Zeit, auch in dem, wo diese Zeit Größe hat un
 fühlte.
 
 Eine Kaltwasserkur schien mir nöthig. Ich knüpfte an die Verdächtigung des Menschen an, an seine
-Verächtlichkeit, die ich früher benützte, um mich in jenen übermüthigen metaphysischen Traum zu heben. Ich kannte den Menschen gut genug, aber ich hatte ihn falsch gemessen und
+Verächtlichkeit, die ich früher benützte, um mich in jenen übermüthigen metaphysischen Traum zu heben. Ich **kannte** den Menschen gut genug, aber ich hatte ihn falsch **gemessen** und
 beurtheilt: der Grund zum Verwerfen fehlte.
 
 [27[43]](javascript:;)
 ----------------------
 
 Der lebendige Schopenhauer hat mit den Metaphysikern nichts zu thun. Er ist Voltairianer im Wesentlichen, das
-4. <Buch> ihm fremd.
+4. &amp;lt;Buch&amp;gt; ihm fremd.
 
 [27[44]](javascript:;)
 ----------------------
 
-Mein Gemälde Wagner’s ging über ihn hinaus, ich hatte ein ideales Monstrum geschildert,
+Mein Gemälde Wagner’s ging über ihn hinaus, ich hatte ein **ideales Monstrum** geschildert,
 welches aber vielleicht im Stande ist, Künstler zu entzünden. Der wirkliche Wagner, das wirkliche Bayreuth war
 mir wie der schlechte allerletzte Abzug eines Kupferstichs auf geringem Papier. Mein Bedürfniß, wirkliche
 Menschen und deren Motive zu sehen, war durch diese beschämende Erfahrung ungemein angereizt.
@@ -359,48 +359,48 @@ gehemmt fühlt, die sie selbst bildet. Kein Allegro con fuoco bei ihm.
 [27[46]](javascript:;)
 ----------------------
 
-Anmuth und Innigkeit gesellt sind auch deutsch.
+Anmuth und Innigkeit gesellt sind auch **deutsch**.
 
 [27[47]](javascript:;)
 ----------------------
 
-Seine Seele singt nicht, sie spricht, aber so wie die höchste
-Leidenschaft spricht. Natürlich ist bei ihm der Ton Rhythmus Gebärdenfall der Rede; die
-Musik ist dagegen nie ganz natürlich, eine Art erlernter Sprache mit mässigem Vorrath von
-Worten und einer anderen Syntax.
+Seine Seele **singt** nicht, sie **spricht**, aber so wie die höchste
+Leidenschaft spricht. **Natürlich** ist bei ihm der Ton Rhythmus Gebärdenfall der Rede; die
+Musik ist dagegen nie ganz natürlich, eine Art **erlernter** Sprache mit mässigem Vorrath von
+Worten und einer **anderen** Syntax.
 
 [27[48]](javascript:;)
 ----------------------
 
-Aber hinterdrein wurde mir der Blick für die tausend Quellen in der Wüste geöffnet.
+Aber hinterdrein wurde mir der Blick für die **tausend** Quellen in der Wüste geöffnet.
 
 Jene Periode sehr nützlich gegen eine vorzeitige Altklugheit.
 
 [27[49]](javascript:;)
 ----------------------
 
-Jetzt tagte mir das Alterthum und Goethes Einsicht der grossen Kunst: und jetzt erst konnte ich den schlichten Blick für das wirkliche Menschenleben gewinnen: ich hatte die Gegenmittel dazu, dass kein
-vergiftender Pessimismus draus wurde. Schopenhauer wurde „historisch“, nicht als
+Jetzt tagte mir das Alterthum und Goethes Einsicht der grossen Kunst: und **jetzt** erst konnte ich den **schlichten** Blick für das **wirkliche** Menschenleben gewinnen: ich hatte die **Gegenmittel** dazu, dass kein
+vergiftender Pessimismus draus wurde. Schopenhauer wurde „historisch“, **nicht** als
 Menschenkenner.
 
 [27[50]](javascript:;)
 ----------------------
 
-Armut an Melodie und in der Melodie bei Wagner. Die Melodie ist ein
-Ganzes mit vielen schönen Proportionen. Spiegelbild der geordneten Seele. Er strebt darnach: hat er eine Melodie, so erdrückt er sie fast in seiner
+**Armut** an Melodie und in der Melodie **bei** Wagner. Die Melodie ist ein
+**Ganzes** mit vielen schönen Proportionen. Spiegelbild der geordneten Seele. Er **strebt** darnach: **hat** er eine Melodie, so erdrückt er sie fast in seiner
 Umarmung.
 
 [27[51]](javascript:;)
 ----------------------
 
-Unsere Jugend empörte sich gegen die Nüchternheit der Zeit. Sie warf sich auf den Cultus
+Unsere Jugend empörte sich gegen die **Nüchternheit** der Zeit. Sie warf sich auf den Cultus
 des Excesses, der Leidenschaft, der Ekstase, der schwärzesten herbsten Auffassung der Welt.
 
 [27[52]](javascript:;)
 ----------------------
 
 Wagner kämpft gegen die „Frivolität“ in sich, zu der ihm, dem Unvornehmen (gegen Goethe), die Freude an der
-Welt wurde. V<ide> v<orher>
+Welt wurde. V&amp;lt;ide&amp;gt; v&amp;lt;orher&amp;gt;
 
 [27[53]](javascript:;)
 ----------------------
@@ -412,7 +412,7 @@ worden. Es ist leicht.
 ----------------------
 
 Wagner hat nicht die Kraft, den Menschen im Umgange frei und gross zu machen: er ist nicht sicher, sondern
-argwöhnisch und anmaassend. Seine Kunst wirkt so auf Künstler; sie
+argwöhnisch und anmaassend. Seine **Kunst** wirkt so auf Künstler; sie
 ist neidisch gegen Rivalen.
 
 [27[55]](javascript:;)
@@ -433,19 +433,19 @@ Die Kunst der Orchester-Farben, mit feinstem Ohre den Franzosen, Berlioz, abgeh�
 [27[58]](javascript:;)
 ----------------------
 
-Tannhäuser und Lohengrin keine gute Musik. Das Ergreifende Rührende wird aber durchaus
-nicht von der reinsten und höchsten Kunst am sichersten erreicht. Vergröberung.
+Tannhäuser und Lohengrin keine **gute** Musik. Das Ergreifende Rührende wird aber durchaus
+nicht von der reinsten und höchsten Kunst am sichersten erreicht. **Vergröberung**.
 
 [27[59]](javascript:;)
 ----------------------
 
-Es fehlt die natürliche Vornehmheit, die Bach und Beethoven <haben>, die schöne Seele (selbst
+Es fehlt die natürliche Vornehmheit, die Bach und Beethoven &amp;lt;haben&amp;gt;, die schöne Seele (selbst
 Mendelssohn) — eine Stufe tiefer.
 
 [27[60]](javascript:;)
 ----------------------
 
-Auch in der Musik giebt es eine Logik und eine Rhetorik als
+Auch in der Musik giebt es eine **Logik** und eine **Rhetorik** als
 Stilgegensätze.
 
 Wagner wird Rhetor, wenn er ein Thema behandelt.
@@ -453,19 +453,19 @@ Wagner wird Rhetor, wenn er ein Thema behandelt.
 [27[61]](javascript:;)
 ----------------------
 
-Tiefgehendes Misstrauen gegen seine musikalische Erfindung in der
+Tiefgehendes **Misstrauen** gegen **seine** musikalische Erfindung in der
 Dialectik. Er maskirt auf alle Weise den Mangel.
 
 [27[62]](javascript:;)
 ----------------------
 
-Darstellung der Geburt der Tragödie — schwebende Wolkenguirlanden, weiss bei
+**Darstellung** der Geburt der Tragödie — schwebende Wolkenguirlanden, weiss bei
 Nachthimmel, durch welche Sterne hindurchschimmern — undeutlich allzudeutlich geisterhaft erhelltes Thal.
 
 [27[63]](javascript:;)
 ----------------------
 
-Auf der Brücke — nach einer Zusammenkunft mit Freunden — Einsamkeit.
+**Auf der Brücke** — nach einer Zusammenkunft mit Freunden — Einsamkeit.
 
 [27[64]](javascript:;)
 ----------------------
@@ -475,7 +475,7 @@ Auf Bergpässen wohnend.
 [27[65]](javascript:;)
 ----------------------
 
-Im Böhmerwald erhob ich mich über die Phase.
+Im Böhmerwald erhob ich mich über die **Phase**.
 
 [27[66]](javascript:;)
 ----------------------
@@ -491,7 +491,7 @@ Einzelne, später im Einzelnen gegen das Ganze.
 [27[68]](javascript:;)
 ----------------------
 
-Wagner’s „musikalischer Euphuismus“ (Liszt)
+Wagner’s **„musikalischer Euphuismus“** (Liszt)
 
 [27[69]](javascript:;)
 ----------------------
@@ -506,14 +506,14 @@ Problem: der Musiker, dem der Sinn für Rhythmus abgeht.
 Hebräischer Rhythmus (Parallelismus), Überreife des rhythmischen Gefühls, auf primitive Stufen
 zurückgreifend.
 
-Mitte der Kunst vorüber.
+**Mitte** der Kunst vorüber.
 
 [27[71]](javascript:;)
 ----------------------
 
 Hätten wir die griechischen subjectiven Kräfte, welche [—] „Originalität“.
 
-Aber keine Ausbildung im Engen, Beschränkten.
+Aber keine **Ausbildung** im **Engen**, Beschränkten.
 
 [27[72]](javascript:;)
 ----------------------
@@ -534,7 +534,7 @@ wühlt so stark dass ich zweimal zweifelte ob Musiker — — —
 [27[75]](javascript:;)
 ----------------------
 
-Plato’s Neid. Er will Sokrates für sich in Beschlag nehmen. Er
+Plato’s Neid. Er will Sokrates **für sich** in Beschlag nehmen. Er
 durchdringt ihn mit sich, meint ihn zu verschönern, καλὸς Σωκράτης, allen
 Sokratikern zu entziehn, sich als fortlebenden zu bezeichnen. Aber er stellt ihn ganz unhistorisch dar, auf
 die gefährlichste Kante (wie Wagner es mit Beethoven und Shakespeare macht).
@@ -542,7 +542,7 @@ die gefährlichste Kante (wie Wagner es mit Beethoven und Shakespeare macht).
 [27[76]](javascript:;)
 ----------------------
 
-Die Griechen ohne Sünd<en>gefühl. Orest der Verbrecher ehrwürdig.
+Die Griechen ohne **Sünd&amp;lt;en&amp;gt;gefühl**. Orest der Verbrecher ehrwürdig.
 Wahnsinn, kein Erlösungsbedürfniß.
 
 [27[77]](javascript:;)
@@ -565,15 +565,15 @@ Alter, wo sonst vernünftigermaassen andere Leidenschaften die Seele ausfüllen.
 [27[80]](javascript:;)
 ----------------------
 
-Der Schopenhauersche Mensch trieb mich zur Skepsis gegen alles Verehrte Hochgehaltene,
+Der **Schopenhauersche Mensch** trieb mich zur Skepsis gegen alles Verehrte Hochgehaltene,
 bisher Vertheidigte (auch gegen Griechen Schopenhauer Wagner) Genie Heilige — Pessimismus der Erkenntniss. Bei
-diesem Umweg kam ich auf die Höhe, mit den frischesten Winden. — Die
-Schrift über Bayreuth war nur eine Pause, ein Zurücksinken, Ausruhen. Dort ging mir die Unnöthigkeit von Bayreuth für mich auf.
+diesem **Umweg** kam ich auf die **Höhe**, mit den frischesten Winden. — Die
+Schrift über Bayreuth war nur eine Pause, ein Zurücksinken, **Ausruhen**. **Dort** ging mir die **Unnöthigkeit** von Bayreuth für mich auf.
 
 [27[81]](javascript:;)
 ----------------------
 
-Wer seine Zeit angreift, kann nur sich angreifen: was kann er denn sehen wenn nicht
+Wer seine Zeit angreift, kann nur **sich** angreifen: was kann er denn sehen wenn nicht
 sich? So kann man in Andern auch nur sich verherrlichen. Selbstvernichtung Selbstvergötterung Selbstverachtung
 — das ist unser Richten Lieben Hassen.
 
@@ -589,7 +589,7 @@ ruht.
 
 Wagner kämpft gegen das Monumentale, aber glaubt an das allgemein Menschliche!
 
-Stil-Tradition — hier will er monumentalisiren — wo es am wenigsten erlaubt ist — im
+Stil-Tradition — hier will er **monumentalisiren** — wo es am wenigsten erlaubt ist — im
 tempo! —
 
 [27[84]](javascript:;)
@@ -601,27 +601,27 @@ scheinen.
 [27[85]](javascript:;)
 ----------------------
 
-Aller Genuss besteht darin, wie fein das Urtheils-Vermögen ist. Jede Kritik eines
+Aller Genuss besteht darin, wie fein das Urtheils-Vermögen ist. Jede **Kritik** eines
 Meisters eröffnet uns den Zugang zu andern Meistern. Tausend Quellen in der Wüste.
 
 [27[86]](javascript:;)
 ----------------------
 
-Wozu sind Wagner’s Thorheiten und Ausschweifungen, und die seiner Partei nutz? Oder sind
-sie nützlich zu machen? Er trägt eine lärmende Glocke durch sie mit
+Wozu sind Wagner’s Thorheiten und Ausschweifungen, und die seiner Partei **nutz**? Oder sind
+sie nützlich zu **machen**? Er trägt eine **lärmende Glocke** durch sie mit
 herum. Ich wünsche ihn nicht anders.
 
 [27[87]](javascript:;)
 ----------------------
 
-Ich bin gegen die Sonderentwicklung des religiösen Gefühls, weil
-seine Kraft anderen Entwicklungen zu Gute kommen soll. Jetzt wird es so verzettelt —
+Ich bin **gegen** die **Sonder**entwicklung des religiösen Gefühls, weil
+seine Kraft **anderen Entwicklungen** zu Gute kommen soll. Jetzt wird es so verzettelt —
 rechte Freude macht es doch nicht.
 
 [27[88]](javascript:;)
 ----------------------
 
-Freunde — wir wollen uns nicht zu Gespenstern werden. — Qual nach einer
+**Freunde** — wir wollen uns nicht zu Gespenstern werden. — Qual nach einer
 Zusammenkunft.
 
 [27[89]](javascript:;)
@@ -633,10 +633,10 @@ unbillig.
 [27[90]](javascript:;)
 ----------------------
 
-Alle „Ideen“ Wagner’s werden sofort zur harten Manier, er wird durch sie tyrannisirt.
-Wie sich nur ein solcher Mann so tyrannisiren lassen kann! Z.B. durch seinen Judenhass.
-Er macht seine Themata wie seine „Ideen“ todt durch eine wüthende Lust an der
-Wiederholung. Das Problem der übergrossen Breite und Länge — er plagt uns durch sein
+Alle „Ideen“ Wagner’s werden sofort zur harten Manier, er wird durch sie **tyrannisirt**.
+Wie sich **nur ein solcher Mann so tyrannisiren lassen kann**! Z.B. durch seinen Judenhass.
+Er macht seine Themata wie seine „Ideen“ **todt** durch eine wüthende Lust an der
+Wiederholung. Das Problem der übergrossen Breite und Länge — er plagt uns durch **sein**
 Entzücken.
 
 [27[91]](javascript:;)
@@ -647,7 +647,7 @@ Ich kann Glocken läuten (Schrift über Richard Wagner).
 [27[92]](javascript:;)
 ----------------------
 
-Alles Ausgezeichnete hat mittlere Natur. Richard Wagner ist Musik für überreife
+Alles Ausgezeichnete hat **mittlere** Natur. Richard Wagner ist Musik für überreife
 Musikperiode.
 
 [27[93]](javascript:;)
@@ -671,10 +671,12 @@ Anderen Richtung fördert, selbst wenn sie schnurstracks der seinen entgegenläu
 [27[96]](javascript:;)
 ----------------------
 
-Musik freilich nicht monumental. Poesie viel
+Musik freilich nicht monumental. Poesie **viel**
 mehr (des Gedankens wegen).
 
 [27[97]](javascript:;)
 ----------------------
 
-Ein Refrain (Sorrent) wird von uns von einer falschen Folie aus empfunden: so mit aller vergangnen Musik.
+Ein Refrain (Sorrent) wird von uns von einer **falschen Folie** aus empfunden: **so** mit **aller** vergangnen Musik.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

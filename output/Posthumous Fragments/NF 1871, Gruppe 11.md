@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [11[1]](javascript:;)
 ---------------------
 
-Vorwort an Richard Wagner.
+**Vorwort an Richard Wagner.**
 
   
 
@@ -82,7 +82,7 @@ ein Wesen von zürnender Hoheit, stolzestem Blick, kühnstem Wollen, ein Kämpfe
 zugleich, mit einem Schritte, als ob es gälte über Schlangen und Ungethüme hinweg zu schreiten. Dieser
 zukünftige Held der tragischen Erkenntniß wird es sein, auf dessen Stirne der Abglanz jener griechischen
 Heiterkeit liegt, jener Heiligenschein, mit dem eine noch bevorstehende Wiedergeburt des Alterthums inaugurirt
-wird, die deutsche Wiedergeburt der hellenischen Welt.
+wird, die **deutsche** Wiedergeburt der hellenischen Welt.
 
 Ach, mein verehrter Freund, kaum darf ich sagen, in welcher Weise ich meine Hoffnungen für diese Wiedergeburt
 mit der gegenwärtigen blutigen Glorie des deutschen Namens verbinde. Auch ich habe meine Hoffnungen. Diese
@@ -122,12 +122,12 @@ Bis an’s Ende der Zeit, glaubt ihr, er ließe ihn weg?
 
 Aus alledem wird klar, daß der Genius nicht der Menschheit wegen da ist: während er allerdings derselben
 Spitze und letztes Ziel ist. Es giebt keine höhere Kulturtendenz als die Vorbereitung und Erzeugung des
-Genius. Auch der Staat ist trotz seines barbarischen Ursprungs und seiner
+Genius. Auch der **Staat** ist trotz seines barbarischen Ursprungs und seiner
 herrschsüchtigen Geberden nur ein Mittel zu diesem Zweck.
 
 Und nun meine Hoffnungen!
 
-Die einzige produktive politische Macht in Deutschland, die wir
+Die einzige produktive **politische** Macht in Deutschland, die wir
 Niemandem
 
 *Erratum:*Niemanden  
@@ -188,11 +188,13 @@ In’s Leben ziehn die einzig’ste Gestalt?
 
   
 
-Friedrich Nietzsche.
+**Friedrich Nietzsche.**
 
   
 
 |  |  |
 | --- | --- |
-| Lugano | am 22 Februar 1871, |
+| **Lugano** | am 22 Februar 1871, |
 |  | am Geburtstage Schopenhauers. |
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

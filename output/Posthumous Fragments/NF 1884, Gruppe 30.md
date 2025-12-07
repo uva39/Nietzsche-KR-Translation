@@ -16,13 +16,13 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [30[1]](javascript:;)
 ---------------------
 
-Möge Europa bald einen großen Staatsmann hervorbringen, und der, welcher jetzt, in dem
-kleinlichen Zeitalter plebejischer Kurzsichtigkeit, als „der große Realist“ gefeiert wird, klein dastehen.
+Möge Europa bald einen **großen** Staatsmann hervorbringen, und der, welcher jetzt, in dem
+kleinlichen Zeitalter plebejischer Kurzsichtigkeit, als „der große Realist“ gefeiert wird, **klein dastehen**.
 
 [30[2]](javascript:;)
 ---------------------
 
-Zum ersten Theil: meine Werthschätzung in die Logik einführen z.B. Hypothese gegen
+Zum **ersten Theil**: meine Werthschätzung in die Logik einführen z.B. Hypothese gegen
 Sicherheit usw.
 
 [30[3]](javascript:;)
@@ -55,7 +55,7 @@ an mir und an meinen Vätern so wenig zu lieben ist!
 Es gereicht einem Zeitalter nicht immer zum Vorwurf, wenn es seinen größten Geist nicht erkennt und für das
 erstaunlichste Gestirn, das aus seiner eigenen Nacht emporsteigt, kein Auge hat. Vielleicht ist dieser Stern
 bestimmt, viel ferneren Welten zu leuchten; vielleicht wäre es sogar ein Verhängniß, wenn er zu früh erkannt
-würde — es könnte sein, daß damit das Zeitalter von seiner Aufgabe weggelockt <würde> und
+würde — es könnte sein, daß damit das Zeitalter von seiner Aufgabe weggelockt &amp;lt;würde&amp;gt; und
 dadurch wieder einem kommenden Zeitalter Schaden zufügte: dadurch daß es ihm eine Arbeit übrig ließ, die
 bereits hätte abgethan sein sollen und welche vielleicht gerade den Kräften dieses kommenden Zeitalters
 weniger angemessen ist
@@ -63,9 +63,9 @@ weniger angemessen ist
 [30[6]](javascript:;)
 ---------------------
 
-Kritik der moralischen
+**Kritik der moralischen**
   
-Werthschätzungen.
+**Werthschätzungen.**
 
 [30[7]](javascript:;)
 ---------------------
@@ -141,8 +141,8 @@ zu unterwerfen, hat nur vermocht, jene Art Urmenschen einander anzunähern, welc
 ähnliche Erlebnisse ausdrücken konnten; waren sie zu verschieden, verstanden sie sich, beim Versuche einer
 Verständigung durch Zeichen, falsch: so gelang die Annäherung, also endlich die Heerde nicht. Daraus ergiebt
 sich, daß im Großen und Ganzen die Mittheilbarkeit der Erlebnisse (oder Bedürfnisse oder Erwartungen) eine
-auswählende, züchtende Gewalt ist: die ähnlicheren Menschen bleiben übrig. Die Nöthigung
-zu denken, die ganze Bewußtheit, ist erst auf Grund der Nöthigung, sich zu verständigen,
+auswählende, züchtende Gewalt ist: die **ähnlicheren** Menschen bleiben übrig. Die Nöthigung
+zu denken, die ganze **Bewußtheit**, ist erst auf Grund der Nöthigung, sich zu verständigen,
 hinzugekommen. Erst Zeichen, dann Begriffe, endlich „Vernunft“, im gewöhnlichen Sinn. An sich kann das
 reichste organische Leben ohne Bewußtsein sein Spiel abspielen: so bald aber sein Dasein an das Mit-Dasein
 anderer Thiere geknüpft ist, entsteht auch eine Nöthigung zur Bewußtheit. Wie ist diese Bewußtheit möglich?
@@ -162,7 +162,7 @@ mindestens vis soporifica: wie viele deutsche „Philosophen“ sind darüber ei
 [30[11]](javascript:;)
 ----------------------
 
-Wissen und Gewissen.
+**Wissen und Gewissen.**
   
 Von  
 Friedrich Nietzsche.
@@ -193,10 +193,12 @@ Begabungen drängten und stießen, auch
 — mit einer Geistigkeit, welche auf die Sinne wirkt
 
 — man gesteht sich mit einigem Schauder ein (vorausgesetzt daß man an der Haut empfindlich ist —) daß hier
-Jemand von der unheimlichen Welt der dionysischen Dinge wie aus Erfahrung redet, wie nach
+Jemand von der unheimlichen Welt der dionysischen Dinge **wie aus Erfahrung** redet, wie nach
 großer Nähe und Berührung zurückgekehrt aus dem fremdesten aller Länder, nicht alles sagend, nicht alles
 verschweigend, unter die Kutte und Kaputze des Gelehrten versteckt und nicht genug versteckt.
 
 und Richard Wagner errieth aus der Tiefe jenes wahrsagerischen Instinktes heraus, der so sehr in Widerspruche
 zu seiner mangelhaften und zufälligen Bildung stand, daß er jenem verhängnißvollen Menschen begegnet sei, der
 das Schicksal der deutschen und nicht nur der deutschen Cultur in den Händen habe.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

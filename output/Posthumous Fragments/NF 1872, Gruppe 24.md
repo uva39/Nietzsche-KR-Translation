@@ -29,7 +29,7 @@ sondern, jeder ein eigen Gesetz unterzulegen, woraus sie zu erklären sein soll.
 
 Da im Wissen sowohl als in der Reflexion kein Ganzes zusammengebracht werden kann usw.
 
-Erfordernisse zu einem wissenschaftlichen Kunstwerke: man müßte keine der menschlichen
+Erfordernisse zu einem **wissenschaftlichen Kunstwerke**: man müßte keine der menschlichen
 Kräfte bei wissenschaftlicher Thätigkeit ausschließen. Die Abgründe der Ahnung, ein sicheres Anschauen der
 Gegenwart, mathematische Tiefe, physische Genauigkeit, Höhe der Vernunft, Schärfe des Verstandes, bewegliche
 sehnsuchtsvolle Phantasie, liebevolle Freude am Sinnlichen, nichts kann entbehrt werden zum lebhaften
@@ -44,7 +44,7 @@ erwünschten Zweck immer mehr zu entfernen scheint — — —
 [24[3]](javascript:;)
 ---------------------
 
-Von der Natur. Sie spielt ein Schauspiel: ob sie es selbst sieht, wissen wir nicht und
+Von der **Natur**. Sie spielt ein Schauspiel: ob sie es selbst sieht, wissen wir nicht und
 doch spielt sie’s für uns, die wir in der Ecke stehen. — Ihr Schauspiel ist immer neu, weil sie immer neue
 Zuschauer schafft. Leben ist ihre schönste Erfindung, und der Tod ist ihr Kunstgriff, viel Leben zu haben.
 Goethe.
@@ -52,7 +52,7 @@ Goethe.
 [24[4]](javascript:;)
 ---------------------
 
-Von der Gelehrten-Republik ist oft die Rede, aber nicht von der Genialen-Republik. In dieser geht es so zu: — ein Riese ruft dem andern zu, durch den öden
+Von der **Gelehrten-Republik** ist oft die Rede, aber nicht von der **Genialen-Republik**. In dieser geht es so zu: — ein Riese ruft dem andern zu, durch den öden
 Zwischenraum der Jahrhunderte, ohne daß die Zwergenwelt, welche darunter wegkriecht, etwas mehr vernähme als
 Getön, und mehr verstände als daß überhaupt etwas vorgeht. Und wiederum, dies Gezwerge treibt da unten
 unaufhörliche Possen und macht großen Lärm, schleppt sich mit dem, was jene haben fallen lassen, proklamirt
@@ -63,7 +63,7 @@ Geistergespräch fortsetzen. Schopenhauer.
 ---------------------
 
 Meine Zeitgenossen haben durch die gänzliche Vernachlässigung meiner Leistungen und derweiliges Celebriren
-des Mediokren und Schlechten alles Mögliche <gethan,> mich an mir selbst irre zu machen.
+des Mediokren und Schlechten alles Mögliche &amp;lt;gethan,&amp;gt; mich an mir selbst irre zu machen.
 Schopenhauer.
 
 [24[6]](javascript:;)
@@ -86,7 +86,7 @@ weglesen
 könnte, es ist aber nicht möglich. Und es ist kein Traum, keine Phantasie; es ist ein Gewahrwerden der
 wesentlichen Form, mit der die Natur nur gleichsam immer spielt und spielend das mannigfaltige Leben
 hervorbringt. Hätt’ ich Zeit in dem kurzen Lebensraum, so getraute ich mich es auf alle Reiche der Natur — auf
-ihr ganzes Reich — auszudehnen. G<oethe>.
+ihr ganzes Reich — auszudehnen. G&amp;lt;oethe&amp;gt;.
 
 [24[8]](javascript:;)
 ---------------------
@@ -99,7 +99,7 @@ Welt
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  und Menschenhändel ist die dramatische Dichtkunst. Denn das Zeug ist
-sonst absolut zu nichts zu brauchen. G<oethe>.
+sonst absolut zu nichts zu brauchen. G&amp;lt;oethe&amp;gt;.
 
 [24[9]](javascript:;)
 ---------------------
@@ -109,7 +109,7 @@ Bei der anatomischen Entdeckung. Ich habe eine solche Freude, daß sich mir alle
 [24[10]](javascript:;)
 ----------------------
 
-Grillparzer in knöchernen Versen:
+**Grillparzer** in knöchernen Versen:
 
 Kunstliebe ohne Kunstsinn
 
@@ -122,7 +122,7 @@ Und die Kunst bleibt einsam wie zuvor.
 [24[11]](javascript:;)
 ----------------------
 
-Es giebt zwei Arten der Kultur, die hellenische und die römische:
+Es giebt zwei Arten der Kultur, die **hellenische** und die **römische**:
 die erstere ein natürliches Gewächs, das in allen seinen Gestalten und Gliedern die wesentliche Form immer
 wieder spielend umschreibt, so daß die ungeheure Vielheit sich dem betrachtenden Auge simplificirt: die andre
 eine vornehme Convention und Dekoration, mit entlehnten, auch vielleicht nicht verstandenen, aber in’s
@@ -145,6 +145,8 @@ einfache Erzählung von den großen griechischen Meistern der Philosophie zu unt
 [24[14]](javascript:;)
 ----------------------
 
-Vorträge über die griechische Philosophie.
+**Vorträge über die griechische Philosophie.**
   
 Erster Theil.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

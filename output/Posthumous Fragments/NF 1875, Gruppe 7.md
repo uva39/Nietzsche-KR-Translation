@@ -26,7 +26,7 @@ Verkehr mit dem Mythus hat etwas davon. Allmählich ist das ganze Griechenthum s
 Quixote geworden. Man kann unsre moderne Welt nicht verstehn, wenn man nicht den ungeheuren Einfluss des rein
 Phantastischen einsieht. Dem steht nun entgegen: es kann keine Nachahmung geben. Alles Nachahmen ist nur ein
 künstlerisches Phänomen, also auf den Schein gerichtet; etwas Lebendiges kann Manieren Gedanken usw. annehmen
-durch Nachahmung, aber sie kann nichts erzeugen. Eine Kultur, welche der griechischen
+durch Nachahmung, aber sie kann nichts **erzeugen**. Eine Kultur, welche der griechischen
 nachläuft, kann nichts erzeugen. Wohl kann der Schaffende überall her entlehnen und sich nähren. Und so werden
 wir auch nur als Schaffende etwas von den Griechen haben können. Worin aber wären die Philologen Schaffende!
 Es muss einige unreinliche Gewerbe geben, Abdecker; auch Correctoren: sollen die Philologen etwa so ein
@@ -38,8 +38,8 @@ unreinliches Gewerbe vorstellen?
 Entstehung des Philologen. Dem grossen Kunstwerk wird sich beim Erscheinen desselben immer ein Betrachter
 gegenüberstellen, der seine Wirkung nicht nur empfindet, sondern sie auch verewigen möchte. So auch dem
 grossen Staate, kurz allem, was den Menschen erhebt. So wollen die Philologen die Wirkung des Alterthums
-verewigen: das können sie nur als nachschaffende Künstler. Nicht als nachlebende
-Men<schen?>
+verewigen: das können sie nur als **nachschaffende Künstler**. Nicht als nachlebende
+Men&amp;lt;schen?&amp;gt;
 
 [7[3]](javascript:;)
 --------------------
@@ -91,7 +91,7 @@ Dass es Gelehrte giebt, welche sich ausschliesslich mit der Erforschung des grie
 Alterthums beschäftigen, wird jeder billig, ja lobenswürdig und vor allem begreiflich finden, falls er
 überhaupt die Erforschung des Vergangenen billigt: dass dieselben Gelehrten aber zugleich die Erzieher der
 edlern Jugend, der reichen Stände sind, ist nicht ebenso leicht verständlich: hier liegt ein Problem. Warum
-sie gerade? Das versteht sich doch nicht so von selbst, wie das, wenn der Gelehrte der
+**sie** gerade? Das versteht sich doch nicht so von selbst, wie das, wenn der Gelehrte der
 Heilkunst auch heilt und Arzt ist. Denn stünde es gleich, so müsste Beschäftigung mit dem griechischen und
 römischen Alterthum gleich sein mit Wissenschaft der Erziehung“. Kurz: das Verhältniss von der Theorie und
 Praxis im Philologen ist nicht so schnell einzusehen. Wie kommt er zu dem Anspruch, der Lehrer im höheren
@@ -99,7 +99,7 @@ Sinne zu sein und nicht nur alle wissenschaftlichen Menschen, sondern überhaupt
 Diese erziehende Kraft müsste also der Philologe doch dem Alterthume entnehmen; da fragt man denn erstaunt:
 wie kommen wir dazu, einer fernen Vergangenheit den Werth beizulegen, dass wir nur mit Hülfe ihrer Erkenntniss
 gebildet werden können? — Eigentlich fragt man nicht so oder selten so: vielmehr besteht die Herrschaft der
-Philologie über das Erziehungswesen fast unbezweifelt, und das Alterthum hat jene
+Philologie über das Erziehungswesen fast unbezweifelt, und das Alterthum **hat** jene
 Geltung. In so fern ist die Lage des Philologen günstiger als die jedes andern Jüngers der Wissenschaft: er
 hat zwar noch nicht die grösste Masse von Menschen, die seiner bedürfen; der Arzt z.B. hat noch viel mehrere.
 Aber er hat ausgesuchte Menschen und zwar Jünglinge in der Zeit, wo alles knospt; solche, die Zeit und Geld
@@ -115,7 +115,7 @@ Zauberei sei, beglückend und durch diese Beglückung sich jedem Einzelnen bewei
 
 Nun giebt es viele Dinge, an welche der Mensch sich so gewöhnt hat, dass er sie für zweckmässig hält; denn
 die Gewohnheit mischt allen Dingen Süssigkeit bei und nach der Lust schätzen die Menschen meistens das Recht
-einer Sache. Die Lust am klassischen Alterthum, wie sie jetzt empfunden wird, soll nun
+einer Sache. **Die Lust am klassischen Alterthum**, wie sie jetzt empfunden wird, soll nun
 einmal darauf hin geprüft und zerlegt werden, wie viel daran jene Lust der Gewohnheit, wie viel Lust der
 Ungewohnheit ist: ich meine jene innere thätige neue und junge Lust, wie sie eine fruchtbare Überzeugung von
 Tage zu Tage erweckt, die Lust an einem hohen Ziele, die auch die Mittel dazu will: wobei man Schritt für
@@ -129,15 +129,15 @@ Alterthums als wichtigen Erziehungsmittels ruht, auch die ganze Philologie, ich 
 Existenz und Kraft ruht. Das Philologenthum als Lehrerthum ist der genaue Ausdruck einer herrschenden Ansicht
 über den Werth des Alterthums und über die beste Methode der Erziehung. Zwei Sätze sind in diesem Gedanken
 eingeschlossen; erstens: alle höhere Erziehung muss eine historische sein, zweitens: mit der griechischen und
-römischen Historie steht es anders als mit allen andern, nämlich klassisch. So wird der
+römischen Historie steht es anders als mit allen andern, nämlich **klassisch**. So wird der
 Kenner dieser Historie zum Lehrer. Hier untersuchen wir den ersten Satz nicht, ob eine höhere Erziehung
-historisch sein müsse, sondern den zweiten: in wiefern klassisch?
+historisch sein müsse, sondern den zweiten: **in wiefern klassisch**?
 
 Darüber sind einige Vorurtheile sehr verbreitet.
 
-Erstens das Vorurtheil, welches im synonymen Begriff „Humanitätsstudien“ liegt: das Alterthum ist klassisch, weil es die Schule des Humanen ist.
+**Erstens** das Vorurtheil, welches im synonymen Begriff „**Humanitäts**studien“ liegt: das Alterthum ist klassisch, weil es die Schule des Humanen ist.
 
-Zweitens: „das Alterthum ist klassisch, weil es aufgeklärt ist.“
+Zweitens: „das Alterthum ist klassisch, weil es **aufgeklärt** ist.“
 
 [7[7]](javascript:;)
 --------------------
@@ -151,7 +151,7 @@ geht, unzufrieden wären und sie vor ihren Gerichtshof führten: wie würde die 
 allem so „ob ihr ein Recht habt anzuklagen oder nicht, jedesfalls haltet euch nicht an mich, sondern an meine
 Bildner; diese haben die Pflicht mich zu vertheidigen und ich habe ein Recht zu schweigen: bin ich doch nichts
 als ihr Gebilde.“ Nun würde man die Bildner vorführen: und unter ihnen wäre auch ein ganzer Stand zu
-erblicken, der der Philologen. Dieser Stand besteht einmal aus solchen Menschen, welche
+erblicken, der der **Philologen**. Dieser Stand besteht einmal aus solchen Menschen, welche
 ihre Kenntniß des griechischen und römischen Alterthums benutzen, um mit ihr Jünglinge von 13—20 Jahren zu
 erziehen, und sodann aus solchen, welche die Aufgabe haben, derartige Lehrer immer von neuem heranzubilden,
 also Erzieher der Erzieher zu sein; die Philologen der ersten Gattung sind Lehrer an Gymnasien, die der
@@ -168,7 +168,7 @@ Bessere, das sie erkennen, durchzusetzen. Entweder liegt also ihre Schuld in der
 Einsicht oder in der Ohnmacht ihres Willens. Im ersten Falle würden sie sagen, sie wüßten es nicht besser, im
 zweiten, sie könnten es nicht besser. Da aber die Philologen vornehmlich mit Hülfe des griechischen und
 römischen Alterthums erziehen, so könnte die im ersten Falle angenommene Mangelhaftigkeit ihrer Einsicht
-einmal darin sich zeigen, daß sie das Alterthum nicht verstehen; zweitens aber darin, daß
+einmal darin sich zeigen, daß sie das Alterthum **nicht verstehen**; zweitens aber darin, daß
 das Alterthum von ihnen mit Unrecht in die Gegenwart hineingestellt wird, angeblich als das wichtigste
 Hülfsmittel der Erziehung, weil es überhaupt nicht oder jetzt nicht mehr erzieht. Macht man ihnen dagegen die
 Ohnmacht ihres Willens zum Vorwurf, so hätten sie zwar darin volles Recht, wenn sie dem Alterthum jene
@@ -176,7 +176,9 @@ erzieherische Bedeutung und Kraft zuschreiben, aber sie wären nicht die geeigne
 deren das Alterthum diese Kraft äußern könnte: das heißt: sie wären mit Unrecht Lehrer und lebten in einer
 falschen Stellung: aber wie kamen sie dann in diese hinein? Durch eine Täuschung über sich und ihre
 Bestimmung. Um also den Philologen ihren Antheil an der gegenwärtigen schlechten Bildung zuzuerkennen, könnte
-man die verschiedenen Möglichkeiten in diesen Satz zusammenfassen. Drei Dinge muß der
+man die verschiedenen Möglichkeiten in diesen Satz zusammenfassen. **Drei Dinge muß der
 Philologe, wenn er seine Unschuld beweisen will, verstehen, das Alterthum, die Gegenwart, sich selbst: seine
 Schuld liegt darin, daß er entweder das Alterthum nicht oder die Gegenwart nicht oder sich selbst nicht
-versteht. Erste Frage: versteht der Philologe das Alterthum? — — —
+versteht. Erste Frage: versteht der Philologe das Alterthum? — — —**
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

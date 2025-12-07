@@ -17,7 +17,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 --------------------
 
 Es giebt eine vornehme und gefährliche Nachlässigkeit, welche einen tiefen Schluß und Einblick gewährt: die
-Nachlässigkeit der überreichen Seele, die sich nie um Freunde bemüht hat, sondern nur die
+Nachlässigkeit der überreichen Seele, die sich nie um Freunde **bemüht** hat, sondern nur die
 Gastfreundschaft kennt, immer nur Gastfreundschaft übt und zu üben versteht — Herz und Haus offen für
 Jedermann, der eintreten will, seien es nun Bettler oder Krüppel oder Könige. Dies ist die ächte
 Leutseligkeit: wer sie hat, hat hundert „Freunde“, aber wahrscheinlich keinen Freund.
@@ -35,15 +35,15 @@ an und erzählt etwas von verschwiegenen Gärten und Seligkeiten.
 
 Wir sind mitten im gefährlichen Carneval des Nationalitäten-Wahnsinns, wo alle feinere Vernunft sich bei
 Seite geschlichen hat und die Eitelkeit der ruppigsten Winkel-Völker nach den Rechten der Sonder-Existenz und
-Selbstherrlichkeit schreit — wie <kann> man heute es den Polen, der vornehmsten Artung der
+Selbstherrlichkeit schreit — wie &amp;lt;kann&amp;gt; man heute es den Polen, der vornehmsten Artung der
 slavischen Welt, verargen Hoffnungen zu unterhalten und — — —
 
-man sagt mir, daß D<eutschland> dabei das große Wort spreche.
+man sagt mir, daß D&amp;lt;eutschland&amp;gt; dabei das große Wort spreche.
 
 [2[4]](javascript:;)
 --------------------
 
-Halkyonische Zwischenreden.
+**Halkyonische Zwischenreden.**
 
   
 
@@ -92,7 +92,7 @@ Geist, der bis dahin einen langen fröhlichen Tag gehabt hatte: das „Vaterland
 , die Grenze, die Scholle, der
 Vorfahr — alle Arten Bornirtheit begannen plötzlich ihre Rechte geltend zu machen. Damals erwachte
 
-*Erratum:*erwachte  
+*Erratum:***erwachte**  
 *lies:*erwachte  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -110,27 +110,27 @@ seit es politisirt — verlor Deutschland die geistige Führerschaft von Europa:
 *lies:*es  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-mittelmäßigen Engl<ändern>, die
+mittelmäßigen Engl&amp;lt;ändern&amp;gt;, die
 
 *Erratum:*den  
 *lies:*die  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- D<eutschen> — — —
+ D&amp;lt;eutschen&amp;gt; — — —
 
 [2[6]](javascript:;)
 --------------------
 
-Die vorletzten Jahrhunderte. —
+**Die vorletzten Jahrhunderte. —**
 
 Deutschland hat erst in dem 17. und 18. Jahrhundert seine eigenste Kunst, die Musik, auf die Höhe gebracht:
 man vergebe es einem mitunter melancholischen Beobachter, wenn er die deutsche Musik des neunzehnten
 Jahrhunderts auch nur als eine glänzende vielfache und gelehrte Form des Verfalls zu erkennen vermag. Es hat
 in demselben vielverlästerten Jahrhundert ebenfalls in den bildenden Künsten eine verschwenderische Lust und
-Kraft gezeigt: der deutsche Barockstil in Kirche und Pallast gehört als Nächstverwandter zu unsrer Musik — u<nd>
+Kraft gezeigt: der deutsche Barockstil in Kirche und Pallast gehört als Nächstverwandter zu unsrer Musik — u&amp;lt;nd&amp;gt;
 
 *Erratum:*er  
-*lies:*u<nd>  
+*lies:*u&amp;lt;nd&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 bildet im Reiche der Augen dieselbe Gattung von Zaubern und Verführungen, welche unsere Musik für einen
@@ -148,7 +148,7 @@ Unendlichkeit und Mystik gehört zu unserer Musik und ist eine Art Barokko im Re
 [2[7]](javascript:;)
 --------------------
 
-Dem Geiste, den wir begreifen —, dem gleichen wir nicht: dem sind wir überlegen!
+Dem Geiste, den wir begreifen —, dem **gleichen** wir nicht: dem sind wir überlegen!
 
 [2[8]](javascript:;)
 --------------------
@@ -160,14 +160,14 @@ oft um. Zum Beispiel der „Patriotismus“ im heutigen Europa, „die Liebe zum
 [2[9]](javascript:;)
 --------------------
 
-An meine Freunde.
+**An meine Freunde.**
 
 Dieses Buch, welches in einem weiten Umkreis von Ländern und Völkern seine Leser zu finden gewußt hat und
 irgend eine Kunst verstehen muß, durch die auch spröde und widerspänstige Ohren verführt werden: gerade dieses
 Buch ist meinen näheren Freunden am unverständlichsten geblieben: — es war ihnen, als es erschien, ein
 Schrecken und ein Fragezeichen und legte eine lange Entfremdung zwischen sie und mich. In der That, der
 Zustand, aus dem es entsprang, hatte genug des Räthselhaften und Widersprechenden an sich: ich war damals
-zugleich sehr glücklich und sehr leidend — Dank einem großen Siege, den ich über mich selbst davongetragen hatte, einem jener gefährlichen Siege, an
+zugleich **sehr** glücklich und **sehr** leidend — Dank einem großen **Siege**, den ich über mich selbst davongetragen hatte, einem jener gefährlichen Siege, an
 denen man zu Grunde zu gehen pflegt. Eines Tages — es war im Sommer 1876 — kam mir eine plötzliche Verachtung
 und Einsicht: und von da an gieng ich unbarmherzig über all die schönen Wünschbarkeiten hinweg, an die meine
 Jugend ihr Herz verschenkt hatte
@@ -180,16 +180,16 @@ Der Nationalitäten-Wahnsinn und die Vaterlands-Tölpelei sind für mich ohne Za
 als —. Ihr erster Staatsmann, in dessen Kopfe sich braver Grund von Royalismus und Christenthum mit einer
 rücksichtenlosen Augenblicks-Politik verträgt, der nicht mehr von der Philosophie berührt ist als ein Bauer
 oder ein Corpsstudent, erregt meine ironische Neugierde. Es scheint mir sogar nützlich, daß es einige Deutsche
-giebt, die gegen das d<eutsche> R<eich> gleichgültig geblieben sind: nicht einmal
-als Zuschauer, sondern als Wegblickende. Wohin blicken sie denn? Es giebt wichtigere
+giebt, die gegen das d&amp;lt;eutsche&amp;gt; R&amp;lt;eich&amp;gt; gleichgültig geblieben sind: nicht einmal
+als Zuschauer, sondern als Wegblickende. **Wohin** blicken sie denn? Es giebt wichtigere
 Dinge, gegen welche gerechnet diese Fragen nur Vordergrunds-Fragen sind: z.B. das wachsende Heraufkommen des
-demokratischen Mannes und die dadurch bedingte Verdummung Europas und Verkleinerung des
+demokratischen Mannes und die dadurch bedingte Verdummung Europas und **Verkleinerung** des
 europäischen Menschen.
 
 [2[11]](javascript:;)
 ---------------------
 
-Das intellectuelle Gewissen.
+**Das intellectuelle Gewissen.**
   
 Versuch einer Kritik der geistigeren Menschen.
 
@@ -235,16 +235,16 @@ Alles, was wir in Europa heute als „Humanität“, „Moralität“,
  zu
 verehren gewohnt sind, zwar als Schwächung und Milderung gewisser gefährlicher und mächtiger Grundtriebe einen
 Vordergrunds-Werth haben mag, aber auf die Länge hin trotzdem nichts Anderes ist als die Verkleinerung des
-ganzen Typus „Mensch“ — seine endgültige Vermittelmäßigung, wenn man mir in einer
+ganzen Typus „Mensch“ — seine endgültige **Vermittelmäßigung**, wenn man mir in einer
 verzweifelten Angelegenheit ein verzweifeltes Wort nachsehen will; ich glaube, daß die commedia umana für
 einen epikurischen Zuschauer-Gott darin bestehen müßte, daß die Menschen vermöge ihrer wachsenden Moralität,
 in aller Unschuld und Eitelkeit sich vom Thiere zum Range der „Götter“ und zu überirdischen Bestimmungen zu
-erheben wähnen, aber in Wahrheit sinken, das heißt durch Ausbildung aller der Tugenden,
+erheben wähnen, aber in Wahrheit **sinken**, das heißt durch Ausbildung aller der Tugenden,
 vermöge deren eine Heerde gedeiht, und durch Zurückdrängung jener andren und entgegengesetzten, welche einer
-neuen höheren stärkeren herrschaftlichen Art den Ursprung geben, eben nur das
-Heerdenthier im Menschen entwickeln und vielleicht das Thier „Mensch“ damit feststellen —
+neuen höheren stärkeren **herrschaftlichen** Art den Ursprung geben, eben nur das
+Heerdenthier im Menschen entwickeln und vielleicht das Thier „Mensch“ damit **feststellen** —
 denn bisher war der Mensch das „nicht festgestellte Thier“—; ich glaube, daß die große vorwärts treibende und
-unaufhaltsame demokratische Bewegung Europa’s — das, was sich „Fortschritt“ nennt — und
+unaufhaltsame **demokratische** Bewegung Europa’s — das, was sich „Fortschritt“ nennt — und
 ebenso schon deren Vorbereitung und moralisches Vorzeichen, das Christenthum — im Grunde nur die ungeheure
 instinktive Gesammt-Verschwörung der Heerde bedeutet gegen alles, was Hirt, Raubthier, Einsiedler und Cäsar
 ist, zu Gunsten der Erhaltung und Heraufbringung aller Schwachen, Gedrückten, Schlecht-Weggekommenen,
@@ -266,7 +266,7 @@ irgend welchem Namen als ihrer Grundlage und Bedingung bedarf; ich glaube endlic
 
  daß bisher jede Erhöhung des
 Typus Mensch das Werk einer aristokratischen Gesellschaft war, welche an eine lange Leiter der Rangordnung und
-Werthverschiedenheit von Mensch und Mensch glaubte und die Sklaverei nöthig hatte: ja daß ohne das Pathos der Distanz, wie es aus dem eingefleischten Unterschiede der Stände, aus dem
+Werthverschiedenheit von Mensch und Mensch glaubte und die Sklaverei nöthig hatte: ja daß ohne das **Pathos der Distanz**, wie es aus dem eingefleischten Unterschiede der Stände, aus dem
 beständigen Anblick
 
 *Erratum:*Ausblick  
@@ -293,9 +293,9 @@ gesagt, welche ein Recht auf solche fragwürdige
 
  Fragen haben, den stärksten Seelen von heute, welche sich
 selbst auch am besten in der Gewalt haben: wäre es nicht an der Zeit, je mehr der Typus „Heerdenthier“ jetzt
-in Europa entwickelt wird, mit einer grundsätzlichen künstlichen und bewußten Züchtung
+in Europa entwickelt wird, mit einer grundsätzlichen künstlichen und bewußten **Züchtung**
 des entgegengesetzten Typus und seiner Tugenden den Versuch zu machen? Und wäre es für die demokratische
-Bewegung nicht selber erst eine Art Ziel, Erlösung und Rechtfertigung, wenn Jemand käme, der sich ihrer bediente —, dadurch daß endlich sich zu ihrer neuen und sublimen Ausgestaltung der
+Bewegung nicht selber erst eine Art Ziel, Erlösung und Rechtfertigung, wenn Jemand käme, der sich ihrer **bediente** —, dadurch daß endlich sich zu ihrer neuen und sublimen Ausgestaltung der
 Sklaverei,
 
 *Erratum:*Sklaverei —  
@@ -309,7 +309,7 @@ Sklaverei,
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  jene höhere
-Art herrschaftlicher und cäsarischer Geister hinzufände, welche diese neue Sklaverei nun auch — nöthig hat? Zu neuen, bisher unmöglichen, zu ihren Fernsichten? Zu ihren Aufgaben?
+Art herrschaftlicher und cäsarischer Geister hinzufände, welche diese neue Sklaverei nun auch — **nöthig** hat? Zu neuen, bisher unmöglichen, zu **ihren** Fernsichten? Zu **ihren** Aufgaben?
 
 [2[14]](javascript:;)
 ---------------------
@@ -336,7 +336,7 @@ Macht, — es giebt eine Grausamkeit böser und auch eine Grausamkeit schlechter
 [2[16]](javascript:;)
 ---------------------
 
-Was ist vornehm?
+**Was ist vornehm?**
 
 Glaube an die Rangordnung.
 
@@ -351,7 +351,7 @@ Herren-Moral und Heerden-Moral.
 
 Die genannten Schriften, sorgsam und langwierig befragt, möchten als Mittel benutzt werden, um vielleicht den
 Zugang zum Verständniß eines noch höheren und schwierigeren Typus zu erschließen, als es selbst
-<der> Typus des freien Geistes ist: — es führt kein anderer Weg zum Verständniß von — — —
+&amp;lt;der&amp;gt; Typus des freien Geistes ist: — es führt kein anderer Weg zum Verständniß von — — —
 
 \*   \*   \*
 
@@ -376,15 +376,15 @@ vornehmer und kriegerischer Abkunft verrathen und errathen. —
 [2[20]](javascript:;)
 ---------------------
 
-„Geradezu stoßen die Adler“. Die Vornehmheit der Seele ist nicht am wenigsten an der
-prachtvollen und stolzen Dummheit zu erkennen, mit der sie angreift — „geradezu“.
+**„Geradezu stoßen die Adler“.** Die Vornehmheit der Seele ist nicht am wenigsten an der
+prachtvollen und stolzen Dummheit zu erkennen, mit der sie **angreift** — „geradezu“.
 
 [2[21]](javascript:;)
 ---------------------
 
 Es giebt auch eine Verschwendung unsrer Leidenschaften und Begierden, nämlich in der bescheidenen und
 kleinbürgerlichen Art, in der wir sie befriedigen: — was den Geschmack verdirbt, noch mehr aber die Ehrfurcht
-und Furcht vor uns selber. Der zeitweilige Ascetismus ist das Mittel, sie zu stauen, —
+und Furcht vor uns selber. Der zeitweilige Ascetismus ist das Mittel, sie zu **stauen**, —
 ihnen Gefährlichkeit und großen Stil zu geben — —
 
 [2[22]](javascript:;)
@@ -408,21 +408,21 @@ sprichwörtlichen Ausdrucks, der so viel über die „Gesundheit“ des französ
 [2[24]](javascript:;)
 ---------------------
 
-— Und nochmals gesagt: die Bestie in uns will belogen werden, — Moral ist Nothlüge.
+— Und nochmals gesagt: die Bestie in uns will **belogen** werden, — Moral ist Nothlüge.
 
 [2[25]](javascript:;)
 ---------------------
 
 „Du scheinst mir Schlimmes im Schilde zu führen, sagte ich einmal zu dem Gotte Dionysos: nämlich die Menschen
 zu Grunde zu richten?“ — „Vielleicht, antwortete der Gott, aber so, daß dabei etwas für mich heraus kommt.“ —
-Was denn? fragte ich neugierig. — „Wer denn? solltest du fragen.“ Also sprach Dionysos
+Was denn? fragte ich neugierig. — „**Wer** denn? solltest du fragen.“ Also sprach Dionysos
 und schwieg darauf, in der Art, welche ihm zu eigen ist, nämlich versucherisch. — Ihr hättet ihn dabei sehen
 sollen! Es war Frühling, und alles Holz stand in jungem Safte.
 
 [2[26]](javascript:;)
 ---------------------
 
-Jenseits von Gut und Böse.
+**Jenseits von Gut und Böse.**
 
   
 
@@ -437,7 +437,7 @@ Friedrich Nietzsche.
 [2[27]](javascript:;)
 ---------------------
 
-Jenseits von Gut und Böse.
+**Jenseits von Gut und Böse.**
 
   
 
@@ -467,12 +467,12 @@ Strafen proportional wehe thun sollen gemäß der Größe des Verbrechens — un
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  nun, so müßten sie jedem Verbrecher proportional seiner Empfindlichkeit für Schmerz zugemessen werden: — daß
-heißt, es dürfte eine vorherige Bestimmung der Strafe für ein Vergehen, es dürfte einen
-Strafcodex gar nicht
-geben?
+heißt, es dürfte eine **vorherige** Bestimmung der Strafe für ein Vergehen, es dürfte einen
+Strafcodex **gar nicht**
+**geben**?
 
-*Erratum:*geben!  
-*lies:*geben?  
+*Erratum:***geben**!  
+*lies:***geben**?  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Aber, in Anbetracht, daß es nicht leicht gelingen möchte, bei einem Verbrecher die
@@ -482,7 +482,7 @@ Welche Einbuße! Nicht wahr? Folglich — —
 [2[29]](javascript:;)
 ---------------------
 
-Die Musik offenbart nicht das Wesen der Welt und ihren „Willen“ wie es Schopenhauer
+Die Musik offenbart **nicht** das Wesen der Welt und ihren „Willen“ wie es Schopenhauer
 behauptet hat (der sich über die Musik betrog wie über das Mitleiden und aus dem gleichen Grunde — er kannte
 beide zu wenig aus Erfahrung —): die Musik offenbart nur die Herrn Musiker! Und sie wissen es selber nicht! —
 Und wie gut vielleicht, daß sie es nicht wissen! —
@@ -490,7 +490,7 @@ Und wie gut vielleicht, daß sie es nicht wissen! —
 [2[30]](javascript:;)
 ---------------------
 
-Unsere Tugenden.
+**Unsere Tugenden.**
 
   
 
@@ -505,7 +505,7 @@ Friedrich Nietzsche.
 [2[31]](javascript:;)
 ---------------------
 
-Unsere Tugenden.
+**Unsere Tugenden.**
 
   
 
@@ -531,7 +531,7 @@ Vom Willen zur Einsamkeit.
 [2[32]](javascript:;)
 ---------------------
 
-Die Philosophen der Zukunft.
+**Die Philosophen der Zukunft.**
   
 Eine Rede.
 
@@ -543,14 +543,14 @@ Ist heute solch eine Größe möglich? —
 
 2.
 
-Aber vielleicht morgen, vielleicht übermorgen. — Ich sehe neue Ph<ilosophen> heraufkommen
+Aber vielleicht morgen, vielleicht übermorgen. — Ich sehe neue Ph&amp;lt;ilosophen&amp;gt; heraufkommen
 usw.
 
 [2[33]](javascript:;)
 ---------------------
 
 Es giebt ein Mißverständniß der Heiterkeit, welches nicht zu heben ist: aber wer es theilt, darf zuletzt
-gerade damit zufrieden sein. — Wir, die wir zum Glücke flüchten —: wir, die wir jede art
+gerade damit zufrieden sein. — Wir, die wir zum Glücke **flüchten** —: wir, die wir jede art
 Süden und unbändige Sonnenfülle brauchen und uns dorthin an die Straße setzen, wo das Leben sich wie ein
 trunkener Fratzen-Festzug — als etwas das von Sinnen bringt — vorüberwälzt;
 
@@ -559,8 +559,8 @@ trunkener Fratzen-Festzug — als etwas das von Sinnen bringt — vorüberwälzt
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  wir, die wir gerade das vom Glücke
-verlangen, daß es „von Sinnen“ bringt: scheint es nicht, daß wir ein Wissen haben welches
-wir fürchten? Mit dem wir nicht allein sein wollen? Ein Wissen, vor dessen Druck wir
+verlangen, **daß** es „von Sinnen“ bringt: scheint es nicht, daß wir ein Wissen haben welches
+wir **fürchten**? Mit dem wir nicht allein sein wollen? Ein Wissen, vor dessen Druck wir
 zittern, vor dessen Flüstern wir bleich werden? Diese hartnäckige Abkehr von den traurigen Schauspielen, diese
 verstopften und harten Ohren gegen alles Leidende, diese tapfere, spöttische Oberflächlichkeit, dieser
 willkürliche Epicureismus des Herzens, welcher nichts warm und ganz haben will
@@ -569,7 +569,7 @@ willkürliche Epicureismus des Herzens, welcher nichts warm und ganz haben will
 *lies:*will  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- und die Maske als ihre letzte Gottheit und Erlöserin anbetet: dieser Hohn gegen den
+ und die **Maske** als ihre letzte Gottheit und Erlöserin anbetet: dieser Hohn gegen den
 
 *Erratum:*die  
 *lies:*den  
@@ -592,7 +592,7 @@ Geschmacks, bei dem
 scheint, wir wissen uns selber als allzu zerbrechlich, vielleicht schon als zerbrochen und unheilbar; es
 scheint, wir fürchten diese Hand des Lebens, daß es uns zerbrechen muß, und flüchten uns in seinen Schein, in
 seine Falschheit, seine Oberfläche und bunte Betrügerei; es scheint, wir sind heiter, weil wir ungeheuer
-traurig sind. Wir sind ernst, wir kennen den Abgrund: deshalb wehren wir uns gegen alles
+traurig sind. Wir sind ernst, wir kennen den Abgrund: **deshalb** wehren wir uns gegen alles
 Ernste.
 
   
@@ -609,9 +609,9 @@ ab von den traurigen Schauspielen, wir verstopfen das Ohr gegen das Leidende,
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  das Mitleiden würde uns sofort
-zerbrechen, wenn wir nicht uns <zu> verhärten wüßten. Bleib uns tapfer zur Seite, spöttischer
+zerbrechen, wenn wir nicht uns &amp;lt;zu&amp;gt; verhärten wüßten. Bleib uns tapfer zur Seite, spöttischer
 Leichtsinn: kühle uns, Wind, der über Gletscher gelaufen ist: wir wollen nichts mehr ans Herz nehmen, wir
-wollen zur Maske beten
+wollen zur **Maske** beten
 
 *Erratum:*beten.  
 *lies:*beten  
@@ -659,17 +659,17 @@ werden wollten
 mit gebührendem Schnitte zu trennen lernte. Daß ich über das außerordentliche Problem des Schauspielers zur
 Besinnung gekommen bin — ein Problem, das mir vielleicht ferner liegt als irgend ein andres, aus einem schwer
 aussprechbaren Grunde — daß ich den Schauspieler im Grunde jedes Künstlers entdeckte und wiedererkannte, das
-Typisch-Künstlerhafte, dazu bedurfte es der Berührung mit jenem <Manne> — und es scheint mir,
-daß ich von Beiden höher u<nd>
+Typisch-Künstlerhafte, dazu bedurfte es der Berührung mit jenem &amp;lt;Manne&amp;gt; — und es scheint mir,
+daß ich von Beiden höher u&amp;lt;nd&amp;gt;
 
 *Erratum:*und —  
-*lies:*u<nd>  
+*lies:*u&amp;lt;nd&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- schlimmer denke als ein früherer Philos<oph>
+ schlimmer denke als ein früherer Philos&amp;lt;oph&amp;gt;
 
 *Erratum:*frühere Philosophen  
-*lies:*ein früherer Philos<oph>  
+*lies:*ein früherer Philos&amp;lt;oph&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 . — Die Verbesserung des Theaters geht
@@ -738,7 +738,7 @@ Man hat immer etwas Nöthigeres zu thun, als sich zu verheirathen: Himmel, so is
 [2[38]](javascript:;)
 ---------------------
 
-Jenseits von Gut und Böse.
+**Jenseits von Gut und Böse.**
   
 Fingerzeige zu einer Moral der Stärksten.
 
@@ -765,7 +765,7 @@ homo religiosus.
 [2[41]](javascript:;)
 ---------------------
 
-Zur Naturgeschichte des höheren Menschen.
+**Zur Naturgeschichte des höheren Menschen.**
 
   
 
@@ -788,12 +788,12 @@ Gedanken eines Erziehers.
 | 10. | Moral-Psychologie. |
 |  | Sprüche und Gedanken-Striche. |
 |  | Was ist vornehm? |
-| Anhang. Lieder des Prinzen Vogelfrei. | |
+| **Anhang.** Lieder des Prinzen Vogelfrei. | |
 
 [2[42]](javascript:;)
 ---------------------
 
-Jenseits von Gut und Böse.
+**Jenseits von Gut und Böse.**
 
   
 
@@ -812,7 +812,7 @@ Friedrich Nietzsche.
 [2[43]](javascript:;)
 ---------------------
 
-Zur Naturgeschichte des höheren Menschen.
+**Zur Naturgeschichte des höheren Menschen.**
 
   
 
@@ -834,14 +834,14 @@ Gedankenstriche eines Psychologen.
 | 10. | Weisheit und Maske. |
 | 11. | Die Kommenden. |
 | 12. | Sprüche eines Schweigsamen. |
-| Anhang. Lieder und Pfeile des Prinzen Vogelfrei. | |
+| **Anhang.** Lieder und Pfeile des Prinzen Vogelfrei. | |
 
 [2[44]](javascript:;)
 ---------------------
 
 |  |  |  |
 | --- | --- | --- |
-|  |  | Vorrede. |
+|  |  | **Vorrede.** |
 | 1. | Was war der Philosoph? |
 | 2. | Zur Naturgeschichte des freien Geistes. |
 | 3. | Selbstgespräch eines Psychologen. |
@@ -853,7 +853,7 @@ Gedankenstriche eines Psychologen.
 | 9. | Völker und Vaterländer. |
 | 10. | Die Masken. |
 | 11. | Die Versucher.    Dionysos. *Erratum:*Dionysos *lies:*Dionysos. [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) |
-| Anhang: — — — | |
+| **Anhang:**— — — | |
 | Inhalts-Verzeichniß. | |
 
 [2[45]](javascript:;)
@@ -871,7 +871,7 @@ Unglauben; — — —
 [2[46]](javascript:;)
 ---------------------
 
-Zur Naturgeschichte des höheren Menschen.
+**Zur Naturgeschichte des höheren Menschen.**
 
   
 
@@ -885,7 +885,7 @@ Friedrich Nietzsche.
 [2[47]](javascript:;)
 ---------------------
 
-Jenseits von Gut und Böse.
+**Jenseits von Gut und Böse.**
 
   
 
@@ -904,7 +904,7 @@ Friedrich Nietzsche.
 
   
 
-Anhang:
+**Anhang:**
   
 Lieder und Pfeile  
 des  
@@ -943,7 +943,7 @@ ein kleiner Theater-Regisseur.
 [2[50]](javascript:;)
 ---------------------
 
-Inhalt:
+**Inhalt:**
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -963,7 +963,7 @@ Inhalt:
 [2[51]](javascript:;)
 ---------------------
 
-Selbstgespräche
+**Selbstgespräche**
   
 eines Psychologen.
 
@@ -985,7 +985,7 @@ Was ist vornehm?
 [2[52]](javascript:;)
 ---------------------
 
-Sprüche und Selbstgespräche.
+**Sprüche und Selbstgespräche.**
 
   
 
@@ -999,7 +999,7 @@ Friedrich Nietzsche.
 [2[53]](javascript:;)
 ---------------------
 
-Jenseits von Gut und Böse
+**Jenseits von Gut und Böse**
   
 Vorspiel  
 einer Philosophie der Zukunft.
@@ -1008,7 +1008,7 @@ einer Philosophie der Zukunft.
 | --- | --- |
 | Einleitung. |  |
 | Erstes Buch: | von den Vorurtheilen der Philosophen. |
-| Zweites Buch: | Fingerzeige eines Moral-Psycholo<gen> *Erratum:*einer Moral-Psychologie. *lies:*eines Moral-Psycholo<gen> [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) |
+| Zweites Buch: | Fingerzeige eines Moral-Psycholo&amp;lt;gen&amp;gt; *Erratum:*einer Moral-Psychologie. *lies:*eines Moral-Psycholo&amp;lt;gen&amp;gt; [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) |
 | Drittes Buch: | wir Europäer. Eine Gelegenheit zur Selbstbespiegelung. |
 
 [2[54]](javascript:;)
@@ -1033,7 +1033,7 @@ Prava corrigere, et recta corroborare, et sancta sublimare.
 [2[56]](javascript:;)
 ---------------------
 
-Corruption des kräftigen Naturmenschen im Zwang der civilisirten Städte (— geräth zu den
+**Corruption** des kräftigen Naturmenschen im Zwang der civilisirten Städte (— geräth zu den
 aussätzigen Bestandtheilen, lernt da das schlechte Gewissen)
 
 *Erratum:*Gewissen).  
@@ -1082,7 +1082,7 @@ Genug, die Zeit kommt, wo man über Politik umlernen wird.
 ---------------------
 
 ich glaube, wir ermangeln der politischen Leidenschaft: wir würden es unter einem
-demokr<atischen> Himmel so gut als unter einem abs<olutistischen> mit Ehren
+demokr&amp;lt;atischen&amp;gt; Himmel so gut als unter einem abs&amp;lt;olutistischen&amp;gt; mit Ehren
 aushalten.
 
 [2[59]](javascript:;)
@@ -1092,7 +1092,7 @@ Zu 1
 
   
 
-Zuletzt aber: wozu müßte man das, was kommen wird, so laut und mit solchem Ingrimm
+Zuletzt aber: wozu müßte man das, was kommen **wird**, so laut und mit solchem Ingrimm
 sagen! Sehen wir es kälter, ferner, klüger, höher an, sagen wir es, wie es unter uns gesagt werden darf, so
 heimlich, daß alle Welt es überhört, —
 
@@ -1100,14 +1100,14 @@ heimlich, daß alle Welt es überhört, —
 *lies:*überhört, —  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- daß alle Welt uns überhört… Nenne man es eine
+ daß alle Welt **uns** überhört… Nenne man es eine
 Fortsetzung.
 
 [2[60]](javascript:;)
 ---------------------
 
-Wie? Das Drama ist der Zweck, die Musik immer nur das Mittel? Das mag W<agner>s Theorie sein:
-seine Praxis war dagegen: die (dramatische) Attitüde ist der Zweck, die Musik immer nur
+Wie? Das Drama ist der Zweck, die Musik immer nur das Mittel? Das mag W&amp;lt;agner&amp;gt;s Theorie sein:
+seine Praxis war dagegen: die (dramatische) **Attitüde** ist der Zweck, die Musik immer nur
 
 *Erratum:*Musik nur ein  
 *lies:*Musik immer nur  
@@ -1134,8 +1134,8 @@ zum Schmuck oder zum Versteck oder aus Mißverständniß.
 ---------------------
 
 Die Physiologen sollten sich besinnen, den Erhaltungstrieb als kardinalen Trieb eines organischen Wesens
-anzusetzen: vor allem will etwas Lebendiges seine Kraft auslassen: die „Erhaltung“ ist
-nur eine der Consequenzen davon. — Vorsicht vor überflüssigen teleologischen Principien!
+anzusetzen: vor allem will etwas Lebendiges seine Kraft **auslassen**: die „Erhaltung“ ist
+nur eine der Consequenzen davon. — Vorsicht vor **überflüssigen** teleologischen Principien!
 Und dahin gehört der ganze Begriff „Erhaltungstrieb“.
 
 [2[64]](javascript:;)
@@ -1146,7 +1146,7 @@ Jeder Philoktet weiß, daß ohne seinen Bogen und seine Pfeile Troja nicht erobe
 [2[65]](javascript:;)
 ---------------------
 
-In media vita.
+**In media vita.**
   
 Selbstgespräche eines Psychologen.
 
@@ -1160,23 +1160,23 @@ Friedrich Nietzsche.
 
 |  |  |
 | --- | --- |
-| — | Zur Vorrede. — Vielleicht eine Fortsetzung: der Künstler-Philosoph (bisher Wissenschaftlichkeit, Stellung zur Religion und Politik erwähnt): höherer Begriff der Kunst. Ob der Mensch sich so fern stellen kann von den anderen Menschen, um an ihnen zu gestalten? (Vorübungen: 1) der Sich-selbst-Gestaltende, der Einsiedler 2) der bisherige Künstler, als der kleine Vollender, an einem Stoffe (nein!<)> *Erratum:*— nein! — *lies:*(nein!<)> [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) )  — dazu gehört die Rangfolge der höheren Menschen, welche dargestellt werden muß. |
-| — | Ein Capitel: Musik. — Zur Lehre vom „Rausche“ (Aufzählung, z.B. Anbetung der petits faits) — Deutsche und französische und italienische Musik. (Unsere politisch niedrigsten Zeiten die fruchtbarsten: —) die *Erratum:*Die *lies:*die [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Slaven? — das kulturhistorische Ballet: — hat die Oper überwunden. — ein Irrthum, daß das, was W<agner> geschaffen hat, eine Form sei, — es ist eine Formlosigkeit. Die Möglichkeit eines dramatischen Baus ist immer noch zu finden. Schauspieler-Musik und Musiker-Musik *Erratum:*Musiker-Musik. *lies:*Musiker-Musik [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  — Rhythmisches. Der Ausdruck um jeden Preis. — zu Ehren von „Carmen“. — zu Ehren von H. Schütz (und „Liszt-Verein“ —) — hurenhafte Instrumentation — zu Ehren Mendelssohn’s: ein Element Goethe darin, und nirgends sonst! ebenso wie ein andres Element Goethe in der Rahel zur Vollendung kam! ein drittes H. Heine *Erratum:*Heine. *lies:*Heine [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) |
+| — | **Zur Vorrede. —**Vielleicht eine Fortsetzung: der **Künstler**-Philosoph (bisher Wissenschaftlichkeit, Stellung zur Religion und Politik erwähnt): höherer Begriff der **Kunst**. Ob der Mensch sich so fern stellen kann von den anderen Menschen, um **an ihnen zu gestalten**? (Vorübungen: 1) der Sich-selbst-Gestaltende, der Einsiedler 2) der **bisherige** Künstler, als der kleine Vollender, an einem Stoffe (nein!&amp;lt;)&amp;gt; *Erratum:*— nein! — *lies:*(nein!&amp;lt;)&amp;gt; [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) )  — dazu gehört die **Rangfolge** der höheren Menschen, welche dargestellt werden muß. |
+| — | **Ein Capitel: Musik. —** Zur Lehre vom „Rausche“ (Aufzählung, z.B. Anbetung der petits faits) — Deutsche und französische und italienische Musik. (Unsere politisch niedrigsten Zeiten die **fruchtbarsten**: —) die *Erratum:*Die *lies:*die [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Slaven? — das kulturhistorische Ballet: — hat die Oper überwunden. — ein Irrthum, daß das, was W&amp;lt;agner&amp;gt; geschaffen hat, eine Form sei, — es ist eine Formlosigkeit. Die Möglichkeit eines **dramatischen** Baus ist immer noch zu finden. Schauspieler-Musik und Musiker-Musik *Erratum:*Musiker-Musik. *lies:*Musiker-Musik [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  — Rhythmisches. Der Ausdruck um jeden Preis. — zu Ehren von „Carmen“. — zu Ehren von H. Schütz (und „Liszt-Verein“ —) — hurenhafte Instrumentation — zu Ehren **Mendelssohn’s**: ein Element Goethe darin, und nirgends sonst! ebenso wie ein andres Element Goethe in der Rahel zur Vollendung kam! ein drittes H. Heine *Erratum:*Heine. *lies:*Heine [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) |
 
-Zum Capitel „freier Geist.“
+Zum Capitel **„freier** **Geist.“**
 
-*Erratum:*Geist“  
-*lies:*Geist.“  
+*Erratum:***Geist“**  
+*lies:***Geist.“**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  — 1) Ich will ihn nicht „verherrlichen“:
 ein Wort zu Gunsten der gebundenen Geister.  
-2) die Lasterhaftigkeit des Intellekts: der Beweis aus der Lust („es
+2) die Lasterhaftigkeit des Intellekts: der Beweis aus der **Lust** („es
 macht mich glücklich, also ist es wahr“) Dabei die Eitelkeit zu unterstreichen in dem „mich“.
 
-Zum Capitel „unsere Tugenden“: 3) neue Form der Moralität: Treue-Gelübde in Vereinen über das, was man lassen und thun will, ganz bestimmte Entsagung von Vielem. Proben, ob reif dazu. —
+Zum Capitel **„unsere Tugenden“**: 3) neue Form der Moralität: **Treue-Gelübde** in Vereinen über das, was man lassen und thun will, ganz **bestimmte** Entsagung von Vielem. Proben, ob reif dazu. —
 
-Zum Capitel „religiöses Genie“. 1) das Mysterium, die vorbildliche
+Zum Capitel **„religiöses Genie“**. 1) das Mysterium, die vorbildliche
 Geschichte einer Seele
 
 *Erratum:*Seele.  
@@ -1193,45 +1193,45 @@ Geschichte einer Seele
  der Glaube an den „Sinn“ wird Dank der Religion
 festgehalten —  
 3) in wiefern die höhere Seele auf Unkosten der niederen wächst und gedeiht?  
-4) was widerlegt ist, ist die Moral des Christenthums als essentiell
+4) was widerlegt ist, ist die **Moral** des Christenthums als essentiell
 in den Welt-Seelegeschicken: — womit noch nicht der Wille beseitigt ist, sie hineinzubringen und herrschend zu
-machen. — Letzteres könnte zuletzt doch nur eine Don-Quixoterie sein: — aber dies wäre
+machen. — Letzteres könnte zuletzt doch nur eine Don-Quixoterie sein: — aber **dies** wäre
 kein Grund, gering von ihr zu denken!  
 5) inwiefern das religiöse Genie eine Abart des künstlerischen ist:
-— die gestaltende Kraft.  
-6) inwiefern erst das Künstler-Gewissen die Freiheit vor „wahr— und
+— die **gestaltende** Kraft.  
+6) inwiefern erst das **Künstler**-Gewissen die Freiheit vor „wahr— und
 „unwahr“ giebt. Der unbedingte „Glaube“
 
 *Erratum:*Glaube  
 *lies:*„Glaube“  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- zu verwandeln in den unbedingten Willen — —  
+ zu verwandeln in den unbedingten **Willen** — —  
 7) religiöse Litteratur, der Begriff „heiliges Buch“.
 
-zu „unsere Tugenden“. Woran wir unsere Wissenschaftlichkeit
+zu **„unsere Tugenden“**. Woran wir unsere Wissenschaftlichkeit
 auslassen können, das nehmen wir nicht mehr schwer und ernst: eine Art Immoralität.
 
   
 
-Zum Capitel
-„Naturgeschichte der Moral“.
+Zum **Capitel**
+**„Naturgeschichte der****Moral“**.
 
-*Erratum:*Moral“?  
-*lies:*Moral“.  
+*Erratum:***Moral“**?  
+*lies:***Moral“**.  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Corruption, was ist das? Z.B. des natürl<ichen> kräftigen
+ **Corruption**, was ist das? Z.B. des natürl&amp;lt;ichen&amp;gt; kräftigen
 
 *Erratum:*der
 natürliche kräftige  
-*lies:*des natürl<ichen> kräftigen  
+*lies:*des natürl&amp;lt;ichen&amp;gt; kräftigen  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Mensch der in die Städte kommt. Z.B. der französ<ischen> Aristokraten
+ Mensch der in die Städte kommt. Z.B. der französ&amp;lt;ischen&amp;gt; Aristokraten
 
 *Erratum:*französische Aristokrat  
-*lies:*französ<ischen> Aristokraten  
+*lies:*französ&amp;lt;ischen&amp;gt; Aristokraten  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 , vor der französischen
@@ -1239,9 +1239,9 @@ Revolution.
 
   
 
-Zum Capitel „Mann und Weib“.
+Zum Capitel **„Mann und Weib“**.
 
-Der Sieg des Mannes
+Der **Sieg** des Mannes
 
 *Erratum:*Manns  
 *lies:*Mannes  
@@ -1272,18 +1272,18 @@ Stier war —
 
 Am
 
-*Erratum:*Am  
+*Erratum:***Am**  
 *lies:*Am  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Leitfaden des Leibes. Das sich theilende Protoplasma.
+ **Leitfaden des Leibes.** Das sich theilende Protoplasma.
 
 *Erratum:*Protoplasma  
 *lies:*Protoplasma.  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  1/2 + 1/2
-nicht = 1, sondern = 2. <Damit> wird der Glaube an die Seelen-Monas
+**nicht** = 1, sondern = 2. &amp;lt;Damit&amp;gt; wird der Glaube an die Seelen-Monas
 hinfällig.  
 Selbst Erhaltung
 
@@ -1302,9 +1302,9 @@ Selbst Erhaltung
 [2[69]](javascript:;)
 ---------------------
 
-Die mechanische Kraft ist uns nur als ein Widerstandsgefühl bekannt: und dieses wird mit
-Druck und Stoß nur sinnfällig ausgelegt,
-nicht erklärt.
+Die mechanische Kraft ist uns nur als ein **Widerstandsgefühl** bekannt: und dieses wird mit
+**Druck** und **Stoß** nur sinnfällig **ausgelegt**,
+nicht **erklärt**.
 
 Welcher Art ist der Zwang, den eine stärkere Seele auf eine schwächere ausübt? — Und es wäre möglich, daß der
 anscheinende „Ungehorsam“ gegen die höhere Seele im Nicht-verstehen-ihres-Willens beruhte.
@@ -1320,7 +1320,7 @@ sich nicht kommandiren. Aber
 *lies:*Aber  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- es bedarf eben einer langsamen Grad- und Rangverschiedenheit: nur die Nächst-verwandten
+ es bedarf eben einer langsamen Grad- und Rangverschiedenheit: **nur** die Nächst-verwandten
 
 *Erratum:*Nächstverwandten  
 *lies:*Nächst-verwandten  
@@ -1334,19 +1334,19 @@ Symptomatologie —
 Es ist vielleicht falsch, weil die Lebens-Gebilde sehr klein sind (Zellen z.B.) nun nach noch kleineren
 Einheiten, „Kraft-Punkten“ usw. zu suchen?
 
-Das Vorstadium der Herrschafts-Gebilde
+Das **Vorstadium der** **Herrschafts-Gebilde**
 
-*Erratum:*Herrschafts-Gebilde.  
-*lies:*Herrschafts-Gebilde  
+*Erratum:***Herrschafts-Gebilde.**  
+*lies:***Herrschafts-Gebilde**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Hingebung an die Person (Vater, Vorfahr, Fürst, Priester, Gott) als
-Erleichterung der Moral.
+**Hingebung** an die Person (Vater, Vorfahr, Fürst, Priester, Gott) als
+**Erleichterung** der Moral.
 
 [2[70]](javascript:;)
 ---------------------
 
-Jenseits von Gut und Böse
+**Jenseits von Gut und Böse**
 
 |  |  |
 | --- | --- |
@@ -1396,21 +1396,21 @@ verlockte, annagte, umwürfe, umwerthete!
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| I | Der entscheidende Moment: | | |
-| Die Rangordnung. | 1) | Zerbrecht die Guten und Gerechten! |
+| I | Der **entscheidende** Moment: | | |
+| **Die Rangordnung.** | 1) | Zerbrecht die Guten und Gerechten! |
 | 2) |  |
-| Die ewige Wiederkunft. | | |
+| **Die ewige Wiederkunft.** | | |
 
   
 
-Mittag und Ewigkeit.
+**Mittag und Ewigkeit.**
   
 Buch des Wahrsagers.
 
 [2[72]](javascript:;)
 ---------------------
 
-Mittag und Ewigkeit.
+**Mittag und Ewigkeit.**
   
 Von  
 F. N.
@@ -1437,29 +1437,29 @@ Die Titel von 10 neuen Büchern: (Frühling 1886.
 
   
 
-Gedanken über die alten Griechen.
+**Gedanken über die alten Griechen.**
   
 Von  
 Friedrich Nietzsche.
 
   
 
-Inwiefern im Werden Alles entartet und unnatürlich wird. Die
+Inwiefern im Werden Alles **entartet** und **unnatürlich** wird. Die
 Entartung der Renaissance — der Philologie
 
-Beispiel für die unmoralischen Grundbedingungen einer höheren Cultur, einer Erhöhung des
+Beispiel für die **unmoralischen** Grundbedingungen einer höheren Cultur, einer Erhöhung des
 Menschen.
 
   
 
-Der Wille zur Macht.
+**Der Wille zur Macht.**
   
 Versuch einer  
 neuen Welt-Auslegung.
 
   
 
-Die Künstler.
+**Die Künstler.**
   
 Hintergedanken eines Psychologen
 
@@ -1473,21 +1473,21 @@ Friedrich Nietzsche.
 
   
 
-Wir Gottlosen
+**Wir Gottlosen**
   
 Von  
 Friedrich Nietzsche
 
   
 
-Mittag und Ewigkeit.
+**Mittag und Ewigkeit.**
   
 Von  
 Friedrich Nietzsche
 
   
 
-Jenseits von Gut und Böse.
+**Jenseits von Gut und Böse.**
   
 Vorspiel einer Philosophie der Zukunft.  
 Von  
@@ -1495,14 +1495,14 @@ Friedrich Nietzsche.
 
   
 
-Gai saber.
+**Gai saber.**
   
 Lieder des Prinzen Vogelfrei.  
 Von Friedrich Nietzsche.
 
   
 
-Musik.
+**Musik.**
   
 Von Friedrich Nietzsche
 
@@ -1512,16 +1512,16 @@ Von Friedrich Nietzsche
 
   
 
-Erfahrungen eines Schriftgelehrten.
+**Erfahrungen eines Schriftgelehrten.**
   
 Von  
 Friedrich Nietzsche.
 
   
 
-Zur Geschichte der modernen
+**Zur Geschichte der modernen**
   
-Verdüsterung.
+**Verdüsterung.**
   
 Von  
 Friedrich Nietzsche.
@@ -1531,7 +1531,7 @@ Friedrich Nietzsche.
 
 |  |  |
 | --- | --- |
-|  | Der Wille zur Macht. |
+|  | **Der Wille zur Macht.** |
 | 1. | Physiologie der Rangordnung. |
 | 2. | Der große Mittag. |
 | 3. | Zucht und Züchtung. |
@@ -1540,21 +1540,21 @@ Friedrich Nietzsche.
 [2[75]](javascript:;)
 ---------------------
 
-Die ewige Wiederkunft. Buch neuer Feste und Wahrsagungen.
+**Die ewige Wiederkunft.** Buch neuer Feste und Wahrsagungen.
 
   
 
-Die ewige Wiederkunft.
+**Die ewige** **Wiederkunft.**
 
-*Erratum:*Wiederkunft  
-*lies:*Wiederkunft.  
+*Erratum:***Wiederkunft**  
+*lies:***Wiederkunft.**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 Heilige Tänze und Gelöbnisse.
 
   
 
-Mittag und Ewigkeit.
+**Mittag und Ewigkeit.**
 
 Heilige Tänze der Wiederkünftigen.
 
@@ -1563,13 +1563,13 @@ Heilige Tänze der Wiederkünftigen.
 
 (28)
 
-Von der Rangordnung:
+**Von der Rangordnung:**
 
-Zu I. Zur Physiologie der Macht.
+Zu I.**Zur Physiologie der Macht.**
 
 Die Aristokratie im Leibe, die Mehrheit der Herrschenden (Kampf der Gewebe?
 
-Die Sklaverei und die Arbeitstheilung: der höhere Typus nur möglich durch Herunterdrückung eines niederen auf eine Funktion
+Die Sklaverei und die Arbeitstheilung: der höhere Typus nur möglich durch **Herunterdrückung** eines niederen auf eine Funktion
 
 Lust und Schmerz kein Gegensatz. Das Gefühl der Macht.
 
@@ -1578,7 +1578,7 @@ Ernährung nur eine Consequenz der unersättlichen Aneignung, des Willens zur Ma
 Die Zeugung, der Zerfall eintretend bei der Ohnmacht der herrschenden Zellen das Angeeignete zu
 organisiren.
 
-Die gestaltende Kraft ist es, die immer neuen „Stoff“ (noch mehr „Kraft“) vorräthig
+Die **gestaltende** Kraft ist es, die immer neuen „Stoff“ (noch mehr „Kraft“) vorräthig
 haben will. Das Meisterstück des Aufbaues eines Organismus aus dem Ei.
 
 „Mechanistische Auffassung“: will nichts als Quantitäten: aber die Kraft steckt in der Qualität: die
@@ -1586,7 +1586,7 @@ Mechanistik kann also nur Vorgänge beschreiben, nicht erklären.
 
 Der „Zweck“. Auszugehn von der „Sagacität“ der Pflanzen.
 
-Begriff der „Vervollkommnung“: nicht nur größere Complicirtheit, sondern größere Macht (— braucht nicht nur größere Masse zu sein —)
+Begriff der „Vervollkommnung“: **nicht** nur größere Complicirtheit, sondern größere **Macht** (— braucht nicht nur größere Masse zu sein —)
 
 *Erratum:*sein —).  
 *lies:*sein —)  
@@ -1602,7 +1602,7 @@ Die Strafe: Aufrecht-Erhaltung eines höheren Typus.
 
 Die Isolation.
 
-Falsche Lehren aus der Geschichte. Weil etwas Hohes mißrieth oder mißbraucht wurde (wie
+Falsche Lehren aus der Geschichte. **Weil** etwas Hohes mißrieth oder mißbraucht wurde (wie
 die Aristokratie) ist es nicht widerlegt!
 
 [2[77]](javascript:;)
@@ -1613,14 +1613,14 @@ Ungleichen.
 
 |  |  |  |
 | --- | --- | --- |
-| (der absolute Raum  (die Substanz) |  | der älteste *Erratum:*älteste *lies:*älteste [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Anschein ist zur Metaphysik gemacht. |
+| (der absolute Raum  (die Substanz) |  | der **älteste** *Erratum:*älteste *lies:***älteste** [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Anschein ist zur **Metaphysik**gemacht. |
 
-—: es sind die menschlich-thierischen Sicherheits-Werthmaaße darin.
+—: es sind die menschlich-thierischen **Sicherheits**-Werthmaaße darin.
 
-Unsere Begriffe sind von unserer Bedürftigkeit inspirirt.
+Unsere **Begriffe** sind von unserer **Bedürftigkeit** inspirirt.
 
 Die Aufstellung der Gegensätze entspricht der Trägheit (eine Unterscheidung, die zur Nahrung, Sicherheit usw.
-genügt, gilt als „wahr“)
+**genügt**, gilt als **„wahr“**)
 
 — simplex
 
@@ -1630,9 +1630,9 @@ genügt, gilt als „wahr“)
 
  veritas! — Gedanke der Trägheit.
 
-Unsere Werthe sind in die Dinge hineininterpretirt.
+Unsere Werthe sind in die Dinge **hineininterpretirt**.
 
-Giebt es denn einen Sinn im An-sich??
+Giebt es denn einen **Sinn** im An-sich??
 
 Ist nicht nothwendig Sinn aber
 
@@ -1650,22 +1650,22 @@ Ein Ding = seine Eigenschaften =
 *lies:*Eigenschaften =  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- diese aber gleich allem, was uns an diesem Dinge
+ diese aber gleich allem, was **uns** an diesem Dinge
 
 *Erratum:*Ding  
 *lies:*Dinge  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- angeht: eine Einheit, unter der
+ **angeht**: eine Einheit, unter der
 
 *Erratum:*die  
 *lies:*der  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- wir die für uns in Betracht kommenden
-Relationen zusammenfassen. Im Grunde die an uns wahrgenommenen Veränderungen (—
+ wir die für uns in **Betracht kommenden**
+Relationen zusammenfassen. Im Grunde die an uns **wahrgenommenen** Veränderungen (—
 ausgelassen die, welche wir nicht wahrnehmen z.B. seine Elektrizität). In summa: Objekt ist die Summe der
-erfahrenen Hemmungen, die uns bewußt geworden sind. Eine Eigenschaft
+erfahrenen **Hemmungen**, die uns **bewußt** geworden sind. Eine Eigenschaft
 drückt also immer
 
 *Erratum:*nie  
@@ -1684,18 +1684,18 @@ Lust- oder Unlustgrade und jeder Lust- und Unlustgrad ist das Resultat von Schä
 [2[78]](javascript:;)
 ---------------------
 
-Themata.
+**Themata.**
 
   
 
-Ausdeutung, nicht Erklärung.
+Ausdeutung, **nicht** Erklärung.
 
-Reduktion der logischen Werthurtheile auf moralische und politische (Werth der
+Reduktion der **logischen** Werthurtheile auf moralische und politische (Werth der
 Sicherheit, der Ruhe, der Faulheit („kleinste Kraft“) usw.
 
 Das Problem des Künstlers, seine Moralität (Lüge, Schamlosigkeit, Erfindungsgabe für das ihm Fehlende).
 
-Die Verleumdung der unmoralischen Triebe: in Consequenz betrachtet eine Verneinung des
+Die Verleumdung der unmoralischen Triebe: in Consequenz betrachtet eine **Verneinung** des
 Lebens.
 
 Das Unbedingte und woher die idealen Züge stammen, die man ihm beimißt.
@@ -1704,23 +1704,23 @@ Die Strafe als Züchtungsmittel.
 
 Gravitation mehrfach ausdeutbar: wie alles angeblich „Faktische“.
 
-Das Prädikat drückt eine Wirkung aus, die auf uns hervorgebracht ist (oder werden könnte) nicht das Wirken an sich; die Summe der Prädikate wird in Ein Wort zusammengefaßt. Irrthum, daß das
-Subjekt causa sei. — Mythologie des Subjekt-Begriffs. (der „Blitz“ leuchtet — Verdoppelung — die Wirkung verdinglicht.
+Das Prädikat drückt eine Wirkung aus, die auf uns hervorgebracht ist (oder werden könnte) **nicht** das Wirken an sich; die Summe der Prädikate wird in Ein Wort zusammengefaßt. Irrthum, daß das
+Subjekt causa sei. — Mythologie des Subjekt-Begriffs. (der „Blitz“ leuchtet — Verdoppelung — die Wirkung **verdinglicht**.
 
-Mythologie des Causalitäts-Begriffs. Trennung von „Wirken“ und „Wirkendem“ grundfalsch.
+Mythologie des Causalitäts-Begriffs. Trennung von „Wirken“ und „Wirkendem“ **grundfalsch**.
 Der Schein des Unverändert-Bleibenden, nach wie vor — —
 
-Unsere europäische Cultur — worauf sie drängt, im Gegensatz zur buddhistischen Lösung in Asien?
+Unsere europäische Cultur — worauf sie **drängt**, im Gegensatz zur buddhistischen **Lösung** in Asien?
 
 *Erratum:*Asien? —  
 *lies:*Asien?  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Religion, wesentlich Lehre der Rangordnung, sogar Versuch einer kosmischen Rang- und Machtordnung.
+Religion, wesentlich Lehre der **Rangordnung**, sogar Versuch einer **kosmischen** Rang- und Machtordnung.
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Schwäche  Lüge, Verstellung  Dummheit  Herrschsucht  Neugierde  Habsucht  Grausamkeit | |  | | --- | |  | |  | |  | |  | |  | | in wiefern *Erratum:*in wiefern *lies:*in wiefern [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  idealisirend? |
+| Schwäche  Lüge, Verstellung  Dummheit  Herrschsucht  Neugierde  Habsucht  Grausamkeit | |  | | --- | |  | |  | |  | |  | |  | | in wiefern *Erratum:***in wiefern** *lies:*in wiefern [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  **idealisirend?** |
 
 [2[79]](javascript:;)
 ---------------------
@@ -1742,7 +1742,7 @@ der Menschen willen geschaffen hat?
 [2[80]](javascript:;)
 ---------------------
 
-Zur Einleitung.
+**Zur Einleitung.**
 
 Die düstere Einsamkeit und Oede der campagna Romana, die Geduld im Ungewissen
 
@@ -1750,11 +1750,11 @@ Die düstere Einsamkeit und Oede der campagna Romana, die Geduld im Ungewissen
 *lies:*Ungewissen  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Jedes Buch als eine Eroberung, Griff — tempo lento — — bis zum Ende dramatisch
-geschürzt, zuletzt Katastrophe und plötzliche Erlösung
+Jedes Buch als eine Eroberung, Griff — tempo **lento** — — bis zum Ende dramatisch
+geschürzt, zuletzt **Katastrophe** und plötzliche **Erlösung**
 
 *Erratum:*Erlösung  
-*lies:*Erlösung  
+*lies:***Erlösung**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 .
@@ -1771,12 +1771,12 @@ Es ist nur eine Sache der Kraft: alle krankhaften Züge des Jahrhunderts haben, 
 *lies:*einer überreichen plastischen wiederherstellenden  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Kraft. Der starke Mensch: Schilderung
+ Kraft. **Der starke Mensch:** Schilderung
 
 [2[82]](javascript:;)
 ---------------------
 
-Jenseits von Gut und Böse.
+**Jenseits von Gut und Böse.**
   
 Zweiter und letzter Theil
 
@@ -1784,7 +1784,7 @@ Zweiter und letzter Theil
 
 Vorrede.
 
-Auslegung, nicht Erklärung. Es giebt keinen Thatbestand, alles ist flüssig, unfaßbar,
+Auslegung, **nicht** Erklärung. Es giebt keinen Thatbestand, alles ist flüssig, unfaßbar,
 zurückweichend; das Dauerhafteste sind noch unsere Meinungen. Sinn-Hineinlegen
 
 *Erratum:*Sinn-hineinlegen  
@@ -1835,7 +1835,7 @@ Das Problem des Gesetzgebers.
 
 Die Gefahr in der Musik.
 
-Auslegung, nicht Erkenntniß.
+Auslegung, **nicht** Erkenntniß.
 
 Die Guten und Gerechten.
 
@@ -1847,9 +1847,9 @@ Von großer und kleiner Politik.
 
 Wir Gottlosen.
 
-An den Mistral. Tanzlied.
+**An den Mistral. Tanzlied.**
 
-In 30 Seiten.
+**In 30 Seiten.**
 
 2 Bogen.
 
@@ -1857,7 +1857,7 @@ In 30 Seiten.
 
 (Vorrede: das Gemeinsame meiner Schriften)
 
-Auslegung, nicht Erklärung.
+Auslegung, **nicht** Erklärung.
 
 Zur Physiologie der Macht.
 
@@ -1913,39 +1913,39 @@ einen Thäter voraussetze) ist sogar nur
  ein Einzelfall des ersteren, so daß der Glaube als Grundglaube übrig
 bleibt: es giebt Subjekte
 
-Ich bemerke etwas und suche nach einem Grund dafür: das heißt ursprünglich: ich suche
-nach einer Absicht darin und vor allem nach einem der Absichten
+Ich bemerke etwas und suche nach einem **Grund** dafür: das heißt ursprünglich: ich suche
+nach einer **Absicht** darin und vor allem nach einem der Absichten
 
 *Erratum:*Absicht  
 *lies:*Absichten  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  hat, nach einem Subjekt,
-einem Thäter: — ehemals sah man in allem Geschehen Absichten, alles Geschehen war Thun.
+einem Thäter: — ehemals sah man in **allem** Geschehen Absichten, alles Geschehen war Thun.
 Dies ist unsere älteste Gewohnheit. Hat das Thier sie auch? Ist es, als Lebendiges, nicht auch auf die
-Interpretation nach sich angewiesen? — Die Frage „warum?“ ist immer
+Interpretation nach **sich** angewiesen? — Die Frage **„warum?“** ist immer
 die Frage nach der causa finalis, nach einem „Wozu?“ Von einem „Sinn der causa efficiens“ haben wir nichts:
-hier hat Hume Recht, die Gewohnheit (aber nicht nur die des
+hier hat **Hume** Recht, die Gewohnheit (aber **nicht** nur die des
 Individuums!) läßt uns erwarten, daß ein gewisser oft beobachteter Vorgang auf den andern folgt: weiter
-nichts! Was uns die außerordentliche Festigkeit des Glaubens an Causalität giebt, ist nicht die große Gewohnheit des Hintereinander
+nichts! Was uns die außerordentliche Festigkeit des Glaubens an Causalität giebt, ist **nicht** die große Gewohnheit des Hintereinander
 
 *Erratum:*Hintereinanders  
 *lies:*Hintereinander  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- von Vorgängen, sondern unsere Unfähigkeit, ein Geschehen anders interpretiren zu können als
+ von Vorgängen, sondern unsere **Unfähigkeit**, ein Geschehen anders **interpretiren** zu können als
 
 *Erratum:*denn als  
 *lies:*als  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  ein Geschehen
-aus Absichten. Es ist der Glaube an das Lebendige und Denkende als
-das einzig Wirkende — an den Willen, die Absicht — daß alles Geschehn ein Thun sei, daß
+aus **Absichten**. Es ist der **Glaube** an das Lebendige und Denkende als
+das einzig **Wirkende** — an den Willen, die Absicht — daß alles Geschehn ein Thun sei, daß
 alles Thun einen Thäter voraussetze, es ist der Glaube an das „Subjekt“. Sollte dieser Glaube an den Subjekt-
-und Prädikat-Begriff nicht eine große D<ummheit> sein?
+und Prädikat-Begriff nicht eine große D&amp;lt;ummheit&amp;gt; sein?
 
-Frage: ist die Absicht Ursache eines Geschehens? Oder ist auch das Illusion? Ist sie nicht das Geschehen selbst?
+Frage: ist die Absicht Ursache eines Geschehens? Oder ist auch das Illusion? Ist sie nicht **das** Geschehen selbst?
 
   
 
@@ -1962,10 +1962,10 @@ Frage: ist die Absicht Ursache eines Geschehens? Oder ist auch das Illusion? Ist
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Sinne ist eine vollständige Fiktion: ein Wort. Wir können uns
-ohne eine Absicht ein Anziehen nicht denken: dh. ohne eine Absicht
+ohne eine Absicht ein Anziehen nicht denken: dh. ohne eine **Absicht**
 
 *Erratum:*denken  
-*lies:*denken: dh. ohne eine Absicht  
+*lies:*denken: dh. ohne eine **Absicht**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 . — Den Willen sich einer Sache zu bemächtigen oder gegen ihre
@@ -1975,7 +1975,7 @@ Macht uns
 *lies:*uns  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- zu wehren und sie zurückzustoßen — das „verstehen wir“: das wäre eine
+ zu wehren und sie zurückzustoßen — **das** „verstehen wir“: das wäre eine
 Interpretation, die wir brauchen könnten.
 
 Kurz: die psychologische Nöthigung an
@@ -1984,13 +1984,13 @@ Kurz: die psychologische Nöthigung an
 *lies:*an  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- einem Glauben an Causalität liegt in der Unvorstellbarkeit
+ einem Glauben an Causalität liegt in der Un**vorstellbarkeit**
 
-*Erratum:*Unvorstellbarkeit  
-*lies:*Unvorstellbarkeit  
+*Erratum:***Unvorstellbarkeit**  
+*lies:*Un**vorstellbarkeit**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- eines Geschehens ohne Absichten: womit natürlich über Wahrheit oder Unwahrheit
+**eines Geschehens ohne Absichten**: womit natürlich über Wahrheit oder Unwahrheit
 (Berechtigung eines solchen Glaubens) nichts gesagt ist. Der Glaube an causae fällt mit dem Glauben an
 τέλη (gegen Spinoza und dessen Causalismus).
 
@@ -2003,7 +2003,7 @@ Das Urtheilen ist unser ältester Glaube, unser gewohntestes für-Wahr- oder fü
 
 Im Urtheile liegt unser ältester Glaube vor, in allem Urtheilen giebt es ein Fürwahrhalten oder für
 Unwahrhalten, ein Behaupten oder Leugnen, eine Gewißheit, daß etwas so und nicht anders ist, ein Glaube, hier
-wirklich „erkannt“ zu haben — was wird in allem
+wirklich „erkannt“ zu haben — **was** wird in allem
 
 *Erratum:*allen  
 *lies:*allem  
@@ -2011,29 +2011,29 @@ wirklich „erkannt“ zu haben — was wird in allem
 
  Urtheilen als wahr geglaubt?
 
-Was sind Prädikate? — Wir haben Veränderungen an uns nicht als
+Was sind **Prädikate**? — Wir haben Veränderungen an uns **nicht** als
 solche genommen, sondern als ein „an sich
 
 *Erratum:*an-sich  
 *lies:*an sich  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-“, das uns fremd ist, das wir nur „wahrnehmen“: und wir haben sie nicht als ein Geschehen, sondern als ein Sein gesetzt, als „Eigenschaft“ — und ein Wesen
+“, das uns fremd ist, das wir nur „wahrnehmen“: und wir haben sie **nicht** als ein Geschehen, sondern als ein Sein gesetzt, als „Eigenschaft“ — und ein Wesen
 hinzuerfunden, an dem sie haften.
 
 *Erratum:*haften,  
 *lies:*haften.  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- d.h. wir haben die Wirkung als Wirkendes angesetzt und das Wirkende als
+ d.h. wir haben die **Wirkung** als **Wirkendes** angesetzt und das **Wirkende** als
 
-*Erratum:*als  
+*Erratum:***als**  
 *lies:*als  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Seiendes. Aber auch noch in
+ **Seiendes**. Aber auch noch in
 dieser Formulirung ist der Begriff „Wirkung“ willkürlich: denn von jenen Veränderungen, die an uns vorgehen
-und von denen wir bestimmt glauben, nicht selbst die Ursachen zu sein, schließen wir nur,
+und von denen wir bestimmt glauben, **nicht** selbst die Ursachen zu sein, schließen wir nur,
 daß sie Wirkungen sein müssen: nach dem Schluß: „zu jeder Veränderung gehört ein Urheber;“
 
 *Erratum:*Urheber“.  
@@ -2041,15 +2041,15 @@ daß sie Wirkungen sein müssen: nach dem Schluß: „zu jeder Veränderung geh�
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  — Aber dieser
-Schluß ist schon Mythologie: er trennt das Wirkende und das Wirken.
+Schluß ist schon Mythologie: er **trennt** das Wirkende **und** das Wirken.
 Wenn ich sage „der Blitz leuchtet“, so habe ich das Leuchten einmal als Thätigkeit und das andere Mal als
-Subjekt gesetzt: also zum Geschehen ein Sein supponirt, welches mit dem Geschehen nicht eins ist, vielmehr bleibt, ist, und nicht „wird“. — Das Geschehen als Wirken anzusetzen: und die Wirkung als Sein: dies
+Subjekt gesetzt: also zum Geschehen ein Sein supponirt, welches mit dem Geschehen nicht eins ist, vielmehr **bleibt**, **ist**, und nicht **„wird“**. — **Das Geschehen als Wirken anzusetzen:** und die **Wirkung als Sein**: dies
 
 *Erratum:*das  
 *lies:*dies  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- ist der doppelte Irrthum, oder Interpretation, deren wir uns schuldig machen.
+ ist der **doppelte** Irrthum, oder **Interpretation**, deren wir uns schuldig machen.
 Also z.B. „der Blitz leuchtet“ —: „leuchten“ ist ein Zustand an uns:
 
 *Erratum:*an uns;  
@@ -2071,7 +2071,7 @@ uns, und sagen: „etwas Leuchtendes“ als ein „An sich
 (32)
 
 Die Eigenschaften eines Dings sind Wirkungen auf andere „Dinge“: denkt man andere „Dinge“ weg, so hat ein
-Ding keine Eigenschaften d.h. es giebt kein Ding ohne andere Dinge d.h. es giebt kein
+Ding keine Eigenschaften d.h. es **giebt kein Ding ohne andere Dinge** d.h. es giebt kein
 „Ding an sich“.
 
 [2[86]](javascript:;)
@@ -2079,7 +2079,7 @@ Ding keine Eigenschaften d.h. es giebt kein Ding ohne andere Dinge d.h. es giebt
 
 (30)
 
-Was kann allein Erkenntniß sein? — „Auslegung“, nicht
+Was kann allein **Erkenntniß** sein? — „Auslegung“, **nicht**
 „Erklärung“.
 
 [2[87]](javascript:;)
@@ -2087,21 +2087,21 @@ Was kann allein Erkenntniß sein? — „Auslegung“, nicht
 
 (32)
 
-Alle Einheit ist nur als Organisation und Zusammenspiel Einheit:
-nicht anders als wie ein menschliches Gemeinwesen eine Einheit ist: also Gegensatz der
-atomistischen Anarchie; somit ein Herrschafts-Gebilde, das Eins bedeutet, aber nicht eins ist.
+Alle Einheit ist **nur** als **Organisation und Zusammenspiel** Einheit:
+nicht anders als wie ein menschliches Gemeinwesen eine Einheit ist: also **Gegensatz** der
+atomistischen **Anarchie**; somit ein **Herrschafts-Gebilde**, das Eins **bedeutet**, aber nicht eins **ist**.
 
   
 
-Man müßte wissen, was Sein ist, um zu entscheiden, ob dies und jenes real ist (z.B. „die Thatsachen des Bewußtseins“)
+Man müßte **wissen**, was Sein **ist**, um zu **entscheiden**, ob dies und jenes real ist (z.B. „die Thatsachen des Bewußtseins“)
 
 *Erratum:*Bewußtseins)“  
 *lies:*Bewußtseins“)  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-; ebenso was Gewißheit ist, was Erkenntniß ist und dergleichen. — Da wir das aber
-nicht wissen, so ist eine Kritik des Erkenntnißvermögens unsinnig: wie sollte das
-Werkzeug sich selber kritisiren können, wenn es eben nur sich zur Kritik gebrauchen kann?
+; ebenso was **Gewißheit** ist, was **Erkenntniß** ist und dergleichen. — Da wir das aber
+**nicht** wissen, so ist eine Kritik des Erkenntnißvermögens unsinnig: wie sollte das
+Werkzeug sich selber kritisiren können, wenn es eben nur **sich** zur Kritik gebrauchen kann?
 Es kann nicht einmal sich selbst definiren!
 
 Wenn
@@ -2111,11 +2111,11 @@ Wenn
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  alle Einheit nur als Organisation Einheit ist? aber das „Ding“ an das wir glauben, ist nur als Ferment
-zu verschiedenen Prädikaten hinzuerfunden. Wenn das Ding „wirkt“, so heißt das: wir
-fassen alle übrigen Eigenschaften, die sonst noch hier vorhanden sind und momentan latent
-sind, als Ursache, daß jetzt eine einzelne Eigenschaft hervortritt: d.h. wir nehmen die Summe
-seiner Eigenschaften — x als Ursache
-der Eigenschaft x: was doch ganz dumm und verrückt ist!
+zu verschiedenen Prädikaten **hinzuerfunden**. Wenn das Ding „wirkt“, so heißt das: wir
+fassen **alle übrigen** Eigenschaften, die sonst noch hier vorhanden sind und momentan latent
+sind, als Ursache, daß jetzt eine einzelne Eigenschaft hervortritt: d.h. **wir nehmen die Summe
+seiner Eigenschaften** — x als Ursache
+**der Eigenschaft** x: was doch **ganz** dumm und verrückt ist!
 
 „Das Subjekt“ oder das „Ding“
 
@@ -2125,18 +2125,18 @@ der Eigenschaft x: was doch ganz dumm und verrückt ist!
 (33)
 
 Eine Kraft, die wir uns nicht vorstellen können (wie die sogenannte rein mechanische Anziehungs- und
-Abstoßungskraft) ist ein leeres Wort und darf kein Bürgerrecht in der Wissenschaft haben:
-welche uns die Welt vorstellbar machen will, nichts weiter!
+Abstoßungskraft) ist ein leeres Wort und darf kein Bürgerrecht in der **Wissenschaft** haben:
+welche uns die Welt **vorstellbar machen will**, nichts weiter!
 
   
 
-Alles Geschehen aus Absichten ist reduzirbar auf die Absicht der Mehrung von Macht.
+Alles Geschehen aus Absichten ist reduzirbar auf die **Absicht der Mehrung von Macht**.
 
 [2[89]](javascript:;)
 ---------------------
 
-Illusion, daß etwas erkannt sei, wo wir eine mathematische Formel für das Geschehen
-haben: es ist nur bezeichnet, beschrieben: nichts mehr!
+Illusion, daß etwas **erkannt sei**, wo wir eine mathematische Formel für das Geschehen
+haben: es ist nur **bezeichnet**, **beschrieben**: nichts mehr!
 
 [2[90]](javascript:;)
 ---------------------
@@ -2146,29 +2146,29 @@ haben: es ist nur bezeichnet, beschrieben: nichts mehr!
 |  |  |  |
 | --- | --- | --- |
 | Gleichheit | und Ähnlichkeit. 1) das gröbere Organ sieht viele scheinbare Gleichheit | |
-|  | 2) der Geist will Gleichheit d.h. einen Sinneneindruck subsumiren unter eine vorhandene Reihe: ebenso wie er *Erratum:*der Körper *lies:*er [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Unorganisches sich assimilirt. | |
-| Zum Verständniß der Logik::: der Wille zur | | |
-|  | Gleichheit ist der Wille zur Macht.  — der Glaube *Erratum:*Glaube *lies:*Glaube [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) , daß etwas so und so sei, das Wesen des Urtheils, ist die Folge eines Willens, es soll so viel als möglich gleich sein. |
+|  | 2) der Geist **will** Gleichheit d.h. einen Sinneneindruck subsumiren unter eine vorhandene Reihe: ebenso wie er *Erratum:*der Körper *lies:*er [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Unorganisches sich **assimilirt**. | |
+| Zum Verständniß der **Logik**::: **der Wille zur** | | |
+|  | **Gleichheit ist der Wille zur Macht**.  — der **Glaube** *Erratum:*Glaube *lies:***Glaube** [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) , daß etwas so und so sei, das Wesen des **Urtheils**, ist die Folge eines Willens, es **soll** so viel als möglich gleich sein. |
 
 [2[91]](javascript:;)
 ---------------------
 
 (30)
 
-Wenn unser „Ich“ uns das einzige Sein ist, nach dem wir Alles sein
-machen oder verstehen: sehr gut! dann ist der Zweifel sehr am Platze ob hier nicht eine perspektivische Illusion vorliegt — die scheinbare Einheit, in der wie in einer Horizontlinie alles sich
-zusammenschließt. Am Leitfaden des Leibes zeigt sich eine ungeheure Vielfachheit; es ist
-methodisch erlaubt, das besser studirbare reichere Phänomen zum Leitfaden für das
-Verständniß des ärmeren zu benutzen. Endlich: gesetzt alles ist Werden, so ist Erkenntniß
-nur möglich auf Grund des Glaubens an Sein.
+Wenn unser „Ich“ uns das einzige **Sein** ist, nach dem wir Alles **sein**
+machen oder verstehen: sehr gut! dann ist der Zweifel sehr am Platze ob hier nicht eine perspektivische **Illusion** vorliegt — die scheinbare Einheit, in der wie in einer Horizontlinie alles sich
+zusammenschließt. Am Leitfaden des Leibes zeigt sich eine ungeheure **Vielfachheit**; es ist
+methodisch erlaubt, das besser studirbare **reichere** Phänomen zum Leitfaden für das
+Verständniß des ärmeren zu benutzen. Endlich: gesetzt alles ist Werden, so ist **Erkenntniß**
+**nur möglich auf Grund des Glaubens an Sein**.
 
 [2[92]](javascript:;)
 ---------------------
 
-Die Sinneswahrnehmungen nach „außen“ projicirt: „innen“ und „außen“ — da kommandirt der Leib —?
+Die Sinneswahrnehmungen nach „außen“ projicirt: „innen“ und „außen“ — da kommandirt der **Leib** —?
 
 — dieselbe gleichmachende und ordnende Kraft, welche im Idioplasma waltet, waltet auch beim Einverleiben der
-Außenwelt: unsere Sinneswahrnehmungen sind bereits das Resultat dieser Anähnlichung und Gleichsetzung in Bezug auf alle
+Außenwelt: unsere Sinneswahrnehmungen sind bereits das **Resultat** dieser **Anähnlichung** und **Gleichsetzung** in Bezug auf **alle**
 Vergangenheit in uns; sie folgen nicht sofort auf den „Eindruck“ —
 
 [2[93]](javascript:;)
@@ -2186,10 +2186,10 @@ Zeit: die göttliche Dialektik, als aus dem Guten stammend, führt zu allem Gute
 
  (— also gleichsam „zurück“ —)
 Auch Descartes hatte einen Begriff davon, daß in einer christlich-moralischen Grunddenkweise, welche an einen
-guten Gott als Schöpfer der Dinge glaubt, die Wahrhaftigkeit Gottes erst uns unsre
-Sinnesurtheile verbürgt. Abseits von einer religiösen Sanktion und Verbürgung unsrer
+**guten** Gott als Schöpfer der Dinge glaubt, die Wahrhaftigkeit Gottes erst uns unsre
+Sinnesurtheile **verbürgt**. Abseits von einer religiösen Sanktion und Verbürgung unsrer
 Sinne und Vernünftigkeit — woher sollten wir ein Recht auf Vertrauen gegen das Dasein haben! Daß das Denken
-gar ein Maaß des Wirklichen sei, — daß was nicht gedacht werden kann, nicht ist, — ist
+gar ein Maaß des Wirklichen sei, — daß was nicht gedacht werden kann, nicht **ist**, — ist
 ein plumpes non plus ultra einer moralistischen Vertrauens-seligkeit (auf ein essentielles Wahrheits-Princip
 im Grund der Dinge), an sich eine tolle Behauptung, der unsre Erfahrung in jedem Augenblick
 
@@ -2198,7 +2198,7 @@ im Grund der Dinge), an sich eine tolle Behauptung, der unsre Erfahrung in jedem
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  widerspricht. Wir
-können gerade gar nichts denken, in wiefern es ist…
+können gerade gar nichts denken, in wiefern es **ist**…
 
 [2[94]](javascript:;)
 ---------------------
@@ -2216,11 +2216,11 @@ Reduktion der Qualitäten auf Werthurtheile.
 [2[95]](javascript:;)
 ---------------------
 
-Unsere Wahrnehmungen, wie wir sie verstehen: d.i. die Summe aller der Wahrnehmungen,
-deren Bewußtwerden uns und dem ganzen organischen Prozesse vor uns nützlich und
-wesentlich war: also nicht alle Wahrnehmungen überhaupt (z.B. nicht die elektrischen) Das heißt: wir haben Sinne nur für eine Auswahl von Wahrnehmungen — solcher, an denen uns gelegen sein muß, um
-uns zu erhalten. Bewußtsein ist so weit da, als Bewußtsein nützlich ist. Es ist kein
-Zweifel, daß alle Sinneswahrnehmungen gänzlich durchsetzt sind mit Werthurtheilen
+Unsere Wahrnehmungen, wie wir sie verstehen: d.i. die Summe aller **der** Wahrnehmungen,
+deren **Bewußtwerden** uns und dem ganzen organischen Prozesse vor uns nützlich und
+wesentlich war: also nicht alle Wahrnehmungen überhaupt (z.B. nicht die elektrischen) Das heißt: wir haben **Sinne** nur für eine Auswahl von Wahrnehmungen — solcher, an denen uns gelegen sein muß, um
+uns zu erhalten. **Bewußtsein ist so weit da, als Bewußtsein nützlich ist.** Es ist kein
+Zweifel, daß alle Sinneswahrnehmungen gänzlich durchsetzt sind mit **Werthurtheilen**
 (nützlich schädlich — folglich angenehm oder unangenehm) Die einzelne Farbe drückt zugleich einen Werth für
 uns aus (obwohl wir es uns selten oder erst nach langem ausschließlichem Einwirken derselben Farbe (z.B.
 Gefangene im Gefängniß oder Irre) eingestehn) Deshalb reagiren Insekten auf verschiedene Farben anders: einige
@@ -2229,28 +2229,28 @@ lieben sie z.B. Ameisen.
 [2[96]](javascript:;)
 ---------------------
 
-Ironie gegen die, welche das Christenthum durch die modernen Naturwissenschaften überwunden glauben. Die christlichen Werthurtheile sind damit absolut nicht
+Ironie gegen die, welche das Christenthum durch die modernen Naturwissenschaften **überwunden** glauben. Die christlichen Werthurtheile sind damit absolut **nicht**
 überwunden. „Christus am Kreuze“ ist das erhabenste Symbol — immer noch. —
 
 [2[97]](javascript:;)
 ---------------------
 
 Gesundheit und Krankhaftigkeit: man sei vorsichtig! Der Maaßstab bleibt die Efflorescenz des Leibes, die
-Sprungkraft, Muth und Lustigkeit des Geistes — aber, natürlich auch, wie viel von Krankhaftem
+Sprungkraft, Muth und Lustigkeit des Geistes — aber, natürlich auch, **wie viel von Krankhaftem**
 er
 
-*Erratum:*er  
+*Erratum:***er**  
 *lies:*er  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- auf sich nehmen u<nd>
+ **auf sich nehmen** u&amp;lt;nd&amp;gt;
 
-*Erratum:*und  
-*lies:*u<nd>  
+*Erratum:***und**  
+*lies:*u&amp;lt;nd&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- überwinden kann — gesund machen kann. Das, woran die
-zarteren Menschen zu Grunde gehen würden, gehört zu den Stimulanz-Mitteln der großen
+ **überwinden kann**— gesund **machen** kann. Das, woran die
+zarteren Menschen zu Grunde gehen würden, gehört zu den Stimulanz-Mitteln der **großen**
 Gesundheit.
 
 [2[98]](javascript:;)
@@ -2258,7 +2258,7 @@ Gesundheit.
 
 (35)
 
-Armut, Demuth und Keuschheit — gefährliche und
+**Armut**, **Demuth** und **Keuschheit** — gefährliche und
 verleumderische Ideale, aber, wie Gifte, in gewissen Krankheitsfällen, nützliche Heilmittel z.B. in der
 römischen Kaiserzeit.
 
@@ -2274,17 +2274,17 @@ Wie hat sich der gesammte
 *lies:*gesammte  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- organische Prozeß verhalten gegen die übrige Natur? — Da
-enthüllt sich sein Grundwille.
+ organische Prozeß verhalten **gegen** die übrige Natur? — Da
+enthüllt sich sein **Grundwille**.
 
 [2[100]](javascript:;)
 ----------------------
 
 Der Wille zur Macht.
   
-Versuch
+**Versuch**
   
-einer Umwerthung aller Werthe.
+**einer Umwerthung aller Werthe.**
   
 In vier Büchern.
 
@@ -2292,14 +2292,14 @@ In vier Büchern.
 
 |  |  |  |
 | --- | --- | --- |
-| Erstes Buch: | die | Gefahr der Gefahren (Darstellung des Nihilismus) (als der *Erratum:*als der *lies:*als der [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  nothwendigen Consequenz der bisherigen Werthschätzungen) |
+| Erstes Buch: | die | Gefahr der Gefahren (Darstellung des Nihilismus) (als der *Erratum:*als **der** *lies:*als der [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  **nothwendigen Consequenz der bisherigen Werthschätzungen**) |
 | Zweites Buch: | Kritik der Werthe (der Logik usw. | |
-| Drittes Buch: | das | Problem des Gesetzgebers (darin die Geschichte der Einsamkeit) Wie müssen Menschen beschaffen sein, die umgekehrt werthschätzen? — *Erratum:*werthschätzen? *lies:*werthschätzen? — [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Menschen, die alle *Erratum:*alle *lies:*alle [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Eigenschaften der modernen Seele haben, aber stark genug sind, sie in lauter Gesundheit umzuwandeln. |
+| Drittes Buch: | das | Problem des Gesetzgebers (darin die Geschichte der Einsamkeit) **Wie** müssen Menschen beschaffen sein, die umgekehrt werthschätzen? — *Erratum:*werthschätzen? *lies:*werthschätzen? — [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Menschen, die **alle** *Erratum:*alle *lies:***alle** [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Eigenschaften der modernen Seele haben, aber stark genug sind, sie in lauter Gesundheit umzuwandeln. |
 | Viertes Buch: | der | Hammer  ihr Mittel zu ihrer Aufgabe. — *Erratum:*Aufgabe *lies:*Aufgabe. — [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) |
 | Sils-Maria, Sommer 1886   Ungeheure Gewalten sind entfesselt: *Erratum:*entfesselt; *lies:*entfesselt: [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  aber sich widersprechend | | |
-|  | die entfesselten Kräfte sich gegenseitig vernichtend | |
+|  | die **entfesselten** Kräfte sich gegenseitig **vernichtend** | |
 |  | die entfesselten Kräfte neu zu binden, daß sie sich nicht gegenseitig vernichten und | |
-|  | Augen aufmachen für die wirkliche Vermehrung an Kraft! | |
+|  | Augen aufmachen für die wirkliche **Vermehrung** an Kraft! | |
 | Überall die Disharmonie aufzuzeigen, zwischen dem Ideal und seinen einzelnen Bedingungen (z.B. Redlichkeit bei Christen, welche fortwährend zur Lüge gezwungen sind) | | |
 
   
@@ -2310,25 +2310,25 @@ Zu Buch 2.
 
 |  |
 | --- |
-| Im demokratischen Gemeinwesen, wo Jedermann Spezialist ist, fehlt das Wozu? Für *Erratum:*für *lies:*Für [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Wen? der Stand, in dem alle die tausendfältige Verkümmerung aller Einzelnen (zu Funktionen) Sinn bekommt. |
+| Im demokratischen Gemeinwesen, wo Jedermann Spezialist ist, fehlt das Wozu? Für *Erratum:*für *lies:*Für [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Wen? der Stand, in dem alle die tausendfältige Verkümmerung aller Einzelnen (zu Funktionen) **Sinn** bekommt. |
 
 |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Die Entwicklung | der Sinnlichkeit  der Grausamkeit  der Rache  der Narrheit  der Habsucht  der Herrschsucht  usw. | |  | | --- | |  | |  | |  | |  | |  | | zur Summe der Cultur |
+| Die Entwicklung | der Sinnlichkeit  der Grausamkeit  der Rache  der Narrheit  der Habsucht  der Herrschsucht  usw. | |  | | --- | |  | |  | |  | |  | |  | | zur Summe der **Cultur** |
 
 Über
 
 Die Gefahr in allen bisherigen Idealen
 
 Kritik der indischen und chinesischen Denkweise, ebenso der christlichen (als
-Vorbereitungen zu einer nihilistischen —)
+Vorbereitungen zu einer **nihilistischen** —)
 
 Die Gefahr der Gefahren: Alles hat keinen Sinn.
 
 (2)
 
-Der Hammer: eine Lehre, welche durch Entfesselung des todsüchtigsten
-Pessimismus eine Auslese der Lebensfähigsten bewirkt
+Der Hammer: eine Lehre, welche durch **Entfesselung** des todsüchtigsten
+Pessimismus eine **Auslese** der **Lebensfähigsten** bewirkt
 
 [2[101]](javascript:;)
 ----------------------
@@ -2350,7 +2350,7 @@ willensmächtigen Künstler ganz ins Antiromantische — oder
 *lies:*— oder  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- um meine Formel zu brauchen — ins Dionysische umgebogen werden, ebenso wie jede Art Pessimismus und Nihilismus in der Hand des Stärksten
+ um meine Formel zu brauchen — ins **Dionysische** umgebogen werden, ebenso wie jede Art Pessimismus und Nihilismus in der Hand des Stärksten
 nur ein Hammer und Werkzeug mehr wird, mit dem man sich ein neues Paar Flügel zulegt
 
 *Erratum:*zusetzt  
@@ -2378,11 +2378,11 @@ Verse Brünhildes — so
 
 Sich mit keinen krankhaften und von vornherein besiegten Mächten verbünden —
 
-Hätte ich mir selber mehr getraut: mir hat die Wagner<sche> Unfähigkeit zu gehn (noch mehr zu tanzen — und ohne Tanz giebt es für mich keine Erholung und
+Hätte ich mir selber mehr getraut: mir hat die Wagner&amp;lt;sche&amp;gt; Unfähigkeit zu **gehn** (noch mehr zu **tanzen** — und ohne Tanz giebt es für mich keine Erholung und
 Seligkeit) immer Noth gemacht.
 
-Das Verlangen nach vollständigen Passionen ist verrätherisch: wer ihrer fähig ist,
-verlangt den Zauber des Gegentheils d.h. der Skepsis. Die von Grund aus Gläubigen haben
+Das Verlangen **nach** vollständigen Passionen ist verrätherisch: wer ihrer fähig ist,
+verlangt den Zauber des Gegentheils d.h. der **Skepsis**. Die von Grund aus Gläubigen haben
 ihre gelegentliche Wohlthat und Erholung in der Scepsis.
 
   
@@ -2394,7 +2394,7 @@ Wagner von den Entzückungen redend, die er dem christlichen Abendmahle abzugewi
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  entschied bei
-mir, er galt mir als besiegt. — Es kam hinzu, daß ein Mißtrauen bei mir erwachte, ob er
+mir, er galt mir als **besiegt**. — Es kam hinzu, daß ein Mißtrauen bei mir erwachte, ob er
 nicht für nützlich
 
 *Erratum:*möglich  
@@ -2409,9 +2409,9 @@ Kreuze waren.
 [2[102]](javascript:;)
 ----------------------
 
-Der Glaube an den Leib ist fundamentaler als der Glaube an die Seele: letzterer ist
+Der Glaube an den **Leib** ist fundamentaler als der Glaube an die Seele: letzterer ist
 entstanden aus den Aporien der unwissenschaftlichen Betrachtung des Leibes (etwas, das ihn verläßt. Glaube an
-die Wahrheit des Traumes —)
+die **Wahrheit** des **Traumes** —)
 
 [2[103]](javascript:;)
 ----------------------
@@ -2430,7 +2430,7 @@ Ursache des Folgenden sei. Thatsächlich sehen wir den Kampf nicht, der sich unt
 ----------------------
 
 Bei Plato als bei einem Menschen der überreizbaren Sinnlichkeit und Schwärmerei ist der Zauber des Begriffs
-so groß gewesen, daß er unwillkürlich den Begriff als eine Idealform verehrte und vergötterte. Dialektik-Trunkenheit, als das Bewußtsein, mit ihr eine Herrschaft über sich auszuüben — — als
+so groß gewesen, daß er unwillkürlich den Begriff als eine Idealform verehrte und vergötterte. **Dialektik-Trunkenheit**, als das Bewußtsein, mit ihr eine Herrschaft über sich auszuüben — — als
 Werkzeug des Machtwillens.
 
 [2[105]](javascript:;)
@@ -2443,38 +2443,38 @@ Druck und Stoß etwas unsäglich Spätes, Abgeleitetes, Unursprüngliches. Es se
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  voraus, das
-zusammenhält und drücken und stoßen kann! Aber woher hielte es
+**zusammenhält** und drücken und stoßen **kann**! Aber woher hielte es
 zusammen?
 
 [2[106]](javascript:;)
 ----------------------
 
-Die Bedeutung der deutschen Philosophie (Hegel): einen Pantheismus auszudenken, bei dem
-das Böse, der Irrthum und das Leid nicht als Argumente gegen Göttlichkeit empfunden
-werden. Diese grandiose Initiative ist mißbraucht worden von den vorhandenen Mächten
+Die Bedeutung der deutschen Philosophie (Hegel): einen **Pantheismus** auszudenken, bei dem
+das Böse, der Irrthum und das Leid **nicht** als Argumente gegen Göttlichkeit empfunden
+werden. **Diese grandiose Initiative** ist mißbraucht worden von den vorhandenen Mächten
 (Staat usw.), als sei damit die Vernünftigkeit des gerade Herrschenden sanktionirt.
 
   
 
 Schopenhauer erscheint dagegen als hartnäckiger Moral-Mensch, welcher endlich, um mit seiner
-moral<ischen> Schätzung Recht zu behalten, zum Welt-Verneiner wird. Endlich
+moral&amp;lt;ischen&amp;gt; Schätzung Recht zu behalten, zum **Welt-Verneiner** wird. Endlich
 zum „Mystiker“.
 
   
 
 Ich selbst habe eine ästhetische Rechtfertigung versucht: wie ist die Häßlichkeit der Welt möglich? — Ich
-nahm den Willen zur Schönheit, zum Verharren in gleichen Formen, als ein zeitweiliges
-Erhaltungs- und Heilmittel: fundamental aber schien mir das Ewig-Schaffende als das ewig-Zerstören-Müssende gebunden an den Schmerz. Das Häßliche ist die Betrachtungsform der Dinge,
-unter dem Willen, einen Sinn, einen neuen Sinn in das sinnlos Gewordene zu legen: die
+nahm den Willen zur Schönheit, zum Verharren in **gleichen** Formen, als ein zeitweiliges
+Erhaltungs- und Heilmittel: fundamental aber schien mir das Ewig-Schaffende als das **ewig-Zerstören-Müssende** gebunden an den Schmerz. Das Häßliche ist die Betrachtungsform der Dinge,
+unter dem Willen, einen Sinn, einen **neuen** Sinn in das sinnlos Gewordene zu legen: die
 angehäufte Kraft, welche den Schaffenden zwingt, das Bisherige als unhaltbar, mißrathen, verneinungswürdig,
 als häßlich zu fühlen? —
 
   
 
-Die Täuschung Apollos: die Ewigkeit der schönen Form; die
-aristokratische Gesetzgebung „so soll es immer sein
+Die Täuschung **Apollos**: die **Ewigkeit** der schönen Form; die
+aristokratische Gesetzgebung **„so soll es immer** sein
 
-*Erratum:*sein  
+*Erratum:***sein**  
 *lies:*sein  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -2482,7 +2482,7 @@ aristokratische Gesetzgebung „so soll es immer sein
 
 Dionysos
 
-*Erratum:*Dionysos  
+*Erratum:***Dionysos**  
 *lies:*Dionysos  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -2496,23 +2496,23 @@ NB. Die Religionen gehn an dem Glauben der Moral zu Grunde: der christlich-moral
 Gott ist nicht haltbar: folglich „Atheismus“ — wie als ob es keine andere Art Götter geben könne.
 
 Insgleichen geht die Cultur am Glauben an die Moral zu Grunde: denn wenn die nothwendigen Bedingungen
-entdeckt sind, aus denen allein sie wächst, so will man sie nicht mehr: Buddhismus.
+entdeckt sind, aus denen allein sie wächst, so **will** man sie nicht mehr: Buddhismus.
 
 [2[108]](javascript:;)
 ----------------------
 
-Daß der Werth der Welt in unserer Interpretation liegt (— daß vielleicht irgendwo noch
+Daß der **Werth der Welt** in unserer Interpretation liegt (— daß vielleicht irgendwo noch
 andere Interpretationen möglich sind als bloß menschliche —) daß die bisherigen Interpretationen
 perspektivische Schätzungen sind, vermöge deren wir uns im Leben, das heißt im Willen zur Macht, zum Wachsthum
-der Macht erhalten, daß jede Erhöhung der
+der Macht erhalten, daß jede **Erhöhung der**
 
-*Erratum:*Erhöhung des  
-*lies:*Erhöhung der  
+*Erratum:***Erhöhung des**  
+*lies:***Erhöhung der**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Menschen die Überwindung engerer
+ **Menschen** die Überwindung engerer
 Interpretationen mit sich bringt, daß jede erreichte Verstärkung und Machterweiterung neue Perspektiven
-aufthut und an neue Horizonte glauben heißt — dies geht durch meine Schriften. Die Welt, die uns etwas angeht, ist falsch d.h. ist kein Thatbestand, sondern eine Ausdichtung und Rundung über
+aufthut und an neue Horizonte glauben heißt — dies geht durch meine Schriften. Die Welt, die **uns etwas angeht**, ist falsch d.h. ist kein Thatbestand, sondern eine Ausdichtung und Rundung über
 einer mageren Summe von Beobachtungen; sie ist „im Flusse“, als etwas Werdendes, als eine sich immer neu
 verschiebende Falschheit, die sich niemals der Wahrheit nähert: denn — es giebt keine „Wahrheit“.
 
@@ -2520,7 +2520,7 @@ verschiebende Falschheit, die sich niemals der Wahrheit nähert: denn — es gie
 ----------------------
 
 Die „Sinnlosigkeit des Geschehens“: der Glaube daran ist die Folge einer Einsicht in die Falschheit der
-bisherigen Interpretationen, eine Verallgemeinerung der Muthlosigkeit und Schwäche — kein nothwendiger Glaube.
+bisherigen Interpretationen, eine Verallgemeinerung der Muthlosigkeit und Schwäche — kein **nothwendiger** Glaube.
 
 Unbescheidenheit des Menschen
 
@@ -2528,22 +2528,22 @@ Unbescheidenheit des Menschen
 *lies:*Menschen  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-: wo er den Sinn nicht sieht, ihn zu leugnen!
+: wo er den Sinn nicht sieht, ihn zu **leugnen**!
 
 [2[110]](javascript:;)
 ----------------------
 
-Zur „Geburt der Tragödie“.
+**Zur „Geburt der Tragödie“.**
 
 Das „Sein“ als die Erdichtung des am Werden Leidenden.
 
 Ein Buch aus lauter Erlebnissen über ästhetische Lust- und Unlustzustände aufgebaut, mit einer
 Artisten-Metaphysik im Hintergrunde. Zugleich ein Romantiker-Bekenntniß, endlich ein Jugend-Werk voller
-Jugend-Muth und Melancholie. Der Leidendste verlangt am tiefsten nach Schönheit — er erzeugt sie.
+Jugend-Muth und Melancholie. Der Leidendste verlangt am tiefsten nach Schönheit — er **erzeugt** sie.
 
 Psychologische Grunderfahrungen: mit dem Namen „apollinisch— wird bezeichnet das entzückte Verharren vor
-einer erdichteten und erträumten Welt, vor der Welt des schönen Scheins als einer
-Erlösung vom Werden: auf den Namen des Dionysos ist getauft, andererseits, das Werden
+einer erdichteten und erträumten Welt, vor der Welt des **schönen Scheins** als einer
+Erlösung vom **Werden**: auf den Namen des Dionysos ist getauft, andererseits, das Werden
 aktiv gefaßt, subjektiv nachgefühlt, aus wüthender
 
 *Erratum:*als wüthende  
@@ -2551,7 +2551,7 @@ aktiv gefaßt, subjektiv nachgefühlt, aus wüthender
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Wollust des Schaffenden, der zugleich den Ingrimm des
-Zerstörenden kennt. Antagonismus dieser beiden Erfahrungen und der ihnen zu Grunde liegenden Begierden: die erstere will die Erscheinung ewig, vor ihr wird der Mensch stille,
+Zerstörenden kennt. Antagonismus dieser beiden Erfahrungen und der ihnen zu Grunde liegenden **Begierden**: die erstere will die Erscheinung **ewig**, vor ihr wird der Mensch stille,
 wunschlos, meeresglatt, geheilt, einverstanden mit sich und allem Dasein: die zweite Begierde drängt zum
 Werden, zur Wollust des Werden-machens d.h. des Schaffens und Vernichtens. Das Werden, von innen her empfunden
 und ausgelegt, wäre das fortwährende Schaffen eines Unbefriedigten, Überreichen, Unendlich-Gespannten und
@@ -2567,19 +2567,19 @@ Visionen und Erlösungen im Scheine. — Diese Artisten-Metaphysik stellt sich d
 Schopenhauer’s entgegen, welcher die Kunst nicht vom Künstler aus, sondern vom Empfangenden aus allein zu
 würdigen versteht: weil sie Befreiung und Erlösung im Genuß des Nicht-Wirklichen mit sich bringt, im Gegensatz
 zur Wirklichkeit (die Erfahrung eines an sich und seiner Wirklichkeit Leidenden und Verzweifelnden) — Erlösung
-in der Form und ihrer Ewigkeit (wie auch Plato es erlebt haben mag: nur daß dieser auch
+in der **Form** und ihrer Ewigkeit (wie auch Plato es erlebt haben mag: nur daß dieser auch
 im Begriff schon den Sieg über seine allzu reizbare und leidende Sensibilität genoß) Dem wird die zweite
-Thatsache, die Kunst vom Erlebniß des Künstlers aus, entgegengestellt, vor Allem des Musikers: die Tortur des Schaffenmüssens, als dionysischer Trieb.
+Thatsache, die Kunst vom Erlebniß des Künstlers aus, entgegengestellt, vor Allem des Musikers: die **Tortur** des Schaffenmüssens, als **dionysischer Trieb**.
 
 Die tragische Kunst, an beiden Erfahrungen reich, wird als Versöhnung des Apoll und Dionysos bezeichnet: der
 Erscheinung wird die tiefste Bedeutsamkeit geschenkt, durch Dionysos: und diese Erscheinung wird doch verneint
 und mit Lust
 
-*Erratum:*Lust  
+*Erratum:***Lust**  
 *lies:*Lust  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- verneint. Dies ist gegen Schopenhauer’s Lehre von der Resignation als tragische Weltbetrachtung gekehrt.
+ verneint. Dies ist gegen Schopenhauer’s Lehre von der **Resignation** als tragische Weltbetrachtung gekehrt.
 
 Gegen Wagner’s Theorie, daß die Musik Mittel ist, und das Drama Zweck.
 
@@ -2600,20 +2600,20 @@ Tiefer Widerwille gegen das Christenthum: warum? Die Entartung des deutschen Wes
 Nur aesthetisch giebt es eine Rechtfertigung der Welt. Gründlicher Verdacht gegen die Moral (sie gehört mit
 in die Erscheinungswelt).
 
-Das Glück am Dasein ist nur möglich als Glück am Schein
+Das Glück am Dasein ist nur möglich als Glück am **Schein**
 
-Das Glück am Werden ist nur möglich in der Vernichtung des Wirklichen des „Daseins“, des
+Das Glück am Werden ist nur möglich in der **Vernichtung** des Wirklichen des „Daseins“, des
 schönen Anscheins, in der pessimistischen Zerstörung der Illusion.
 
-in der Vernichtung auch des schönsten Scheins kommt das dionysische Glück auf seinen
-Gipfel.
+**in der Vernichtung auch des schönsten Scheins kommt das dionysische Glück auf seinen
+Gipfel.**
 
 [2[111]](javascript:;)
 ----------------------
 
-Das Problem vom Sinn der Kunst: wozu Kunst?
+Das Problem vom Sinn der Kunst: **wozu** Kunst?
 
-Wie verhielten sich die lebenskräftigsten und wohlgerathensten Menschen die Griechen zur Kunst?
+Wie verhielten sich die lebenskräftigsten und wohlgerathensten Menschen die **Griechen** zur Kunst?
 
 Thatsache: die Tragödie gehört ihrer reichsten Zeit von Kraft an — warum?
 
@@ -2626,10 +2626,10 @@ Zweite Thatsache: das Bedürfniß nach Schönheit;
  ebenso nach Logisirung der Welt gehört in
 ihre décadence
 
-Deutung beider Thatsachen: — — —
+**Deutung** beider Thatsachen: — — —
 
-Fehlerhafte Nutzanwendung auf die Gegenwart: ich deutete den
-Pessimismus als Folge der höheren Kraft und Lebensfülle, welche sich den Luxus des
+**Fehlerhafte Nutzanwendung auf die Gegenwart:** ich deutete den
+Pessimismus als **Folge** der höheren Kraft und Lebensfülle, welche sich den Luxus des
 Tragischen erlauben kann. Insgleichen deutete ich die deutsche Musik als Ausdruck einer dionysischen Überfülle
 und Ursprünglichkeit d.h.
 
@@ -2637,10 +2637,10 @@ und Ursprünglichkeit d.h.
 | --- | --- |
 | 1) | ich überschätzte das deutsche Wesen |
 | 2) | ich verstand die Quellen *Erratum:*Quelle *lies:*Quellen [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  der modernen Verdüsterung nicht |
-| 3) | mir fehlte das kulturhistorische Verständniß für den Ursprung der modernen Musik und ihre essentielle Romantik. |
+| 3) | mir fehlte das kulturhistorische Verständniß für den Ursprung der modernen Musik und ihre **essentielle Romantik**. |
 
-Abgesehen von dieser fehlerhaften Nutzanwendung bleibt das Problem bestehn: wie würde eine
-Musik sein, welche nicht romantischen Ursprungs wäre — sondern eines dionysischen?
+Abgesehen von dieser fehlerhaften Nutzanwendung bleibt das Problem bestehn: **wie würde eine
+Musik sein**, welche **nicht** romantischen Ursprungs wäre — sondern eines **dionysischen**?
 
 [2[112]](javascript:;)
 ----------------------
@@ -2651,7 +2651,7 @@ seiner Mitwelt wegblickt, zurückblickt
 [2[113]](javascript:;)
 ----------------------
 
-Ich fieng an mit einer metaphysischen Hypothese über den Sinn der Musik: aber zu Grunde lag eine psychologische Erfahrung, welcher ich noch keine genügende historische
+Ich fieng an mit einer metaphysischen Hypothese über den Sinn der Musik: aber zu Grunde lag eine **psychologische Erfahrung**, welcher ich noch keine genügende **historische**
 Erklärung unterzuschieben wußte. Die Übertragung der Musik ins
 
 *Erratum:*in’s  
@@ -2660,9 +2660,9 @@ Erklärung unterzuschieben wußte. Die Übertragung der Musik ins
 
  Metaphysische war ein Akt der Verehrung und
 Dankbarkeit; im Grunde haben es alle religiösen Menschen bisher so mit ihrem Erlebniß gemacht. — Nun kam die
-Kehrseite: die unleugbar schädliche und zerstörerische Wirkung eben dieser verehrten
+Kehrseite: die unleugbar **schädliche** und zerstörerische Wirkung eben dieser verehrten
 Musik auf mich — und damit auch das Ende ihrer religiösen Verehrung. Damit giengen mir auch die Augen auf für
-das moderne Bedürfniß nach Musik (welches gleichzeitig in der Geschichte erscheint mit
+das moderne Bedürfniß **nach** Musik (welches gleichzeitig in der Geschichte erscheint mit
 dem zunehmenden Bedürfniß nach Narcoticis) Gar das „Kunstwerk der Zukunft“ erschien mir als Raffinement des
 Aufregungs- und Betäubungs-Bedürfnisses, wobei alle Sinne zugleich ihre Rechnung finden wollen, eingerechnet
 der idealistische, religiöse, hypermoralische Widersinn — als eine Gesammt-Excitation
@@ -2672,9 +2672,9 @@ der idealistische, religiöse, hypermoralische Widersinn — als eine Gesammt-Ex
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  der ganzen nervösen
-Maschinerie. Das Wesen der Romantik gieng mir auf: der Mangel einer fruchtbaren Art von
+Maschinerie. Das Wesen der Romantik gieng mir auf: der **Mangel** einer fruchtbaren Art von
 Menschen ist da zeugend geworden. Zugleich die Schauspielerei der Mittel, die Unächtheit und Entlehntheit
-aller einzelnen Elemente, der Mangel an Probität der künstlerischen Bildung, die abgründliche Falschheit dieser modernsten Kunst: welche wesentlich Theaterkunst sein muß
+aller einzelnen Elemente, der Mangel an Probität der künstlerischen Bildung, die abgründliche **Falschheit** dieser modernsten Kunst: welche wesentlich Theaterkunst sein muß
 
 *Erratum:*möchte  
 *lies:*muß  
@@ -2683,7 +2683,7 @@ aller einzelnen Elemente, der Mangel an Probität der künstlerischen Bildung, d
 . Die psychologische
 Unmöglichkeit dieser angeblichen Helden- und Götterseelen, welche zugleich nervös, brutal und raffinirt sind
 gleich den Modernsten unter den Pariser Malern und Lyrikern. — Genug, ich stellte sie mit hinein in die
-moderne „Barbarei“. — Damit ist über das Dionysische nichts
+moderne „Barbarei“. — Damit ist über das **Dionysische** nichts
 
 *Erratum:*Nichts  
 *lies:*nichts  
@@ -2697,10 +2697,10 @@ einen nihilistischen (ruhe- und endesüchtigen) Schluß gab.
 [2[114]](javascript:;)
 ----------------------
 
-Das Kunstwerk, wo es ohne Künstler
+Das Kunstwerk, wo es **ohne** **Künstler**
 
 *Erratum:*Künstler  
-*lies:*Künstler  
+*lies:***Künstler**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  erscheint z.B. als Leib, als Organisation
@@ -2709,19 +2709,19 @@ Das Kunstwerk, wo es ohne Künstler
 
 Die Welt als ein sich selbst gebärendes Kunstwerk — —
 
-Ist die Kunst eine Folge des Ungenügens am Wirklichen? Oder ein Ausdruck der Dankbarkeit über genossenes Glück? Im ersten Falle Romantik, im
-zweiten Glorien-schein und Dithyrambus (kurz Apotheosen-Kunst
+Ist die Kunst eine Folge des **Ungenügens am Wirklichen**? Oder ein Ausdruck der **Dankbarkeit über genossenes Glück**? Im ersten Falle **Romantik**, im
+zweiten Glorien-schein und Dithyrambus (kurz **Apotheosen**-Kunst
 
-*Erratum:*Apotheosen-Kunst  
-*lies:*Apotheosen-Kunst  
+*Erratum:***Apotheosen-Kunst**  
+*lies:***Apotheosen**-Kunst  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 ): auch Raffael gehört
-hierhin, nur daß er jene Falschheit hatte, den Anschein der christlichen Weltauslegung zu
-vergöttern. Er war dankbar für das Dasein, wo es nicht spezifisch-christlich sich
+hierhin, nur daß er jene Falschheit hatte, den **Anschein** der christlichen Weltauslegung zu
+vergöttern. Er war dankbar für das Dasein, wo es **nicht** spezifisch-christlich sich
 zeigte.
 
-Mit der moral<ischen> Interpretation ist die Welt unerträglich. Das
+Mit der **moral&amp;lt;ischen&amp;gt;** Interpretation ist die Welt unerträglich. Das
 Christenthum war der Versuch, damit die Welt zu „überwinden“
 
 *Erratum:*überwinden  
@@ -2736,16 +2736,16 @@ Christenthum war der Versuch, damit die Welt zu „überwinden“
 
  In praxi lief ein solches
 Attentat des Wahnsinns — einer wahnsinnigen Selbstüberhebung des Menschen angesichts der Welt —
-<auf> Verdüsterung, Verkleinlichung, Verarmung des Menschen hinaus: die mittelmäßigste und
-unschädlichste Art, die heerdenhafte Art Mensch, fand allein dabei ihre Rechnung, ihre Förderung, wenn man will…
+&amp;lt;auf&amp;gt; Verdüsterung, Verkleinlichung, Verarmung des Menschen hinaus: die mittelmäßigste und
+unschädlichste Art, die heerdenhafte Art Mensch, fand allein dabei ihre Rechnung, ihre **Förderung**, wenn man will…
 
-Homer als Apotheosen-Künstler; auch Rubens. Die Musik hat noch keinen gehabt.
+**Homer als Apotheosen-Künstler**; auch Rubens. Die Musik hat noch keinen gehabt.
 
-Die Idealisirung des großen Frevlers (der Sinn für seine Größe) ist
-griechisch; das Herunterwürdigen, Verleumden, Verächtlichmachen des Sünders ist jüdisch u<nd> christlich
+Die Idealisirung des **großen Frevlers** (der Sinn für seine **Größe**) ist
+griechisch; das Herunterwürdigen, Verleumden, Verächtlichmachen des Sünders ist jüdisch u&amp;lt;nd&amp;gt; christlich
 
 *Erratum:*jüdisch-christlich  
-*lies:*jüdisch u<nd> christlich  
+*lies:*jüdisch u&amp;lt;nd&amp;gt; christlich  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 .
@@ -2780,10 +2780,10 @@ Antagonismus zwischen „Verbesserung“ und Verstärkung des Typus Mensch.
 
 Unendliche Ausdeutbarkeit der Welt: jede Ausdeutung ein Symptom des Wachsthums oder des Untergehens.
 
-Die bisherigen Versuche, den moralischen Gott zu überwinden (Pantheismus Hegel usw.)
+Die bisherigen Versuche, den **moralischen** Gott zu überwinden (Pantheismus Hegel usw.)
 
 Die Einheit (der Monismus) ein Bedürfniß der inertia; die Mehrheit der Deutung Zeichen der Kraft. Der Welt
-ihren beunruhigenden und änigmatischen Charakter nicht abstreiten wollen!
+ihren beunruhigenden und änigmatischen Charakter **nicht abstreiten wollen**!
 
 [2[118]](javascript:;)
 ----------------------
@@ -2791,11 +2791,11 @@ ihren beunruhigenden und änigmatischen Charakter nicht abstreiten wollen!
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | 1. |  | I. |  | Der Nihilismus in allen Anzeichen vor der Thür. |
-| II. | Unvermeidlich, falls man nicht seine Voraussetzungen begreift. Diese sind die Werthschätzungen (nicht die socialen Thatsachen: welche alle erst durch eine bestimmte Ausdeutung bald pessimistisch, bald optimistisch wirken) |
+| II. | Unvermeidlich, falls man nicht seine Voraussetzungen begreift. Diese sind die Werthschätzungen (**nicht** die socialen Thatsachen: welche alle erst durch eine bestimmte **Ausdeutung** bald pessimistisch, bald optimistisch wirken) |
 |  | | | |
 | 2. |  | III. |  | Genesis der Werthschätzungen, als Kritik derselben. |
 | 3. |  | IV. | Die Umgekehrten. Ihre Psychologie. |
-| 4. |  | V. | Der Hammer: als die Lehre, welche die Entscheidung herbeiführt. |
+| 4. |  | V. | Der Hammer: als die Lehre, welche die **Entscheidung** herbeiführt. |
 |  | | 1. | Die Gefahr der Gefahren. |
 |  | | 2. | Kritik der Moral. |
 |  | | 3. | Wir Umgekehrten. |
@@ -2805,22 +2805,22 @@ ihren beunruhigenden und änigmatischen Charakter nicht abstreiten wollen!
 ----------------------
 
 „Wie weit reicht die Kunst ins Innere der Welt? Und giebt es abseits vom ‚Künstler‘ noch künstlerische
-Gewalten?“ Diese Frage war, wie man weiß, mein Ausgangspunkt: und ich sagte Ja zu der
+Gewalten?“ Diese Frage war, wie man weiß, mein **Ausgangspunkt**: und ich sagte Ja zu der
 zweiten Frage; und zur ersten „die Welt selbst ist nichts als Kunst.“ Der unbedingte Wille zum Wissen, zur
-Wahr- und Weisheit erschien mir in einer solchen Welt des Scheins als Freveln an <dem>
+Wahr- und Weisheit erschien mir in einer solchen Welt des Scheins als Freveln an &amp;lt;dem&amp;gt;
 
 *Erratum:*Frevel an dem  
-*lies:*Freveln an <dem>  
+*lies:*Freveln an &amp;lt;dem&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  metaphysischen
-Grundwillen, als Wider-Natur: und billigerweise wendet sich <die> Spitze der „Weisheit“
+Grundwillen, als Wider-Natur: und billigerweise wendet sich &amp;lt;die&amp;gt; Spitze der „Weisheit“
 
 *Erratum:*Weisheit  
 *lies:*„Weisheit“  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- gegen den Weisen. Das Wider-natürliche
+ **gegen** den Weisen. Das Wider-natürliche
 
 *Erratum:*Widernatürliche  
 *lies:*Wider-natürliche  
@@ -2833,7 +2833,7 @@ zum Nichts!
 [2[120]](javascript:;)
 ----------------------
 
-Alle Culte stellen ein einmaliges Erlebniß, das Zusammenkommen mit einem Gotte, einen
+Alle Culte stellen ein **einmaliges** Erlebniß, das Zusammenkommen mit einem Gotte, einen
 „Heils-Akt“
 
 *Erratum:*Heils-Akt  
@@ -2854,7 +2854,7 @@ Dramas: wo die Poesie den Gott spielt.
 
 (38)
 
-Die Schauspielerei
+**Die Schauspielerei**
 
 Die Farbenbuntheit des modernen Menschen und ihr Reiz.
 
@@ -2878,11 +2878,11 @@ Die „Wissenschaftlichkeit“
 
 Virtuosen (Juden)
 
-die volksthümlichen Ideale als überwunden aber noch nicht vor dem Volk.
+die volksthümlichen Ideale als überwunden aber noch nicht **vor** **dem Volk**.
 
 *Erratum:*dem
-Volk:  
-*lies:*dem Volk.  
+**Volk**:  
+*lies:***dem Volk**.  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
   
@@ -2893,7 +2893,7 @@ der Heilige, der Weise, der Prophet
 
 (37)
 
-Zur Geschichte der modernen Verdüsterung.
+**Zur Geschichte der modernen Verdüsterung.**
 
 Die Staats-Nomaden (Beamte usw.): ohne „Heimat“ — Der Niedergang der Familie.
 
@@ -2921,8 +2921,8 @@ Menschenverachtung.
 
  Ekel.
 
-Tiefste Unterscheidung: ob der Hunger oder der Überfluß schöpferisch
-wird? Ersterer erzeugt die Ideale der Romantik
+Tiefste Unterscheidung: ob der Hunger oder der Überfluß **schöpferisch**
+wird? Ersterer erzeugt die **Ideale der Romantik**
 
 nordische Unnatürlichkeit.
 
@@ -2939,17 +2939,17 @@ der philosophische Nihilismus.
 [2[123]](javascript:;)
 ----------------------
 
-Die Christen müssen an die Wahrhaftigkeit Gottes glauben: da bekommen sie leider den
-Glauben in die Bibel und an deren „Naturwissenschaft“ mit in Kauf; sie dürfen durchaus
+Die Christen müssen an die **Wahrhaftigkeit Gottes** glauben: da bekommen sie leider den
+Glauben in die Bibel und an deren „Naturwissenschaft“ mit in Kauf; sie **dürfen** durchaus
 keine relative Wahrheit (oder deutlicher gesagt,
 
 *Erratum:*gesagt — — —  
 *lies:*gesagt,  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-) zugestehen. An dem unbedingten
+) zugestehen. An dem **unbedingten**
 Charakter seiner Moral zerbricht das Christenthum. — Die Wissenschaft hat den Zweifel an der Wahrhaftigkeit
-des christlichen Gottes geweckt: an diesem Zweifel stirbt das Christenthum (Pascals deus
+des christlichen Gottes geweckt: an diesem **Zweifel stirbt das Christenthum** (Pascals deus
 absconditus).
 
 [2[124]](javascript:;)
@@ -2958,17 +2958,17 @@ absconditus).
 |  |  |  |
 | --- | --- | --- |
 | 1. | Geburt der Tragödie. | Artisten-Metaphysik. |
-| 2. | Unzeitgemässe Betrachtungen. | Der Bildungsphilister. Der Ekel.  Leben und Historie — Grundproblem.  Der philosophische Einsiedler. „Erziehung“  Der Künstler-Einsiedler. Was an Wagner zu lernen ist. |
+| 2. | Unzeitgemässe Betrachtungen. | Der Bildungsphilister. Der Ekel.  Leben und Historie — Grundproblem.  Der philosophische Einsiedler. „Erziehung“  Der Künstler-Einsiedler. **Was** an Wagner zu lernen ist. |
 | 3. | Menschliches Allzumenschliches. | Der freie Geist. |
 | 4. | Vermischte Meinungen und Sprüche. | Der Pessimist des Intellekts. |
-|  | (7)  Causalität. „Warum *Erratum:*Warum *lies:*„Warum [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  bin ich so und so? Der unsinnige Gedanke für sein Dasein, auch für sein So- und So-sein selbst frei wählend sich zu denken. Hintergrund: die Forderung, es müßte ein Wesen geben, welches ein sich selbst verachtendes Geschöpf, wie ich es bin, am Entstehen verhindert hätte. Sich als Gegenargument gegen Gott fühlen — | |
+|  | (7)  Causalität. „Warum *Erratum:*Warum *lies:*„Warum [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  bin **ich** so und so? Der unsinnige Gedanke für sein Dasein, auch für sein So- und So-sein selbst frei wählend sich zu denken. Hintergrund: die Forderung, es **müßte** ein Wesen geben, welches ein sich selbst verachtendes Geschöpf, wie ich es bin, am Entstehen **verhindert** hätte. Sich als Gegenargument gegen Gott **fühlen** — | |
 | 5. | Wanderer und Schatten. | Einsamkeit, *Erratum:*Einsamkeit *lies:*Einsamkeit, [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  als Problem. |
 | 6. | Morgenröthe. | Moral als eine Summe von Vorurtheilen |
-| 7. | Fröhliche Wissenschaft. | Hohn über die europäische Moralistik.  Aussicht auf eine Überwindung der Moral.  Wie müßte ein Mensch beschaffen sein, der jenseits lebte?  Z<arathustra> - - - |
+| 7. | Fröhliche Wissenschaft. | Hohn über die europäische Moralistik.  Aussicht auf eine Überwindung der Moral.  Wie müßte ein Mensch beschaffen sein, der jenseits lebte?  Z&amp;lt;arathustra&amp;gt; - - - |
 
   
 
-Sieben Vorreden.
+**Sieben Vorreden.**
   
 Ein Nachtrag  
 zu sieben Veröffentlichungen.
@@ -2987,9 +2987,9 @@ Die Schauspielerei.
 
 Zu 2) Kritik der höchsten Werthe.
 
-Zur Geschichte der Verleumdung.
+Zur Geschichte der **Verleumdung**.
 
-Wie man Ideale macht.
+Wie man **Ideale** macht.
 
 Cultur (und „Vermenschlichung“: antagonistisch)
 
@@ -3000,11 +3000,11 @@ Interpretation
 
 (37)
 
-Urtheile über die Pessimisten einzumischen!
+Urtheile über die **Pessimisten** einzumischen!
   
 Die Inder
 
-Der Pessimismus (als Instinkt) und der Wille zum Pessimismus:
+Der Pessimismus (als Instinkt) und der Wille **zum** Pessimismus:
 Haupt-Contrast
 
 |  |  |  |
@@ -3013,7 +3013,7 @@ Haupt-Contrast
 
 |  |  |
 | --- | --- |
-|  | alle *Erratum:*— alle *lies:*alle [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  diese Maßstäbe *Erratum:*Maaßstäbe *lies:*Maßstäbe [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  sind es nur aus moralischen Gründen  oder *Erratum:*— oder *lies:*oder [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) , wie Plato, auch die ἡδονή, als Werth-Umwertherin und Verführerin gefürchtet |
+|  | **alle** *Erratum:*— **alle** *lies:***alle** [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  diese Maßstäbe *Erratum:*Maaßstäbe *lies:*Maßstäbe [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  sind es nur aus **moralischen** Gründen  oder *Erratum:*— oder *lies:*oder [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) , wie Plato, auch die ἡδονή, als Werth-Umwertherin und Verführerin gefürchtet |
 | A. | Was ist Wahrheit? |
 | B. | Gerechtigkeit. |
 | C. | Zur Geschichte der Mitgefühle. |
@@ -3023,9 +3023,9 @@ Haupt-Contrast
 
   
 
-(36)
+**(36)**
 
-Was ist Wahrheit? (inertia, die Hypothese, bei der Befriedigung
+**Was ist Wahrheit?** (inertia, die Hypothese, bei der Befriedigung
 entsteht, geringster Verbrauch von geistiger Kraft usw.)
 
 [2[127]](javascript:;)
@@ -3037,26 +3037,26 @@ Der Nihilismus steht vor der Thür: woher kommt uns dieser unheimlichste aller G
 
 |  |  |  |
 | --- | --- | --- |
-| I. | 1. | Ausgangspunkt: es ist ein Irrthum, auf „sociale Nothstände“ oder „physiologische Entartungen“ oder gar auf Corruption hinzuweisen als Ursache des Nihilismus. Diese erlauben immer noch ganz verschiedene Ausdeutungen. Sondern in einer ganz bestimmten Ausdeutung: *Erratum:*Ausdeutung, *lies:*Ausdeutung: [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  in der christlich-moral<ischen> steckt der Nihilismus. Es ist die honnetteste, mitfühlendste Zeit. Noth, seelische, leibliche, intellektuelle Noth ist an sich durchaus nicht vermögend, Nihilismus d.h. die radikale Ablehnung von Werth, Sinn, Wünschbarkeit hervorzubringen |
-| 2. | Der Untergang des Christenthums — an seiner Moral (die unablösbar ist —) welche sich gegen den christlichen Gott wendet (der Sinn der Wahrhaftigkeit, durch das Christenthum hoch entwickelt, bekommt Ekel vor der Falschheit und Verlogenheit aller christlichen Welt- und Geschichtsdeutung. Rückschlag von „Gott ist die Wahrheit“ in den fanatischen Glauben „Alles ist falsch“. Buddhismus der That… |
-| 3. | Skepsis an der Moral ist das Entscheidende. Der Untergang der moral<ischen> Weltauslegung die keine Sanktion mehr hat, nachdem sie versucht hat, sich in eine Jenseitigkeit zu flüchten: endet in Nihilismus „Alles hat keinen Sinn“ (die Undurchführbarkeit Einer Weltauslegung, der ungeheure Kraft gewidmet worden ist — erweckt das Mißtrauen ob nicht alle Weltauslegungen falsch sind —) Buddhistischer Zug, Sehnsucht ins *Erratum:*in’s *lies:*ins [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Nichts. (Der indische Buddhism hat nicht eine grundmoralische Entwicklung hinter sich, deshalb ist bei ihm im Nihilismus nur unüberwundene Moral: Dasein als Strafe, Dasein als Irrthum combinirt, der Irrthum also als Strafe — eine moralische Werthschätzung) Die philosophischen Versuche, den „moralischen Gott“ zu überwinden (Hegel, Pantheismus). Überwindung der volksthümlichen Ideale: der Weise. Der Heilige. Der Dichter. Antagonismus von „wahr“ und „schön“ und „gut“ — — |
-| 4. | Gegen die „Sinnlosigkeit“ einerseits, gegen die moralischen Werthurtheile andererseits: in wiefern alle Wissenschaft und Philosophie bisher unter moralischen Urtheilen stand? und ob man nicht die Feindschaft der Wissenschaft mit in den Kauf bekommt? Oder die Anti-wissenschaftlichkeit? Kritik des Spinozismus. Die christlichen Werthurtheile überall in den socialistischen und positivistischen Systemen rückständig. Es fehlt eine Kritik der christlichen Moral. |
-| 5. | die nihilistischen Consequenzen der jetzigen Naturwissenschaft (nebst ihren Versuchen ins Jenseitige zu entschlüpfen). Aus ihrem Betriebe folgt endlich eine Selbstzersetzung, eine Wendung gegen sich, eine Anti-Wissenschaftlichkeit. — Seit Copernikus rollt der Mensch aus dem Centrum ins x |
-| 6. | Die nihilistischen Consequenzen der politischen und volkswirthschaftlichen Denkweise wo alle „Principien“ nachgerade zur Schauspielerei gehören: der Hauch von Mittelmäßigkeit, Erbärmlichkeit, Unaufrichtigkeit usw. Der Nationalismus, der Anarchismus usw. Strafe. Es fehlt der erlösende Stand und Mensch, der Rechtfertiger *Erratum:*die Rechtfertiger *lies:*der Rechtfertiger [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  — |
-| 7. | die nihilistischen Consequenzen der Historie und der „praktischen Historiker“ d.h. der Romantiker. Die Stellung der Kunst: absolute Unoriginalität ihrer Stellung in der modernen Welt. Ihre Verdüsterung. Goethes angebliches Olympier-thum. |
-| 8. | Die Kunst und die Vorbereitung des Nihilismus: *Erratum:*Nihilismus. *lies:*Nihilismus: [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Romantik (Wagners Nibelungen-Schluß *Erratum:*Nibelungen-Schluß *lies:*Nibelungen-Schluß [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) ) |
+| I. | 1. | Ausgangspunkt: es ist ein **Irrthum**, auf „sociale Nothstände“ oder „physiologische Entartungen“ oder gar auf Corruption hinzuweisen als **Ursache** des Nihilismus. Diese erlauben immer noch ganz verschiedene Ausdeutungen. Sondern in einer **ganz bestimmten** **Ausdeutung**: *Erratum:***Ausdeutung**, *lies:***Ausdeutung**: [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  in der christlich-moral&amp;lt;ischen&amp;gt; steckt der Nihilismus. Es ist die honnetteste, mitfühlendste Zeit. Noth, seelische, leibliche, intellektuelle Noth ist an sich durchaus nicht vermögend, Nihilismus d.h. die radikale Ablehnung von Werth, Sinn, Wünschbarkeit hervorzubringen |
+| 2. | Der Untergang des Christenthums — an seiner Moral (die unablösbar ist —) welche sich gegen den christlichen Gott wendet (der Sinn der Wahrhaftigkeit, durch das Christenthum hoch entwickelt, bekommt **Ekel** vor der Falschheit und Verlogenheit aller christlichen Welt- und Geschichtsdeutung. Rückschlag von „Gott ist die Wahrheit“ in den fanatischen Glauben „Alles ist falsch“. Buddhismus der **That**… |
+| 3. | Skepsis an der Moral ist das Entscheidende. Der Untergang der **moral&amp;lt;ischen&amp;gt;** Weltauslegung die keine **Sanktion** mehr hat, nachdem sie versucht hat, sich in eine Jenseitigkeit zu flüchten: endet in Nihilismus „Alles hat keinen Sinn“ (die Undurchführbarkeit Einer Weltauslegung, der ungeheure Kraft gewidmet worden ist — erweckt das Mißtrauen ob nicht **alle** Weltauslegungen falsch sind —) Buddhistischer Zug, Sehnsucht ins *Erratum:*in’s *lies:*ins [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Nichts. (Der indische Buddhism hat **nicht** eine grundmoralische Entwicklung hinter sich, deshalb ist bei ihm im Nihilismus nur unüberwundene Moral: Dasein als Strafe, Dasein als Irrthum combinirt, der Irrthum also als Strafe — eine moralische Werthschätzung) Die philosophischen Versuche, den „moralischen Gott“ zu überwinden (Hegel, Pantheismus). Überwindung der volksthümlichen Ideale: der Weise. Der Heilige. Der Dichter. Antagonismus von „wahr“ und „schön“ und „gut“ — — |
+| 4. | Gegen die „Sinnlosigkeit“ einerseits, gegen die moralischen Werthurtheile andererseits: in wiefern alle Wissenschaft und Philosophie bisher unter moralischen Urtheilen stand? und ob man nicht die Feindschaft der Wissenschaft mit in den Kauf bekommt? Oder die Anti-wissenschaftlichkeit? Kritik des Spinozismus. Die christlichen Werthurtheile überall in den socialistischen und positivistischen Systemen rückständig. Es fehlt eine **Kritik der christlichen Moral**. |
+| 5. | die nihilistischen Consequenzen der jetzigen Naturwissenschaft (nebst ihren Versuchen ins Jenseitige zu entschlüpfen). Aus ihrem Betriebe **folgt** endlich eine Selbstzersetzung, eine Wendung gegen **sich**, eine Anti-Wissenschaftlichkeit. — Seit Copernikus rollt der Mensch aus dem Centrum ins x |
+| 6. | Die nihilistischen Consequenzen der politischen und volkswirthschaftlichen Denkweise wo alle „Principien“ nachgerade zur Schauspielerei gehören: der Hauch von Mittelmäßigkeit, Erbärmlichkeit, Unaufrichtigkeit usw. Der Nationalismus, der Anarchismus usw. Strafe. Es fehlt der **erlösende** Stand und Mensch, der Rechtfertiger *Erratum:*die Rechtfertiger *lies:*der Rechtfertiger [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  — |
+| 7. | die nihilistischen Consequenzen der Historie und der „**praktischen** Historiker“ d.h. der Romantiker. Die Stellung der Kunst: absolute **Un**originalität ihrer Stellung in der modernen Welt. Ihre Verdüsterung. Goethes angebliches Olympier-thum. |
+| 8. | Die Kunst und die Vorbereitung des Nihilismus: *Erratum:*Nihilismus. *lies:*Nihilismus: [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Romantik (Wagners Nibelungen-**Schluß** *Erratum:*Nibelungen-Schluß *lies:*Nibelungen-**Schluß** [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) ) |
 
 [2[128]](javascript:;)
 ----------------------
 
 |  |  |
 | --- | --- |
-| I. | Grundwiderspruch in der Civilisation und der Erhöhung des Menschen. Es ist die Zeit des großen Mittags, der furchtbarsten *Erratum:*fruchtbarsten *lies:*furchtbarsten [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Aufhellung: meine Art von Pessimismus: — großer Ausgangspunkt. |
-| II. | Die moral<ischen> Werthschätzungen als eine Geschichte der Lüge und Verleumdungskunst im Dienste eines Willens zur Macht (des Heerden-Willens) welcher sich gegen die stärkeren Menschen auflehnt |
-| III. | Die Bedingungen jeder Erhöhungen *Erratum:*Erhöhung *lies:*Erhöhungen [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  der Cultur (der Ermöglichung einer Auswahl auf Unkosten einer Menge) sind die Bedingungen alles Wachsthums. |
-| IV. | Die Vieldeutigkeit der Welt als Frage der Kraft, welche alle Dinge unter der Perspektive ihres Wachsthums ansieht. Die moralischen christlichen Werthurtheile als Sklaven-Aufstand und Sklaven-Lügenhaftigkeit (gegen die aristokratischen Werthe der antiken Welt) |
+| I. | Grundwiderspruch in der Civilisation und der Erhöhung des Menschen. Es ist die Zeit des **großen Mittags, der** **furchtbarsten** *Erratum:***fruchtbarsten** *lies:***furchtbarsten** [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Aufhellung: meine **Art von Pessimismus**: — großer Ausgangspunkt. |
+| II. | Die moral&amp;lt;ischen&amp;gt; Werthschätzungen als eine Geschichte der Lüge und Verleumdungskunst im Dienste eines Willens zur Macht (des **Heerden**-Willens) welcher sich gegen die stärkeren Menschen auflehnt |
+| III. | Die Bedingungen jeder Erhöhungen *Erratum:*Erhöhung *lies:*Erhöhungen [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  der Cultur (der Ermöglichung einer **Auswahl** auf Unkosten einer Menge) sind die Bedingungen alles Wachsthums. |
+| IV. | Die **Vieldeutigkeit** der Welt als Frage der **Kraft**, welche alle Dinge unter der **Perspektive ihres Wachsthums** ansieht. Die **moralischen christlichen** Werthurtheile als Sklaven-Aufstand und Sklaven-Lügenhaftigkeit (gegen die aristokratischen Werthe der **antiken** Welt) |
 
-Wie weit reicht die Kunst hinab in das Wesen der Kraft?
+Wie weit reicht die **Kunst** hinab in das Wesen der **Kraft**?
 
 [2[129]](javascript:;)
 ----------------------
@@ -3067,7 +3067,7 @@ Die ewige Wiederkunft.
 
 Zarathustrische Tänze und  
 Umzüge.  
-Erster Theil: Gottes Todtenfest.
+**Erster Theil: Gottes Todtenfest.**
 
   
 
@@ -3089,10 +3089,10 @@ Friedrich Nietzsche.
 I.
 
 Die Peststadt. Er wird gewarnt, er fürchtet sich nicht und geht hinein, verhüllt. Alle Arten des Pessimismus
-ziehen vorbei. Der Wahrsager deutet jeden Zug. Die Sucht zum Anders, die Sucht zum Nein,
+ziehen vorbei. Der Wahrsager **deutet** jeden Zug. Die Sucht zum Anders, die Sucht zum Nein,
 endlich die Sucht zum Nichts folgen sich.
 
-Zuletzt giebt Zarathustra die Erklärung: Gott ist todt, dies ist die Ursache der größten Gefahr: wie? sie könnte auch die Ursache des größten Muthes
+Zuletzt giebt Zarathustra die **Erklärung**: Gott ist todt, dies ist die **Ursache** der größten Gefahr: wie? sie könnte auch die Ursache des größten Muthes
 
 *Erratum:*Muths  
 *lies:*Muthes  
@@ -3106,8 +3106,8 @@ II.
 
 Das Erscheinen der Freunde.
 
-Der Genuß der Untergehenden an dem
-Vollkommenen: Abziehende.
+Der Genuß der Untergehenden an **dem**
+**Vollkommenen**: Abziehende.
 
 Die Rechenschaft der Freunde.
 
@@ -3132,8 +3132,8 @@ IV. Wir Gelobenden
 [2[130]](javascript:;)
 ----------------------
 
-Das Phänomen „Künstler“ ist noch am leichtesten durchsichtig: — von da aus hinzublicken
-auf die Grundinstinkte der Macht, der Natur usw.! Auch der Religion und Moral!
+Das Phänomen „Künstler“ ist noch am leichtesten **durchsichtig**: — von da aus hinzublicken
+auf die **Grundinstinkte der Macht**, der Natur usw.! Auch der Religion und Moral!
 
 „das Spiel“, das Unnützliche, als Ideal des mit Kraft Überhäuften, als „kindlich“. Die „Kindlichkeit“ Gottes,
 παῖς παίζων
@@ -3141,7 +3141,7 @@ auf die Grundinstinkte der Macht, der Natur usw.! Auch der Religion und Moral!
 [2[131]](javascript:;)
 ----------------------
 
-Plan des ersten Buches.
+**Plan des ersten Buches.**
 
 Es dämmert der Gegensatz der Welt, die wir verehren, und der Welt, die wir leben, die wir — sind. Es bleibt
 übrig, entweder unsere Verehrungen abzuschaffen oder uns selbst. Letzteres ist der Nihilismus.
@@ -3149,15 +3149,15 @@ Es dämmert der Gegensatz der Welt, die wir verehren, und der Welt, die wir lebe
 |  |  |  |
 | --- | --- | --- |
 | 1. |  | Der heraufkommende Nihilismus, theoretisch und praktisch. Fehlerhafte Ableitung desselben.  (Pessimismus, seine Arten: Vorspiele des Nihilismus, obschon nicht nothwendig.)  Übergewicht des Nordens über den Süden. |
-| 2. | Das Christenthum an seiner Moral zu Grunde gehend. „Gott ist die Wahrheit“. *Erratum:*Wahrheit“ *lies:*Wahrheit“. [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  „Gott ist die Liebe“ „der gerechte Gott.“ *Erratum:*Gott“ *lies:*Gott.“ [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  — Das größte Ereigniß — „Gott ist todt“ —, dumpf gefühlt. Der deutsche Versuch, Chr<istenthum> in eine Gnosis umzuwandeln, ist zum tiefsten Mißtrauen ausgeschlagen: das „Unwahrhaftige“ dabei am stärksten empfunden (gegen Schelling z.B.) |
-| 3. | Moral, ohne Sanktion nunmehr, weiß sich selbst nicht mehr zu halten. Man läßt die moralische Ausdeutung endlich fallen — (Das Gefühl überall noch voller Nachschläge des christlichen Werthurtheils —) |
-| 4. | Aber auf moralischen Urtheilen beruhte der Werth bisher, vor Allem der Werth der Philosophie! („des Willens zur Wahrheit“ —)  die volksthümlichen Ideale „der Weise“ „der Prophet“ „der Heilige“ hingefallen |
-| 5. | Nihilistischer Zug in den Naturwissenschaften. („Sinnlosigkeit“ —) Causalismus, Mechanismus. Die „Gesetzmäßigkeit“ ein Zwischenakt, ein Überbleibsel. |
-| 6. | Insgleichen in der Politik: es fehlt der Glaube an sein Recht, die Unschuld, es herrscht die Lügnerei, die Augenblicks-Dienerei |
-| 7. | Insgleichen in der Volkswirthschaft: die Aufhebung der Sklaverei: Mangel eines erlösenden Standes, eines Rechtfertigers, — Heraufkommen des Anarchismus. „Erziehung?“ |
+| 2. | Das Christenthum an seiner Moral zu Grunde gehend. „Gott ist die Wahrheit“. *Erratum:*Wahrheit“ *lies:*Wahrheit“. [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  „Gott ist die Liebe“ „der gerechte Gott.“ *Erratum:*Gott“ *lies:*Gott.“ [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  — Das größte Ereigniß — „Gott ist todt“ —, dumpf gefühlt. Der deutsche Versuch, Chr&amp;lt;istenthum&amp;gt; in eine Gnosis umzuwandeln, ist zum tiefsten Mißtrauen ausgeschlagen: das „Unwahrhaftige“ dabei am stärksten empfunden (gegen Schelling z.B.) |
+| 3. | Moral, ohne Sanktion nunmehr, weiß sich selbst nicht mehr zu halten. Man läßt die moralische Ausdeutung endlich **fallen** — (Das Gefühl überall noch voller Nachschläge des christlichen Werthurtheils —) |
+| 4. | Aber auf moralischen Urtheilen beruhte der **Werth** bisher, vor Allem der Werth der Philosophie! („des Willens zur Wahrheit“ —)  die volksthümlichen Ideale „der Weise“ „der Prophet“ „der Heilige“ hingefallen |
+| 5. | **Nihilistischer** Zug in den Naturwissenschaften. („Sinnlosigkeit“ —) Causalismus, Mechanismus. Die „Gesetzmäßigkeit“ ein Zwischenakt, ein Überbleibsel. |
+| 6. | Insgleichen in der Politik: es fehlt der Glaube an **sein** Recht, die Unschuld, es herrscht die Lügnerei, die Augenblicks-Dienerei |
+| 7. | Insgleichen in der Volkswirthschaft: die Aufhebung der Sklaverei: Mangel eines erlösenden Standes, eines **Rechtfertigers**, — Heraufkommen des Anarchismus. „Erziehung?“ |
 | 8. | Insgleichen in der Geschichte: der Fatalismus, der Darwinismus, die letzten Versuche, Vernunft und Göttlichkeit hineinzudeuten, mißrathen. Sentimentalität vor der Vergangenheit; Man ertrüge keine Biographie! — (der Phänomenalismus auch hier: Charakter als Maske, es giebt keine Thatsachen) |
-| 9. | Insgleichen in der Kunst: Romantik und ihr Gegenschlag (Widerwille gegen die romantischen Ideale und Lügen) die reinen „Artisten“ *Erratum:*Artisten *lies:*„Artisten“ [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  (gleichgültig gegen den Inhalt) Letzterer *Erratum:*Letzteres, *lies:*Letzterer [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  moralisch, als Sinn größerer Wahrhaftigkeit, aber pessimistisch  (Beichtvater-Psychologie und Puritaner-Psychologie, zwei Formen der psychologischen Romantik: aber auch noch ihr Gegenschlag, der Versuch, sich rein artistisch zum „Menschen“ zu stellen, — auch da wird noch nicht die umgekehrte Werthschätzung gewagt!) |
-| 10. | Das ganze europäische System der menschlichen Bestrebungen fühlt sich theils „sinnlos“ *Erratum:*sinnlos *lies:*„sinnlos“ [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) , theils bereits „unmoralisch“. Wahrscheinlichkeit eines neuen Buddhismus. Die höchste Gefahr. „Wie verhalten sich Wahrhaftigkeit, Liebe, Gerechtigkeit zur wirklichen Welt?“ Gar nicht! — |
+| 9. | Insgleichen in der Kunst: Romantik und ihr **Gegenschlag** (Widerwille gegen die romantischen Ideale und Lügen) die reinen „Artisten“ *Erratum:*Artisten *lies:*„Artisten“ [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  (gleichgültig gegen den Inhalt) Letzterer *Erratum:*Letzteres, *lies:*Letzterer [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  moralisch, als Sinn größerer Wahrhaftigkeit, aber pessimistisch  (Beichtvater-Psychologie und Puritaner-Psychologie, zwei Formen der psychologischen Romantik: aber auch noch ihr Gegenschlag, der Versuch, sich rein artistisch zum „Menschen“ zu stellen, — auch da wird noch nicht die **umgekehrte** Werthschätzung **gewagt**!) |
+| 10. | Das ganze europäische System der menschlichen Bestrebungen **fühlt sich** theils „sinnlos“ *Erratum:*sinnlos *lies:*„sinnlos“ [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) , theils bereits „unmoralisch“. Wahrscheinlichkeit eines neuen Buddhismus. Die höchste Gefahr. „Wie verhalten sich Wahrhaftigkeit, Liebe, Gerechtigkeit zur **wirklichen** Welt?“ Gar nicht! — |
 |  | Die Anzeichen | |
 |  | Der europäische Nihilismus. | |
 |  | Seine Ursache: die Entwerthung der bisherigen Werthe. | |
@@ -3165,7 +3165,7 @@ Es dämmert der Gegensatz der Welt, die wir verehren, und der Welt, die wir lebe
   
 
 Das unklare Wort „Pessimismus“: Leute, die sich schlecht befinden und Leute, die sich zu gut befinden — beide
-sind P<essimisten>) gewesen.
+sind P&amp;lt;essimisten&amp;gt;) gewesen.
 
 Verhältniß von Nihilismus, Romantik und Positivismus (letzterer ein Gegenschlag gegen die
 Romantik, Werk enttäuschter Romantiker)
@@ -3182,12 +3182,12 @@ Romantik, Werk enttäuschter Romantiker)
 Rousseau, die Wissenschaft nach dem romantischen Idealismus
 
 Der Spinozismus höchst einflußreich: 1) Versuch, sich zufrieden zu geben mit der Welt,
-wie sie ist
+**wie sie ist**
 
 |  |  |
 | --- | --- |
-| 2) | Glück und Erkenntniß naiv in Abhängigkeit gesetzt (ist Ausdruck eines Willens zum Optimismus, an dem sich ein tief Leidender verräth —) |
-| 3) | Versuch, die moralische Weltordnung loszuwerden, um „Gott“, eine vor der Vernunft bestehende Welt übrig zu behalten… |
+| 2) | Glück und Erkenntniß naiv in **Abhängigkeit** gesetzt (ist Ausdruck eines Willens **zum** Optimismus, an dem sich ein tief Leidender verräth —) |
+| 3) | Versuch, die moralische Weltordnung **loszuwerden**, **um** „Gott“, **eine vor der** Vernunft **bestehende Welt** übrig zu behalten… |
 
 „Wenn der Mensch sich nicht mehr für böse hält, hört er auf es zu sein —“ Gut und böse sind nur
 Interpretationen, und durchaus kein Thatbestand, kein An sich. Man kann hinter den Ursprung dieser Art
@@ -3196,17 +3196,17 @@ interpretiren, langsam zu befreien.
 
   
 
-Zum zweiten Buche.
+**Zum zweiten Buche.**
 
-Entstehung und Kritik der moralischen
-Werthschätzungen. Beides fällt nicht zusammen, wie man leichthin glaubt (dieser Glaube
-ist schon das Resultat einer moralischen Schätzung „etwas so und so Entstandnes ist wenig
+**Entstehung** und **Kritik** der moralischen
+Werthschätzungen. Beides fällt **nicht** zusammen, wie man leichthin glaubt (dieser Glaube
+ist schon das **Resultat** einer moralischen Schätzung „etwas so und so Entstandnes ist wenig
 werth, als unmoralischen Ursprungs“)
 
-Maaßstab, wonach der Werth der moralischen Werthschätzungen zu
+Maaßstab, **wonach** der Werth der moralischen Werthschätzungen zu
 bestimmen ist: Kritik der Worte „Besserung, Vervollkommnung, Erhöhung“.
 
-Die übersehene Grundthatsache: Widerspruch zwischen dem
+Die **übersehene** Grundthatsache: Widerspruch zwischen dem
 „Moralischer-werden“ und der Erhöhung und Verstärkung des Typus Mensch
 
 Homo natura. Der „Wille zur Macht“.
@@ -3227,15 +3227,15 @@ Herrn machend, die dümmeren Gewalten sich unterjochend
 
 Zum vierten Buche.
 
-Der größte Kampf: dazu braucht es eine neue
+Der **größte** Kampf: dazu braucht es eine neue
 
 *Erratum:*einer neuen  
 *lies:*eine neue  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Waffe.
+ **Waffe**.
 
-Der Hammer: eine furchtbare Entscheidung heraufbeschwören, Europa vor die Consequenz stellen, ob sein Wille zum Untergang „will“
+Der Hammer: eine furchtbare Entscheidung heraufbeschwören, Europa vor die **Consequenz** stellen, ob sein Wille zum Untergang „will“
 
 Verhütung der Vermittelmäßigung. Lieber noch Untergang!
 
@@ -3249,11 +3249,11 @@ Die Voraussetzung, daß es im Grunde der Dinge so moralisch zugeht, daß die men
 Wahrhaftigkeit — Gott als Schöpfer der Dinge gedacht. — Die Begriffe eine Erbschaft aus einer jenseitigen
 Vorexistenz — —
 
-Ein Werkzeug kann nicht seine eigene Tauglichkeit kritisiren: der Intellekt kann nicht
+Ein Werkzeug kann nicht seine eigene Tauglichkeit **kritisiren**: der Intellekt kann nicht
 selber seine Grenze, auch nicht sein Wohlgerathensein oder sein Mißrathensein bestimmen. —
 
-„Erkennen“ ist ein Zurückbeziehn: seinem Wesen nach ein regressus in infinitum. Was Halt
-macht (bei einer angeblichen causa prima, bei einem Unbedingten usw.) ist die Faulheit,
+„Erkennen“ ist ein **Zurückbeziehn**: seinem Wesen nach ein regressus in infinitum. Was Halt
+macht (bei einer angeblichen causa prima, bei einem Unbedingten usw.) ist die **Faulheit**,
 die Ermüdung — —
 
 So gut man immer auch
@@ -3262,7 +3262,7 @@ So gut man immer auch
 *lies:*auch  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- die Bedingungen verstanden haben mag, unter denen eine Sache entsteht, deshalb versteht man sie selbst noch gar
+ die Bedingungen verstanden haben mag, unter denen eine Sache **entsteht**, **deshalb** versteht man sie selbst noch gar
 
 *Erratum:*noch  
 *lies:*noch gar  
@@ -3274,7 +3274,7 @@ Ohr gesagt.
 [2[133]](javascript:;)
 ----------------------
 
-Gegen das Versöhnen-Wollen und die Friedfertigkeit. Dahin
+**Gegen** das Versöhnen-Wollen und die Friedfertigkeit. Dahin
 
 *Erratum:*Dazu  
 *lies:*Dahin  
@@ -3298,12 +3298,12 @@ Die Volks- und Massen-Wirkung von Seiten der Künstler: Balzac V. Hugo, R. Wagne
 [2[136]](javascript:;)
 ----------------------
 
-— Eines jener schlagenden Argumente, das den schlägt, der es anwendet —
+— Eines jener **schlagenden** Argumente, das den schlägt, der es anwendet —
 
 [2[137]](javascript:;)
 ----------------------
 
-Gedanken-Wegweiser.
+**Gedanken-Wegweiser.**
   
 Hülfsmittel  
 zu einem ernstlichen Studium  
@@ -3326,7 +3326,7 @@ Jenseits von Gut und Böse.
 
   
 
-Vorspiel
+**Vorspiel**
   
 einer Philosophie der Zukunft.
 
@@ -3339,10 +3339,10 @@ Friedrich Nietzsche
 
 Neue verständlichere Ausgabe.  
 Zweiter Band.  
-Mit einem Anhang: Gedanken-Wegweiser
+Mit einem Anhang: **Gedanken-Wegweiser**
 
-*Erratum:*Gedankenwegweiser  
-*lies:*Gedanken-Wegweiser  
+*Erratum:***Gedankenwegweiser**  
+*lies:***Gedanken-Wegweiser**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 .  
@@ -3355,10 +3355,10 @@ Ein Hülfsmittel zum ernsthaften Studium meiner Schriften.
 
 Zum „Causalismus“.
 
-Es liegt auf der Hand, daß weder Dinge an sich mit einander im Verhältniß von Ursache
-und Wirkung stehen können, noch Erscheinung mit Erscheinung: womit sich ergiebt, daß der
+Es liegt auf der Hand, daß **weder** Dinge an sich mit einander im Verhältniß von Ursache
+und Wirkung stehen können, **noch** Erscheinung mit Erscheinung: womit sich ergiebt, daß der
 Begriff „Ursache und Wirkung“ innerhalb einer Philosophie, die an Dinge an sich und an Erscheinungen glaubt,
-nicht anwendbar ist. Die Fehler Kants —… Thatsächlich stammt der Begriff „Ursache und
+**nicht anwendbar** ist. Die Fehler Kants —… Thatsächlich stammt der Begriff „Ursache und
 Wirkung“, psychologisch nachgerechnet, nur aus einer Denkweise, die nur
 
 *Erratum:*immer  
@@ -3371,22 +3371,22 @@ Wirkung“, psychologisch nachgerechnet, nur aus einer Denkweise, die nur
 *lies:*wirken  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-glaubt, — die nur an Lebendiges glaubt und im Grunde nur an „Seelen“ (und nicht an Dinge)
+glaubt, — die nur an Lebendiges glaubt und im Grunde nur an „Seelen“ (und **nicht** an Dinge)
 Innerhalb der mechanistischen Weltbetrachtung (welche Logik ist und deren Anwendung auf Raum und Zeit)
 reduzirt sich jener Begriff auf die mathematische Formel — mit der, wie man immer wieder unterstreichen muß,
-niemals Etwas begriffen, wohl aber etwas bezeichnet, verzeichnet wird.
+niemals Etwas begriffen, wohl aber etwas bezeichnet, **verzeichnet** wird.
 
 Die unabänderliche Aufeinanderfolge gewisser Erscheinungen beweist kein „Gesetz“, sondern ein Machtverhältniß
 zwischen 2 oder mehreren Kräften. Zu sagen: „aber gerade dies Verhältniß bleibt sich gleich!“ heißt nichts
 Anderes als: „ein und dieselbe Kraft kann nicht auch eine andere Kraft sein“. — Es handelt sich nicht um ein
-Nacheinander, — sondern um ein Ineinander, einen Prozeß, in dem
-die einzelnen sich folgenden Momente nicht als Ursachen und Wirkungen sich bedingen…
+**Nacheinander**, — sondern um ein **Ineinander**, einen Prozeß, in dem
+die einzelnen sich folgenden Momente **nicht** als Ursachen und Wirkungen sich bedingen…
 
-Die Trennung des „Thuns“ vom „Thuenden“, des Geschehens von einem <Etwas>, das geschehen macht,
+Die Trennung des „Thuns“ vom „Thuenden“, des Geschehens von einem &amp;lt;Etwas&amp;gt;, das geschehen macht,
 des Prozesses von einem Etwas, das nicht Prozeß, sondern dauernd, Substanz, Ding, Körper, Seele usw. ist, —
 der Versuch das Geschehen zu begreifen als eine Art Verschiebung und Stellungs-Wechsel von „Seiendem“, von
 Bleibendem: diese alte Mythologie hat den Glauben an „Ursache und Wirkung“ festgestellt, nachdem er in den
-sprachl<ichen> grammat<ikalischen> Funktionen eine feste Form gefunden hatte.
+sprachl&amp;lt;ichen&amp;gt; grammat&amp;lt;ikalischen&amp;gt; Funktionen eine feste Form gefunden hatte.
 —
 
 [2[140]](javascript:;)
@@ -3408,8 +3408,8 @@ vom Ungleichen erkannt werden“ — um welche schon im Alterthum ein Kampf von 
 *lies:*vorsichtigeren  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Begriff des Erkennens aus: es
-kann gar nicht erkannt werden — und zwar ebendeshalb, weil das Gleiche nicht das Gleiche erkennen kann,
+ Begriff des Erkennens aus: **es
+kann gar nicht erkannt werden** — und zwar ebendeshalb, weil das Gleiche nicht das Gleiche erkennen kann,
 und weil ebensowenig das Gleiche vom Ungleichen erkannt werden kann. —
 
 [2[141]](javascript:;)
@@ -3424,7 +3424,7 @@ Diese Scheidungen des Thuens
  und des Thuenden, des Thuns und des Leidens, des Seins und des Werdens, der
 Ursache und der Wirkung
 
-schon der Glaube an die Veränderungen setzt den Glauben an etwas voraus, das „sich ändert“.
+schon der Glaube an die Veränderungen setzt den Glauben an **etwas** voraus, **das** „sich ändert“.
 
 Die Vernunft
 
@@ -3432,41 +3432,41 @@ Die Vernunft
 *lies:*Die Vernunft  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- ist die Philosophie des Augenscheins
+ ist die Philosophie des **Augenscheins**
 
 [2[142]](javascript:;)
 ----------------------
 
 (30)
 
-die „Regelmäßigkeit“ der Aufeinanderfolge ist nur ein bildlicher Ausdruck, wie als ob
+die „Regelmäßigkeit“ der Aufeinanderfolge ist nur ein bildlicher Ausdruck, **wie als ob**
 hier eine Regel befolgt werde: kein Thatbestand. Ebenso „Gesetzmäßigkeit“. Wir finden eine Formel, um eine
-immer wiederkehrende Art der Folge auszudrücken: damit haben wir kein „Gesetz“ entdeckt,
-noch weniger eine Kraft, welche die Ursache zur Wiederkehr von Folgen ist. Daß etwas immer so und <so> geschieht, wird hier interpretirt, als ob ein Wesen in Folge eines
+immer wiederkehrende Art der Folge auszudrücken: damit haben wir **kein „Gesetz“ entdeckt**,
+noch weniger eine Kraft, welche die Ursache zur Wiederkehr von Folgen ist. Daß etwas **immer** so und &amp;lt;so&amp;gt; geschieht, wird hier interpretirt, als ob ein Wesen in Folge eines
 Gehorsams gegen ein Gesetz oder einen Gesetzgeber immer so und so handelte: während es, abgesehen vom
 „Gesetz“, Freiheit hätte, anders zu handeln. Aber gerade jenes So-und-nicht-anders könnte aus dem Wesen selbst
-stammen, das nicht in Hinsicht erst auf ein Gesetz sich so und so verhielte, sondern als
+stammen, das **nicht** in Hinsicht erst auf ein Gesetz sich so und so verhielte, sondern als
 so und so beschaffen. Es heißt nur: etwas kann nicht auch etwas anderes sein, kann nicht bald dies, bald
-anderes thun, ist weder frei, noch unfrei, sondern eben so und so. Der Fehler steckt in
+anderes thun, ist weder frei, noch unfrei, sondern eben so und so. **Der Fehler steckt** **in**
 
 *Erratum:*in  
-*lies:*in  
+*lies:***in**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- der
-Hineindichtung eines Subjekts
+ **der
+Hineindichtung eines Subjekts**
 
 [2[143]](javascript:;)
 ----------------------
 
 Gesetzt, die Welt verfügte über Ein Quantum von Kraft, so liegt auf der Hand, daß jede Macht-Verschiebung an
-irgend einer Stelle das ganze System bedingt — also neben der Causalität hintereinander
+irgend einer Stelle das ganze System bedingt — also neben der Causalität **hintereinander**
 
-*Erratum:*hinter einander  
-*lies:*hintereinander  
+*Erratum:***hinter** einander  
+*lies:***hintereinander**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-wäre eine Abhängigkeit neben und miteinander gegeben.
+wäre eine Abhängigkeit **neben und miteinander** gegeben.
 
 [2[144]](javascript:;)
 ----------------------
@@ -3474,53 +3474,53 @@ wäre eine Abhängigkeit neben und miteinander gegeben.
 (40)
 
 Gesetzt selbst, daß ein Gegenbeweis des christlichen Glaubens nicht geführt werden könnte, hielt Pascal in
-Hinsicht auf eine furchtbare Möglichkeit, daß er dennoch wahr sei, es für klug im
+Hinsicht auf eine **furchtbare** Möglichkeit, daß er dennoch wahr sei, es für klug im
 höchsten Sinne, Christ zu sein. Heute findet man, zum Zeichen, wie sehr das Christenthum an Furchtbarkeit
-eingebüßt hat, jene andere<n> Versuche
+eingebüßt hat, jene andere&amp;lt;n&amp;gt; Versuche
 
 *Erratum:*jenen andern Versuch  
-*lies:*jene andere<n> Versuche  
+*lies:*jene andere&amp;lt;n&amp;gt; Versuche  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  seiner Rechtfertigung, daß, selbst wenn es ein Irrthum wäre, man
 zeitlebens doch den großen Vortheil und Genuß dieses Irrthums habe: es scheint also, daß gerade um seiner
-beruhigenden
+**beruhigenden**
 
 *Erratum:*beruhigenden  
-*lies:*beruhigenden  
+*lies:***beruhigenden**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Wirkungen willen dieser Glaube aufrecht erhalten werden solle, — also nicht aus Furcht vor einer
 drohenden Möglichkeit, vielmehr aus Furcht vor einem Leben, dem ein Reiz abgeht. Diese hedonistische Wendung,
-der Beweis aus der Lust,
+der Beweis aus der **Lust**,
 
-*Erratum:*Lust  
-*lies:*Lust,  
+*Erratum:***Lust**  
+*lies:***Lust**,  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  ist ein Symptom des Niedergangs: er ersetzt den Beweis aus der
-Kraft, aus dem, was an der christlichen Idee Erschütterung ist, aus der Furcht. Thatsächlich nähert sich in dieser Umdeutung das Christenthum der Erschöpfung: man begnügt
-sich mit einem opiatischen Christenthum, weil man weder zum Suchen, Kämpfen, Wagen,
+**Kraft**, aus dem, was an der christlichen Idee Erschütterung ist, aus der **Furcht**. Thatsächlich nähert sich in dieser Umdeutung das Christenthum der Erschöpfung: man begnügt
+sich mit einem **opiatischen** Christenthum, weil man weder zum Suchen, Kämpfen, Wagen,
 Alleinstehen wollen
 
 *Erratum:*Alleinstehen-wollen  
 *lies:*Alleinstehen wollen  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- die Kraft hat, noch zum Pascalismus, zu tiefe<r>
+ die Kraft hat, noch zum Pascalismus, zu tiefe&amp;lt;r&amp;gt;
 
 *Erratum:*dieser  
-*lies:*tiefe<r>  
+*lies:*tiefe&amp;lt;r&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  grüblerischen Selbstverachtung, zum Glauben
 an die menschliche Unwürdigkeit, zur Angst des „Vielleicht-Verurtheilten“. Aber ein Christenthum, das vor
-allem kranke Nerven beruhigen soll, hat jene furchtbare Lösung eines „Gottes am Kreuze“ überhaupt nicht nöthig: weshalb im Stillen überall der Buddhismus in Europa Fortschritte macht.
+allem kranke Nerven beruhigen soll, hat jene furchtbare Lösung eines „Gottes am Kreuze“ überhaupt **nicht nöthig**: weshalb im Stillen überall der Buddhismus in Europa Fortschritte macht.
 
 [2[145]](javascript:;)
 ----------------------
 
-Die Auslegung eines Geschehens als entweder Thun oder Leiden — also
+Die Auslegung eines Geschehens als **entweder** Thun **oder** Leiden — also
 jedes Thun ein Leiden — sagt: eine jede
 
 *Erratum:*jede  
@@ -3533,13 +3533,13 @@ jedes Thun ein Leiden — sagt: eine jede
 *lies:*ein  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Anderswerden setzt einen Urheber voraus und einen, an dem „verändert“ wird.
+ Anderswerden setzt einen Urheber voraus und einen, **an dem** „verändert“ wird.
 
 [2[146]](javascript:;)
 ----------------------
 
 Es läßt sich eine vollkommene Analogie führen zwischen dem Vereinfachen und Zusammendrängen zahlloser
-Erfahrungen auf General-Sätze und dem Werden der Samenzelle, welche die ganze
+Erfahrungen auf General-Sätze **und** dem Werden der Samenzelle, welche die ganze
 Vergangenheit verkürzt in sich trägt: und ebenso im
 
 *Erratum:*zwischen dem  
@@ -3547,7 +3547,7 @@ Vergangenheit verkürzt in sich trägt: und ebenso im
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  künstlerischen Herausbilden aus zeugenden
-Grundgedanken bis zum „System“ und dem Werden des Organismus als eines
+Grundgedanken bis zum „System“ **und** dem Werden des Organismus als eines
 
 *Erratum:*einem  
 *lies:*eines  
@@ -3560,10 +3560,10 @@ Fortdenkens
 *lies:*Fortdenkens  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-, als einer Rückerinnerung des ganzen vorherigen Lebens, der
+, als einer **Rückerinnerung** des ganzen vorherigen Lebens, der
 Rück-Vergegenwärtigung, Verleiblichung.
 
-Kurz: das sichtbare organische Leben und das unsichtbare
+Kurz: das **sichtbare** organische Leben und das **unsichtbare**
 schöpferische seelische Walten und Denken enthalten einen Parallelismus: am „Kunstwerk“ kann man diese zwei
 Seiten am deutlichsten als parallel demonstriren. — Inwiefern
 
@@ -3571,7 +3571,7 @@ Seiten am deutlichsten als parallel demonstriren. — Inwiefern
 *lies:*Inwiefern  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Denken, Schließen und alles Logische als Außenseite angesehen werden kann: als Symptom viel innerlicheren und gründlicheren
+ Denken, Schließen und alles Logische als **Außenseite** angesehen werden kann: als Symptom viel innerlicheren und gründlicheren
 Geschehens?
 
 [2[147]](javascript:;)
@@ -3580,32 +3580,32 @@ Geschehens?
 |  |  |  |  |
 | --- | --- | --- | --- |
 | (30) | | | |
-| „Zweck“ und „Mittel“ *Erratum:*„Zweck und Mittel“ *lies:*„Zweck“ und „Mittel“ [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) | als Ausdeutung |  | (nicht als Thatbestand) |
+| „Zweck“ und „Mittel“ *Erratum:*„Zweck und Mittel“ *lies:*„Zweck“ und „Mittel“ [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) | als Ausdeutung |  | (**nicht** als Thatbestand) |
 | „Ursache und Wirkung“ | als Ausdeutung | alle im Sinne eines |
 | „Subjekt und Objekt“ | als Ausdeutung | Willens zur Macht |
 | „Thun und Leiden“ | | | |
 | („Ding an sich“ und „Erscheinung“ *Erratum:*„Ding an sich und Erscheinung“ *lies:*„Ding an sich“ und „Erscheinung“ [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) ) als Ausdeutung | | | |
-| und inwiefern vielleicht nothwendige Ausdeutungen? (als „erhaltende“) | | | |
+| und inwiefern vielleicht **nothwendige** Ausdeutungen? (als „erhaltende“) | | | |
 
 [2[148]](javascript:;)
 ----------------------
 
-Der Wille zur Macht interpretirt: bei der Bildung eines Organs handelt es sich um eine
-Interpretation
+Der Wille zur Macht **interpretirt**: **bei der Bildung eines Organs handelt es sich um eine
+Interpretation**
 
 *Erratum:*bei der Bildung eines Organs handelt es sich um eine
 Interpretation  
-*lies:*bei der Bildung eines Organs handelt es sich um eine
-Interpretation  
+*lies:***bei der Bildung eines Organs handelt es sich um eine
+Interpretation**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 ; er grenzt ab, bestimmt Grade, Machtverschiedenheiten. Bloße Machtverschiedenheiten könnten
 sich noch nicht als solche empfinden: es muß ein wachsen-wollendes Etwas da sein, das jedes andere
-wachsen-wollende Etwas auf seinen Werth hin interpretirt. Darin gleich — — In Wahrheit
-ist Interpretation ein Mittel selbst, um Herr über etwas zu werden. (Der
-organische Prozeß setzt fortwährendes
+wachsen-wollende Etwas auf seinen Werth hin interpretirt. **Darin** gleich — — In Wahrheit
+ist **Interpretation ein Mittel selbst, um Herr über etwas zu werden**. **(Der
+organische Prozeß setzt fortwährendes**
 Interpretiren
-voraus.
+**voraus.**
 
 [2[149]](javascript:;)
 ----------------------
@@ -3617,17 +3617,17 @@ Ein „Ding an sich“ ebenso verkehrt wie ein „Sinn an sich“, „eine Bedeu
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  an sich“. Es giebt keinen
-„Thatbestand an sich“, sondern ein Sinn muß immer erst hineingelegt werden, damit es einen
-„Thatbestand“
+„Thatbestand an sich“, **sondern ein Sinn muß immer erst hineingelegt werden, damit es einen**
+**„Thatbestand“**
 
-*Erratum:*Thatbestand  
-*lies:*„Thatbestand“  
+*Erratum:***Thatbestand**  
+*lies:***„Thatbestand“**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- geben könne
+ **geben könne**
 
-Das „was ist das?“ ist eine Sinn-Setzung von etwas Anderem aus gesehen. Die „Essenz“, die „Wesenheit“ ist etwas Perspektivisches und setzt eine
-Vielheit schon voraus. Zu Grunde liegt immer „was ist das für mich?“ (für uns, für alles,
+Das „was ist das?“ ist eine **Sinn-Setzung** von etwas Anderem aus gesehen. Die **„Essenz“**, die **„Wesenheit“** ist etwas Perspektivisches und setzt eine
+Vielheit schon voraus. Zu Grunde liegt immer „was ist das für **mich**?“ (für uns, für alles,
 was lebt usw.)
 
 Ein Ding wäre bezeichnet, wenn an ihm erst alle Wesen ihr „was ist das?“ gefragt und beantwortet hätten.
@@ -3643,30 +3643,30 @@ Ding ist immer noch nicht „definirt“.
 [2[150]](javascript:;)
 ----------------------
 
-Kurz, das Wesen eines Dings ist auch nur eine Meinung über das „Ding“. Oder vielmehr:
-das „es gilt“ ist das eigentliche „das ist“, das einzige „das
+Kurz, das Wesen eines Dings ist auch nur eine **Meinung** über das „Ding“. Oder vielmehr:
+das „**es gilt“** ist das eigentliche **„das ist“**, das einzige „das
 ist“.
 
 [2[151]](javascript:;)
 ----------------------
 
-Man darf nicht fragen: „wer interpretirt denn?“ sondern das Interpretiren selbst, als
-eine Form des Willens zur Macht, hat Dasein (aber nicht als ein „Sein“, sondern als ein Prozeß, ein Werden) als ein Affekt.
+Man darf nicht fragen: „**wer** interpretirt denn?“ sondern das Interpretiren selbst, als
+eine Form des Willens zur Macht, hat Dasein (aber nicht als ein „Sein“, sondern als ein **Prozeß**, ein **Werden**) als ein Affekt.
 
 [2[152]](javascript:;)
 ----------------------
 
 Die Entstehung der „Dinge“ ist ganz und gar das Werk der Vorstellenden, Denkenden, Wollenden, Erfindenden.
 Der Begriff „Ding“ selbst ebenso als alle Eigenschaften. — Selbst „das Subjekt“ ist ein solches Geschaffenes,
-ein „Ding“, wie alle Andern: eine Vereinfachung, um die Kraft, welche setzt, erfindet,
+ein „Ding“, wie alle Andern: eine Vereinfachung, um die **Kraft**, welche setzt, erfindet,
 denkt, als solche zu bezeichnen, im Unterschiede von allem einzelnen Setzen, Erfinden, Denken selbst. Also das
-Vermögen im Unterschiede von allem Einzelnen bezeichnet: im Grunde das Thun in Hinsicht
+**Vermögen** im Unterschiede von allem Einzelnen bezeichnet: im Grunde das Thun in Hinsicht
 auf alles noch zu erwartende Thun (Thun und die Wahrscheinlichkeit ähnlichen Thuns) zusammengefaßt
 
 [2[153]](javascript:;)
 ----------------------
 
-NB. Aus der uns bekannten Welt ist der humanitäre Gott nicht nachzuweisen: so weit kann man euch heute zwingen und treiben,
+NB. Aus der uns bekannten Welt ist der humanitäre Gott nicht **nachzuweisen**: so weit kann man euch heute zwingen und treiben,
 
 *Erratum:*treiben:  
 *lies:*treiben,  
@@ -3685,24 +3685,23 @@ Entweder er
 *lies:*Entweder er  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- ist uns nicht nachweisbar: Skepsis der Erkenntniß. Aber ihr Alle fürchtet den Schluß: „aus der uns bekannten Welt würde ein ganz anderer Gott nachweisbar sein, ein solcher, der zum Mindesten nicht humanitär ist“ — — und,
-kurz und gut, d.h. ihr haltet euren Gott fest und erfindet für ihn eine Welt, die uns nicht
-bekannt ist.
+ ist **uns** nicht nachweisbar: Skepsis der Erkenntniß. Aber ihr Alle **fürchtet** den Schluß: „aus der uns bekannten Welt würde ein ganz anderer Gott **nachweisbar** sein, ein solcher, der zum Mindesten **nicht** humanitär ist“ — — und,
+kurz und gut, d.h. ihr haltet euren Gott fest und erfindet für ihn eine Welt, die **uns nicht****bekannt** ist.
 
 [2[154]](javascript:;)
 ----------------------
 
 (36)
 
-Gegen das wissenschaftliche Vorurtheil. — Die größte Fabelei ist die von der Erkenntniß.
-Man möchte wissen, wie die Dinge an sich beschaffen sind: aber siehe da, es giebt keine
-Dinge an sich! Gesetzt aber sogar, es gäbe ein An-sich, ein Unbedingtes, so könnte es eben darum nicht erkannt werden! Etwas Unbedingtes kann nicht erkannt werden: sonst wäre es eben nicht unbedingt! Erkennen ist aber immer „sich-irgend-wozu-in-Bedingung-setzen“ — —; ein
+**Gegen das wissenschaftliche Vorurtheil. —** Die größte Fabelei ist die von der Erkenntniß.
+Man möchte wissen, wie die **Dinge an sich** beschaffen sind: aber siehe da, es giebt keine
+Dinge an sich! Gesetzt aber sogar, es gäbe ein An-sich, ein Unbedingtes, so könnte es eben darum **nicht erkannt werden**! Etwas Unbedingtes kann nicht erkannt werden: sonst wäre es eben **nicht** unbedingt! Erkennen ist aber immer „sich-irgend-wozu-in-Bedingung-setzen“ — —; ein
 solcher „Erkennender“ will, daß das, was er erkennen will, ihn nichts angeht; und daß dasselbe etwas überhaupt
-Niemanden nichts angeht: wobei erstlich ein Widerspruch gegeben ist, im Erkennen-Wollen
+Niemanden nichts angeht: wobei erstlich ein Widerspruch gegeben ist, im Erkennen-**Wollen**
 und dem Verlangen, daß es ihn nichts angehen soll (wozu doch dann Erkennen!) und zweitens, weil etwas, das
-Niemanden nichts angeht, gar nicht ist, also auch nicht erkannt werden kann. — Erkennen
+Niemanden nichts angeht, gar nicht **ist**, also auch nicht erkannt werden kann. — Erkennen
 heißt „sich in Bedingung setzen zu etwas“: sich durch etwas bedingt fühlen und zwischen uns — — es ist also
-unter allen Umständen ein Feststellen Bezeichnen Bewußtmachen von Bedingungen (nicht ein Ergründen von Wesen, Dingen, „An-sichs“)
+unter allen Umständen ein **Feststellen Bezeichnen Bewußtmachen von Bedingungen** (nicht ein **Ergründen** von Wesen, Dingen, „An-sichs“)
 
 [2[155]](javascript:;)
 ----------------------
@@ -3719,23 +3718,23 @@ entgegengesetzten Denkweisen
 [2[156]](javascript:;)
 ----------------------
 
-Zum Capitel „Künstler“ (als Bildner, Werthzuleger, Besitzergreifer)
+Zum Capitel **„Künstler“** (als Bildner, Werthzuleger, Besitzergreifer)
 
-Unsere Sprachen als Nachklänge der ältesten Besitzergreifungen der Dinge, von
+Unsere Sprachen als Nachklänge der **ältesten Besitzergreifungen der Dinge**, von
 Herrschenden und Denkern zugleich — —: jedem gemünzten Worte
 
 *Erratum:*Wort  
 *lies:*Worte  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- lief der Befehl neben her „so soll das Ding nunmehr genannt werden!“
+ lief der Befehl neben her „so **soll** das Ding nunmehr genannt werden!“
 
 [2[157]](javascript:;)
 ----------------------
 
-Sollten nicht alle Quantitäten Anzeichen von Qualitäten sein? Die
+Sollten nicht alle **Quantitäten** Anzeichen von **Qualitäten** sein? Die
 größere Macht entspricht einem anderen Bewußtsein, Gefühl, Begehren, einem anderen perspektivischen Blick;
-Wachsthum selbst ist ein Verlangen, mehr zu sein; aus einem quale
+Wachsthum selbst ist ein Verlangen, **mehr zu sein**; aus einem **quale**
 heraus erwächst das Verlangen nach einem Mehr von Quantum; in einer rein quantitativen Welt wäre alles todt,
 starr, unbewegt. — Die Reduktion aller Qualitäten auf Quantitäten ist Unsinn: was sich ergiebt, ist daß eins
 und das andere beisammen steht, eine Analogie —
@@ -3751,8 +3750,8 @@ gefaßt, hat zuletzt das „Subjekt“ übrig gelassen.
 ----------------------
 
 Ist jemals schon eine Kraft constatirt? Nein, sondern Wirkungen, übersetzt in eine völlig fremde Sprache. Das
-Regelmäßige im Hintereinander hat uns aber so verwöhnt, daß wir uns über das Wunderliche daran
-nicht wundern
+Regelmäßige im Hintereinander hat uns aber so verwöhnt, daß wir uns **über das Wunderliche daran
+nicht wundern**
 
 [2[160]](javascript:;)
 ----------------------
@@ -3764,31 +3763,31 @@ Heute, wo es gilt, diesem Buch, das offen steht,
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  aber trotzdem nach seinem Schlüssel verlangt, hierzu einen
-Eingang eine Vorrede zu geben, soll es das Erste sein, zu sagen, warum ich mich damals vor einer Vorrede fürchtete.
+Eingang eine Vorrede zu geben, soll es das Erste sein, zu sagen, warum ich mich damals vor einer Vorrede **fürchtete**.
 
 [2[161]](javascript:;)
 ----------------------
 
 (41)
 
-Zur Vorrede.
+Zur **Vorrede**.
 
-Gegen die erkenntnißtheoretischen Dogmen tief mißtrauisch, liebte <ich> es, bald aus diesem,
-bald aus jenem Fenster zu blicken, hütete mich, <mich> darin festzusetzen, hielt sie für
-schädlich — und zuletzt: ist es wahrscheinlich, daß ein Werkzeug seine eigene Tauglichkeit kritisiren kann?? — Worauf ich Acht gab, war vielmehr daß niemals eine erkenntnißtheoretische Skepsis
+Gegen die erkenntnißtheoretischen Dogmen tief mißtrauisch, liebte &amp;lt;ich&amp;gt; es, bald aus diesem,
+bald aus jenem Fenster zu blicken, hütete mich, &amp;lt;mich&amp;gt; darin festzusetzen, hielt sie für
+schädlich — und zuletzt: ist es wahrscheinlich, daß ein Werkzeug seine eigene Tauglichkeit kritisiren **kann**?? — Worauf ich Acht gab, war vielmehr daß niemals eine erkenntnißtheoretische Skepsis
 oder Dogmatik ohne Hintergedanken entstanden ist, — daß sie einen Werth zweiten Ranges hat, sobald man erwägt,
-was im Grunde zu dieser Stellung zwang: selbst schon der Wille zur
+**was** im Grunde zu dieser Stellung **zwang**: selbst schon der Wille zur
 Gewißheit, wenn er nicht der Wille „ich will erst leben“ — — — Grundeinsicht: sowohl Kant als Hegel als
 Schopenhauer — sowohl die skeptisch-epochistische Haltung, als die historisirende als die pessimistische sind
-moralischen Ursprungs. Ich sah Niemanden, der eine Kritik der
-moralischen Werthgefühle gewagt hätte: und den spärlichen Versuchen, zu einer Entstehungs-Geschichte
+**moralischen** Ursprungs. Ich sah Niemanden, der eine **Kritik der
+moralischen Werthgefühle** gewagt hätte: und den spärlichen Versuchen, zu einer Entstehungs-Geschichte
 
 *Erratum:*Entstehungsgeschichte  
 *lies:*Entstehungs-Geschichte  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 dieser Gefühle zu kommen (wie bei den englischen und deutschen Darwinisten) wandte ich bald den Rücken. — Wie
-erklärt sich Spinoza’s Stellung, seine Verneinung und Ablehnung der moralischen Werthurtheile? (Es war eine Consequenz einer Theodicee?)
+erklärt sich Spinoza’s Stellung, seine Verneinung und Ablehnung der moralischen Werthurtheile? (Es war **eine** Consequenz einer Theodicee?)
 
 [2[162]](javascript:;)
 ----------------------
@@ -3811,7 +3810,7 @@ alle viereckigen Gegensätze zur Wehre
 *lies:*Wehre  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- setzt, ein gut Theil Unsicherheit in den Dingen wünscht und die Gegensätze wegnimmt: —
+ setzt, ein gut Theil Unsicherheit in den Dingen **wünscht** und die Gegensätze wegnimmt: —
 
 *Erratum:*wegnimmt,  
 *lies:*wegnimmt: —  
@@ -3859,7 +3858,7 @@ sogar zum Bedürfniß geworden ist; eine Gewöhnung an scharfe hohe Luft, an win
 Gebirge in jedem Sinne; eine Art sublimer Bosheit und letzten Muthwillens der Rache, denn es ist Rache darin,
 Rache am Leben selbst, wenn ein Schwerleidender das Leben in seine Protektion nimmt. Dies Buch, dem nicht nur
 Eine Vorrede noth thun mag, ist aus vielen Gründen schwerverständlich, nicht durch ein Ungeschick seines
-Urhebers, noch weniger durch dessen schlechten Willen, sondern <durch> den letzten Muthwillen
+Urhebers, noch weniger durch dessen schlechten Willen, sondern &amp;lt;durch&amp;gt; den letzten Muthwillen
 eines Schwer-Leidenden, der sich beständig über ein Ideal lustig macht, an das das Volk glaubt, welches er
 vielleicht in diesem Zustande
 
@@ -3874,10 +3873,10 @@ habe.
 
   
 
-Ich zweifle nicht: es war der Zustand des Weisen
+Ich zweifle nicht: es war der Zustand des **Weisen**
 
 *Erratum:*Weisen  
-*lies:*Weisen  
+*lies:***Weisen**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 , wie ihn das Volk sich denkt, über den ich damals mit einer
@@ -3922,10 +3921,10 @@ Schwer-Leidender, ein dem Leben Abgewandter sich wie an seinem letzten Muthwille
 
 (41)
 
-Zur Vorrede der „Morgenröthe“
+Zur**Vorrede**der **„Morgenröthe“**
 
-*Erratum:*„Morgenröthe“.  
-*lies:*„Morgenröthe“  
+*Erratum:***„Morgenröthe“**.  
+*lies:***„Morgenröthe“**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 Versuch über Moral zu denken, ohne unter ihrem Zauber zu stehen, mißtrauisch gegen die Überlistung ihrer
@@ -3935,7 +3934,7 @@ schönen Gebärden und Blicke
 *lies:*Blicke  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Eine Welt, die wir verehren können, die unserem anbetenden Triebe gemäß ist — die sich fortwährend beweist — durch Leitung des Einzelnen und Allgemeinen —: dies die christliche Anschauung,
+Eine Welt, die wir verehren können, die unserem anbetenden Triebe gemäß ist — die sich fortwährend **beweist** — durch Leitung des Einzelnen und Allgemeinen —: dies die christliche Anschauung,
 aus der wir Alle stammen.
 
 Durch ein Wachsthum an Schärfe, Mißtrauen, Wissenschaftlichkeit (auch durch einen höher gezüchteten
@@ -3945,30 +3944,30 @@ Durch ein Wachsthum an Schärfe, Mißtrauen, Wissenschaftlichkeit (auch durch ei
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Instinkt
-der Wahrhaftigkeit, also unter wieder christlichen Einwirkungen) ist diese Interpretation
-uns immer mehr unerlaubt worden.
+der Wahrhaftigkeit, also unter wieder christlichen Einwirkungen) ist **diese** Interpretation
+uns immer mehr **unerlaubt** worden.
 
 Feinster Ausweg: der Kantsche Kriticismus. Der Intellekt stritt sich selbst das Recht ab sowohl zur
-Interpretation in jenem Sinne als zur Ablehnung der Interpretation in jenem Sinne. Man
+Interpretation in jenem Sinne als zur **Ablehnung** der Interpretation in jenem Sinne. Man
 begnügte
 
 *Erratum:*begnügt  
 *lies:*begnügte  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- sich, mit einem Mehr von Vertrauen und Glauben, mit einem Verzichtleisten auf
+ sich, mit einem **Mehr** von Vertrauen und Glauben, mit einem Verzichtleisten auf
 alle Beweisbarkeit seines Glaubens, mit einem unbegreiflichen und überlegenen „Ideal“ (Gott) die Lücke
 auszufüllen.
 
 Der Hegelische Ausweg, im Anschluß an Plato, ein Stück Romantik und Reaktion, zugleich das Symptom des
-historischen Sinns, einer neuen Kraft: der „Geist“ selbst ist das sich enthüllende und
+historischen Sinns, einer neuen **Kraft**: der „Geist“ selbst ist das sich enthüllende und
 verwirklichende Ideal, im „Prozeß“, im „Werden“ offenbart sich ein immer Mehr von diesem Ideal, an das wir
-glauben —, also das Ideal verwirklicht sich, der Glaube richtet sich auf die Zukunft, in
+glauben —, also das Ideal verwirklicht sich, der Glaube richtet sich auf die **Zukunft**, in
 der er seinem edlen Bedürfnisse nach anbeten kann. Kurz,
 
 |  |  |
 | --- | --- |
-| 1) | Gott ist uns unerkennbar und unnachweisbar — Hintersinn der erkenntnißtheoretischen Bewegung |
+| 1) | Gott ist **uns** unerkennbar und unnachweisbar — Hintersinn der erkenntnißtheoretischen Bewegung |
 | 2) | Gott ist nachweisbar, aber als etwas Werdendes *Erratum:*Werdendes — *lies:*Werdendes [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) , und wir gehören dazu, eben mit unsrem Drang zum Idealen — Hintersinn der historisirenden Bewegung |
 
 Aber derselbe historische Sinn, in die Naturgeschichte
@@ -3979,11 +3978,11 @@ Aber derselbe historische Sinn, in die Naturgeschichte
 
  übertretend, hat — — —
 
-Man sieht: es ist niemals die Kritik an das Ideal selbst gerückt, sondern nur an das
+Man sieht: es ist **niemals** die Kritik an das Ideal selbst gerückt, sondern nur an das
 Problem, woher der Widerspruch gegen dasselbe kommt, warum es noch nicht erreicht oder warum es nicht
 nachweisbar im Kleinen und Großen ist.
 
-Das Ideal des Weisen in wiefern grundmoralisch bisher? - - -
+Das Ideal des **Weisen** in wiefern grundmoralisch bisher? - - -
 
 Es macht den größten Unterschied: ob man aus der Leidenschaft heraus, aus einem Verlangen heraus diesen
 Nothstand als Nothstand fühlt oder ob man ihn mit der Spitze des Gedankens und einer gewissen Kraft der
@@ -3996,12 +3995,12 @@ historischen Imagination gerade noch als
  Problem erreicht…
 
 Abseits von der religiös-philosophischen Betrachtung finden wir dasselbe Phänomen: der Utilitarismus (der
-Socialismus, der Demokratismus) kritisirt die Herkunft der moralischen Werthschätzungen, aber
-er glaubt an sie, ebenso wie der Christ. (Naivetät, als ob Moral übrig bliebe, wenn der sanktionirende
-Gott fehlt. Das „Jenseits“ absolut nothwendig, wenn der Glaube an Moral aufrecht
+Socialismus, der Demokratismus) kritisirt die Herkunft der moralischen Werthschätzungen, **aber
+er glaubt an sie**, ebenso wie der Christ. (Naivetät, als ob Moral übrig bliebe, wenn der sanktionirende
+**Gott** fehlt. Das „Jenseits“ absolut nothwendig, wenn der Glaube an Moral aufrecht
 erhalten werden soll.)
 
-Grundproblem: woher diese Allgewalt des Glaubens? Des Glaubens an die Moral?
+**Grundproblem:** woher diese Allgewalt des **Glaubens**? **Des Glaubens an die Moral?**
 
 (— der sich auch darin verräth, daß selbst die Grundbedingungen des Lebens zu Gunsten der Moral falsch
 interpretirt werden: trotz Kenntniß der Thierwelt und Pflanzenwelt.
@@ -4035,9 +4034,9 @@ Verfall, von
 *lies:*vom Verfall, vom  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Unglauben an das Leben, eine Vorbereitung des Pessimismus.
+ Unglauben an das **Leben**, eine Vorbereitung des Pessimismus.
 
-Was bedeutet es, daß wir einen Widerspruch in das Dasein hineininterpretirt haben? —
+Was bedeutet es, daß wir einen **Widerspruch** in das Dasein hineininterpretirt haben? —
 Entscheidende Wichtigkeit: hinter allen anderen Werthschätzungen stehen commandirend jene moralischen
 Werthschätzungen. Gesetzt, sie fallen fort, wonach messen wir dann? Und
 
@@ -4048,39 +4047,39 @@ Werthschätzungen. Gesetzt, sie fallen fort, wonach messen wir dann? Und
  welchen Werth haben dann Erkenntniß
 usw. usw.???
 
-Mein Hauptsatz: es giebt keine moralischen Phänomene, sondern nur eine
-moral<ische> Interpretation dieser Phänomene. Diese Interpretation selbst ist außermoralischen
-Ursprungs.
+**Mein Hauptsatz: es giebt keine moralischen Phänomene, sondern nur eine
+moral&amp;lt;ische&amp;gt; Interpretation dieser Phänomene. Diese Interpretation selbst ist außermoralischen
+Ursprungs.**
 
 [2[166]](javascript:;)
 ----------------------
 
-Vorrede zur „Fröhlichen Wissenschaft“
+**Vorrede zur „Fröhlichen Wissenschaft“**
 
 Eine Lustbarkeit vor einer großen Unternehmung, zu der man jetzt endlich die Kraft bei sich zurückkehren
-fühlt: wie Buddha sich 10 Tage den weltl<ichen> Vergnügungen ergab, als er seinen Hauptsatz
+fühlt: wie Buddha sich 10 Tage den weltl&amp;lt;ichen&amp;gt; Vergnügungen ergab, als er seinen Hauptsatz
 gefunden.
 
-Allgemeiner Spott über alles Moralisiren von heute. Vorbereitung zu Zarathustras
-naiv-ironischer Stellung zu allen heiligen
-Dingen (naive Form der Überlegenheit: das Spiel mit dem
+Allgemeiner Spott über alles Moralisiren von heute. Vorbereitung zu **Zarathustras**
+**naiv-ironischer Stellung zu allen heiligen**
+**Dingen** (naive **Form der Überlegenheit: das** Spiel **mit dem**
 
 *Erratum:*Form der Überlegenheit: das Spiel mit dem  
-*lies:*Form der Überlegenheit: das Spiel mit dem  
+*lies:***Form der Überlegenheit: das** Spiel **mit dem**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Heiligen)
+ **Heiligen**)
 
 (42)
 
-Über das Mißverständniß der „Heiterkeit“. Zeitweilige Erlösung von der langen Spannung,
+**Über das Mißverständniß der „Heiterkeit“.** Zeitweilige Erlösung von der langen Spannung,
 der Übermuth, die Saturnalien
 
 *Erratum:*Übermuth  
 *lies:*Übermuth, die Saturnalien  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- eines Geistes, der sich zu langen und furchtbaren Entschließungen weiht und vorbereitet. Der „Narr“ in der Form der „Wissenschaft“.
+ eines Geistes, der sich zu langen und furchtbaren Entschließungen weiht und vorbereitet. **Der „Narr“ in der Form der „Wissenschaft“.**
 
   
 
@@ -4124,7 +4123,7 @@ Dankbarkeit selbst für das „Hinter-mir
 war
 
 ein Stück graues eiskaltes Greisenthum, an der unrechtesten Stelle des Lebens eingeschaltet, die Tyrannei des
-Schmerzes überboten durch die Tyrannei des Stolzes, der die Folgerungen des Schmerzes
+Schmerzes überboten durch die Tyrannei des Stolzes, der die **Folgerungen** des Schmerzes
 ablehnt, die Vereinsamung als Nothwehr gegen eine krankhaft
 
 *Erratum:*krankhafte  
@@ -4180,7 +4179,7 @@ verstehen, Das sei „fröhlich“ vielleicht, sicherlich aber nicht „Wissensc
 eine Rückkehr zu „aller Welt“ und zeigte sich um seinetwillen entgegenkommend und liebreich gegen mich: und
 ich errieth nachträglich
 
-*Erratum:*nachträglich  
+*Erratum:***nachträglich**  
 *lies:*nachträglich  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -4204,24 +4203,24 @@ entgegenstellt und seinen Weg zum Verbotensten, Bösesten mit Unschuld geht - - 
 [2[167]](javascript:;)
 ----------------------
 
-Leugnung der Causalität. Um nicht für Jegliches Alles verantwortlich zu machen und den
-Faden kurz zu nehmen, an dem etwas hängt. „Zufall“ existirt wirklich.
+**Leugnung der Causalität.** Um nicht für Jegliches Alles verantwortlich zu machen und den
+Faden **kurz** zu nehmen, an dem etwas hängt. „Zufall“ existirt wirklich.
 
 [2[168]](javascript:;)
 ----------------------
 
-Tendenz der Moral-Entwicklung. Jeder wünscht, daß keine andere Lehre und Schätzung der
+**Tendenz der Moral-Entwicklung.** Jeder wünscht, daß keine andere Lehre und Schätzung der
 Dinge zur Geltung komme außer eine solche
 
 *Erratum:*einer solchen  
 *lies:*eine solche  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-, bei der er selbst gut wegkommt. Grundtendenz
-folglich der Schwachen und Mittelmäßigen aller Zeiten, die Stärkeren schwächer zu
-machen, herunterzuziehen:
-Hauptmittel das
-moralische Urtheil. Das Verhalten des Stärkeren gegen den
+, bei der er selbst gut wegkommt. **Grundtendenz
+folglich der Schwachen und Mittelmäßigen aller Zeiten, die Stärkeren****schwächer zu
+machen, herunterzuziehen:**
+**Hauptmittel das**
+moralische Urtheil**.** Das Verhalten des Stärkeren gegen den
 Schwächeren wird gebrandmarkt; die höheren Zustände des Stärkeren bekommen schlechte Beinamen.
 
 Der Kampf der Vielen gegen die Wenigen, der Gewöhnlichen gegen die Seltenen, der Schwachen gegen die
@@ -4249,8 +4248,8 @@ Schwachen präsentirten
 
 Es könnte scheinen als ob ich der Frage nach der Gewißheit ausgewichen sei. Das Gegentheil ist wahr: aber
 indem ich nach dem Kriterium der Gewißheit fragte, prüfte ich, nach welchem Schwergewichte überhaupt bisher
-gewogen worden ist — und daß die Frage nach der Gewißheit selbst schon eine abhängige
-Frage sei, eine Frage zweiten Ranges.
+gewogen worden ist — und daß die Frage nach der Gewißheit selbst schon eine **abhängige**
+Frage sei, eine Frage **zweiten** Ranges.
 
 [2[170]](javascript:;)
 ----------------------
@@ -4273,7 +4272,7 @@ Heerden-Gewissen ist.
 
 (43)
 
-Der Gewissensbiß wie alle ressentiments bei einer großen Fülle von
+Der **Gewissensbiß** wie alle **ressentiments** bei einer großen Fülle von
 Kraft fehlend.
 
 *Erratum:*fehlend  
@@ -4285,7 +4284,7 @@ Kraft fehlend.
 [2[172]](javascript:;)
 ----------------------
 
-Das „Sein“ — wir haben keine andere Vorstellung davon als „leben“. — Wie kann also etwas
+Das „Sein“ — wir haben keine andere Vorstellung davon als **„leben“**. — Wie kann also etwas
 Todtes „sein“?
 
 [2[173]](javascript:;)
@@ -4324,10 +4323,10 @@ guter Muth zu Beidem
 *lies:*zu Beidem  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- — die Einen zum Wiederfinden, die Andern — wir Anderen!
+ — die Einen zum Wiederfinden, die Andern — **wir** Anderen!
 
-*Erratum:*wir Andern  
-*lies:*wir Anderen!  
+*Erratum:***wir** Andern  
+*lies:***wir** Anderen!  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  — zum
@@ -4342,16 +4341,16 @@ selbst Kinderspiele sein sollten, — — —
 
 (45)
 
-NB. Gegen die Lehre vom Einfluß des milieu und der äußeren
-Ursachen: die innere Kraft ist unendlich überlegen; Vieles, was wie Einfluß von Außen
+NB. **Gegen** die Lehre vom Einfluß des milieu und der äußeren
+Ursachen: die innere Kraft ist unendlich **überlegen**; Vieles, was wie Einfluß von Außen
 aussieht, ist nur ihre Anpassung von Innen her. Genau dieselben milieu’s können entgegengesetzt ausgedeutet
-und ausgenutzt werden: es giebt keine Thatsachen. — Ein Genie ist nicht erklärt aus
+und ausgenutzt werden: es giebt keine Thatsachen. — Ein Genie ist **nicht** erklärt aus
 solchen Entstehungs-Bedingungen —
 
 [2[176]](javascript:;)
 ----------------------
 
-Was den starken Menschen des 20. Jahrhunderts ausmacht: —
+Was den **starken** Menschen des 20. Jahrhunderts ausmacht: —
 
 [2[177]](javascript:;)
 ----------------------
@@ -4372,7 +4371,7 @@ seine Schuldigkeit thun.
 
 Vorrede
 
-Von einer Vorstellung des Lebens ausgehend (das nicht ein Sich-erhalten-wollen, sondern ein Wachsen-Wollen ist) habe ich einen Blick über den Grundinstinkt
+Von einer Vorstellung des Lebens ausgehend (das nicht ein Sich-erhalten-wollen, sondern ein **Wachsen**-Wollen ist) habe ich einen Blick über den Grundinstinkt
 
 *Erratum:*die Grundinstinkte  
 *lies:*den Grundinstinkt  
@@ -4386,11 +4385,11 @@ gesellschaftlichen Bewegung Europas gegeben.
 Wovon ich vielleicht einen Begriff gegeben habe?
 
 1) daß hinter den grundsätzlichsten Verschiedenheiten der Philosophien eine gewisse Gleichheit des
-Bekenntnisses steht: die unbewußte Führung durch moralische Hinterabsichten, deutlicher:
-durch volksthümliche Ideale; — daß folglich das moralische Problem radikaler ist als
+Bekenntnisses steht: die unbewußte Führung durch **moralische Hinterabsichten**, deutlicher:
+**durch volksthümliche Ideale**; — daß folglich das moralische Problem radikaler ist als
 das erkenntnißtheoretische
 
-2) daß einmal eine Umkehrung des Blicks noth thut, um das Vorurtheil der Moral und aller
+2) daß einmal eine Umkehrung des Blicks noth thut, um das **Vorurtheil der Moral** und aller
 volksthümlicher
 
 *Erratum:*volksthümlichen  
@@ -4423,7 +4422,7 @@ gearteten männlichen
 der demokratischen Denkweise ist
 
 4) daß die Wissenschaft im Bunde mit der Gleichheits-Bewegung vorwärts geht, Demokratie ist, daß alle
-Tugenden des Gelehrten die Rangordnung ablehnen
+Tugenden des Gelehrten die **Rangordnung** ablehnen
 
 5) daß das demokratische Europa nur auf eine sublime Züchtung der Sklaverei hinausläuft, welche durch eine
 starke Rasse kommandirt werden muß, um sich selbst zu ertragen
@@ -4443,16 +4442,16 @@ Dunkelheit beklagen.
 Es giebt viele Dinge, gegen welche ich nicht nöthig gefunden habe, zu reden: es versteht sich von selbst, daß
 mir der „Litterat“ widerlich ist, daß mir alle politischen Parteien von heute widerlich sind, daß der
 Sozialist von mir nicht nur mit Mitleiden behandelt wird. Die beiden vornehmsten Formen Mensch, denen ich
-leibhaft begegnet bin, <waren>
+leibhaft begegnet bin, &amp;lt;waren&amp;gt;
 
 *Erratum:*(waren)  
-*lies:*<waren>  
+*lies:*&amp;lt;waren&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  der vollkommene Christ — ich rechne es mir zu Ehren, aus einem Geschlechte zu
 stammen, das in jedem Sinne Ernst mit seinem Christenthum gemacht hat — und der vollkommene Künstler des
 romantischen Ideals, welchen ich tief unter dem christlichen Niveau gefunden habe: es liegt auf der Hand, daß,
-wenn man diesen Formen den Rücken gekehrt hat, weil sie Einem nicht genügen, man nicht
+wenn man **diesen** Formen den Rücken gekehrt hat, weil sie Einem nicht genügen, man nicht
 leicht in einer anderen Art Mensch von heute sein Genüge findet, — in sofern bin ich zur Einsamkeit
 verurtheilt, obwohl ich mir sehr gut eine Art Menschen denken kann, an der ich mein Vergnügen hätte. Mein
 duldsamer und milder Ekel vor der Selbstgenügsamkeit unserer mit Bildung sich putzenden Großstädter, unserer
@@ -4478,22 +4477,22 @@ Leiden machte, um sie loszuwerden, insgleichen Stendhal, Merimée —
 
 (10)
 
-Damit etwas bestehen soll, was länger ist als ein Einzelner, damit also ein Werk
+Damit etwas bestehen soll, was länger ist als ein Einzelner, damit also ein **Werk**
 bestehen bleibt, das vielleicht ein Einzelner geschaffen hat: dazu muß dem Einzelnen alle mögliche Art von
 Beschränkung, von Einseitigkeit usw. auferlegt werden. Mit welchem Mittel? Die Liebe Verehrung Dankbarkeit
 gegen die Person, die das Werk schuf, ist eine Erleichterung: oder daß unsere Vorfahren es erkämpft haben:
-oder daß meine Nachkommen nur so garantirt sind, wenn ich jenes Werk (z.B. die πόλις) garantire. Moral ist wesentlich das Mittel, über die
-Einzelnen hinweg, oder vielmehr durch eine Versklavung der Einzelnen etwas zur Dauer zu
+oder daß meine Nachkommen nur so garantirt sind, wenn ich jenes **Werk** (z.B. die πόλις) garantire. **Moral** ist wesentlich das Mittel, über die
+Einzelnen hinweg, oder vielmehr durch eine **Versklavung** der Einzelnen etwas zur Dauer zu
 bringen. Es versteht sich, daß die Perspektive von unten nach oben ganz andere Ausdrücke geben wird, als die
 von oben nach unten.
 
-Ein Macht-Complex: wie wird er erhalten? Dadurch, daß viele Geschlechter ihm sich
+Ein Macht-Complex: wie wird er **erhalten**? Dadurch, daß viele Geschlechter ihm sich
 opfern, d.h. — — —
 
 [2[183]](javascript:;)
 ----------------------
 
-Zur Einleitung.
+Zur **Einleitung**.
 
 Für Jeden, der mit einem großen Fragezeichen wie mit seinem Schicksale zusammengelebt hat und dessen Tage und
 Nächte sich in lauter einsamen Zwiegesprächen und Entscheidungen verzehrten, sind fremde Meinungen über das
@@ -4504,8 +4503,8 @@ Mißtrauens gegen das eigene Recht und Vorrecht, wo der einsiedlerische Liebende
 zu hören verlangt, was Alles über sein Problem gesagt und geschwiegen wird; vielleicht, daß er dabei erräth,
 daß die Welt voll solcher eifersüchtig Liebender ist, gleich ihm, und daß alles Laute, Lärmende, Öffentliche,
 der ganze Vordergrund von Politik, Alltag, Jahrmarkt, „Zeit“ nur erfunden zu sein scheint, damit alles, was
-uns heute Einsiedler und Philosoph ist, sich dahinter verstecken könne — als in ihre
-eigenste Einsamkeit; Alle mit Einem beschäftigt, in Eins verliebt, auf Eins eifersüchtig, gerade auf sein Problem. „Es wird gar nichts Andres heute gedacht wo überhaupt gedacht wird“ — sagt er
+uns heute Einsiedler und Philosoph ist, sich dahinter verstecken könne — als in **ihre**
+eigenste Einsamkeit; Alle mit Einem beschäftigt, in Eins verliebt, auf Eins eifersüchtig, gerade auf **sein** Problem. „Es wird gar nichts Andres heute gedacht wo überhaupt gedacht wird“ — sagt er
 sich endlich; „es dreht sich Alles gerade um dies Fragezeichen; was mir vorbehalten schien, darum bewirbt sich
 das ganze Zeitalter: es begiebt sich im Grunde gar nichts Anderes; ich selbst — aber was liegt an mir!“
 
@@ -4533,7 +4532,7 @@ Der
 
  Phänomenalismus: wir wissen nichts von einem „Ding an sich“
 
-Mein Problem: Welchen Schaden hat die Menschheit bisher von der Moral sowohl wie von
+**Mein Problem:**Welchen Schaden hat die Menschheit bisher von der Moral sowohl wie von
 ihrer Moralität gehabt? Schaden am Geiste usw.
 
 mein Ekel am Weisen als einem Zuschauer
@@ -4545,13 +4544,13 @@ mein höherer Begriff „Künstler“
 
 (47)
 
-„Wir Immoralisten“
+**„Wir Immoralisten“**
 
 |  |  |  |
 | --- | --- | --- |
 | wirkliche | Kritik des moralischen Ideals | |
 | — | des guten Menschen, des Heiligen, des Weisen |
-| — | von der Verleumdung der sogenannten bösen Eigenschaften |
+| — | von der Verleumdung der sogenannten **bösen** Eigenschaften |
 | — | welchen Sinn haben die verschiedenen moralischen Interpretationen? |
 | — | was ist die Gefahr der jetzt in Europa herrschenden Interpretation? |
 | — | was ist das Maaß, woran gemessen werden kann? („Wille zur Macht“) |
@@ -4568,7 +4567,7 @@ Niemand kommt ihm dabei zu „helfen
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 “, und mit allem, was ihm von Gefahr, Zufall, Bosheit und schlechtem Wetter
-zustößt, muß er selbst fertig werden. Er hat eben seinen Weg für sich, und auch seinen
+zustößt, muß er selbst fertig werden. Er hat eben seinen Weg **für sich**, und auch seinen
 gelegentlichen Verdruß über dieses harte unerbittliche „für sich“: wozu es zum Beispiel gehört, daß selbst
 seine guten Freunde nicht immer sehen und wissen, wo er eigentlich geht, wohin er eigentlich will — und sich
 bisweilen fragen: wie? geht er überhaupt? hat er — einen
@@ -4577,7 +4576,7 @@ bisweilen fragen: wie? geht er überhaupt? hat er — einen
 *lies:*— einen  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Weg?…
+ **Weg**?…
 
 — Indem ich hiermit den Versuch mache, denen, welche mir bisher — trotz alledem — wohlgesinnt geblieben sind,
 einen Wink über den Weg zu geben, welchen ich gegangen bin, empfiehlt es sich zuerst zu sagen, auf welchen
@@ -4592,24 +4591,24 @@ antimetaphysisch, antiromantisch, artistisch, pessimistisch, skeptisch, historis
 
 |  |  |
 | --- | --- |
-| Eine artistische Weltbetrachtung | eine antimetaphysische — ja, aber eine artistische —  eine pessimistische-buddhistische —  eine skeptische —  eine wissenschaftliche — nicht positiv<istische> |
+| Eine artistische Weltbetrachtung | eine antimetaphysische — ja, aber eine artistische —  eine pessimistische-buddhistische —  eine skeptische —  eine wissenschaftliche — **nicht** positiv&amp;lt;istische&amp;gt; |
 
 [2[187]](javascript:;)
 ----------------------
 
-— placatumque nitet diffuso lumine coelum —
+**— placatumque nitet diffuso lumine coelum —**
 
 [2[188]](javascript:;)
 ----------------------
 
-daß sich die Geschichte sämmtl<icher> Ph<änomene> der Moralität dermaßen
+daß sich die Geschichte sämmtl&amp;lt;icher&amp;gt; Ph&amp;lt;änomene&amp;gt; der Moralität dermaßen
 
 *Erratum:*dermaaßen  
 *lies:*dermaßen  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 vereinfachen lasse, wie es Schopenhauer glaubte — nämlich so, daß als Wurzel jeder bisherigen
-moral<ischen> Neigung das Mitleiden wiederzufinden sei — zu diesem Grade von Widersinn und
+moral&amp;lt;ischen&amp;gt; Neigung das Mitleiden wiederzufinden sei — zu diesem Grade von Widersinn und
 Naivetät konnte nur ein Denker kommen, der von allem historischen Instinkte entblößt war und in der
 wunderlichsten Weise selbst jener starken Schulung zur Historie, wie sie die Deutschen von Herder bis Hegel
 durchgemacht haben, entschlüpft war.
@@ -4627,45 +4626,45 @@ Stimmung und Haltung vorbereitet.
 
 (47)
 
-was sind unsere Werthschätzungen und moralischen Gütertafeln selber werth? Was kommt bei
-ihrer Herrschaft heraus? Für wen? In Bezug worauf? — Antwort: für das Leben. Aber was
-ist Leben? Hier thut also eine neue bestimmtere Fassung des Begriffs „Leben“ noth: meine Formel dafür
+was sind unsere Werthschätzungen und moralischen Gütertafeln selber werth? **Was kommt bei
+ihrer Herrschaft heraus?** Für wen? In Bezug worauf? — Antwort: für das Leben. Aber **was
+ist Leben**? Hier thut also eine neue bestimmtere Fassung des Begriffs „Leben“ noth: meine Formel dafür
 lautet: Leben ist Wille zur Macht.
 
-was bedeutet das Werthschätzen selbst? weist es auf eine andere metaphysische Welt
-zurück oder hinab? Wie noch Kant glaubte (der vor der großen historischen Bewegung steht) Kurz: wo ist es entstanden
+**was bedeutet das Werthschätzen selbst?** weist es auf eine andere metaphysische Welt
+zurück oder hinab? Wie noch Kant glaubte (der vor der großen historischen Bewegung steht) Kurz: **wo ist es** **entstanden**
 
-*Erratum:*„entstanden“  
-*lies:*entstanden  
+*Erratum:***„entstanden“**  
+*lies:***entstanden**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 ? Oder ist es nicht „entstanden“? Antwort: das moralische
-Werthschätzen ist eine Auslegung, eine Art zu interpretiren. Die Auslegung selbst ist ein
-Symptom bestimmter physiologischer Zustände, ebenso eines bestimmten geistigen Niveaus
-von herrschenden Urtheilen. Wer legt aus? — Unsere Affekte.
+Werthschätzen ist eine **Auslegung**, eine Art zu interpretiren. Die Auslegung selbst ist ein
+**Symptom** bestimmter physiologischer Zustände, ebenso eines bestimmten geistigen Niveaus
+von herrschenden Urtheilen. **Wer legt aus?** — Unsere Affekte.
 
 [2[191]](javascript:;)
 ----------------------
 
-Meine Behauptung: daß man die moralischen Werthschätzungen selbst einer Kritik
+**Meine Behauptung:** daß man die moralischen Werthschätzungen selbst einer Kritik
 unterziehn muß. Daß man dem moralischen Gefühls-Impuls mit der Frage: warum? Halt gebieten muß. Daß dies
-Verlangen nach einem „Warum?“, nach einer Kritik der Moral, eben unsere jetzige Form der
-Moralität selbst ist, als ein sublimer Sinn der Redlichkeit. Daß unsere Redlichkeit, unser Wille, uns nicht zu betrügen sich selbst ausweisen muß: „warum nicht?“ — Vor
-welchem Forum? — Der Wille, sich nicht betrügen <zu> lassen, ist anderen Ursprungs, eine
+Verlangen nach einem „Warum?“, nach einer Kritik der Moral, eben unsere **jetzige Form der
+Moralität selbst** ist, als ein sublimer Sinn der Redlichkeit. Daß unsere Redlichkeit, unser Wille, **uns** nicht zu betrügen sich selbst ausweisen muß: „warum **nicht**?“ — Vor
+welchem Forum? — Der Wille, sich nicht betrügen &amp;lt;zu&amp;gt; lassen, ist anderen Ursprungs, eine
 Vorsicht gegen Überwältigung, Ausbeutung, ein Nothwehr-Instinkt des Lebens.
 
   
 
-Das sind meine
+Das sind **meine**
 
 *Erratum:*meine  
-*lies:*meine  
+*lies:***meine**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Forderungen an euch — sie mögen euch schlecht genug zu Ohren gehen —: daß ihr die moralischen
 Werthschätzungen selbst einer Kritik unterziehen sollt. Daß ihr dem moralischen Gefühls-Impuls, welcher hier
-Unterwerfung und nicht Kritik verlangt, mit der Frage: „warum Unterwerfung?“ Halt
-gebieten sollt. Daß ihr dies Verlangen nach einem „Warum?“, nach einer Kritik der Moral, eben als eure jetzige Form der Moralität selbst ansehen sollt, als die sublimste Art von
+Unterwerfung und **nicht** Kritik verlangt, mit der Frage: „warum Unterwerfung?“ Halt
+gebieten sollt. Daß ihr dies Verlangen nach einem „Warum?“, nach einer Kritik der Moral, eben als eure **jetzige** Form der Moralität selbst ansehen sollt, als die sublimste Art von
 Rechtschaffenheit, die euch und eurer Zeit Ehre macht.
 
 [2[192]](javascript:;)
@@ -4679,8 +4678,8 @@ da?“
 
 (7)
 
-Unsere Unart, ein Erinnerungs-Zeichen, eine abkürzende Formel als Wesen zu nehmen, schließlich als Ursache z.B. vom Blitz zu sagen: „er leuchtet“. Oder gar das Wörtchen „ich“. Eine Art von
-Perspektive im Sehen wieder als Ursache des Sehens selbst zu setzen: das war das
+Unsere Unart, ein Erinnerungs-Zeichen, eine abkürzende Formel als Wesen zu nehmen, schließlich als **Ursache** z.B. vom Blitz zu sagen: „er leuchtet“. Oder gar das Wörtchen „ich“. Eine Art von
+Perspektive im Sehen wieder als **Ursache des Sehens selbst** zu setzen: das war das
 Kunststück in der Erfindung des „Subjekts“, des „Ichs“!
 
 [2[194]](javascript:;)
@@ -4689,7 +4688,7 @@ Kunststück in der Erfindung des „Subjekts“, des „Ichs“!
 (23)
 
 Stendhal: „Combien de lieues ne ferais-je pas à pied, et à combien de jours de prison ne me soumettrais-je
-pas pour entendre Don Juan ou le Matrimonio segreto; et je ne sais pour quelle autre
+pas pour entendre **Don Juan** ou le Matrimonio segreto; et je ne sais pour quelle autre
 chose je ferais cet effort.“ Damals war er 56 Jahr
 
 *Erratum:*Jahre  
@@ -4718,8 +4717,8 @@ Kant: uns entzogen, unsichtbar, wirklich, ein Reich der moralischen Werthe
 
 Hegel: eine nachweisbare Entwicklung, Sichtbarwerdung des moralischen Reichs
 
-Wir wollen uns weder auf die Kantische noch Hegelsche Manier betrügen lassen: — wir glauben nicht mehr, wie sie, an die Moral und haben folglich auch keine Philosophien zu gründen, damit die Moral Recht behalte. Sowohl der Kriticismus als der Historicismus hat für uns
-nicht darin seinen Reiz: — nun, welchen hat er denn?
+Wir wollen uns weder auf die Kantische noch Hegelsche Manier betrügen lassen: — wir **glauben** nicht mehr, wie sie, an die Moral und haben folglich auch keine Philosophien zu gründen, **damit** die Moral Recht behalte. Sowohl der Kriticismus als der Historicismus hat für uns
+nicht **darin** seinen Reiz: — nun, welchen hat er denn?
 
 *Erratum:*denn? —  
 *lies:*denn?  
@@ -4728,7 +4727,7 @@ nicht darin seinen Reiz: — nun, welchen hat er denn?
 [2[196]](javascript:;)
 ----------------------
 
-Wir Heimatlosen — ja! Aber wir wollen die Vortheile unserer Lage
+**Wir Heimatlosen — ja!** Aber wir wollen die **Vortheile** unserer Lage
 ausnützen und, geschweige an ihr zu Grunde zu gehn, uns die freie Luft und mächtige Lichtfülle zu Gute kommen
 lassen.
 
@@ -4749,10 +4748,10 @@ unmenschlich — wir haben sie allzulange im Sinne unserer Verehrung interpretir
 was wir geglaubt haben: und der letzte Spinnefaden von Trost, den Schopenhauer gesponnen hat, ist von uns
 zerrissen worden: eben das sei der Sinn der ganzen Geschichte, daß sie hinter ihre Sinnlosigkeit kommt und
 ihrer selber satt wird. Dies Am-Dasein-Müde-werden, dieser Wille zum Nicht-mehr-wollen, das Zerbrechen des
-Eigenwillens, des Eigenwohles, Selbstl<osigkeit>
+Eigenwillens, des Eigenwohles, Selbstl&amp;lt;osigkeit&amp;gt;
 
-*Erratum:*Eigenwohls, <des> Subjekts  
-*lies:*Eigenwohles, Selbstl<osigkeit>  
+*Erratum:*Eigenwohls, &amp;lt;des&amp;gt; Subjekts  
+*lies:*Eigenwohles, Selbstl&amp;lt;osigkeit&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  (als Ausdruck dieses umgekehrten Willens) — dies
@@ -4761,17 +4760,17 @@ daß alles selbstlose Handeln — — — er glaubte selbst der Kunst ihren Wert
 indifferenten Zuständen, welche sie schafft, Vorbereitungen für jene gänzliche Loslösung und Sattheit des
 Ekels erkennen möchte.
 
-— aber wären wir wirklich in Hinsicht auf den Anblick einer unmoralischen Welt Pessimisten? Nein, denn wir glauben nicht an die Moral — — wir glauben, daß Barmherzigkeit, Recht,
+— aber wären wir wirklich in Hinsicht auf den Anblick einer unmoralischen Welt **Pessimisten**? Nein, denn wir glauben nicht an die Moral — — wir glauben, daß Barmherzigkeit, Recht,
 Mitleid u. Gesetzlichkeit
 
 *Erratum:*Mitleid, Gesetzlichkeit  
 *lies:*Mitleid u. Gesetzlichkeit  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- bei weitem überschätzt sind, daß ihr Gegentheil verleumdet worden
-ist, daß in Beidem, im Übertreiben und Verleumden, in der ganzen Anlegung des moral<ischen> Ideals und Maaßstabes eine ungeheure Gefährdung des
-Menschen lag. Vergessen wir auch den guten Ertrag nicht: das Raffinement der Auslegung,
-der moral<ischen> Vivisektion, der Gewissensbiß hat die Falschheit des
+ bei weitem **überschätzt** sind, daß ihr Gegentheil verleumdet worden
+ist, daß in Beidem, im Übertreiben und Verleumden, in der ganzen Anlegung des **moral**&amp;lt;ischen&amp;gt; **Ideals** und Maaßstabes eine ungeheure Gefährdung des
+Menschen lag. Vergessen wir auch den guten Ertrag nicht: das Raffinement der **Auslegung**,
+der moral&amp;lt;ischen&amp;gt; Vivisektion, der Gewissensbiß hat die **Falschheit** des
 Menschen aufs höchste
 
 *Erratum:*Höchste  
@@ -4781,14 +4780,14 @@ Menschen aufs höchste
  gesteigert und ihn geistreich gemacht.
 
 An sich hat eine Religion nichts mit der Moral zu thun: aber die beiden Abkömmlinge der jüdischen
-R<eligion> sind beide wesentlich moralische Religionen, solche, die Vorschriften darüber
+R&amp;lt;eligion&amp;gt; sind beide **wesentlich** moralische Religionen, solche, die Vorschriften darüber
 
 *Erratum:*darüber
 Vorschriften  
 *lies:*Vorschriften darüber  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- geben, wie gelebt werden soll und mit Lohn und Strafe ihren Forderungen
+ geben, wie gelebt werden **soll** und mit Lohn und Strafe ihren Forderungen
 Gehör schaffen.
 
 [2[198]](javascript:;)
@@ -4802,7 +4801,7 @@ auf solchem Sumpfboden gedeihen, wie billig, auch die eigentlichen Sumpfpflanzen
 *lies:*der  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-A<ntisemiten>
+A&amp;lt;ntisemiten&amp;gt;
 
 [2[199]](javascript:;)
 ----------------------
@@ -4825,8 +4824,8 @@ eine willkürliche Betäubung unseres besseren Wissens und Gewissens
 ----------------------
 
 Insgleichen sind wir keine Christen mehr: wir sind dem Christenthum entwachsen, nicht weil wir ihm zu fern,
-sondern weil wir ihm zu nahe gewohnt haben, mehr noch weil wir aus ihm gewachsen sind —
-es ist unsere strengere und verwöhntere Frömmigkeit selbst, die uns heute verbietet, noch
+sondern weil wir ihm zu nahe gewohnt haben, mehr noch weil wir **aus** ihm gewachsen sind —
+es ist unsere strengere und verwöhntere Frömmigkeit selbst, die uns heute **verbietet**, noch
 Christen zu sein —
 
 [2[201]](javascript:;)
@@ -4860,7 +4859,7 @@ und Einsam-Wandelnden! — Nun sind es mit einem Mal Lämmer, nun wollen sie Hee
 allesammt ihr „du sollst“ und „du sollst nicht“ mit Jedermann gemein haben, — erstes Zeichen der
 preisgegebenen Unabhängigkeit. Und was ist ihr Kriterium einer moralischen Vorschrift? Alle sind darüber
 einmüthig: deren Gemeingültigkeit, ihr Absehen von der Person. Dies heiße ich „Heerde“. Darauf freilich
-trennen sie sich: denn jeder will mit seiner besten Kraft der M<oral> zu
+trennen sie sich: denn jeder will mit **seiner** besten Kraft der M&amp;lt;oral&amp;gt; zu
 Diensten sein. Die meisten von ihnen verfallen darauf „die Moral zu begründen“, wie man sagt, nämlich sie mit
 der Vernunft zu verschwistern und zu vereinbaren, womöglich bis zur Einheit; die Feineren finden umgekehrt in
 der Unbegründbarkeit der Moral das Anzeichen und Vorrecht ihres Ranges, ihres der Vernunft überlegenen Ranges;
@@ -4876,7 +4875,7 @@ Vergnügen“), wieder andere
 der Moral, und dies ebenfalls zu Ehren ihres Ranges, ihrer höheren Art und Bestimmung: alle aber sind
 einmüthig in der Hauptsache „die Moral ist da, die Moral ist gegeben!“, sie glauben alle, redlich, unbewußt,
 ungebrochen an den Werth dessen, was sie Moral nennen, das heißt, sie stehen unter deren Autorität. Ja! Der
-Werth der Moral! Wird man es erlauben, daß hier Jemand
+**Werth** der Moral! Wird man es erlauben, daß hier Jemand
 
 *Erratum:*jemand  
 *lies:*Jemand  
@@ -4895,7 +4894,7 @@ psychologische Möglichkeit und Unmöglichkeit kümmert?
 [2[204]](javascript:;)
 ----------------------
 
-Fünftes Buch: Wir Umgekehrten.
+**Fünftes Buch: Wir Umgekehrten.**
 
 Unsere neue „Freiheit“
 
@@ -4940,7 +4939,7 @@ Bewußtseins“ gäbe — und keinen Phänomenalismus in der Selbst-Beobachtung
 ----------------------
 
 Es giebt gar keinen Egoismus, der bei sich stehen bliebe und nicht übergriffe — es giebt folglich jenen
-„erlaubten“, „moralisch indifferenten“ E<goismus> gar nicht, von dem ihr redet.
+„erlaubten“, „moralisch indifferenten“ E&amp;lt;goismus&amp;gt; gar nicht, von dem ihr redet.
 
 Man
 
@@ -4974,7 +4973,7 @@ nicht begreift, hat bei sich noch nicht den ersten Schritt zur Redlichkeit gemac
 
 (48)
 
-Welches Freiheitsgefühl liegt darin, zu empfinden, wie wir befreiten Geister empfinden, daß wir nicht in ein System von „Zwecken“ eingespannt sind! Insgleichen, daß die Begriffe „Lohn“
+Welches Freiheitsgefühl liegt darin, zu empfinden, wie wir befreiten Geister empfinden, daß wir **nicht** in ein System von „Zwecken“ eingespannt sind! Insgleichen, daß die Begriffe „Lohn“
 und „Strafe“ nicht im Wesen des Daseins ihren Sitz haben! Insgleichen,
 
 *Erratum:*Insgleichen  
@@ -4993,19 +4992,19 @@ kosmische, geschweige denn eine metaphysische Bedeutung haben! — Jener Pessimi
  Lust und Unlust des
 Daseins selbst auf die Wagschale zu setzen sich anheischig macht, mit seiner willkürlichen Einsperrung in das
 vor-kopernikanische Gefängniß und Gesichtsfeld, würde etwas Rückständiges und Rückfälliges
-<sein>, falls er nicht nur ein schlechter Witz eines Berliners ist (der
-P<essimismus> E<duard> von Hartmanns
+&amp;lt;sein&amp;gt;, falls er nicht nur ein schlechter Witz eines Berliners ist (der
+P&amp;lt;essimismus&amp;gt; E&amp;lt;duard&amp;gt; von Hartmanns
 
 [2[207]](javascript:;)
 ----------------------
 
-Anfang
+**Anfang**
 
 *Erratum:*Anfang  
-*lies:*Anfang  
+*lies:***Anfang**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Schluß.
+**Schluß.**
 
 In wiefern diese Selbstvernichtung der Moral noch ein Stück ihrer eigenen Kraft ist. Wir Europäer haben das
 Blut solcher in uns, die für ihren Glauben gestorben sind; wir haben die Moral furchtbar und ernst genommen
@@ -5018,11 +5017,11 @@ und es ist nichts, was wir ihr nicht irgendwann
  geopfert haben. Andrerseits: unsre geistige Feinheit ist
 wesentlich durch Gewissens-Vivisektion erreicht worden. Wir wissen das wohin? noch nicht, zu dem wir getrieben
 werden, nachdem wir uns dergestalt von unsrem alten Boden abgelöst haben. Aber dieser Boden selbst hat uns die
-Kraft angezüchtet, die uns jetzt hinaus treibt in die Ferne, in’s Abenteuer, <durch die wir>
+Kraft angezüchtet, die uns jetzt hinaus treibt in die Ferne, in’s Abenteuer, &amp;lt;durch die wir&amp;gt;
 in’s Uferlose, Unerprobte, Unentdeckte hinausgestossen werden, — es bleibt uns keine Wahl, wir müssen Eroberer
 sein, nachdem wir kein Land mehr haben, wo wir heimisch sind, wo wir „erhalten“ möchten. Nein, das wißt ihr
 besser, meine Freunde! Das verborgene Ja in euch ist stärker als alle Neins und Vielleichts, an denen ihr mit
-eurer Zeit krank und süchtig seid; und wenn ihr aufs Meer müßt, ihr Auswanderer, so zwingt euch ein Glaube dazu — —
+eurer Zeit krank und süchtig seid; und wenn ihr aufs Meer müßt, ihr Auswanderer, so zwingt euch ein **Glaube** dazu — —
 
 *Erratum:*dazu …  
 *lies:*dazu — —  
@@ -5050,3 +5049,5 @@ Die
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  vollkommene Funktions-Sicherheit der regulirenden Instinkte
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -62,7 +62,7 @@ aber muss da sein, bevor etwas gebildet werden kann. Ist Schwäche da, so ist di
 jeden Preis gerichtet: da wird jedenfalls kein Gebilde, an dem man Freude haben könnte. Zu vergleichen dem
 Schwindsüchtigen, der nach Leben schnappt und bei jedem Augenblick an Gesundheit d.h. Erhaltung denken muss.
 Hat eine Zeit viel dergleichen Naturen, so ehrt sie endlich die Kraft, selbst wenn sie roh und feindselig ist:
-Napoleon als gelber gesunder Tiger bei Marwitz-Brief.
+Napoleon als gelber gesunder Tiger bei **Marwitz**-Brief.
 
 [31[4]](javascript:;)
 ---------------------
@@ -94,7 +94,7 @@ genommen: auf etwas Übertreibung kommt nichts dabei an. Es ist kein Zweifel, da
 den Menschen auch wieder eine strengere Diät vorschreiben werden. Man glaubt durch Luft Sonne Wohnung Reisen
 usw. die modernen Menschen gesund zu machen, eingeschlossen die medicinischen Reize und Gifte. Aber alles, was
 dem Menschen schwer wird, scheint nicht mehr angeordnet zu werden: auf angenehme und bequeme Art gesund und
-krank zu sein scheint die Maxime. Doch ist es gerade die fortgesetzte kleine
+krank zu sein scheint die Maxime. Doch ist es gerade die fortgesetzte **kleine**
 Masslosigkeit, d.h. der Mangel an Selbstzucht, der zuletzt als allgemeine Hast und impotentia sich zeigt.
 
 [31[5]](javascript:;)
@@ -133,7 +133,7 @@ Apragopolis (Stadt der Müssiggänger).
 [31[8]](javascript:;)
 ---------------------
 
-Zur Zeitschilderung.
+**Zur Zeitschilderung.**
 
 In Betreff der Religion bemerke ich eine Ermüdung, man ist an den bedeutenden Symbolen endlich müde und
 erschöpft. Alle Möglichkeiten des christlichen Lebens, die ernstesten und
@@ -182,3 +182,5 @@ Es ist mit den Wissenschaften wie mit den Bäumen, man kann sich nur an dem derb
 Ästen festhalten, nicht mehr an den äussersten Zweigen und Spitzen; sonst fällt man herab und zerbricht
 meistens auch noch die Äste. So steht es mit der Philosophie: wehe einer Jugend, welche sich an ihre Apices
 anklammern will!
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

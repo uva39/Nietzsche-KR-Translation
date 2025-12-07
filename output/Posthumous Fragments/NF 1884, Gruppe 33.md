@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [33[1]](javascript:;)
 ---------------------
 
-Die gute Mahlzeit.
+**Die gute Mahlzeit.**
 
 Es war um die Mitte dieses langen Abendmahls, welches schon des Nachmittags begonnen hatte: da sagte Jemand:
 „Hört, wie der Wind draußen saust und pfeift! Wer möchte jetzt gern draußen in der Welt sein! Es ist gut, daß
@@ -41,7 +41,7 @@ Narr und Zarathustra — was dünket euch?“
 Bei diesen Worten erhob sich der König zur Rechten und sprach: „Rede nicht mit solchen kleinen Worten von
 deinem eigenen Namen, oh Zarathustra! du thust damit unsrer Ehrfurcht wehe.
 
-Siehe, wir wissen wohl, wer das macht, daß wir schon nicht mehr nothschrein! und weshalb
+Siehe, wir wissen wohl, **wer** das macht, daß wir schon nicht mehr nothschrein! und weshalb
 unser Auge und Herz offen und entzückt steht und unser Muth muthwillig wird.
 
 Oh Zarathustra, nichts wächst Erfreulicheres auf Erden als ein starker hoher Wille: der ist ihr schönstes
@@ -50,7 +50,7 @@ Gewächs. Eine ganze Landschaft erquickt sich an Einem solchen Baume.
 Dem Pinien-Baum vergleiche ich, wer gleich dir, oh Zarathustra, aufwächst: lang, schweigend, hart, allein,
 besten biegsamsten Holzes, herrlich —
 
-— zuletzt aber hinausgreifend mit starken grünen Ästen nach seiner Herrschaft, starke
+— zuletzt aber hinausgreifend mit starken grünen Ästen nach **seiner** Herrschaft, starke
 Fragen fragend vor Winden und Wettern und was auf Höhen heimisch ist,
 
 — stärker antwortend, ein Befehlender, ein Siegreicher: oh wer sollte nicht, solche Gewächse zu schaun, auf
@@ -59,7 +59,7 @@ hohe Berge steigen?
 Deines Baumes hier, oh Zarathustra erlabt sich auch der Düstere, der Mißrathene, an deinem Anblicke wird auch
 der Unstäte sicher und heilt sein Herz.
 
-Wie gut doch, daß wir erst also Noth schrien: so mußten wir hinauf zu deinem Anblicke!
+Wie gut doch, daß wir erst also Noth schrien: so **mußten** wir hinauf zu deinem Anblicke!
 Wie danken wir’s nun allem Ekel, aller schweren Luft, daß sie uns fragen und suchen und steigen lehrten, —
 
 — fragen lehrten am rechten Orte, in der rechten Höhe: „Lebt denn Zarathustra noch? Wie lebt Zarathustra
@@ -96,14 +96,14 @@ Meine Ohren werden dabei klein und kleiner, seht ihr nicht? sie verkriechen sich
 Prunkreden.
 
 Und wahrlich, ihr Könige, mit solchem Lobe könntet ihr den Stärksten umwerfen, einen solchen Becher Weins
-soll man Niemandem zutrinken. Es sei denn mir: denn ich trotze jedem Lobe, Dank meiner
+soll man Niemandem zutrinken. Es sei denn **mir**: denn ich trotze jedem Lobe, Dank meiner
 ehernen Stirn —
 
 Dank meinem ehernen Willen: der aber heischt harte hohe
-ferne Dinge von <mir>
+ferne Dinge von &amp;lt;mir&amp;gt;
 
 *Erratum:*feine Dinge  
-*lies:*ferne Dinge von <mir>  
+*lies:*ferne Dinge von &amp;lt;mir&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 : den erreicht Lob und Ehre nicht.
@@ -144,3 +144,5 @@ eine schwere Wolke und Betäubung.
 | --- | --- | --- |
 | Da — der Adler! |  | — Wo bin ich! |
 | Er entflieht. |  |  |
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

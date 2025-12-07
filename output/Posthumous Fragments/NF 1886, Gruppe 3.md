@@ -28,9 +28,9 @@ Geistes.
 [3[2]](javascript:;)
 --------------------
 
-Zur
+**Zur**
   
-Naturgeschichte des freien Geistes.
+**Naturgeschichte des freien Geistes.**
   
 Gedanken und Gedankenstriche  
 von  
@@ -39,7 +39,7 @@ Friedrich Nietzsche.
 [3[3]](javascript:;)
 --------------------
 
-Widmung und Abgesang.
+**Widmung und Abgesang.**
 
 |  |
 | --- |
@@ -48,7 +48,7 @@ Widmung und Abgesang.
 [3[4]](javascript:;)
 --------------------
 
-Der Wille zur Macht.
+**Der Wille zur Macht.**
   
 Vorzeichen  
 einer Philosophie der Zukunft.  
@@ -69,7 +69,7 @@ Spott über „Göttliches“ — Symptom der Genesung.
 Das Verlangen nach „festen Thatsachen“ — Erkenntnißtheorie wie viel Pessimismus ist
 darin!
 
-Z<arathustra> als seinen Gegner sich schaffen
+Z&amp;lt;arathustra&amp;gt; als seinen **Gegner** sich schaffen
 
 [3[6]](javascript:;)
 --------------------
@@ -85,7 +85,7 @@ darf sich durch den Lärm den sie macht nicht täuschen lassen: kleine Kinder sc
 [3[8]](javascript:;)
 --------------------
 
-Nach neuen Meeren.
+**Nach neuen Meeren.**
 
   
 
@@ -100,7 +100,7 @@ Friedrich Nietzsche.
 [3[9]](javascript:;)
 --------------------
 
-Jenseits von Gut und Böse.
+**Jenseits von Gut und Böse.**
   
 Vorspiel   
 einer Philosophie der Zukunft.
@@ -114,7 +114,7 @@ einer Philosophie der Zukunft.
 [3[10]](javascript:;)
 ---------------------
 
-Unsere Tugenden.
+**Unsere Tugenden.**
 
   
 
@@ -128,7 +128,7 @@ Friedrich Nietzsche.
 [3[11]](javascript:;)
 ---------------------
 
-Menschliches, Allzumenschliches.
+**Menschliches, Allzumenschliches.**
 
   
 
@@ -158,10 +158,10 @@ Zur Verdüsterung Europas.
 [3[13]](javascript:;)
 ---------------------
 
-Diese Einsamkeit ist es, welche wir hüten, wenn wir der religiösen Organisation der
+Diese Einsamkeit ist es, welche wir **hüten**, wenn wir der religiösen Organisation der
 Menschheit das Wort reden: — und vielleicht unterscheidet uns nichts so bestimmt von den mißbräuchlich
 „Freigeister“ genannten Heerdenthieren und Gleichheits-Aposteln: — welche allesammt die Einsamkeit nicht
-ertragen könnten. Religion als Fortsetzung und Vertiefung der politischen Grundlehre
+ertragen **könnten**. Religion als Fortsetzung und Vertiefung der politischen Grundlehre
 gedacht, welche immer die Lehre der ungleichen Rechte, der Nothwendigkeit eines Gesellschafts-Baus mit Hoch
 und Niedrig, mit Gebietenden und Gehorchenden ist: Religion bedeutet uns die Lehre von der Rangverschiedenheit
 der Seelen, der Züchtung und Ermöglichung der höheren Seelen auf Unkosten der niederen.
@@ -169,18 +169,18 @@ der Seelen, der Züchtung und Ermöglichung der höheren Seelen auf Unkosten der
 [3[14]](javascript:;)
 ---------------------
 
-Die Welt ist das nicht werth, was wir geglaubt haben: man ist dahinter gekommen. Der
-Pessimist giebt uns sogar zu verstehn, dies eben sei ihr Rest von Werth, den sie für uns behalte, daß wir dahinter kommen können — und sie das nicht werth sei was wir
+Die Welt ist **das** nicht werth, was wir geglaubt haben: man ist dahinter gekommen. Der
+Pessimist giebt uns sogar zu verstehn, dies eben sei ihr Rest von Werth, den sie für uns behalte, **daß** wir dahinter kommen können — und sie **das** nicht werth sei was wir
 geglaubt haben. Die Welt wäre dergestalt ein Mittel, sich die Welt zu verleiden, sich selber bestmöglich zu
-„entweltlichen“; ein Unsinn, der sich endlich nach unse<li>gen Umschweifen zu begreifen beginnt,
+„entweltlichen“; ein Unsinn, der sich endlich nach unse&amp;lt;li&amp;gt;gen Umschweifen zu begreifen beginnt,
 eine etwas langgesponnene Komödie der Irrungen, die sich beschämt ins Nichts verliert
 
 [3[15]](javascript:;)
 ---------------------
 
 Es bleibt genug gegen ein langes Siechthum einzuwenden; am wenigsten wohl möchte ich es den christlichen
-Moralisten zugeben, daß es den M<enschen> verbessert, namentlich wenn er durch die langwierigen
-Schmerzen heimgesucht wird, denen man mit kalter Besonnenheit <zuschaut> — weder jenes
+Moralisten zugeben, daß es den M&amp;lt;enschen&amp;gt; verbessert, namentlich wenn er durch die langwierigen
+Schmerzen heimgesucht wird, denen man mit kalter Besonnenheit &amp;lt;zuschaut&amp;gt; — weder jenes
 orientalische stumme taube Sich-Auslöschen, Sich-Ergeben noch jene Überreizung der Willenskraft und der
 Tapferkeit, die einem solchen Feinde, wie der Schmerz ist, den Stolz, den Hohn, — — —
 
@@ -225,8 +225,10 @@ Wir Philosophen des Jenseits — des Jenseits von Gut und Böse,
 
 mit Verlaub!, die wir in Wahrheit gewitzte
 Interpreten und Zeichendeuter sind — wir, denen das Schicksal aufgespart blieb, als Zuschauer der europäischen
-Dinge vor einen geheimnißvollen und ungelesenen Text hingestellt zu sein: der sich uns
+Dinge vor einen geheimnißvollen und **ungelesenen** Text hingestellt zu sein: der sich uns
 mehr und mehr verräth — welche Noth haben wir, zu schweigen und die Lippen zusammenzudrücken, während immer
-mehrere und seltnere Dinge sich in uns drängen und häufen und nach Licht, Luft, Freiheit, Wort verlangen!
+mehrere und seltnere Dinge sich in uns drängen und häufen und nach Licht, Luft, Freiheit, **Wort** verlangen!
 
 Aber das Wort — — —
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

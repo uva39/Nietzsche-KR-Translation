@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [3[1]](javascript:;)
 --------------------
 
-Auf hoher See.
+**Auf hoher See.**
   
 Ein Sentenzen-Buch
   
@@ -31,14 +31,14 @@ Friedrich Nietzsche.
 
   
 
-Schweigsame Reden
+**Schweigsame Reden**
   
 Ein Sentenzen-Buch.
 
   
 
-„Jenseits von gut und böse.“  
-Sentenzen-Buch.
+**„Jenseits von gut und böse.“**  
+**Sentenzen-Buch.**
 
   
 
@@ -99,7 +99,7 @@ selber fortbestehen will.
 11. „Du bist gegen Alles, was bisher Werth hatte, kalt geworden, du bist kälter als
 Eis — aber wer dich jetzt anrührt, sagt du seist glühend geworden: und zieht schnell seinen Finger zurück, im
 Glauben, du habest ihn verbrannt. Und es wird bald Menschen geben, welche dich aufsuchen, um sich an dir zu
-wärmen.“
+**wärmen**.“
 
   
 
@@ -123,7 +123,7 @@ vor gebrochnen Worten.
 
   
 
-16. Es ist Weiber-Art, seine Nächsten zu einer guten Meinung über sich zu verführen und dann an diese Meinung wie an eine Autorität zu glauben.
+16. Es ist Weiber-Art, seine Nächsten zu einer guten Meinung über sich zu **verführen** und dann an diese Meinung wie an eine Autorität zu **glauben**.
 
   
 
@@ -133,7 +133,7 @@ Mann.
   
 
 18. Die Opfer, die wir bringen, beweisen nur, wie wenig werth uns jedes andre Ding
-wird, wenn wir Etwas lieben.
+wird, wenn wir Etwas **lieben**.
 
   
 
@@ -143,7 +143,7 @@ schwersten werde.
   
 
 20. Die Weiber haben im Hintergrunde alles ihres Ehrgeizes als Weiber immer noch die
-Verachtung für „das Weib“.
+Verachtung für „**das** Weib“.
 
   
 
@@ -232,7 +232,7 @@ immer undankbar.
 
   
 
-36. „Reden wir nicht davon!“ — „Freund, hiervon dürfen wir nicht
+36. „Reden wir nicht davon!“ — „Freund, **hiervon** dürfen wir nicht
 einmal schweigen.“
 
   
@@ -241,11 +241,11 @@ einmal schweigen.“
 
   
 
-38. Von sich absehen ist nöthig, um gut zu sehen.
+38. Von sich absehen ist nöthig, um gut zu **sehen**.
 
   
 
-39. „Die Menschen sind nicht gleich!“ — So spricht — die
+39. „Die Menschen sind **nicht gleich**!“ — So spricht — die
 Gerechtigkeit.
 
   
@@ -311,13 +311,13 @@ nicht umsonst ihre Zangen!
 
   
 
-49. Wer den Weg zu seinem Ideale nicht zu finden vermag, lebt
+49. Wer den Weg zu **seinem** Ideale nicht zu finden vermag, lebt
 leichtsinniger und frecher als der, welcher gar kein Ideal hat.
 
   
 
 50. Der Teufel hat die besten Perspektiven für Gott: deshalb hält er sich von ihm so
-ferne — er ist nämlich ein Freund der Erkenntniß.
+ferne — er ist nämlich ein Freund der **Erkenntniß**.
 
   
 
@@ -394,7 +394,7 @@ gefährlichster Feind gelten wollen.
   
 
 62. Die Menschen laufen Jedem nach, der ihnen einzureden weiß, sie hätten ihren Weg
-verloren: es schmeichelt sie so, zu hören, daß sie überhaupt einen Weg haben.
+verloren: es schmeichelt sie so, zu hören, daß sie überhaupt einen Weg **haben**.
 
   
 
@@ -408,20 +408,20 @@ machen: der Blasebalg ist nichts Großes!
 
   
 
-Nicht, wie Jemand liebt verräth das Gemeine oder Hohe seiner innersten Natur — die Liebe
+Nicht, **wie** Jemand liebt verräth das Gemeine oder Hohe seiner innersten Natur — die Liebe
 ist nämlich in allen Stücken vielmehr Lügnerin als Verrätherin! Aber man gebe Acht, wie Einer sich benimmt,
-wenn er geliebt wird! — Und für Manche, die Grund hatten unerkannt zu bleiben, war es die
+wenn er **geliebt wird**! — Und für Manche, die Grund hatten unerkannt zu bleiben, war es die
 Feinheit ihres Schicksals, daß sie nie geliebt wurden.
 
   
 
 65. Das Leben um der Erkenntniß willen ist vielleicht etwas Tolles: aber doch ein
 Zeichen von Frohmüthigkeit. Der Mensch dieses Willens ist so lustig anzusehen wie ein Elephant, welcher
-versucht auf seinem Kopfe zu stehen.
+versucht auf seinem Kopfe zu **stehen**.
 
   
 
-66. „Aber wie konntest du so handeln! — sagte ein Freund zu
+66. „Aber wie konntest du **so** handeln! — sagte ein Freund zu
 einem sehr klugen Menschen — es war eine Dummheit!“ — Es ist mir auch schwer genug geworden, entgegnete
 dieser.
 
@@ -460,7 +460,7 @@ Niemanden, dem ich befehlen möchte.“
 
 72. Die Liebe bringt die hohen und seltenen Eigenschaften eines Menschen ans Licht;
 insofern täuscht sie über ihn (ihn selber am meisten). Aber, wer nicht getäuscht sein will, habe Acht, was
-geschieht, wenn ein Mensch sich geliebt weiß, aber nicht liebt: da verräth eine Seele
+geschieht, wenn ein Mensch sich geliebt weiß, **aber nicht liebt**: da verräth eine Seele
 selbst ihren Bodensatz.
 
   
@@ -469,7 +469,7 @@ selbst ihren Bodensatz.
 
   
 
-74. Man hat den Blitz unschädlich gemacht: aber das genügt
+74. Man hat den Blitz **unschädlich** gemacht: aber das genügt
 nicht, er soll lernen, für uns zu arbeiten. — So denke ich über alles „Böse“, in dir und in mir.
 
   
@@ -506,8 +506,8 @@ reden kann — eine undeutliche und stammelnde Form von Memoiren.
 
   
 
-80. Die tragischen Naturen zu Grunde gehen sehen und noch lachen
-können, über das tiefste Verstehen, Fühlen und Mitleiden mit ihnen hinweg — ist göttlich.
+80. Die tragischen Naturen zu Grunde gehen sehen und **noch lachen
+können**, über das tiefste Verstehen, Fühlen und Mitleiden mit ihnen hinweg — ist göttlich.
 
   
 
@@ -524,7 +524,7 @@ Sache lockt.“
   
 
 83. Man muß einen Menschen schlafend gesehen haben: sonst weiß man nicht, wie er
-aussieht. Das Gesicht deines Freundes, das du zu kennen glaubst, ist dein Gesicht, auf
+aussieht. Das Gesicht deines Freundes, das du zu kennen glaubst, ist **dein** Gesicht, auf
 einem unvollkommenen und rauhen Spiegel.
 
   
@@ -641,7 +641,7 @@ das Auge etwas Erträgliches: man soll ihnen ja nicht ausreden, dieser Wille sei
   
 
 102. Moral ist jetzt die Ausrede für die Überflüssigen und Zufälligen, für das
-geistes- und kraftarme Gewürm, was nicht leben sollte — Moral ist insofern
+geistes- und kraftarme Gewürm, was nicht leben **sollte** — Moral ist insofern
 Barmherzigkeit: denn sie sagt zu Jedem „du bist doch etwas sehr Wichtiges“: was freilich eine Lüge ist.
 
   
@@ -691,7 +691,7 @@ unserem Freunde vorbehalten — mit dem Erfolge, daß er uns deswegen zum Teufel
 
   
 
-111. Man ist oft zwar seiner Handlung gewachsen, aber nicht seinem Bilde der gethanen Handlung.
+111. Man ist oft zwar seiner Handlung gewachsen, aber nicht seinem **Bilde** der gethanen Handlung.
 
   
 
@@ -716,8 +716,8 @@ den Menschen auflegt.
 
   
 
-116. Du willst gerecht sein? Unglückseliger, wie willst du Jedem das
-Seine geben? — Nein, das will ich nicht. Ich gebe Jedem das Meine: das ist genug
+116. Du willst gerecht sein? Unglückseliger, wie willst du **Jedem das
+Seine** geben? — Nein, das will ich nicht. Ich gebe **Jedem das Meine**: das ist genug
 für einen, der nicht der Reichste ist.
 
   
@@ -727,7 +727,7 @@ in Beidem verbessert sie den Charakter.
 
   
 
-118. Man ist am strengsten gegen seinen Gott: er darf nicht
+118. Man ist am strengsten gegen seinen Gott: **er** darf nicht
 sündigen!
 
   
@@ -736,7 +736,7 @@ Gott erdachte die Teleologie der Schwangerschaft: da erdachte er das Weib.
 
   
 
-119. „Ich glaube an nichts mehr“. — Dies ist die richtige Denkweise eines schöpferischen Menschen.
+119. „Ich glaube an nichts mehr“. — Dies ist die richtige Denkweise eines **schöpferischen** Menschen.
 
   
 
@@ -746,7 +746,7 @@ Eigenschaften des Menschen — er hätte auch die „bösen“ leugnen sollen.
   
 
 Wenn der moralische Skeptiker beim Mißtrauen gegen die Moral angelangt ist, so bleibt ihm noch ein Schritt zu
-thun — die Skepsis gegen sein Mißtrauen. Leugnen und Vertrauen — das
+thun — die Skepsis gegen sein Mißtrauen. **Leugnen** und **Vertrauen** — das
 giebt einander die Hände.
 
   
@@ -790,7 +790,7 @@ Schwangerschaft.
 
   
 
-129. Unser Glaube an Andere verräth, worin wir gern an uns
+129. Unser Glaube an Andere verräth, **worin** wir gern an uns
 selber glauben möchten.
 
   
@@ -877,12 +877,12 @@ alles unbedingte Streben gehört in die Pathologie.
 
   
 
-144. Wer die Unfreiheit des Willens fühlt, ist geisteskrank: wer
-sie leugnet, ist dumm.
+144. Wer die Unfreiheit des Willens **fühlt**, ist geisteskrank: wer
+sie **leugnet**, ist dumm.
 
   
 
-145. Was aus Liebe gethan wird, das ist nicht moralisch, sondern
+145. Was aus Liebe gethan wird, das ist **nicht** moralisch, sondern
 religiös.
 
   
@@ -935,7 +935,7 @@ Wenn die Guten moralisiren, erregen sie Ekel: wenn die Bösen moralisiren, so er
   
 
 153. Nach dem Rausch des Sieges entsteht immer ein Gefühl des großen Verlustes: unser
-Feind, unser Feind ist todt! Wir beklagen selbst den Verlust eines Freundes nicht so tief
+Feind, **unser** Feind ist todt! Wir beklagen selbst den Verlust eines Freundes nicht so tief
 — und daher lauter!
 
   
@@ -946,7 +946,7 @@ Freunde hassen können.
   
 
 155. Es ist ein Fehler des Geschmacks, wenn der Mensch der Erkenntniß sich noch als
-„moralischer Mensch“ aufputzt: ihm soll man gerade ansehen, daß er die Moral „nicht
+„moralischer Mensch“ aufputzt: ihm soll man gerade **ansehen**, daß er die Moral „nicht
 nöthig hat“.
 
   
@@ -966,12 +966,12 @@ möchte.
   
 
 159. Der Irrsinn ist selten bei Einzelnen — aber bei Gruppen, Parteien, Völkern,
-Zeiten die Regel: — und deshalb redeten bisher die Historiker nicht vom Irrsinn. Aber
+Zeiten die **Regel**: — und deshalb redeten bisher die Historiker nicht vom Irrsinn. Aber
 irgend wann werden die Ärzte Geschichte schreiben.
 
   
 
-160. Wenn wir lieben, schaffen wir Menschen nach dem Ebenbilde unseres Gottes: und dann erst hassen wir unseren Teufel von Grund aus.
+160. Wenn wir lieben, schaffen wir Menschen nach dem Ebenbilde **unseres** Gottes: und dann erst hassen wir **unseren** Teufel von Grund aus.
 
   
 
@@ -986,7 +986,7 @@ den Schreiber.
   
 
 163. Im Gebirge ist der nächste Weg von Gipfel zu Gipfel: aber du mußt dazu lange
-Beine haben! — Sentenzen sind Gipfel.
+Beine haben! — Sentenzen **sind** Gipfel.
 
   
 
@@ -1043,8 +1043,8 @@ Erkennende ungern ins Wasser.
 
   
 
-170. An die
-Sceptiker. — Wer allzu
+170. **An die**
+**Sceptiker. —** Wer allzu
 
 *Erratum:*zu  
 *lies:*allzu  
@@ -1061,7 +1061,7 @@ zuletzt auch auf
 
   
 
-171. Wer <auf> hohe Berge steigt, lacht über alle tragischen
+171. Wer &amp;lt;auf&amp;gt; hohe Berge steigt, lacht über alle tragischen
 Gebärden.
 
   
@@ -1086,7 +1086,7 @@ sie selber sterben.
   
 
 176. Unserem stärksten Triebe, dem Tyrannen in uns, unterwirft sich nicht nur unsere
-Vernunft, sondern auch unser Gewissen. Haben wir aber unter den Trieben keinen solchen Tyrannen, so bewerben sich die einzelnen Triebe ebenso um die Gunst der Vernunft als um die Gunst des
+Vernunft, sondern auch unser Gewissen. Haben wir aber unter den Trieben keinen solchen Tyrannen, so **bewerben** sich die einzelnen Triebe ebenso um die Gunst der Vernunft als um die Gunst des
 Gewissens —: und Vernunft und Gewissen werden fast souverän.
 
   
@@ -1100,7 +1100,7 @@ man Recht hat.
 
   
 
-179. Die Lüge kann die Menschenfreundlichkeit des Erkennenden
+179. Die Lüge **kann** die Menschenfreundlichkeit des Erkennenden
 sein.
 
   
@@ -1121,8 +1121,8 @@ wahrlich nicht eben ihr „Böses“!
   
 
 183. „Es ist nicht genug den Verbrecher zu strafen, wir sollten ihn auch noch mit uns
-versöhnen und ihn segnen: oder liebten wir ihn nicht, als wir ihm wehe thaten? Litten <wir
-nicht> daran, ihn als Werkzeug zur Abschreckung benutzen zu müssen?“
+versöhnen und ihn segnen: oder liebten wir ihn nicht, als wir ihm wehe thaten? Litten &amp;lt;wir
+nicht&amp;gt; daran, ihn als Werkzeug zur Abschreckung benutzen zu **müssen**?“
 
   
 
@@ -1131,7 +1131,7 @@ ein Natur-Gegensatz wie zwischen Hund und Katze zu Grunde liegt?
 
   
 
-185. Man muß vergelten, Gutes und Schlimmes: aber warum gerade
+185. Man **muß** vergelten, Gutes und Schlimmes: aber warum gerade
 an der Person, die uns Gutes oder Schlimmes that?
 
   
@@ -1173,8 +1173,8 @@ ein Stück Geist zu betteln.
 
   
 
-194. Ob du dich oder mich verräthst, du gehörst zu den Verräthern. An
-die Schriftsteller.
+194. Ob du dich oder mich verräthst, du gehörst zu den Verräthern. **An
+die Schriftsteller.**
 
   
 
@@ -1199,7 +1199,7 @@ hausen in ihm — und nun liebst du gar noch diese Schlangen um seinetwillen!
   
 
 199. Das Eisen haßt den Magneten, wenn der Magnet das Eisen nicht ganz an sich ziehen
-kann — und doch zieht.
+kann — und doch **zieht**.
 
   
 
@@ -1212,9 +1212,9 @@ Man haßt an seinem Nächsten, daß er nicht unser Ideal haben kann.
 
   
 
-201. Wenn wir unser selber satt werden und <uns> nicht mehr lieben
+201. Wenn wir unser selber satt werden und &amp;lt;uns&amp;gt; nicht mehr lieben
 mögen, so ist zur Kur die Nächstenliebe anzurathen: insofern die Nächsten sehr bald uns nöthigen werden, an
-unsere „Liebenswürdigkeit“ zu glauben.
+unsere „Liebenswürdigkeit“ zu **glauben**.
 
   
 
@@ -1252,7 +1252,7 @@ Begeisterndes.
 
   
 
-209. Armut an Liebe verkleidet sich gern als Entbehrung des Liebens-Würdigen.
+209. Armut an Liebe verkleidet sich gern als Entbehrung des Liebens-**Würdigen**.
 
   
 
@@ -1276,8 +1276,8 @@ beleidigen.
 
   
 
-213. Nach einem Zwiespalt.
-— „Man mag mir sagen, was man will, um mir wehe zu thun: man kennt mich zu wenig, um zu
+213. **Nach einem Zwiespalt.**
+**—** „Man mag mir sagen, was man will, um mir wehe zu thun: man kennt mich zu wenig, um zu
 wissen, was mir am meisten wehe thut.“
 
   
@@ -1308,8 +1308,8 @@ sein oder gewesen sein — die Schweine der Circe.
 
   
 
-219. Herzensbedürfnisse.
-— Die Thiere, welche eine Brunstzeit haben, verwechseln nicht so leicht ihr Herz und ihre
+219. **Herzensbedürfnisse.**
+**—** Die Thiere, welche eine Brunstzeit haben, verwechseln nicht so leicht ihr Herz und ihre
 Begierde: wie es die Menschen und namentlich die Weibchen thun.
 
   
@@ -1367,7 +1367,7 @@ mit dem Ekel vor dem Laster wächst — und niemals von ihm überwachsen wird.
   
 
 229. Man hat schlecht dem Leben zugeschaut, wenn man noch nicht die Hand gesehen hat,
-die auf eine schonende Weise — tödten wollte.
+die auf eine **schonende** Weise — tödten wollte.
 
   
 
@@ -1401,7 +1401,7 @@ nennt ihn immer einen Erkennenden. Aber Freiheit vom Fieber ist noch nicht Erken
 
   
 
-234. „Wo ist ein Meer, in dem man wirklich noch ertrinken kann?
+234. „Wo ist ein Meer, in dem man wirklich noch **ertrinken** kann?
 nämlich ein Mensch!“ — dieser Schrei klingt durch unsere Zeit.
 
   
@@ -1422,7 +1422,7 @@ deren Wege geräth, so macht er plötzlich einmal Halt und läuft fort — in di
   
 
 237. Im Kampfe giebt man wohl sein Leben dran; aber der Siegende ist versucht, sein
-Leben wegzuwerfen. In jedem Sieg ist Verachtung des Lebens.
+Leben **wegzuwerfen**. In jedem Sieg ist Verachtung des Lebens.
 
   
 
@@ -1431,8 +1431,8 @@ zwischen Mensch und Mensch treibt mich in die Einsamkeit.“
 
   
 
-Unbezwingliches Bedürfniß nach etwas und zugleich Ekel davor — das macht das Gefühl des
-Lasterhaften.
+Unbezwingliches Bedürfniß nach etwas und zugleich Ekel davor — das macht das **Gefühl des
+Lasterhaften**.
 
   
 
@@ -1472,11 +1472,11 @@ Liebe die größte aller Qualen?“ Deshalb muß der Mensch überwunden werden.
 
 246. Hast du die dumpfe Gleichgültigkeit des Negers gesehen, mit der er seine
 schweren inneren Krankheiten aushält, während du durch dieselben fast zur Verzweiflung gebracht würdest: dies
-gibt dir zu denken, daß, abseits von dem oberen Zehntausend des Geistes, überhaupt in der Menschheit wenig Schmerz vorhanden ist.
+gibt dir zu denken, daß, abseits von dem oberen Zehntausend des Geistes, überhaupt in der Menschheit **wenig Schmerz** vorhanden ist.
 
   
 
-247. „Mein Glück beginnt, wenn ich mich unter mir, als ein Wesen
+247. „Mein Glück **beginnt**, wenn ich mich unter mir, als ein Wesen
 neben anderen Wesen, sehe.“
 
   
@@ -1497,17 +1497,17 @@ Widerhall der Zeitungen.
   
 
 251. Arme Künstler! Was verlangt denn das nervöse Gesindel von euch? Nicht auferbaut
-sondern umgeworfen will es werden!
+sondern **umgeworfen** will es werden!
 
   
 
-252. Nicht die Stärke, sondern die Andauer der hohen Empfindung
+252. Nicht die Stärke, sondern die **Andauer** der hohen Empfindung
 macht die hohen Menschen: sie sollen nicht mit den Menschen der moralischen Krämpfe verwechselt werden!
 
   
 
-253. Und nochmals.
-— Redlich gegen uns selber, und wer sonst uns Freund ist, muthig gegen den Feind,
+253. **Und nochmals.**
+**—** Redlich gegen uns selber, und wer sonst uns Freund ist, muthig gegen den Feind,
 großmüthig gegen die Besiegten, höflich gegen Alle.
 
   
@@ -1557,18 +1557,18 @@ Handlungen, — sondern an seiner Meinung über diese Handlungen.
   
 
 261. Wenn die Selbstsucht erst einmal größer klüger feiner erfinderischer geworden
-ist, wird die Welt „selbstloser“ aussehen.
+ist, wird die Welt „selbstloser“ **aussehen**.
 
   
 
 262. Wer das Auge des Denkers stark zu empfinden vermag, der hat dabei jenen
 schrecklichen Eindruck, welchen jene Thiere machen, deren Auge sich langsam wie an einem Stiele aus dem Kopfe
-herausschiebt und um sich blickt.
+**herausschiebt** und um sich blickt.
 
   
 
 263. Auch der Heilige bedarf der Vernichtung der Moral: damit er thun kann, wozu er
-Lust hat.
+**Lust** hat.
 
   
 
@@ -1587,7 +1587,7 @@ Meere der Liebe soll aller Trieb zur Vergeltung ertrunken sein.
   
 
 267. Wie wolltet ihr gegen mich gerecht sein? — sagte der Heilige. Ich erwähle eure
-Ungerechtigkeit als den mir angemessenen Theil.
+Ungerechtigkeit als den **mir** angemessenen Theil.
 
   
 
@@ -1650,7 +1650,7 @@ giebt es kein Wollen.
 
 278. Immer noch fehlt der umgekehrte La Rochefoucauld: der, welcher zeigt, wie die
 Eitelkeit und Selbstsucht der Guten gewisse Eigenschaften des Menschen verrufen und endlich böse und schädlich
-— gemacht hat.
+— **gemacht hat**.
 
   
 
@@ -1678,7 +1678,7 @@ auch der Verächter ist: er mag sich also als Verächter achten
 282. So du weißt, was du thust, bist du selig. So du es aber nicht weißt, bist du
 verflucht und ein Frevler am Gesetz
 
-*Erratum:*<Gesetz>  
+*Erratum:*&amp;lt;Gesetz&amp;gt;  
 *lies:*Gesetz  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -1693,7 +1693,7 @@ Resultat eines verfeinerten Geschmacks — als eines verdorbenen Geschmacks sein
   
 
 284. „Wille zur Wahrheit!“ Reden wir nicht mehr so einfältig und großthuerisch! Wir
-wollen die Welt uns denkbar, womöglich sichtbar machen — ja machen! — Alle Physik ist auf
+wollen die Welt uns denkbar, womöglich sichtbar machen — ja **machen**! — Alle Physik ist auf
 Sichtbar-Machung aus.
 
   
@@ -1706,7 +1706,7 @@ das
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  ist Mann und Weib; zwischen ihnen handelt es sich immer um Liebe,
-Zeugung, Schwangerschaft. Und wohlgemerkt, das Herz ist hierbei der Mann, und der Kopf das Weib!
+Zeugung, Schwangerschaft. Und wohlgemerkt, das **Herz** ist hierbei der Mann, und der **Kopf** das Weib!
 
   
 
@@ -1715,7 +1715,7 @@ sie zärtlich und neckisch ist und sie an den Ohren zupft! — Aber ihr Plumpen 
 
   
 
-287. „Die Liebe Gottes zu den Menschen ist seine Hölle“ — sagte
+287. „Die Liebe Gottes zu den Menschen ist **seine** Hölle“ — sagte
 der Teufel. „Wie kann man sich aber auch in die Menschen verlieben!“
 
   
@@ -1750,7 +1750,7 @@ alles Werdende!“
   
 
 293. Die Liebe zum Leben ist beinahe der Gegensatz der Liebe zum Lang-Leben. Alle
-Liebe denkt an den Augenblick und die Ewigkeit — aber nie an „die Länge“.
+Liebe denkt an den Augenblick und die Ewigkeit — aber **nie** an „die Länge“.
 
   
 
@@ -1768,17 +1768,17 @@ stecken.
 296. Das Verständlichste an der Sprache ist nicht das Wort selber, sondern Ton,
 Stärke, Modulation, Tempo, mit denen eine Reihe von Worten gesprochen werden — kurz die Musik hinter den
 Worten, die Leidenschaft hinter dieser Musik, die Person hinter dieser Leidenschaft: alles das also, was nicht
-geschrieben werden kann. Deshalb ist es nichts mit Schriftstellerei.
+**geschrieben** werden kann. Deshalb ist es nichts mit Schriftstellerei.
 
   
 
-297. Gang und Gangart.
-— Ich habe gehen gelernt: seitdem lasse ich mich laufen.
+297. **Gang und Gangart.**
+**—** Ich habe gehen **gelernt**: seitdem lasse ich mich laufen.
 
   
 
-298. Der freie Geist. — Wer fliegen kann, weiß daß er sich zum
-Fortfliegen nicht erst stoßen lassen muß; wie alle ihr festgesessenen Geister es nöthig
+298. **Der freie Geist. —** Wer fliegen kann, weiß daß er sich zum
+Fortfliegen nicht erst **stoßen** lassen muß; wie alle ihr festgesessenen Geister es nöthig
 habt, um überhaupt „fort zu kommen“.
 
   
@@ -1809,8 +1809,8 @@ Charakter, namentlich wenn man keinen hat“ — sagte Timon.
 
   
 
-303. „Du kennst die W<eiber> nicht: wie kommt es, daß du bisweilen über
-sie recht hast?“ — Bei den W<eibern> ist kein Ding unmöglich.
+303. „Du kennst die W&amp;lt;eiber&amp;gt; nicht: wie kommt es, daß du bisweilen über
+sie recht hast?“ — Bei den W&amp;lt;eibern&amp;gt; ist kein Ding unmöglich.
 
   
 
@@ -1883,7 +1883,7 @@ wiedergefunden haben
   
 
 314. Jetzt erst bin ich einsam: ich verlangte nach Menschen, ich suchte nach Menschen
-— ich fand immer nur mich — und nach mir verlangt mich nicht mehr!
+— ich fand immer nur **mich** — und nach mir verlangt mich nicht mehr!
 
   
 
@@ -1942,7 +1942,7 @@ Unersetzbares.
 
   
 
-<323.> Meine Liebe zum Menschen hat Ebbe und Fluth: und jeder einzelne
+&amp;lt;323.&amp;gt; Meine Liebe zum Menschen hat Ebbe und Fluth: und jeder einzelne
 geliebte Mensch ist für diese Liebe nur eine Gelegenheits-Ursache. Dies zu erkennen betrübt.
 
   
@@ -1974,7 +1974,7 @@ Statistik.
   
 
 326. Die Unschuld des Egoismus ist dem Kinde eigen: und so ihr nicht werdet wie die
-Kinder, werdet ihr nie in dies Himmelreich kommen.
+Kinder, werdet ihr nie in **dies** Himmelreich kommen.
 
   
 
@@ -2028,23 +2028,23 @@ oder Freund ist.
 
   
 
-333. Du sagst „ich liebe mich“, „ich verachte mich“, „ich bedaure mich“ — mein Freund und Gottesleugner, ich will dir dein
-„Ich“ nicht streitig machen, aber dies dein Mich ist ebenso erdichtet und erfunden, wie
+333. Du sagst „ich liebe **mich**“, „ich verachte **mich**“, „ich bedaure **mich**“ — mein Freund und Gottesleugner, ich will dir dein
+„Ich“ nicht streitig machen, aber dies dein **Mich** ist ebenso erdichtet und erfunden, wie
 irgend ein Gott es ist — du mußt es auch leugnen.
 
   
 
 334. Mitleid und zartes Gefühl für den Nächsten unter die Moral (oder gar als die
-Moral) zu rechnen, ist ein Zeichen von Eitelkeit, vorausgesetzt daß man selber von Natur
+Moral) zu rechnen, ist ein Zeichen von Eitelkeit, **vorausgesetzt** daß man selber von Natur
 mitleidig und zartfühlend ist, — also ein Mangel an Stolz und Vornehmheit der Seele.
 
   
 
 Der Cultus des Mitleidens ist
-nur anständig
+nur **anständig**
 
-*Erratum:*unanständig  
-*lies:*nur anständig  
+*Erratum:***unanständig**  
+*lies:*nur **anständig**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  für
@@ -2091,7 +2091,7 @@ immer nur unseren Geschmack — was auch wider allen guten Geschmack geht.
   
 
 343. Der Mensch allein widerstrebt der Richtung der Gravitation: er möchte beständig
-nach oben — fallen.
+nach **oben** — fallen.
 
   
 
@@ -2117,7 +2117,7 @@ erschüttert.
   
 
 348. Ich soll vergeben? Aber ich mache dir nicht zum Vorwurfe, was du dir vorwirfst:
-wie könnte ich dir also vergeben?
+wie **könnte** ich dir also vergeben?
 
   
 
@@ -2214,7 +2214,7 @@ so geantwortet?
 
   
 
-362. Auch bei seinem Hunger nach Menschen sucht man vor Allem eine bequeme Nahrung, wenn sie auch nur wenig nahrhaft ist: gleich den Kartoffeln.
+362. Auch bei seinem Hunger nach Menschen sucht man vor Allem eine **bequeme** Nahrung, wenn sie auch nur wenig nahrhaft ist: gleich den Kartoffeln.
 
   
 
@@ -2255,7 +2255,7 @@ lange geliebt werden.
 
   
 
-In der Art, wie und was man ehrt, zieht man immer eine Distanz um sich.
+In der Art, wie und was man ehrt, **zieht** man immer eine Distanz um sich.
 
   
 
@@ -2312,11 +2312,11 @@ Interpretation gewisser Phänomene (— eine irrthümliche Interpretation!)
 
   
 
-375. Der Verbrecher ist gewöhnlich seiner That nicht gewachsen, er widerruft und verleumdet sie.
+375. Der Verbrecher ist gewöhnlich seiner That nicht gewachsen, er widerruft und **verleumdet** sie.
 
   
 
-376. „Lieber zu Bett liegen und sich krank fühlen, als etwas thun müssen“ — nach diesem heimlichen Grundsatze leben alle Selbstquäler.
+376. „Lieber zu Bett liegen und sich krank fühlen, als etwas **thun** müssen“ — nach diesem heimlichen Grundsatze leben alle Selbstquäler.
 
   
 
@@ -2360,7 +2360,7 @@ Starken.
 
   
 
-382. „Ich liebe sie und deshalb wünsche ich, daß sie liebt —
+382. „Ich liebe sie und **deshalb** wünsche ich, daß sie liebt —
 aber warum gerade mich? ich liebe mich selber nicht genug dazu“ — so spricht die göttliche Liebe aus dem
 Manne.
 
@@ -2408,7 +2408,7 @@ großen Leiden sollte also eine Forderung der Selbstsucht sein.
   
 
 390. Ein bezauberndes Werk! Aber wie unausstehlich, daß sein Schöpfer uns immer daran
-erinnert, es sei sein Werk. Weiß er denn nicht, daß „der Vater“ immer eine komische
+erinnert, es sei **sein** Werk. Weiß er denn nicht, daß „der Vater“ immer eine komische
 Person ist?
 
   
@@ -2427,10 +2427,10 @@ Genesung.
 
   
 
-394. Der M<ensch> ist das Thier mit rothen Backen: er hat sich allzu oft zu schämen gehabt.
+394. Der M&amp;lt;ensch&amp;gt; ist das Thier mit rothen Backen: er hat sich allzu oft zu schämen gehabt.
 
 *Erratum:*394.  
-*lies:*394. Der M<ensch> ist das Thier mit rothen Backen: er hat sich allzu oft zu schämen gehabt.  
+*lies:*394. Der M&amp;lt;ensch&amp;gt; ist das Thier mit rothen Backen: er hat sich allzu oft zu schämen gehabt.  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  „Ich bin zum Schauen und nicht zum Glauben vorherbestimmt, alle Gläubigen sind mir etwas Fremdes und Lärmendes.“
@@ -2512,7 +2512,7 @@ genug: man kann ja nicht leicht weniger von den Menschen wollen als wenn man nur
 
   
 
-406. Faust, die Tragödie der Erkenntniß? Wirklich? Ich lache
+406. Faust, die Tragödie der Erkenntniß? Wirklich? Ich **lache**
 über Faust.
 
   
@@ -2627,13 +2627,13 @@ bleibt und die ganze Pflanze leicht auszureißen ist.
 
   
 
-424. In einigen Menschen ist ein tiefes Bedürfniß nach ihrem
+424. In einigen Menschen ist ein tiefes Bedürfniß nach **ihrem**
 Feinde: bei ihm allein giebt es auch einen Haß auf den ersten Blick.
 
   
 
 425. Mein Auge sieht die Ideale anderer Menschen, und dieser Anblick entzückt mich
-oft: aber ihr Kurzsichtigen denkt dann, es seien meine Ideale!
+oft: aber ihr Kurzsichtigen denkt dann, es seien **meine** Ideale!
 
   
 
@@ -2761,7 +2761,7 @@ glühend.
 [3[2]](javascript:;)
 --------------------
 
-Pinie und Blitz.
+**Pinie und Blitz.**
 
   
 
@@ -2777,7 +2777,7 @@ Pinie und Blitz.
 [3[3]](javascript:;)
 --------------------
 
-Portofino.
+**Portofino.**
 
   
 
@@ -2789,7 +2789,7 @@ Portofino.
 [3[4]](javascript:;)
 --------------------
 
-Auf hohem Meere.
+**Auf hohem Meere.**
 
   
 
@@ -2799,3 +2799,5 @@ Auf hohem Meere.
 | \*\* |
 | Wen er liebt, den lockt er gerne  Weit hinaus aus Raum und Zeit — —  Über uns glänzt Stern bei Sterne,  Um uns braust die Ewigkeit. |
 | \*\* |
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

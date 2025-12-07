@@ -31,7 +31,7 @@ Wild warf sich mein Strom in Irrnisse und unwegsame Schluchten: aber wie sollte 
 nicht zum Meere käme?
 
 Einen See fand ich, einen Einsiedler und Selbstgenügsamen: aber mein Strom warf sich in diesen See
-<und> riß ihn mit sich zum Meere.
+&amp;lt;und&amp;gt; riß ihn mit sich zum Meere.
 
 [10[3]](javascript:;)
 ---------------------
@@ -40,17 +40,17 @@ wie Cäsar. unbeweglich.
 
 Ihr kennt mich nicht
 
-Ich gab euch die schwerste Last — daß die Schwächlinge daran zu Grunde gehen — zur Züchtung.
+Ich gab euch die schwerste Last — daß die Schwächlinge daran zu Grunde gehen — zur **Züchtung**.
 
 Nicht Mitleiden!
 
-ich will mich und euch formen und verwandeln
+ich will mich und euch formen und **verwandeln**
 
 wie ertrüge ich’s sonst!
 
-als mein Ich
+**als mein Ich**
 euch
- träumte
+**träumte**
 
 [10[4]](javascript:;)
 ---------------------
@@ -63,7 +63,7 @@ Die kleinste Kluft steht zwischen mir und dir: aber wer schlug je Brücken über
 
   
 
-Gespräch mit dem Höllenhund. (Vulkan)
+Gespräch mit dem **Höllenhund**. (Vulkan)
 
 Auf Asche schreite ich empor den Aschenberg gen Abend: lang und länger wird mein Schatten.
 
@@ -80,7 +80,7 @@ deine Knie beten an, aber das Herz weiß nichts davon.
 
   
 
-Erlösung zu 
+**Erlösung zu**
 bringen
 
   
@@ -103,7 +103,7 @@ Jesus — wie ein süßer Geruch.
 
   
 
-Die Erhaltung des Geschlechts ist garantirt: aber was liegt daran!
+Die Erhaltung des Geschlechts ist **garantirt**: aber was liegt daran!
 
   
 
@@ -178,7 +178,7 @@ Todtenkammern. Ich selber bin wie
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  der Sarg voller bunter Bosheiten und
-Engel<s>fratzen, ich selber bin das Gelächter des Lebens in mitternächtlicher Todtenkammer.
+Engel&amp;lt;s&amp;gt;fratzen, ich selber bin das Gelächter des Lebens in mitternächtlicher Todtenkammer.
 
 [10[9]](javascript:;)
 ---------------------
@@ -188,7 +188,7 @@ Gerechtigkeit geübt werde. (Dühring und der Corse)
 
   
 
-Wenn es Götter gäbe: wie hielte ich es aus, kein Gott zu sein! Aber es giebt keine
+**Wenn** es Götter gäbe: wie hielte ich es aus, kein Gott zu sein! Aber es giebt keine
 Götter.
 
 [10[10]](javascript:;)
@@ -209,15 +209,15 @@ gefangenen
 Und so geschah’s zuletzt auch: dreimal scholl Donner durch die Nacht zu mir, es heulten drei Mal die
 Gewölbe.
 
-Alpa, rief ich, Alpa, Alpa. W<er> t<rägt> <seine>
-A<sche> z<u> B<erge>? Welch überwundenes Leben kommt zu mir, dem
-Nacht- und Grabwä<chter>
+Alpa, rief ich, Alpa, Alpa. W&amp;lt;er&amp;gt; t&amp;lt;rägt&amp;gt; &amp;lt;seine&amp;gt;
+A&amp;lt;sche&amp;gt; z&amp;lt;u&amp;gt; B&amp;lt;erge&amp;gt;? Welch überwundenes Leben kommt zu mir, dem
+Nacht- und Grabwä&amp;lt;chter&amp;gt;
 
-*Erratum:*Grab<Hüter?>  
-*lies:*Grabwä<chter>  
+*Erratum:*Grab&amp;lt;Hüter?&amp;gt;  
+*lies:*Grabwä&amp;lt;chter&amp;gt;  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Als ich euch träumte, tr<äumte> ich meinen schwersten Traum.
+Als ich **euch** träumte, tr&amp;lt;äumte&amp;gt; ich meinen schwersten Traum.
 
 Also will ich euer Schrecken sein — eure Ohnmacht und euer Wachwerden.
 
@@ -234,12 +234,12 @@ Hochsommer
 
   
 
-Der Muth zum Fordern des Außerord<entlichen> ist seltener als der Muth, es zu leisten.
+Der Muth zum Fordern des Außerord&amp;lt;entlichen&amp;gt; ist seltener als der Muth, es zu leisten.
 
   
 
 Stärke und Länge des Entschlusses und Genügsamkeit (Einsicht in die irdische
-Unvollk<ommenheit>
+Unvollk&amp;lt;ommenheit&amp;gt;
 
 [10[12]](javascript:;)
 ----------------------
@@ -270,7 +270,7 @@ Trunken bin ich worden noch über häßliche Stimmen
 
 Alpa! schrie ich, so rede doch Stimme. Alpa! schrie meine Furcht und Sehnsucht aus mir.
 
-<Eine Stimme> Die von Menschen her ein Wind oder ein Vogel d<avon> zu mir trug.
+&amp;lt;Eine Stimme&amp;gt; Die von Menschen her ein Wind oder ein Vogel d&amp;lt;avon&amp;gt; zu mir trug.
 
   
 *lies:*
@@ -285,15 +285,15 @@ Alpa! schrie ich, so rede doch Stimme. Alpa! schrie meine Furcht und Sehnsucht a
 [10[13]](javascript:;)
 ----------------------
 
-Wie leicht nimmt man die Last einer Entschuldig<ung> auf sich, so lange man nichts zu
+Wie leicht nimmt man die Last einer Entschuldig&amp;lt;ung&amp;gt; auf sich, so lange man nichts zu
 verantworten hat.
 
-Aber ich bin verantwortlich.
+**Aber ich bin verantwortlich.**
 
 [10[14]](javascript:;)
 ----------------------
 
-Ihr Mitleidigen, wenn ihr euch aus der Höhe zu den Menschen herabwerft, was darf euch an
+Ihr Mitleidigen, wenn ihr euch aus der **Höhe** zu den Menschen herabwerft, was darf euch an
 gebrochenen Gliedmaßen gelegen sein!
 
 [10[15]](javascript:;)
@@ -334,7 +334,7 @@ Und am liebsten ist ihnen das Reich der Wolken: da setzen sie ihre bunten Bälge
 Götter,
 
 Und wenn sie in einem Garten liegen unter Bäumen oder an einem Felsenhang vor den Blumen einsam reden, so
-meinen sie ihre zärtl<iche> Empf<indung> sei Erkenntniß.
+meinen sie ihre zärtl&amp;lt;iche&amp;gt; Empf&amp;lt;indung&amp;gt; sei Erkenntniß.
 
 Sie glauben alle daß die Natur in sie verliebt sei und horchen
 
@@ -349,11 +349,11 @@ herum auf ihre Schmeichelreden.
 ----------------------
 
 Wagt doch euch selber zu glauben! Wie soll man euch sonst glauben! Wer sich selber nicht
-gl<aubt> lügt immer!
+gl&amp;lt;aubt&amp;gt; lügt immer!
 
   
 
-Wollen befreit! — so lehre ich euch F<reiheit> d<es> W<illen>s
+Wollen befreit! — so lehre ich euch F&amp;lt;reiheit&amp;gt; d&amp;lt;es&amp;gt; W&amp;lt;illen&amp;gt;s
 
 [10[19]](javascript:;)
 ----------------------
@@ -392,7 +392,7 @@ Noch rauscht die Wetterwolke, aber schon scheint die Sonne wieder.
 [10[22]](javascript:;)
 ----------------------
 
-Prophezeiung.
+**Prophezeiung.**
 
 Einst werde ich meinen Sommer haben: und es wird ein Sommer sein, wie in hohen Bergen.
 
@@ -416,23 +416,23 @@ Gleichniß.
 [10[25]](javascript:;)
 ----------------------
 
-der Übermensch völlig über die bisherige Tugend hinaus, hart aus Mitleid, — der
-Schaffende, der ohne Schonung seinen Marmor schlägt.
+der Übermensch völlig über die bisherige Tugend hinaus, **hart** aus Mitleid, — der
+Schaffende, der ohne **Schonung** seinen Marmor **schlägt**.
 
 Zur letzten Rede Zarathustra’s.
 
 [10[26]](javascript:;)
 ----------------------
 
-Das große Spiel zu spielen — die Existenz der Menschheit dransetzen, um viell<eicht> Etwas
+Das große Spiel zu spielen — die Existenz der Menschheit dransetzen, um viell&amp;lt;eicht&amp;gt; Etwas
 Höheres zu erreichen als die Erhaltung der Gattung.
 
-Z<ur> l<etzten> Red<e>
+Z&amp;lt;ur&amp;gt; l&amp;lt;etzten&amp;gt; Red&amp;lt;e&amp;gt;
 
 [10[27]](javascript:;)
 ----------------------
 
-ich erreiche euch spät — wie die griechischen Künstler
+ich erreiche euch **spät** — wie die griechischen Künstler
 jetzt erst
 
 *Erratum:*erst jetzt  
@@ -441,12 +441,12 @@ jetzt erst
 
 .
 
-Aesch<ylus>
+Aesch&amp;lt;ylus&amp;gt;
 
 [10[28]](javascript:;)
 ----------------------
 
-Gespräch mit dem Feuer-Hund
+Gespräch mit dem **Feuer-Hund**
 
 Hohn über sein Pathos
 
@@ -472,7 +472,7 @@ Dann sollt ihr mir schön heißen und recht gerüstet!
 [10[31]](javascript:;)
 ----------------------
 
-Nun ist die Zeit erhitzt, Brand ist ihre Luft — nun gehen alle nackend, Gute und Böse!
+Nun ist die Zeit erhitzt, Brand ist ihre Luft — nun gehen alle **nackend**, Gute und Böse!
 ein Fest des Erkennenden ist diese Welt ohne Kleider.
 
 Staaten zerbersten
@@ -483,11 +483,11 @@ alles wird sichtbar
 
 Taine
 
-Was macht die Erde beben: die stillen Worte der Heiligen
+Was macht die Erde **beben**: die stillen Worte der Heiligen
 
-Sturm-Bosheit.
+**Sturm-Bosheit.**
 
-Jauchzen, daß alles sichtbar wird und birst.
+**Jauchzen**, daß alles sichtbar wird und birst.
 
 Es wird mir so wohl!
 
@@ -512,8 +512,8 @@ wenn um mein Kiel der Weg — — —
 [10[34]](javascript:;)
 ----------------------
 
-Aber wie ich von euch aufwachte und zu mir kam, also sollt auch ihr von euch aufwachen —
-und zu mir kommen!
+Aber wie ich von euch aufwachte und zu mir kam, also sollt auch ihr **von euch aufwachen** —
+und zu **mir** kommen!
 
   
 
@@ -571,12 +571,12 @@ Ob ihr lehrt oder malt oder tönt oder „Schwarz auf Weiß“ spielt: — einen
 
 Mutter Eitelkeit
 
-Der Gegensatz solcher, die ihren Namen auswischen und ihren Kopf verstecken möchten — daß ihre Aufgabe sie nicht sehe und an ihnen vorüberlaufe.
+Der Gegensatz solcher, die ihren Namen auswischen und ihren Kopf verstecken möchten — daß ihre **Aufgabe** sie nicht sehe und an ihnen vorüberlaufe.
 
 [10[39]](javascript:;)
 ----------------------
 
-und nur wenn ich mir zur Last bin, fallt ihr mir schwer.
+und nur wenn ich **mir** zur Last bin, fallt ihr mir schwer.
 
 [10[40]](javascript:;)
 ----------------------
@@ -607,27 +607,27 @@ und nur wenn ich mir zur Last bin, fallt ihr mir schwer.
 | Von | den | Krämern |
 |  | den | Neugierigen |
 |  | | Genügsamen (Mystikern) |
-| von | der | Eitelkeit der Reinlichen |
-| Von | den | Götzen-Bildnern. |
-| Von | den | Schwarzkünstlern |
-|  | | Freisprechern. |
-| Versöhnern. Mittlern |
-| Es gab noch keine Übermenschen. | | |
+| von | der | **Eitelkeit der Reinlichen** |
+| Von | den | **Götzen-Bildnern**. |
+| Von | den | **Schwarzkünstlern** |
+|  | | **Freisprechern.** |
+| **Versöhnern. Mittlern** |
+| **Es gab noch keine Übermenschen.** | | |
 
 [10[42]](javascript:;)
 ----------------------
 
 |  |  |
 | --- | --- |
-| Lust | des Windes Mistral  der Pflugschaar  der Höhe  des Lebens  des Jahreszeitenwechsels (Ring) Organisch  des Stroms  der Morgenröthe  des reinen Himmels  Elektrizität. |
+| **Lust** | des Windes Mistral  der Pflugschaar  der Höhe  des Lebens  des Jahreszeitenwechsels (Ring) Organisch  des Stroms  der Morgenröthe  des reinen Himmels  Elektrizität. |
 | Lust als Mutter der Schmerzen. | |
 
 [10[43]](javascript:;)
 ----------------------
 
-Hauptlehre: die Natur ist wie der Mensch: irrt usw.
+Hauptlehre: die Natur ist **wie der Mensch**: **irrt** usw.
 
-Vermenschlichung der Natur.
+**Vermenschlichung** der Natur.
 
 [10[44]](javascript:;)
 ----------------------
@@ -644,25 +644,25 @@ Ich weiß das Wort und Zeichen des Übermenschen: aber ich zeige es nicht, ich z
 
   
 
-Was thatet ihr? („Fest des Lebens“) — — „So ist es aus dem Geiste Zarathustra’s“
+Was thatet **ihr**? („Fest des Lebens“) — — „So ist es aus dem Geiste Zarathustra’s“
 
   
 
-Die Lehre zuerst vom Gesindel gut geheißen, zuletzt von den
+Die Lehre zuerst vom Gesindel gut **geheißen**, zuletzt von den
 höchsten Menschen.
 
   
 
-Wir wollen wie Z<arathustra> leben, in Scham vor einer großen Wahrheit.
+Wir wollen wie Z&amp;lt;arathustra&amp;gt; leben, in Scham vor einer großen Wahrheit.
 
 [10[45]](javascript:;)
 ----------------------
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| I |  | Act. | Die Versuchungen. Er hält sich nicht für reif. (Ausgewähltes Volk)  Einsamkeit aus Scham vor sich |
+| I |  | Act. | Die Versuchungen. Er hält sich nicht für reif. (Ausgewähltes Volk)  **Einsamkeit aus Scham vor sich** |
 | II | Act. | Zarathustra incognito dem „großen Mittage“ beiwohnend  Wird erkannt |
-| III. | Act. | Katastrophe: alle fallen ab nach seiner Rede.  Er stirbt vor Schmerz. |
+| III. | Act. | Katastrophe: **alle** fallen ab nach **seiner** Rede.  Er stirbt vor Schmerz. |
 | IV | Act. | Leichenfeier  „Wir tödteten ihn“ |
 | überredet die Gründe | | | |
 
@@ -671,33 +671,35 @@ Wir wollen wie Z<arathustra> leben, in Scham vor einer großen Wahrheit.
 
 Zu 1). Er weigert sich. Endlich durch die Kinderchöre in Thränen.
 
-Ein Narr!
+Ein **Narr**!
 
 2 Könige führen den Esel.
 
 Zu 2) Als der Zug nicht weiß, wohin sich wenden, kommen die Gesandten aus der Peststadt. Entscheidung. Wie im
-Wald. Feuer auf dem Markte symbol<ische> Reinigung.
+**Wald**. Feuer auf dem Markte symbol&amp;lt;ische&amp;gt; Reinigung.
 
-Vernichtung der Großstadt das Ende
+Vernichtung der **Großstadt** das Ende
 
-ich will die Frommen verführen.
+ich will die **Frommen** verführen.
 
 [10[47]](javascript:;)
 ----------------------
 
 Zarathustra auf den Ruinen einer Kirche sitzend Act 4
 
-der Mildeste muß der Härteste werden — und daran zu Grunde gehen.
+**der Mildeste muß der Härteste werden — und daran zu Grunde gehen.**
 
 Mild gegen den Menschen, hart um des Übermenschen willen
 
 Collision.
 
-anscheinende Schwäche.
+anscheinende **Schwäche**.
 
-er prophezeit ihnen: die Lehre der Wiederkehr ist das Zeichen.
+er prophezeit ihnen: die Lehre der Wiederkehr ist das **Zeichen**.
 
-Er vergißt sich und lehrt aus dem Übermenschen heraus die Wiederkehr: der Übermensch hält
-sie aus und züchtigt damit.
+Er vergißt sich und lehrt aus dem **Übermenschen**heraus die Wiederkehr: der Übermensch **hält**
+**sie aus** und **züchtigt damit**.
 
 Bei der Rückkehr aus der Vision stirbt er daran
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

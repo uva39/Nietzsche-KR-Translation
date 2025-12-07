@@ -45,7 +45,7 @@ Und jüngst hörte ich ihn diess Wort sagen: „Gott ist todt; an seinem Mitleid
 
   
 
-Also sprach Zarathustra 2 p. 111
+**Also sprach Zarathustra 2** p. 111
 
 [Das Honig-Opfer.](javascript:;)
 --------------------------------
@@ -56,7 +56,7 @@ Also sprach Zarathustra 2 p. 111
 
 „Oh Zarathustra, sagten sie, schaust du wohl aus nach deinem Glücke?“ — „Was liegt am Glücke! antwortete er, ich trachte lange nicht mehr nach Glücke, ich trachte nach meinem Werke.“ — „Oh Zarathustra, redeten die Thiere abermals, Das sagst du als Einer, der des Guten übergenug hat. Liegst du nicht in einem himmelblauen See von Glück?“ — „Ihr Schalks-Narren, antwortete Zarathustra und lächelte, wie gut wähltet ihr das Gleichniss! Aber ihr wisst auch, dass mein Glück schwer ist und nicht wie eine flüssige Wasserwelle: es drängt mich und will nicht von mir und thut gleich geschmolzenem Peche.“ —
 
-Da giengen die Thiere wieder nachdenklich um ihn herum und stellten sich dann abermals vor ihn hin. „Oh Zarathustra, sagten sie, daher also kommt es, dass du selber immer gelber und dunkler wirst, obschon dein Haar weiss und flächsern aussehen will? Siehe doch, du sitzest in deinem Peche!“ — „Was sagt ihr da, meine Thiere, sagte Zarathustra und lachte dazu, wahrlich, ich lästerte als ich von Peche sprach. Wie mir geschieht, so geht es allen Früchten, die reif werden. Es ist der Honig in meinen Adern, der mein Blut dicker und auch meine Seele stiller macht.“ — „So wird es sein, oh Zarathustra, antworteten die Thiere und drängten sich an ihn; willst du aber nicht heute auf einen hohen Berg steigen? Die Luft ist rein, und man sieht heute mehr von der Welt als jemals.“ — „Ja, meine Thiere, antwortete er, ihr rathet trefflich und mir nach dem Herzen: ich will heute auf einen hohen Berg steigen! Aber sorgt, dass dort Honig mir zur Hand sei, gelber, weisser, guter, eisfrischer Waben-Goldhonig. Denn wisset, ich will droben das Honig-Opfer bringen.“ —
+Da giengen die Thiere wieder nachdenklich um ihn herum und stellten sich dann abermals vor ihn hin. „Oh Zarathustra, sagten sie, **daher** also kommt es, dass du selber immer gelber und dunkler wirst, obschon dein Haar weiss und flächsern aussehen will? Siehe doch, du sitzest in deinem Peche!“ — „Was sagt ihr da, meine Thiere, sagte Zarathustra und lachte dazu, wahrlich, ich lästerte als ich von Peche sprach. Wie mir geschieht, so geht es allen Früchten, die reif werden. Es ist der **Honig** in meinen Adern, der mein Blut dicker und auch meine Seele stiller macht.“ — „So wird es sein, oh Zarathustra, antworteten die Thiere und drängten sich an ihn; willst du aber nicht heute auf einen hohen Berg steigen? Die Luft ist rein, und man sieht heute mehr von der Welt als jemals.“ — „Ja, meine Thiere, antwortete er, ihr rathet trefflich und mir nach dem Herzen: ich will heute auf einen hohen Berg steigen! Aber sorgt, dass dort Honig mir zur Hand sei, gelber, weisser, guter, eisfrischer Waben-Goldhonig. Denn wisset, ich will droben das Honig-Opfer bringen.“ —
 
 Als Zarathustra aber oben auf der Höhe war, sandte er die Thiere heim, die ihn geleitet hatten, und fand, dass er nunmehr allein sei: — da lachte er aus ganzem Herzen, sah sich um und sprach also:
 
@@ -72,17 +72,17 @@ Und als ich nach Honig begehrte, begehrte ich nur nach Köder und süssem Seime 
 
 — ein Meer voll bunter Fische und Krebse, nach dem es auch Götter gelüsten möchte, dass sie an ihm zu Fischern würden und zu Netz-Auswerfern: so reich ist die Welt an Wunderlichem, grossem und kleinem!
 
-Sonderlich die Menschen-Welt, das Menschen-Meer: — nach dem werfe ich nun meine goldene Angelruthe aus und spreche: thue dich auf, du Menschen-Abgrund!
+Sonderlich die Menschen-Welt, das Menschen-Meer: — nach **dem** werfe ich nun meine goldene Angelruthe aus und spreche: thue dich auf, du Menschen-Abgrund!
 
 Thue dich auf und wirf mir deine Fische und Glitzer-Krebse zu! Mit meinem besten Köder ködere ich mir heute die wunderlichsten Menschen-Fische!
 
 — mein Glück selber werfe ich hinaus in alle Weiten und Fernen, zwischen Aufgang, Mittag und Niedergang, ob nicht an meinem Glücke viele Menschen-Fische zerrn und zappeln lernen.
 
-Bis sie, anbeissend an meine spitzen verborgenen Haken, hinauf müssen in meine Höhe, die buntesten Abgrund-Gründlinge zu dem boshaftigsten aller Menschen-Fischfänger.
+Bis sie, anbeissend an meine spitzen verborgenen Haken, hinauf müssen in **meine** Höhe, die buntesten Abgrund-Gründlinge zu dem boshaftigsten aller Menschen-Fischfänger.
 
-Der nämlich bin ich von Grund und Anbeginn, ziehend, heranziehend, hinaufziehend, aufziehend, ein Zieher, Züchter und Zuchtmeister, der sich nicht umsonst einstmals zusprach: „Werde, der du bist!“
+**Der** nämlich bin ich von Grund und Anbeginn, ziehend, heranziehend, hinaufziehend, aufziehend, ein Zieher, Züchter und Zuchtmeister, der sich nicht umsonst einstmals zusprach: „Werde, der du bist!“
 
-Also mögen nunmehr die Menschen zu mir hinauf kommen: denn noch warte ich der Zeichen, dass es Zeit sei zu meinem Niedergange, noch gehe ich selber nicht unter, wie ich muss, unter Menschen.
+Also mögen nunmehr die Menschen zu mir **hinauf** kommen: denn noch warte ich der Zeichen, dass es Zeit sei zu meinem Niedergange, noch gehe ich selber nicht unter, wie ich muss, unter Menschen.
 
 Dazu warte ich hier, listig und spöttisch auf hohen Bergen, kein Ungeduldiger, kein Geduldiger, vielmehr Einer, der auch die Geduld verlernt hat, — weil er nicht mehr „duldet.“
 
@@ -106,7 +106,7 @@ Wie ferne mag solches „Ferne“ sein? was geht’s mich an! Aber darum steht e
 
 Hier lache, lache, meine helle heile Bosheit! Von hohen Bergen wirf hinab dein glitzerndes Spott-Gelächter! Ködere mit deinem Glitzern mir die schönsten Menschen-Fische!
 
-Und was in allen Meeren mir zugehört, mein An-und-für-mich in allen Dingen — Das fische mir heraus, Das führe zu mir herauf: dess warte ich, der boshaftigste aller Fischfänger.
+Und was in allen Meeren mir zugehört, mein An-und-für-mich in allen Dingen — **Das** fische mir heraus, **Das** führe zu mir herauf: dess warte ich, der boshaftigste aller Fischfänger.
 
 Hinaus, hinaus, meine Angel! Hinein, hinab, Köder meines Glücks! Träufle deinen süssesten Thau, mein Herzens-Honig! Beisse, meine Angel, in den Bauch aller schwarzen Trübsal!
 
@@ -131,15 +131,15 @@ Der Wahrsager, der es wahrgenommen, was sich in Zarathustra’s Seele zutrug, wi
 
 „Du schlimmer Verkündiger, sprach endlich Zarathustra, das ist ein Nothschrei und der Schrei eines Menschen, der mag wohl aus einem schwarzen Meere kommen. Aber was geht mich Menschen-Noth an! Meine letzte Sünde, die mir aufgespart blieb, — weisst du wohl, wie sie heisst?“
 
-— „Mitleiden! antwortete der Wahrsager aus einem überströmenden Herzen und hob beide Hände empor — oh Zarathustra, ich komme, dass ich dich zu deiner letzten Sünde verführe!“ —
+— „**Mitleiden!** antwortete der Wahrsager aus einem überströmenden Herzen und hob beide Hände empor — oh Zarathustra, ich komme, dass ich dich zu deiner letzten Sünde verführe!“ —
 
 Und kaum waren diese Worte gesprochen, da erscholl der Schrei abermals, und länger und ängstlicher als vorher, auch schon viel näher. „Hörst du? Hörst du, oh Zarathustra? rief der Wahrsager, dir gilt der Schrei, dich ruft er: komm, komm, komm, es ist Zeit, es ist höchste Zeit!“ —
 
 Zarathustra schwieg hierauf, verwirrt und erschüttert; endlich fragte er, wie Einer, der bei sich selber zögert: „Und wer ist das, der dort mich ruft?“
 
-„Aber du weisst es ja, antwortete der Wahrsager heftig, was verbirgst du dich? Der höhere Mensch ist es, der nach dir schreit!“
+„Aber du weisst es ja, antwortete der Wahrsager heftig, was verbirgst du dich? **Der höhere Mensch** ist es, der nach dir schreit!“
 
-„Der höhere Mensch? schrie Zarathustra von Grausen erfasst: was will der? Was will der? Der höhere Mensch! Was will der hier?“ — und seine Haut bedeckte sich mit Schweiss.
+„Der höhere Mensch? schrie Zarathustra von Grausen erfasst: was will **der**? Was will **der**? Der höhere Mensch! Was will der hier?“ — und seine Haut bedeckte sich mit Schweiss.
 
 Der Wahrsager aber antwortete nicht auf die Angst Zarathustra’s, sondern horchte und horchte nach der Tiefe zu. Als es jedoch lange Zeit dort stille blieb, wandte er seinen Blick zurück und sahe Zarathustra stehn und zittern.
 
@@ -147,7 +147,7 @@ Der Wahrsager aber antwortete nicht auf die Angst Zarathustra’s, sondern horch
 
 Aber wenn du auch vor mir tanzen wolltest und alle deine Seitensprünge springen: Niemand soll mir doch sagen dürfen: „Siehe, hier tanzt der letzte frohe Mensch!“
 
-Umsonst käme Einer auf diese Höhe, der den hier suchte: Höhlen fände er wohl und Hinter-Höhlen, Verstecke für Versteckte, aber nicht Glücks-Schachte und Schatzkammern und neue Glücks-Goldadern.
+Umsonst käme Einer auf diese Höhe, der **den** hier suchte: Höhlen fände er wohl und Hinter-Höhlen, Verstecke für Versteckte, aber nicht Glücks-Schachte und Schatzkammern und neue Glücks-Goldadern.
 
 Glück — wie fände man wohl das Glück bei solchen Vergrabenen und Einsiedlern! Muss ich das letzte Glück noch auf glückseligen Inseln suchen und ferne zwischen vergessenen Meeren?
 
@@ -155,15 +155,15 @@ Aber Alles ist gleich, es lohnt sich Nichts, es hilft kein Suchen, es giebt auch
 
   
 
-Also seufzte der Wahrsager; bei seinem letzten Seufzer aber wurde Zarathustra wieder hell und sicher, gleich Einem, der aus einem tiefen Schlunde an’s Licht kommt. „Nein! Nein! Drei Mal Nein! rief er mit starker Stimme und strich sich den Bart — Das weiss ich besser! Es giebt noch glückselige Inseln! Stille davon, du seufzender Trauersack!
+Also seufzte der Wahrsager; bei seinem letzten Seufzer aber wurde Zarathustra wieder hell und sicher, gleich Einem, der aus einem tiefen Schlunde an’s Licht kommt. „Nein! Nein! Drei Mal Nein! rief er mit starker Stimme und strich sich den Bart — **Das** weiss ich besser! Es giebt noch glückselige Inseln! Stille **davon**, du seufzender Trauersack!
 
-Höre davon auf zu plätschern, du Regenwolke am Vormittag! Stehe ich denn nicht schon da, nass von deiner Trübsal und begossen wie ein Hund?
+Höre **davon** auf zu plätschern, du Regenwolke am Vormittag! Stehe ich denn nicht schon da, nass von deiner Trübsal und begossen wie ein Hund?
 
-Nun schüttle ich mich und laufe dir davon, dass ich wieder trocken werde: dess darfst du nicht Wunder haben! Dünke ich dir unhöflich? Aber hier ist mein Hof.
+Nun schüttle ich mich und laufe dir davon, dass ich wieder trocken werde: dess darfst du nicht Wunder haben! Dünke ich dir unhöflich? Aber hier ist **mein** Hof.
 
-Was aber deinen höheren Menschen angeht: wohlan! ich suche ihn flugs in jenen Wäldern: daher kam sein Schrei. Vielleicht bedrängt ihn da ein böses Thier.
+Was aber deinen höheren Menschen angeht: wohlan! ich suche ihn flugs in jenen Wäldern: **daher** kam sein Schrei. Vielleicht bedrängt ihn da ein böses Thier.
 
-Er ist in meinem Bereiche: darin soll er mir nicht zu Schaden kommen! Und wahrlich, es giebt viele böse Thiere bei mir.“ —
+Er ist in **meinem** Bereiche: darin soll er mir nicht zu Schaden kommen! Und wahrlich, es giebt viele böse Thiere bei mir.“ —
 
 Mit diesen Worten wandte sich Zarathustra zum Gehen. Da sprach der Wahrsager: „Oh Zarathustra, du bist ein Schelm!
 
@@ -214,11 +214,11 @@ Der Bauer ist heute der Beste; und Bauern-Art sollte Herr sein! Aber es ist das 
 
 Pöbel-Mischmasch: darin ist Alles in Allem durcheinander, Heiliger und Hallunke und Junker und Jude und jeglich Vieh aus der Arche Noäh.
 
-Gute Sitten! Alles ist bei uns falsch und faul. Niemand weiss mehr zu verehren: dem gerade laufen wir davon. Es sind süssliche zudringliche Hunde, sie vergolden Palmenblätter.
+Gute Sitten! Alles ist bei uns falsch und faul. Niemand weiss mehr zu verehren: **dem** gerade laufen wir davon. Es sind süssliche zudringliche Hunde, sie vergolden Palmenblätter.
 
 Dieser Ekel würgt mich, dass wir Könige selber falsch wurden, überhängt und verkleidet durch alten vergilbten Grossväter-Prunk, Schaumünzen für die Dümmsten und die Schlauesten, und wer heute Alles mit der Macht Schacher treibt!
 
-Wir sind nicht die Ersten — und müssen es doch bedeuten: dieser Betrügerei sind wir endlich satt und ekel geworden.
+Wir **sind** nicht die Ersten — und müssen es doch **bedeuten**: dieser Betrügerei sind wir endlich satt und ekel geworden.
 
 Dem Gesindel giengen wir aus dem Wege, allen diesen Schreihälsen und Schreib-Schmeissfliegen, dem Krämer-Gestank, dem Ehrgeiz-Gezappel, dem üblen Athem —: pfui, unter dem Gesindel leben,
 
@@ -232,7 +232,7 @@ Sofort erhob sich Zarathustra, der zu diesen Reden Ohren und Augen aufgesperrt h
 
 Ich bin Zarathustra, der einst sprach: „Was liegt noch an Königen!“ Vergebt mir, ich freute mich, als Ihr zu einander sagtet: „Was liegt an uns Königen!“
 
-Hier aber ist mein Reich und meine Herrschaft: was mögt Ihr wohl in meinem Reiche suchen? Vielleicht aber fandet Ihr unterwegs, was ich suche: nämlich den höheren Menschen.“
+Hier aber ist **mein** Reich und meine Herrschaft: was mögt Ihr wohl in meinem Reiche suchen? Vielleicht aber **fandet** Ihr unterwegs, was **ich** suche: nämlich den höheren Menschen.“
 
 Als Diess die Könige hörten, schlugen sie sich an die Brust und sprachen mit Einem Munde: „Wir sind erkannt!
 
@@ -276,7 +276,7 @@ Deine Feinde nämlich zeigten uns dein Bild in ihrem Spiegel: da blicktest du mi
 
 Aber was half’s! Immer wieder stachst du uns in Ohr und Herz mit deinen Sprüchen. Da sprachen wir endlich: was liegt daran, wie er aussieht!
 
-Wir müssen ihn hören, ihn, der lehrt „ihr sollt den Frieden lieben als Mittel zu neuen Kriegen, und den kurzen Frieden mehr als den langen!“
+Wir müssen ihn **hören**, ihn, der lehrt „ihr sollt den Frieden lieben als Mittel zu neuen Kriegen, und den kurzen Frieden mehr als den langen!“
 
 Niemand sprach je so kriegerische Worte: „Was ist gut? Tapfer sein ist gut. Der gute Krieg ist’s, der jede Sache heiligt.“
 
@@ -290,7 +290,7 @@ Wie sie seufzten, unsre Väter, wenn sie an der Wand blitzblanke ausgedorrte Sch
 
 Es ehrt meine Höhle, wenn Könige in ihr sitzen und warten wollen: aber, freilich, Ihr werdet lange warten müssen!
 
-Je nun! Was thut’s! Wo lernt man heute besser warten als an Höfen? Und der Könige ganze Tugend, die ihnen übrig blieb, — heisst sie heute nicht: Warten-können?“
+Je nun! Was thut’s! Wo lernt man heute besser warten als an Höfen? Und der Könige ganze Tugend, die ihnen übrig blieb, — heisst sie heute nicht: Warten-**können**?“
 
   
 
@@ -333,7 +333,7 @@ Wohlan! Dort hinauf geht der Weg zu Zarathustra’s Höhle: die ist nicht fern, 
 
 Es gieng dir schlimm, du Unseliger, in diesem Leben: erst biss dich das Thier, und dann — trat dich der Mensch!“ — —
 
-Als aber der Getretene den Namen Zarathustra’s hörte, verwandelte er sich. „Was geschieht mir doch! rief er aus, wer kümmert mich denn noch in diesem Leben, als dieser Eine Mensch, nämlich Zarathustra, und jenes Eine Thier, das vom Blute lebt, der Blutegel?
+Als aber der Getretene den Namen Zarathustra’s hörte, verwandelte er sich. „Was geschieht mir doch! rief er aus, **wer** kümmert mich denn noch in diesem Leben, als dieser Eine Mensch, nämlich Zarathustra, und jenes Eine Thier, das vom Blute lebt, der Blutegel?
 
 Des Blutegels halber lag ich hier an diesem Sumpfe wie ein Fischer, und schon war mein ausgehängter Arm zehn Mal angebissen, da beisst noch ein schönerer Igel nach meinem Blute, Zarathustra selber!
 
@@ -341,7 +341,7 @@ Oh Glück! Oh Wunder! Gelobt sei dieser Tag, der mich in diesen Sumpf lockte! Ge
 
 Also sprach der Getretene; und Zarathustra freute sich über seine Worte und ihre feine ehrfürchtige Art. „Wer bist du? fragte er und reichte ihm die Hand, zwischen uns bleibt Viel aufzuklären und aufzuheitern: aber schon, dünkt mich, wird es reiner heller Tag.“
 
-„Ich bin der Gewissenhafte des Geistes, antwortete der Gefragte, und in Dingen des Geistes nimmt es nicht leicht Einer strenger, enger und härter als ich, ausgenommen der, von dem ich’s lernte, Zarathustra selber.
+„Ich bin **der Gewissenhafte des Geistes**, antwortete der Gefragte, und in Dingen des Geistes nimmt es nicht leicht Einer strenger, enger und härter als ich, ausgenommen der, von dem ich’s lernte, Zarathustra selber.
 
 Lieber Nichts wissen, als Vieles halb wissen! Lieber ein Narr sein auf eigne Faust, als ein Weiser nach fremdem Gutdünken! Ich — gehe auf den Grund:
 
@@ -353,11 +353,11 @@ Lieber Nichts wissen, als Vieles halb wissen! Lieber ein Narr sein auf eigne Fau
 
 „Oh Zarathustra, antwortete der Getretene, das wäre ein Ungeheures, wie dürfte ich mich dessen unterfangen!
 
-Wess ich aber Meister und Kenner bin, das ist des Blutegels Hirn: — das ist meine Welt!
+Wess ich aber Meister und Kenner bin, das ist des Blutegels **Hirn**: — das ist **meine** Welt!
 
 Und es ist auch eine Welt! Vergieb aber, dass hier mein Stolz zu Worte kommt, denn ich habe hier nicht meines Gleichen. Darum sprach ich „hier bin ich heim.“
 
-Wie lange gehe ich schon diesem Einen nach, dem Hirn des Blutegels, dass die schlüpfrige Wahrheit mir hier nicht mehr entschlüpfe! Hier ist mein Reich!
+Wie lange gehe ich schon diesem Einen nach, dem Hirn des Blutegels, dass die schlüpfrige Wahrheit mir hier nicht mehr entschlüpfe! Hier ist **mein** Reich!
 
 — darob warf ich alles Andere fort, darob wurde mir alles, Andre gleich; und dicht neben meinem Wissen lagert mein schwarzes Unwissen.
 
@@ -365,7 +365,7 @@ Mein Gewissen des Geistes will es so von mir, dass ich Eins weiss und sonst Alle
 
 Wo meine Redlichkeit aufhört, bin ich blind und will auch blind sein. Wo ich aber wissen will, will ich auch redlich sein, nämlich hart, streng, eng, grausam, unerbittlich.
 
-Dass du einst sprachst, oh Zarathustra: „Geist ist das Leben, das selber in’s Leben schneidet,“ das führte und verführte mich zu deiner Lehre. Und, wahrlich, mit eignem Blute mehrte ich mir das eigne Wissen!“
+Dass **du** einst sprachst, oh Zarathustra: „Geist ist das Leben, das selber in’s Leben schneidet,“ das führte und verführte mich zu deiner Lehre. Und, wahrlich, mit eignem Blute mehrte ich mir das eigne Wissen!“
 
 — „Wie der Augenschein lehrt,“ fiel Zarathustra ein; denn immer noch floss das Blut an dem nackten Arme des Gewissenhaften herab. Es hatten nämlich zehn Blutegel sich in denselben eingebissen.
 
@@ -450,7 +450,7 @@ Nicht tödten willst du,
 
 Nur martern, martern?
 
-Wozu — mich martern,
+Wozu — **mich** martern,
 
 Du schadenfroher unbekannter Gott? —
 
@@ -476,7 +476,7 @@ Worauf doch eifersüchtig?
 
 Weg! Weg! Wozu die Leiter?
 
-Willst du hinein,
+Willst **du hinein**,
 
 In’s Herz,
 
@@ -518,11 +518,11 @@ Du Räuber hinter Wolken!
 
 Sprich endlich,
 
-Was willst du, Wegelagerer, von mir?
+Was willst du, Wegelagerer, von **mir**?
 
 Du Blitz-Verhüllter! Unbekannter! Sprich,
 
-Was willst du, unbekannter Gott? — —
+Was **willst** du, unbekannter Gott? — —
 
   
 
@@ -556,7 +556,7 @@ Und marterst mich, Narr, der du bist,
 
 Zermarterst meinen Stolz?
 
-Gieb Liebe mir — wer wärmt mich noch?
+Gieb **Liebe** mir — wer wärmt mich noch?
 
 Wer liebt mich noch? — gieb heisse Hände,
 
@@ -574,7 +574,7 @@ Gieb, ja ergieb,
 
 Grausamster Feind,
 
-Mir — dich! — —
+Mir — **dich**! — —
 
 Davon!
 
@@ -602,7 +602,7 @@ Zu dir den Lauf!
 
 Und meine letzte Herzens-Flamme —
 
-Dir glüht sie auf!
+**Dir** glüht sie auf!
 
 Oh komm zurück,
 
@@ -630,61 +630,61 @@ Aber auch du — gabst mir von dir keine kleine Probe,
 *lies:*Probe,  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- du bist hart, du weiser Zarathustra! Hart schlägst du zu mit deinen „Wahrheiten,“ dein Knüttel erzwingt von mir — diese Wahrheit!“
+ du bist **hart**, du weiser Zarathustra! Hart schlägst du zu mit deinen „Wahrheiten,“ dein Knüttel erzwingt von mir — **diese** Wahrheit!“
 
 — „Schmeichle nicht, antwortete Zarathustra, immer noch erregt und finsterblickend, du Schauspieler aus dem Grunde! Du bist falsch: was redest du — von Wahrheit!
 
-Du Pfau der Pfauen, du Meer der Eitelkeit, was spieltest du vor mir, du schlimmer Zauberer, an wen sollte ich glauben, als du in solcher Gestalt jammertest?“
+Du Pfau der Pfauen, du Meer der Eitelkeit, **was** spieltest du vor mir, du schlimmer Zauberer, an **wen** sollte ich glauben, als du in solcher Gestalt jammertest?“
 
-„Den Büsser des Geistes, sagte der alte Mann, den — spielte ich: du selber erfandest einst diess Wort —
+„**Den Büsser des Geistes**, sagte der alte Mann, **den** — spielte ich: du selber erfandest einst diess Wort —
 
 — den Dichter und Zauberer, der gegen sich selber endlich seinen Geist wendet, den Verwandelten, der an seinem bösen Wissen und Gewissen erfriert.
 
 Und gesteh es nur ein: es währte lange, oh Zarathustra, bis du hinter meine Kunst und Lüge kamst! Du
 
-*Erratum:*Du  
+*Erratum:***Du**  
 *lies:*Du  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- glaubtest an meine Noth, als du mir den Kopf mit beiden Händen hieltest, —
+**glaubtest** an meine Noth, als du mir den Kopf mit beiden Händen hieltest, —
 
 — ich hörte dich jammern „man hat ihn zu wenig geliebt, zu wenig geliebt!“ Dass ich dich soweit betrog, darüber frohlockte inwendig meine Bosheit.“
 
-„Du magst Feinere betrogen haben als mich, sagte Zarathustra hart. Ich bin nicht auf der Hut vor Betrügern, ich muss ohne Vorsicht sein: so will es mein Loos.
+„Du magst Feinere betrogen haben als mich, sagte Zarathustra hart. Ich bin nicht auf der Hut vor Betrügern, ich **muss** ohne Vorsicht sein: so will es mein Loos.
 
-Du aber — musst betrügen: so weit kenne ich dich! Du musst immer zwei- drei- vier- und fünfdeutig sein! Auch was du jetzt bekanntest, war mir lange nicht wahr und nicht falsch genung!
+Du aber — **musst** betrügen: so weit kenne ich dich! Du musst immer zwei- drei- vier- und fünfdeutig sein! Auch was du jetzt bekanntest, war mir lange nicht wahr und nicht falsch genung!
 
 Du schlimmer Falschmünzer, wie könntest du anders! Deine Krankheit würdest du noch schminken, wenn du dich deinem Arzte nackt zeigtest.
 
-So schminktest du eben vor mir deine Lüge, als du sprachst: „ich trieb’s also nur zum Spiele!“ Es war auch Ernst darin, du bist Etwas von einem Büsser des Geistes!
+So schminktest du eben vor mir deine Lüge, als du sprachst: „ich trieb’s also **nur** zum Spiele!“ Es war auch **Ernst** darin, du **bist** Etwas von einem Büsser des Geistes!
 
 Ich errathe dich wohl: du wurdest der Bezauberer Aller, aber gegen dich hast du keine Lüge und List mehr übrig, — du selber bist dir entzaubert!
 
 Du erntetest den Ekel ein, als deine Eine Wahrheit. Kein Wort ist mehr an dir ächt, aber dein Mund: nämlich der Ekel, der an deinem Munde klebt.“ — —
 
-— „Wer bist du doch! schrie hier der alte Zauberer mit einer trotzigen Stimme, wer darf also zu mir reden, dem Grössten, der heute lebt?“ — und ein grüner Blitz schoss aus seinem Auge nach Zarathustra. Aber gleich darauf verwandelte er sich und sagte traurig:
+— „Wer bist du doch! schrie hier der alte Zauberer mit einer trotzigen Stimme, wer darf also zu **mir** reden, dem Grössten, der heute lebt?“ — und ein grüner Blitz schoss aus seinem Auge nach Zarathustra. Aber gleich darauf verwandelte er sich und sagte traurig:
 
-„Oh Zarathustra, ich bin’s müde, es ekelt mich meiner Künste, ich bin nicht gross, was verstelle ich mich! Aber, du weisst es wohl — ich suchte nach Grösse!
+„Oh Zarathustra, ich bin’s müde, es ekelt mich meiner Künste, ich bin nicht **gross**, was verstelle ich mich! Aber, du weisst es wohl — ich suchte nach Grösse!
 
 Einen grossen Menschen wollte ich vorstellen und überredete Viele: aber diese Lüge gieng über meine Kraft. An ihr zerbreche ich.
 
-Oh Zarathustra, Alles ist Lüge an mir; aber dass ich zerbreche — diess mein Zerbrechen ist ächt!“ —
+Oh Zarathustra, Alles ist Lüge an mir; aber dass ich zerbreche — diess mein Zerbrechen ist **ächt**!“ —
 
 „Es ehrt dich, sprach Zarathustra düster und zur Seite niederblickend, es ehrt dich, dass du nach Grösse suchtest, aber es verräth dich auch. Du bist nicht gross.
 
-Du schlimmer alter Zauberer, das ist dein Bestes und Redlichstes, was ich an dir ehre, dass du deiner müde wurdest und es aussprachst: „ich bin nicht gross.“
+Du schlimmer alter Zauberer, **das** ist dein Bestes und Redlichstes, was ich an dir ehre, dass du deiner müde wurdest und es aussprachst: „ich bin nicht gross.“
 
-Darin ehre ich dich als einen Büsser des Geistes: und wenn auch nur für einen Hauch und Husch, diesen Einen Augenblick warst du — ächt.
+**Darin** ehre ich dich als einen Büsser des Geistes: und wenn auch nur für einen Hauch und Husch, diesen Einen Augenblick warst du — ächt.
 
-Aber sprich, was suchst du hier in meinen Wäldern und Felsen? Und wenn du mir dich in den Weg legtest, welche Probe wolltest du von mir? —
+Aber sprich, was suchst du hier in **meinen** Wäldern und Felsen? Und wenn du **mir** dich in den Weg legtest, welche Probe wolltest du von mir? —
 
-— wess versuchtest du mich?“ —
+— wess versuchtest du **mich**?“ —
 
 Also sprach Zarathustra, und seine Augen funkelten. Der alte Zauberer schwieg eine Weile, dann sagte er: „Versuchte ich dich? Ich — suche nur.
 
 Oh Zarathustra, ich suche einen Ächten, Rechten, Einfachen, Eindeutigen, einen Menschen aller Redlichkeit, ein Gefäss der Weisheit, einen Heiligen der Erkenntniss, einen grossen Menschen!
 
-Weisst du es denn nicht, oh Zarathustra? Ich suche Zarathustra.“
+Weisst du es denn nicht, oh Zarathustra? **Ich suche Zarathustra.**“
 
 — Und hier entstand ein langes Stillschweigen zwischen Beiden; Zarathustra aber versank tief hinein in sich selber, also dass er die Augen schloss. Dann aber, zu seinem Unterredner zurückkehrend, ergriff er die Hand des Zauberers und sprach, voller Artigkeit und Arglist:
 
@@ -698,9 +698,9 @@ So Manchen fand ich schon, der streckte und blähte sich, und das Volk schrie: �
 
 Zuletzt platzt ein Frosch, der sich zu lange aufblies: da fährt der Wind heraus. Einem Geschwollnen in den Bauch stechen, das heisse ich eine brave Kurzweil. Hört das, ihr Knaben!
 
-Diess Heute ist des Pöbels: wer weiss da noch, was gross, was klein ist! Wer suchte da mit Glück nach Grösse! Ein Narr allein: den Narren glückt’s.
+Diess Heute ist des Pöbels: wer **weiss** da noch, was gross, was klein ist! Wer suchte da mit Glück nach Grösse! Ein Narr allein: den Narren glückt’s.
 
-Du suchst nach grossen Menschen, du wunderlicher Narr? Wer lehrte’s dich? Ist heute dazu die Zeit? Oh du schlimmer Sucher, was — versuchst du mich?“ — —
+Du suchst nach grossen Menschen, du wunderlicher Narr? Wer **lehrte’s** dich? Ist heute dazu die Zeit? Oh du schlimmer Sucher, was — versuchst du mich?“ — —
 
   
 
@@ -717,7 +717,7 @@ Also sprach Zarathustra, getrösteten Herzens, und gieng lachend seines Wegs fü
 
 ---
 
-Nicht lange aber, nachdem Zarathustra sich von dem Zauberer losgemacht hatte, sahe er wiederum Jemanden am Wege sitzen, den er gieng, nämlich einen schwarzen langen Mann mit einem hageren Bleichgesicht: der verdross ihn gewaltig. „Wehe, sprach er zu seinem Herzen, da sitzt vermummte Trübsal, das dünkt mich von der Art der Priester: was wollen die in meinem Reiche?
+Nicht lange aber, nachdem Zarathustra sich von dem Zauberer losgemacht hatte, sahe er wiederum Jemanden am Wege sitzen, den er gieng, nämlich einen schwarzen langen Mann mit einem hageren Bleichgesicht: **der** verdross ihn gewaltig. „Wehe, sprach er zu seinem Herzen, da sitzt vermummte Trübsal, das dünkt mich von der Art der Priester: was wollen **die** in meinem Reiche?
 
 Wie! Kaum bin ich jenem Zauberer entronnen: muss mir da wieder ein anderer Schwarzkünstler über den Weg laufen, —
 
@@ -733,7 +733,7 @@ Diese Welt hier ist mir fremd und fern, auch hörte ich wilde Thiere heulen; und
 
 Ich suchte den letzten frommen Menschen, einen Heiligen und Einsiedler, der allein in seinem Walde noch Nichts davon gehört hatte, was alle Welt heute weiss.“
 
-„Was weiss heute alle Welt? fragte Zarathustra. Etwa diess, dass der alte Gott nicht mehr lebt, an den alle Welt einst geglaubt hat?“
+„**Was** weiss heute alle Welt? fragte Zarathustra. Etwa diess, dass der alte Gott nicht mehr lebt, an den alle Welt einst geglaubt hat?“
 
 „Du sagst es, antwortete der alte Mann betrübt. Und ich diente diesem alten Gotte bis zu seiner letzten Stunde.
 
@@ -759,15 +759,15 @@ Also sprach Zarathustra und durchbohrte mit seinen Blicken die Gedanken und Hint
 
 — siehe, ich selber bin wohl von uns Beiden jetzt der Gottlosere? Aber wer könnte daran sich freuen!“ —
 
-— „Du dientest ihm bis zuletzt, fragte Zarathustra nachdenklich, nach einem tiefen Schweigen, du weisst, wie er starb? Ist es wahr, was man spricht, dass ihn das Mitleiden erwürgte,
+— „Du dientest ihm bis zuletzt, fragte Zarathustra nachdenklich, nach einem tiefen Schweigen, du weisst, **wie** er starb? Ist es wahr, was man spricht, dass ihn das Mitleiden erwürgte,
 
-— dass er es sah, wie der Mensch am Kreuze hieng, und es nicht ertrug, dass die Liebe zum Menschen seine Hölle und zuletzt sein Tod wurde?“ — —
+— dass er es sah, wie **der Mensch** am Kreuze hieng, und es nicht ertrug, dass die Liebe zum Menschen seine Hölle und zuletzt sein Tod wurde?“ — —
 
 Der alte Papst aber antwortete nicht, sondern blickte scheu und mit einem schmerzlichen und düsteren Ausdrucke zur Seite.
 
 „Lass ihn fahren, sagte Zarathustra nach einem langen Nachdenken, indem er immer noch dem alten Manne gerade in’s Auge blickte.
 
-Lass ihn fahren, er ist dahin. Und ob es dich auch ehrt, dass du diesem Todten nur Gutes nachredest, so weisst du so gut als ich, wer er war; und dass er wunderliche Wege gieng.“
+Lass ihn fahren, er ist dahin. Und ob es dich auch ehrt, dass du diesem Todten nur Gutes nachredest, so weisst du so gut als ich, **wer** er war; und dass er wunderliche Wege gieng.“
 
 „Unter drei Augen gesprochen, sagte erheitert der alte Papst (denn er war auf Einem Auge blind), in Dingen Gottes bin ich aufgeklärter als Zarathustra selber — und darf es sein.
 
@@ -783,7 +783,7 @@ Endlich aber wurde er alt und weich und mürbe und mitleidig, einem Grossvater �
 
 Da sass er, welk, in seinem Ofenwinkel, härmte sich ob seiner schwachen Beine, weltmüde, willensmüde, und erstickte eines Tags an seinem allzugrossen Mitleiden.“ — —
 
-„Du alter Papst, sagte hier Zarathustra dazwischen, hast du Das mit Augen angesehn? Es könnte wohl so abgegangen sein: so, und auch anders. Wenn Götter sterben, sterben sie immer viele Arten Todes.
+„Du alter Papst, sagte hier Zarathustra dazwischen, hast du **Das** mit Augen angesehn? Es könnte wohl so abgegangen sein: so, **und** auch anders. Wenn Götter sterben, sterben sie immer viele Arten Todes.
 
 Aber wohlan! So oder so, so und so — er ist dahin! Er gieng meinen Ohren und Augen wider den Geschmack, Schlimmeres möchte ich ihm nicht nachsagen.
 
@@ -793,9 +793,9 @@ Er war auch undeutlich. Was hat er uns darob gezürnt, dieser Zornschnauber, das
 
 Und lag es an unsern Ohren, warum gab er uns Ohren, die ihn schlecht hörten? War Schlamm in unsern Ohren, wohlan! wer legte ihn hinein?
 
-Zu Vieles missrieth ihm, diesem Töpfer, der nicht ausgelernt hatte! Dass er aber Rache an seinen Töpfen und Geschöpfen nahm, dafür dass sie ihm schlecht geriethen, — das war eine Sünde wider den guten Geschmack.
+Zu Vieles missrieth ihm, diesem Töpfer, der nicht ausgelernt hatte! Dass er aber Rache an seinen Töpfen und Geschöpfen nahm, dafür dass sie ihm schlecht geriethen, — das war eine Sünde wider den **guten Geschmack**.
 
-Es giebt auch in der Frömmigkeit guten Geschmack: der sprach endlich „Fort mit einem solchen Gotte! Lieber keinen Gott, lieber auf eigne Faust Schicksal machen, lieber Narr sein, lieber selber Gott sein!“
+Es giebt auch in der Frömmigkeit guten Geschmack: **der** sprach endlich „Fort mit einem **solchen** Gotte! Lieber keinen Gott, lieber auf eigne Faust Schicksal machen, lieber Narr sein, lieber selber Gott sein!“
 
   
 
@@ -815,7 +815,7 @@ Gerne, fürwahr, würde ich dich selber dahin geleiten, du Ehrwürdiger, denn ic
 
 In meinem Bereiche soll mir Niemand zu Schaden kommen; meine Höhle ist ein guter Hafen. Und am liebsten möchte ich jedweden Traurigen wieder auf festes Land und feste Beine stellen.
 
-Wer aber nähme dir deine Schwermuth von der Schulter? Dazu bin ich zu schwach. Lange, wahrlich, möchten wir warten, bis dir Einer deinen Gott wieder aufweckt.
+Wer aber nähme dir **deine** Schwermuth von der Schulter? Dazu bin ich zu schwach. Lange, wahrlich, möchten wir warten, bis dir Einer deinen Gott wieder aufweckt.
 
 Dieser alte Gott nämlich lebt nicht mehr: der ist gründlich todt.“ —
 
@@ -842,17 +842,17 @@ Als aber der Weg wieder um einen Felsen bog, veränderte sich mit Einem Male die
 
 Zarathustra aber versank in eine schwarze Erinnerung, denn ihm war, als habe er schon ein Mal in diesem Thal gestanden. Und vieles Schwere legte sich ihm über den Sinn: also, dass er langsam gieng und immer langsamer und endlich still stand. Da aber sahe er, als er die Augen aufthat, Etwas, das am Wege sass, gestaltet wie ein Mensch und kaum wie ein Mensch, etwas Unaussprechliches. Und mit Einem Schlage überfiel Zarathustra die grosse Scham darob, dass er so Etwas mit den Augen angesehn habe: erröthend bis hinauf an sein weisses Haar, wandte er den Blick ab und hob den Fuss, dass er diese schlimme Stelle verlasse. Da aber wurde die todte Öde laut: vom Boden auf nämlich quoll es gurgelnd und röchelnd, wie Wasser Nachts durch verstopfte Wasser-Röhren gurgelt und röchelt; und zuletzt wurde daraus eine Menschen-Stimme und Menschen-Rede: — die lautete also.
 
-„Zarathustra! Zarathustra! Rathe mein Räthsel! Sprich, sprich! Was ist die Rache am Zeugen?
+„Zarathustra! Zarathustra! Rathe mein Räthsel! Sprich, sprich! Was ist **die Rache am Zeugen**?
 
 Ich locke dich zurück, hier ist glattes Eis! Sieh zu, sieh zu, ob dein Stolz sich hier nicht die Beine bricht!
 
-Du dünkst dich weise, du stolzer Zarathustra! So rathe doch das Räthsel, du harter Nüsseknacker, — das Räthsel, das ich bin! So sprich doch: wer bin ich!“
+Du dünkst dich weise, du stolzer Zarathustra! So rathe doch das Räthsel, du harter Nüsseknacker, — das Räthsel, das ich bin! So sprich doch: wer bin **ich**!“
 
-— Als aber Zarathustra diese Worte gehört hatte, — was glaubt ihr wohl, dass sich da mit seiner Seele zutrug? Das Mitleiden fiel ihn an; und er sank mit Einem Male nieder, wie ein Eichbaum, der lange vielen Holzschlägern widerstanden hat, — schwer, plötzlich, zum Schrecken selber für Die, welche ihn fällen wollten. Aber schon stand er wieder vom Boden auf, und sein Antlitz wurde hart.
+— Als aber Zarathustra diese Worte gehört hatte, — was glaubt ihr wohl, dass sich da mit seiner Seele zutrug? **Das Mitleiden fiel ihn an**; und er sank mit Einem Male nieder, wie ein Eichbaum, der lange vielen Holzschlägern widerstanden hat, — schwer, plötzlich, zum Schrecken selber für Die, welche ihn fällen wollten. Aber schon stand er wieder vom Boden auf, und sein Antlitz wurde hart.
 
-„Ich erkenne dich wohl, sprach er mit einer erzenen Stimme: du bist der Mörder Gottes! Lass mich gehn.
+„Ich erkenne dich wohl, sprach er mit einer erzenen Stimme: **du bist der Mörder Gottes!** Lass mich gehn.
 
-Du ertrugst Den nicht, der dich sah, — der dich immer und durch und durch sah, du hässlichster Mensch! Du nahmst Rache an diesem Zeugen!“
+Du **ertrugst** Den nicht, der **dich** sah, — der dich immer und durch und durch sah, du hässlichster Mensch! Du nahmst Rache an diesem Zeugen!“
 
 Also sprach Zarathustra und wollte davon; aber der Unaussprechliche fasste nach einem Zipfel seines Gewandes und begann von Neuem zu gurgeln und nach Worten zu suchen. „Bleib!“ sagte er endlich —
 
@@ -862,13 +862,13 @@ Du erriethest, ich weiss es gut, wie Dem zu Muthe ist, der ihn tödtete, — dem
 
 Zu wem wollte ich, wenn nicht zu dir? Bleib, setze dich! Blicke mich aber nicht an! Ehre also — meine Hässlichkeit!
 
-Sie verfolgen mich: nun bist du meine letzte Zuflucht. Nicht mit ihrem Hasse, nicht mit ihren Häschern: — oh solcher Verfolgung würde ich spotten und stolz und froh sein!
+Sie verfolgen mich: nun bist **du** meine letzte Zuflucht. **Nicht** mit ihrem Hasse, **nicht** mit ihren Häschern: — oh solcher Verfolgung würde ich spotten und stolz und froh sein!
 
-War nicht aller Erfolg bisher bei den Gut-Verfolgten? Und wer gut verfolgt, lernt leicht folgen: — ist er doch einmal — hinterher! Aber ihr Mitleid ist’s —
+War nicht aller Erfolg bisher bei den Gut-Verfolgten? Und wer gut verfolgt, lernt leicht **folgen**: — ist er doch einmal — hinterher! Aber ihr **Mitleid** ist’s —
 
 — ihr Mitleid ist’s, vor dem ich flüchte und dir zuflüchte. Oh Zarathustra, schütze mich, du meine letzte Zuflucht, du Einziger, der mich errieth:
 
-— du erriethest, wie Dem zu Muthe ist, welcher ihn tödtete. Bleib! Und willst du gehn, du Ungeduldiger: geh nicht den Weg, den ich kam. Der Weg ist schlecht.
+— du erriethest, wie Dem zu Muthe ist, welcher **ihn** tödtete. Bleib! Und willst du gehn, du Ungeduldiger: geh nicht den Weg, den ich kam. **Der** Weg ist schlecht.
 
 Zürnst du mir, dass ich zu lange schon rede-radebreche
 
@@ -878,25 +878,25 @@ Zürnst du mir, dass ich zu lange schon rede-radebreche
 
 ? Dass ich schon dir rathe? Aber wisse, ich bin’s, der hässlichste Mensch,
 
-— der auch die grössten schwersten Füsse hat. Wo ich gieng, ist der Weg schlecht. Ich trete alle Wege todt und zu Schanden.
+— der auch die grössten schwersten Füsse hat. Wo **ich** gieng, ist der Weg schlecht. Ich trete alle Wege todt und zu Schanden.
 
 Dass du aber an mir vorübergiengst, schweigend; dass du erröthetest, ich sah es wohl: daran erkannte ich dich als Zarathustra.
 
 Jedweder Andere hätte mir sein Almosen zugeworfen, sein Mitleiden, mit Blick und Rede. Aber dazu — bin ich nicht Bettler genug, das erriethest du —
 
-— dazu bin ich zu reich, reich an Grossem, an Furchtbarem, am Hässlichsten, am Unaussprechlichsten! Deine Scham, oh Zarathustra, ehrte mich!
+— dazu bin ich zu **reich**, reich an Grossem, an Furchtbarem, am Hässlichsten, am Unaussprechlichsten! Deine Scham, oh Zarathustra, **ehrte** mich!
 
 Mit Noth kam ich heraus aus dem Gedräng der Mitleidigen, — dass ich den Einzigen fände, der heute lehrt „Mitleiden ist zudringlich“ — dich, oh Zarathustra!
 
 — sei es eines Gottes, sei es der Menschen Mitleiden: Mitleiden geht gegen die Scham. Und nicht-helfen-wollen kann vornehmer sein als jene Tugend, die zuspringt.
 
-Das aber heisst heute Tugend selber bei allen kleinen Leuten, das Mitleiden: — die haben keine Ehrfurcht vor grossem Unglück, vor grosser Hässlichkeit, vor grossem Missrathen.
+**Das** aber heisst heute Tugend selber bei allen kleinen Leuten, das Mitleiden: — die haben keine Ehrfurcht vor grossem Unglück, vor grosser Hässlichkeit, vor grossem Missrathen.
 
 Über diese Alle blicke ich hinweg, wie ein Hund über die Rücken wimmelnder Schafheerden wegblickt. Es sind kleine wohlwollige wohlwillige graue Leute.
 
 Wie ein Reiher verachtend über flache Teiche wegblickt, mit zurückgelegtem Kopfe: so blicke ich über das Gewimmel grauer kleiner Wellen und Willen und Seelen weg.
 
-Zu lange hat man ihnen Recht gegeben, diesen kleinen Leuten: so gab man ihnen endlich auch die Macht — nun lehren sie: „gut ist nur, was kleine Leute gut heissen.“
+Zu lange hat man ihnen Recht gegeben, diesen kleinen Leuten: **so** gab man ihnen endlich auch die Macht — nun lehren sie: „gut ist nur, was kleine Leute gut heissen.“
 
 Und „Wahrheit“ heisst heute, was der Prediger sprach, der selber aus ihnen herkam, jener wunderliche Heilige und Fürsprecher der kleinen Leute, welcher von sich zeugte „ich — bin die Wahrheit.“
 
@@ -910,17 +910,17 @@ Du schämst dich an der Scham des grossen Leidenden; und wahrlich, wenn du spric
 
 — wenn du lehrst „alle Schaffenden sind hart, alle grosse Liebe ist über ihrem Mitleiden“: oh Zarathustra, wie gut dünkst du mich eingelernt auf Wetter-Zeichen!
 
-Du selber aber — warne dich selber auch vor deinem Mitleiden! Denn Viele sind zu dir unterwegs, viele Leidende, Zweifelnde, Verzweifelnde, Ertrinkende, Frierende —
+Du selber aber — warne dich selber auch vor **deinem** Mitleiden! Denn Viele sind zu dir unterwegs, viele Leidende, Zweifelnde, Verzweifelnde, Ertrinkende, Frierende —
 
 Ich warne dich auch vor mir. Du erriethest mein bestes, schlimmstes Räthsel, mich selber und was ich that. Ich kenne die Axt, die dich fällt.
 
-Aber er — musste sterben: er sah mit Augen, welche Alles sahn, — er sah des Menschen Tiefen und Gründe, alle seine verhehlte Schmach und Hässlichkeit.
+Aber er — **musste** sterben: er sah mit Augen, welche **Alles** sahn, — er sah des Menschen Tiefen und Gründe, alle seine verhehlte Schmach und Hässlichkeit.
 
 Sein Mitleiden kannte keine Scham: er kroch in meine schmutzigsten Winkel. Dieser Neugierigste, Über-Zudringliche, Über-Mitleidige musste sterben.
 
-Er sah immer mich: an einem solchen Zeugen wollte ich Rache haben — oder selber nicht leben.
+Er sah immer **mich**: an einem solchen Zeugen wollte ich Rache haben — oder selber nicht leben.
 
-Der Gott, der Alles sah, auch den Menschen: dieser Gott musste sterben! Der Mensch erträgt es nicht, dass solch ein Zeuge lebt.“
+Der Gott, der Alles sah, **auch den Menschen**: dieser Gott musste sterben! Der Mensch **erträgt** es nicht, dass solch ein Zeuge lebt.“
 
   
 
@@ -942,7 +942,7 @@ Man sagt mir, dass der Mensch sich selber liebe: ach, wie gross muss diese Selbe
 
 Auch dieser da liebte sich, wie er sich verachtete, — ein grosser Liebender ist er mir und ein grosser Verächter.
 
-Keinen fand ich noch, der sich tiefer verachtet hätte: auch Das ist Höhe. Wehe, war Der vielleicht der höhere Mensch, dessen Schrei ich hörte?
+Keinen fand ich noch, der sich tiefer verachtet hätte: auch **Das** ist Höhe. Wehe, war **Der** vielleicht der höhere Mensch, dessen Schrei ich hörte?
 
 Ich liebe die grossen Verachtenden. Der Mensch aber ist Etwas, das überwunden werden muss.“ — —
 
@@ -975,7 +975,7 @@ So wir nicht umkehren und werden wie die Kühe, so kommen wir nicht in das Himme
 
 Und wahrlich, wenn der Mensch auch die ganze Welt gewönne und lernte das Eine nicht, das Wiederkäuen: was hülfe es! Er würde nicht seine Trübsal los
 
-— seine grosse Trübsal: die aber heisst heute Ekel. Wer hat heute von Ekel nicht Herz, Mund und Augen voll? Auch du! Auch du! Aber siehe doch diese Kühe an!“ —
+— seine grosse Trübsal: die aber heisst heute **Ekel**. Wer hat heute von Ekel nicht Herz, Mund und Augen voll? Auch du! Auch du! Aber siehe doch diese Kühe an!“ —
 
 Also sprach der Berg-Prediger und wandte dann seinen eignen Blick Zarathustra zu, — denn bisher hieng er mit Liebe an den Kühen —: da aber verwandelte er sich. „Wer ist das, mit dem ich rede? rief er erschreckt und sprang vom Boden empor.
 
@@ -989,7 +989,7 @@ Und indem er also sprach, küsste er Dem, zu welchem er redete, die Hände, mit 
 
 Aber sie nahmen ihn nicht an.“ „Aber sie nahmen mich nicht an, sagte der freiwillige Bettler, du weisst es ja. So gieng ich endlich zu den Thieren und zu diesen Kühen.“
 
-„Da lerntest du, unterbrach Zarathustra den Redenden, wie es schwerer ist, recht geben als recht nehmen, und dass gut schenken eine Kunst ist und die letzte listigste Meister-Kunst der Güte.“
+„Da lerntest du, unterbrach Zarathustra den Redenden, wie es schwerer ist, recht geben als recht nehmen, und dass gut schenken eine **Kunst** ist und die letzte listigste Meister-Kunst der Güte.“
 
 „Sonderlich heutzutage, antwortete der freiwillige Bettler: heute nämlich, wo alles Niedrige aufständisch ward und scheu und auf seine Art hoffährtig: nämlich auf Pöbel-Art.
 
@@ -1015,7 +1015,7 @@ Also sprach der Friedfertige und schnaufte selber und schwitzte bei seinen Worte
 
 „Du thust dir Gewalt an, du Berg-Prediger, wenn du solche harte Worte brauchst. Für solche Härte wuchs dir nicht der Mund, nicht das Auge.
 
-Auch, wie mich dünkt, dein Magen selber nicht: dem widersteht all solches Zürnen und Hassen und Überschäumen. Dein Magen will sanftere Dinge: du bist kein Fleischer.
+Auch, wie mich dünkt, dein Magen selber nicht: **dem** widersteht all solches Zürnen und Hassen und Überschäumen. Dein Magen will sanftere Dinge: du bist kein Fleischer.
 
 Vielmehr dünkst du mich ein Pflanzler und Wurzelmann. Vielleicht malmst du Körner. Sicherlich aber bist du fleischlichen Freuden abhold und liebst den Honig.“
 
@@ -1025,7 +1025,7 @@ Vielmehr dünkst du mich ein Pflanzler und Wurzelmann. Vielleicht malmst du Kör
 
 Am weitesten freilich brachten es diese Kühe: die erfanden sich das Wiederkäuen und In-der-Sonne-Liegen. Auch enthalten sie sich aller schweren Gedanken, welche das Herz blähn.“
 
-— „Wohlan! sagte Zarathustra: du solltest auch meine Thiere sehn, meinen Adler und meine Schlange, — ihres Gleichen giebt es heute nicht auf Erden.
+— „Wohlan! sagte Zarathustra: du solltest auch **meine** Thiere sehn, meinen Adler und meine Schlange, — ihres Gleichen giebt es heute nicht auf Erden.
 
 Siehe, dorthin führt der Weg zu meiner Höhle: sei diese Nacht ihr Gast. Und rede mit meinen Thieren vom Glück der Thiere, —
 
@@ -1052,7 +1052,7 @@ Jetzt aber nimm flugs Abschied von deinen Kühen, du Wunderlicher! Lieblicher! o
 
 Kaum aber war der freiwillige Bettler davongelaufen und Zarathustra wieder mit sich allein, da hörte er hinter sich eine neue Stimme: die rief „Halt! Zarathustra! So warte doch! Ich bin’s ja, oh Zarathustra, ich, dein Schatten!“ Aber Zarathustra wartete nicht, denn ein plötzlicher Verdruss überkam ihn ob des vielen Zudrangs und Gedrängs in seinen Bergen. „Wo ist meine Einsamkeit hin? sprach er.
 
-Es wird mir wahrlich zu viel; diess Gebirge wimmelt, mein Reich ist nicht mehr von dieser Welt, ich brauche neue Berge.
+Es wird mir wahrlich zu viel; diess Gebirge wimmelt, mein Reich ist nicht mehr von **dieser** Welt, ich brauche neue Berge.
 
 Mein Schatten ruft mich? Was liegt an meinem Schatten! Mag er mir nachlaufen! ich — laufe ihm davon.“
 
@@ -1100,17 +1100,17 @@ Zu oft, wahrlich, folgte ich der Wahrheit dicht auf dem Fusse: da trat sie mir v
 
 Zu Viel klärte sich mir auf: nun geht es mich Nichts mehr an. Nichts lebt mehr, das ich liebe, — wie sollte ich noch mich selber lieben?
 
-„Leben, wie ich Lust habe, oder gar nicht leben“: so will ich’s, so will’s auch der Heiligste. Aber, wehe! wie habe ich noch — Lust?
+„Leben, wie ich Lust habe, oder gar nicht leben“: so will ich’s, so will’s auch der Heiligste. Aber, wehe! wie habe **ich** noch — Lust?
 
-Habe ich — noch ein Ziel? Einen Hafen, nach dem mein Segel läuft?
+Habe **ich**— noch ein Ziel? Einen Hafen, nach dem **mein** Segel läuft?
 
-Einen guten Wind? Ach, nur wer weiss, wohin er fährt, weiss auch, welcher Wind gut und sein Fahrwind ist.
+Einen guten Wind? Ach, nur wer weiss, **wohin** er fährt, weiss auch, welcher Wind gut und sein Fahrwind ist.
 
 Was blieb mir noch zurück? Ein Herz müde und frech; ein unstäter Wille; Flatter-Flügel; ein zerbrochnes Rückgrat.
 
-Diess Suchen nach meinem Heim: oh Zarathustra, weisst du wohl, diess Suchen war meine Heimsuchung, es frisst mich auf.
+Diess Suchen nach **meinem** Heim: oh Zarathustra, weisst du wohl, diess Suchen war **meine** Heimsuchung, es frisst mich auf.
 
-„Wo ist — mein Heim?“ Darnach frage und suche und suchte ich, das fand ich nicht. Oh ewiges Überall, oh ewiges Nirgendswo
+„Wo ist — **mein** Heim?“ Darnach frage und suche und suchte ich, das fand ich nicht. Oh ewiges Überall, oh ewiges Nirgendswo
 
 *Erratum:*Nirgendwo  
 *lies:*Nirgendswo  
@@ -1183,9 +1183,9 @@ Singe nicht, du Gras-Geflügel, oh meine Seele! Flüstere nicht einmal! Sieh doc
 
 — einen alten braunen Tropfen goldenen Glücks, goldenen Weins? Es huscht über ihn hin, sein Glück lacht. So — lacht ein Gott. Still! —
 
-„Zum Glück, wie wenig genügt schon zum Glücke!“ So sprach ich einst, und dünkte mich klug. Aber es war eine Lästerung: das lernte ich nun. Kluge Narrn reden besser.
+„Zum Glück, wie wenig genügt schon zum Glücke!“ So sprach ich einst, und dünkte mich klug. Aber es war eine Lästerung: **das** lernte ich nun. Kluge Narrn reden besser.
 
-Das Wenigste gerade, das Leiseste, Leichteste, einer Eidechse Rascheln, ein Hauch, ein Husch, ein Augen-Blick — Wenig macht die Art des besten Glücks. Still!
+Das Wenigste gerade, das Leiseste, Leichteste, einer Eidechse Rascheln, ein Hauch, ein Husch, ein Augen-Blick — **Wenig** macht die Art des **besten** Glücks. Still!
 
 — Was geschah mir: Horch! Flog die Zeit wohl davon? Falle ich nicht? Fiel ich nicht — horch! in den Brunnen der Ewigkeit?
 
@@ -1226,7 +1226,7 @@ Also sprach Zarathustra und erhob sich von seinem Lager am Baume wie aus einer f
 
 ---
 
-Am späten Nachmittage war es erst, dass Zarathustra, nach langem umsonstigen Suchen und Umherstreifen, wieder zu seiner Höhle heimkam. Als er aber derselben gegenüberstand, nicht zwanzig Schritt mehr von ihr ferne, da geschah das, was er jetzt am wenigsten erwartete: von Neuem hörte er den grossen Nothschrei. Und, erstaunlich! diess Mal kam derselbige aus seiner eignen Höhle. Es war aber ein langer vielfältiger seltsamer Schrei, und Zarathustra unterschied deutlich, dass er sich aus vielen Stimmen zusammensetze: mochte er schon, aus der Ferne gehört, gleich dem Schrei aus einem einzigen Munde klingen.
+Am späten Nachmittage war es erst, dass Zarathustra, nach langem umsonstigen Suchen und Umherstreifen, wieder zu seiner Höhle heimkam. Als er aber derselben gegenüberstand, nicht zwanzig Schritt mehr von ihr ferne, da geschah das, was er jetzt am wenigsten erwartete: von Neuem hörte er den grossen **Nothschrei**. Und, erstaunlich! diess Mal kam derselbige aus seiner eignen Höhle. Es war aber ein langer vielfältiger seltsamer Schrei, und Zarathustra unterschied deutlich, dass er sich aus vielen Stimmen zusammensetze: mochte er schon, aus der Ferne gehört, gleich dem Schrei aus einem einzigen Munde klingen.
 
 Da sprang Zarathustra auf seine Höhle zu, und siehe! welches Schauspiel erwartete ihn erst nach diesem Hörspiele! Denn da sassen sie allesammt bei einander, an denen er des Tags vorübergegangen war: der König zur Rechten und der König zur Linken, der alte Zauberer, der Papst, der freiwillige Bettler, der Schatten, der Gewissenhafte des Geistes, der traurige Wahrsager und der Esel; der hässlichste Mensch aber hatte sich eine Krone aufgesetzt und zwei Purpurgürtel umgeschlungen, — denn er liebte es, gleich allen Hässlichen, sich zu verkleiden und schön zu thun. Inmitten aber dieser betrübten Gesellschaft stand der Adler Zarathustra’s, gesträubt und unruhig, denn er sollte auf zu Vieles antworten, wofür sein Stolz keine Antwort hatte; die kluge Schlange aber hieng um seinen Hals.
 
@@ -1238,7 +1238,7 @@ Diess Alles schaute Zarathustra mit grosser Verwunderung; dann aber
 
  prüfte er jeden Einzelnen seiner Gäste mit leutseliger Neugierde, las ihre Seelen ab und wunderte sich von Neuem. Inzwischen hatten sich die Versammelten von ihren Sitzen erhoben und warteten mit Ehrfurcht, dass Zarathustra reden werde. Zarathustra aber sprach also:
 
-„Ihr Verzweifelnden! Ihr Wunderlichen! Ich hörte also euren Nothschrei? Und nun weiss ich auch, wo Der zu suchen ist, den ich umsonst heute suchte: der höhere Mensch —:
+„Ihr Verzweifelnden! Ihr Wunderlichen! Ich hörte also **euren** Nothschrei? Und nun weiss ich auch, wo Der zu suchen ist, den ich umsonst heute suchte: **der höhere Mensch —:**
 
 — in meiner eignen Höhle sitzt er, der höhere Mensch! Aber was wundere ich mich! Habe ich ihn nicht selber zu mir gelockt durch Honig-Opfer und listige Lockrufe meines Glücks?
 
@@ -1246,7 +1246,7 @@ Doch dünkt mir, ihr taugt euch schlecht zur Gesellschaft, ihr macht einander da
 
 — Einer, der euch wieder lachen macht, ein guter fröhlicher Hanswurst, ein Tänzer und Wind und Wildfang, irgend ein alter Narr: — was dünket euch?
 
-Vergebt mir doch, ihr Verzweifelnden, dass ich vor euch mit solch kleinen Worten rede, unwürdig, wahrlich!, solcher Gäste! Aber ihr errathet nicht, was mein Herz muthwillig macht: —
+Vergebt mir doch, ihr Verzweifelnden, dass ich vor euch mit solch kleinen Worten rede, unwürdig, wahrlich!, solcher Gäste! Aber ihr errathet nicht, **was** mein Herz muthwillig macht: —
 
 — ihr selber thut es und euer Anblick, vergebt es mir! Jeder nämlich wird muthig, der einem Verzweifelnden zuschaut. Einem Verzweifelnden zuzusprechen — dazu dünkt sich Jeder stark genug.
 
@@ -1256,13 +1256,13 @@ Diess hier ist mein Reich und meine Herrschaft: was aber mein ist, für diesen A
 
 Bei mir zu Heim-und-Hause soll Keiner verzweifeln, in meinem Reviere schütze ich Jeden vor seinen wilden Thieren. Und das ist das Erste, was ich euch anbiete: Sicherheit!
 
-Das Zweite aber ist: mein kleiner Finger. Und habt ihr den erst, so nehmt nur noch die ganze Hand, wohlan! und das Herz dazu! Willkommen hier, willkommen, meine Gastfreunde!“
+Das Zweite aber ist: mein kleiner Finger. Und habt ihr **den** erst, so nehmt nur noch die ganze Hand, wohlan! und das Herz dazu! Willkommen hier, willkommen, meine Gastfreunde!“
 
 Also sprach Zarathustra und lachte vor Liebe und Bosheit. Nach dieser Begrüssung verneigten sich seine Gäste abermals und schwiegen ehrfürchtig; der König zur Rechten aber antwortete ihm in ihrem Namen.
 
 „Daran, oh Zarathustra, wie du uns Hand und Gruss botest, erkennen wir dich als Zarathustra. Du erniedrigtest dich vor uns; fast thatest du unserer Ehrfurcht wehe —:
 
-— wer aber vermöchte gleich dir sich mit solchem Stolze zu erniedrigen? Das richtet uns selber auf, ein Labsal ist es unsern Augen und Herzen.
+— wer aber vermöchte gleich dir sich mit solchem Stolze zu erniedrigen? **Das** richtet uns selber auf, ein Labsal ist es unsern Augen und Herzen.
 
 Diess allein nur zu schaun, stiegen gern wir auf höhere Berge, als dieser Berg ist. Als Schaulustige nämlich kamen wir, wir wollten sehn, was trübe Augen hell macht.
 
@@ -1272,7 +1272,7 @@ Nichts, oh Zarathustra, wächst Erfreulicheres auf Erden, als ein hoher starker 
 
 Der Pinie vergleiche ich, wer gleich dir, oh Zarathustra, aufwächst: lang, schweigend, hart, allein, besten biegsamsten Holzes, herrlich, —
 
-— zuletzt aber hinausgreifend mit starken grünen Ästen nach seiner Herrschaft, starke Fragen fragend vor Winden und Wettern und was immer auf Höhen heimisch ist,
+— zuletzt aber hinausgreifend mit starken grünen Ästen nach **seiner** Herrschaft, starke Fragen fragend vor Winden und Wettern und was immer auf Höhen heimisch ist,
 
 — stärker antwortend, ein Befehlender, ein Siegreicher: oh wer sollte nicht, solche Gewächse zu schaun, auf hohe Berge steigen?
 
@@ -1294,11 +1294,11 @@ Und dass wir Verzweifelnde jetzt in deine Höhle kamen und schon nicht mehr verz
 
 — denn er selber ist zu dir unterwegs, der letzte Rest Gottes unter Menschen, das ist: alle die Menschen der grossen Sehnsucht, des grossen Ekels, des grossen Überdrusses,
 
-— Alle, die nicht leben wollen, oder sie lernen wieder hoffen — oder sie lernen von dir, oh Zarathustra, die grosse Hoffnung!“
+— Alle, die nicht leben wollen, oder sie lernen wieder **hoffen** — oder sie lernen von dir, oh Zarathustra, die **grosse** Hoffnung!“
 
 Also sprach der König zur Rechten und ergriff die Hand Zarathustra’s, um sie zu küssen; aber Zarathustra wehrte seiner Verehrung und trat erschreckt zurück, schweigend und plötzlich wie in weite Fernen entfliehend. Nach einer kleinen Weile aber war er schon wieder bei seinen Gästen, blickte sie mit hellen, prüfenden Augen an und sprach:
 
-Meine Gäste, ihr höheren Menschen, ich will deutsch und deutlich mit euch reden. Nicht auf euch wartete ich hier in diesen Bergen.
+Meine Gäste, ihr höheren Menschen, ich will deutsch und deutlich mit euch reden. Nicht auf **euch** wartete ich hier in diesen Bergen.
 
 („Deutsch und deutlich? Dass Gott erbarm! sagte hier der König zur Linken, bei Seite; man merkt, er kennt die lieben Deutschen nicht, dieser Weise aus dem Morgenlande!
 
@@ -1308,9 +1308,9 @@ Aber er meint „deutsch und derb“ — wohlan! Das ist heutzutage noch nicht d
 
 Für mich, das heisst: für das Unerbittliche, das in mir schweigt, aber nicht immer schweigen wird. Und gehört ihr zu mir, so doch nicht als mein rechter Arm.
 
-Wer nämlich selber auf kranken und zarten Beinen steht, gleich euch, der will vor Allem, ob er’s weiss oder sich verbirgt: dass er geschont werde.
+Wer nämlich selber auf kranken und zarten Beinen steht, gleich euch, der will vor Allem, ob er’s weiss oder sich verbirgt: dass er **geschont** werde.
 
-Meine Arme und meine Beine aber schone ich nicht, ich schone meine Krieger nicht: wieso könntet ihr zu meinem Kriege taugen?
+Meine Arme und meine Beine aber schone ich nicht, **ich schone meine Krieger nicht**: wieso könntet ihr zu **meinem** Kriege taugen?
 
 Mit euch verdürbe ich mir jeden Sieg noch. Und Mancher von euch fiele schon um, wenn er nur den lauten Schall meiner Trommeln hörte.
 
@@ -1320,17 +1320,17 @@ Eure Schultern drückt manche Last, manche Erinnerung; manch schlimmer Zwerg hoc
 
 Und seid ihr auch hoch und höherer Art: Vieles an euch ist krumm und missgestalt. Da ist kein Schmied in der Welt, der euch mir zurecht und gerade schlüge.
 
-Ihr seid nur Brücken: mögen Höhere auf euch hinüber schreiten! Ihr bedeutet Stufen: so zürnt Dem nicht, der über euch hinweg in seine Höhe steigt!
+Ihr seid nur Brücken: mögen Höhere auf euch hinüber schreiten! Ihr bedeutet Stufen: so zürnt Dem nicht, der über euch hinweg in **seine** Höhe steigt!
 
 Aus eurem Samen mag auch mir einst ein ächter Sohn und vollkommener Erbe wachsen: aber das ist ferne. Ihr selber seid Die nicht, welchen mein Erbgut und Name zugehört.
 
 Nicht auf euch warte ich hier in diesen Bergen, nicht mit euch darf ich zum letzten Male niedersteigen. Als Vorzeichen kamt ihr mir nur, dass schon Höhere zu mir unterwegs sind, —
 
-— nicht die Menschen der grossen Sehnsucht, des grossen Ekels, des grossen Überdrusses und Das, was ihr den Überrest Gottes nanntet.
+— **nicht** die Menschen der grossen Sehnsucht, des grossen Ekels, des grossen Überdrusses und Das, was ihr den Überrest Gottes nanntet.
 
-— Nein! Nein! Drei Mal Nein! Auf Andere warte ich hier in diesen Bergen und will meinen Fuss nicht ohne sie von dannen heben,
+— Nein! Nein! Drei Mal Nein! Auf **Andere** warte ich hier in diesen Bergen und will meinen Fuss nicht ohne sie von dannen heben,
 
-— auf Höhere, Stärkere, Sieghaftere, Wohlgemuthere, Solche, die rechtwinklig gebaut sind an Leib und Seele: lachende Löwen müssen kommen!
+— auf Höhere, Stärkere, Sieghaftere, Wohlgemuthere, Solche, die rechtwinklig gebaut sind an Leib und Seele: **lachende Löwen** müssen kommen!
 
 Oh, meine Gastfreunde, ihr Wunderlichen, — hörtet ihr noch Nichts von meinen Kindern? Und dass sie zu mir unterwegs sind?
 
@@ -1338,7 +1338,7 @@ Sprecht mir doch von meinen Gärten, von meinen glückseligen Inseln, von meiner
 
 Diess Gastgeschenk erbitte ich mir von eurer Liebe, dass ihr mir von meinen Kindern sprecht. Hierzu bin ich reich, hierzu ward ich arm: was gab ich nicht hin,
 
-— was gäbe ich nicht hin, dass ich Eins hätte: diese Kinder, diese lebendige Pflanzung, diese Lebensbäume meines Willens und meiner höchsten Hoffnung!“
+— was gäbe ich nicht hin, dass ich Eins hätte: **diese** Kinder, **diese** lebendige Pflanzung, **diese** Lebensbäume meines Willens und meiner höchsten Hoffnung!“
 
   
 
@@ -1357,19 +1357,19 @@ Also sprach Zarathustra und hielt plötzlich inne in seiner Rede: denn ihn über
 
 An dieser Stelle nämlich unterbrach der Wahrsager die Begrüssung Zarathustra’s und seiner Gäste: er drängte sich vor, wie Einer, der keine Zeit zu verlieren hat, fasste die Hand Zarathustra’s und rief: „Aber Zarathustra!
 
-Eins ist nothwendiger als das Andre, so redest du selber: wohlan, Eins ist mir jetzt nothwendiger als alles Andere.
+Eins ist nothwendiger als das Andre, so redest du selber: wohlan, Eins ist **mir** jetzt nothwendiger als alles Andere.
 
-Ein Wort zur rechten Zeit: hast du mich nicht zum Mahle eingeladen? Und hier sind Viele, die lange Wege machten. Du willst uns doch nicht mit Reden abspeisen?
+Ein Wort zur rechten Zeit: hast du mich nicht zum **Mahle** eingeladen? Und hier sind Viele, die lange Wege machten. Du willst uns doch nicht mit Reden abspeisen?
 
-Auch gedachtet ihr Alle mir schon zu viel des Erfrierens, Ertrinkens, Erstickens und andrer Leibes-Nothstände: Keiner aber gedachte meines Nothstandes, nämlich des Verhungerns —“
+Auch gedachtet ihr Alle mir schon zu viel des Erfrierens, Ertrinkens, Erstickens und andrer Leibes-Nothstände: Keiner aber gedachte **meines** Nothstandes, nämlich des Verhungerns —“
 
 (Also sprach der Wahrsager; wie die Thiere Zarathustra’s aber diese Worte hörten, liefen sie vor Schrecken davon. Denn sie sahen, dass was sie auch am Tage heimgebracht hatten, nicht genug sein werde, den Einen Wahrsager zu stopfen.)
 
-„Eingerechnet das Verdursten, fuhr der Wahrsager fort. Und ob ich schon Wasser hier plätschern höre, gleich Reden der Weisheit, nämlich reichlich und unermüdlich: ich — will Wein!
+„Eingerechnet das Verdursten, fuhr der Wahrsager fort. Und ob ich schon Wasser hier plätschern höre, gleich Reden der Weisheit, nämlich reichlich und unermüdlich: ich — will **Wein**!
 
-Nicht Jeder ist gleich Zarathustra ein geborner Wassertrinker. Wasser taugt auch nicht für Müde und Verwelkte: uns gebührt Wein, — der erst giebt plötzliches Genesen und stegreife Gesundheit!“
+Nicht Jeder ist gleich Zarathustra ein geborner Wassertrinker. Wasser taugt auch nicht für Müde und Verwelkte: **uns** gebührt Wein, — **der** erst giebt plötzliches Genesen und stegreife Gesundheit!“
 
-Bei dieser Gelegenheit, da der Wahrsager nach Wein begehrte, geschah es, dass auch der König zur Linken, der Schweigsame, einmal zu Worte kam. „Für Wein, sprach er, trugen wir Sorge, ich sammt meinem Bruder, dem Könige zur Rechten: wir haben Wein’s
+Bei dieser Gelegenheit, da der Wahrsager nach Wein begehrte, geschah es, dass auch der König zur Linken, der Schweigsame, einmal zu Worte kam. „Für Wein, sprach er, trugen **wir** Sorge, ich sammt meinem Bruder, dem Könige zur Rechten: wir haben Wein’s
 
 *Erratum:*Weins  
 *lies:*Wein’s  
@@ -1379,7 +1379,7 @@ Bei dieser Gelegenheit, da der Wahrsager nach Wein begehrte, geschah es, dass au
 
 „Brod? entgegnete Zarathustra und lachte dazu. Nur gerade Brod haben Einsiedler nicht. Aber der Mensch lebt nicht vom Brod allein, sondern auch vom Fleische guter Lämmer, deren ich zwei habe:
 
-— Die soll man geschwinde schlachten und würzig, mit Salbei, zubereiten: so liebe ich’s. Und auch an Wurzeln und Früchten fehlt es nicht, gut genug selbst für Lecker- und Schmeckerlinge; noch an Nüssen und andern Räthseln zum Knacken.
+— **Die** soll man geschwinde schlachten und würzig, mit Salbei, zubereiten: so liebe ich’s. Und auch an Wurzeln und Früchten fehlt es nicht, gut genug selbst für Lecker- und Schmeckerlinge; noch an Nüssen und andern Räthseln zum Knacken.
 
 Also wollen wir in Kürze eine gute Mahlzeit machen. Wer aber mit essen will, muss auch mit Hand anlegen, auch die Könige. Bei Zarathustra nämlich darf auch ein König Koch sein.“
 
@@ -1401,7 +1401,7 @@ Also sprach Zarathustra; der König zur Rechten aber entgegnete: „Seltsam! Ver
 
 Und wahrlich, das ist das Seltsamste an einem Weisen, wenn er zu alledem auch noch klug und kein Esel ist.“
 
-Also sprach der König zur Rechten und wunderte sich; der Esel aber sagte zu seiner Rede mit bösem Willen I-A. Diess aber war der Anfang von jener langen Mahlzeit, welche „das Abendmahl“ in den Historien-Büchern genannt wird. Bei derselben aber wurde von nichts Anderem geredet als vom höheren Menschen.
+Also sprach der König zur Rechten und wunderte sich; der Esel aber sagte zu seiner Rede mit bösem Willen I-A. Diess aber war der Anfang von jener langen Mahlzeit, welche „das Abendmahl“ in den Historien-Büchern genannt wird. Bei derselben aber wurde von nichts Anderem geredet als **vom höheren Menschen**.
 
   
 
@@ -1448,7 +1448,7 @@ Wohlan! Wohlauf! Ihr höheren Menschen! Nun erst kreist
 *lies:*kreist  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- der Berg der Menschen-Zukunft. Gott starb: nun wollen wir, — dass der Übermensch lebe.
+ der Berg der Menschen-Zukunft. Gott starb: nun wollen **wir**, — dass der Übermensch lebe.
 
   
 
@@ -1458,9 +1458,9 @@ Wohlan! Wohlauf! Ihr höheren Menschen! Nun erst kreist
 
 ### [3.](javascript:;)
 
-Die Sorglichsten fragen heute: „wie bleibt der Mensch erhalten?“ Zarathustra aber fragt als der Einzige und Erste: „wie wird der Mensch überwunden?“
+Die Sorglichsten fragen heute: „wie bleibt der Mensch erhalten?“ Zarathustra aber fragt als der Einzige und Erste: „wie wird der Mensch **überwunden**?“
 
-Der Übermensch liegt mir am Herzen, der ist mein Erstes und Einziges, — und nicht der Mensch: nicht der Nächste, nicht der Ärmste, nicht der Leidendste, nicht der Beste —
+Der Übermensch liegt mir am Herzen, **der** ist mein Erstes und Einziges, — und **nicht** der Mensch: nicht der Nächste, nicht der Ärmste, nicht der Leidendste, nicht der Beste —
 
 Oh meine Brüder, was ich lieben kann am Menschen, das ist, dass er ein Übergang ist und ein Untergang. Und auch an euch ist Vieles, das mich lieben und hoffen macht.
 
@@ -1470,15 +1470,15 @@ Dass ihr verzweifeltet, daran ist Viel zu ehren. Denn ihr lerntet nicht, wie ihr
 
 Heute nämlich wurden die kleinen Leute Herr: die predigen Alle Ergebung und Bescheidung und Klugheit und Fleiss und Rücksicht und das lange Und-so-weiter der kleinen Tugenden.
 
-Was von Weibsart ist, was von Knechtsart stammt und sonderlich der Pöbel-Mischmasch: Das will nun Herr werden alles Menschen-Schicksals — oh Ekel! Ekel! Ekel!
+Was von Weibsart ist, was von Knechtsart stammt und sonderlich der Pöbel-Mischmasch: **Das** will nun Herr werden alles Menschen-Schicksals — oh Ekel! Ekel! Ekel!
 
-Das frägt und frägt und wird nicht müde: „wie erhält sich der Mensch, am besten, am längsten, am angenehmsten?“ Damit — sind sie die Herrn von Heute.
+**Das** frägt und frägt und wird nicht müde: „wie erhält sich der Mensch, am besten, am längsten, am angenehmsten?“ Damit — sind sie die Herrn von Heute.
 
-Diese Herrn von Heute überwindet mir, oh meine Brüder, — diese kleinen Leute: die sind des Übermenschen grösste Gefahr!
+Diese Herrn von Heute überwindet mir, oh meine Brüder, — diese kleinen Leute: **die** sind des Übermenschen grösste Gefahr!
 
 Überwindet mir, ihr höheren Menschen, die kleinen Tugenden, die kleinen Klugheiten, die Sandkorn-Rücksichten, den Ameisen-Kribbelkram, das erbärmliche Behagen, das „Glück der Meisten“ —!
 
-Und lieber verzweifelt, als dass ihr euch ergebt. Und, wahrlich, ich liebe euch dafür, dass ihr heute nicht zu leben wisst, ihr höheren Menschen! So nämlich lebt ihr — am Besten!
+Und lieber verzweifelt, als dass ihr euch ergebt. Und, wahrlich, ich liebe euch dafür, dass ihr heute nicht zu leben wisst, ihr höheren Menschen! So nämlich lebt **ihr** — am Besten!
 
   
 
@@ -1488,11 +1488,11 @@ Und lieber verzweifelt, als dass ihr euch ergebt. Und, wahrlich, ich liebe euch 
 
 ### [4.](javascript:;)
 
-Habt ihr Muth, oh meine Brüder? Seid ihr herzhaft? Nicht Muth vor Zeugen, sondern Einsiedler- und Adler-Muth, dem auch kein Gott mehr zusieht?
+Habt ihr Muth, oh meine Brüder? Seid ihr herzhaft? **Nicht** Muth vor Zeugen, sondern Einsiedler- und Adler-Muth, dem auch kein Gott mehr zusieht?
 
-Kalte Seelen, Maulthiere, Blinde, Trunkene heissen mir nicht herzhaft. Herz hat, wer Furcht kennt, aber Furcht zwingt, wer den Abgrund sieht, aber mit Stolz.
+Kalte Seelen, Maulthiere, Blinde, Trunkene heissen mir nicht herzhaft. Herz hat, wer Furcht kennt, aber Furcht **zwingt**, wer den Abgrund sieht, aber mit **Stolz**.
 
-Wer den Abgrund sieht, aber mit Adlers-Augen, wer mit Adlers-Krallen den Abgrund fasst: Der hat Muth. — —
+Wer den Abgrund sieht, aber mit Adlers-Augen, wer mit Adlers-Krallen den Abgrund **fasst**: Der hat Muth. — —
 
   
 
@@ -1504,9 +1504,9 @@ Wer den Abgrund sieht, aber mit Adlers-Augen, wer mit Adlers-Krallen den Abgrund
 
 „Der Mensch ist böse“ — so sprachen mir zum Troste alle Weisesten. Ach, wenn es heute nur noch wahr ist! Denn das Böse ist des Menschen beste Kraft.
 
-„Der Mensch muss besser und böser werden“ — so lehre ich. Das Böseste ist nöthig zu des Übermenschen Bestem.
+„Der Mensch muss besser und böser werden“ — so lehre **ich**. Das Böseste ist nöthig zu des Übermenschen Bestem.
 
-Das mochte gut sein für jenen Prediger der kleinen Leute, dass er litt und trug an des Menschen Sünde. Ich aber erfreue mich der grossen Sünde als meines grossen Trostes. —
+Das mochte gut sein für jenen Prediger der kleinen Leute, dass er litt und trug an des Menschen Sünde. Ich aber erfreue mich der grossen Sünde als meines grossen **Trostes**. —
 
 Solches ist aber nicht für lange Ohren gesagt. Jedwedes Wort gehört auch nicht in jedes Maul. Das sind feine ferne Dinge: nach denen sollen nicht Schafs-Klauen greifen!
 
@@ -1524,11 +1524,11 @@ Oder ich wollte fürderhin euch Leidende bequemer betten? Oder euch Unstäten, V
 
 Nein! Nein! Drei Mal Nein! Immer Mehr, immer Bessere eurer Art sollen zu Grunde gehn, — denn ihr sollt es immer schlimmer und härter haben. So allein —
 
-— so allein wächst der Mensch in die Höhe, wo der Blitz ihn trifft und zerbricht: hoch genug für den Blitz!
+— so allein wächst der Mensch in **die** Höhe, wo der Blitz ihn trifft und zerbricht: hoch genug für den Blitz!
 
 Auf Weniges, auf Langes, auf Fernes geht mein Sinn und meine Sehnsucht: was gienge mich euer kleines, vieles, kurzes Elend an!
 
-Ihr leidet mir noch nicht genug! Denn ihr leidet an euch, ihr littet noch nicht am Menschen. Ihr würdet lügen, wenn ihr’s anders sagtet! Ihr leidet Alle nicht, woran ich litt. — —
+Ihr leidet mir noch nicht genug! Denn ihr leidet an euch, ihr littet noch nicht **am Menschen**. Ihr würdet lügen, wenn ihr’s anders sagtet! Ihr leidet Alle nicht, woran **ich** litt. — —
 
   
 
@@ -1538,11 +1538,11 @@ Ihr leidet mir noch nicht genug! Denn ihr leidet an euch, ihr littet noch nicht 
 
 ### [7.](javascript:;)
 
-Es ist mir nicht genug, dass der Blitz nicht mehr schadet. Nicht ableiten will ich ihn: er soll lernen für mich — arbeiten. —
+Es ist mir nicht genug, dass der Blitz nicht mehr schadet. Nicht ableiten will ich ihn: er soll lernen für **mich** — arbeiten. —
 
-Meine Weisheit sammlet sich lange schon gleich einer Wolke, sie wird stiller und dunkler. So thut jede Weisheit, welche einst Blitze gebären soll. —
+Meine Weisheit sammlet sich lange schon gleich einer Wolke, sie wird stiller und dunkler. So thut jede Weisheit, welche **einst** Blitze gebären soll. —
 
-Diesen Menschen von Heute will ich nicht Licht sein, nicht Licht heissen. Die — will ich blenden: Blitz meiner Weisheit! Stich ihnen die Augen aus!
+Diesen Menschen von Heute will ich nicht **Licht** sein, nicht Licht heissen. **Die** — will ich blenden: Blitz meiner Weisheit! Stich ihnen die Augen aus!
 
   
 
@@ -1598,11 +1598,11 @@ Freiheit von Fieber ist lange noch nicht Erkenntniss! Ausgekälteten Geistern gl
 
 ### [10.](javascript:;)
 
-Wollt ihr hoch hinaus, so braucht die eignen Beine! Lasst euch nicht empor tragen, setzt euch nicht auf fremde Rücken und Köpfe!
+Wollt ihr hoch hinaus, so braucht die eignen Beine! Lasst euch nicht empor **tragen**, setzt euch nicht auf fremde Rücken und Köpfe!
 
 Du aber stiegst zu Pferde? Du reitest nun hurtig hinauf zu deinem Ziele? Wohlan, mein Freund! Aber dein lahmer Fuss sitzt auch mit zu Pferde!
 
-Wenn du an deinem Ziele bist, wenn du von deinem Pferde springst: auf deiner Höhe gerade, du höherer Mensch — wirst du stolpern!
+Wenn du an deinem Ziele bist, wenn du von deinem Pferde springst: auf deiner **Höhe** gerade, du höherer Mensch — wirst du stolpern!
 
   
 
@@ -1614,15 +1614,15 @@ Wenn du an deinem Ziele bist, wenn du von deinem Pferde springst: auf deiner Hö
 
 Ihr Schaffenden, ihr höheren Menschen! Man ist nur für das eigne Kind schwanger.
 
-Lasst euch Nichts vorreden, einreden! Wer ist denn euer Nächster? Und handelt ihr auch „für den Nächsten“, — ihr schafft doch nicht für ihn!
+Lasst euch Nichts vorreden, einreden! Wer ist denn **euer** Nächster? Und handelt ihr auch „für den Nächsten“, — ihr schafft doch nicht für ihn!
 
 Verlernt mir doch diess „Für“, ihr Schaffenden: eure Tugend gerade will es, dass ihr kein Ding mit „für“ und „um“ und „weil“ thut. Gegen diese falschen kleinen Worte sollt ihr euer Ohr zukleben.
 
-Das „für den Nächsten“ ist die Tugend nur der kleinen Leute: da heisst es „gleich und gleich“ und „Hand wäscht Hand“: — sie haben nicht Recht noch Kraft zu eurem Eigennutz!
+Das „für den Nächsten“ ist die Tugend nur der kleinen Leute: da heisst es „gleich und gleich“ und „Hand wäscht Hand“: — sie haben nicht Recht noch Kraft zu **eurem** Eigennutz!
 
 In eurem Eigennutz, ihr Schaffenden, ist der Schwangeren Vorsicht und Vorsehung! Was Niemand noch mit Augen sah, die Frucht: die schirmt und schont und nährt eure ganze Liebe.
 
-Wo eure ganze Liebe ist, bei eurem Kinde, da ist auch eure ganze Tugend! Euer Werk, euer Wille ist euer „Nächster“: lasst euch keine falschen Werthe einreden!
+Wo eure ganze Liebe ist, bei eurem Kinde, da ist auch eure ganze Tugend! Euer Werk, euer Wille ist **euer** „Nächster“: lasst euch keine falschen Werthe einreden!
 
   
 
@@ -1666,11 +1666,11 @@ In der Einsamkeit wächst, was Einer in sie bringt, auch das innere Vieh. Solche
 
 Gab es Schmutzigeres bisher auf Erden als Wüsten-Heilige? Um
 
-*Erratum:*Um  
+*Erratum:***Um**  
 *lies:*Um  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- die herum war nicht nur der Teufel los, — sondern auch das Schwein.
+**die** herum war nicht nur der Teufel los, — sondern auch das Schwein.
 
   
 
@@ -1680,7 +1680,7 @@ Gab es Schmutzigeres bisher auf Erden als Wüsten-Heilige? Um
 
 ### [14.](javascript:;)
 
-Scheu, beschämt, ungeschickt, einem Tiger gleich, dem der Sprung missrieth: also, ihr höheren Menschen, sah ich oft euch bei Seite schleichen. Ein Wurf missrieth euch.
+Scheu, beschämt, ungeschickt, einem Tiger gleich, dem der Sprung missrieth: also, ihr höheren Menschen, sah ich oft euch bei Seite schleichen. Ein **Wurf** missrieth euch.
 
 Aber, ihr Würfelspieler, was liegt daran! Ihr lerntet nicht spielen und spotten, wie man spielen und spotten muss! Sitzen wir nicht immer an einem grossen Spott- und Spieltische?
 
@@ -1698,7 +1698,7 @@ Je höher von Art, je seltener geräth ein Ding. Ihr höheren Menschen hier, sei
 
 Seid guten Muths, was liegt daran! Wie Vieles ist noch möglich! Lernt über euch selber lachen, wie man lachen muss!
 
-Was Wunders auch, dass ihr missriethet und halb geriethet, ihr Halb-Zerbrochenen! Drängt und stösst sich nicht in euch — des Menschen Zukunft?
+Was Wunders auch, dass ihr missriethet und halb geriethet, ihr Halb-Zerbrochenen! Drängt und stösst sich nicht in euch — des Menschen **Zukunft**?
 
 Des Menschen Fernstes, Tiefstes, Sternen-Höchstes, seine ungeheure Kraft: schäumt Das nicht alles gegen einander in eurem Topfe?
 
@@ -1724,7 +1724,7 @@ Der — liebte nicht genug: sonst hätte er auch uns geliebt, die Lachenden! Abe
 
 Muss man denn gleich fluchen, wo man nicht liebt? Das — dünkt mich ein schlechter Geschmack. Aber so that er, dieser Unbedingte. Er kam vom Pöbel.
 
-Und er selber liebte nur nicht genug: sonst hätte er weniger gezürnt, dass man ihn nicht liebe. Alle grosse Liebe will nicht Liebe: — die will mehr.
+Und er selber liebte nur nicht genug: sonst hätte er weniger gezürnt, dass man ihn nicht liebe. Alle grosse Liebe **will** nicht Liebe: — die will mehr.
 
 Geht aus dem Wege allen solchen Unbedingten! Das ist eine arme kranke Art, eine Pöbel-Art: sie sehn schlimm diesem Leben zu, sie haben den bösen Blick für diese Erde.
 
@@ -1740,7 +1740,7 @@ Geht aus dem Wege allen solchen Unbedingten! Sie haben schwere Füsse und schwü
 
 Krumm kommen alle guten Dinge ihrem Ziele nahe. Gleich Katzen machen sie Buckel, sie schnurren innewendig vor ihrem nahen Glücke, — alle guten Dinge lachen.
 
-Der Schritt verräth, ob Einer schon auf seiner Bahn schreitet: so seht mich gehn! Wer aber seinem Ziel nahe kommt, der tanzt.
+Der Schritt verräth, ob Einer schon auf **seiner** Bahn schreitet: so seht mich gehn! Wer aber seinem Ziel nahe kommt, der tanzt.
 
 Und, wahrlich, zum Standbild ward ich nicht, noch stehe ich nicht da, starr, stumpf, steinern, eine Säule; ich liebe geschwindes Laufen.
 
@@ -1798,9 +1798,9 @@ Der die Pöbel-Schwindhunde hasst und alles missrathene düstere Gezücht: gelob
 
 Ihr höheren Menschen, euer Schlimmstes ist: ihr lerntet alle nicht tanzen, wie man tanzen muss — über euch hinweg tanzen! Was liegt daran, dass ihr missriethet!
 
-Wie Vieles ist noch möglich! So lernt doch über euch hinweg lachen! Erhebt eure Herzen, ihr guten Tänzer, hoch! höher! Und vergesst mir auch das gute Lachen nicht!
+Wie Vieles ist noch möglich! So **lernt** doch über euch hinweg lachen! Erhebt eure Herzen, ihr guten Tänzer, hoch! höher! Und vergesst mir auch das gute Lachen nicht!
 
-Diese Krone des Lachenden, diese Rosenkranz-Krone: euch, meinen Brüdern, werfe ich diese Krone zu! Das Lachen sprach ich heilig; ihr höheren Menschen, lernt mir — lachen!
+Diese Krone des Lachenden, diese Rosenkranz-Krone: euch, meinen Brüdern, werfe ich diese Krone zu! Das Lachen sprach ich heilig; ihr höheren Menschen, **lernt** mir — lachen!
 
   
 
@@ -1819,7 +1819,7 @@ Als Zarathustra diese Reden sprach, stand er nahe dem Eingange seiner Höhle; mi
 
 „Oh reine Gerüche um mich, rief er aus, oh selige Stille um mich! Aber wo sind meine Thiere? Heran, heran, mein Adler und meine Schlange!
 
-Sagt mir doch, meine Thiere: diese höheren Menschen insgesammt — riechen sie vielleicht nicht gut? Oh reine Gerüche um mich! Jetzo weiss und fühle ich erst, wie ich euch, meine Thiere, liebe.“
+Sagt mir doch, meine Thiere: diese höheren Menschen insgesammt — **riechen** sie vielleicht nicht gut? Oh reine Gerüche um mich! Jetzo weiss und fühle ich erst, wie ich euch, meine Thiere, liebe.“
 
 — Und Zarathustra sprach nochmals: „ich liebe euch, meine Thiere!“ Der Adler aber und die Schlange drängten sich an ihn, als er diese Worte sprach, und sahen zu ihm hinauf. Solchergestalt waren sie zu drei still beisammen und schnüffelten und schlürften mit einander die gute Luft. Denn die Luft war hier draussen besser als bei den höheren Menschen.
 
@@ -1835,19 +1835,19 @@ Kaum aber hatte Zarathustra seine Höhle verlassen, da erhob sich der alte Zaube
 
 Und schon, ihr höheren Menschen — dass ich euch mit diesem Lob- und Schmeichel-Namen kitzle, gleich ihm selber — schon fällt mich mein schlimmer Trug- und Zaubergeist an, mein schwermüthiger Teufel,
 
-— welcher diesem Zarathustra ein Widersacher ist aus dem Grunde: vergebt es ihm! Nun will er vor euch zaubern, er hat gerade seine Stunde; umsonst ringe ich mit diesem bösen Geiste.
+— welcher diesem Zarathustra ein Widersacher ist aus dem Grunde: vergebt es ihm! Nun **will** er vor euch zaubern, er hat gerade **seine** Stunde; umsonst ringe ich mit diesem bösen Geiste.
 
 Euch Allen, welche Ehren ihr euch mit Worten geben mögt, ob ihr euch „die freien Geister“ nennt oder „die Wahrhaftigen“ oder „die Büsser des Geistes“ oder „die Entfesselten“ oder „die grossen Sehnsüchtigen“ —
 
-— euch Allen, die ihr am grossen Ekel leidet gleich mir, denen der alte Gott starb und noch kein neuer Gott in Wiegen und Windeln liegt, — euch Allen ist mein böser Geist und Zauber-Teufel hold.
+— euch Allen, die ihr **am grossen Ekel** leidet gleich mir, denen der alte Gott starb und noch kein neuer Gott in Wiegen und Windeln liegt, — euch Allen ist mein böser Geist und Zauber-Teufel hold.
 
 Ich kenne euch, ihr höheren Menschen, ich kenne ihn, — ich kenne auch diesen Unhold, den ich wider Willen liebe, diesen Zarathustra: er selber dünkt mich öfter gleich einer schönen Heiligen-Larve,
 
 — gleich einem neuen wunderlichen Mummenschanze, in dem sich mein böser Geist, der schwermüthige Teufel, gefällt: — ich liebe Zarathustra, so dünkt mich oft, um meines bösen Geistes Willen. —
 
-Aber schon fällt der mich an und zwingt mich, dieser Geist der Schwermuth, dieser Abend-Dämmerungs-Teufel: und, wahrlich, ihr höheren Menschen, es gelüstet ihn —
+Aber schon fällt **der** mich an und zwingt mich, dieser Geist der Schwermuth, dieser Abend-Dämmerungs-Teufel: und, wahrlich, ihr höheren Menschen, es gelüstet ihn —
 
-— macht nur die Augen auf! — es gelüstet ihn, nackt zu kommen, ob männlich, ob weiblich, noch weiss ich’s nicht: aber er kommt, er zwingt mich, wehe! macht eure Sinne auf!
+— macht nur die Augen auf! — es gelüstet ihn, **nackt** zu kommen, ob männlich, ob weiblich, noch weiss ich’s nicht: aber er kommt, er zwingt mich, wehe! macht eure Sinne auf!
 
 Der Tag klingt ab, allen Dingen kommt nun der Abend, auch den besten Dingen; hört nun und seht, ihr höheren Menschen, welcher Teufel, ob Mann, ob Weib, dieser Geist der Abend-Schwermuth ist!“
 
@@ -1891,7 +1891,7 @@ Durch schwarze Bäume um dich liefen,
 
 Blendende Sonnen-Gluthblicke, schadenfrohe.
 
-„Der Wahrheit Freier? Du? — so höhnten sie —
+„Der **Wahrheit** Freier? Du? — so höhnten sie —
 
 Nein! Nur ein Dichter!
 
@@ -1909,7 +1909,7 @@ Sich selber Larve,
 
 Sich selbst zur Beute —
 
-Das — der Wahrheit Freier?
+**Das** — der Wahrheit Freier?
 
 Nein! Nur Narr! Nur Dichter!
 
@@ -1929,13 +1929,13 @@ Herumschweifend, herumschwebend, —
 
 Nur Narr! Nur
 
-*Erratum:*Nur Narr! Nur  
+*Erratum:***Nur** Narr! **Nur**  
 *lies:*Nur Narr! Nur  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Dichter!
 
-Das — der Wahrheit Freier?
+**Das** — der Wahrheit Freier?
 
 Nicht still, starr, glatt, kalt,
 
@@ -1977,7 +1977,7 @@ Oder, dem Adler gleich, der lange,
 
 Lange starr in Abgründe blickt,
 
-In seine Abgründe: — —
+In **seine** Abgründe: — —
 
 Oh wie sie sich hier hinab,
 
@@ -2011,7 +2011,7 @@ Adlerhaft, pantherhaft
 
 Sind des Dichters Sehnsüchte,
 
-Sind deine Sehnsüchte unter tausend Larven,
+Sind **deine** Sehnsüchte unter tausend Larven,
 
 Du Narr! Du Dichter!
 
@@ -2019,7 +2019,7 @@ Der du den Menschen schautest
 
 So Gott als Schaf —:
 
-Den Gott zerreissen im Menschen
+Den Gott **zerreissen** im Menschen
 
 Wie das Schaf im Menschen,
 
@@ -2029,9 +2029,9 @@ Und zerreissend
 *lies:*zerreissend  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-lachen —
+**lachen** —
 
-Das, Das ist deine Seligkeit!
+**Das**, **Das** ist deine Seligkeit!
 
 Eines Panthers und Adlers Seligkeit!
 
@@ -2075,7 +2075,7 @@ Wie da du durstetest? —
 
 Dass ich verbannt sei
 
-Von aller Wahrheit,
+Von **aller** Wahrheit,
 
 Nur Narr!
 
@@ -2106,9 +2106,9 @@ Also sang der Zauberer; und Alle, die beisammen waren, giengen gleich Vögeln un
 
  Zarathustra herein! Du machst diese Höhle schwül und giftig, du schlimmer alter Zauberer!
 
-Du verführst, du Falscher, Feiner, zu unbekannten Begierden und Wildnissen. Und wehe, wenn Solche, wie du, von der Wahrheit Redens und Wesens machen!
+Du verführst, du Falscher, Feiner, zu unbekannten Begierden und Wildnissen. Und wehe, wenn Solche, wie du, von der **Wahrheit** Redens und Wesens machen!
 
-Wehe allen freien Geistern, welche nicht vor solchen Zauberern auf der Hut sind! Dahin ist es mit ihrer Freiheit: du lehrst und lockst zurück in Gefängnisse, —
+Wehe allen freien Geistern, welche nicht vor **solchen** Zauberern auf der Hut sind! Dahin ist es mit ihrer Freiheit: du lehrst und lockst zurück in Gefängnisse, —
 
 — du alter schwermüthiger Teufel, aus deiner Klage klingt eine Lockpfeife, du gleichst Solchen, welche mit ihrem Lobe der Keuschheit heimlich zu Wollüsten laden!“
 
@@ -2122,43 +2122,43 @@ Ihr freien Seelen, wohin ist eure Freiheit! Fast, dünkt mich’s, gleicht ihr S
 
 In euch, ihr höheren Menschen, muss Mehr von Dem sein, was der Zauberer seinen bösen Zauber- und Truggeist nennt: — wir müssen wohl verschieden sein.
 
-Und wahrlich, wir sprachen und dachten genug mitsammen, ehe Zarathustra heimkam zu seiner Höhle, als dass ich nicht wüsste: wir sind verschieden.
+Und wahrlich, wir sprachen und dachten genug mitsammen, ehe Zarathustra heimkam zu seiner Höhle, als dass ich nicht wüsste: wir **sind** verschieden.
 
-Wir suchen Verschiednes auch hier oben, ihr und ich. Ich nämlich suche mehr Sicherheit, desshalb kam ich zu Zarathustra. Der nämlich ist noch der festeste Thurm und Wille —
+Wir **suchen** Verschiednes auch hier oben, ihr und ich. Ich nämlich suche **mehr Sicherheit**, desshalb kam ich zu Zarathustra. Der nämlich ist noch der festeste Thurm und Wille —
 
-— heute, wo Alles wackelt, wo alle Erde bebt. Ihr aber, wenn ich eure Augen sehe, die ihr macht, fast dünkt mich’s, ihr sucht mehr Unsicherheit,
+— heute, wo Alles wackelt, wo alle Erde bebt. Ihr aber, wenn ich eure Augen sehe, die ihr macht, fast dünkt mich’s, ihr sucht **mehr Unsicherheit**,
 
 — mehr Schauder, mehr Gefahr, mehr Erdbeben. Euch gelüstet, fast dünkt mich’s so, vergebt meinem Dünkel, ihr höheren Menschen —
 
-— euch gelüstet nach dem schlimmsten gefährlichsten Leben, das mir am meisten Furcht macht, nach dem Leben wilder Thiere, nach Wäldern, Höhlen, steilen Bergen und Irr-Schlünden.
+— euch gelüstet nach dem schlimmsten gefährlichsten Leben, das **mir** am meisten Furcht macht, nach dem Leben wilder Thiere, nach Wäldern, Höhlen, steilen Bergen und Irr-Schlünden.
 
-Und nicht die Führer aus der Gefahr gefallen euch am besten, sondern die euch von allen Wegen abführen, die Verführer. Aber, wenn solch Gelüsten an euch wirklich ist, so dünkt es mich trotzdem unmöglich.
+Und nicht die Führer **aus** der Gefahr gefallen euch am besten, sondern die euch von allen Wegen abführen, die Verführer. Aber, wenn solch Gelüsten an euch **wirklich** ist, so dünkt es mich trotzdem **unmöglich**.
 
-Furcht nämlich — das ist des Menschen Erb- und Grundgefühl; aus der Furcht erklärt sich Jegliches, Erbsünde und Erbtugend. Aus der Furcht wuchs auch meine Tugend, die heisst: Wissenschaft.
+Furcht nämlich — das ist des Menschen Erb- und Grundgefühl; aus der Furcht erklärt sich Jegliches, Erbsünde und Erbtugend. Aus der Furcht wuchs auch **meine** Tugend, die heisst: Wissenschaft.
 
 Die Furcht nämlich vor wildem Gethier — die wurde dem Menschen am längsten angezüchtet, einschliesslich das Thier, das er in sich selber birgt und fürchtet: — Zarathustra heisst es „das innere Vieh.“
 
-Solche lange alte Furcht, endlich fein geworden, geistlich, geistig— heute, dünkt mich, heisst sie: Wissenschaft.“ —
+Solche lange alte Furcht, endlich fein geworden, geistlich, geistig— heute, dünkt mich, heisst sie: **Wissenschaft**.“ —
 
 Also sprach der Gewissenhafte; aber Zarathustra, der eben in seine Höhle zurückkam und die letzte Rede gehört und errathen hatte, warf dem Gewissenhaften eine Hand voll Rosen zu und lachte ob seiner „Wahrheiten“. „Wie! rief er, was hörte ich da eben? Wahrlich, mich dünkt, du bist ein Narr oder ich selber bin’s: und deine „Wahrheit“ stelle ich rucks und flugs auf den Kopf.
 
-Furcht nämlich — ist unsre Ausnahme. Muth aber und Abenteuer und Lust am Ungewissen, am Ungewagten, — Muth dünkt mich des Menschen ganze Vorgeschichte.
+**Furcht** nämlich — ist unsre Ausnahme. Muth aber und Abenteuer und Lust am Ungewissen, am Ungewagten, — **Muth** dünkt mich des Menschen ganze Vorgeschichte.
 
 Den wildesten muthigsten Thieren hat er alle ihre Tugenden abgeneidet und abgeraubt: so erst wurde er — zum Menschen.
 
-Dieser Muth, endlich fein geworden, geistlich, geistig, dieser Menschen-Muth mit Adler-Flügeln und Schlangen-Klugheit: der, dünkt mich, heisst heute —“
+**Dieser** Muth, endlich fein geworden, geistlich, geistig, dieser Menschen-Muth mit Adler-Flügeln und Schlangen-Klugheit: **der**, dünkt mich, heisst heute —“
 
-„Zarathustra“! schrien Alle, die beisammen sassen, wie aus Einem Munde und machten dazu ein grosses Gelächter; es hob sich aber von ihnen wie eine schwere Wolke. Auch der Zauberer lachte und sprach mit Klugheit: „Wohlan! Er ist davon, mein böser Geist!
+**„Zarathustra“!** schrien Alle, die beisammen sassen, wie aus Einem Munde und machten dazu ein grosses Gelächter; es hob sich aber von ihnen wie eine schwere Wolke. Auch der Zauberer lachte und sprach mit Klugheit: „Wohlan! Er ist davon, mein böser Geist!
 
 Und habe ich euch nicht selber vor ihm gewarnt, als ich sagte, dass er ein Betrüger sei, ein Lug- und Truggeist?
 
-Sonderlich nämlich, wenn er sich nackend zeigt. Aber was kann ich für seine Tücken! Habe ich ihn und die Welt geschaffen?
+Sonderlich nämlich, wenn er sich nackend zeigt. Aber was kann **ich** für seine Tücken! Habe **ich** ihn und die Welt geschaffen?
 
 Wohlan! Seien wir wieder gut und guter Dinge! Und ob schon Zarathustra böse blickt — seht ihn doch! er ist mir gram —:
 
 — bevor die Nacht kommt, lernt er wieder, mich lieben und loben, er kann nicht lange leben, ohne solche Thorheiten zu thun.
 
-Der — liebt seine Feinde: diese Kunst versteht er am besten von Allen, die ich sah. Aber er nimmt Rache dafür — an seinen Freunden!“
+**Der** — liebt seine Feinde: diese Kunst versteht er am besten von Allen, die ich sah. Aber er nimmt Rache dafür — an seinen Freunden!“
 
 Also sprach der alte Zauberer, und die höheren Menschen zollten ihm Beifall: so dass Zarathustra herumgieng und mit Bosheit und Liebe seinen Freunden die Hände schüttelte, — gleichsam als Einer, der an Allen Etwas gutzumachen und abzubitten hat. Als er aber dabei an die Thür seiner Höhle kam, siehe, da gelüstete ihn schon wieder nach der guten Luft da draussen und nach seinen Thieren, — und er wollte hinaus schlüpfen.
 
@@ -2179,7 +2179,7 @@ Also sprach der alte Zauberer, und die höheren Menschen zollten ihm Beifall: so
 
 Schon gab uns jener alte Zauberer von seinem Schlimmsten zum Besten, und siehe doch, der gute fromme Papst da hat Thränen in den Augen und hat sich ganz wieder auf’s Meer der Schwermuth eingeschifft.
 
-Diese Könige mögen wohl vor uns noch gute Miene machen: das lernten Die nämlich von uns Allen heute am Besten! Hätten sie aber keine Zeugen, ich wette, auch bei ihnen fienge das böse Spiel wieder an —
+Diese Könige mögen wohl vor uns noch gute Miene machen: das lernten **Die** nämlich von uns Allen heute am Besten! Hätten sie aber keine Zeugen, ich wette, auch bei ihnen fienge das böse Spiel wieder an —
 
 — das böse Spiel der ziehenden Wolken, der feuchten Schwermuth, der verhängten Himmel, der gestohlenen Sonnen, der heulenden Herbst-Winde!
 
@@ -2215,7 +2215,7 @@ Also sprach der Wanderer und Schatten; und ehe Jemand ihm antwortete, hatte er s
 
 ### [2.](javascript:;)
 
-Die Wüste wächst: weh Dem, der Wüsten birgt!
+**Die Wüste wächst: weh Dem, der Wüsten birgt!**
 
 — Ha! Feierlich!
 
@@ -2339,7 +2339,7 @@ Mädchen-Katzen,
 
 Dudu und Suleika,
 
-— umsphinxt, dass ich in Ein Wort
+— **umsphinxt**, dass ich in Ein Wort
 
 Viel Gefühle stopfe:
 
@@ -2509,7 +2509,7 @@ Ich kann nicht anders, Gott helfe mir!
 
 Amen!
 
-Die Wüste wächst: weh Dem, der Wüsten birgt!
+**Die Wüste wächst: weh Dem, der Wüsten birgt!**
 
   
 
@@ -2530,13 +2530,13 @@ Nach dem Liede des Wanderers und Schattens wurde die Höhle mit Einem Male voll 
 
 — wenn auch, leider, noch nicht das Schrein.“ Und Zarathustra hielt sich die Ohren zu, denn eben mischte sich das I-A des Esels wunderlich mit dem Jubel-Lärm dieser höheren Menschen.
 
-„Sie sind lustig, begann er wieder, und wer weiss? vielleicht auf ihres Wirthes Unkosten; und lernten sie von mir lachen, so ist es doch nicht mein Lachen, das sie lernten.
+„Sie sind lustig, begann er wieder, und wer weiss? vielleicht auf ihres Wirthes Unkosten; und lernten sie von mir lachen, so ist es doch nicht **mein** Lachen, das sie lernten.
 
 Aber was liegt daran! Es sind alte Leute: sie genesen auf ihre Art, sie lachen auf ihre Art; meine Ohren haben schon Schlimmeres erduldet und wurden nicht unwirsch.
 
-Dieser Tag ist ein Sieg: er weicht schon, er flieht, der Geist der Schwere, mein alter Erzfeind! Wie gut will dieser Tag enden, der so schlimm und schwer begann!
+Dieser Tag ist ein Sieg: er weicht schon, er flieht, **der Geist der Schwere**, mein alter Erzfeind! Wie gut will dieser Tag enden, der so schlimm und schwer begann!
 
-Und enden will er. Schon kommt der Abend: über das Meer her reitet er, der gute Reiter! Wie er sich wiegt, der Selige, Heimkehrende, in seinen purpurnen Sätteln!
+Und enden **will** er. Schon kommt der Abend: über das Meer her reitet er, der gute Reiter! Wie er sich wiegt, der Selige, Heimkehrende, in seinen purpurnen Sätteln!
 
 Der Himmel blickt klar dazu, die Welt liegt tief: oh all ihr Wunderlichen, die ihr zu mir kamt, es lohnt sich schon, bei mir zu leben!“
 
@@ -2552,13 +2552,13 @@ Neue Hoffnungen sind in ihren Armen und Beinen, ihr Herz streckt sich aus. Sie f
 
 Solche Kost mag freilich nicht für Kinder sein, noch auch für sehnsüchtige alte und junge Weibchen. Denen überredet man anders die Eingeweide; deren Arzt und Lehrer bin ich nicht.
 
-Der Ekel weicht diesen höheren Menschen: wohlan! das ist mein Sieg. In meinem Reiche werden sie sicher, alle dumme Scham läuft davon, sie schütten sich aus.
+Der **Ekel** weicht diesen höheren Menschen: wohlan! das ist mein Sieg. In meinem Reiche werden sie sicher, alle dumme Scham läuft davon, sie schütten sich aus.
 
-Sie schütten ihr Herz aus, gute Stunden kehren ihnen zurück, sie feiern und käuen wieder, — sie werden dankbar.
+Sie schütten ihr Herz aus, gute Stunden kehren ihnen zurück, sie feiern und käuen wieder, — sie werden **dankbar**.
 
-Das nehme ich als das beste Zeichen: sie werden dankbar. Nicht lange noch, und sie denken sich Feste aus und stellen Denksteine ihren alten Freuden auf.
+**Das** nehme ich als das beste Zeichen: sie werden dankbar. Nicht lange noch, und sie denken sich Feste aus und stellen Denksteine ihren alten Freuden auf.
 
-Es sind Genesende!“ Also sprach Zarathustra fröhlich zu seinem Herzen und schaute hinaus; seine Thiere aber drängten sich an ihn und ehrten sein Glück und sein Stillschweigen.
+Es sind **Genesende**!“ Also sprach Zarathustra fröhlich zu seinem Herzen und schaute hinaus; seine Thiere aber drängten sich an ihn und ehrten sein Glück und sein Stillschweigen.
 
   
 
@@ -2572,7 +2572,7 @@ Plötzlich aber erschrak das Ohr Zarathustra’s: die Höhle nämlich, welche bi
 
 „Was geschieht? Was treiben sie?“ fragte er sich und schlich zum Eingange heran, dass er seinen Gästen, unvermerkt, zusehn könne. Aber, Wunder über Wunder! was musste er da mit seinen eignen Augen sehn!
 
-„Sie sind Alle wieder fromm geworden, sie beten, sie sind toll!“ — sprach er und verwunderte sich über die Maassen. Und, fürwahr!, alle diese höheren Menschen, die zwei Könige, der Papst ausser Dienst, der schlimme Zauberer, der freiwillige Bettler, der Wanderer und Schatten, der alte Wahrsager, der Gewissenhafte des Geistes und der hässlichste Mensch: sie lagen Alle gleich Kindern und gläubigen alten Weibchen auf den Knien und beteten den Esel an. Und eben begann der hässlichste Mensch zu gurgeln und zu schnauben, wie als ob etwas Unaussprechliches aus ihm heraus wolle; als er es aber wirklich bis zu Worten gebracht hatte, siehe, da war es eine fromme seltsame Litanei zur Lobpreisung des angebeteten und angeräucherten Esels. Diese Litanei aber klang also:
+„Sie sind Alle wieder **fromm** geworden, sie **beten**, sie sind toll!“ — sprach er und verwunderte sich über die Maassen. Und, fürwahr!, alle diese höheren Menschen, die zwei Könige, der Papst ausser Dienst, der schlimme Zauberer, der freiwillige Bettler, der Wanderer und Schatten, der alte Wahrsager, der Gewissenhafte des Geistes und der hässlichste Mensch: sie lagen Alle gleich Kindern und gläubigen alten Weibchen auf den Knien und beteten den Esel an. Und eben begann der hässlichste Mensch zu gurgeln und zu schnauben, wie als ob etwas Unaussprechliches aus ihm heraus wolle; als er es aber wirklich bis zu Worten gebracht hatte, siehe, da war es eine fromme seltsame Litanei zur Lobpreisung des angebeteten und angeräucherten Esels. Diese Litanei aber klang also:
 
   
 
@@ -2641,9 +2641,9 @@ Schlimmer, wahrlich, treibst du’s hier noch als bei deinen schlimmen braunen M
 
 „Schlimm genug, antwortete der Wanderer und Schatten, du hast Recht: aber was kann ich dafür! Der alte Gott lebt wieder, oh Zarathustra, du magst reden, was du willst.
 
-Der hässlichste Mensch ist an Allem schuld: der hat ihn wieder auferweckt. Und wenn er sagt, dass er ihn einst getödtet habe: Tod ist bei Göttern immer nur ein Vorurtheil.“
+Der hässlichste Mensch ist an Allem schuld: der hat ihn wieder auferweckt. Und wenn er sagt, dass er ihn einst getödtet habe: **Tod** ist bei Göttern immer nur ein Vorurtheil.“
 
-— Und du, sprach Zarathustra, du schlimmer alter Zauberer, was thatest du! Wer soll, in dieser freien Zeit, fürderhin an dich glauben, wenn du an solche Götter-Eseleien glaubst?
+— Und du, sprach Zarathustra, du schlimmer alter Zauberer, was thatest du! Wer soll, in dieser freien Zeit, fürderhin an dich glauben, wenn **du** an solche Götter-Eseleien glaubst?
 
 Es war eine Dummheit, was du thatest; wie konntest du, du Kluger, eine solche Dummheit thun!
 
@@ -2655,21 +2655,21 @@ Es war eine Dummheit, was du thatest; wie konntest du, du Kluger, eine solche Du
 
 Vielleicht, dass ich an Gott nicht glauben darf: gewiss aber ist, dass Gott mir in dieser Gestalt noch am glaubwürdigsten dünkt.
 
-Gott soll ewig sein, nach dem Zeugnisse der Frömmsten: wer so viel Zeit hat, lässt sich Zeit. So langsam und so dumm als möglich: damit kann ein Solcher es doch sehr weit bringen.
+Gott soll ewig sein, nach dem Zeugnisse der Frömmsten: wer so viel Zeit hat, lässt sich Zeit. So langsam und so dumm als möglich: **damit** kann ein Solcher es doch sehr weit bringen.
 
 Und wer des Geistes zu viel hat, der möchte sich wohl in die Dumm- und Narrheit selber vernarren. Denke über dich selber nach, oh Zarathustra!
 
 Du selber — wahrlich! auch du könntest wohl aus Überfluss und Weisheit zu einem Esel werden.
 
-Geht nicht ein vollkommner Weiser gern auf den krümmsten Wegen? Der Augenschein lehrt es, oh Zarathustra, — dein Augenschein!“
+Geht nicht ein vollkommner Weiser gern auf den krümmsten Wegen? Der Augenschein lehrt es, oh Zarathustra, — **dein** Augenschein!“
 
 — „Und du selber zuletzt, sprach Zarathustra und wandte sich gegen den hässlichsten Menschen, der immer noch auf dem Boden lag, den Arm zu dem Esel emporhebend (er gab ihm nämlich Wein zu trinken). Sprich, du Unaussprechlicher, was hast du da gemacht!
 
-Du dünkst mich verwandelt, dein Auge glüht, der Mantel des Erhabenen liegt um deine Hässlichkeit: was thatest du?
+Du dünkst mich verwandelt, dein Auge glüht, der Mantel des Erhabenen liegt um deine Hässlichkeit: **was** thatest du?
 
 Ist es denn wahr, was Jene sagen, dass du ihn wieder auferwecktest? Und wozu? War er nicht mit Grund abgetödtet und abgethan?
 
-Du selber dünkst mich aufgeweckt: was thatest du? was kehrtest du um? Was bekehrtest du dich? Sprich, du Unaussprechlicher!
+Du selber dünkst mich aufgeweckt: was thatest du? was kehrtest **du** um? Was bekehrtest **du** dich? Sprich, du Unaussprechlicher!
 
 *Erratum:*Unaussprechlicher?  
 *lies:*Unaussprechlicher!  
@@ -2679,9 +2679,9 @@ Du selber dünkst mich aufgeweckt: was thatest du? was kehrtest du um? Was bekeh
 
 „Oh Zarathustra, antwortete der hässlichste Mensch, du bist ein Schelm!
 
-Ob Der noch lebt oder wieder lebt oder gründlich todt ist, — wer von uns Beiden weiss Das am Besten? Ich frage dich.
+Ob **Der** noch lebt oder wieder lebt oder gründlich todt ist, — wer von uns Beiden weiss Das am Besten? Ich frage dich.
 
-Eins aber weiss ich, — von dir selber lernte ich’s einst, oh Zarathustra: wer am gründlichsten tödten will, der lacht.
+Eins aber weiss ich, — von dir selber lernte ich’s einst, oh Zarathustra: wer am gründlichsten tödten will, der **lacht**.
 
 „Nicht durch Zorn, sondern durch Lachen tödtet man“ — so sprachst du einst. Oh Zarathustra, du Verborgener, du Vernichter ohne Zorn, du gefährlicher Heiliger, — du bist ein Schelm!“
 
@@ -2701,11 +2701,11 @@ Wie doch einem Jeden von euch das Herz zappelte vor Lust und Bosheit, darob, das
 
 — dass ihr endlich wieder thatet wie Kinder thun, nämlich betetet, hände-faltetet und „lieber Gott“ sagtet!
 
-Aber nun lasst mir diese Kinderstube, meine eigne Höhle, wo heute alle Kinderei zu Hause ist. Kühlt hier draussen euren heissen Kinder-Übermuth und Herzenslärm ab!
+Aber nun lasst mir **diese** Kinderstube, meine eigne Höhle, wo heute alle Kinderei zu Hause ist. Kühlt hier draussen euren heissen Kinder-Übermuth und Herzenslärm ab!
 
 Freilich: so ihr nicht werdet wie die Kindlein, so kommt ihr nicht in das Himmelreich. (Und Zarathustra zeigte mit den Händen nach Oben.)
 
-Aber wir wollen auch gar nicht in’s Himmelreich: Männer sind wir worden, — so wollen wir das Erdenreich.“
+Aber wir wollen auch gar nicht in’s Himmelreich: Männer sind wir worden, — **so wollen wir das Erdenreich**.“
 
   
 
@@ -2723,13 +2723,13 @@ Und noch einmal hob Zarathustra an zu reden. „Oh meine neuen Freunde, sprach e
 *lies:*alle  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- aufgeblüht: mich dünkt, solchen Blumen, wie ihr seid, thun neue Feste noth,
+ aufgeblüht: mich dünkt, solchen Blumen, wie ihr seid, thun **neue Feste** noth,
 
 — ein kleiner tapferer Unsinn, irgend ein Gottesdienst und Eselsfest, irgend ein alter fröhlicher Zarathustra-Narr, ein Brausewind, der euch die Seelen hell bläst.
 
-Vergesst diese Nacht und diess Eselsfest nicht, ihr höheren Menschen! Das erfandet ihr bei mir, Das nehme ich als gutes Wahrzeichen, — Solcherlei erfinden nur Genesende!
+Vergesst diese Nacht und diess Eselsfest nicht, ihr höheren Menschen! **Das** erfandet ihr bei mir, Das nehme ich als gutes Wahrzeichen, — Solcherlei erfinden nur Genesende!
 
-Und feiert ihr es abermals, dieses Eselsfest, thut’s euch zu Liebe, thut’s auch mir zu Liebe! Und zu meinem Gedächtniss!“
+Und feiert ihr es abermals, dieses Eselsfest, thut’s euch zu Liebe, thut’s auch mir zu Liebe! Und zu **meinem** Gedächtniss!“
 
   
 
@@ -2752,13 +2752,13 @@ Inzwischen aber war Einer nach dem Andern hinaus getreten, in’s Freie und in d
 
 Da aber geschah Das, was an jenem erstaunlichen langen Tage das Erstaunlichste war: der hässlichste Mensch begann noch ein Mal und zum letzten Mal zu gurgeln und zu schnauben, und als er es bis zu Worten gebracht hatte, siehe, da sprang eine Frage rund und reinlich aus seinem Munde, eine gute tiefe klare Frage, welche Allen, die ihm zuhörten, das Herz im Leibe bewegte.
 
-„Meine Freunde insgesammt, sprach der hässlichste Mensch, was dünket euch? Um dieses Tags Willen — ich bin’s zum ersten Male zufrieden, dass ich das ganze Leben lebte.
+„Meine Freunde insgesammt, sprach der hässlichste Mensch, was dünket euch? Um dieses Tags Willen — **ich** bin’s zum ersten Male zufrieden, dass ich das ganze Leben lebte.
 
 Und dass ich so viel bezeuge, ist mir noch nicht genug. Es lohnt sich auf der Erde zu leben: Ein Tag, Ein Fest mit Zarathustra lehrte mich die Erde lieben.
 
-„War Das — das Leben?“ will ich zum Tode sprechen. „Wohlan! Noch Ein Mal!“
+„War **Das** — das Leben?“ will ich zum Tode sprechen. „Wohlan! Noch Ein Mal!“
 
-Meine Freunde, was dünket euch? Wollt ihr nicht gleich mir zum Tode sprechen: War Das — das Leben? Um Zarathustra’s Willen, wohlan! Noch Ein Mal!“ — —
+Meine Freunde, was dünket euch? Wollt ihr nicht gleich mir zum Tode sprechen: War **Das** — das Leben? Um Zarathustra’s Willen, wohlan! Noch Ein Mal!“ — —
 
 Also sprach der hässlichste Mensch; es war aber nicht lange vor Mitternacht. Und was glaubt ihr wohl, dass damals sich zutrug? Sobald die höheren Menschen seine Frage hörten, wurden sie sich mit Einem Male ihrer Verwandlung und Genesung bewusst, und wer ihnen dieselbe gegeben habe: da sprangen sie auf Zarathustra zu, dankend, verehrend, liebkosend, ihm die Hände küssend, so wie es der Art eines Jeden eigen war: also dass Einige lachten, Einige weinten. Der alte Wahrsager aber tanzte vor Vergnügen; und wenn er auch, wie manche Erzähler meinen, damals voll süssen Weines war, so war er gewisslich noch voller des süssen Lebens und hatte aller Müdigkeit abgesagt. Es giebt sogar Solche, die erzählen, dass damals der Esel getanzt habe: nicht umsonst nämlich habe ihm der hässlichste Mensch vorher Wein zu trinken gegeben. Diess mag sich nun so verhalten oder auch anders; und wenn in Wahrheit an jenem Abende der Esel nicht getanzt hat, so geschahen doch damals grössere und seltsamere Wunderdinge als es das Tanzen eines Esels wäre. Kurz, wie das Sprichwort Zarathustra’s lautet: „was liegt daran!“
 
@@ -2772,11 +2772,11 @@ Also sprach der hässlichste Mensch; es war aber nicht lange vor Mitternacht. Un
 
 Zarathustra aber, als sich diess mit dem hässlichsten Menschen zutrug, stand da, wie ein Trunkener: sein Blick erlosch, seine Zunge lallte, seine Füsse schwankten. Und wer möchte auch errathen, welche Gedanken dabei über Zarathustra’s Seele liefen? Ersichtlich aber wich sein Geist zurück und floh voraus und war in weiten Fernen und gleichsam „auf hohem Joche, wie geschrieben steht, zwischen zwei Meeren,
 
-— zwischen Vergangenem und Zukünftigem als schwere Wolke wandelnd.“ Allgemach aber, während ihn die höheren Menschen in den Armen hielten, kam er ein Wenig zu sich selber zurück und wehrte mit den Händen dem Gedränge der Verehrenden und Besorgten; doch sprach er nicht. Mit Einem Male aber wandte er schnell den Kopf, denn er schien Etwas zu hören: da legte er den Finger an den Mund und sprach: „Kommt!“
+— zwischen Vergangenem und Zukünftigem als schwere Wolke wandelnd.“ Allgemach aber, während ihn die höheren Menschen in den Armen hielten, kam er ein Wenig zu sich selber zurück und wehrte mit den Händen dem Gedränge der Verehrenden und Besorgten; doch sprach er nicht. Mit Einem Male aber wandte er schnell den Kopf, denn er schien Etwas zu hören: da legte er den Finger an den Mund und sprach: **„Kommt!“**
 
-Und alsbald wurde es rings still und heimlich; aus der Tiefe aber kam langsam der Klang einer Glocke herauf. Zarathustra horchte darnach, gleich den höheren Menschen; dann aber legte er zum andern Male den Finger an den Mund und sprach wiederum: „Kommt! Kommt! Es geht gen Mitternacht!“ — und seine Stimme hatte sich verwandelt. Aber immer noch rührte er sich nicht von der Stelle: da wurde es noch stiller und heimlicher, und Alles horchte, auch der Esel, und Zarathustra’s Ehrenthiere, der Adler und die Schlange, insgleichen die Höhle Zarathustra’s und der grosse kühle Mond und die Nacht selber. Zarathustra aber legte zum dritten Male die Hand an den Mund und sprach:
+Und alsbald wurde es rings still und heimlich; aus der Tiefe aber kam langsam der Klang einer Glocke herauf. Zarathustra horchte darnach, gleich den höheren Menschen; dann aber legte er zum andern Male den Finger an den Mund und sprach wiederum: **„Kommt! Kommt! Es geht gen Mitternacht!“** — und seine Stimme hatte sich verwandelt. Aber immer noch rührte er sich nicht von der Stelle: da wurde es noch stiller und heimlicher, und Alles horchte, auch der Esel, und Zarathustra’s Ehrenthiere, der Adler und die Schlange, insgleichen die Höhle Zarathustra’s und der grosse kühle Mond und die Nacht selber. Zarathustra aber legte zum dritten Male die Hand an den Mund und sprach:
 
-Kommt! Kommt! Kommt! Lasst uns jetzo wandeln! Es ist die Stunde: lasst uns in die Nacht wandeln!
+**Kommt! Kommt! Kommt! Lasst uns jetzo wandeln! Es ist die Stunde: lasst uns in die Nacht wandeln!**
 
   
   
@@ -2797,9 +2797,9 @@ Still! Still! Da hört sich Manches, das am Tage nicht laut werden darf; nun abe
 
 — nun redet es, nun hört es sich, nun schleicht es sich in nächtliche überwache Seelen: ach! ach! wie sie seufzt! wie sie im Traume lacht!
 
-— hörst du’s nicht, wie sie heimlich, schrecklich, herzlich zu dir redet, die alte tiefe tiefe Mitternacht?
+— hörst du’s nicht, wie sie heimlich, schrecklich, herzlich zu **dir** redet, die alte tiefe tiefe Mitternacht?
 
-Oh Mensch, gieb Acht!
+**Oh Mensch, gieb Acht!**
 
   
 
@@ -2817,9 +2817,9 @@ Nun starb ich schon. Es ist dahin. Spinne, was spinnst du um mich? Willst du Blu
 
 — die Stunde, wo mich fröstelt und friert, die fragt und fragt und fragt: „wer hat Herz genug dazu?
 
-— wer soll der Erde Herr sein? Wer will sagen: so sollt ihr laufen, ihr grossen und kleinen Ströme!“
+— wer soll der Erde Herr sein? Wer will sagen: **so** sollt ihr laufen, ihr grossen und kleinen Ströme!“
 
-— die Stunde naht: oh Mensch, du höherer Mensch, gieb Acht! diese Rede ist für feine Ohren, für deine Ohren — was spricht die tiefe Mitternacht?
+— die Stunde naht: oh Mensch, du höherer Mensch, gieb Acht! diese Rede ist für feine Ohren, für deine Ohren — **was spricht die tiefe Mitternacht?**
 
   
 
@@ -2839,7 +2839,7 @@ Ihr flogt nicht hoch genug: nun stammeln die Gräber „erlöst doch die Todten!
 
 Ihr höheren Menschen, erlöst doch die Gräber, weckt die Leichname auf! Ach, was gräbt noch der Wurm? Es naht, es naht die Stunde, —
 
-— es brummt die Glocke, es schnarrt noch das Herz, es gräbt noch der Holzwurm, der Herzenswurm. Ach! Ach! Die Welt ist tief!
+— es brummt die Glocke, es schnarrt noch das Herz, es gräbt noch der Holzwurm, der Herzenswurm. Ach! Ach! **Die Welt ist tief!**
 
   
 
@@ -2859,7 +2859,7 @@ Du alte Glocke, du süsse Leier! Jeder Schmerz riss dir in’s Herz, Vaterschmer
 
 — ein Duft und Geruch der Ewigkeit, ein rosenseliger brauner Gold-Wein-Geruch von altem Glücke,
 
-— von trunkenem Mitternachts-Sterbeglücke, welches singt: die Welt ist tief und tiefer als der Tag gedacht!
+— von trunkenem Mitternachts-Sterbeglücke, welches singt: die Welt ist tief **und tiefer als der Tag gedacht**!
 
   
 
@@ -2877,11 +2877,11 @@ Die Reinsten sollen der Erde Herrn sein, die Unerkanntesten, Stärksten, die Mit
 
 Oh Tag, du tappst nach mir? Du tastest nach meinem Glücke? Ich bin dir reich, einsam, eine Schatzgrube, eine Goldkammer?
 
-Oh Welt, du willst mich? Bin ich dir weltlich? Bin ich dir geistlich? Bin ich dir göttlich? Aber Tag und Welt, ihr seid zu plump, —
+Oh Welt, du willst **mich**? Bin ich dir weltlich? Bin ich dir geistlich? Bin ich dir göttlich? Aber Tag und Welt, ihr seid zu plump, —
 
 — habt klügere Hände, greift nach tieferem Glücke, nach tieferem Unglücke, greift nach irgend einem Gotte, greift nicht nach mir:
 
-— mein Unglück, mein Glück ist tief, du wunderlicher Tag, aber doch bin ich kein Gott, keine Gottes-Hölle: tief ist ihr Weh.
+— mein Unglück, mein Glück ist tief, du wunderlicher Tag, aber doch bin ich kein Gott, keine Gottes-Hölle: **tief ist ihr Weh**.
 
   
 
@@ -2899,7 +2899,7 @@ Gottes Weh ist tiefer, du wunderliche Welt! Greife nach Gottes Weh, nicht nach m
 *lies:*— eine Mitternachts-Leier  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-, eine Glocken-Unke, die Niemand versteht, aber welche reden muss, vor Tauben, ihr höheren Menschen! Denn ihr versteht mich nicht!
+, eine Glocken-Unke, die Niemand versteht, aber welche reden **muss**, vor Tauben, ihr höheren Menschen! Denn ihr versteht mich nicht!
 
 Dahin! Dahin! Oh Jugend! Oh Mittag! Oh Nachmittag! Nun kam Abend und Nacht und Mitternacht, — der Hund heult, der Wind:
 
@@ -2907,7 +2907,7 @@ Dahin! Dahin! Oh Jugend! Oh Mittag! Oh Nachmittag! Nun kam Abend und Nacht und M
 
 Wie sie eben nüchtern spricht, diese trunkene Dichterin! sie übertrank wohl ihre Trunkenheit? sie wurde überwach? sie käut zurück?
 
-— ihr Weh käut sie zurück, im Traume, die alte tiefe Mitternacht, und mehr noch ihre Lust. Lust nämlich, wenn schon Weh tief ist: Lust ist tiefer noch als Herzeleid.
+— ihr Weh käut sie zurück, im Traume, die alte tiefe Mitternacht, und mehr noch ihre Lust. Lust nämlich, wenn schon Weh tief ist: **Lust ist tiefer noch als Herzeleid.**
 
   
 
@@ -2923,11 +2923,11 @@ Du Weinstock! Was preisest du mich? Ich schnitt dich doch! Ich bin grausam, du b
 
 Weh spricht: „Vergeh! Weg, du Wehe!“ Aber Alles, was leidet, will leben, dass es reif werde und lustig und sehnsüchtig,
 
-— sehnsüchtig nach Fernerem, Höherem, Hellerem. „Ich will Erben, so spricht Alles, was leidet, ich will Kinder, ich will nicht mich,“ —
+— sehnsüchtig nach Fernerem, Höherem, Hellerem. „Ich will Erben, so spricht Alles, was leidet, ich will Kinder, ich will nicht **mich**,“ —
 
 Lust aber will nicht Erben, nicht Kinder, — Lust will sich selber, will Ewigkeit, will Wiederkunft, will Alles-sich-ewig-gleich.
 
-Weh spricht: „Brich, blute, Herz! Wandle, Bein! Flügel, flieg! Hinan! Hinauf! Schmerz!“ Wohlan! Wohlauf! Oh mein altes Herz: Weh spricht: „vergeh!“
+Weh spricht: „Brich, blute, Herz! Wandle, Bein! Flügel, flieg! Hinan! Hinauf! Schmerz!“ Wohlan! Wohlauf! Oh mein altes Herz: **Weh spricht: „vergeh!“**
 
   
 
@@ -2943,13 +2943,13 @@ Ein Tropfen Thau’s? Ein Dunst und Duft der Ewigkeit? Hört ihr’s nicht? Riec
 
 Schmerz ist auch eine Lust, Fluch ist auch ein Segen, Nacht ist auch eine Sonne, — geht davon oder ihr lernt: ein Weiser ist auch ein Narr.
 
-Sagtet ihr jemals Ja zu Einer Lust? Oh, meine Freunde, so sagtet ihr Ja auch zu allem Wehe. Alle Dinge sind verkettet, verfädelt, verliebt, —
+Sagtet ihr jemals Ja zu Einer Lust? Oh, meine Freunde, so sagtet ihr Ja auch zu **allem**Wehe. Alle Dinge sind verkettet, verfädelt, verliebt, —
 
-— wolltet ihr jemals Ein Mal Zwei Mal, spracht ihr jemals „du gefällst mir, Glück! Husch! Augenblick!“ so wolltet ihr Alles zurück!
+— wolltet ihr jemals Ein Mal Zwei Mal, spracht ihr jemals „du gefällst mir, Glück! Husch! Augenblick!“ so wolltet ihr **Alles** zurück!
 
-— Alles von neuem, Alles ewig, Alles verkettet, verfädelt, verliebt, oh so liebtet ihr die Welt, —
+— Alles von neuem, Alles ewig, Alles verkettet, verfädelt, verliebt, oh so **liebtet** ihr die Welt, —
 
-— ihr Ewigen, liebt sie ewig und allezeit: und auch zum Weh sprecht ihr: vergeh, aber komm zurück! Denn alle Lust will — Ewigkeit!
+— ihr Ewigen, liebt sie ewig und allezeit: und auch zum Weh sprecht ihr: vergeh, aber komm zurück! **Denn alle Lust will — Ewigkeit!**
 
   
 
@@ -2961,17 +2961,17 @@ Sagtet ihr jemals Ja zu Einer Lust? Oh, meine Freunde, so sagtet ihr Ja auch zu 
 
 Alle Lust will aller Dinge Ewigkeit, will Honig, will Hefe, will trunkene Mitternacht, will Gräber, will Gräber-Thränen-Trost, will vergüldetes Abendroth —
 
-— was will nicht Lust! sie ist durstiger, herzlicher, hungriger, schrecklicher, heimlicher als alles Weh, sie will sich, sie beisst in sich, des Ringes Wille ringt in ihr, —
+— **was** will nicht Lust! sie ist durstiger, herzlicher, hungriger, schrecklicher, heimlicher als alles Weh, sie will **sich**, sie beisst in **sich**, des Ringes Wille ringt in ihr, —
 
 — sie will Liebe, sie will Hass, sie ist überreich, schenkt, wirft weg, bettelt, dass Einer sie nimmt, dankt dem Nehmenden, sie möchte gern gehasst sein, —
 
-— so reich ist Lust, dass sie nach Wehe durstet, nach Hölle, nach Hass, nach Schmach, nach dem Krüppel, nach Welt, — denn diese Welt, oh ihr kennt sie ja!
+— so reich ist Lust, dass sie nach Wehe durstet, nach Hölle, nach Hass, nach Schmach, nach dem Krüppel, nach **Welt**, — denn diese Welt, oh ihr kennt sie ja!
 
 Ihr höheren Menschen, nach euch sehnt sie sich, die Lust, die unbändige, selige, — nach eurem Weh, ihr Missrathenen! Nach Missrathenem sehnt sich alle ewige Lust.
 
 Denn alle Lust will sich selber, drum will sie auch Herzeleid! Oh Glück, oh Schmerz! Oh brich, Herz! Ihr höheren Menschen, lernt es doch, Lust will Ewigkeit,
 
-— Lust will aller Dinge Ewigkeit, will tiefe, tiefe Ewigkeit!
+— Lust will **aller** Dinge Ewigkeit, **will tiefe, tiefe Ewigkeit**!
 
   
 
@@ -2987,27 +2987,27 @@ Singt mir nun selber das Lied, dess Name ist „Noch ein Mal“, dess Sinn ist �
 
   
 
-Oh Mensch! Gieb Acht!
+**Oh Mensch! Gieb Acht!**
 
-Was spricht die tiefe Mitternacht?
+**Was spricht die tiefe Mitternacht?**
 
-„Ich schlief, ich schlief —,
+**„Ich schlief, ich schlief —,**
 
-„Aus tiefem Traum bin ich erwacht: —
+**„Aus tiefem Traum bin ich erwacht: —**
 
-„Die Welt ist tief,
+**„Die Welt ist tief,**
 
-„Und tiefer als der Tag gedacht.
+**„Und tiefer als der Tag gedacht.**
 
-„Tief ist ihr Weh —,
+**„Tief ist ihr Weh —,**
 
-„Lust — tiefer noch als Herzeleid:
+**„Lust — tiefer noch als Herzeleid:**
 
-„Weh spricht: Vergeh!
+**„Weh spricht: Vergeh!**
 
-„Doch alle Lust will Ewigkeit —,
+**„Doch alle Lust will Ewigkeit —,**
 
-„— will tiefe, tiefe Ewigkeit!“
+**„— will tiefe, tiefe Ewigkeit!“**
 
   
 
@@ -3028,15 +3028,15 @@ Des Morgens aber nach dieser Nacht sprang Zarathustra von seinem Lager auf, gür
 *lies:*einstmals  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- gesprochen hatte, du tiefes Glücks-Auge, was wäre all dein Glück, wenn du nicht Die hättest, welchen du leuchtest!
+ gesprochen hatte, du tiefes Glücks-Auge, was wäre all dein Glück, wenn du nicht **Die** hättest, welchen du leuchtest!
 
 Und wenn sie in ihren Kammern blieben, während du schon wach bist und kommst und schenkst und austheilst: wie würde darob deine stolze Scham zürnen!
 
-Wohlan! sie schlafen noch, diese höheren Menschen, während ich wach bin: das sind nicht meine rechten Gefährten! Nicht auf sie warte ich hier in meinen Bergen.
+Wohlan! sie schlafen noch, diese höheren Menschen, während **ich** wach bin: **das** sind nicht meine rechten Gefährten! Nicht auf sie warte ich hier in meinen Bergen.
 
 Zu meinem Werke will ich, zu meinem Tage: aber sie verstehen nicht, was die Zeichen meines Morgens sind, mein Schritt — ist für sie kein Weckruf.
 
-Sie schlafen noch in meiner Höhle, ihr Traum käut noch an meinen Mitternächten. Das Ohr, das nach mir horcht, — das gehorchende Ohr fehlt in ihren Gliedern.“
+Sie schlafen noch in meiner Höhle, ihr Traum käut noch an meinen Mitternächten. Das Ohr, das nach **mir** horcht, — das **gehorchende** Ohr fehlt in ihren Gliedern.“
 
 — Diess hatte Zarathustra zu seinem Herzen gesprochen, als die Sonne aufgieng: da blickte er fragend in die Höhe, denn er hörte über sich den scharfen Ruf seines Adlers. „Wohlan! rief er hinauf, so gefällt und gebührt es mir. Meine Thiere sind wach, denn ich bin wach.
 
@@ -3050,27 +3050,27 @@ Also sprach Zarathustra; da aber geschah es, dass er sich plötzlich wie von unz
 
 „Was geschieht mir?“ dachte Zarathustra in seinem erstaunten Herzen und liess sich langsam auf dem grossen Steine nieder, der neben dem Ausgange seiner Höhle lag. Aber, indem er mit den Händen um sich und über sich und unter sich griff, und den zärtlichen Vögeln wehrte, siehe, da geschah ihm etwas noch Seltsameres: er griff nämlich dabei unvermerkt in ein dichtes warmes Haar-Gezottel hinein; zugleich aber erscholl vor ihm ein Gebrüll, — ein sanftes langes Löwen-Brüllen.
 
-„Das Zeichen kommt,“ sprach Zarathustra und sein Herz verwandelte sich. Und in Wahrheit, als es helle vor ihm wurde, da lag ihm ein gelbes mächtiges Gethier zu Füssen und schmiegte das Haupt an seine Knie und wollte nicht von ihm lassen vor Liebe und that einem Hunde gleich, welcher seinen alten Herrn wiederfindet. Die Tauben aber waren mit ihrer Liebe nicht minder eifrig als der Löwe; und jedes Mal, wenn eine Taube über die Nase des Löwen huschte, schüttelte der Löwe das Haupt und wunderte sich und lachte dazu.
+**„Das Zeichen kommt,“** sprach Zarathustra und sein Herz verwandelte sich. Und in Wahrheit, als es helle vor ihm wurde, da lag ihm ein gelbes mächtiges Gethier zu Füssen und schmiegte das Haupt an seine Knie und wollte nicht von ihm lassen vor Liebe und that einem Hunde gleich, welcher seinen alten Herrn wiederfindet. Die Tauben aber waren mit ihrer Liebe nicht minder eifrig als der Löwe; und jedes Mal, wenn eine Taube über die Nase des Löwen huschte, schüttelte der Löwe das Haupt und wunderte sich und lachte dazu.
 
-Zu dem Allen sprach Zarathustra nur Ein Wort: „meine Kinder sind nahe, meine Kinder“ —, dann wurde er ganz stumm. Sein Herz aber war gelöst, und aus seinen Augen tropften Thränen herab und fielen auf seine Hände. Und er achtete keines Dings mehr und sass da, unbeweglich und ohne dass er sich noch gegen die Thiere wehrte. Da flogen die Tauben ab und zu und setzten sich ihm auf die Schulter und liebkosten sein weisses Haar und wurden nicht müde mit Zärtlichkeit und Frohlocken. Der starke Löwe aber leckte immer die Thränen, welche auf die Hände Zarathustra’s herabfielen und brüllte und brummte schüchtern dazu. Also trieben es diese Thiere. —
+Zu dem Allen sprach Zarathustra nur Ein Wort: **„meine Kinder sind nahe, meine Kinder“** —, dann wurde er ganz stumm. Sein Herz aber war gelöst, und aus seinen Augen tropften Thränen herab und fielen auf seine Hände. Und er achtete keines Dings mehr und sass da, unbeweglich und ohne dass er sich noch gegen die Thiere wehrte. Da flogen die Tauben ab und zu und setzten sich ihm auf die Schulter und liebkosten sein weisses Haar und wurden nicht müde mit Zärtlichkeit und Frohlocken. Der starke Löwe aber leckte immer die Thränen, welche auf die Hände Zarathustra’s herabfielen und brüllte und brummte schüchtern dazu. Also trieben es diese Thiere. —
 
-Diess Alles dauerte eine lange Zeit, oder eine kurze Zeit: denn, recht gesprochen, giebt es für dergleichen Dinge auf Erden keine Zeit —. Inzwischen aber waren die höheren Menschen in der Höhle Zarathustra’s wach geworden und ordneten sich mit einander zu einem Zuge an, dass sie Zarathustra entgegen giengen und ihm den Morgengruss böten: denn sie hatten gefunden, als sie erwachten, dass er schon nicht mehr unter ihnen weilte. Als sie aber zur Thür der Höhle gelangten, und das Geräusch ihrer Schritte ihnen voranlief, da stutzte der Löwe gewaltig, kehrte sich mit Einem Male von Zarathustra ab und sprang, wild brüllend, auf die Höhle los; die höheren Menschen aber, als sie ihn brüllen hörten, schrien alle auf, wie mit Einem Munde, und flohen zurück und waren im Nu verschwunden.
+Diess Alles dauerte eine lange Zeit, oder eine kurze Zeit: denn, recht gesprochen, giebt es für dergleichen Dinge auf Erden **keine** Zeit —. Inzwischen aber waren die höheren Menschen in der Höhle Zarathustra’s wach geworden und ordneten sich mit einander zu einem Zuge an, dass sie Zarathustra entgegen giengen und ihm den Morgengruss böten: denn sie hatten gefunden, als sie erwachten, dass er schon nicht mehr unter ihnen weilte. Als sie aber zur Thür der Höhle gelangten, und das Geräusch ihrer Schritte ihnen voranlief, da stutzte der Löwe gewaltig, kehrte sich mit Einem Male von Zarathustra ab und sprang, wild brüllend, auf die Höhle los; die höheren Menschen aber, als sie ihn brüllen hörten, schrien alle auf, wie mit Einem Munde, und flohen zurück und waren im Nu verschwunden.
 
 Zarathustra selber aber, betäubt und fremd, erhob sich von seinem Sitze, sah um sich, stand staunend da, fragte sein Herz, besann sich und war allein. „Was hörte ich doch? sprach er endlich langsam, was geschah mir eben?“
 
 Und schon kam ihm die Erinnerung, und er begriff mit Einem Blicke Alles, was zwischen Gestern und Heute sich begeben hatte. „Hier ist ja der Stein, sprach er und strich sich den Bart, auf dem sass ich gestern am Morgen; und hier trat der Wahrsager zu mir, und hier hörte ich zuerst den Schrei, den ich eben hörte, den grossen Nothschrei.
 
-Oh ihr höheren Menschen, von eurer Noth war’s ja, dass gestern am Morgen jener alte Wahrsager mir wahrsagte, —
+Oh ihr höheren Menschen, von **eurer** Noth war’s ja, dass gestern am Morgen jener alte Wahrsager mir wahrsagte, —
 
 — zu eurer Noth wollte er mich verführen und versuchen: oh Zarathustra, sprach er zu mir, ich komme, dass ich dich zu deiner letzten Sünde verführe.
 
-Zu meiner letzten Sünde? rief Zarathustra und lachte zornig über sein eigenes Wort: was blieb mir doch aufgespart als meine letzte Sünde?“
+Zu meiner letzten Sünde? rief Zarathustra und lachte zornig über sein eigenes Wort: **was** blieb mir doch aufgespart als meine letzte Sünde?“
 
 — Und noch ein Mal versank Zarathustra in sich und setzte sich wieder auf den grossen Stein nieder und sann nach. Plötzlich sprang er empor, —
 
-„Mitleiden! Das Mitleiden mit dem höheren Menschen! schrie er auf, und sein Antlitz verwandelte sich in Erz. Wohlan! Das — hatte seine Zeit!
+**„Mitleiden! Das Mitleiden mit dem höheren Menschen!** schrie er auf, und sein Antlitz verwandelte sich in Erz. Wohlan! **Das** — hatte seine Zeit!
 
-Mein Leid und mein Mitleiden — was liegt daran! Trachte ich denn nach Glücke? Ich trachte nach meinem Werke!
+Mein Leid und mein Mitleiden — was liegt daran! Trachte ich denn nach **Glücke**? Ich trachte nach meinem **Werke**!
 
 Wohlan! Der Löwe kam, meine Kinder sind nahe, Zarathustra ward reif, meine Stunde kam: —
 
@@ -3080,7 +3080,7 @@ Diess
 *lies:*Diess  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- ist mein Morgen, mein Tag hebt an: herauf nun, herauf, du grosser Mittag!“ — —
+ ist **mein** Morgen, **mein** Tag hebt an: **herauf nun, herauf, du grosser Mittag!“** — —
 
   
 
@@ -3094,4 +3094,6 @@ Also sprach Zarathustra und verliess seine Höhle, glühend und stark, wie eine 
 
   
 
-Ende von Also sprach Zarathustra
+Ende von **Also sprach Zarathustra**
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

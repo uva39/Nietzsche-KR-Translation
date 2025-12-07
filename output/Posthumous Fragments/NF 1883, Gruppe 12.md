@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [12[1]](javascript:;)
 ---------------------
 
-„Böse Weisheit.“
+**„Böse Weisheit.“**
   
 Sprüche und Sprüchwörtliches  
 von  
@@ -24,7 +24,7 @@ Friedrich Nietzsche.
 
   
 
-Pfeile.
+**Pfeile.**
   
 Sprüche und Sprüchwörtliches  
 von  
@@ -161,7 +161,7 @@ singen zu können: arme Singvögel!
 
   
 
-29. Was ist Genie? Ein hohes Ziel und die Mittel dazu
+29. Was ist Genie? Ein hohes Ziel **und** die Mittel dazu
 wollen.
 
   
@@ -376,7 +376,7 @@ los marschirt!
 
   
 
-76. Warum sieht der Mensch die Dinge nicht? Er steht sich selber im Wege; er verdeckt die Dinge.
+76. Warum sieht der Mensch die Dinge nicht? Er steht sich selber im Wege; er **verdeckt** die Dinge.
 
   
 
@@ -468,8 +468,8 @@ unseren Geschmack: geht das nicht wider allen guten Geschmack?
 
   
 
-95. Es giebt gar keine M<enschen>: denn es gab keinen ersten
-M<enschen> — so schließen die Thiere.
+95. Es giebt gar keine M&amp;lt;enschen&amp;gt;: denn es gab keinen ersten
+M&amp;lt;enschen&amp;gt; — so schließen die Thiere.
 
   
 
@@ -577,7 +577,7 @@ seine Carikatur sehen.
 
   
 
-119. „Die Menschen sind nicht gleich!“ — So spricht die
+119. „Die Menschen sind **nicht** gleich!“ — So spricht die
 Gerechtigkeit.
 
   
@@ -611,7 +611,7 @@ dem der Rache.
 
   
 
-126. In dem Bestreben, sich selber nicht zu erkennen, sind auch
+126. In dem Bestreben, sich selber **nicht** zu erkennen, sind auch
 die gewöhnlichen Geister noch sehr fein.
 
   
@@ -644,7 +644,7 @@ ehrlich, meine Herren Dulciarier!
 
   
 
-133. Unsre schlimmen Eigenschaften lassen es uns entgelten, wenn
+133. Unsre schlimmen Eigenschaften lassen es **uns** entgelten, wenn
 sie sich von der Tugend haben überwinden lassen.
 
   
@@ -654,7 +654,7 @@ oft nicht nur gleich. —
 
   
 
-135. Man hat nie: denn man ist nie. Man gewinnt oder verliert
+135. Man hat nie: denn man **ist** nie. Man gewinnt oder verliert
 beständig.
 
   
@@ -809,7 +809,7 @@ Macht schlägt, geht sie gewiß zu Grunde.
 
   
 
-170. Was hat den M<enschen> so verstört? Nicht die Dinge, nicht die
+170. Was hat den M&amp;lt;enschen&amp;gt; so verstört? Nicht die Dinge, nicht die
 Meinungen über die Dinge — sondern die Meinungen über Dinge, die es gar nicht giebt!
 
   
@@ -891,12 +891,12 @@ Feldbett.
 
   
 
-188. „Ich vergebe es dir, was du mir thatest: aber daß du es dir
+188. „Ich vergebe es dir, was du mir thatest: aber **daß** du es dir
 thatest, wie könnte ich das vergeben!“ — so sprach ein Liebender.
 
   
 
-189. Du sagst „das gefällt mir“ und meinst mich damit zu loben. Aber du gefällst mir nicht —!
+189. Du sagst „das gefällt mir“ und meinst mich damit zu loben. Aber du gefällst **mir** nicht —!
 
   
 
@@ -965,7 +965,7 @@ In dem, was ihr Natur heißt, ist viel Thorheit und plumpes Tasten: euer Geist a
 ---------------------
 
 Alles Fühlende leidet und ist in Gefängnissen: aber das Wollende kommt als Befreier und Freudebringer — also
-lehre ich euch „Freiheit des Willens“.
+lehre **ich** euch „Freiheit des Willens“.
 
 [12[5]](javascript:;)
 ---------------------
@@ -1049,7 +1049,7 @@ Gefahr.
 Erkennen: das ist mir Begehren und Durst und Schätzen und Kampf der Werthe. Als ein Schaffen muß aber alles
 Erkennen auch ein Nicht-Erkennen sein.
 
-Durchschauen, durch das vergängliche Netz und den letzten Schleier — das wäre die große
+**Durchschauen**, durch das vergängliche Netz und den letzten Schleier — das wäre die große
 Müdigkeit und aller Schaffenden Ende.
 
 Aber glaubt es mir, meine Freunde: es giebt nichts Unvergängliches: es ist nur ein Gleichniß!
@@ -1108,51 +1108,51 @@ Individuen hervortretend. „Begabung“ ist dasselbe — ein gut eingeübter Me
 [12[24]](javascript:;)
 ----------------------
 
-Urtheilen: das ist eine Empfindung bejahen — d.h. eine Empfindung wiedererkennen (was
+Urtheilen: das ist eine Empfindung bejahen — d.h. eine Empfindung **wiedererkennen** (was
 Vergleichen und Gedächtniß voraussetzt).
 
 [12[25]](javascript:;)
 ----------------------
 
-Die innere Welt aufräumen! Da giebt es noch viele falsche Wesen! Mir genügen Empfindung und Denken. Das „Wollen“ als etwas Drittes ist eine Einbildung. Überhaupt alle Triebe, Verlangen,
-Verabscheuen usw. sind keine „Einheiten“, sondern anscheinende „einfache Zustände.“
+Die innere Welt aufräumen! Da giebt es noch viele falsche Wesen! Mir genügen Empfindung und Denken. Das **„Wollen“** als etwas Drittes ist eine Einbildung. Überhaupt alle Triebe, Verlangen,
+Verabscheuen usw. sind keine „Einheiten“, sondern **anscheinende** „einfache Zustände.“
 Hunger: das ist ein Unlustgefühl und ein Wissen um das Mittel seiner Beendigung. Es kann auch ohne Wissen sich
 eine Folge von Bewegungen des Organismus ausgebildet haben, welche zweckmäßig zur Beseitigung des Hungers
-sind: die Anregung dieses Mechanismus wird beim Hunger mitgefühlt.
+sind: die **Anregung** dieses Mechanismus wird beim Hunger **mitgefühlt**.
 
 [12[26]](javascript:;)
 ----------------------
 
-Das Bild vor einer Handlung ist kein Begriff derselben, sondern ein Ideal - - - -
+Das Bild **vor** einer Handlung ist kein Begriff derselben, sondern ein **Ideal** - - - -
 
 [12[27]](javascript:;)
 ----------------------
 
 Wie sich die Organe aus einem Organ mehrfach ausbilden, z.B. aus der Haut das Nervensystem und Gehirn: so muß
-auch alles Fühlen und Vorstellen und Denken ursprünglich eins gewesen sein: also die
-Sinnesempfindung eine späte Einzel-Erscheinung. Im Unorganischen muß diese Einheit vorhanden sein: denn das Organische beginnt mit der Trennung
-bereits. Die Wirkung des Unorganischen auf einander ist zu studiren (sie ist immer eine
-Wirkung in die Ferne, also ein „Erkennen“ ist nothwendig allem Wirken vorher: das Ferne
+auch alles Fühlen und Vorstellen und Denken ursprünglich **eins** gewesen sein: also die
+Sinnesempfindung eine **späte** Einzel-Erscheinung. Im Unorganischen muß diese **Einheit** vorhanden sein: denn das Organische **beginnt** mit der Trennung
+bereits. Die **Wirkung** des Unorganischen auf einander ist zu studiren (sie ist immer eine
+**Wirkung in die Ferne**, also ein „Erkennen“ ist nothwendig allem Wirken vorher: das Ferne
 muß percipirt werden. Der Tast- und Muskelsinn muß sein Analogon haben:)
 
 [12[28]](javascript:;)
 ----------------------
 
 Die Bewegungen des Fußes beim Gehen und Ausgleiten — sind sie wirklich Folgen bewußter zweckmäßiger Setzungen
-so und so? Aber selbst alle bewußte Übung ist nicht das, was man glaubt. Die meisten
-Bewegungen im Einüben sind Versuche, und der Intellekt bejaht die gelungenen, er erzeugt
+so und so? Aber selbst alle bewußte **Übung** ist nicht das, was man glaubt. Die meisten
+Bewegungen im Einüben sind Versuche, und der Intellekt **bejaht** die gelungenen, er erzeugt
 sie nicht. Diese Bejahung ist sehr oberflächlich, weil sein Bild des Vorganges sehr vag ist. — Damit erklären
-sich die unzähligen Feinheiten nicht: die eingeübt, versucht und bejaht sein müßten von
-einem unendlich feineren Intellekt und von ganz anderen Sinnesorganen gesehen sein müßten
-als wir sie haben. — Somit erklärt der Intellekt nicht jene Zweckmäßigkeiten; ebensowenig
-„Übung“.
+sich die unzähligen Feinheiten nicht: die eingeübt, versucht und **bejaht** sein müßten von
+einem unendlich feineren Intellekt und von ganz anderen Sinnesorganen **gesehen** sein müßten
+als wir sie haben. — Somit erklärt der Intellekt **nicht** jene Zweckmäßigkeiten; ebensowenig
+**„Übung“**.
 
 [12[29]](javascript:;)
 ----------------------
 
-Alle Moral ist eigentlich nur eine Verfeinerung der Maaßregeln, welche alles Organische nimmt, um sich anzupassen und doch zu ernähren und Macht zu
-gewinnen. Das Verhältniß eines Menschen zu einem anderen ist eines mechanischen Ausdrucks fähig, als
-einer Veränderung der Bewegungs-Kurve seines Wesens.
+Alle Moral ist eigentlich nur eine Verfeinerung der Maaßregeln, welche alles Organische nimmt, um sich **anzupassen** und doch zu **ernähren** und **Macht zu
+gewinnen**. Das Verhältniß eines Menschen zu einem anderen ist eines mechanischen Ausdrucks fähig, als
+einer **Veränderung** der Bewegungs-Kurve seines Wesens.
 
 Auch die feinsten Bewußtseins-Veränderungen müssen erst mechanisch möglich sein, ehe sie eintreten können.
 Somit ist auch die Willensäußerung abhängig von der mechanischen Vorbedingung.
@@ -1160,20 +1160,20 @@ Somit ist auch die Willensäußerung abhängig von der mechanischen Vorbedingung
 [12[30]](javascript:;)
 ----------------------
 
-Bleiben wir doch stehen beim Willens-Gefühl! Was wird uns als „Wille“ bewußt? Da
+Bleiben wir doch stehen beim Willens-Gefühl! Was wird uns als „Wille“ **bewußt**? Da
 erkennen wir, daß Wille nur eine Hypothese ist. Sie könnte wahr sein — oder auch nicht.
 
-Es giebt nicht mehr „Wille“ als was uns davon bewußt wird. D.h. zu gewissen
-Erscheinungen des Bewußtseins haben wir den Willen hinzugedichtet: wie „Materie“ zu
+Es giebt nicht mehr „Wille“ als was uns davon **bewußt** wird. D.h. zu gewissen
+Erscheinungen des Bewußtseins haben wir den Willen **hinzugedichtet**: wie „Materie“ zu
 anderen.
 
 [12[31]](javascript:;)
 ----------------------
 
-Alles Organische unterscheidet sich vom Anorganischen <dadurch>, daß es Erfahrungen
-aufsammelt: und niemals sich selber gleich ist, in seinem Prozesse. — Um das Wesen des
-Organischen zu verstehen, darf man nicht seine kleinste Form für die primitivste halten: vielmehr ist jede kleinste Zelle jetzt
-Erbe der ganzen organischen Vergangenheit.
+Alles Organische unterscheidet sich vom Anorganischen &amp;lt;dadurch&amp;gt;, daß es **Erfahrungen**
+**aufsammelt**: und niemals sich selber gleich ist, in seinem Prozesse. — Um das Wesen des
+Organischen zu verstehen, darf man nicht seine **kleinste** Form für die **primitivste** halten: vielmehr ist **jede kleinste** Zelle jetzt
+Erbe der ganzen organischen **Vergangenheit**.
 
 [12[32]](javascript:;)
 ----------------------
@@ -1183,42 +1183,42 @@ Die Menge der Ausgleichungseinrichtungen im Körper p. 195.
 [12[33]](javascript:;)
 ----------------------
 
-Das Bewußtsein lokalisirt auf der Oberfläche der beiden Hemisphären. — Jede gemachte
-„Erfahrung“ ist eine mechanische und chemische Thatsache, die nicht stillstehen kann, sondern „lebt“: nur wissen wir nichts davon!
+Das Bewußtsein lokalisirt auf der **Oberfläche** der beiden Hemisphären. — Jede gemachte
+„Erfahrung“ ist eine mechanische und chemische Thatsache, die nicht stillstehen kann, sondern **„lebt“**: nur **wissen** wir nichts davon!
 
 [12[34]](javascript:;)
 ----------------------
 
 Wo wir Leben haben, da setzen wir „Geist“ voraus: aber der uns bekannte Geist ist völlig unvermögend, irgend
-etwas zu thun. Wie armselig ist jedes Bewußtseins-Bild! Es wird wohl
-selber nur Wirkung sein von einer Veränderung, welche nun eine
-weitere Veränderung (Handlung) nach sich zieht. Jede Handlung, die wir „wollen“, ist ja
-durchaus nur als Schein der Erscheinung, von uns vorgestellt. —
+etwas zu thun. Wie armselig ist jedes Bewußtseins-Bild! **Es wird wohl**
+**selber** nur **Wirkung** sein von einer Veränderung, welche nun eine
+weitere Veränderung (Handlung) nach sich zieht. Jede Handlung, die wir **„wollen“**, ist ja
+durchaus nur als **Schein der Erscheinung**, von uns vorgestellt. —
 
-Alles Bewußtsein nur eine Nebenäußerung des Intellekts(?) Das, was
-uns bewußt wird, kann zu Nichts die Ursache abgeben.
+Alles Bewußtsein nur eine Neben**äußerung des Intellekts**(?) Das, was
+uns bewußt wird, kann **zu Nichts die Ursache abgeben**.
 
-Man vergleiche nur Verdauung und das, was wir davon empfinden!
+Man vergleiche nur **Verdauung** und das, was wir davon empfinden!
 
 [12[35]](javascript:;)
 ----------------------
 
-Wille ist uns nur bekannt als etwas Bewußtes. Jene plötzlichen Explosionen aber werden damit verdunkelt und unklar gemacht wenn man sie mit einer solchen „Innenwelt“ versieht.
+Wille ist uns nur bekannt als etwas Bewußtes. Jene plötzlichen Explosionen aber werden damit **verdunkelt** und unklar gemacht wenn man sie mit einer solchen „Innenwelt“ versieht.
 
 [12[36]](javascript:;)
 ----------------------
 
 Cherubini von Gluck und Haydn, Spontini von Gluck, Beethoven, als Dramatiker, von Cherubini abhängig: Gluck
-von Lully und Rameau. Wagner von Euryanthe (während er Gluck vorgiebt).
+von Lully und Rameau. Wagner von Euryanthe (während er Gluck **vorgiebt**).
 
 [12[37]](javascript:;)
 ----------------------
 
 Unser Intellekt kann durchaus nicht die Mannichfaltigkeit eines klugen Zusammenspiels fassen, geschweige
-hervorbringen, das z.B. der Verdauungsprozeß ist. Es ist das Zusammenspiel sehr vieler
-Intellekte! Überall, wo ich Leben finde, finde ich schon dies Zusammenspielen! Und auch ein Herrscher
-ist in den vielen Intellekten da. — Sobald wir aber uns die organischen Handlungen als mit
-Hülfe vieler Intellekte ausgeführt denken: werden sie uns ganz unverständlich. Vielmehr müssen wir den
+hervorbringen, das z.B. der Verdauungsprozeß ist. Es ist das Zusammenspiel **sehr vieler
+Intellekte**! Überall, wo ich Leben finde, finde ich schon dies Zusammenspielen! Und auch ein Herrscher
+ist in den vielen Intellekten da. — Sobald wir aber uns die organischen Handlungen als **mit
+Hülfe vieler Intellekte** ausgeführt denken: werden sie uns ganz unverständlich. Vielmehr müssen wir den
 Intellekt selber als eine letzte Consequenz jenes Organischen denken.
 
 [12[38]](javascript:;)
@@ -1226,14 +1226,14 @@ Intellekt selber als eine letzte Consequenz jenes Organischen denken.
 
 Das Wesen der Vererbung ist uns ganz dunkel. Warum wird eine Handlung beim zweiten Male „leichter“? Und „wer“
 empfindet diese Erleichterung? Und hat diese Empfindung irgend etwas damit zu thun, daß beim zweiten Male die
-Handlung ebenso gethan wird? Da müßte ja die Empfindung verschiedener möglicher
-Handlungen vor dem Thun vorgestellt werden!
+Handlung ebenso gethan wird? Da müßte ja die Empfindung verschiedener **möglicher**
+Handlungen vor dem Thun **vorgestellt** werden!
 
 [12[39]](javascript:;)
 ----------------------
 
 Das mächtige organische Princip imponirt mir so, gerade in der Leichtigkeit, mit der es unorganische Stoffe
-sich einverleibt. Ich weiß nicht, wie diese Zweckmäßigkeit einfach durch Steigerung zu
+sich einverleibt. Ich weiß nicht, wie diese Zweckmäßigkeit einfach durch **Steigerung** zu
 erklären ist. Eher würde ich glauben, es gäbe ewig organische Wesen. —
 
 [12[40]](javascript:;)
@@ -1254,7 +1254,7 @@ rühren wir nur an das Bild, und nicht an uns selber.
 Sind wir uns selber nicht eben so fremd und eben so nah als der Nächste?
 
 Wahrlich, wir haben ein Bild vom Menschen — das machten wir aus uns. Und nun wenden wir’s auf uns selber an,
-— uns zu verstehen! Ach ja, verstehen!
+— **uns** zu verstehen! Ach ja, verstehen!
 
 Schlimm, zum Schlimmsten steht es mit unsrem Selbst-verständniß!
 
@@ -1291,13 +1291,13 @@ Vergeltung im Jenseits? Ihr wollt bezahlt sein?
 
 Heimatlos.
 
-Reinigung von der Rache meine Moral.
+Reinigung von der Rache **meine** Moral.
 
 Die Einflußreichsten lebten am verborgensten.
 
 Cultur — das dünne Apfelhäutchen!
 
-Die Menschen nicht gleich!
+Die Menschen **nicht** gleich!
 
 der Edle das Resultat vieler Arbeit
 
@@ -1311,7 +1311,7 @@ die Schwachen sind die Gefahr
 
 die höhere Kaste, mächtiger aber ärmer.
 
-Unser Ideal durchsetzen — Ringen um die Macht, auf die Weise, wie es
+Unser Ideal durchsetzen — Ringen um die Macht, auf die **Weise**, wie es
 aus dem Ideale folgt.
 
 Die Individuen leben fort in den Antrieben. Ruhm.
@@ -1330,7 +1330,7 @@ Ich will nicht vermischt und verwechselt sein
 Es giebt solche, die predigen meine Lehre vom Leben: aber zugleich sind sie Prediger der Gleichheit: mit
 denen will ich nicht vermischt und verwechselt sein
 
-Die Menschen sind nicht gleich: so redet die Gerechtigkeit. Solches sage ich euch zum
+Die Menschen sind **nicht** gleich: so redet die Gerechtigkeit. Solches sage ich euch zum
 andern Male.
 
 Das Leben aber, als es mir sein Gesetz im Geheimsten kündete, das fügte hinzu: „und die Menschen sollen auch
@@ -1456,12 +1456,12 @@ stillste Stunde.
 ----------------------
 
 Es handelt sich gar nicht um ein Recht des Stärkeren, sondern Stärkere und Schwächere sind alle darin gleich,
-sie dehnen ihre Macht aus, so weit sie k<önnen>
+sie dehnen ihre Macht aus, so weit sie k&amp;lt;önnen&amp;gt;
 
 [12[49]](javascript:;)
 ----------------------
 
-Höhere M<enschen> als Napoleon
+Höhere M&amp;lt;enschen&amp;gt; als Napoleon
 
 Affekte in ihnen
 
@@ -1482,3 +1482,5 @@ Gegenseitige Taxation
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 Mitleid und Gemeinsinn
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

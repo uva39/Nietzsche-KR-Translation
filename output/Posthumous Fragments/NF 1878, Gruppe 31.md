@@ -16,15 +16,15 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [31[1]](javascript:;)
 ---------------------
 
-Theopomp ganz Eifersucht auch gegen Plato als größten
-Litterator.
+**Theopomp** ganz Eifersucht auch gegen Plato als **größten
+Litterator**.
 
 [31[2]](javascript:;)
 ---------------------
 
-Gründe, warum uns die griechische Litteratur nicht fremd erscheint?
+Gründe, warum uns die griechische Litteratur nicht **fremd** erscheint?
 
-1) Gymn<asium> verwöhnt
+1) Gymn&amp;lt;asium&amp;gt; verwöhnt
 
 2) Handwerkszeug der Philologie
 
@@ -33,30 +33,30 @@ Gründe, warum uns die griechische Litteratur nicht fremd erscheint?
 [31[3]](javascript:;)
 ---------------------
 
-Cap<itel> — sittlicher Einfluß der Dichter Redner
-Schriftst<eller>
+**Cap&amp;lt;itel&amp;gt;** — sittlicher Einfluß der Dichter Redner
+Schriftst&amp;lt;eller&amp;gt;
 
-Cap<itel> Prosa und Poesie
+Cap&amp;lt;itel&amp;gt; Prosa und Poesie
 
 [31[4]](javascript:;)
 ---------------------
 
-Thucydides vollkommener Ausfluss der sophistischen Bildung.
+**Thucydides** vollkommener Ausfluss der **sophistischen** Bildung.
 
 [31[5]](javascript:;)
 ---------------------
 
-Einleitung.
+**Einleitung.**
 
-Man soll nichts über die Litteraturen lesen also auch nichts über sie schreiben. So will ich sagen, wie man lesen soll. Aufgabe der Philologie. — Warnen vor dem
-gew<öhnlichen> Lesen.
+Man soll nichts **über** die Litteraturen lesen also auch nichts über sie **schreiben**. So will ich sagen, wie man lesen soll. Aufgabe der Philologie. — Warnen vor dem
+gew&amp;lt;öhnlichen&amp;gt; Lesen.
 
 [31[6]](javascript:;)
 ---------------------
 
-Am wenigsten stimme ich dem bei, welcher mit Dekorat<ion> Scene Maschinerie zu Bayreuth
+Am wenigsten stimme ich dem bei, welcher mit Dekorat&amp;lt;ion&amp;gt; Scene Maschinerie zu Bayreuth
 unzufrieden war. Viel zu viel Fleiss und Erfindung darauf verwandt, die Phantasie in Fesseln zu schlagen, bei
-Stoffen die ihren epischen Ursprung nicht verleugnen. Aber der Naturalismus der Gebärde, des Gesanges, im Vergleich zum
+Stoffen die ihren **epischen** Ursprung nicht verleugnen. Aber der **Naturalismus** der **Gebärde**, des **Gesanges**, im Vergleich zum
 Orchester!! Was für geschraubte erkünstelte verdorbene Töne, was für eine falsche Natur hörte man da!
 
 [31[7]](javascript:;)
@@ -73,6 +73,8 @@ Freude am Romantischen aufgeben, dazu am Elementarischen.
 [31[9]](javascript:;)
 ---------------------
 
-Freunde, wir haben Freude an einander als an frischen Gewächsen der Natur und Rücksicht
+**Freunde**, wir haben Freude an einander als an frischen Gewächsen der Natur und Rücksicht
 gegen einander: so wachsen wir wie Bäume neben einander auf, und gerade deshalb straff aufwärts und gerade,
 weil wir durch einander uns ziehn.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

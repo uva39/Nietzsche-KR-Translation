@@ -18,10 +18,10 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 
 |  |  |
 | --- | --- |
-| Thales. | Paracelsus. Stelle in den Allegorien Homers.  Wasser in der neuen Chemie. Lavoisier.  Wolken Eis.  Anaximenes Luft (Paracelsus). |
-| Anaximander. | Das Werden als Zeichen der Vergänglichkeit. Nicht das infinitum, sondern das Indefinitum.  Das ἄπειρον Ursache der Welt des Werdens? (Emanationstheorie, Spir.) |
-| Heraclit. | Werden als Schaffen, p. 347 und früher Kopp.  Voraussetzung von zwei Elementen für jedes Werden. |
-| Anaxagoras. | Kreisbewegung. Dynamische Theorie, Durchdringung der Materie, p. 324.  Viele Substanzen.  Werden als Herausziehn, *Erratum:*Herausziehen *lies:*Herausziehn, [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  nicht mehr Schaffen.  Durchdringung zu Punkten. |
+| **Thales.** | Paracelsus. Stelle in den Allegorien Homers.  Wasser in der neuen Chemie. Lavoisier.  Wolken Eis.  Anaximenes Luft (Paracelsus). |
+| **Anaximander.** | Das Werden als Zeichen der Vergänglichkeit. Nicht das **infinitum**, sondern das Indefinitum.  Das ἄπειρον Ursache der Welt des Werdens? (Emanationstheorie, Spir.) |
+| **Heraclit.** | Werden als **Schaffen**, p. 347 und früher Kopp.  Voraussetzung von zwei Elementen für jedes Werden. |
+| **Anaxagoras.** | Kreisbewegung. **Dynamische** Theorie, Durchdringung der Materie, p. 324.  Viele Substanzen.  Werden als Herausziehn, *Erratum:*Herausziehen *lies:*Herausziehn, [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  nicht mehr Schaffen.  Durchdringung zu Punkten. |
 | Empedocles. | Attraktion, Repulsion. Affinität. Actio in distans. Vier Elemente. Zwei Electricitäten,  p. 340 Kopp. Liebe und Haß-Empfindung *Erratum:*Haß — Empfindung *lies:*Haß-Empfindung [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  als Bewegungsursache. Boerhave, p. 310 Kopp. |
 | Democrit. | Atome gleichartig. Buffon gegen Newton, p. 311.  Vielgestaltig, Gassendi. |
 | Pythagoreer. | 367 Kopp. Der schlafende Reisende im Schiff. Überweg, III 53.  Fortsetzung der Atomistik, alle Bewegungsmechanik ist zuletzt Beschreibung der Vorstellungen.  Berührung. Actio in distans. |
@@ -30,11 +30,11 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [26[2]](javascript:;)
 ---------------------
 
-Nachahmung der Natur.
+**Nachahmung der Natur.**
 
 „Der weiseste Mensch ist Gott gegenüber ein Affe.“ Heraclit.
 
-Oedipus der „Weh-mensch“ löst das Menschenräthsel.
+**Oedipus** der „Weh-mensch“ löst das **Menschen**räthsel.
 
 [26[3]](javascript:;)
 ---------------------
@@ -44,7 +44,7 @@ Die Eleaten sahen den Himmel gleichsam schwarz, wie die Mondbewohner.
 [26[4]](javascript:;)
 ---------------------
 
-Cardanus theilt die Menschen in
+**Cardanus** theilt die Menschen in
 
 1) bloß Betrogene
 
@@ -57,8 +57,8 @@ Cardanus theilt die Menschen in
 
 |  |  |  |
 | --- | --- | --- |
-| Democrit | { | Sennerti physica Viteb<ergae> 1618  Magneni Democritus reviviscens Ticini 1646 |
-| Empedocles — Maignani cursus philosoph<icus> 1652 und 1673. | | |
+| Democrit | { | Sennerti physica Viteb&amp;lt;ergae&amp;gt; 1618  Magneni Democritus reviviscens Ticini 1646 |
+| Empedocles — Maignani cursus philosoph&amp;lt;icus&amp;gt; 1652 und 1673. | | |
 
 [26[6]](javascript:;)
 ---------------------
@@ -76,7 +76,7 @@ Thomas Campanella sagt, der Raum ist beseelt, denn er scheut das Leere und begeh
 Es ist wie in einer Gemäldegalerie, eine Reihe von Philosophen hinter einander anzusehen: sie sind in dem
 Hause, in das wir sie zur Vergleichung einmiethen, nicht zu Hause; sie sehen daher oft so beliebig und wie ein
 Luxus aus, wie Erzeugnisse charakterloser Allerweltskünstler. Die Aufgabe dagegen soll sein, nur davon zu
-erzählen, wie sie selbst von ihren Vorgängern erzählen und mit ihnen sich berühren, also der Kampf untereinander.
+erzählen, wie sie selbst von ihren Vorgängern erzählen und mit ihnen sich berühren, also der **Kampf** untereinander.
 
 [26[9]](javascript:;)
 ---------------------
@@ -135,7 +135,7 @@ Wir können sie auf Bewegung und Zahlen zurückführen.
 [26[12]](javascript:;)
 ----------------------
 
-Bewegung in der Zeit
+Bewegung in der **Zeit**
 
 |  |  |
 | --- | --- |
@@ -150,20 +150,20 @@ Aufeinanderfolgende Zeitpunkte würden in einander fallen.
 A trifft mit seiner Wirkung nicht mehr auf das B des ersten Momentes. Was heißt es nun: B
 existirt noch und ebenso A existirt noch, wenn sie sich treffen?
 
-Das heiße vor <allem>, A ist unverändert dasselbe in dem und jenem
+Das heiße vor &amp;lt;allem&amp;gt;, A ist unverändert dasselbe in dem und jenem
 Zeitpunkte. Dann aber ist A keine wirkende Kraft, denn die kann nicht mehr dieselbe sein; denn das hieße, sie
 hätte nicht gewirkt.
 
-Nehmen wir das Wirkende in der Zeit, so ist das in jedem kleinsten
+Nehmen wir das Wirkende in der **Zeit**, so ist das in jedem kleinsten
 Zeitmomente Wirkende ein Verschiedenes.
 
-Das heißt: die Zeit beweist das absolute Nichtbeharren einer
+Das heißt: die Zeit beweist das **absolute Nichtbeharren** einer
 Kraft.
 
-Alle Raumgesetze sind also zeitlos gedacht,  
+Alle Raumgesetze sind also **zeitlos** gedacht,  
 das heißt müssen gleichzeitig und sofort sein.
 
-Die ganze Welt in einem Schlage. Dann aber giebt es keine Bewegung.
+Die ganze Welt in einem Schlage. Dann aber giebt es keine **Bewegung**.
 
 Die Bewegung laborirt an dem Widerspruch, daß sie nach Raumgesetzen construirt und durch
 Annahme einer Zeit wieder diese Gesetze unmöglich macht: d.h. zugleich ist und nicht ist.
@@ -175,7 +175,7 @@ unendlich klein, d.h. alle punktuellen Atome fallen zusammen in einen Punkt.
 
 Da aber die Zeit unendlich theilbar ist, so ist die ganze Welt möglich rein als
 Zeitphänomen, weil ich jeden Zeitpunkt mit dem einen Raumpunkt besetzen kann, somit ihn unendliche Mal setzen
-kann. Man müßte sich somit als Wesen eines Körpers Zeitpunkte distinkt denken, d.h. den
+kann. Man müßte sich somit als Wesen eines Körpers **Zeitpunkte distinkt** denken, d.h. den
 einen Punkt in bestimmten Zwischenräumen gesetzt. Zwischen jedem Zeitzwischenraum haben noch unendliche
 Zeitpunkte Platz: also könnte man sich eine ganze Körperwelt denken, alle aus einem Punkte bestritten, aber
 so, daß wir Körper in unterbrochene Zeitlinien auflösen.
@@ -218,51 +218,51 @@ An sich haben wir gar kein Mittel ein Zeitgesetz hinzustellen.
 Wir hätten dann eine punktuelle Kraft, welche zu jedem späteren Zeitmomente ihrer
 Existenz eine Relation hätte, d.h. deren Kräfte in jenen Figuren und Relationen bestünden. In jedem kleinsten
 Moment müßte die Kraft verschieden sein: aber die Aufeinanderfolge wäre in irgendwelchen Proportionen und die
-vorhandene Welt bestünde in der Sichtbarwerdung dieser Kraft-Proportionen, d.h.
+vorhandene Welt bestünde in der **Sichtbarwerdung dieser Kraft-Proportionen**, d.h.
 Übersetzung ins Räumliche.
 
   
 
-Gewöhnlich nimmt man in der atomistischen Physik in der Zeit
+Gewöhnlich nimmt man in der atomistischen Physik **in der Zeit**
 unveränderliche Atom-Kräfte an, also ὄντα im parmenideischen Sinne. Diese
 können aber nicht wirken.
 
 Sondern nur absolut veränderliche Kräfte können wirken, solche die keinen Augenblick
 dieselben sind.
 
-Alle Kräfte sind nur Funktion der Zeit.
+Alle Kräfte sind nur **Funktion der Zeit**.
 
   
 
 |  |  |
 | --- | --- |
-| 1) | Eine Wirkung von aufeinanderfolgenden Zeitmomenten ist unmöglich: denn zwei solche Zeitpunkte würden in einander fallen. Also ist jede Wirkung actio in distans, d.h. durch Springen. |
+| 1) | Eine Wirkung von aufeinanderfolgenden Zeitmomenten ist **unmöglich**: denn zwei solche Zeitpunkte würden in einander fallen. Also ist jede Wirkung actio in distans, d.h. durch Springen. |
 | 2) | Wie eine Wirkung dieser Art in distans möglich ist, wissen wir gar nicht. |
 | 3) | Schnell, langsam usw. in der ganzen Art dieser Wirkung. D.h. die Kräfte, als Funktionen der Zeit, äußern sich in der Relation von nahen oder fernen Zeitpunkten, *Erratum:*den Relationen naher oder ferner Zeitpunkte, *lies:*der Relation von nahen oder fernen Zeitpunkten, [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  nämlich schnell oder langsam. Die Kraft liegt im Grade der Beschleunigung. Die allerhöchste Beschleunigung läge in der Wirkung eines Zeitmomentes auf das nächste, d.h. es wäre dann = unendlich groß. Je größer die Langsamkeit, um so größer die Zwischenräume der Zeit, um so größer das distans. Also Relation entfernter Zeitpunkte ist Langsamkeit: alle Langsamkeit ist natürlich relativ. |
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| Zeitlinie. | |  | Wir messen an etwas Räum- lichblei- bendem die Zeit und des- halb setzen wir voraus, daß zwischen Zeit- punkt A und Zeitpunkt B eine stetige Zeit sei. Die Zeit ist aber gar kein conti- nuum, sondern es giebt nur |
+| Zeitlinie. | |  | Wir messen an etwas **Räum- lichblei- bendem** die Zeit und des- halb setzen wir voraus, daß zwischen Zeit- punkt A und Zeitpunkt B eine **stetige** Zeit sei. Die Zeit ist aber gar kein conti- nuum, sondern es giebt nur |
 | Real: ein Raum- punkt. |  |
 | Relationen seiner verschiedenen Zeitlagen. |  |
 | Wo bestehen die Relationen. |  |
-| Keine Bewegung in der Zeit ist stetig. |  |
-|  |  | total verschiedene Zeitpunkte, keine Linie. Actio in distans. | |
+| Keine Bewegung in der Zeit ist **stetig**. |  |
+|  |  | **total verschiedene Zeitpunkte, keine Linie**. Actio in distans. | |
 
   
 
 Es ist nur von Zeitpunkten zu reden, nicht mehr von Zeit.
 
-Der Zeitpunkt wirkt auf einen anderen Zeitpunkt, also dynamische
+Der Zeitpunkt wirkt auf einen anderen Zeitpunkt, also **dynamische**
 Eigenschaften vorauszusetzen.
 
-Zeitatomenlehre.
+**Zeitatomenlehre.**
 
 |  |  |  |
 | --- | --- | --- |
 | Es ist möglich, | 1) | die vorhandene Welt auf punktuelle Raumatomistik zurückzuführen, |
 | 2) | diese wieder auf Zeitatomistik zurückzuführen |
-| 3) | die Zeitatomistik fällt endlich zusammen mit einer Empfindungslehre. Der dynamische Zeitpunkt ist identisch mit dem Empfindungspunkt. Denn es giebt keine Gleichzeitigkeit der Empfindung. |
+| 3) | die Zeitatomistik fällt endlich zusammen mit einer Empfindungslehre. Der **dynamische Zeitpunkt** ist identisch mit dem **Empfindungspunkt**. Denn es giebt keine Gleichzeitigkeit der Empfindung. |
 
 [26[13]](javascript:;)
 ----------------------
@@ -325,7 +325,7 @@ alle Vergangenheit zu tilgen freilich nöthig, die Menschen mitzuvertilgen
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 :
-aber er will nur die bisherige Bildung, das ganze geistige Weiterleben, vernichten. Die
+aber er will nur die bisherige **Bildung**, das ganze geistige Weiterleben, vernichten. Die
 neue Generation soll ihre neue Kultur finden:
 
 Der Mensch ist nur der Kunst werth, die er selbst schafft.
@@ -333,7 +333,7 @@ Der Mensch ist nur der Kunst werth, die er selbst schafft.
 Die Bildung überträgt sich nicht einfach durch die Generation. Sie ist viel gefährdeter: sie kann
 Jahrhunderte lang wirklich vernichtet werden.
 
-Es ist möglich die Bildung zu vernichten.
+Es ist möglich die **Bildung zu vernichten**.
 
 Sie zu ruiniren ist sogar sehr leicht und das Werk weniger Menschen und Jahre.
 
@@ -341,25 +341,25 @@ Die Natur hat nicht solche Vorsichtsmaßregeln getroffen
 
   
 
-Da die Bildung so wandelbar ist, so ist sie
-auch
+Da **die Bildung so wandelbar ist**, so ist sie
+**auch**
 
 *Erratum:*auch  
-*lies:*auch  
+*lies:***auch**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- leicht zu verbessern.
+**leicht zu verbessern**.
 
 [26[15]](javascript:;)
 ----------------------
 
-<Goethe> über gute Handlanger 3 p. 54
+&amp;lt;Goethe&amp;gt; über gute Handlanger 3 p. 54
 
 *Erratum:*59  
 *lies:*54  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Eckerm<ann> 3 p. 164 der griechische Stil.
+Eckerm&amp;lt;ann&amp;gt; 3 p. 164 der **griechische Stil**.
 
 3 p. 37 durch Zeitungen Halbkultur der Massen
 
@@ -409,7 +409,7 @@ Sitten, und meine, daß ein metaphysischer Zauber, Einheiten aus Vielheiten, Ein
 gebären, in der Sprache liegen müsse. Eben deshalb müssen wir die strengsten Wächter über diese unificirende,
 unsre zukünftige Deutschheit verbürgende Sprache setzen. Unsere großen Autoren haben ein heiliges Amt, als
 Wächter dieser Sprache; und unsere deutsche Schule hat eine fruchtbare ernste Aufgabe, unter den Augen solcher
-Wächter zur deutschen Sprache zu erziehen. (Neue Eigenschaft der d<eutschen> Sprache: alles
+Wächter zur deutschen Sprache zu erziehen. (Neue Eigenschaft der d&amp;lt;eutschen&amp;gt; Sprache: alles
 anzunehmen und nachzuahmen, europäisches Mosaik.)
 
 Nun hat der Krieg die unselige Wirkung gehabt, daß auch die deutschen Schriftsteller sich glorificirt fanden
@@ -481,7 +481,7 @@ Es fehlt das Gefühl daß es schlimm steht.
 
 |  |  |
 | --- | --- |
-|  | Über Lesen und Schreiben. |
+|  | **Über Lesen und Schreiben.** |
 | 1. | Das Viellesen. |
 | 2. | Das Vielschreiben. |
 | 3. | Der Stil. |
@@ -490,7 +490,7 @@ Es fehlt das Gefühl daß es schlimm steht.
 [26[21]](javascript:;)
 ----------------------
 
-Griechisch und deutsch.
+**Griechisch und deutsch.**
 
   
 
@@ -561,3 +561,5 @@ Gefühllos für das Deutsche.
 
 Von  
 Pacific Nil.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -31,7 +31,7 @@ die Unfähigkeit unseres Sehens und Denkens gegenüber dieser wahrhaftigsten Wel
 des Daseins bricht sich an diesem ungeheuren Behagen des Spieles mit ihm; der Weltenschöpfer Brahma lacht über
 sich selbst, da er die Täuschung über sich selbst erkennt; die wiedergewonnene Unschuld spielt scherzend mit
 dem Stachel der gesühnten Schuld, das befreite Gewissen neckt sich mit seiner ausgestandenen Qual. — Jetzt
-warf er den Blick auch auf die Erscheinung, die, durch sein inneres Licht beschienen, in
+warf er den Blick auch auf die Erscheinung, die, durch **sein** inneres Licht beschienen, in
 wundervollem Reflexe sich wieder seinem Innern mittheilte. Jetzt spricht wiederum nur das Wesen der Dinge zu
 ihm und zeigt ihm diese in dem ruhigen Lichte der Schönheit. Jetzt versteht er den Wald, den Bach, die Wiese,
 den blauen Aether, die heitre Menge, das liebende Paar, den Gesang der Vögel, den Zug der Wolken, das Brausen
@@ -47,3 +47,5 @@ Paradiese’ — wer hörte sich dieses Erlöserwort nicht zugerufen, wenn er de
   
 
 — — —
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

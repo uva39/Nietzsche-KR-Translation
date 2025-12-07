@@ -108,7 +108,7 @@ Wie jach wär’ unser Untergang.
 | --- | --- |
 | φωρά — | Göttling, Accentuation.  Stephanus Lexicon.  Lobeck.  Hesychius. |
 | ϑῆμα — | Hesychius. |
-| Leutsch, Philol. über Theognis.  Aeschylus Scholien.  ἀγών.  Keil, Inscript. Boeoticae.  Sauppe, Oratores Attici.  Φώραν Hes. τὴν ἔρευναν, hier unterschieden durch den Accent (Pollux, 8, 69).  ἐπ᾽αὐτῇ τῇ φωρᾷ, jedenfalls φωρᾷ herzustellen. Laert. 1, 96; Ach. Tat. 7, 11. Oenomai Cynici, Buch φωρὰ γοήτων. Euseb. Praeparatio evangelica 5, p. 213. Theodoret. Aff. *Erratum:*App. *lies:*Aff. [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Gr. p. 86,21. | |
+| **Leutsch**, Philol. über Theognis.  Aeschylus **Scholien**.  ἀγών.  Keil, Inscript. Boeoticae.  Sauppe, Oratores Attici.  Φώραν Hes. τὴν ἔρευναν, hier unterschieden durch den Accent (Pollux, 8, 69).  ἐπ᾽αὐτῇ τῇ φωρᾷ, jedenfalls φωρᾷ herzustellen. Laert. 1, 96; Ach. Tat. 7, 11. Oenomai Cynici, Buch φωρὰ γοήτων. Euseb. Praeparatio evangelica 5, p. 213. Theodoret. Aff. *Erratum:*App. *lies:*Aff. [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Gr. p. 86,21. | |
 
 [17[10]\*](javascript:;)
 ------------------------
@@ -131,3 +131,5 @@ Freundschaft ist sie geheissen.
 
 \* Später, 1873,
 entstanden.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

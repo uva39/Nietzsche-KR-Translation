@@ -30,7 +30,7 @@ halten.
 Nicht Grund, noch Zweck deines Handelns macht dein Handeln gut, sondern ob deine Seele dabei zittert und
 erglänzt.
 
-Was wäre eine Gnade üben, wenn es nicht hieße: eine Ungerechtigkeit auf sich nehmen?
+Was wäre eine Gnade üben, wenn es nicht hieße: eine Ungerechtigkeit auf **sich** nehmen?
 
 Sind deine Schultern stark genug dazu, wohlan, so nimm fremdes Unrecht zu dem deinen hinzu: und man soll
 deine Gnade preisen.
@@ -47,8 +47,8 @@ Meeres sich heben mit tausend Busen? Es will geküßt und gesaugt sein vom Durst
 [9[2]](javascript:;)
 --------------------
 
-Um an den Schopenhauerschen Willen zu glauben — dazu gehört ein sehr guter Wille zum
-Glauben!
+Um an den Schopenhauerschen Willen zu glauben — dazu gehört ein sehr guter **Wille zum**
+**Glauben**!
 
 [9[3]](javascript:;)
 --------------------
@@ -96,13 +96,13 @@ Genie’s!
 
 die Thür zu werfen
 
-wie lächerlich wäre es, wenn ihr euch zu mir bekehren wolltet!
+wie lächerlich wäre es, wenn ihr euch zu **mir** bekehren wolltet!
 
-Ihr kommt zu mir, und ich will euch nicht: aber wie ich geben muß, so
-müßt
+Ihr kommt zu mir, und ich **will** euch nicht: aber wie ich geben muß, so
+**müßt**
 
 *Erratum:*müßt  
-*lies:*müßt  
+*lies:***müßt**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  ihr nehmen!
@@ -115,9 +115,9 @@ riechen.
 Wild schlägt der Adler seine Flügel: aber seine Brandung bricht sich an meinem Willen.
 
 Sie erleben nichts mehr: ihre Haut wird nur geritzt. Wie Mücken sitzen auf ihrer Haut die Ereignisse. — So
-bleibt der M<ensch> jetzt schwer und sich gleich, wie ein Stein in der Sonne.
+bleibt der M&amp;lt;ensch&amp;gt; jetzt schwer und sich gleich, wie ein Stein in der Sonne.
 
-Kirche: verfälschtes Licht, versüßter Ernst des Weihrauchs, Verführung zu falschen
+**Kirche:** verfälschtes Licht, versüßter Ernst des Weihrauchs, Verführung zu falschen
 Ängsten, ich mag die Seele nicht, die zu ihrem Gotte hinauf — kniet.
 
 Wie in ein Auge, sah ich in das Leben.
@@ -138,12 +138,12 @@ Sie — — —
 [9[8]](javascript:;)
 --------------------
 
-Die Tänze Zarathustra’s.
+**Die Tänze Zarathustra’s.**
 
 [9[9]](javascript:;)
 --------------------
 
-Ich wollte der Philosoph der unangenehmen Wahrheiten sein — 6 Jahre lang!
+Ich wollte der Philosoph der **unangenehmen Wahrheiten** sein — 6 Jahre lang!
 
 [9[10]](javascript:;)
 ---------------------
@@ -177,25 +177,25 @@ Halb begrub es der Sand und halb die Eifersucht der Welle.
 [9[12]](javascript:;)
 ---------------------
 
-Determinimus ist so zu beseitigen:
+Determinimus ist **so** zu beseitigen:
 
-ich will mich dem Urtheile bestimmter M<enschen> unterwerfen: es soll
-meine Erziehung sein, mich anspornen und abschrecken — alles als Mittel, ein Ideal
-durchzusetzen und zur Herrschaft zu bringen.
+ich **will** mich dem Urtheile bestimmter M&amp;lt;enschen&amp;gt; unterwerfen: es soll
+meine Erziehung sein, mich anspornen und abschrecken — alles als Mittel, ein **Ideal
+durchzusetzen** und zur Herrschaft zu bringen.
 
-Organisch = moralisch ist die Lösung des moralischen Problems.
+Organisch = moralisch ist die **Lösung** des moralischen Problems.
 
-Man ehrt erst einen Einzelnen, insofern er einen Typus ausdrückt:
+Man **ehrt** erst einen Einzelnen, insofern er einen **Typus** ausdrückt:
 z.B. „der Priester“, „der Held“ usw. — später erst, insofern er „er allein“ ist.
 
-Moral
-giebt es, welche Tugend dahin stellt, daß einer nicht Individuum,
-sondern Typus werde! daß er schließlich für die Empfindung zusammenfällt mit einem verehrten Typus des Volkes.
+**Moral**
+**giebt es**, welche Tugend dahin stellt, daß einer **nicht** Individuum,
+**sondern Typus werde**! daß er schließlich für die Empfindung **zusammenfällt** mit einem verehrten Typus des Volkes.
 
 [9[13]](javascript:;)
 ---------------------
 
-Des Ringes Durst, sich wieder zu erreichen — ihn dürste ich.
+Des Ringes Durst, **sich** wieder zu erreichen — ihn dürste ich.
 
 [9[14]](javascript:;)
 ---------------------
@@ -205,7 +205,7 @@ durchsäuert.
 
 Als Jäger zog Zarathustra aus, häßliche Wahrheiten zu jagen.
 
-Der Zeiger rückte und die Uhr meines L<ebens> holte Athem: dann sprach sie: nun kam die Stunde,
+Der Zeiger rückte und die Uhr meines L&amp;lt;ebens&amp;gt; holte Athem: dann sprach sie: nun kam die Stunde,
 Erlösung zu predigen von Erlösern.
 
 [9[15]](javascript:;)
@@ -221,16 +221,16 @@ machen.
 
 Von besserem Stoffe wollt ihr sein? Ich sage euch, ihr versteht euch nur besser zu belügen.
 
-Er kam zu uns, er lebte unter uns — wir selber waren seine Unterwelt.
+Er kam zu uns, er lebte unter uns — **wir** selber waren seine Unterwelt.
 
-Glaube es mir, Z<arathustra> starb und ist nicht mehr. Ein Stern erlosch in oedem Raum: aber
+Glaube es mir, Z&amp;lt;arathustra&amp;gt; starb und ist nicht mehr. Ein Stern erlosch in oedem Raum: aber
 sein Licht — — —
 
 [9[16]](javascript:;)
 ---------------------
 
 Zerbrecht mir diese göttlichen grinsenden Larven! war ich der Narr eines göttlichen Grinsens und vergaß
-<ich> die Eingeweide mit denen die Larven gestopft waren?
+&amp;lt;ich&amp;gt; die Eingeweide mit denen die Larven gestopft waren?
 
 Zerreißt mir die Häute, auf denen die Seele eines Gottes zu spielen schien!
 
@@ -265,7 +265,7 @@ Erst wenn sich eure klugen Finger in die Faust verkriechen, will ich an eure Kra
 
 Golden blitzt sein Auge: ein goldener Kahn schwimmt darin auf dunklen Gewässern:
 
-In seinen Augen senkt und hebt <er> sich wieder beim Tanzen und ihr, die ihn tragen — — —
+In seinen Augen senkt und hebt &amp;lt;er&amp;gt; sich wieder beim Tanzen und ihr, die ihn tragen — — —
 
 Dürres Gras und Steppe seid ihr mir: aber ich will laufende Feuer aus euch machen und Verkünder mit
 Flammenzungen.
@@ -314,8 +314,8 @@ Und um euch zu vergiften bedürfte ich gläserner Handschuhe
 [9[22]](javascript:;)
 ---------------------
 
-La vie est une tragédie pour ceux qui sentent, et une comédie pour ceux, qui pensent. Horace
-Walpole.
+La vie est une tragédie pour ceux qui sentent, et une comédie pour ceux, qui pensent. **Horace**
+**Walpole.**
 
 [9[23]](javascript:;)
 ---------------------
@@ -378,28 +378,28 @@ Geknister
 [9[25]](javascript:;)
 ---------------------
 
-Vieles muß zu einer moralischen Handlung zusammenkommen
+**Vieles** muß zu einer **moralischen** Handlung zusammenkommen
 
 1) eine starke Spontaneität
 
 2) die äußerste Spannung des Ich-willens
 
-es ist die höchste Gattung organischer Funktionen.
+es ist die **höchste Gattung organischer Funktionen**.
 
 [9[26]](javascript:;)
 ---------------------
 
-Ich verlange auch noch Anmuth von dem Großgesinnten.
+Ich verlange auch noch **Anmuth** von dem **Großgesinnten**.
 
 [9[27]](javascript:;)
 ---------------------
 
-das Dionysische als die mir zugänglichste Seite des Alterthums.
+das **Dionysische** als die mir zugänglichste Seite des Alterthums.
 
 [9[28]](javascript:;)
 ---------------------
 
-Genie und Stümperei
+**Genie und Stümperei**
 
 [9[29]](javascript:;)
 ---------------------
@@ -454,12 +454,12 @@ Immer einsamer und verbannter: immer heißer an Liebe und Hinwollen zu den Mensc
 
 Die 7 Einsamkeiten.
 
-Alle typischen Leiden des Reformators; und seine Tröstungen.
+Alle typischen **Leiden** des Reformators; und seine **Tröstungen**.
 
 1) Trost: auf das nächste Jahrtausend lege ich meine Hand.
 
 2) Ich lebe wie in anderen Zeiten: meine Höhe giebt mir Verkehr mit Einsamen und Verkannten aller
-Zeit<en>
+Zeit&amp;lt;en&amp;gt;
 
 3) Ich hasse nicht ich wehre mich mit der Schönheit.
 
@@ -484,12 +484,12 @@ Dem Büffel gleich nahe dem Meere und näher noch dem Walde lebe ich.
 [9[33]](javascript:;)
 ---------------------
 
-Triebe hat man so lange wie möglich zu leugnen — Grundsatz der
-moral-physiolog<ischen> Forschung.
+**Triebe** hat man so lange wie möglich zu leugnen — Grundsatz der
+moral-physiolog&amp;lt;ischen&amp;gt; Forschung.
 
-Was jetzt macht, daß wir einen Menschen schätzen, hat es immer
-gemacht. Erst M<enschen> dann
-erst Handlungen zu Ehren gekommen
+Was jetzt**macht**, daß wir einen Menschen schätzen, hat es immer
+gemacht. Erst M&amp;lt;enschen&amp;gt; **dann**
+**erst** Handlungen zu Ehren gekommen
 
 [9[34]](javascript:;)
 ---------------------
@@ -500,7 +500,7 @@ Wozu gab ich euch den 100fältigen Spiegel?
 
 Ich überwand auch die Liebe zu euch mit der Liebe zum Übermenschen.
 
-Und wie ich euch ertrage, so müßt ihr euch ertragen, aus Liebe zu dem Ü<bermenschen>.
+Und wie ich euch ertrage, so müßt ihr euch ertragen, aus Liebe zu dem Ü&amp;lt;bermenschen&amp;gt;.
 
 Ihr seid mir der Stein, in dem das erhabenste aller Bildwerke schläft
 
@@ -522,7 +522,7 @@ Grabgesänge am Vulkan
 
 Die Stille der Natur — der Donner.
 
-Goldener Sarg.
+**Goldener Sarg.**
 
 [9[36]](javascript:;)
 ---------------------
@@ -539,31 +539,31 @@ gräßlich! es heißt: „ich dulde mich selber — folglich!“
 [9[37]](javascript:;)
 ---------------------
 
-Jedesmal, daß ich eine scharfe Brille aufsetze, wundere ich mich, wie häßlich die M<enschen>
+Jedesmal, daß ich eine scharfe Brille aufsetze, wundere ich mich, wie häßlich die M&amp;lt;enschen&amp;gt;
 sind und wie man es unter ihnen aushält.
 
 [9[38]](javascript:;)
 ---------------------
 
-Der Sinn der Causalität wird immer schwächer, nach rückwärts (z.B. Mythen) Folglich müssen die Conceptionen über das Innere besonders wenig
+Der Sinn der Causalität wird immer **schwächer**, nach rückwärts (z.B. Mythen) **Folglich** müssen die Conceptionen über das Innere besonders **wenig**
 vernünftig sein.
 
-Die ältesten Annahmen müssen die dümmsten sein
+Die **ältesten** Annahmen müssen die dümmsten sein
 
 [9[39]](javascript:;)
 ---------------------
 
 „Wille“ ist ein Begriff, um alle unsere Leidenschaften zu vereinigen.
 
-Leidenschaften sind Gefühle, um gewisse körperliche Zustände, die wir nicht dem Körper
+Leidenschaften sind Gefühle, um gewisse körperliche Zustände, die wir **nicht** dem Körper
 zuschreiben, zu bezeichnen.
 
 „Gemeingefühle“
 
-Moralische Gefühle sind Leidenschaften von Werthurtheilen
+**Moralische Gefühle** sind Leidenschaften von **Werthurtheilen**
 umgewandelt.
 
-Einfluß des Urtheils auf das Gefühl (selbst bei Lust und
+Einfluß des **Urtheils** auf das **Gefühl** (selbst bei Lust und
 Schmerz)
 
 Lust und Schmerz sind Werthurtheile
@@ -571,7 +571,7 @@ Lust und Schmerz sind Werthurtheile
 [9[40]](javascript:;)
 ---------------------
 
-Wie oberflächlich und arm ist alles Innere:
+Wie **oberflächlich** und **arm** ist alles **Innere**:
 
 z.B. Zweck (Bild des Kauens und wirkliches Kauen)
 
@@ -588,7 +588,7 @@ z.B. Gefühl des Herzschlags im Vergleich zu seiner Mechanik
 [9[41]](javascript:;)
 ---------------------
 
-Es giebt nur leibliche Zustände: die geistigen sind Folgen und
+Es giebt **nur**leibliche Zustände: die geistigen sind Folgen und
 Symbolik.
 
   
@@ -597,30 +597,30 @@ Symbolik.
 
 Auge Ohr sind auch „äußere Welt“.
 
-Gefühle sind uns gegeben und die äußere Welt: und selbst die Gefühle lokalisirt in dieser.
+Gefühle sind uns gegeben **und die äußere Welt**: und selbst die Gefühle **lokalisirt in dieser**.
 
   
 
 Alle Sinnes-Eindrücke nenne ich „Reize“.
 
-„Schein“ hat nur Sinn für das Auge.
+„Schein“ hat nur Sinn für das **Auge**.
 
-„Die Metaphysik der Metaphysik“ zeigen!
+**„Die Metaphysik der Metaphysik“** zeigen!
 
   
 
-Das Sein der Dinge wird erschlossen: folglich müssen wir schon eine Meinung haben was
-Sein ist. Die kann ein
-Irrthum sein! z.B. Ich.
+Das Sein der Dinge wird erschlossen: folglich müssen wir schon eine **Meinung** haben was
+**Sein** ist. Die kann ein
+**Irrthum sein**! z.B. Ich.
 
 [9[42]](javascript:;)
 ---------------------
 
-Das Alberne der Moral in ihrer Werthabschätzung nach der Schwierigkeit.
+Das Alberne der Moral in ihrer Werthabschätzung nach der **Schwierigkeit**.
 
   
 
-Die „innere Welt“ ist viel dünner und kürzer als die mechanische.
+Die **„innere** Welt**“** ist viel dünner und kürzer als die mechanische.
 Überschätzung!
 
   
@@ -629,36 +629,36 @@ Die unegoistische Handlung eine Selbsttäuschung und Kurzsichtigkeit. „Abkürz
 
   
 
-Reinigung der inneren Welt.
+**Reinigung** der inneren Welt.
 
   
 
-Es muß irgendwann religiöse ästhetische und moralische Auffassung eins gewesen sein.
+Es muß irgendwann religiöse ästhetische und moralische Auffassung **eins** gewesen sein.
 
   
 
-Bezeichnung und Werthschätzung unserer leiblichen Zustände — wie?
+**Bezeichnung** und Werthschätzung unserer leiblichen Zustände — wie?
 
 [9[43]](javascript:;)
 ---------------------
 
-Ich mußte die Moral aufheben, um meinen moralischen Willen durchzusetzen.
+Ich mußte die Moral **aufheben**, um meinen moralischen Willen durchzusetzen.
 
-Gesetzt, es gilt die Moral, so darf ich nicht den Nächsten durch mein Richterthum vergewaltigen. Dann auch nicht terrorisiren (abschrecken)
+Gesetzt, es gilt die Moral, so darf ich nicht den Nächsten durch mein Richterthum vergewaltigen. Dann **auch** nicht terrorisiren (abschrecken)
 
 Ja, er ist unschuldig
 
-Ringen um die Macht! Mein Ideal durchsetzen, auf die Weise, die aus meinem Ideal
+Ringen um die Macht! Mein Ideal durchsetzen, **auf die Weise**, die aus meinem Ideal
 folgt!
 
   
 
-Die Handlungen eines Menschen sind schlechterdings nicht aus seinen Motiven zu
-erklären.
+Die Handlungen eines Menschen sind schlechterdings nicht aus seinen **Motiven zu
+erklären**.
 
   
 
-Die Individuen wirken fort in den Antrieben.
+Die Individuen wirken **fort** in den **Antrieben**.
 
   
 
@@ -666,7 +666,7 @@ Der höhere Geist an einem schwächlichen nervösen Charakter gebunden — ist z
 
   
 
-Die Verachtung des Machtgewinns und -Einflusses ist wider das Princip des
+Die Verachtung des Machtgewinns und -Einflusses ist **wider** das Princip des
 Organischen.
 
 [9[44]](javascript:;)
@@ -674,18 +674,18 @@ Organischen.
 
 1. Leidenschaften = Tugenden und Laster.
 
-2. Die Wertmaaße (das wissenschaftliche Werthmaß fehlte bisher)
+2. Die Wertmaaße (das wissenschaftliche Werthmaß **fehlte** bisher)
 
 Heerde und Einzelne.
 
   
 
-Furcht oder Hoffnung treten zu einem Schmerz- oder Lustgefühl hinzu — so bei allen Leidenschaften.
+Furcht oder Hoffnung treten zu einem Schmerz- oder Lustgefühl hinzu — **so****bei allen Leidenschaften**.
 
   
 
-Zorn (und alle Affekte) zuerst ein Zustand des Körpers: der interpretirt wird. Später
-erzeugt die Interpret<ation> frei den Zustand.
+Zorn (und alle Affekte) **zuerst** ein Zustand des Körpers: der interpretirt wird. Später
+erzeugt die Interpret&amp;lt;ation&amp;gt; frei den Zustand.
 
 [9[45]](javascript:;)
 ---------------------
@@ -715,7 +715,7 @@ Bist du ein Stern? So mußt du auch wandern und heimatlos sein.
 
   
 
-Euch muß erst der Hunger nach eurer Erkenntniß gelehrt werden.
+Euch muß erst der **Hunger** nach eurer Erkenntniß gelehrt werden.
 
   
 
@@ -727,16 +727,16 @@ Sich widerstreben ist auch süß und das Haar buschlicher Gefühle zurückzukäm
 
   
 
-§ den M<enschen> das Gefühl „Strafe“ und „Schuld“ verleiden
+§ den M&amp;lt;enschen&amp;gt; das Gefühl „Strafe“ und „Schuld“ **verleiden**
 
 [9[46]](javascript:;)
 ---------------------
 
-Man muß alles Organische überwinden. Wenig und oft!
+Man muß alles Organische **überwinden**. Wenig und oft!
 
   
 
-Wie wollte ich leben, wenn ich nicht voraus schaute — über euch hinweg!
+Wie wollte ich leben, wenn ich nicht **voraus** schaute — über euch hinweg!
 
   
 
@@ -744,13 +744,13 @@ Fürchtet den Zurückgezogenen! Zum Springen bereitet sich der Tiger!
 
   
 
-Verehren ist selber eine Leidenschaft: ebenso wie das Beschimpfen. Durch Verehren wurden
-die „Leidenschaften“ zu Tugenden.
+Verehren ist selber eine Leidenschaft: ebenso wie das Beschimpfen. Durch **Verehren** wurden
+die **„Leidenschaften“** zu **Tugenden**.
 
   
 
 Ein unbedingtes „Soll“ kann ich mir nur selten zurufen: also keine Autorität! Der „moralische Sinn“ Kants ist
-nichts! Das ist die Eitelkeit welche will, daß ein „Soll“ Aller Welt
+nichts! Das ist die **Eitelkeit** welche **will**, daß ein „Soll“ Aller Welt
 „Soll“ ist!
 
 [9[47]](javascript:;)
@@ -779,20 +779,19 @@ Besitz der Macht.
 
   
 
-Recht, seinen eigenen
+Recht, seinen **eigenen**
 ganz
 
-*Erratum:*ganz  
+*Erratum:***ganz**  
 *lies:*ganz  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- individuellen
-Straf-Ansatz zu machen.
+**individuellen**
+**Straf**-Ansatz zu machen.
 
   
 
-Willst du dein Eigenstes das individuum nicht
-vertreten, sondern widersprichst du ihm, so gehört der Widerspruch in die individuelle „Verantwortlichkeit“ —
+Willst du dein **Eigenstes** das individuum nicht**vertreten**, sondern widersprichst du ihm, so gehört der **Widerspruch**in die individuelle „Verantwortlichkeit“ —
 
 [9[48]](javascript:;)
 ---------------------
@@ -805,7 +804,7 @@ Cultur ist nur ein dünnes Apfelhäutchen über einem glühenden Chaos.
 
   
 
-Die Menschen nicht gleich: also
+Die Menschen **nicht** gleich: also
 
 *Erratum:*so  
 *lies:*also  
@@ -828,11 +827,11 @@ Wille ein Wahn.
 
   
 
-Die Wahrheit thut weh, weil sie einen Glauben zerstört: nicht an sich.
+Die Wahrheit thut weh, weil sie einen **Glauben** zerstört: nicht an sich.
 
   
 
-Erfinder neuer Zustände der Seele sind die eigentlichen Erfinder: man sucht diese Zustände nachzuahmen
+Erfinder neuer Zustände der Seele sind die eigentlichen Erfinder: man sucht diese Zustände **nachzuahmen**
 
   
 
@@ -840,8 +839,8 @@ Dühring: niemand wünscht sich eine solche geifervolle Seele. Deshalb zieht sei
 
   
 
-Machtgefühl. — Glück ist nicht das Ziel: sondern eine ungeheure Kraft im Menschen und in
-der Menschheit will sich ausgeben, will schaffen, es ist eine fortwährende Kette von
+Machtgefühl. — Glück ist **nicht** das Ziel: sondern eine ungeheure Kraft im Menschen und in
+der Menschheit will sich **ausgeben**, will schaffen, es ist eine fortwährende Kette von
 Explosionen, die keineswegs das Glück zum Ziel haben.
 
   
@@ -855,7 +854,7 @@ Wollt ihr denn bezahlt sein?
 [9[49]](javascript:;)
 ---------------------
 
-Reinigung von der Rache ist meine Moral. §
+Reinigung von der Rache ist **meine** Moral. §
 
 „Wann loderte je solche Flamme? (wie Zarathustra)
 
@@ -874,13 +873,13 @@ Das Meer, das seinen Pfauenschweif sich zur Lust auf dem weichen Sande aufrollt.
 
   
 
-§ Rausch. Seine gemeine Form im Bußkrampf. Warnen vor Dionysus!
+§ **Rausch.** Seine **gemeine** Form im Bußkrampf. Warnen vor Dionysus!
 
 [9[51]](javascript:;)
 ---------------------
 
-Wir finden bei den verschiedenen Menschen dieselbe Zahl von Leidenschaften: diese aber
-verschieden genannt, geschätzt und dadurch verschieden gerichtet. Gut und Böse unterscheiden sich durch die verschiedene Rangordnung der
+Wir finden bei den verschiedenen Menschen **dieselbe Zahl** von Leidenschaften: diese aber
+verschieden genannt, geschätzt und dadurch verschieden **gerichtet**. **Gut** und **Böse** unterscheiden sich durch die verschiedene Rangordnung der
 Leidenschaften unter einander und die Herrschaft der Ziele.
 
 [9[52]](javascript:;)
@@ -936,18 +935,20 @@ Das allerbeste Wissen reicht kaum aus zum Glauben.
 [9[57]](javascript:;)
 ---------------------
 
-Daniel Darc, bréviaire du Parisien (Ollendorf éditeur)
+Daniel **Darc**, bréviaire du Parisien (Ollendorf éditeur)
 
-Brehm
+**Brehm**
 
-Moldenhauer
+**Moldenhauer**
 
 [9[58]](javascript:;)
 ---------------------
 
-Sammlung erhabener Zustände und Gegenstände.
+Sammlung**erhabener** Zustände und Gegenstände.
 
 [9[59]](javascript:;)
 ---------------------
 
-Nr 343 V<ermischte> M<einungen> und Sp<rüche>
+Nr 343 V&amp;lt;ermischte&amp;gt; M&amp;lt;einungen&amp;gt; und Sp&amp;lt;rüche&amp;gt;
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

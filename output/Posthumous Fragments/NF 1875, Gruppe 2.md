@@ -13,7 +13,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 
 [2 = U II 8a. Bis Anfang März 1875]
 
-Notizen zu „WIR PHILOLOGEN“
+**Notizen zu** „WIR PHILOLOGEN“
 
 [2[1]](javascript:;)
 --------------------
@@ -26,7 +26,7 @@ Ein häßlich anzusehendes Blasinstrument: es muß erst geblasen werden.
 [2[2]](javascript:;)
 --------------------
 
-Themata.
+**Themata.**
 
   
 
@@ -45,12 +45,12 @@ Die Frage in der Musik.
   
 
 Es soll ein grosses Buch für die täglichen Einfälle und Erfahrungen, Pläne usw. angelegt werden: wo auch die
-wissenschaftlichen Erkenntnisse kurz eingetragen werden. Alle litterarischen Pläne bei Seite zu stellen. Mihi scribere.
+wissenschaftlichen Erkenntnisse kurz eingetragen werden. Alle litterarischen Pläne bei Seite zu stellen. **Mihi scribere.**
 
 [2[3]](javascript:;)
 --------------------
 
-Wir Philologen.
+**Wir Philologen.**
   
 Ungefährer Plan.
 
@@ -78,8 +78,8 @@ opus est verbis, sed fustibus.“
 [2[5]](javascript:;)
 --------------------
 
-Es bleibt ein grosser Zweifel übrig, ob man aus den Sprachen auf
-Nationalität und auf Verwandtschaft mit anderen Nationen schliessen
+Es bleibt ein grosser **Zweifel** übrig, ob man aus den **Sprachen** auf
+Nationalität und auf **Verwandtschaft** mit anderen **Nationen** schliessen
 kann; eine siegreiche Sprache ist nichts als ein häufiges (nicht einmal regelmässiges) Zeichen einer
 gelungenen Überwältigung. Wo hätte es je autochthone Völker gegeben! Es ist ein ganz unklarer Begriff, von
 Griechen zu reden, die noch nicht in Griechenland lebten. Das Eigenthümliche-Griechische ist viel weniger das
@@ -109,4 +109,6 @@ Was man von den Griechen lernen kann.
 [2[8]](javascript:;)
 --------------------
 
-Klinger sagt „die Kultur ist eine Frucht freierer furchtloserer Gefühle“.
+**Klinger** sagt „die Kultur ist eine Frucht freierer furchtloserer Gefühle“.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

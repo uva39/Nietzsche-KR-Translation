@@ -83,11 +83,11 @@ ihr nur als Hemmnisse in Betracht.
 
 |  |  |  |
 | --- | --- | --- |
-| I. | Einleitung. Was vermag ein Philosoph in Betreff der Cultur seines Volks? | |
+| I. | **Einleitung.** Was vermag ein Philosoph in Betreff der Cultur seines Volks? | |
 | |  |  |  | | --- | --- | --- | | — Er scheint | a) | gleichgültiger Einsiedler | | b) | Lehrer von den hundert geistreichsten und abstraktesten Köpfen | | c) | oder feindseliger Zerstörer der Volkskultur. | | |
-| — Was b) betrifft, so ist die Wirkung nur mittelbar, aber sie ist da, wie bei c).  — Was a) betrifft, so kommt es wohl vor, durch die Unzweckmäßigkeit der Natur, daß er Einsiedler bleibt. Sein Werk bleibt doch für spätere Zeiten. Doch fragt sich aber *Erratum:*eben *lies:*aber [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) , ob er für seine Zeit nothwendig war.  — Hat er ein nothwendiges Verhältniß zum Volke, giebt es eine Teleologie des Philosophen?  — Bei der Beantwortung muß man wissen, was man seine „Zeit“ nennt: das kann eine kleine oder eine sehr große Zeit sein.  — Hauptsatz: er kann keine Kultur schaffen, | |
+| — Was b) betrifft, so ist die Wirkung nur mittelbar, aber sie ist da, wie bei c).  — Was a) betrifft, so kommt es wohl vor, durch die Unzweckmäßigkeit der Natur, daß er Einsiedler bleibt. Sein Werk bleibt doch für spätere Zeiten. Doch fragt sich aber *Erratum:*eben *lies:*aber [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) , ob er für seine Zeit nothwendig war.  — Hat er ein **nothwendiges** Verhältniß zum Volke, giebt es eine Teleologie des Philosophen?  — Bei der Beantwortung muß man wissen, was man seine „Zeit“ nennt: das kann eine kleine oder eine sehr große Zeit sein.  — Hauptsatz: er kann **keine Kultur schaffen**, | |
 | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | aber sie vorbereiten, Hemmungen beseitigen,  oder sie mäßigen und dadurch erhalten,  oder sie zerstören. | |  | | --- | |  | |  | |  | |  | |  | | immer nur verneinend. | | |
-| Nie hat ein Philosoph in seinen positivis das Volk hinter sich drein gezogen. Denn er lebt im Kultus des Intellekts.  Zu allen positivis einer Kultur, einer Religion ist er auflösend, zerstörend (selbst wenn er zu begründen sucht).  Er ist am nützlichsten, wenn es viel zu zerstören giebt, in Zeiten des Chaotischen oder der Entartung.  Jede blühende Kultur hat das Bestreben, den Philosophen unnöthig zu machen (oder ihn völlig zu isoliren). Die Isolation oder Verkümmerung kann doppelt zu erklären sein: aus der Unzweckmäßigkeit der Natur (dann wenn er nöthig ist) aus der zweckmäßigen Vorsicht der Natur (dann wenn er unnöthig ist). | |
+| Nie hat ein Philosoph in seinen positivis das Volk hinter sich drein gezogen. Denn er lebt im Kultus des Intellekts.  Zu allen positivis einer Kultur, einer Religion ist er **auflösend**, **zerstörend** (selbst wenn er zu **begründen** sucht).  Er ist am nützlichsten, wenn es **viel zu zerstören giebt**, in Zeiten des Chaotischen oder der Entartung.  Jede blühende Kultur hat das Bestreben, den Philosophen **unnöthig** zu machen (oder ihn völlig zu isoliren). Die Isolation oder Verkümmerung kann doppelt zu erklären sein: aus der Unzweckmäßigkeit der Natur (dann wenn er nöthig ist) aus der zweckmäßigen Vorsicht der Natur (dann wenn er unnöthig ist). | |
 | II. | Seine zerstörenden und beschneidenden Wirkungen — worauf? | |
 | III. | Jetzt — da es keine Kultur giebt, hat er vorzubereiten (zerstören) — was? | |
 | IV. | Die Angriffe auf die Philosophie. | |
@@ -106,8 +106,8 @@ ihr nur als Hemmnisse in Betracht.
 [28[4]](javascript:;)
 ---------------------
 
-Alles Allgemein-Wichtige einer Wissenschaft ist zufällig geworden
-oder fehlt ganz.
+Alles **Allgemein-Wichtige** einer Wissenschaft ist **zufällig** geworden
+oder **fehlt ganz**.
 
 Das Sprachstudium, ohne die Stillehre und die Rhetorik.
 
@@ -125,16 +125,16 @@ Kulturmenschen getrieben haben. Die Wissenschaft als Broderwerb!
 [28[5]](javascript:;)
 ---------------------
 
-Die Philosophie treibt ihr mit Jünglingen, ohne Erfahrung: eure Alten wenden sich zur
+Die **Philosophie** treibt ihr mit Jünglingen, ohne Erfahrung: eure Alten wenden sich zur
 Geschichte. Eine Popularphilosophie habt ihr gar nicht, dagegen schmählich uniforme populäre Vorlesungen.
 Preisaufgaben, von Universitäten an Studenten gestellt, über Schopenhauer! Populäre Vorträge über
-Schopenhauer! Es fehlt an aller Würde. Wie die Wissenschaft zu dem werden konnte, was sie
+Schopenhauer! Es fehlt an aller Würde. **Wie die Wissenschaft** zu dem werden konnte, was sie
 jetzt ist, ist nur aus der Entwicklung der Religion deutlich zu machen.
 
 [28[6]](javascript:;)
 ---------------------
 
-Zu Schopenhauer. Lächerlich ihn sich an einer jetzigen Universität zu denken!
+Zu **Schopenhauer**. Lächerlich ihn sich an einer jetzigen Universität zu denken!
 
 Seine eudämonologische Lehre ist wie die des Horaz für erfahrene Männer, seine andre pessimistische ist gar
 nichts für die jetzigen Menschen: diese werden höchstens ihre Unzufriedenheiten hineinstecken und diese wieder
@@ -156,7 +156,9 @@ palliativischer Art über das Elend des Daseins wegzukommen: viel radikaler 4) d
 vorbei 5) das Mitleid (nicht die Liebe zum Ich, sondern die Einheit alles Lebenden und Leidenden). Gegenbild
 der Kultur, wenn die Religion nicht mehr möglich sein sollte. Tragische Resignation.
 
-Schopenhauer steht zu allem in Widerspruch, was jetzt als „Kultur“ gilt: Plato zu allem,
-was damals Kultur war. Schopenhauer ist vorausgeschleudert: wir ahnen jetzt bereits seine
+Schopenhauer steht zu allem in Widerspruch, was jetzt als „Kultur“ **gilt**: Plato zu allem,
+was damals Kultur **war**. Schopenhauer ist vorausgeschleudert: wir ahnen jetzt bereits seine
 Mission. Er ist Vernichter kulturfeindlicher Kräfte, er öffnet wieder die tiefen Gründe des Daseins. Durch ihn
 wird die Heiterkeit der Kunst wieder möglich.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

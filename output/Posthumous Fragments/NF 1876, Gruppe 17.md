@@ -16,45 +16,45 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [17[1]](javascript:;)
 ---------------------
 
-Über das Aesthetische: einiges Derbe.
+**Über das Aesthetische: einiges Derbe.**
 
-Das Weglassen ein Hauptmittel des Idealismus. Man darf so genau nicht zusehn, man zwingt
-den Zuschauer in eine große Ferne zurück, damit er von dort aus
-betrachte (wie bei der Dekorations-Malerei). Wie wichtig ist der Ansatz der Entfernung des Betrachters!
+Das Weglassen ein Hauptmittel des Idealismus. Man darf so genau nicht zusehn, man **zwingt**
+den **Zuschauer** in eine **große Ferne zurück, damit er von dort aus
+betrachte** (wie bei der Dekorations-Malerei). Wie wichtig ist der Ansatz der Entfernung des Betrachters!
 Hier darf der schaffende Künstler nicht schwanken. Gerade hier zeigt sich, wie genau er vom stärksten Gefühle
-seines Zuhörers ausgehen muß.
+**seines** Zuhörers ausgehen muß.
 
-Das Metron legt Flor über die Realität; einiges künstlichere Gerede
+Das **Metron** legt **Flor über** die Realität; einiges künstlichere Gerede
 verdeckt etwas und hebt; das „Dumpfe“. Die letzten Mittel, womit die Kunst wirkt, recht naiv nachzuempfinden!
 Ist sehr selten! Es sind ziemlich alberne Sachen, die dabei herauskommen. Ebenso ist es bei der Religion.
 
-Der große Werth des unreinen Denkens für die Kunst.
+Der große Werth des **unreinen Denkens** für die Kunst.
 
-Zum Nachahmen gehört Liebe und Verspottung zusammen, wie bei Archilochos. Ist wohl der
+Zum Nachahmen gehört **Liebe und Verspottung zusammen**, wie bei Archilochos. Ist wohl der
 fruchtbarste Zustand der menschlichen Seele!
 
 [17[2]](javascript:;)
 ---------------------
 
-Zu der unbesiegbaren Nothwendigkeit des menschlichen Daseins gehört das Unlogische: daher kommt vieles Sehr Gute! Es steckt so fest in der Sprache, in
+Zu der unbesiegbaren **Nothwendigkeit** des menschlichen Daseins gehört das **Unlogische**: daher kommt vieles **Sehr Gute**! Es steckt so fest in der Sprache, in
 der Kunst, in den Affekten, Religion, in allem, was dem Leben Werth verleiht! Naive Leute, welche die Natur
 des Menschen in eine logische verwandeln wollen! Es giebt wohl Grade der Annäherung, aber was geht da alles
-verloren! Von Zeit zu Zeit bedarf der Mensch wieder der Natur d.h. seiner unlogischen Urstellung zu den Dingen. Daher rühren seine besten Triebe.
+verloren! Von Zeit zu Zeit bedarf der Mensch wieder der Natur d.h. seiner unlogischen **Urstellung** zu den Dingen. Daher rühren seine besten Triebe.
 
 [17[3]](javascript:;)
 ---------------------
 
-Die zwei Welten hinter einander: Siegfrieds Leben, im Hintergrunde das Götterschicksal.
+Die **zwei Welten hinter einander**: Siegfrieds Leben, im Hintergrunde das Götterschicksal.
 Höchst metaphysisch empfunden.
 
 [17[4]](javascript:;)
 ---------------------
 
-Es ist den Deutschen wieder einmal so gegangen, wie nach der Reformation; ebenso haben sie jetzt Schiller und Goethe’s Reformation, den hohen Geist, aus dem sie
+Es ist den Deutschen **wieder** einmal so gegangen, wie nach der Reformation; ebenso haben sie jetzt Schiller und Goethe’s Reformation, den hohen Geist, aus dem sie
 wirkten, völlig eingebüßt; alles was jetzt gelobt wird, ist ein volles Gegenstück dazu, und so hat sich bei
 den Ehrlichen eine Art Verachtung gegen jenen Geist ausgebildet. Es kommt durchaus darauf an, daß der Mensch
 groß ist; was dazu gehört, ist nicht zu schnell zu taxiren; aber das Nationale, wie es jetzt verstanden ist,
-fordert als Dogma geradezu die Beschränktheit. Wie fühlen sich die Schächer über Schiller
+fordert als Dogma geradezu die **Beschränktheit**. Wie fühlen sich die Schächer über Schiller
 hinaus!
 
 [17[5]](javascript:;)
@@ -143,7 +143,7 @@ Der Zweck des Staates soll nie der Staat, sondern immer der Einzelne sein.
 
 Wer die Dinge sich für seine Vorstellung verschönern will, muß es machen, wie der Dichter, der einen Gedanken
 verschönern will: er spannt ihn in das Metron, und legt das Gespinst des Rhythmus über ihn: dazu muß er den
-Gedanken ein wenig verschlechtern, damit er in den Vers paßt. Das Verschlechtern der Erkenntniß, um dann die Dinge der Kunst zu beugen: ein Geheimniß der
+Gedanken ein wenig **verschlechtern**, damit er in den Vers paßt. Das **Verschlechtern der Erkenntniß**, um dann die Dinge der Kunst zu beugen: ein Geheimniß der
 Lebenslustigen.
 
 [17[19]](javascript:;)
@@ -177,19 +177,19 @@ die Ziel- und Nutzlosigkeit.
 [17[22]](javascript:;)
 ----------------------
 
-Unzeitgemäße Betrachtungen. Ich habe zusammengebunden und gesammelt, was Individuen groß
+**Unzeitgemäße Betrachtungen.** Ich habe zusammengebunden und gesammelt, was Individuen groß
 und selbstständig macht, und auch die Gesichtspunkte, auf welche hin sie sich verbünden können. Ich sehe, wir
-sind im Aufsteigen: wir werden der Hort der ganzen Cultur in Kürze sein. Alle anderen
+sind im **Aufsteigen**: wir werden der Hort der ganzen Cultur in Kürze sein. Alle anderen
 Bewegungen sind kulturfeindlich (die socialistische ebenso als die des Großstaates, die der Geldmächte, ja die
 der Wissenshaften).
 
-Ich will den Menschen die Ruhe wiedergeben, ohne welche keine Cultur werden und bestehen kann. Ebenso die Schlichtheit.
+Ich will den Menschen die Ruhe wiedergeben, ohne welche keine Cultur werden und bestehen kann. Ebenso die **Schlichtheit**.
 
 [17[23]](javascript:;)
 ----------------------
 
-Mir liegt nur an den Motiven der Menschen: das objektive Bestehen
-der Erkenntniß ist mir ein Greuel. Die höchste Erkenntniß wird, wenn sich die Menschen
+Mir liegt nur an den **Motiven** der Menschen: das **objektive Bestehen**
+der **Erkenntniß** ist mir ein Greuel. Die höchste Erkenntniß wird, wenn sich die Menschen
 verschlechtern, weggewischt.
 
 [17[24]](javascript:;)
@@ -201,31 +201,31 @@ Ich sehe auf Knaben- und Jünglingsjahre mit Leidwesen zurück und fühle von Ta
 [17[25]](javascript:;)
 ----------------------
 
-Spannung der Empfindung beim Entstehn der ersten Unzeitgemäßen Betrachtung. Angst für
-den Genius und sein Werk und dabei der Anblick der Straußischen Behäbigkeit. Das Gefälschte aller geistigen Lebensmittel! Die Erschlaffung aller Erkennenden! Die
+**Spannung** der Empfindung beim Entstehn der ersten Unzeitgemäßen Betrachtung. Angst für
+den Genius und sein Werk und dabei der Anblick der Straußischen Behäbigkeit. Das **Gefälschte** aller geistigen Lebensmittel! Die **Erschlaffung** aller Erkennenden! Die
 wankende Moralität in Recht und Unrecht, und die unbändige Genußsucht im Gemeinen! Die verlogene Art von
 Glück!
 
 [17[26]](javascript:;)
 ----------------------
 
-Ruhe Einfachheit und Größe!
+**Ruhe Einfachheit und Größe!**
 
 Auch im Styl ein Abbild dieses Strebens, als Resultat der concentrirtesten Kraft meiner Natur.
 
-„Der Weg zu dir selber.“
+**„Der Weg zu dir selber.“**
 
 [17[27]](javascript:;)
 ----------------------
 
 Wie die Erkenntniß den Willen entzünden kann, so kann die halbe Erkenntniß ihn trüben, und ungesund machen:
-so daß er nicht mehr Hunger und Durst in rechter Weise hat, und nicht einmal erlöst werden kann. Herstellung des Individuums, um dann wirklich zu wissen, was es
+so daß er nicht mehr Hunger und Durst in rechter Weise hat, und nicht einmal erlöst werden kann. **Herstellung** des **Individuums**, um dann wirklich zu wissen, was es
 verlangt!
 
 [17[28]](javascript:;)
 ----------------------
 
-Der Zweck der Kindererzeugung ist, freiere Menschen, als wir sind, in die Welt zu
+Der Zweck der Kindererzeugung ist, **freiere** Menschen, als wir sind, in die Welt zu
 setzen. Kein Nachdenken ist so wichtig, wie das über die Erblichkeit der Eigenschaften.
 
 [17[29]](javascript:;)
@@ -241,7 +241,7 @@ zulassen. Sie wird aus dem Hades zurückgeholt.
 ----------------------
 
 Mich setzen die Menschen in Erstaunen, welche so nach ihrer Jugend zurückseufzen z.B. nach den
-Studentenjahren: es ist ein Zeichen, daß sie unfreier geworden sind und sich selbst
+Studentenjahren: es ist ein Zeichen, daß sie **unfreier** geworden sind und sich selbst
 damals besser befanden. Ich empfinde gerade umgekehrt und kenne nichts weniger Wünschbares als Kindheit und
 Jugend: ich fühle nich jetzt jünger und freier als je.
 
@@ -310,8 +310,8 @@ Der Künstler hat Untreue des Gedächtnisses nöthig, um nicht die Natur abzusch
 [17[33]](javascript:;)
 ----------------------
 
-„Über den Dingen“. — Wer die Präposition „über“ ganz begriffen hat, der hat den Umfang
-des menschlichen Stolzes und Elends begriffen. Wer über den Dingen ist, ist nicht in den Dingen — also nicht einmal in sich! Das letztere kann sein
+**„Über den Dingen“.** — Wer die Präposition „über“ ganz begriffen hat, der hat den Umfang
+des menschlichen Stolzes und Elends begriffen. Wer **über** den Dingen ist, ist nicht **in** den Dingen — also nicht einmal **in** sich! Das letztere kann sein
 Stolz sein.
 
 [17[34]](javascript:;)
@@ -323,12 +323,12 @@ gebt mir nichts dazu! So bin ich nun, wie ich bin.
 [17[35]](javascript:;)
 ----------------------
 
-Der Mensch macht sich, älter werdend, überflüssig.
+Der Mensch macht sich, älter werdend, **überflüssig**.
 
 [17[36]](javascript:;)
 ----------------------
 
-Ich habe mir hier und da in den Unzeitgemäßen Betrachtungen Ausfallspforten noch
+Ich habe mir hier und da in den Unzeitgemäßen Betrachtungen **Ausfallspforten** noch
 gelassen.
 
 [17[37]](javascript:;)
@@ -340,7 +340,7 @@ verneinende Menschen.
 [17[38]](javascript:;)
 ----------------------
 
-Der Mensch wirft sich herum bald auf diese bald <auf> jene Seite, groß ist die Pein.
+Der Mensch wirft sich herum bald auf diese bald &amp;lt;auf&amp;gt; jene Seite, groß ist die Pein.
 
 [17[39]](javascript:;)
 ----------------------
@@ -356,7 +356,7 @@ werden und abzusterben.
 [17[41]](javascript:;)
 ----------------------
 
-Die Schätzung des contemplativen Lebens hat abgenommen. — Deshalb ist meine Betrachtung
+Die Schätzung des **contemplativen** Lebens hat abgenommen. — Deshalb ist meine Betrachtung
 unzeitgemäß. Ehemals waren der Geistliche und der esprit fort Gegensätze, beide innerhalb des contemplativen
 Lebens.
 
@@ -400,14 +400,14 @@ etwas Tyrannisches sehen, welche große Wohlthaten entschieden ablehnen.
 [17[48]](javascript:;)
 ----------------------
 
-Auch der Ehrgeizige kann zum Freigeist werden, denn er hat hier ein Mittel sich
+Auch der **Ehrgeizige** kann zum Freigeist werden, denn er hat hier ein Mittel sich
 gründlich zu unterscheiden.
 
 [17[49]](javascript:;)
 ----------------------
 
-Was ist das Ziel aller Sprachwissenschaft, wenn nicht einmal eine Universalsprache finden? Dann wäre der europäische Universalmensch da. Wozu dann noch das
-fürchterliche Sprachen lernen!
+Was ist das Ziel aller **Sprachwissenschaft**, wenn nicht einmal eine **Universalsprache** finden? Dann wäre der europäische Universalmensch da. Wozu dann noch das
+fürchterliche **Sprachen** lernen!
 
 [17[50]](javascript:;)
 ----------------------
@@ -419,7 +419,7 @@ nichts mehr zu thun haben wollen.
 [17[51]](javascript:;)
 ----------------------
 
-Die moderne Krankheit ist: ein Übermaaß von Erfahrungen. Deshalb gehe jeder zeitig mit
+Die moderne Krankheit ist: ein Übermaaß von **Erfahrungen**. Deshalb gehe jeder zeitig mit
 sich heim um nicht an den Erfahrungen sich zu verlieren.
 
 [17[52]](javascript:;)
@@ -477,17 +477,17 @@ Der Freigeist ist „götterneidisch“ auf das dumme Behagen der Menschen. νε
 [17[59]](javascript:;)
 ----------------------
 
-Das schlichte Aussehen der Wahrheit.
+Das schlichte **Aussehen** der **Wahrheit**.
 
 [17[60]](javascript:;)
 ----------------------
 
-Hemmungen nöthig, um Genius hervorzubringen.
+**Hemmungen** nöthig, um Genius hervorzubringen.
 
 [17[61]](javascript:;)
 ----------------------
 
-Zwischen drei Begabungen die mittlere Linie finden — mein Problem.
+Zwischen drei Begabungen die **mittlere** Linie finden — mein Problem.
 
 [17[62]](javascript:;)
 ----------------------
@@ -518,12 +518,12 @@ Es leben die edlen Verräther!
 [17[67]](javascript:;)
 ----------------------
 
-Demokratische aufrichtige Staaten haben die höchste Erziehung um jeden Preis Allen zu gewähren.
+Demokratische aufrichtige Staaten haben die **höchste** Erziehung um jeden Preis **Allen** zu gewähren.
 
 [17[68]](javascript:;)
 ----------------------
 
-Daß die Kunst das Wahre der Natur darstelle ist die Illusion welche sie erregt, nicht
+Daß die Kunst das **Wahre der Natur** darstelle ist die Illusion welche sie erregt, nicht
 die philosophische Wirklichkeit.
 
 [17[69]](javascript:;)
@@ -583,7 +583,7 @@ Christenthum, das Geheimniß zu proklamiren und den Glauben zu fordern und das W
 
 Überall beruht eine Religion auf dem Glauben.
 
-Der Staat ist da, also ist sein Princip im Recht. Das monarchische Princip muss wahr
+Der Staat ist **da**, also ist sein Princip im Recht. Das monarchische Princip muss wahr
 sein, denn die Monarchie existirt.
 
 [17[77]](javascript:;)
@@ -594,7 +594,7 @@ Daß Christus die Welt erlöst habe, ist dreist.
 [17[78]](javascript:;)
 ----------------------
 
-Es gehört zur Reinheit, daß man im Verlaufe des Lebens immer weniger Zuflucht zum
+Es gehört zur **Reinheit**, daß man im Verlaufe des Lebens immer weniger Zuflucht zum
 Metaphysischen sucht.
 
 [17[79]](javascript:;)
@@ -610,7 +610,7 @@ Die Kunst nach den Wirkungen und nach den Ursachen beurtheilen — zwei Aestheti
 [17[81]](javascript:;)
 ----------------------
 
-Der Asket schlecht<es> und unregelmäßiges Gehirn.
+Der Asket schlecht&amp;lt;es&amp;gt; und unregelmäßiges Gehirn.
 
 Ekstasis Wollust des Intellekts.
 
@@ -637,12 +637,12 @@ freier denkender altgewordener Theologe wurde der Herold des öffentlichen Behag
 [17[85]](javascript:;)
 ----------------------
 
-Zum Schluß: die Freigeister sind die leichtlebenden Götter.
+Zum Schluß: die Freigeister sind die **leichtlebenden** Götter.
 
 [17[86]](javascript:;)
 ----------------------
 
-Mit Religion verdirbt man sich den Kopf — gar nicht nachdenken.
+Mit Religion verdirbt man sich den Kopf — gar **nicht** nachdenken.
 
 [17[87]](javascript:;)
 ----------------------
@@ -665,7 +665,7 @@ Die Menschen legen den Ursachen dieselben Prädikate bei wie den Wirkungen.
 [17[90]](javascript:;)
 ----------------------
 
-Charakterlosigkeit kann das Zeichen von einem Übergewicht des Geistes sein.
+**Charakterlosigkeit kann** das Zeichen von einem Übergewicht des Geistes sein.
 
 [17[91]](javascript:;)
 ----------------------
@@ -710,7 +710,7 @@ Freihändler sind Verbrecher Staatsmänner usw.
 ----------------------
 
 Das gebundene Denken gefordert als Moralität: Katzen tödten ein Verbrechen bei den Aegyptern. Man straft die
-Handlung, nicht die Gesinnung: nicht um abzuschrecken, sondern das allgemeine Verderben
+Handlung, nicht die Gesinnung: nicht um abzuschrecken, sondern das **allgemeine Verderben**
 von Seiten eines Gottes abzukaufen.
 
 [17[99]](javascript:;)
@@ -722,20 +722,20 @@ Kleinstaaten.
 [17[100]](javascript:;)
 -----------------------
 
-Auf die reine Erkenntniß der Dinge läßt sich keine Ethik gründen: da muß man sein wie
+Auf die reine Erkenntniß der Dinge läßt sich keine **Ethik** gründen: da muß man sein wie
 die Natur, weder gut noch böse.
 
 [17[101]](javascript:;)
 -----------------------
 
-Ich möchte die Definition des Schuftes. Der Räuber, der Mörder, der Dieb ist es
+Ich möchte die Definition des **Schuftes**. Der Räuber, der Mörder, der Dieb ist es
 nicht.
 
 [17[102]](javascript:;)
 -----------------------
 
 In der katholischen Kirche ist ein Ohr (durch die Beichte) geschaffen, in welches man sein Geheimniß, ohne
-Folgen, hineinsagen kann. Welche Erleichterung! Auch der Gedanke ist gut, ein Unrecht durch eine Gutthat (wenn auch Anderen erwiesen) gut zu machen. Das ist die wahre „Strafe“.
+Folgen, hineinsagen kann. Welche Erleichterung! Auch der Gedanke ist gut, ein Unrecht durch eine **Gutthat** (wenn auch Anderen erwiesen) gut zu machen. Das ist die wahre „Strafe“.
 
 [17[103]](javascript:;)
 -----------------------
@@ -773,3 +773,5 @@ Eine Anleitung zur geistigen Befreiung.
 | Fünftes | Die Gesellschaft. |
 | Sechstes | Der Mensch mit sich allein. |
 | Siebentes | Die Schule der Erzieher. |
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

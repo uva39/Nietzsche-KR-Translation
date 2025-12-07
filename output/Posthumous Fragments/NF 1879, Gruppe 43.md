@@ -13,9 +13,9 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 
 [43 = M I 2. Juli–August 1879]
 
-St. Moritzer  
+**St. Moritzer  
 Gedanken-Gänge.  
-1879.
+1879.**
 
 [43[1]](javascript:;)
 ---------------------
@@ -39,11 +39,13 @@ jetzt begriff ich nichts davon.
 [43[4]](javascript:;)
 ---------------------
 
-Das jus talionis ist, als Privatstrafrecht, eine höhere Stufe der Moral, es ist nur auf
+Das jus talionis ist, als Privatstrafrecht, eine höhere Stufe der Moral, es ist **nur** auf
 Wiedervergeltung aus. Das Gemeinde-strafrecht enthält einen Überschuß — es stehen sich eben der Einzelne und
-die Gemeinde gegenüber, der Zustand der Gleichheit fehlt.
+die Gemeinde **gegenüber**, der Zustand der Gleichheit **fehlt**.
 
 [43[5]](javascript:;)
 ---------------------
 
 Unverdaulichkeit des Verbrechens
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

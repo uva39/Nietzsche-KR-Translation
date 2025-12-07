@@ -32,7 +32,7 @@ den Gegensatz jener kühleren und herberen mythischen Welt mit einem „sentimen
 während die geringeren Naturen sich hier wie überall mit dem Stofflichen zufriedengeben, also theils an der
 dargestellten Geschichte sich ergetzen oder an einzelnen Worten und Gedanken oder an Metren oder gar an
 verderbten Stellen hängen bleiben. Dagegen beginnt jene ehrliche Empfindung mit dem Eingeständnisse eines
-ungeheuren Defektes und einer deshalb nur bedingten Bewunderung. Der Defekt ist selbst
+ungeheuren **Defektes** und einer deshalb nur bedingten Bewunderung. Der Defekt ist selbst
 größer, als wenn wir uns etwa vor einem Trümmerhaufen eines Tempels finden und aus wenigen Säulenresten den
 Eindruck ganzer Colonnaden zu errathen suchen. Denn wir haben zuletzt gedrucktes Papier vor Augen, an Stelle
 der Wirklichkeit jener Tragödie. Wir müssen uns den Griechen dazu suppliren, den Griechen in der vollendeten
@@ -41,7 +41,7 @@ künstlerischen Zuschauer. Wenn wir aber das vermögen, den Griechen selbst hinz
 auch beinahe die antike Tragödie aus uns neu erzeugt. Das aber ist die grenzenlose Schwierigkeit: wo soll der
 moderne Mensch anfangen griechisch zu denken, wann soll er enden? In Wahrheit ist der Weg, nachdem man sich
 jenen Defekt deutlich gemacht hat, sehr schwer zu finden. Nur analoge, fast griechisch zu nennende
-Erscheinungen unserer Welt können uns jetzt weiter helfen: wie das Gleiche immer nur vom
+Erscheinungen **unserer** Welt können uns jetzt weiter helfen: wie das Gleiche immer nur vom
 Gleichen und am Gleichen erkannt wird. So pflegt der bessere Theil unserer gegenwärtigen Gelehrten Goethe zu
 benutzen, um von ihm sich zu den Griechen geleiten zu lassen: andre nehmen Rafael zu Hülfe. Ich halte mich an
 die Erfahrungen, welche ich Richard Wagner verdanke. Die sogenannte historisch-kritische Wissenschaft hat gar
@@ -49,10 +49,10 @@ kein Mittel, so fremden Dingen näher zu kommen: wir brauchen Brücken. Erfahrun
 brauchen wir Menschen, die sie uns deuten, die sie aussprechen. So glaube ich im Recht zu sein, von dem
 Eindrucke auszugehen, den eine Tristanaufführung im Sommer 1872 auf mich hervorbrachte.
 
-Ich gewahrte einmal, nach der plastischen Seite der Darstellung hin, eine durchgreifende
+Ich gewahrte einmal, nach der **plastischen** Seite der Darstellung hin, eine durchgreifende
 Differenz gegen die plastische Darstellung unserer Schauspieler in Schillerschen und Shakespeare’schen Rollen,
 ebenso wie der Sänger in Opern. Ganz abgesehen von dem Talente der Darstellenden, war ein unwillkürliches
-Streben bemerkbar, auch in den leidenschaftlichsten Momenten eine ruhige Größe zu
+Streben bemerkbar, auch in den leidenschaftlichsten Momenten eine **ruhige Größe** zu
 bewahren: im Wesentlichen sah man edle, mäßig bewegte, zumeist fast ruhende plastische Gruppen. Mir gefiel,
 daß die moderne Rastlosigkeit hier einem Streben nach Plastik gewichen war. Ich sagte mir, daß die Musik und
 das Singen wohl der Grund sein mußten, weshalb sich nichts so schnell bewegte wie im gemeinen Leben und wie in
@@ -106,7 +106,9 @@ alles auszudenken und vorzuschreiben. Für die aeschyleische Zeit, die an einen 
 gewöhnt war, werden wir auch in der Tragödie einen noch hieratisch bedingten Stil häufig vorauszusetzen haben.
 Es wäre also die Aufgabe gestellt, Aeschylus als plastischen Komponisten zu verstehen, sowohl in der
 plastischen Bewegung einer einzelnen Scene, als in der Gesammtfolge der plastischen Compositionen im ganzen
-Kunstwerk. Dabei wäre das Hauptproblem, die plastische Benutzung des Chors zu verstehen,
+Kunstwerk. Dabei wäre das Hauptproblem, die plastische Benutzung des **Chors** zu verstehen,
 sein Verhältniß zu den Bühnenpersonen: sodann die Beziehung der plastischen Gruppe zur umgebenden Architektur.
 Hier öffnet sich uns ein Abgrund künstlerischer Kräfte — und der Dramatiker erscheint mehr denn je wieder als
 der Gesammtkünstler. Vgl. Goethe an Schiller, Bd. I, p. 278.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

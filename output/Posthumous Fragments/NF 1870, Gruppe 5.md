@@ -16,15 +16,15 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [5[1]](javascript:;)
 --------------------
 
-Gedanken zu  
+**Gedanken zu  
 „die Tragoedie und die  
-Freigeister“
+Freigeister“**
 
   
 
 |  |  |
 | --- | --- |
-| „Und sollt’ ich nicht, sehnsüchtigster Gewalt,  In’s Leben ziehn die einzigste Gestalt?“ | Faust. |
+| „Und sollt’ **ich** nicht, sehnsüchtigster Gewalt,  In’s Leben ziehn die einzigste Gestalt?“ | Faust. |
 
   
 
@@ -46,7 +46,7 @@ Mütter sind Wille, Wahn, Wehe.
 [5[4]](javascript:;)
 --------------------
 
-Goethe von Klopstock:
+**Goethe** von Klopstock:
 
 und doch führet er selbst den überepischen Kreuzzug hin auf Golgatha’s Hügel, ausländische
 Götter zu ehren.
@@ -88,7 +88,7 @@ Schutz vor Verachtung der Religion. Die gelehrte Bildung erst möglich, nach Erf
 errungenen Weltanschauungen. „Einige Jahre Hellenenthum.“ Sittlichkeit ist eine Voraussetzung, besonders bei
 dem deutschen Wesen.
 
-Oder Schlußcapitel. Tragödie als Bildungsmittel.
+**Oder** Schlußcapitel. Tragödie als Bildungsmittel.
 
 [5[10]](javascript:;)
 ---------------------
@@ -186,7 +186,7 @@ Warum war die Schauspielkunst, die Malerei, die Musik auf ihren Höhen nicht meh
 Drama’s?
 
 Die Musik im Drama, ist, ebenso wie die Malerei, etwas Andres geworden: sie will täuschen, sie ist nicht
-reine Kunst des Scheins mehr. Sie wirkt elementarischer, sie ist Mittel, sie ist bewußter, weil sie plastisch sein soll. Wie ist es aber im Gesange? In diesem einfachsten Verhältnisse? —
+reine Kunst des Scheins mehr. Sie wirkt elementarischer, sie ist Mittel, sie ist bewußter, weil sie **plastisch** sein soll. Wie ist es aber im Gesange? In diesem einfachsten Verhältnisse? —
 
 [5[18]](javascript:;)
 ---------------------
@@ -213,12 +213,12 @@ der Empfindungen versinnlicht.
 [5[21]](javascript:;)
 ---------------------
 
-Die Auflösung des aeschyleischen Drama’s ist nicht nur Symptom, sondern auch Mittel
+Die Auflösung des aeschyleischen Drama’s ist nicht nur Symptom, sondern auch **Mittel**
 gewesen für die Auflösung der athenischen Demokratie.
 
 Darin daß sich an die Tragödie keine Philosophie anschloß, zeigt sich eine Verkümmerung.
 
-Oder hat es keine Schule von orphischen Pythagoreern gegeben, die das Drama pflegten? Doch nicht die cynischen Pythagoriker? Oder Arcesilaus oder Polemon? Nein!
+Oder hat es keine Schule von **orphischen Pythagoreern** gegeben, die das **Drama** pflegten? Doch nicht die cynischen Pythagoriker? Oder Arcesilaus oder Polemon? Nein!
 
 Wie verhielten sich die Philosophen zur Kunst? Zum
 
@@ -294,7 +294,7 @@ Das „Ideal“ eine solche Wahnvorstellung.
 ---------------------
 
 Die Wahnvorstellungen: wer sie durchschaut, hat nur die Kunst zum Trost. Das Durchdringen ist jetzt für die
-Freigeister Nothwendigkeit: wie sich dazu die Menge verhält, ist nicht zu errathen. Genug, daß wir die Kunst brauchen: wir wollen sie durch alle Mittel, nöthigenfalls im Kampfe. Eine neue
+Freigeister Nothwendigkeit: wie sich dazu die Menge verhält, ist nicht zu errathen. Genug, daß **wir** die Kunst brauchen: wir wollen sie durch alle Mittel, nöthigenfalls im Kampfe. Eine neue
 Bildungssekte, als die Richterin und Herrscherin über die verschliffene und ekelhafte Bildung des Tages.
 Anzuknüpfen an die wirklichen Bildungselemente, an die reine wissenschaftliche Begeisterung, an die strenge
 militärische Subordination, an das tiefe Gemüthsbedürfniß der Frauen usw., an das noch vorhandene Christenthum
@@ -349,7 +349,7 @@ Monotheism
 
  als ein Minimum von poetischer Welterklärung.
 
-Bei den Juden ein Nationalgott, ein kämpfendes Volk mit einer Fahne: eine
+Bei den Juden ein Nationalgott, ein kämpfendes Volk mit **einer** Fahne: eine
 Sittlichkeitsrigorosität verkörpert, Strenge gegen sich selbst, imperativischer Gott (charakteristisch, daß er
 das Opfern
 
@@ -362,7 +362,7 @@ das Opfern
 Unsre Nationalgötter und unsre Gefühle dafür haben einen Wechselbalg dafür bekommen: wir widmen diesem alle
 jene Empfindungen.
 
-Das Ende der Religion ist da, nachdem man die Nationalgötter
+Das **Ende** der**Religion** ist da, nachdem man die Nationalgötter
 eskamotirt hat. Schreckliche Quälerei hat dies in der Kunst angerichtet. Ungeheure Arbeit des deutschen
 Wesens, jenes fremde unnationale Joch abzuschütteln; und es gelingt ihm.
 
@@ -373,17 +373,17 @@ Der indische Hauch bleibt zurück: weil er uns verwandt ist.
 
 Gottheiten unter der Form des Königs, des Vaters, des Priesters —
 
-Die griechische Mythologie hat alle Formen einer bedeutsamen Menschlichkeit
+Die griechische Mythologie hat **alle** Formen einer bedeutsamen Menschlichkeit
 vergöttlicht.
 
-Der Glaube an einen Geist ist eine Einbildung: sofort anthropomorphische, ja
+Der Glaube an **einen** Geist ist eine Einbildung: sofort anthropomorphische, ja
 polytheistische Stellvertreter.
 
 Der Verehrungstrieb als Lustempfindung am Dasein schafft sich ein Objekt.
 
 Wo diese Empfindung fehlt — Buddhismus.
 
-Buddha übergab sich den dramatischen Vorstellungen, als er mit seiner Erkenntniß durchgedrungen war: ein Schlußsatz.
+Buddha übergab sich den dramatischen Vorstellungen, als er mit seiner Erkenntniß durchgedrungen war: ein **Schlußsatz**.
 
 Ein Volk ist höher oder tiefer moralisch begabt: die Griechen haben nicht die Höhe erreicht, vielleicht aber
 war es die nothwendige Grenze, um nicht in Weltverneinung umzuschlagen. Ihre Erkenntniß und ihr Leben blieben
@@ -487,7 +487,7 @@ Die Musik ganz gesund — bei der furchtbaren Verkommenheit der epischen Kultur.
 [5[40]](javascript:;)
 ---------------------
 
-Die bornirte Überzeugung M<ax> Müllers, daß Christenthum, auf einen Schafskopf gepflanzt, noch
+Die bornirte Überzeugung M&amp;lt;ax&amp;gt; Müllers, daß Christenthum, auf einen Schafskopf gepflanzt, noch
 was Rechtes ist. Als ob die Menschen durch die Religion nivellirt würden!
 
 [5[41]](javascript:;)
@@ -498,7 +498,7 @@ Das musikalische Drama und die Freigeister.
 [5[42]](javascript:;)
 ---------------------
 
-Die Tragödie und die Freigeister.
+**Die Tragödie und die Freigeister.**
 
   
 
@@ -568,8 +568,8 @@ Man überwindet solche Zustände nicht eher theoretisch als bis sie praktisch ü
 [5[46]](javascript:;)
 ---------------------
 
-Unsre epische Kultur kommt in Goethe zum vollen Ausdruck. Schiller
-weist auf die tragische Kultur hin.
+Unsre **epische** Kultur kommt in **Goethe** zum vollen Ausdruck. Schiller
+weist auf die **tragische Kultur** hin.
 
 Diese epische Kultur breitet sich in unserm Naturwissen, Realismus und Romanwesen aus. Der Philosoph
 derselben ist Hegel.
@@ -583,7 +583,7 @@ athenische Tragiker in der Produktion that, ohne alle pathologische Theilnahme.
 [5[48]](javascript:;)
 ---------------------
 
-Der Blüthemoment unsrer epischen Kultur ist Goethe in Italien.
+Der Blüthemoment unsrer **epischen** Kultur ist Goethe in Italien.
 
 [5[49]](javascript:;)
 ---------------------
@@ -642,7 +642,7 @@ erster Schöpfungssame
 
 ,
 
-Im Herzen sinnend spürten weise Seher
+**Im Herzen sinnend** spürten weise Seher
 
 das alte Band, das Sein an Nichtsein bindet.“
 
@@ -698,7 +698,7 @@ Die Ideen nicht die göttlichen Wesenheiten, sondern Illusionen.
 [5[62]](javascript:;)
 ---------------------
 
-Singularität des griechischen Dramas. (Trag<ödie>). Woher?
+Singularität des griechischen Dramas. (Trag&amp;lt;ödie&amp;gt;). Woher?
 
 [5[63]](javascript:;)
 ---------------------
@@ -746,7 +746,7 @@ Goethe’s Hingebung an Natur und Kunst: eine Religion.
 [5[68]](javascript:;)
 ---------------------
 
-Das höchste Zeichen des Willens:
+Das **höchste Zeichen des Willens**:
 
 der Glaube an die Illusion und der theoretische Pessimismus beißt sich selbst in den Schwanz.
 
@@ -770,7 +770,7 @@ Es ist doch kein Widerspruch: dramatische Musik. Das Lied ist die einfachste For
 [5[71]](javascript:;)
 ---------------------
 
-Max Müller ist an den Pranger zu stellen als ein das deutsche Wesen verleugnender, in
+Max **Müller** ist an den Pranger zu stellen als ein das deutsche Wesen verleugnender, in
 englischem Aberglauben untergegangener Deutscher. Dabei begeht er die Unsauberkeit von Leuten zu reden, die
 sich herausnehmen, auf „Kant“
 
@@ -784,7 +784,7 @@ Geringschätzung herabzusehn. Frech! Frech! Und ignorant! (Essays, I p. 203.)
 [5[72]](javascript:;)
 ---------------------
 
-Ich werde mich nicht scheuen, Namen zu nennen: man macht seinen Standpunkt schneller
+Ich werde mich nicht scheuen, **Namen** zu nennen: man macht seinen Standpunkt schneller
 klar, wenn man ad homines hier und da demonstrirt. Auf Deutlichkeit soll mir alles ankommen.
 
 [5[73]](javascript:;)
@@ -832,14 +832,14 @@ der bewußte Intellekt.
 Die Welt der Vorstellungen ist das Mittel, uns in der Welt der That festzuhalten und uns zu Handlungen im
 Dienste des Instinkts zu zwingen. Die Vorstellung ist Motiv zur That: während sie das Wesen der Handlung gar
 nicht berührt. Der Instinkt der uns zur That nöthigt und die Vorstellung die uns als Motiv ins Bewußtsein
-tritt liegen auseinander. Die Willensfreiheit ist die Welt dieser dazwischen geschobenen
+tritt liegen auseinander. Die **Willensfreiheit** ist die Welt dieser dazwischen geschobenen
 Vorstellungen, der Glaube daß Motiv und Handlung nothwendig einander bedingen.
 
 [5[78]](javascript:;)
 ---------------------
 
 Daß die Welt der Vorstellungen realer ist als die Wirklichkeit, ist ein Glaube, den Plato theoretisch
-aufgestellt hat, als Künstlernatur. Praktisch ist es der Glaube aller produktiven Genien:
+aufgestellt hat, als **Künstlernatur**. Praktisch ist es der Glaube aller produktiven Genien:
 das ist die Absicht
 
 *Erratum:*Ansicht  
@@ -852,15 +852,15 @@ Geburten des Instinkts sind jedenfalls ebenso real als die Dinge; daher ihre une
 [5[79]](javascript:;)
 ---------------------
 
-Die Vorstellung ist von allen Mächten die geringste: sie ist als Agens nur Trug, denn es
-handelt nur der Wille. Nun aber beruht die individuatio auf der Vorstellung: wenn diese
+Die Vorstellung ist von allen Mächten die geringste: sie ist **als Agens** nur Trug, denn es
+**handelt** nur der Wille. Nun aber beruht die individuatio auf der Vorstellung: wenn diese
 nun Trug ist, wenn sie nur scheinbar ist, um dem Willen zum Thun zu verhelfen — der Wille handelt — in
 unerhörter Vielheit für die Einheit. Sein Erkenntnißorgan und das menschliche fallen keineswegs zusammen:
 dieser Glaube ist ein naiver Anthropomorphismus. Erkenntnißorgane bei Thieren Pflanzen und Menschen sind nur
-die Organe des bewußten Erkennens. Die ungeheure Weisheit seiner Bildung ist bereits die
+die Organe des **bewußten** Erkennens. Die ungeheure Weisheit seiner Bildung ist bereits die
 Thätigkeit eines Intellekts. Die individuatio ist nun jedenfalls nicht das Werk des bewußten Erkennens,
 sondern jenes Urintellekts. Dies haben die kantisch-schopenhauerischen Idealisten nicht erkannt. Unser
-Intellekt führt uns nie weiter als bis zum bewußten Erkennen: insofern wir aber noch
+Intellekt führt uns **nie** weiter als bis zum bewußten Erkennen: insofern wir aber noch
 intellektueller Instinkt sind, können wir noch etwas über den Urintellekt zu sagen wagen. Über diesen trägt
 kein Pfeil hinaus.
 
@@ -875,7 +875,7 @@ Individuen: womit eigentlich der Begriff des Individuums aufgehoben ist. Die Wel
 gebärender und erhaltender Organismus: die Vielheit liegt in den Dingen, weil der Intellekt in ihnen ist.
 Vielheit und Einheit dasselbe — ein undenkbarer Gedanke.
 
-Vor allem wichtig einzusehn, daß die Individuation nicht die Geburt des bewußten Geistes
+Vor allem wichtig einzusehn, daß die Individuation **nicht** die Geburt des bewußten Geistes
 ist. Darum dürfen wir von Wahnvorstellungen reden, unter der Voraussetzung der Realität der Individuation.
 
 [5[80]](javascript:;)
@@ -892,11 +892,11 @@ Das reine Nach-Existenz-haschen des Willens ist genügend, um daraus die Ethik a
 
 Die Pflicht: der Gehorsam gegen Vorstellungen: eine Täuschung! Die wahren Beweggründe des Willens werden von
 diesen Pflichtvorstellungen verdeckt. Man denke an die Pflichten gegen das Vaterland usw. Eine Pflichthandlung
-ist ethisch werthlos als Pflichthandlung; weil weder ein Gedicht noch eine Handlung durch
+ist ethisch werthlos als **Pflicht**handlung; weil weder ein Gedicht noch eine Handlung durch
 Abstraktion gemacht wird. Sie ist aber werthvoll, weil sie eben nicht aus der Abstraktion, aus der Pflicht
 entstehen kann und doch geschehn ist.
 
-Güte und Liebe sind geniale Eigenschaften: die höchste Macht geht von ihnen aus, also
+Güte und Liebe sind **geniale** Eigenschaften: die höchste Macht geht von ihnen aus, also
 spricht hier der Instinkt, der Wille. Es ist ein Einheitstrieb, die Offenbarung einer höheren Ordnung, die
 sich in Güte Liebe Barmherzigkeit Mitleid kundgiebt.
 
@@ -906,8 +906,8 @@ dazwischentritt.
 Sie sind mit dem Intellekt nicht verwandt, er hat gar keine Mittel sich mit ihnen zu befassen. Sie sind
 reiner Instinkt, Gefühl mit einer Vorstellung gemischt.
 
-Die Vorstellung im Gefühl hat zu der eigentlichen Willensregung nur die Bedeutung des
-Symbols. Dies Symbol ist das Wahnbild, durch das ein allgemeiner Trieb eine
+Die **Vorstellung im Gefühl** hat zu der eigentlichen Willensregung nur die Bedeutung des
+**Symbols**. Dies Symbol ist das Wahnbild, durch das ein allgemeiner Trieb eine
 subjektiv-individuelle
 
 *Erratum:*subjektive individuelle  
@@ -920,7 +920,7 @@ Das Gefühl — mit Willen und unbewußter Vorstellung
 
 die That — mit Willen und bewußter Vorstellung.
 
-Wo fängt die That an? Sollte „That“ nicht auch eine Vorstellung, etwas Undefinirbares sein? Eine sichtbar werdende Willensregung? Aber sichtbar? Diese Sichtbarkeit ist
+Wo fängt die That an? Sollte „That“ nicht auch eine Vorstellung, etwas Undefinirbares sein? Eine **sichtbar** werdende **Willensregung**? Aber sichtbar? Diese Sichtbarkeit ist
 etwas Zufälliges und Äußerliches. Die Bewegung des Mastdarms ist auch eine Willensregung, die sichtbar wäre,
 wenn wir dorthin Augen
 
@@ -930,7 +930,7 @@ wenn wir dorthin Augen
 
  bringen könnten.
 
-Der bewußte Wille charakterisirt auch nicht die That; denn wir
+Der **bewußte Wille** charakterisirt auch **nicht** die That; denn wir
 können auch eine Empfindung bewußt erstreben, die wir doch eben nicht That nennen würden.
 
 Was ist das Bewußtwerden einer Willensregung? Ein immer deutlicher werdendes Symbolisiren. Die Sprache, das
@@ -943,7 +943,7 @@ Wirklichkeit: es ist ein stückweises Wiederkäuen.
 Die Trennung von Wille und Vorstellung ist ganz eigentlich eine Frucht der Nothwendigkeit im Denken: es ist
 eine Reproduktion, eine Analogie nach dem Erlebniß, daß wenn wir etwas wollen, uns das Ziel vor Augen schwebt.
 Dies Ziel aber ist nichts als eine reproduzirte Vergangenheit: in dieser Art macht sich die Willensregung
-verständlich. Aber das Ziel ist nicht das Motiv, das Agens der Handlung: obwohl dies der Fall zu sein scheint.
+verständlich. Aber das Ziel ist nicht das Motiv, das Agens der Handlung: obwohl dies der Fall zu sein **scheint**.
 
 Es ist Unsinn, die nothwendige Verbindung von Wille und Vorstellung zu behaupten: die Vorstellung erweist
 sich als ein Trugmechanismus, den wir nicht im Wesen der Dinge vorauszusetzen brauchen. Sobald der Wille
@@ -955,28 +955,28 @@ nur ewige Ruhe, reines Sein. Aber woher die Vorstellung? Dies ist das Räthsel. 
 Anbeginn, es kann ja niemals entstanden sein. Nicht zu verwechseln ist der Vorstellungsmechanismus im
 sensiblen Wesen.
 
-Wenn aber Vorstellung bloß Symbol ist, so ist die ewige Bewegung, alles Streben des Seins nur Schein. Dann giebt es ein Vorstellendes: dies kann nicht das Sein selbst sein.
+Wenn aber Vorstellung bloß Symbol ist, so ist die ewige Bewegung, alles Streben des Seins nur **Schein**. Dann giebt es ein Vorstellendes: dies kann nicht das Sein selbst sein.
 
 Dann steht neben dem ewigen Sein eine andre ganz passive Macht, die des Scheins — — Mysterion!
 
-Wenn dagegen der Wille die Vielheit, das Werden in sich enthält, so giebt es ein Ziel? Der
-Intellekt, die Vorstellung muß unabhängig vom Werden und Wollen sein; das
+Wenn dagegen der Wille die Vielheit, das Werden in sich enthält, so giebt es ein Ziel? **Der
+Intellekt, die Vorstellung muß unabhängig****vom Werden und Wollen sein**; das
 fortwährende Symbolisiren hat reine Willenszwecke. Der Wille selbst aber hat keine Vorstellungen nöthig, dann
-hat er auch keinen Zweck: der nichts als eine Reproduktion, ein Wiederkäuen des Erlebten
-im bewußten Denken ist. Die Erscheinung ist ein fortwährendes Symbolisiren des
+hat er auch keinen **Zweck**: der nichts als eine Reproduktion, ein Wiederkäuen des Erlebten
+im bewußten Denken ist. Die **Erscheinung** ist ein fortwährendes Symbolisiren des
 Willens.
 
 Weil wir bei den Wahnvorstellungen die Absicht des
-Willens
+**Willens**
 
 *Erratum:*Willens  
-*lies:*Willens  
+*lies:***Willens**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  erkennen, so ist die Vorstellung Geburt des
 Willens, so ist Vielheit bereits im Willen, so ist die Erscheinung eine μηχανή des Willens für sich.
 
-Man muß im Stande sein, die Grenzen zu umzeichnen und dann sagen: diese nothwendigen
+Man muß im Stande sein, die **Grenzen** zu umzeichnen und dann sagen: diese nothwendigen
 Denkconsequenzen sind die Absicht des Willens.
 
 [5[81]](javascript:;)
@@ -1076,23 +1076,23 @@ Begriff des „Dramas“ als „Handlung“.
 
   
 
-Dieser Begriff ist sehr naiv in seiner Wurzel: die Welt und die Gewohnheit des Auges
+Dieser Begriff ist sehr naiv in seiner Wurzel: die Welt und die Gewohnheit des **Auges**
 entscheidet hier. Was ist aber schließlich — bei geistigerer Betrachtung — nicht Handlung? Das sich
 kundgebende Gefühl, das sich Klarwerden — keine Handlung? Muß immer gehenkert und gemordet werden? — Aber eins
-ist noth: das Werden gegenüber dem Sein und der plastischen Kunst. Versteinerungen des
+ist noth: das **Werden** gegenüber dem Sein und der plastischen Kunst. Versteinerungen des
 Moments dort — hier Wirklichkeit.
 
-Zweck solcher Wirklichkeit ist allerdings, als solche zu wirken. Wir sollen nicht
+Zweck solcher Wirklichkeit ist allerdings, als **solche** zu wirken. Wir sollen nicht
 zwischen Schein und Wahrheit schwanken. Das pathologische Interesse ist hier Gebot. Wir fühlen als ob wir es
-erlebten. Wer diesen Schein am stärksten erregt, ist der beste Dichter: nur ist es wesentlich, wen er zu täuschen hat. Das Ideal ist, daß er sich selbst zu täuschen weiß. Hier liegt allerdings der
+erlebten. Wer diesen Schein am stärksten erregt, ist der beste Dichter: nur ist es wesentlich, **wen** er zu täuschen hat. Das Ideal ist, daß er sich selbst zu täuschen weiß. Hier liegt allerdings der
 Maaßstab des Kunstwerks außerhalb. Es treibt zur Erkenntniß und zur That als „wirkendes wirkliches
 Kunstwerk“.
 
 [5[91]](javascript:;)
 ---------------------
 
-Wenn man die Wahnvorstellung sich als solche auflöst, so muß der Wille — wenn anders er
-unser Fortbestehen will — eine neue schaffen. Bildung ist ein
+Wenn man die Wahnvorstellung sich als solche auflöst, so muß der Wille — **wenn anders** er
+unser Fortbestehen will — eine **neue** schaffen. **Bildung** ist ein
 fortwährendes Wechseln von Wahnvorstellungen zu den edleren hin, d.h. unsre „Motive“ im Denken werden immer
 geistigere, einer größeren Allgemeinheit angehörige. Das Ziel der „Menschheit“ ist das Äußerste, was uns der
 Wille als Phantom bieten kann. Im Grunde ändert sich nichts. Der Wille thut seine Nothwendigkeit und die
@@ -1108,16 +1108,16 @@ packen.
 [5[93]](javascript:;)
 ---------------------
 
-Die ungeheure mimische Kraft der Musik — auf Grund einer ungeheuren absoluten Kunstentwicklung.
+Die ungeheure **mimische** Kraft der Musik — auf Grund einer ungeheuren **absoluten** Kunstentwicklung.
 
-Einfluß der Musik auf die Dichtung.
+Einfluß der Musik auf die **Dichtung**.
 
 [5[94]](javascript:;)
 ---------------------
 
 Die Rhythmik in der Dichtung beweist, daß das musikalische Element noch in der Gefangenschaft lebte.
 
-Wirklich ist die hellenische Tragödie nur das Vorzeichen einer höheren Kultur: sie war das Letzte, was das Griechenthum erreichen konnte, auch das Höchste. Diese
+Wirklich ist die hellenische **Tragödie** nur das Vorzeichen einer **höheren** Kultur: sie war das Letzte, was das Griechenthum erreichen konnte, auch das Höchste. Diese
 Stufe war das Schwerste, was zu erreichen war. Wir sind die Erben.
 
 Die höchste That des Hellenenthums: die Bändigung der orientalischen Dionysus-Musik und Zubereitung derselben
@@ -1130,10 +1130,10 @@ Hellenenthums schien vergebens. Eine tiefere Weltanschauung, eine unkünstlerisc
 
 Man glaube nur nicht, daß Phidias und Plato ohne die Tragödie gewesen wären.
 
-Die alten Philosophen, die Eleaten Heraklit Empedokles als die tragischen
+Die alten Philosophen, die Eleaten Heraklit Empedokles als die **tragischen**
 Philosophen.
 
-Die tragische Religion bei den Orphikern. —
+Die **tragische** Religion bei den Orphikern. —
 
 Empedocles ist der reine tragische Mensch. Sein Sprung in den Aetna aus — Wissenstrieb! Er sehnte sich nach
 Kunst und fand nur das Wissen. Das Wissen aber macht Fausten.
@@ -1177,15 +1177,15 @@ Der tragische Staat.
 [5[96]](javascript:;)
 ---------------------
 
-Die Scham — das Gefühl unter dem Banne der Illusion zu stehen,
+Die **Scham** — das Gefühl unter dem Banne der Illusion zu stehen,
 
 *Erratum:*stehen  
 *lies:*stehen,  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-obwohl wir sie durchschauen.
+**obwohl** wir sie durchschauen.
 
-Mit dieser Empfindung müssen wir leben, müssen wir unsre irdischen Pläne fördern. Sie
+Mit dieser Empfindung müssen wir **leben**, müssen wir unsre irdischen Pläne fördern. Sie
 ist ein Tribut, den wir dem Individuationsprincip zollen. Unser Verkehren mit Menschen hat diese zarte Haut um
 sich — für den tragischen Menschen nämlich.
 
@@ -1221,31 +1221,31 @@ untrennbares Band ist!
 
 Die metaphysische Bedeutung der Welt als ein Läuterungsprozeß? — es ist doch der Wille, der sich selbst
 zerfleischt, der Schmerz liegt doch im Willen, der Intellekt wird durch Phantome getäuscht — warum wohl? Der
-Wille muß doch den Intellekt fürchten. Diese Phantome sind nicht zu verdrängen: weil wir handeln sollen. Das Bewußtsein ist schwach dagegen. Leiden und Wahn, der das Leid verhüllt — ein nicht
+Wille muß doch den Intellekt fürchten. Diese Phantome sind nicht zu verdrängen: weil wir **handeln** sollen. Das Bewußtsein ist schwach dagegen. Leiden und Wahn, der das Leid verhüllt — ein nicht
 durchdringendes Bewußtsein.
 
-Hier tritt die Kunst ein, hier bekommen wir instinktive Erkenntniß vom Wesen jenes
+Hier tritt die **Kunst** ein, hier bekommen wir instinktive Erkenntniß vom Wesen jenes
 Leidens und Wahns.
 
 [5[101]](javascript:;)
 ----------------------
 
-Die aristophanische Komödie ist die Vernichtung der alten dramatischen Poesie. Mit ihr
+Die aristophanische **Komödie** ist die Vernichtung der alten dramatischen Poesie. Mit ihr
 schließt die alte Kunst ab.
 
 [5[102]](javascript:;)
 ----------------------
 
-Indem die Tragödie eine Welterlösung ahnen läßt, giebt sie die erhabenste Illusion: die Freiheit vom Dasein überhaupt.
+Indem die Tragödie eine Welterlösung ahnen läßt, giebt sie die erhabenste Illusion: die **Freiheit** vom **Dasein** überhaupt.
 
 Hier ist Nothwendigkeit des Leidens — aber ein Trost.
 
 Der Illusionshintergrund der Tragödie ist der der buddhistischen Religion.
 
-Hier zeigt sich Seligkeit im Erkennen des höchsten Wehes. Darin triumphirt der Wille. Er
+Hier zeigt sich **Seligkeit im Erkennen des höchsten Wehes**. Darin triumphirt der Wille. Er
 sieht eine schrecklichste Configuration als den Born
 
-*Erratum:*Born  
+*Erratum:***Born**  
 *lies:*Born  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -1255,7 +1255,7 @@ Daseinsmöglichkeit an.
 [5[103]](javascript:;)
 ----------------------
 
-Gegen die nichtswürdige jüdische Phrase vom Himmel auf Erden —
+Gegen die nichtswürdige jüdische Phrase vom **Himmel** auf Erden —
 
 Jene Erhebung ist ganz religiös — das dramatische Kunstwerk ist deshalb im Stande, die Religion zu
 vertreten.
@@ -1270,7 +1270,7 @@ denen aber wieder dramatische Aufführungen stattfanden.
 [5[105]](javascript:;)
 ----------------------
 
-Der tragische Mensch — als der berufene Lehrer der Menschen.
+Der tragische Mensch — als der berufene **Lehrer** der Menschen.
 
 Die Bildung und Erziehung muß nicht die Durchschnittsbegabung an ἦϑος und
 Intellekt zur Norm nehmen, sondern eben jene tragischen Naturen —
@@ -1279,37 +1279,37 @@ Hier liegt die Lösung der socialen Frage. Der reiche oder begabte Egoist ist ei
 preisgegeben.
 
 Ich sehe ungeheure Conglomerate an Stelle der vereinzelten Capitalisten treten. Ich sehe die Börse dem Fluche
-verfallen, dem jetzt die Spielbanken gefallen sind.
+verfallen, dem jetzt die Spielbanken **gefallen** sind.
 
 [5[106]](javascript:;)
 ----------------------
 
-Was ist Erziehung?
+Was ist **Erziehung**?
 
-Daß man sofort alles Erlebte unter bestimmten Wahnvorstellungen begreift. Der Werth
+Daß man sofort alles Erlebte unter bestimmten Wahnvorstellungen begreift. Der **Werth**
 dieser Vorstellungen bestimmt den Werth der Bildungen und Erziehungen.
 
-In diesem Sinne ist Erziehung Intellekt-Sache, somit bis zu einem Grade wirklich möglich.
+In diesem Sinne ist **Erziehung** Intellekt-Sache, somit bis zu einem Grade wirklich **möglich**.
 
-Diese Wahnvorstellungen werden nur durch die Wucht der
-Persönlichkeiten mitgetheilt. Insofern hängt die Erziehung von der moralischen Größe und dem Charakter
+Diese **Wahnvorstellungen** werden nur durch die **Wucht der
+Persönlichkeiten** mitgetheilt. Insofern hängt die Erziehung von der moralischen Größe und dem Charakter
 der Lehrer ab.
 
-Zauberische Einwirkung von Person auf Person alle höhere
+Zauberische Einwirkung von **Person** auf **Person** alle höhere
 Willenserscheinung (die schon aus dem Bann der Einzelleben-Bejahung herausgetreten ist und damit sich die noch
 niederen Willenserscheinungen unterwirft).
 
-Diese Einwirkung äußert sich in Übertragung der Wahnvorstellungen.
+Diese Einwirkung äußert sich in **Übertragung** der **Wahnvorstellungen**.
 
 [5[107]](javascript:;)
 ----------------------
 
-Bildung: nach dem Charakter von Wahnvorstellungen.
+**Bildung:** nach dem Charakter von Wahnvorstellungen.
 
-Wie ist Bildung übertragbar? Nicht durch reine Erkenntniß, sondern
+**Wie ist Bildung** übertragbar? **Nicht** durch reine Erkenntniß, sondern
 durch Macht des Persönlichen.
 
-Die Macht des Persönlichen liegt in seinem Werthe für den Willen (je weiter und größer
+Die **Macht des Persönlichen** liegt in seinem Werthe für den Willen (je weiter und größer
 die Welle
 
 *Erratum:*Welt  
@@ -1318,21 +1318,21 @@ die Welle
 
  ist, die er beherrscht).
 
-Jede Neuschaffung einer Kultur somit durch starke vorbildliche Naturen, in denen sich
+Jede **Neuschaffung einer Kultur** somit durch starke vorbildliche Naturen, in denen sich
 die Wahnvorstellungen neu erzeugen.
 
 [5[108]](javascript:;)
 ----------------------
 
-Der tragische Mensch
+Der **tragische Mensch**
 
 *Erratum:*tragische Mensch  
-*lies:*tragische Mensch  
+*lies:***tragische Mensch**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
   
 
-Schlußcapitel.
+**Schlußcapitel.**
 
 Der Vorstellungsmechanismus.
 
@@ -1346,13 +1346,13 @@ Das neue „Griechenland“.
 ----------------------
 
 Stürzen wir uns immer von neuem in den Aetna, in immer neuen Geburten wird uns der Trieb des Wissens als eine
-Daseinsform erscheinen: und nur in dem rastlosen apollinischen Triebe nach Wahrheit wird die Natur gezwungen, auch immer höhere Ergänzungswelten der Kunst und der Religion zu bauen.
+Daseinsform erscheinen: und nur in dem rastlosen apollinischen Triebe nach Wahrheit wird die Natur **gezwungen**, auch immer höhere Ergänzungswelten der Kunst und der Religion zu bauen.
 
 [5[110]](javascript:;)
 ----------------------
 
-In der tragischen Weltanschauung hatte sich der Wahrheits- und Weisheitstrieb versöhnt.
-Die logische Entwicklung löste diese auf und zwang zur Schöpfung der mystischen
+In der **tragischen** Weltanschauung hatte sich der Wahrheits- und Weisheitstrieb versöhnt.
+Die logische Entwicklung löste diese auf und zwang zur Schöpfung der **mystischen**
 Weltanschauung. Die großen Organismen gehen jetzt zu Grunde, die Staaten und Religionen usw.
 
 Das Verhältniß des Dionysischen und Apollinischen ist auch in jeder
@@ -1372,7 +1372,7 @@ Bei der allgemein
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  werdenden hellenischen Aufklärung bekommen die alten
-Götter einen spukhaften Charakter.
+Götter einen **spukhaften** Charakter.
 
 [5[111]](javascript:;)
 ----------------------
@@ -1382,7 +1382,7 @@ Wie entsteht der Sklave: dies führt zur Besprechung des griechischen Staats.
 [5[112]](javascript:;)
 ----------------------
 
-Fortsetzung der „Geburt“.
+**Fortsetzung** der „Geburt“.
 
   
 
@@ -1402,7 +1402,7 @@ Mangel des Gelehrten.
 [5[113]](javascript:;)
 ----------------------
 
-Vernichtung der Kunst.
+**Vernichtung** der Kunst.
 
 Vereinzelung der Künste und
 gegenseitige Übergriffe
@@ -1419,12 +1419,12 @@ Der Sokratismus.
 
 Spukhafter Charakter der Götter.
 
-Der tragische Mensch.
+Der **tragische Mensch**.
 
 [5[114]](javascript:;)
 ----------------------
 
-Der tragische Mensch.
+**Der tragische Mensch.**
 
   
 
@@ -1447,7 +1447,7 @@ Die Kunstgötter.
 
   
 
-Was ist über die Griechen zu lehren, wenn man von ihrer heiteren Welt ausgeht? und sich
+Was ist über die Griechen zu **lehren**, wenn man von ihrer heiteren Welt ausgeht? und sich
 den Ernst verhüllt? Die Angriffe auf das klassische Alterthum sind so ganz berechtigt.
 
 Man muß zeigen, daß eine tiefere Weltoffenbarung in ihm liegt als in unsern zerrissenen Zuständen, mit einer
@@ -1464,7 +1464,7 @@ reden.
 [5[116]](javascript:;)
 ----------------------
 
-Act. I. E<mpedokles> stürzt den Pan, der ihm die Antwort verweigert. Er fühlt sich
+Act. I. E&amp;lt;mpedokles&amp;gt; stürzt den Pan, der ihm die Antwort verweigert. Er fühlt sich
 geächtet.
 
 Die Agrigentiner wollen ihn zum König wählen, unerhörte Ehren. Er erkennt den Wahn der Religion, nach langem
@@ -1516,8 +1516,8 @@ Ein Freund stirbt mit ihm.
 [5[120]](javascript:;)
 ----------------------
 
-Die Tragödie und die griechische  
-Heiterkeit.
+**Die Tragödie und die griechische  
+Heiterkeit.**
 
 |  |  |
 | --- | --- |
@@ -1540,7 +1540,7 @@ Lib. X Austreibung der Dichter.
 [5[122]](javascript:;)
 ----------------------
 
-Abhandlungen.
+**Abhandlungen.**
 
   
 
@@ -1561,7 +1561,7 @@ Geschichte im Unterricht.
 [5[123]](javascript:;)
 ----------------------
 
-Hauptpunkte.
+**Hauptpunkte.**
 
   
 
@@ -1633,3 +1633,5 @@ conservativ.
 ----------------------
 
 Sokrates ließ sich nicht in die Mysterien einweihen.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

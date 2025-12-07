@@ -36,20 +36,20 @@ verbitten, denn es wäre dann die Quelle der größten Unverschämtheit.
 
 Viele machen eine Theorie des Handelns und reden stets davon, handeln aber nie darnach. Es ist ihre Huldigung
 und Abfindung vor der Moral (Engländer) So finden sich katholische Priester mit Gott ab, ihre Devotion ist um
-so größer, je gottloser ihr Leben ist. Dabei erst fühlen sie sich wohl. — Andere haben
+so größer, je gottloser ihr Leben ist. **Dabei** erst fühlen sie sich wohl. — Andere haben
 auch den Widerspruch, aber befinden sich schlecht dabei. Andere haben den — — —
 
 [2[5]](javascript:;)
 --------------------
 
-Stark sinnliche Menschen gewinnen ihre intellektuelle Kraft erst bei der abnehmenden Ebbe ihrer Nerven: das giebt ihrer Produktion den schwermüthigen
+Stark sinnliche Menschen gewinnen ihre **intellektuelle** Kraft erst bei der **abnehmenden Ebbe** ihrer Nerven: das giebt ihrer Produktion den **schwermüthigen**
 Charakter.
 
 [2[6]](javascript:;)
 --------------------
 
-Die Liebe zum Nächsten ist die Liebe zu unserer Vorstellung vom Nächsten. Wir können nur
-uns selber lieben, weil wir uns kennen. Die Moral des Altruism ist unmöglich.
+Die Liebe zum Nächsten ist die Liebe zu unserer **Vorstellung** vom Nächsten. Wir können nur
+**uns** selber lieben, weil wir uns kennen. Die Moral des Altruism ist unmöglich.
 
 [2[7]](javascript:;)
 --------------------
@@ -60,8 +60,8 @@ verschleierte schamhafte Klagen, wie die einer Nonne (Bachs Präludien
 [2[8]](javascript:;)
 --------------------
 
-wo wir nicht wissen, was allein wir eigentlich können, reden wir von „Willen“. Die
-vollkommene Einsicht redet nur von Müssen.
+wo wir nicht wissen, was allein wir eigentlich **können**, reden wir von „Willen“. Die
+vollkommene Einsicht redet nur von **Müssen**.
 
 Wir übersehen nur
 
@@ -69,7 +69,7 @@ Wir übersehen nur
 *lies:*nur  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-einige Kräfte die zu einer That nöthig sind.
+**einige** Kräfte die zu einer That nöthig sind.
 
 Jede That (Willensakt) ist ein Experiment, ob unser Urtheil (im Willen) richtig war.
 
@@ -84,20 +84,20 @@ Philosophie gehört in den Kampf gegen den Schmerz, ist also bestimmt zu Grunde 
 [2[10]](javascript:;)
 ---------------------
 
-Für einen einzigen
+Für einen **einzigen**
 
 *Erratum:*einzigen  
-*lies:*einzigen  
+*lies:***einzigen**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Menschen wäre die Realität der
 Welt ohne Wahrscheinlichkeit. Aber für zwei Menschen wird sie wahrscheinlich. Der andere Mensch ist nämlich
 eine Einbildung von uns, ganz unser „Wille“, ganz unsere „Vorstellung“: und wir sind wieder dasselbe in ihm.
 Aber weil wir wissen daß er sich über uns täuschen muß und daß wir eine Realität sind trotz dem Phantom, das
-er von uns im Kopf trägt, schließen wir daß auch er
+er von uns im Kopf trägt, schließen wir daß auch **er**
 
 *Erratum:*er  
-*lies:*er  
+*lies:***er**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 eine Realität ist trotz unserer Einbildung über ihn: kurz daß es Realitäten außer uns giebt.
@@ -105,13 +105,13 @@ eine Realität ist trotz unserer Einbildung über ihn: kurz daß es Realitäten 
 [2[11]](javascript:;)
 ---------------------
 
-Die eingebildete Welt (wir lieben und hassen meist Einbildungen, nicht Realitäten,
+Die **eingebildete** Welt (wir lieben und hassen meist Einbildungen, nicht Realitäten,
 Menschen).
 
 [2[12]](javascript:;)
 ---------------------
 
-Schilderung der Ehe zum Zweck der Erkenntniß — St. Mill (Comte)
+Schilderung der **Ehe** zum Zweck der Erkenntniß — St. Mill (Comte)
 
 [2[13]](javascript:;)
 ---------------------
@@ -133,23 +133,23 @@ als möglich zu entfalten. Er ist jetzt größer als je, im
 *lies:*je, im  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Ganzen.
+**Ganzen**.
 
 [2[15]](javascript:;)
 ---------------------
 
-Der Mangel an Selbstsucht ist es, woran die Menschheit leidet.
+Der **Mangel** an Selbstsucht ist es, woran die Menschheit leidet.
 
 [2[16]](javascript:;)
 ---------------------
 
-Nur die moralischen Menschen empfinden Gewissensbisse: das Elend des Unmoralischen ist
+Nur die **moralischen** Menschen empfinden Gewissensbisse: das Elend des Unmoralischen ist
 eine Dichtung.
 
 [2[17]](javascript:;)
 ---------------------
 
-Achtung, Freude an den Verschiedenheiten der Indiv<iduen>! Freude am
+Achtung, Freude an den **Verschiedenheiten** der Indiv&amp;lt;iduen&amp;gt;! Freude am
 Fremdartigen der Nationen und Culturen ist ein Schritt dazu (das „Romantische“ —)
 
 Erst die Fabel-Menschheit, wie sie in den Köpfen spukt, ist gleichheitlich und bildet die wirklichen Menschen
@@ -163,20 +163,20 @@ Die bildenden Künste und der Roman sind auf dem rechten Wege!
 [2[19]](javascript:;)
 ---------------------
 
-es giebt viel mehr Moralität (latente)
+es giebt viel **mehr** Moralität (latente)
 
-Mor<alische> M<enschen> im Affekt bejahen die Moralität der vorletzten Stufe, die effektvolle Moralität. Diese wird weit
-überschätzt
+Mor&amp;lt;alische&amp;gt; M&amp;lt;enschen&amp;gt; im Affekt bejahen die Moralität der **vorletzten Stufe**, die **effektvolle** Moralität. Diese wird **weit
+überschätzt**
 
 [2[20]](javascript:;)
 ---------------------
 
-Unser Leben muß gefährlicher werden.
+Unser Leben muß **gefährlicher** werden.
 
 [2[21]](javascript:;)
 ---------------------
 
-Wie kann sich der moderne Mensch den Vortheil der Absolution verschaffen, dem
+Wie kann sich der moderne Mensch den Vortheil der **Absolution** verschaffen, dem
 Gewissensbiß ein Ende machen? Ehemals hieß es: „Gott ist gnädig“: es hilft nichts, die Menschen müssen es
 jetzt sein!
 
@@ -188,18 +188,18 @@ Trauer um die Todten — sie sind nicht unglücklich! also egoistisch
 [2[23]](javascript:;)
 ---------------------
 
-Je mehr Erkenntnisse und Vernunft ich habe, um so mehr nimmt der Glaube an die Freiheit
+Je mehr **Erkenntnisse** und Vernunft ich habe, um so mehr nimmt der Glaube an die Freiheit
 ab, es steht uns nicht viel zu wählen offen
 
 [2[24]](javascript:;)
 ---------------------
 
-Mit Hülfe der Wissenschaft kann jeder Mensch seine Originalität fortschreiten lassen
+Mit Hülfe der Wissenschaft kann jeder Mensch seine Originalität **fortschreiten** lassen
 
 [2[25]](javascript:;)
 ---------------------
 
-Zügellosigkeit der Trauer wie der Liebe ist gemeiner Seelen Art.
+**Zügellosigkeit** der Trauer wie der Liebe ist gemeiner Seelen Art.
 
 [2[26]](javascript:;)
 ---------------------
@@ -245,8 +245,8 @@ Zukunft.
 Die dramatische Musik ist ein Mittel zur Erregung oder Steigerung von Affekten: sie will nicht Freude an der
 Musik selber geben, wie die Musik für Kenner und Liebhaber (Kammermusik)
 
-Weil sie von etwas überzeugen will, was außer
-ihr liegt, gehört sie in die Rhetorik.
+Weil sie von etwas überzeugen will, was **außer**
+**ihr** liegt, gehört sie in die Rhetorik.
 
 [2[31]](javascript:;)
 ---------------------
@@ -265,8 +265,8 @@ Wer wird das lesen wollen! Gott weiß es nicht, ich auch nicht.
 [2[33]](javascript:;)
 ---------------------
 
-Südliche Musik. Haydn empfand bei der ital<ienischen> Oper wohl das, was
-Chopin bei einer ital<ienischen>
+Südliche Musik. Haydn empfand bei der **ital&amp;lt;ienischen&amp;gt;** Oper wohl das, was
+Chopin bei einer **ital&amp;lt;ienischen&amp;gt;**
 Barcarole.
 
 *Erratum:*Barcarole!  
@@ -280,7 +280,7 @@ wirklich
 *lies:*wirklich  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- ital<ienischen> Musik.
+ ital&amp;lt;ienischen&amp;gt; Musik.
 
 [2[34]](javascript:;)
 ---------------------
@@ -307,11 +307,11 @@ schlimm ist als es thun.
 [2[36]](javascript:;)
 ---------------------
 
-„Malerische Moralität“
+**„Malerische Moralität“**
 
 Die Effekt-Moralität ist gewaltsam, ein Ausbruch, der so viel angehäufte Unmoralität (z.B. feiges Nachgeben
 gegen ungerechte Herrn usw.) zurückwerfen muß. Im Kleinen, aber beständig das Ungerechte hemmen ist weniger
-pathetisch für Andere und für uns selber. Ebenso die absolute Abstinenz effektvoller als
+pathetisch **für Andere** und für uns selber. Ebenso die absolute Abstinenz effektvoller als
 die relative kleine
 
 [2[37]](javascript:;)
@@ -320,17 +320,17 @@ die relative kleine
 Eine diätetische Vorschrift gegeben, und wir handeln nicht darnach: unmoralisch (weil unvernünftig, weil sich
 selber schädlich). Aber „sich selber will man nicht schaden“: es ist eine Illusion: der Selbstschaden
 
-also weil wir nicht schaden wollen. — Wesh<alb> aber wollen wir nicht schaden? — Aus Gewohnheit
-jetzt — und aus Furcht ursprünglich.
+also weil wir nicht schaden wollen. — Wesh&amp;lt;alb&amp;gt; aber wollen wir nicht schaden? — Aus Gewohnheit
+**jetzt** — und aus Furcht **ursprünglich**.
 
 [2[38]](javascript:;)
 ---------------------
 
 Keiner weiß genau, was er thut, wenn er ein Kind zeugt; für den Weisesten ist es ein Lotteriespiel. Und der
-Mensch soll frei
+Mensch soll **frei**
 
 *Erratum:*frei  
-*lies:*frei  
+*lies:***frei**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  sein! der nicht einem Vernunft-Akte
@@ -341,12 +341,12 @@ sein Dasein dankt!
 
 Mitwissen um das Leiden —
 
-Leidet man wirklich durch das Mitleid, so nimmt man sich ein Leid ab. Nur wenn man drum weiß, aber nicht leidet, kann man um des Nächsten willen handeln, wie der Arzt.
+Leidet man wirklich durch das Mitleid, so nimmt man sich ein Leid ab. Nur wenn man drum weiß, aber **nicht leidet**, kann man um des Nächsten willen handeln, wie der Arzt.
 
-Solche welche drum wissen
+Solche welche drum **wissen**
 
 *Erratum:*wissen  
-*lies:*wissen  
+*lies:***wissen**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  und sich freuen (die
@@ -405,15 +405,15 @@ Wie ist der entmenschte Mensch zu denken wenn der Mensch das entthierte Thier is
 [2[46]](javascript:;)
 ---------------------
 
-Menschen des labilen Gleichgewichts, deren gefährliche Kleinigkeiten im Sittlichen und
+Menschen des **labilen Gleichgewichts**, deren gefährliche Kleinigkeiten im Sittlichen und
 Gesunden.
 
 [2[47]](javascript:;)
 ---------------------
 
-Moralität: wir legen unseren Handlungen einen imaginären Werth zu (abhängig vom Erfolge) die Empfindung des Nicht-mehr-Sklaven! auf alles drückt er
-das Siegel der neuen Freiheit. Stärkstes Gefühl der Veränderung, wenn der Sklave thun
-kann, was er will
+Moralität: wir legen unseren Handlungen einen imaginären **Werth** zu (abhängig vom **Erfolge**) die Empfindung des **Nicht-mehr-Sklaven**! auf alles drückt er
+das Siegel der neuen Freiheit. Stärkstes Gefühl der **Veränderung**, wenn der Sklave thun
+kann, was er **will**
 
 [2[48]](javascript:;)
 ---------------------
@@ -425,8 +425,8 @@ Warum Verstimmungen, peinlich, gefährlich?
 [2[49]](javascript:;)
 ---------------------
 
-Moralität, wenn nothwendig Verantwortlichkeit, dann nur die Handlungen, die aus klarstem
-Verstande hervorgegangen, die oberflächlichsten, deren Motive wir kennen können. „Warum
+Moralität, **wenn** nothwendig Verantwortlichkeit, dann nur die Handlungen, die aus klarstem
+Verstande hervorgegangen, die oberflächlichsten, deren Motive wir kennen **können**. „Warum
 habe ich dies gethan?“ Bei den aus dem Gemüth kommenden ist Verantwortlichkeit unmöglich, weil wir die Motive
 nicht kennen. Insofern hieße moralisch handeln immer nur oberflächlich handeln, ohne Passion und Nachdruck d.h.
 
@@ -440,9 +440,9 @@ nicht kennen. Insofern hieße moralisch handeln immer nur oberflächlich handeln
 *lies:*„Verantwortlichkeit“  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- ist eine Großthuerei. Wo wir empfinden, sind wir unverantwortlich, also „unmoralisch“?
+ ist eine Großthuerei. Wo wir **empfinden**, sind wir unverantwortlich, also „unmoralisch“?
 
-Der Glaube an die Freiheit genügt, zur Moralität: die Illusion.
+Der Glaube an die Freiheit **genügt**, zur Moralität: die Illusion.
 
 [2[50]](javascript:;)
 ---------------------
@@ -473,7 +473,7 @@ Mensch ist nicht weit vom Schurken und Verleumder, wenn er eine Partei machen wi
 [2[52]](javascript:;)
 ---------------------
 
-Der Altruism gilt nicht andren Individuen, sondern imaginären gleichen Wesen. Dem Individuum zu helfen ist unmöglich, weil man es nicht erkennen kann. Das
+Der Altruism gilt nicht andren **Individuen**, sondern imaginären **gleichen** Wesen. Dem Individuum zu helfen ist unmöglich, weil man es nicht erkennen kann. Das
 Unerkennbare — das ist der Nächste.
 
 [2[53]](javascript:;)
@@ -490,7 +490,7 @@ Abnahme der Nerven und ihre Philosophie.
 [2[55]](javascript:;)
 ---------------------
 
-Mor<al> im Dienste physiologischer Funktionen.
+Mor&amp;lt;al&amp;gt; im Dienste physiologischer Funktionen.
 
 [2[56]](javascript:;)
 ---------------------
@@ -504,13 +504,13 @@ Zwei unbedingt Dinge können nicht aufeinander wirken.
 ---------------------
 
 Das vollkommene Wissen hätte den Begriff „Freiheit“ nicht entstehen lassen und so die moralische Abschätzung
-der Thaten verhindert. Wenn es keine unmoralischen Thaten gäbe, so gäbe es keine
-Moral.
+der Thaten verhindert. Wenn es keine unmoralischen Thaten gäbe, so gäbe es **keine
+Moral**.
 
 [2[58]](javascript:;)
 ---------------------
 
-M<enschen> müssen ihren täglichen Ärger haben.
+M&amp;lt;enschen&amp;gt; müssen ihren täglichen Ärger haben.
 
 [2[59]](javascript:;)
 ---------------------
@@ -533,7 +533,7 @@ gelten.
 [2[61]](javascript:;)
 ---------------------
 
-Wir lernen Gewohnheiten und Meinungen der Anderen, nicht Individuen kennen. So setzen
+Wir lernen Gewohnheiten und Meinungen der Anderen, **nicht** Individuen kennen. So setzen
 wir uns im späteren Leben auch nicht mit Individuen auseinander d.h. wir behandeln uns selber nicht wie
 Individuen.
 
@@ -571,13 +571,13 @@ Die Emotionen sind ein physiologisches Gegengewicht
 [2[64]](javascript:;)
 ---------------------
 
-Einer, der etwas nachempfindet, schätzt es darauf höher, ja er will es wiederhergestellt
+Einer, der etwas **nachempfindet**, schätzt es darauf höher, ja er will es wiederhergestellt
 haben z.B. das Religiöse (F. Schlegel)
 
 [2[65]](javascript:;)
 ---------------------
 
-Es kommt darauf an, daß eine Tugend erreicht werde, nicht auf
+Es kommt darauf an, daß eine Tugend **erreicht** werde, **nicht** auf
 welchem Wege. Der Erfolg sei das Glück: es handelt sich darum, eine schwere Mechanik so zu lernen, daß sie
 uns
 
@@ -590,7 +590,7 @@ uns
 [2[66]](javascript:;)
 ---------------------
 
-Jede Handlung, jeder Gedanke, jede Regung baut an dem Glück oder Unglück deiner Zukunft; sie bauen dein Gemüth, deine Gewohnheiten, es giebt nichts Indifferentes. Dein logischer Leichtsinn wird
+Jede Handlung, jeder Gedanke, jede Regung baut an dem Glück oder Unglück deiner Zukunft; sie bauen dein **Gemüth**, deine Gewohnheiten, es giebt nichts Indifferentes. Dein logischer Leichtsinn wird
 zu büßen sein. Das Gemüth ist die große Cisterne, klares Bewußtsein ist das Mittel, endlich ein klares Gemüth
 zu haben — aber vielleicht erst in der 3ten Generation.
 
@@ -606,7 +606,7 @@ erreichen jetzt schon Vergnügen macht.
 Es giebt kein eigenes Organ des „Gedächtnisses“: alle Nerven z.B. im Beine, gedenken früherer Erfahrungen.
 Jedes Wort, jede Zahl ist das Resultat eines physischen Vorgangs und irgendwo in den Nerven festgeworden.
 Alles was den Nerven anorganisirt worden, lebt in ihnen fort. Es giebt Wellenberge der Erregung, wo dies Leben
-ins Bewußtsein tritt, wo wir uns erinnern.
+ins **Bewußtsein** tritt, wo wir uns erinnern.
 
 [2[69]](javascript:;)
 ---------------------
@@ -669,4 +669,6 @@ nicht mehr bewußtes Denken bei Mutter und Kind
 [2[77]](javascript:;)
 ---------------------
 
-der faut<e>-de-mieux-Mann Dühring
+der faut&amp;lt;e&amp;gt;-de-mieux-Mann Dühring
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

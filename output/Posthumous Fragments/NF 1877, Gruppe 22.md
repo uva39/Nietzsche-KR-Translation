@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [22[1]](javascript:;)
 ---------------------
 
-Fenster grüner Gaze
+**Fenster grüner Gaze**
 
 [22[2]](javascript:;)
 ---------------------
@@ -26,7 +26,7 @@ Den Freunden Gruss und Widmung.
 [22[3]](javascript:;)
 ---------------------
 
-<Die unendliche Melo>die — man verliert das Ufer, überlässt sich den
+**&amp;lt;Die unendliche Melo&amp;gt;die** — man verliert das Ufer, überlässt sich den
 Wogen.
 
 [22[4]](javascript:;)
@@ -38,7 +38,7 @@ Roheit, welche sich als Kraft giebt — Kunst.
 ---------------------
 
 So zu handeln, dass die Menschheit usw.: Da müsste man das Vortheilhafte übersehen können. Wer sagt dass
-überhaupt für das Ganze eine Art Handeln zuträglich sei? die Geschichte sagt das
+überhaupt für das Ganze **eine** Art Handeln zuträglich sei? die Geschichte sagt das
 Gegentheil. Man ist dem Egoismus viel mehr verpflichtet.
 
 [22[6]](javascript:;)
@@ -75,7 +75,7 @@ Aber Noth als Mutter, Irrthum als Vater haben den Glauben geschaffen.
 [22[10]](javascript:;)
 ----------------------
 
-Vorrede über Philologie. Alles als Übung.
+Vorrede über Philologie. Alles als **Übung**.
 
 Homer’s und Hesiod’s Wettkampf.
 
@@ -87,7 +87,7 @@ Der Prolog der Choephoren.
 
 Beispiel kunstvoller Responsion.
 
-Leben Demokrit<’s>.
+Leben Demokrit&amp;lt;’s&amp;gt;.
 
 Sceptische Ansichten über Metrik.
 
@@ -114,26 +114,26 @@ Einleitung in die Philosophie der Gegenwart.
 Vom Standpuncte des Nutzens ist die Erhaltung der Religion durchaus zu wünschen, Nutzen selbst im höchsten
 Sinn (Moralität) genommen (nämlich der vormundschaftliche Staat).
 
-Aber sie ist nicht zu erhalten, weil keine aufrichtigen Lehrer mehr da sind.
+Aber sie ist nicht zu erhalten, weil keine **aufrichtigen Lehrer** mehr da sind.
 
 Also wäre das Erziehungswesen umzustürzen? nach der Absicht der katholischen Kirche? Aber alle sonstigen
 Vortheile des Lebens ruhen auf der Wissenschaft.
 
-Conflict nicht zu verschärfen — englische Praxis. Consequent sind die Menschen
+Conflict nicht zu **verschärfen** — englische Praxis. Consequent sind die Menschen
 nicht.
 
-Das Aufhören dieses Glaubens entfesselt Kraft, bis jetzt durch metaphysische Tröstungen
+Das Aufhören dieses Glaubens entfesselt **Kraft**, bis jetzt durch metaphysische Tröstungen
 zurückgehalten. Deshalb nicht zu unterschätzen.
 
 Diese Kräfte sind den bestehenden Ordnungen feindlich.
 
 Ist Revolution nothwendig? — Zunächst ist ein kleiner Bruchtheil der europäischen Menschheit in Betracht.
 
-Den Regierungen freieste Behandlung anzurathen, nichts zu unterdrücken, vielmehr sich
-voranstellen in der geistigen Befreiung: je geistiger man die
-Masse macht, um so geordnetere Wege sucht sie.
+Den Regierungen **freieste** Behandlung anzurathen, nichts zu unterdrücken, vielmehr sich
+**voran**stellen in der **geistigen** Befreiung: je geistiger man die
+Masse macht, um so **geordnetere** Wege sucht sie.
 
-Von Seiten der Privatpersonen — Gründung eines Vereins dessen M<itglieder> sich aller
+Von Seiten der Privatpersonen — Gründung eines Vereins dessen M&amp;lt;itglieder&amp;gt; sich aller
 religiösen Formen enthalten. Propaganda in der ganzen Welt. Damit Überbrückung der Nationen (Gegenstück zur
 katholischen Überbrückung).
 
@@ -150,7 +150,7 @@ Die nationale Idee und Kriege ausgezeichnete Gegenmittel gegen Revolution.
 
 Entflammung der religiösen Interessen (Sinn des Culturkampfs) ebenfallls.
 
-Eine zeitweilige Verrohung nicht zu scheuen (durch Übermacht von Naturwissensch<aft>
+Eine zeitweilige Verrohung nicht zu scheuen (durch Übermacht von Naturwissensch&amp;lt;aft&amp;gt;
 Mechanik).
 
 [22[15]](javascript:;)
@@ -181,7 +181,7 @@ Die Höhepuncte der kleinen Bogen kommen am nächsten dem grossen Bogen — Roma
 [22[18]](javascript:;)
 ----------------------
 
-Unser Ziel muss sein: Eine Art der Bildungsschule für das ganze
+Unser Ziel muss sein: Eine**Art** der Bildungsschule für das ganze
 Volk — und ausserdem Fachschulen.
 
 [22[19]](javascript:;)
@@ -214,7 +214,7 @@ Phantastik in der Ausdeutung der Motive ist Wesen des Christenthums.
 [22[22]](javascript:;)
 ----------------------
 
-Der Verleger denkt, aber der Buchdrucker lenkt.
+Der Verleger **denkt**, aber der Buchdrucker **lenkt**.
 
 [22[23]](javascript:;)
 ----------------------
@@ -224,19 +224,19 @@ Oedes graues Auge frühesten Morgens, nasse scharfe Luft.
 [22[24]](javascript:;)
 ----------------------
 
-Was ewig im Gesang soll leben, muss im Leben untergehen (Restauration-Kunstblüthe).
+Was ewig im Gesang soll leben, muss im Leben untergehen (**Restauration**-Kunstblüthe).
 
 [22[25]](javascript:;)
 ----------------------
 
-Modif<icirte> Tempos. — Man ehrt den grossen Künstler der Vergangenheit weniger durch jene
+Modif&amp;lt;icirte&amp;gt; Tempos. — Man ehrt den grossen Künstler der Vergangenheit weniger durch jene
 unproductive Scheu, welche jede Note liegen lässt, wie er sie gestellt hat, als durch thätige Liebe und jene
 Versuche, ihn immer von neuem wieder zum Leben zu erwecken, im Leben zu erhalten.
 
 [22[26]](javascript:;)
 ----------------------
 
-Freigeist. Psychologisches. Moral. Kunst. Religion. Metaphysik.
+**Freigeist. Psychologisches. Moral. Kunst. Religion. Metaphysik.**
 
 Übergang von Religion zu Kunst mit „unreinem Denken“, „unlogische Stellung zur Welt“.
 
@@ -259,7 +259,7 @@ zuletzt: Weise werden
 ----------------------
 
 Metaphysik: einige Sprossen zurück, nur der erkennende Mensch soll immer über die Leiter hinausschauen, wir
-sind als volle Menschen nicht nur Erkenntniss.
+sind als volle Menschen nicht **nur** Erkenntniss.
 
 [22[29]](javascript:;)
 ----------------------
@@ -274,7 +274,7 @@ Ich wünsche dass man esse um satt zu werden und nicht nur weil es gut schmeckt 
 [22[31]](javascript:;)
 ----------------------
 
-Der Hunne Attila „Mensch Gewitterwolke“.
+Der **Hunne Attila** „Mensch Gewitterwolke“.
 
 [22[32]](javascript:;)
 ----------------------
@@ -308,7 +308,7 @@ Höhle von Salamanca
 [22[36]](javascript:;)
 ----------------------
 
-Alle Kunst weist den Gedanken an Werden ab. Alle will Improvisation scheinen,
+Alle Kunst weist den Gedanken an Werden ab. Alle will **Improvisation** scheinen,
 augenblickliches Wunder (Tempel als Götterwerk, Statue als Verzauberung einer Seele in Stein). So alle Musik.
 In gewisser Musik wird dieser beabsichtigte Effect durch Kunstmittel (Unordnung) nahe gelegt.
 
@@ -321,7 +321,7 @@ Nöthig, den ganzen Positivismus in mich aufzunehmen, und doch noch Träger des 
 [22[38]](javascript:;)
 ----------------------
 
-Selbständ<iges> Leben. Buch 9.
+Selbständ&amp;lt;iges&amp;gt; Leben. Buch 9.
 
 [22[39]](javascript:;)
 ----------------------
@@ -377,7 +377,7 @@ Schaurig und wehmutsvoll.
 [22[46]](javascript:;)
 ----------------------
 
-Die Schule soll die grösste Freiheit im Rel<igiösen> lehren, das nüchternste strenge Denken.
+Die Schule soll die grösste Freiheit im Rel&amp;lt;igiösen&amp;gt; lehren, das nüchternste strenge Denken.
 Die Unklarheit und die gewohnten Neigungen werden sehr weite Grenzen ziehen.
 
 [22[47]](javascript:;)
@@ -404,7 +404,7 @@ unser Stern führen und die mir nicht gerade günstig waren, waren mir doch viel
 [22[50]](javascript:;)
 ----------------------
 
-Jagd im Buche.
+Jagd im **Buche**.
 
 Kräftiger Eber und auch zierlicher Rehe gewiss.
 
@@ -437,7 +437,7 @@ Manfred: Eckermann Riemer — — —
 
 Flöte der Zeit vorblasen, dass rascher und wirbelnder ihr Tanz wird — später die grosse Ruhe, wo schauernd,
 wie in später Nachmitternacht alles gespenstisch scheint. Ich selbst bin in der Zeit, sie in mir —
-Selbsterlebtes, Selbstorgiasmus.
+Selbsterlebtes, Selbs**torgiasmus**.
 
 [22[56]](javascript:;)
 ----------------------
@@ -468,7 +468,7 @@ Gedächtniss Vorausbildung eigentlich ein Gehirnvorgang.
 [22[59]](javascript:;)
 ----------------------
 
-das Jauchzen des erkenn<enden> Menschen
+**das Jauchzen des erkenn&amp;lt;enden&amp;gt; Menschen**
 
 [22[60]](javascript:;)
 ----------------------
@@ -499,7 +499,7 @@ Wir denken nicht nur innerhalb des Traumes, sondern der Traum selber ist das Res
 [22[63]](javascript:;)
 ----------------------
 
-Ich finde den Mangel an Gerechtigkeitssinn bei Frauen empörend. Wie sie mit ihrem
+Ich finde den Mangel an Gerechtigkeitssinn bei Frauen **empörend**. Wie sie mit ihrem
 dolchspitzen Verstand verdächtigen usw.
 
 [22[64]](javascript:;)
@@ -524,7 +524,7 @@ Schriftsteller.
 
 Stil.
 
-Gymn<asium>.
+Gymn&amp;lt;asium&amp;gt;.
 
 Erziehung.
 
@@ -557,7 +557,7 @@ Meine Ergänzung: und zwar wie ein zerbrochenes Stück Arm und Bein sich zu eine
 [22[70]](javascript:;)
 ----------------------
 
-Die guten Künstler sollen nicht hinhören.
+Die guten Künstler sollen nicht **hinhören**.
 
 [22[71]](javascript:;)
 ----------------------
@@ -582,7 +582,7 @@ Ein ruhiges freudiges Alleinsein mit mir, in guten Gedanken und Lachen — wie i
 [22[74]](javascript:;)
 ----------------------
 
-Wann erst die Sprache als Wissenschaft galt — Schilderung der weiteren Sprachförderer.
+Wann erst die Sprache als Wissenschaft galt — Schilderung der weiteren Sprac**hförderer**.
 Manuscript Basel
 
 [22[75]](javascript:;)
@@ -592,9 +592,9 @@ Mag Vernunft den Vernünftigen erbauen
 
 Der Künstler soll nur die Kunst verdauen
 
-Und doch hat ein Künstler dies Buch geschrieben!
+Und doch hat ein Künstler dies Buch **geschrieben**!
 
-Nicht seine Vernunft that’s, es that sein Lieben.
+Nicht seine Vernunft that’s, es that sein **Lieben**.
 
 [22[76]](javascript:;)
 ----------------------
@@ -604,7 +604,7 @@ Wir hören wohl das Hämmern des Telegraphen aber verstehen es nicht.
 [22[77]](javascript:;)
 ----------------------
 
-Charactere:
+**Charactere:**
 
 wie sich der gemalte Schuh des Malers zum Schuh des Schuhmacher verhält,
 
@@ -616,7 +616,7 @@ so Charactere von Dichtern entworfen zu wirklichen Characteren.
 ----------------------
 
 Lipiner. Der schönste Erfolg, wenn es zwingt das Buch wegzulegen, Athem holen; Thränen tiefer Verzückung,
-trunkenes Schwimmen im Wohlk<lang> welcher die Augen schliessen macht, wie als ob man in die
+trunkenes Schwimmen im Wohlk&amp;lt;lang&amp;gt; welcher die Augen schliessen macht, wie als ob man in die
 blaue Tiefe südlicher See taucht; wehmutsvolle Ergriffenheit, wenn wir vor uns selber beschämt über uns hinweg
 sehen.
 
@@ -695,13 +695,13 @@ Dämmerungen nach den Weiten spähen heisst: Hunger einer einsamen Seele.
 [22[87]](javascript:;)
 ----------------------
 
-Das ausserordentliche Vergnügen welches man der Moral (bei Erzählungen) und der Kunst
+Das ausserordentliche Vergnügen welches man der **Moral** (bei Erzählungen) und der Kunst
 verdankt.
 
 [22[88]](javascript:;)
 ----------------------
 
-Gef<esselter> Prom<etheus> als Regenbogenbrücke über den letzten Jahrtausenden
+Gef&amp;lt;esselter&amp;gt; Prom&amp;lt;etheus&amp;gt; als Regenbogenbrücke über den letzten Jahrtausenden
 schwebend, das höchste Cultur-Gedicht.
 
 [22[89]](javascript:;)
@@ -821,7 +821,7 @@ Ach! und mich brechen —
 
 In ihren Augen glänzet dann
 
-Erinnerung an schönre auf
+Erinnerung an **schönre** auf
 
 Und Glück.
 
@@ -960,7 +960,7 @@ erdrosseln.
 [22[101]](javascript:;)
 -----------------------
 
-Zur Natur werden!
+**Zur Natur werden!**
 
 [22[102]](javascript:;)
 -----------------------
@@ -984,7 +984,7 @@ Schimpfworte hat jedermann gern, aber nie hat jemand geglaubt, dass ihm selber e
 [22[105]](javascript:;)
 -----------------------
 
-Die Klugheit gebietet, sich für das, was man gilt, auch zu geben
+Die Klugheit gebietet, sich für das, **was man gilt**, auch zu **geben**
 oder vielleicht für etwas Geringeres.
 
 [22[106]](javascript:;)
@@ -1050,7 +1050,7 @@ nicht halten konnten.
 [22[115]](javascript:;)
 -----------------------
 
-Wenn jemand beim Anblick von Leidenden und Sterbenden hart ist, wie will man dies
+Wenn jemand beim Anblick von Leidenden und Sterbenden **hart** ist, wie will man dies
 tadeln?
 
 [22[116]](javascript:;)
@@ -1061,9 +1061,9 @@ Alles Bleibende ergreift, macht Sehnsucht — so sehr verwechseln wir das Bleibe
 [22[117]](javascript:;)
 -----------------------
 
-Die Kraft wohnt in einem bestimmten Gegenstand, ist an eine Lokalität gebunden. Zerstört
+Die **Kraft** wohnt in einem bestimmten Gegenstand, ist an eine Lokalität gebunden. Zerstört
 man den Gegenstand, so auch die Kraft oder das Leben. Der Gegenstand selbst wird „Tod“ oder „Leben“ genannt —
-„in dem Ei ist mein Tod“ „hier ist dein Tod“ — namentlich russisch — erinnert an die
+„in dem Ei ist mein Tod“ „hier ist dein Tod“ — namentlich **russisch** — erinnert an die
 Metaphysiker welche auch die „Kraft“ lostrennen vom Willen.
 
 [22[118]](javascript:;)
@@ -1185,7 +1185,7 @@ Und in tieferem Gehege
 
 Abwärts zieht Herd und Hirt
 
-Alle Ziegen drängen trau<lich>
+Alle Ziegen drängen trau&amp;lt;lich&amp;gt;
 
 Sich an meinem Knie vorbei
 
@@ -1196,8 +1196,8 @@ dass ich blind und einsam sei
 [22[133]](javascript:;)
 -----------------------
 
-<Sich> aller moralischen Phrase (Opfer Pflicht) entäussern, die grosse Comödie der Heuchelei
-gar nicht mitspielen (denn an diesen Fäden leiten Euch die, welche die Heuchelei durchschaut haben, nach ihren Zielen: weil sie Euch für zu feige und dumm halten). Wahr sein —
+&amp;lt;Sich&amp;gt; aller moralischen Phrase (Opfer Pflicht) entäussern, die grosse Comödie der Heuchelei
+gar nicht mitspielen (denn an diesen Fäden leiten Euch die, welche die Heuchelei durchschaut haben, nach **ihren** Zielen: weil sie Euch für zu feige und dumm halten). **Wahr sein** —
 das sei euch wieder „moralisch“.
 
 [22[134]](javascript:;)
@@ -1227,3 +1227,5 @@ hinunter.
 -----------------------
 
 Ecce ecce homunculus.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

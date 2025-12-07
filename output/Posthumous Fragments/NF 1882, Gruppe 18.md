@@ -13,12 +13,12 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 
 [18 = Mp XVIII 3. Februar–März 1882]
 
-500 Aufschriften
+**500 Aufschriften**
   
 auf Tisch und Wand  
 für Narrn  
 von  
-Narrenhand.
+**Narrenhand**.
 
 [18[1]](javascript:;)
 ---------------------
@@ -76,3 +76,5 @@ Sprichst du: „Zufall giebt es nicht.“
 Gestern sprachst du also nicht,
 
 Niemand weiß was ihm geschicht.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

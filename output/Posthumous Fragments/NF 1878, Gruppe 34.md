@@ -23,7 +23,7 @@ gesehen, fehlen: die Welt bliebe immer noch ganz als meine Welt.
 [34[2]](javascript:;)
 ---------------------
 
-Auch der Enthus<iasmus> schwere Frage.
+Auch der Enthus&amp;lt;iasmus&amp;gt; schwere Frage.
 
 [34[3]](javascript:;)
 ---------------------
@@ -107,7 +107,7 @@ ihm: wie Goethe.
 [34[16]](javascript:;)
 ----------------------
 
-Wie vergänglich Philosoph<ien> sind, erkennt man an ihrer vergänglich-machenden Kraft.
+Wie vergänglich Philosoph&amp;lt;ien&amp;gt; sind, erkennt man an ihrer vergänglich-machenden Kraft.
 Schiller, seiner Zeit frisch und lebenskräftig — jetzt schon historisch zu empfinden: die Glasur des deutschen
 Idealismus. So alle Dichtung mit den Tüpfeln des verstand- und weltflüchtigen deutschen Pessimismus,
 heute.
@@ -121,21 +121,21 @@ den Berg und fördert Rom.
 [34[18]](javascript:;)
 ----------------------
 
-Jener Abschied, wo man endlich sich trennt, weil die Empfindung <und> das Urtheil nicht mehr
+Jener Abschied, wo man endlich sich trennt, weil die Empfindung &amp;lt;und&amp;gt; das Urtheil nicht mehr
 zusammen gehen wollen, bringt uns einer Person am nächsten und wir schlagen gewaltsam gegen die Mauer, welche
 die Natur zwischen ihr und uns errichtet hat.
 
 [34[19]](javascript:;)
 ----------------------
 
-<Der> Künstler wähnt, er habe durch seine großen Geschenke sich die Seele gekauft: aber er hat
-sie nur umfängl<icher> gemacht um noch größere Geschenke von anderen Seiten her aufzunehmen und
+&amp;lt;Der&amp;gt; Künstler wähnt, er habe durch seine großen Geschenke sich die Seele gekauft: aber er hat
+sie nur umfängl&amp;lt;icher&amp;gt; gemacht um noch größere Geschenke von anderen Seiten her aufzunehmen und
 den angebotenen Kaufpreis als viel zu gering zu achten.
 
 [34[20]](javascript:;)
 ----------------------
 
-Nie mit jemandem umgehen, der nicht zu hören versteht, sondern sich und seine Einfälle
+**Nie** mit jemandem umgehen, der nicht zu hören versteht, sondern sich und seine Einfälle
 vorführt, indem er so das Gespräch zu führen meint. Es ist das Merkzeichen eines großen Egoisten, sei er noch
 so begabt.
 
@@ -150,4 +150,6 @@ ersterer als Schauspieler.
 [34[22]](javascript:;)
 ----------------------
 
-Sommerluft der Seele — scha<uerliches> Glück — Februar.
+Sommerluft der Seele — scha&amp;lt;uerliches&amp;gt; Glück — Februar.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -32,7 +32,7 @@ sie sonst besser oder schlechter werden, ist ihnen gleich.
 
 Als Mensch, Musiker, Philolog, Schriftsteller, Philosoph — in allem merke ich jetzt wie es mit mir steht —
 gleich, überall gleich! Wäre ich ehrgeizig, so wäre es vielleicht gar nicht zum Verzweifeln: aber da ich es so
-wenig bin, so ist es fast zum Verzweifeln. Bei Schloss Chillon geschrieben, Abends gegen
+wenig bin, so ist es **fast** zum Verzweifeln. Bei Schloss Chillon geschrieben, Abends gegen
 6.
 
 [16[4]](javascript:;)
@@ -57,7 +57,7 @@ usw.
 
 Leopardi — Chamfort — Larochefoucault — Vauvenargues — Coleridge Tischgespräche.
 
-Übersetzen.
+**Übersetzen.**
 
 Geschichte der Litteratur.
 
@@ -81,32 +81,32 @@ Askese unter der allgemeinen Betrachtung des Selbstmords, ebenso die unegoistisc
 [16[7]](javascript:;)
 ---------------------
 
-Jeder Mensch hat seine Recepte, um das Leben zu ertragen (theils es leicht zu erhalten,
+Jeder Mensch hat seine **Recepte**, um das Leben zu ertragen (theils es leicht zu erhalten,
 theils es leicht zu machen, wenn es einmal sich schwer gezeigt hat), auch der Verbrecher. Diese überall
-angewandte Lebenskunst ist zusammenzustellen. Zu erklären, was die Recepte der Religion
+angewandte Lebenskunst ist zusammenzustellen. Zu erklären, was die Recepte der **Religion**
 eigentlich zu Stande bringen.
 
-Nicht das Leben zu erleichtern sondern leicht zu nehmen.
+Nicht das Leben zu **er**leichtern sondern leicht zu nehmen.
 
-Viele wollen es erschweren, um hinterdrein ihre höchsten Recepte
+Viele wollen es **erschweren**, um hinterdrein **ihre höchsten Recepte**
 (Kunst Ascese usw.) anzubieten.
 
 [16[8]](javascript:;)
 ---------------------
 
-„das leichte Leben“
+**„das leichte Leben“**
 
 (ῥεῖα ζώοντες)
 
-„Weg zur geistigen Freiheit“
+„**Weg zur geistigen** Freiheit“
 
-die Griechen
+**die Griechen**
 
-Lehrer
+**Lehrer**
 
-Ehe
+**Ehe**
 
-Eigenthum und Arbeit.
+**Eigenthum und Arbeit.**
 
 [16[9]](javascript:;)
 ---------------------
@@ -126,7 +126,7 @@ Eigenthum und Arbeit.
 [16[10]](javascript:;)
 ----------------------
 
-Unzeitgemässe Betrachtungen.
+**Unzeitgemässe Betrachtungen.**
 
 |  |  |  |
 | --- | --- | --- |
@@ -184,7 +184,7 @@ aus der Tugend eine Noth machen
 |  |  |
 | --- | --- |
 | 1 Tag nichts essen jede Woche.  Abends nur Milch und Thee.  Täglich 4 Stunden unterwegs. (mit Notizbuch) | |
-| Sammlung: | zur deutschen Sprache.  Sentenzen. |
+| **Sammlung:** | zur deutschen Sprache.  Sentenzen. |
 
 |  |  |  |
 | --- | --- | --- |
@@ -221,7 +221,7 @@ Mein Styl hat eine gewisse wollüstige Gedrängtheit.
 [16[21]](javascript:;)
 ----------------------
 
-Der Dichter muss ein Ding erst genau sehn und es nachher wieder ungenau sehen: es
+Der Dichter muss ein Ding erst **genau** sehn und es nachher wieder ungenau sehen: es
 absichtlich verschleiern. Manche versuchen dies direkt; aber da gelingt’s nicht (wie bei Schiller). Die Natur
 muss durch das Gewand durchleuchten.
 
@@ -252,13 +252,13 @@ Freigeist aus Selbstvertheidigung, aus Machtverlangen.
 [16[26]](javascript:;)
 ----------------------
 
-oft Rache für Ohnmacht (Isocrates)
+oft Rache für **Ohnmacht** (Isocrates)
 
 [16[27]](javascript:;)
 ----------------------
 
-Der Tiefstand der deutschen Cultur bei Straussens Buch nach dem Kriege — entsprechend
-der gemeinen genusssüchtigen Gesinnung — der Pegel im Strom der deutschen Cultur.
+Der **Tiefstand** der deutschen Cultur bei Straussens Buch nach dem Kriege — entsprechend
+der gemeinen genusssüchtigen Gesinnung — der **Pegel** im Strom der deutschen Cultur.
 
 [16[28]](javascript:;)
 ----------------------
@@ -274,8 +274,8 @@ Menschen die wie Hillebrandt nur der öffentlichen Meinung um einige Jahre vorau
 [16[30]](javascript:;)
 ----------------------
 
-Auf eine ununterbrochene Reihe guter Ahnen bis zu seinem Vater herauf kann man stolz
-sein: es ist eine Legitimation des eignen Selbst vor uns selbst. Aber eine einzige
+Auf eine ununterbrochene Reihe **guter** Ahnen bis zu seinem Vater herauf kann man stolz
+sein: es ist eine Legitimation des eignen Selbst vor uns selbst. Aber eine **einzige**
 Unterbrechung in der Kette macht den Adel zunichte. Hast du keinen gewaltthätigen habsüchtigen ausschweifenden
 boshaften grausamen unter deinen Ahnen? soll man jeden fragen. — Insofern bin ich adelig im 4ten Grade: weiter
 zurück kann ich nicht sehen.
@@ -323,7 +323,7 @@ Wenn man kein Glück hat, soll man sich Glück anschaffen.
 ----------------------
 
 Die Unthätigkeit bei den „Thätigen“. Sie wissen den Grund nicht, warum sie arbeiten, sie verlieren vitam ohne
-Sinn: es fehlt ihnen die höhere Thätigkeit, die individuelle, sie denken als Beamte
+Sinn: es fehlt ihnen die höhere Thätigkeit, die **individuelle**, sie denken als Beamte
 Kaufleute, aber sind unthätig als Menschen einziger Art.
 
 [16[39]](javascript:;)
@@ -380,7 +380,7 @@ Wie steht der Freigeist zuletzt zum activen Leben? Leicht gebunden — kein Scla
 [16[48]](javascript:;)
 ----------------------
 
-Der Gelehrte hat Würde verloren, er macht den hastig geniessenden activen Menschen
+Der Gelehrte hat Würde verloren, er macht den hastig geniessenden **activen** Menschen
 Concurrenz.
 
 [16[49]](javascript:;)
@@ -397,7 +397,7 @@ Sonnenlicht glitzert in dem Grund und zeigt worüber die Wellen fliessen: schrof
 [16[51]](javascript:;)
 ----------------------
 
-Die Schätzung des contemplativen Lebens hat abgenommen. Ehemals
+Die **Schätzung des contemplativen** Lebens **hat abgenommen**. Ehemals
 waren Gegensätze der Geistliche und der esprit fort: eine Art Neugeburt beider in Einer Person jetzt
 möglich.
 
@@ -410,7 +410,7 @@ ihr den Grund sehen können.
 [16[53]](javascript:;)
 ----------------------
 
-Um eine Sache ganz zu sehen, muss der Mensch zwei Augen haben, eins der Liebe und eins
+Um eine Sache **ganz** zu sehen, muss der Mensch zwei Augen haben, eins der Liebe und eins
 des Hasses.
 
 [16[54]](javascript:;)
@@ -423,4 +423,6 @@ Die productiven Menschen werden selten Freigeister; die Dichter bleiben religiö
 ----------------------
 
 Das Bild des Freigeistes ist unvollendet im vorigen Jahrhundert geblieben: sie negirten zu wenig und
-behielten sich übrig.
+behielten **sich** übrig.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

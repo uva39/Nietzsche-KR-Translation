@@ -22,7 +22,7 @@ auf — woher? wodurch? das weiß ich nicht. Er kommt, unabhängig von meinem Wi
 verdunkelt durch ein Gedräng von Gefühlen, Begehrungen, Abneigungen, auch von andern Gedanken, oft genug von
 einem „Wollen“ oder „Fühlen“ kaum zu unterscheiden. Man zieht ihn aus diesem Gedränge, reinigt ihn, stellt ihn
 auf seine Füße, man sieht, wie er dasteht, wie er geht, Alles in einem erstaunlichen presto und doch ganz ohne
-das Gefühl der Eile: wer das Alles thut, — ich weiß es nicht und bin sicherlich mehr
+das Gefühl der Eile: **wer** das Alles thut, — ich weiß es nicht und bin sicherlich mehr
 Zuschauer dabei als Urheber dieses Vorgangs. Man sitzt dann über ihn zu Gericht, man fragt: „was bedeutet er?
 was darf er bedeuten? hat er Recht oder Unrecht?“ — man ruft andere Gedanken zu Hülfe, man vergleicht ihn.
 Denken erweist sieh dergestalt beinahe als eine Art Übung und Akt der Gerechtigkeit, bei dem es einen Richter,
@@ -32,27 +32,27 @@ nur als Anlaß zum Versuch der Interpretation oder zur willkürlichen Festsetzun
 Vielheit von Personen betheiligt scheint —: dies ist nicht gar zu leicht zu beobachten, wir sind im Grunde
 umgekehrt geschult, nämlich beim Denken nicht an’s Denken zu denken. Der Ursprung des Gedankens bleibt
 verborgen; die Wahrscheinlichkeit dafür ist groß, daß er nur das Symptom eines viel umfänglicheren Zustandes
-ist; darin daß gerade er kommt und kein anderer, daß er gerade mit dieser größeren oder
+ist; darin daß gerade **er** kommt und kein anderer, daß er gerade mit dieser größeren oder
 minderen Helligkeit kommt, mitunter sicher und befehlerisch, mitunter schwach und einer Stütze bedürftig, im
 Ganzen immer aufregend, fragend — für das Bewußtsein wirkt nämlich jeder Gedanke wie ein Stimulans —: in dem
 allen drückt sich irgend etwas von unserem Gesammtzustande in Zeichen aus. — Ebenso steht es mit jedem
-Gefühle, es bedeutet nicht an sich etwas: es wird, wenn es kommt, von uns erst interpretirt und oft wie seltsam interpretirt! Man denke doch an die uns fast „unbewußte“ Noth der Eingeweide,
+Gefühle, es bedeutet nicht an sich etwas: es wird, wenn es kommt, von uns erst interpretirt und oft **wie seltsam** interpretirt! Man denke doch an die uns fast „unbewußte“ Noth der Eingeweide,
 an die Blutdruck-Spannungen im Unterleibe, an die krankhaften Zustände des nervus sympathicus —: und wie
 Vieles giebt es, wovon wir kaum durch das sensorium commune einen Schimmer von Bewußtsein haben! — Nur der
-anatomisch Unterrichtete räth bei solchen ungewissen Unlust-Gefühlen auf die rechte Gattung und Gegend der Ursachen; alle Anderen aber, im Ganzen also fast alle Menschen, so lange es
+anatomisch Unterrichtete räth bei solchen ungewissen Unlust-Gefühlen auf die rechte Gattung und **Gegend** der Ursachen; alle Anderen aber, im Ganzen also fast alle Menschen, so lange es
 Menschen giebt, suchen bei solcher Art von Schmerzen keine physische, sondern eine psychische und moralische
-Erklärung und schieben den thatsächlichen Verstimmungen des Leibes eine falsche
-Begründung unter, indem sie im Umkreise ihrer unangenehmen Erfahrungen und Befürchtungen einen Grund
+Erklärung und schieben den thatsächlichen Verstimmungen des Leibes eine **falsche
+Begründung** unter, indem sie im Umkreise ihrer unangenehmen Erfahrungen und Befürchtungen einen Grund
 herausholen, sich dermaßen schlecht zu befinden. Auf der Folter bekennt sich fast Jedermann schuldig; bei dem
 Schmerz, dessen physische Ursache man nicht weiß, fragt sich der Gefolterte so lange und so inquisitorisch
-selbst, bis er sich oder Andere schuldig findet: — wie es zum Beispiel der Puritaner
+selbst, bis er sich oder Andere **schuldig findet**: — wie es zum Beispiel der Puritaner
 that, welcher den einer unvernünftigen Lebensweise anhaftenden Spleen sich gewohnheitsmäßig moralisch
 auslegte, nämlich als Biß seines eigenen Gewissens. —
 
 [38[2]](javascript:;)
 ---------------------
 
-Das logische Denken, von dem die Logik redet, ein Denken, wo der Gedanke selbst als Ursache von neuen Gedanken gesetzt wird —, ist das Muster einer vollständigen Fiktion: ein Denken der Art kommt in Wirklichkeit niemals vor, es wird aber als Formen-Schema und
+Das logische Denken, von dem die Logik redet, ein Denken, wo der Gedanke selbst als **Ursache** von neuen Gedanken gesetzt wird —, ist das Muster einer vollständigen Fiktion: **ein Denken der Art kommt in Wirklichkeit niemals** vor, es wird aber als Formen-Schema und
 Filtrir-Apparat angelegt, mit Hülfe dessen wir das thatsächliche, äußerst vielfache Geschehen beim Denken
 verdünnen und vereinfachen: so daß dergestalt unser Denken in Zeichen faßbar, merkbar, mittheilbar wird. Also:
 das geistige Geschehen so zu betrachten, wie als ob es jenem regulativem Schema eines fingirten Denkens
@@ -60,7 +60,7 @@ wirklich entspräche, das ist das Kunststück von Fälschung vermöge deren es e
 „Erfahrung“ giebt. Erfahrung ist nur möglich mit Hülfe von Gedächtniß; Gedächtniß ist nur möglich mittelst
 einer Abkürzung eines geistigen Vorgangs zum Zeichen. „Erkenntniß“: das ist der Ausdruck eines neuen Dings
 durch die Zeichen von schon „bekannten“, schon erfahrenen Dingen. — Heute freilich faselt man gar von einem
-empirischen Ursprung der Logik: aber was nicht in der Wirklichkeit vorkommt, wie das
+**empirischen** Ursprung der Logik: aber was nicht in der Wirklichkeit vorkommt, wie das
 logische Denken, kann auch nicht aus der Wirklichkeit genommen sein, ebenso wenig als irgend ein Zahlengesetz,
 während es noch keinen Fall gegeben hat, in welchem die Wirklichkeit mit einer arithmetischen Formel sich
 gedeckt hätte. Die arithmetischen Formeln sind ebenfalls nur regulative Fiktionen, mit denen wir uns das
@@ -71,10 +71,10 @@ zurechtlegen.
 ---------------------
 
 — — — durch das Denken wird das Ich gesetzt; aber bisher glaubte man wie das Volk, im „ich denke“ liege
-irgend etwas von Unmittelbar-Gewissem, und dieses „Ich“ sei die gegebene Ursache des
+irgend etwas von Unmittelbar-Gewissem, und dieses „Ich“ sei die gegebene **Ursache** des
 Denkens, nach deren Analogie wir alle sonstigen ursächlichen Verhältnisse verstünden. Wie sehr gewohnt und
-unentbehrlich jetzt jene Fiktion auch sein mag, — Das allein beweist noch nichts gegen
-ihre Erdichtetheit: es kann ein Glaube Lebensbedingung und trotzdem falsch sein.
+unentbehrlich jetzt jene Fiktion auch sein mag, — **Das** allein beweist noch nichts gegen
+ihre Erdichtetheit: es kann ein Glaube Lebensbedingung und **trotzdem falsch** sein.
 
 [38[4]](javascript:;)
 ---------------------
@@ -84,8 +84,8 @@ in den grundsätzlichsten Fällen nur eine Stellung verschiedener Irrthümer zu 
 älter, tiefer als der andere ist, vielleicht sogar unausrottbar, insofern ein organisches Wesen unserer Art
 nicht ohne ihn leben könnte; während andere Irrthümer uns nicht dergestalt als Lebensbedingungen tyrannisiren,
 vielmehr, gemessen an solchen „Tyrannen“, beseitigt und „widerlegt“ werden können. Eine Annahme, die
-unwiderlegbar ist, — warum sollte sie deßhalb schon wahr sein? Dieser Satz empört
-vielleicht die Logiker, welche ihre Gränzen als Gränzen der Dinge ansetzen: aber diesem
+unwiderlegbar ist, — warum sollte sie deßhalb schon **wahr** sein? Dieser Satz empört
+vielleicht die Logiker, welche **ihre** Gränzen als Gränzen der Dinge ansetzen: aber diesem
 Logiker-Optimismus habe ich schon lange den Krieg erklärt.
 
 [38[5]](javascript:;)
@@ -94,37 +94,37 @@ Logiker-Optimismus habe ich schon lange den Krieg erklärt.
 Auch jetzt noch ist Frankreich der Sitz der geistigsten und raffinirtesten Cultur Europas, aber man muß dies
 „Frankreich des Geschmacks“ zu finden wissen. Wer zu ihm gehört, hält sich gut verborgen: im Vordergrunde
 wälzt sich ein verdummtes und vergröbertes Frankreich, das neuerdings, bei dem Leichenbegängnisse V.
-H<ugo>’s eine wahre Orgie des Ungeschmacks gefeiert hat — es mag eine kleine Zahl sein, dazu
+H&amp;lt;ugo&amp;gt;’s eine wahre Orgie des Ungeschmacks gefeiert hat — es mag eine kleine Zahl sein, dazu
 Menschen die nicht auf den kräftigsten Beinen stehen, zum Theil Fatalisten, zum Theil Verzärtelte (solche die
 Gründe haben sich zu verbergen) — sie insgesammt erkennen als ihre Vorfahren und Meister etwa folgende höhere
-Geister an. Vorerst Stendhal, das letzte große Ereigniß des französischen Geistes, der
-mit einem Nap<oleonischen> tempo durch sein unentdecktes Europa marschirt ist und zuletzt sich
+Geister an. Vorerst **Stendhal**, das letzte große Ereigniß des französischen Geistes, der
+mit einem Nap&amp;lt;oleonischen&amp;gt; tempo durch sein unentdecktes Europa marschirt ist und zuletzt sich
 allein fand — schauerlich allein: denn es hat zweier Geschlechter bedurft, um ihm nahe zu kommen. Jetzt wie
 gesagt commandirt er, ein Befehlshaber für die Ausgewähltesten; und wer mit feinen und verwegenen Sinnen
 begabt ist, neugierig bis zum Cynismus, Logiker beinahe aus Ekel, Räthselrather und Freund der Sphinx gleich
 jedem geborenen Europäer, der wird ihm nachgehen müssen. Möge er ihm auch dahin folgen, voller Scham vor den
-Heimlichkeiten, welche die große Leidenschaft hat, stehen zu bleiben! Diese Noblesse des
-Schweigen-Könnens, Stehen-bleiben-Könnens hat er zum Beispiel vor
-Michelet und sonderlich vor den deutschen Gelehrten voraus. — Sein Schüler ist Mérimée,
+Heimlichkeiten, welche die große Leidenschaft hat, **stehen zu bleiben**! Diese Noblesse des
+Schweigen-**Könnens**, Stehen-bleiben-**Könnens** hat er zum Beispiel vor
+Michelet und sonderlich vor den deutschen Gelehrten voraus. — Sein Schüler ist **Mérimée**,
 ein vornehmer zurückgezogener Artist und Verächter jener schwammichten Gefühle, welche ein demokratisches
 Zeitalter als seine „edelsten Gefühle“ preist, streng gegen sich und voll der härtesten Ansprüche an seine
 künstlerische Logik, beständig bereit, kleine Schönheiten und Reize einem starken Willen zur Nothwendigkeit zu
 opfern: — eine ächte, wenngleich nicht reiche Seele in einer unächten und schmutzigen Umgebung und Pessimist
-genug, um die Komödie mitspielen zu können, ohne sich zu erbrechen. — Ein anderer Schüler Stendhals ist Taine, jetzt der erste lebende Historiker Europas, ein entschlossener und noch in seiner
+genug, um die Komödie mitspielen zu können, ohne sich zu erbrechen. — Ein anderer Schüler Stendhals ist **Taine**, jetzt der erste lebende Historiker Europas, ein entschlossener und noch in seiner
 Verzweiflung tapferer Mensch, welchem der Muth so wenig als die Willenskraft unter dem fatalistischen Druck
 des Wissens in Stücke gegangen ist, ein Denker, welchen weder Condillac in Hinsicht auf Tiefe noch Hegel in
-Hinsicht auf Klarheit beeinträchtigt haben, einer vielmehr, der zu lernen verstand und
-für lange Zeit verstehen wird zu lehren: — die Franzosen der nächsten Generation haben in
+Hinsicht auf Klarheit beeinträchtigt haben, einer vielmehr, der zu **lernen** verstand und
+für lange Zeit verstehen wird zu **lehren**: — die Franzosen der nächsten Generation haben in
 ihm ihren geistigen Zuchtmeister. Er vornehmlich ist es, der den Einfluß Renans und Sainte-Beuves
 zurückdrängt, welche beide ungewiß und skeptisch bis auf den letzten Grund ihres Herzens sind: Renan, eine Art
 katholischer Schleiermacher, süßlich, bonbon, Landschaften und Religionen anempfindend: Sainte-Beuve, ein
 abgebrannter Dichter, der sich auf die Seelen-Anschnüffelei verlegt und gar zu gern verbergen möchte, daß er
 weder im Willen, noch in der Philosophie irgend einen Halt hat, ja sogar, was nach Beidem nicht Wunder nimmt,
-eines eigentlichen festen Geschmacks in artibus et litteris ermangelt. Zuletzt merkt man
+eines eigentlichen **festen** Geschmacks in artibus et litteris ermangelt. Zuletzt merkt man
 ihm die Absicht an, noch aus diesem Mangel eine Art Princip und Methode von kritischer Neutralität zu bilden:
 aber der Verdruß verräth sich zu oft, einmal darüber, daß er in der That für gewisse Bücher und Menschen
 wirklich einigemale nicht neutral, nämlich begeistert gewesen ist — er möchte diese schrecklichen „petits
-faits“ aus seinem Leben wegstreichen, weglügen — sodann aber über das viel unangenehmere grand fait, daß alle großen französischen Menschenkenner auch noch ihren eigenen Willen und Charakter im
+faits“ aus seinem Leben wegstreichen, weglügen — sodann aber über das viel unangenehmere grand fait, daß **alle** großen französischen Menschenkenner auch noch ihren eigenen Willen und Charakter im
 Leibe hatten, von Montaigne, Charron, La Rochefoucauld bis auf Chamfort und Stendhal: — denen allen gegenüber
 ist Sainte-Beuve nicht ohne Neid und jedenfalls ohne Vorliebe und Vorverständniß. — Viel wohlthätiger,
 einseitiger, tüchtiger in jedem Sinne ist der Einfluß Flauberts: mit
@@ -162,22 +162,22 @@ sein würde. Es ist viel Wagner in Baudelaire.
 [38[6]](javascript:;)
 ---------------------
 
-Victor Hugo, ein „Esel von Genie“ — der Ausdruck ist von Baudelaire — welches immer den Muth zu seinem schlechten Geschmacke gehabt hat: er verstand damit zu commandiren, er, der Sohn eines
+Victor Hugo, ein „Esel von Genie“ — der Ausdruck ist von Baudelaire — welches immer den **Muth** zu seinem schlechten Geschmacke gehabt hat: er verstand damit zu commandiren, er, der Sohn eines
 napoleonischen Generals. In seinen Ohren hatte er die Bedürfnisse einer Art von militärischer Rhetorik, er
 ahmte Kanonenschüsse und das Knattern von Raqueten in Worten nach; der französische esprit erscheint bei ihm
 gleichsam durch Dampf und Lärm verdunkelt, oft bis zur baren nackten Dummheit. Niemals hat ein Sterblicher
 solche dumpfe platzende Antithesen geschrieben. Zum andern Theil gab er auch den Maler-Begierden seiner Augen
 die Herrschaft über seinen Geist: er strotzt von pittoresken Einfällen und thut oft nichts als genau
-abschreiben, was er sieht, was die Maler-Hallucination ihm vor seine Augen stellt. Er,
+abschreiben, was er **sieht**, was die Maler-Hallucination ihm vor seine Augen stellt. Er,
 der Plebejer, der seinen starken Sinnes-Begierden, ich meine seinen Ohren und Augen, auch mit dem Geiste zu
 Willen ist — Das nämlich ist die Grundthatsache des französischen romantisme, als einer plebejischen Reaktion
 des Geschmacks —: er ist damit auf der entgegengesetzten Bahn und will gerade das Umgekehrte von dem, was die
 Dichter einer vornehmen Kultur, wie zum Beispiel Corneille, von sich wollten. Denn diese hatten ihren Genuß
-und Ehrgeiz daran, ihre vielleicht noch stärker gearteten Sinne mit dem Begriffe zu
+und Ehrgeiz daran, ihre vielleicht noch stärker gearteten Sinne mit dem **Begriffe** zu
 überwältigen und gegen die brutalen Ansprüche von Farben, Tönen und Gestalten einer feinen hellen Geistigkeit
 zum Siege zu verhelfen: womit sie, wie mich dünkt, auf der Spur der großen Griechen waren, so wenig sie gerade
 davon gewußt haben mögen. Genau Das, was unserem plump sinnlichen und naturalistischen Geschmack von Heute
-Mißbehagen an den Griechen und den älteren Franzosen macht, — war die Absicht ihres
+Mißbehagen an den Griechen und den älteren Franzosen macht, — war die **Absicht** ihres
 künstlerischen Wollens, auch ihr Triumph: denn sie bekämpften und besiegten gerade den „Sinnen-Pöbel“, dem zu
 einer Kunst zu verhelfen der Ehrgeiz unserer Dichter, Maler und Musiker ist. Zu diesem künstlerischen Wollen
 Victor Hugos stimmt sein politisches und moralisches: er ist flach und demagogisch, vor allen großen Worten
@@ -188,7 +188,7 @@ der demokratischen Bewegung. Sein Genie wirkt auf die Masse nach Art eines alkoh
 zugleich berauscht und dumm macht. — Dieselbe Gattung von Sympathien und Antipathien und manches Ähnliche in
 der Begabung besitzt ein anderer Fürsprecher des Volks, der Historiker Michelet, nur an Stelle der Maler-Augen
 eine bewunderungswürdige Fähigkeit, Gemüths-Zustände bei sich nachzubilden, nach Art der Musiker: — im
-unklaren D<eutschland> würde man ihn heute daraufhin als einen Menschen des Mitleids ansprechen. Dieses „Mitleid“ ist jedenfalls etwas Zudringliches; in seinem Verkehr und noch
+unklaren D&amp;lt;eutschland&amp;gt; würde man ihn heute daraufhin als einen Menschen des **Mitleids** ansprechen. Dieses „Mitleid“ ist jedenfalls etwas Zudringliches; in seinem Verkehr und noch
 in seiner Verehrung vergangener Menschen liegt viel Unbescheidenheit, ja, es scheint mir bisweilen, als ob er
 an seine Gefühls-Arbeit mit einem Eifer herangeht, daß er dazu nöthig hat, seinen Rock auszuziehen. Seine
 Augen sehen nicht in die Tiefe: alle leicht „begeisterten“ Geister waren bisher oberflächlich. Er ist mir zu
@@ -222,11 +222,11 @@ die Ehe an!
 Man ist jetzt überall bemüht, von dem eigentlichen großen Einflusse, den Kant in Europa ausgeübt hat, den
 Blick abzuziehen — und namentlich über den Werth, welchen er sich selber zugestand, klüglich
 hinwegzuschlüpfen. Kant war vor Allem und zuerst stolz auf seine Kategorien-Tafel und sagte, mit dieser Tafel
-in den Händen: „das ist das Schwerste, was jemals zum Behufe der Metaphysik unternommen werden konnte“ (man verstehe doch dies „werden konnte“!) — er war stolz darauf, im Menschen ein neues
+in den Händen: „das ist das Schwerste, was jemals zum Behufe der Metaphysik unternommen werden **konnte**“ (man verstehe doch dies „werden konnte“!) — er war stolz darauf, im Menschen ein neues
 Vermögen, das Vermögen zu synthetischen Urtheilen a priori entdeckt zu haben. Es geht uns hier nichts an, wie
 sehr er sich hierin selber betrog: aber die deutsche Philosophie, so wie sie im ganzen Europa seit hundert
 Jahren bewundert wird und gewirkt hat, hängt an diesem Stolze und dem Wetteifer der Jüngeren womöglich etwas
-noch Stolzeres zu entdecken — und jedenfalls neue Vermögen! Es machte den eigentlichen Ruhm der deutschen Philosophie bisher aus, daß man durch sie an eine Art „intuitiver und instinktiver
+noch Stolzeres zu entdecken — und jedenfalls neue Vermögen! Es machte den eigentlichen **Ruhm** der deutschen Philosophie bisher aus, daß man durch sie an eine Art „intuitiver und instinktiver
 Erfassung der Wahrheit“ glauben lernte; und auch Schopenhauer, so sehr er Fichten, Hegeln und Schelling
 zürnte, war im Grunde auf derselben Bahn, als er an einem alten bekannten Vermögen, dem Willen ein neues
 Vermögen entdeckte — nämlich selber „das Ding an sich“ zu sein. Das hieß in der That kräftig zugreifen und
@@ -234,16 +234,16 @@ seine Finger nicht schonen, mitten hinein ins „Wesen“! Schlimm genug daß di
 erwies, und, infolge verbrannter Finger, durchaus der Pessimismus und die Verneinung des Willens zum Leben
 nöthig erschien! Aber dieses Schicksal Schopenhauers ist ein Zwischenfall, der für die gesammte Bedeutung der
 deutschen Philosophie, für ihren höheren „Effekt“, ohne Einfluß blieb: in der Hauptsache nämlich bedeutete sie
-in ganz Europa die frohlockende Reaktion gegen den Rationalismus des Descartes und gegen
+in ganz Europa die **frohlockende** Reaktion gegen den Rationalismus des Descartes und gegen
 die Skepsis der Engländer, zu Gunsten des „Intuitiven“, „Instinktiven“ und alles „Guten, Wahren und Schönen“.
-Man meinte, der Weg zur Erkenntniß sei nunmehr abgekürzt, man könne unmittelbar den
+Man meinte, der Weg zur Erkenntniß sei nunmehr **abgekürzt**, man könne unmittelbar den
 „Dingen“ zu Leibe gehen, man hoffte „Arbeit zu sparen“: und alles Glück, welches edle Müßiggänger,
 Tugendhafte, Träumerische, Mystiker, Künstler, Dreiviertels-Christen, politische Dunkelmänner und
-metaphysische Begriffs-Spinnen zu empfinden fähig sind, wurde den Deutschen zur Ehre angerechnet. Der gute Ruf der Deutschen war auf einmal in Europa hergestellt: durch ihre Philosophen! — Ich
+metaphysische Begriffs-Spinnen zu empfinden fähig sind, wurde den Deutschen zur Ehre angerechnet. Der gute **Ruf** der Deutschen war auf einmal in Europa hergestellt: durch ihre Philosophen! — Ich
 hoffe, man weiß es doch noch, daß die Deutschen in Europa einen schlechten Ruf hatten? Daß man bei ihnen an
 servile und erbärmliche Eigenschaften, an die Unfähigkeit zum „Charakter“, an die berühmte Bedienten-Seele
 glaubte? Mit Einem Male aber lernte man sagen: „die Deutschen sind tief, die Deutschen sind tugendhaft, — man
-lese nur ihre Philosophen“! Im letzten Grunde war es die verhaltene und lange aufgestaute Frömmigkeit der Deutschen, welche in ihrer Philosophie endlich explodirte, unklar und ungewiß
+lese nur ihre Philosophen“! Im letzten Grunde war es die verhaltene und lange aufgestaute **Frömmigkeit** der Deutschen, welche in ihrer Philosophie endlich explodirte, unklar und ungewiß
 freilich, wie alles Deutsche, nämlich bald in pantheistischen Dämpfen, wie bei Hegel und Schelling, als
 Gnosis, bald mystisch und weltverneinend, wie bei Schopenhauer: in der Hauptsache aber eine christliche
 Frömmigkeit, und nicht eine heidnische, — für welche Goethe und vor ihm schon Spinoza so viel guten Willen
@@ -252,25 +252,25 @@ gezeigt haben.
 [38[8]](javascript:;)
 ---------------------
 
-Der Wille. — In jedem Wollen ist eine Mehrheit von Gefühlen
-vereinigt: das Gefühl des Zustandes, von dem weg, das Gefühl des Zustandes, zu dem hin, das Gefühl von diesem „weg und hin“ selber, das Gefühl der Dauer dabei, zuletzt noch
+**Der Wille.** — In jedem Wollen ist eine Mehrheit von **Gefühlen**
+vereinigt: das Gefühl des Zustandes, von dem **weg**, das Gefühl des Zustandes, zu dem **hin**, das Gefühl von diesem „weg und hin“ selber, das Gefühl der Dauer dabei, zuletzt noch
 ein begleitendes Muskel-Gefühl, welches, auch ohne daß wir Arme und Beine in Bewegung setzen, durch eine Art
 Gewohnheit sobald wir „wollen“ sein Spiel beginnt. Wie also das Gefühl und zwar vielerlei Fühlen als
-Ingrediens des Willens anzuerkennen ist, so zweitens auch noch das Denken: in jedem
+Ingrediens des Willens anzuerkennen ist, so zweitens auch noch das **Denken**: in jedem
 Willensakte commandirt ein Gedanke, — und man soll ja nicht glauben, diesen Gedanken von dem Wollen selber
 abscheiden zu können, wie als ob dann noch Wollen übrig bliebe. Drittens ist der Wille nicht nur ein Complex
-von Fühlen und Denken, sondern vor Allem noch ein Affect: und zwar jener Affect des
+von Fühlen und Denken, sondern vor Allem noch ein **Affect**: und zwar jener Affect des
 Commandos. Das was Freiheit des Willens genannt wird, ist wesentlich das Überlegenheits-Gefühl in Hinsicht auf
 den der gehorchen muß: „ich bin frei, er muß gehorchen“ — dieß Bewußtsein steckt in jedem Willen, und eben
 jene Spannung der Aufmerksamkeit, jener klare Blick, der ausschließlich Eins ins Auge faßt, jene
 ausschließliche Werthschätzung „jetzt thut dieß Noth und nichts anderes“, jene innere Gewißheit darüber, daß
-gehorcht wird, wie dieß Alles zum Zustande des Befehlenden gehört. Ein Mensch der will —,
+gehorcht wird, wie dieß Alles zum Zustande des Befehlenden gehört. Ein Mensch der **will** —,
 befiehlt einem Etwas in sich, das gehorcht, oder von dem er glaubt daß es gehorchen wird. Nun aber beachte
 man, was das Wesentlichste am „Willen“ ist, an diesem so complicirten Dinge, für welches das Volk Ein Wort
 hat. Insofern wir im gegebenen Falle zugleich die Befehlenden und Gehorchenden sind und als Gehorchende die
-Gefühle des Widerstehens, Drängens, Drückens, Bewegens kennen, welche sofort nach dem
+Gefühle des Widerstehens, Drängens, Drückens, **Bewegens** kennen, welche sofort nach dem
 Akte des Willens zu beginnen pflegen; insofern wir aber die Gewohnheit haben mit dem synthetischen Begriff
-„Ich“ uns über diese Zweiheit hinweg zu setzen, hinweg zu täuschen, hat sich an das
+„Ich“ uns über diese Zweiheit hinweg zu setzen, **hinweg zu täuschen**, hat sich an das
 Wollen noch eine ganze Kette von irrthümlichen Schlüssen und folglich von falschen Werthschätzungen des
 Willens selber angehängt: — so daß der Wollende in gutem Glauben glaubt, sein Wille selber sei zur gesamten
 Aktion das eigentliche und ausreichende mobile. Und weil in den allermeisten Fällen nur gewollt worden ist, wo
@@ -284,7 +284,7 @@ gemischten Zustand des Wollenden, der befiehlt und zugleich als Ausführender de
 Lustgefühle des ausführenden erfolgreichen Werkzeugs — des dienstbaren Willens und Unterwillens — zu seinem
 Lustgefühle als Befehlender hinzu. — Dieses verflochtene Nest von Gefühlen, Zuständen und falschen Annahmen,
 welches vom Volk mit Einem Worte und wie Eine Sache bezeichnet wird, weil es plötzlich und auf „Ein Mal“ da
-ist und zu den allerhäufigsten, folglich „bekanntesten“ Erlebnissen gehört: der Wille, so
+ist und zu den allerhäufigsten, folglich „bekanntesten“ Erlebnissen gehört: **der Wille**, so
 wie ich ihn hier beschrieben habe — sollte man es glauben, daß er noch niemals beschrieben worden ist? Daß das
 plumpe Vorurtheil des Volks bisher noch in jeder Philosophie ungeprüft zu Recht bestanden hat? Daß darüber,
 was „wollen“ sei, es unter den Philosophen keine Verschiedenheit der Meinung gab, weil alle glaubten, hier
@@ -293,7 +293,7 @@ daß alle Logiker noch die Dreieinigkeit „Denken, Fühlen, Wollen“ lehren, w
 Denken enthalte? — Nach alledem erscheint Schopenhauers großer Fehlgriff, als er den Willen wie die
 bekannteste Sache von der Welt, ja wie die eigentlich und allein bekannte Sache nahm, weniger toll und
 willkürlich: er hat ein ungeheures Vorurtheil aller bisherigen Philosophen, ein Volks-Vorurtheil, nur
-übernommen und, wie es im Allgemeinen Philosophen thun, übertrieben. —
+übernommen und, wie es im Allgemeinen Philosophen thun, **übertrieben**. —
 
 [38[9]](javascript:;)
 ---------------------
@@ -303,28 +303,28 @@ des Zerstörens, des Zugrunderichtens, des langsam Zugrunderichtens erstreben le
 durchaus die schaffende That, etwa durch den Mangel an Werkzeugen oder sonstigen Unfug des Zufalls, versagt
 bleibt. In dem Haushalte solcher Seelen giebt es dann kein Entweder-Oder mehr; und vielleicht müssen sie
 gerade das was sie bis dahin am Meisten geliebt haben, mit der Lust eines Teufels auf eine feine langwierige
-Art <verderben.>
+Art &amp;lt;verderben.&amp;gt;
 
 [38[10]](javascript:;)
 ----------------------
 
 Der Mensch ist ein Formen- und Rhythmen-bildendes Geschöpf; er ist in nichts besser geübt und es scheint daß
-er an nichts mehr Lust hat als am Erfinden von Gestalten. Man
-beobachte nur, womit sich unser Auge sofort beschäftigt sobald es nichts mehr zu sehen bekommt: es schafft sich Etwas zu sehen. Muthmaßlich thut im gleichen Falle unser Gehör nichts anderes:
-es übt sich. Ohne die Verwandlung der Welt in Gestalten und Rhythmen gäbe es für uns
+er an nichts **mehr** Lust hat als am **Erfinden** von Gestalten. Man
+beobachte nur, womit sich unser Auge sofort beschäftigt sobald es nichts mehr zu sehen bekommt: es **schafft** sich Etwas zu sehen. Muthmaßlich thut im gleichen Falle unser Gehör nichts anderes:
+es **übt** sich. Ohne die Verwandlung der Welt in Gestalten und Rhythmen gäbe es für uns
 nichts „Gleiches“, also auch nichts Wiederkehrendes, also auch keine Möglichkeit der Erfahrung und Aneignung,
-der Ernährung. In allem Wahrnehmen, das heißt dem ursprünglichsten Aneignen, ist das
+der **Ernährung**. In allem Wahrnehmen, das heißt dem ursprünglichsten Aneignen, ist das
 wesentliche Geschehen ein Handeln, strenger noch: ein Formen-Aufzwingen: — von „Eindrücken“ reden nur die
 Oberflächlichen. Der Mensch lernt seine Kraft dabei als eine widerstrebende und mehr noch als eine bestimmende
 Kraft kennen — abweisend, auswählend, zurechtformend, in seine Schemata einreihend. Es ist etwas Aktives
-daran, daß wir einen Reiz überhaupt annehmen und daß wir ihn als solchen Reiz annehmen.
+daran, daß wir einen Reiz überhaupt annehmen und daß wir ihn als **solchen** Reiz annehmen.
 Dieser Aktivität ist es zu eigen, nicht nur Formen, Rhythmen und Aufeinanderfolgen der Formen zu setzen,
 sondern auch das geschaffene Gebilde in Bezug auf Einverleibung oder Abweisung abzuschätzen. So entsteht unsre
 Welt, unsre ganze Welt: und dieser ganzen uns allein zugehörigen, von uns erst geschaffenen Welt entspricht
 keine vermeinte „eigentliche Wirklichkeit“, kein „An sich der Dinge“: sondern sie selber ist unsre einzige
-Wirklichkeit, und „Erkenntniß“ erweist sich, dergestalt betrachtet, nur als ein Mittel der
-Ernährung. Aber wir sind schwer zu ernährende Wesen und haben überall Feinde und gleichsam
-Unverdauliches —: darüber ist die menschliche Erkenntniß fein geworden und zuletzt so
+Wirklichkeit, und „Erkenntniß“ erweist sich, dergestalt betrachtet, nur als ein **Mittel der
+Ernährung**. Aber wir sind schwer zu ernährende Wesen und haben überall Feinde und gleichsam
+Unverdauliches —: darüber ist die menschliche Erkenntniß **fein** geworden und zuletzt so
 stolz noch auf ihre Feinheit, daß sie es nicht hören mag, sie sei kein Ziel, sondern ein Mittel oder gar ein
 Werkzeug des Magens, — wenn nicht selber eine Art von Magen! — —
 
@@ -332,7 +332,7 @@ Werkzeug des Magens, — wenn nicht selber eine Art von Magen! — —
 ----------------------
 
 Der höhere philosophische Mensch, der um sich Einsamkeit hat, nicht weil er allein sein will, sondern weil er
-Etwas ist, das nicht Seinesgleichen findet: welche Gefahren und neuen Leiden sind ihm
+Etwas **ist**, das nicht Seinesgleichen findet: welche Gefahren und neuen Leiden sind ihm
 gerade heute aufgespart, wo man den Glauben an die Rangordnung verlernt hat und folglich diese Einsamkeit
 nicht zu ehren und nicht zu verstehen weiß! Ehemals heiligte sich der Weise beinah durch ein solches
 Beiseite-Gehen für das Gewissen der Menge, — heute sieht sich der Einsiedler wie mit einer Wolke trüber
@@ -344,8 +344,8 @@ etwa durch bequemere Lagen, durch geordnetere, zuverlässigere Gesellschaft vor 
 ihn thätig sind, und zwar im besten Glauben an ihr Recht dazu! Es ist für Menschen dieser unverständlichen
 Vereinsamung nöthig, sich tüchtig und herzhaft auch in den Mantel der äußeren, der räumlichen Einsamkeit zu
 wickeln: das gehört zu ihrer Klugheit. Selbst List und Verkleidung werden heute noth thun, damit ein solcher
-Mensch sich selber erhalte, sich selber oben erhalte, inmitten der niederziehenden
-gefährlichen Stromschnellen der Zeit. Jeden Versuch, es in der Gegenwart, mit der Gegenwart auszuhalten, jede Annäherung an diese Menschen und Ziele von Heute muß er wie seine
+Mensch sich selber erhalte, sich selber **oben** erhalte, inmitten der niederziehenden
+gefährlichen Stromschnellen der Zeit. Jeden Versuch, es **in** der Gegenwart, **mit** der Gegenwart auszuhalten, jede Annäherung an diese Menschen und Ziele von Heute muß er wie seine
 eigentliche Sünde abbüßen: und er mag die verborgene Weisheit seiner Natur anstaunen, welche ihn bei allen
 solchen Versuchen sofort durch Krankheit und schlimme Unfälle wieder zu sich selber zurückrief.
 
@@ -372,12 +372,12 @@ aus dem Stillsten, Starrsten, Kältesten hinaus in das Glühendste, Wildeste, Si
 dann wieder aus der Fülle heimkehrend zum Einfachen, aus dem Spiel der Widersprüche zurück bis zur Lust des
 Einklangs, sich selber bejahend noch in dieser Gleichheit seiner Bahnen und Jahre, sich selber segnend als
 das, was ewig wiederkommen muß, als ein Werden, das kein Sattwerden, keinen Überdruß, keine Müdigkeit kennt —:
-diese meine dionysische Welt des Ewig-sich-selber-Schaffens, des
+diese meine **dionysische** Welt des Ewig-sich-selber-Schaffens, des
 Ewig-sich-selber-Zerstörens, diese Geheimniß-Welt der doppelten Wollüste, dieß mein Jenseits von Gut und Böse,
 ohne Ziel, wenn nicht im Glück des Kreises ein Ziel liegt, ohne Willen, wenn nicht ein Ring zu sich selber
-guten Willen hat, — wollt ihr einen Namen für diese Welt? Eine Lösung für alle ihre Räthsel? ein Licht auch für euch, ihr Verborgensten,
-Stärksten, Unerschrockensten, Mitternächtlichsten? — Diese Welt ist der Wille zur Macht — und
-nichts außerdem! Und auch ihr selber seid dieser Wille zur Macht — und nichts außerdem!
+guten Willen hat, — wollt ihr einen **Namen** für diese Welt? Eine **Lösung** für alle ihre Räthsel? ein **Licht** auch für euch, ihr Verborgensten,
+Stärksten, Unerschrockensten, Mitternächtlichsten? — **Diese Welt ist der Wille zur Macht — und
+nichts außerdem!** Und auch ihr selber seid dieser Wille zur Macht — und nichts außerdem!
 
 [38[13]](javascript:;)
 ----------------------
@@ -390,8 +390,8 @@ festzuhalten haben, sodann aber solche, welche selber Gesetzgeber von Werthschä
 suchen sich der vorhandenen oder vergangenen Welt zu bemächtigen, indem sie dieselbe durch Zeichen
 zusammenfassen und abkürzen. Diesen Forschern liegt es ob, alles bisher Geschehene und Geschätzte
 übersichtlich, überdenkbar, faßbar, handlich zu machen, die Vergangenheit zu überwältigen, alles Lange, ja die
-Zeit selbst abzukürzen, eine große und wundervolle Aufgabe. Die eigentlichen Philosophen aber
-sind Befehlende und Gesetzgeber, sie sagen: so soll es sein! sie bestimmen erst
+Zeit selbst abzukürzen, eine große und wundervolle Aufgabe. Die eigentlichen Philosophen **aber
+sind Befehlende und Gesetzgeber**, sie sagen: so **soll** es sein! sie bestimmen erst
 das Wohin und Wozu des Menschen und verfügen dabei über die Vorarbeit der philosophischen Arbeiter, jener
 Überwältiger der Vergangenheit. Diese zweite Art von Philosophen geräth selten; und in der That ist ihre Lage
 und Gefahr ungeheuer. Wie oft haben sie sich absichtlich die Augen zugebunden, um nur den schmalen Saum
@@ -406,8 +406,8 @@ Beispiel Plato, als er sich überredete, das Gute, wie er es wollte, sei nicht d
 Gute an sich, der ewige Schatz, den nur irgend ein Mensch Namens Plato auf seinem Wege gefunden habe! In viel
 gröberen Formen waltet dieser selbe Wille zur Blindheit bei den Religions-Stiftern: ihr „du sollst“ darf
 durchaus ihren Ohren nicht klingen wie „ich will“, — nur als dem Befehle eines Gottes wagen sie ihrer Aufgabe
-nachzukommen, nur als „Eingebung“ ist ihre Gesetzgebung der Werthe eine tragbare Bürde,
-unter der ihr Gewissen nicht zerbricht. — Sobald nun jene zwei Trostmittel, das Platos
+nachzukommen, nur als „Eingebung“ ist ihre Gesetzgebung der Werthe eine **tragbare** Bürde,
+unter der ihr Gewissen **nicht** zerbricht. — Sobald nun jene zwei Trostmittel, das Platos
 und das Muhameds, dahin gefallen sind und kein Denker mehr an der Hypothese eines „Gottes“ oder „ewiger
 Werthe“ sein Gewissen erleichtern kann, erhebt sich der Anspruch des Gesetzgebers neuer Werthe zu einer neuen
 und noch nicht erreichten Furchtbarkeit. Nunmehr werden jene Auserkornen, vor denen die Ahnung einer solchen
@@ -428,12 +428,12 @@ als Geschenk. —
 Was uns von allen Platonischen und Leibnitzischen Denkweisen am Gründlichsten abtrennt, das ist: wir glauben
 an keine ewigen Begriffe, ewigen Werthe, ewigen Formen, ewigen Seelen; und Philosophie, soweit sie
 Wissenschaft und nicht Gesetzgebung ist, bedeutet uns nur die weiteste Ausdehnung des Begriffs „Historie“. Von
-der Etymologie und der Geschichte der Sprache her nehmen wir alle Begriffe als geworden,
-viele als noch werdend; und zwar so, daß die allgemeinsten Begriffe, als die falschesten,
+der Etymologie und der Geschichte der Sprache her nehmen wir alle Begriffe als **geworden**,
+viele als noch werdend; und zwar so, daß die allgemeinsten Begriffe, als die **falschesten**,
 auch die ältesten sein müssen. „Sein“, „Substanz“ und „Unbedingtes“, „Gleichheit“, „Ding“ —: das Denken erfand
 sich zuerst und zu ältest diese Schemata, welche thatsächlich der Welt des Werdens am gründlichsten
 widersprachen, aber ihr von vornherein, bei der Stumpfheit und Einerleiheit des anfänglichen, noch
-unterthierischen Bewußtseins, zu entsprechen schienen: jede „Erfahrung“ schien sie immer
+unterthierischen Bewußtseins, zu entsprechen **schienen**: jede „Erfahrung“ schien sie immer
 von Neuem und sie ganz allein zu unterstreichen. Die Gleichheit und Ähnlichkeit wurde allmälig, mit der
 Verschärfung der Sinne und der Aufmerksamkeit, mit der Entwickelung und dem Kampfe des vielfältigsten Lebens,
 immer seltener zugestanden: während für die niedersten Wesen Alles „ewig sich gleich“, „Eins“, „beharrlich“,
@@ -448,8 +448,8 @@ nachgebildet haben — man kann bei ihnen von einem Atavismus par excellence red
 diese Verwechselung, als sie lehrten, gerade die Zeichen, nämlich die „Ideen“ seien das wahrhaft Vorhandene,
 Unveränderliche und Allgültige. Während thatsächlich das Denken, bei der Wahrnehmung eines Dings, eine Reihe
 von Zeichen umläuft, welche das Gedächtniß ihm darbietet, und nach Ähnlichkeiten sucht; während der Mensch mit
-einem ähnlichen Zeichen das Ding als „bekannt“ ansetzt, faßt, ergreift: meinte er lange
-es eben damit zu begreifen. Das Greifen und Fassen, das Aneignen bedeutete ihm bereits
+einem ähnlichen Zeichen das Ding als „bekannt“ ansetzt, faßt, **ergreift**: meinte er lange
+es eben damit zu **begreifen**. Das Greifen und Fassen, das Aneignen bedeutete ihm bereits
 ein Erkennen, ein Zu-Ende-kennen; die Worte sogar in der menschlichen Sprache schienen lange — und scheinen
 dem Volke heute noch — nicht Zeichen sondern Wahrheiten in Betreff der damit bezeichneten Dinge zu sein. Je
 feiner die Sinne, je strenger die Aufmerksamkeit, je vielfältiger die Aufgaben des Lebens wurden, um so
@@ -470,7 +470,7 @@ Mythologie hat nunmehr ihre Zeit gehabt.
 
 Ich habe seltsame Dinge in Bezug auf Wirkung von meinen Büchern erlebt. Kürzlich traf der Brief eines alten
 vornehmen Holländers ein, welcher Menschliches Allzumenschliches als seinen treuesten Lebensgesellen
-betrachtet; die Geburt der Tragödie hat vielleicht im Leben R<ichard> W<agner>’s
+betrachtet; die Geburt der Tragödie hat vielleicht im Leben R&amp;lt;ichard&amp;gt; W&amp;lt;agner&amp;gt;’s
 den größten Glücks-Klang hervorgebracht, er war außer sich, und es giebt wunderschöne Dinge in der
 Götter-Dämmerung, welche er in diesem Zustande einer unerwarteten äußersten Hoffnung hervorgebracht hat.
 (Damals — — —
@@ -482,7 +482,7 @@ hören: auch setzt sein Verstehen eine solche philologische und mehr als philolo
 heute Niemand daran setzen wird, aus Mangel an Zeit.
 
 Ich selber bin mit der Thatsache sehr zufrieden, daß mein Geschmack in musicis und philosophicis, welcher
-1865 (wo ich vielleicht der einzige Deutsche war, der Sch<openhauer> und W<agner>
+1865 (wo ich vielleicht der einzige Deutsche war, der Sch&amp;lt;openhauer&amp;gt; und W&amp;lt;agner&amp;gt;
 gleich und — — — jetzt zum deutschen Geschmack gehört.
 
 Die Auswahl, welche man in Bezug auf meine Bücher macht giebt mir zu denken.
@@ -496,7 +496,7 @@ Attribute der Kraft zu geben: was beinahe dem Wagnerschen Stile den Charakter gi
 [38[17]](javascript:;)
 ----------------------
 
-Schopenh<auers> Perversität der Gesinnung und meine Geburt der Tragödie!
+Schopenh&amp;lt;auers&amp;gt; Perversität der Gesinnung und meine Geburt der Tragödie!
 
 [38[18]](javascript:;)
 ----------------------
@@ -512,8 +512,8 @@ begegne ich in einer kleinen Niederschrift aus meinem 13. Lebensjahre: dieselbe 
 Ursprung des Bösen. Meine Voraussetzung war, daß für einen Gott Etwas denken und Etwas schaffen Eins und
 Dasselbe sei. Nun schloß ich so: Gott hat sich selbst gedacht, damals als er die zweite Person der Gottheit
 schuf: um aber sich selber denken zu können mußte er erst seinen Gegensatz denken. Der Teufel hatte also in
-meiner Vorstellung ein ebensolches Alter wie der Sohn Gottes, sogar einen klareren Ursprung — und dieselbe Herkunft. Über die Frage, ob es einem Gott möglich sei seinen Gegensatz zu denken, half ich
-mir damit hinweg, zu sagen: ihm ist aber Alles möglich. Und zweitens: daß er es gethan
+meiner Vorstellung ein ebensolches Alter wie der Sohn Gottes, sogar einen klareren Ursprung — und dieselbe **Herkunft**. Über die Frage, ob es einem Gott möglich sei seinen Gegensatz zu denken, half ich
+mir damit hinweg, zu sagen: ihm ist aber Alles möglich. Und zweitens: **daß** er es gethan
 hat, ist eine Thatsache, falls die Existenz eines Gott-Sohns
 
 *Erratum:*Gott-Wesens  
@@ -529,17 +529,17 @@ ist, folglich war es ihm auch möglich, — — —
 Ohne ein leidenschaftliches Vergnügen an den Abenteuern der Erkenntniß wird es Einer schwerlich lange in
 ihrem gefahrvollen Reiche aushalten; und Jedem, der für derlei „Ausschweifungen“ zu feige oder zu keusch ist,
 sei es billigerweise zugestanden, sich auch daraus eine Tugend und ein Lob zurecht zu machen. Für die
-stärkeren Geister aber gilt jene Forderung, daß man zwar ein Mensch der Leidenschaft, aber auch der Herr seiner Leidenschaften sein müsse, auch hinsichtlich ihrer Leidenschaft zur Erkenntniß.
+stärkeren Geister aber gilt jene Forderung, daß man zwar ein Mensch der Leidenschaft, aber auch der **Herr** seiner Leidenschaften sein müsse, auch hinsichtlich ihrer Leidenschaft zur Erkenntniß.
 Wie Napoleon, zum Erstaunen Talleyrand’s, seinen Zorn zur gewählten Zeit bellen und brüllen ließ und dann
 wieder, ebenso plötzlich, zum Schweigen brachte, so soll es der starke Geist auch mit seinen wilden Hunden
 machen: er muß, wie heftig auch immer in ihm der Wille zur Wahrheit ist — es ist sein wildester Hund —, zur
 gewählten Zeit der leibhafte Wille zur Unwahrheit, der Wille zur Ungewißheit, der Wille zur Unwissenheit, vor
-Allem zur Narrheit sein können.
+Allem zur **Narrheit** sein **können**.
 
 [38[21]](javascript:;)
 ----------------------
 
-Die Abnahme der Anmuth. — Zu den Symptomen der allgemeinen Verhäßlichung, wie sie einem
+**Die Abnahme der Anmuth.** — Zu den Symptomen der allgemeinen Verhäßlichung, wie sie einem
 Zeitalter gemäß ist, das den Pöbel immer mehr zum Herrn macht, gehört nicht am wenigsten das wachsende
 Sich-gehen-lassen des Weibes und eine Art „Rückkehr zur Natur“ d.h. zum Pöbel: auch an Orten, an denen man
 früher auf vornehme und strenge Gewohnheiten wie auf sein Vorrecht hielt: z.B. an den Höfen. Man steht
@@ -552,4 +552,6 @@ verwundert vor dem Mangel an Feinheit selbst im Verkehr mit den liebenswürdigst
 Ein Garten, an dem selbst das Gitterwerk vergoldet ist, hat sich nicht nur gegen Diebe und Strolche zu
 schützen: seine schlimmsten Gefahren kommen ihm von seinen zudringlichen Bewunderern, die überall Etwas
 abbrechen und gar zu gern dies und jenes zum Andenken mitnehmen möchten. — Und merkt ihr es denn nicht, ihr
-Müssiggänger in meinen Gärten, daß ihr euch nicht einmal neben meinen Kräutern und Unkräutern rechtfertigen könnt, daß sie euch ins Gesicht sagen: fort, ihr Eindringlinge, ihr — — —
+Müssiggänger in meinen Gärten, daß ihr euch nicht einmal neben meinen Kräutern und Unkräutern **rechtfertigen** könnt, daß sie euch ins Gesicht sagen: fort, ihr Eindringlinge, ihr — — —
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [38[1]](javascript:;)
 ---------------------
 
-Prometheus und sein Geier sind vergessen worden, als man die alte Welt der Olympier und
+Prometheus und sein Geier sind **vergessen** worden, als man die alte Welt der Olympier und
 ihre Macht vernichtete.
 
 Prometheus erwartet seine Erlösung einmal vom Menschen.
@@ -42,25 +42,25 @@ und Erinnerung). Und wirklich lebt die Menschheit
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  wieder auf und Zeus mit
-ihr, letzterer aus einer Fabel im Mythus. Das fabelhafte Griechenthum verführt zum Leben
+ihr, letzterer aus einer **Fabel** im Mythus. Das fabelhafte Griechenthum verführt zum Leben
 — bis es
 
 *Erratum:*er  
 *lies:*es  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-, genauer erkannt, wieder davon abführt: sein
+, genauer erkannt, wieder davon **abführt**: sein
 Fundament wird als schrecklich und unnachahmlich erkannt. —
 
 (Prometheus hat den Menschen den Blick auf den Tod entzogen, jeder hält sich für ein unsterbliches Individuum
 und lebt thatsächlich anders, als ein Glied der Kette.)
 
-Periode des Misstrauens gegen Zeus und seinen Sohn; auch gegen Prometheus, weil er ihnen
+Periode des **Misstrauens** gegen Zeus und seinen Sohn; auch gegen Prometheus, weil er ihnen
 den Epimetheus geschickt hat.
 
 Vorbereitung des Chaos.
 
-Prometheus wird durch Epimetheus über seinen Fehler bei der Schaffung der Menschen belehrt. Er billigt seine eigne Strafe.
+Prometheus wird durch Epimetheus über seinen Fehler bei der Schaffung der Menschen belehrt. Er **billigt** seine eigne Strafe.
 
 Der Geier will nicht mehr fressen. Prometheus’ Leber wächst zu sehr.
 
@@ -75,7 +75,7 @@ erst vergehen.
 ---------------------
 
 Zur Form des Ganzen: der Geier spricht allein und erzählt: ich bin der Geier des Prometheus und durch die
-seltsamsten Umstände seit gestern frei. Als Zeus mir aufgab, Prometheus’ Leber zu
+seltsamsten Umstände seit gestern **frei**. Als Zeus mir aufgab, Prometheus’ Leber zu
 fressen, wollte er mich entfernen, denn er war eifersüchtig wegen des Ganymed.
 
 [38[3]](javascript:;)
@@ -98,7 +98,7 @@ Die Menschen durch das Christenthum, wie die griechischen im Hades, so schattenh
 [38[6]](javascript:;)
 ---------------------
 
-Bei des Prometh<eus> Bildung der Menschen hat er versehn, dass Kraft und Erfahrung des Menschen
+Bei des Prometh&amp;lt;eus&amp;gt; Bildung der Menschen hat er versehn, dass Kraft und Erfahrung des Menschen
 zeitlich auseinanderliegen: alle Weisheit hat etwas Altersschwaches.
 
 [38[7]](javascript:;)
@@ -114,3 +114,5 @@ Dionysus-Überwinder. Prometheus sieht, wie alle Menschheit zum Schatten geworde
 furchtsam, böse. Aus Mitleiden schickt er ihr den Epimetheus mit der verführerischen Pandora (griechische
 Cultur). Jetzt wird es unter den Menschen ganz gespenstisch und ekelhaft und breiartig. Prometheus verzweifelt
 [+ + +]
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

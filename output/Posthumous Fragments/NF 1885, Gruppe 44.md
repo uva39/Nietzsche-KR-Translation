@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [44[1]](javascript:;)
 ---------------------
 
-Die Capitel.
+**Die Capitel.**
 
 Von der Auslegung.
 
@@ -28,8 +28,8 @@ Die ewige Wiederkunft.
 
 Der Aberglaube der kritischen Philosophen.
 
-Kritik Pascals: er hat bereits die christlich-moralischen
-Auslegungen
+Kritik Pascals: er hat bereits die christlich-**moralischen
+Auslegungen**
 in der
 
 *Erratum:*um die  
@@ -52,20 +52,20 @@ Die Deutschen haben keine Prosa, welche klingt und springt.
 [44[4]](javascript:;)
 ---------------------
 
-Die klassische Prosa der Franzosen von 1648: was zusammenkommen muß.
+Die klassische Prosa der Franzosen von 1648: **was** zusammenkommen muß.
 
 [44[5]](javascript:;)
 ---------------------
 
-Die Abwesenheit der moral<ischen> Zucht; man hat die M<enschen> wachsen lassen.
-Vielleicht sind die M<enschen> von Port-Royal wie künstliche Gärten.
+Die Abwesenheit der moral&amp;lt;ischen&amp;gt; Zucht; man hat die M&amp;lt;enschen&amp;gt; wachsen lassen.
+Vielleicht sind die M&amp;lt;enschen&amp;gt; von Port-Royal wie **künstliche** Gärten.
 
-Es fehlt Autorität.
+Es fehlt **Autorität.**
 
-Es fehlt die Mäßigung innerhalb ruhiger Horizonte; — man hat aus der Unendlichkeit eine
+Es fehlt die **Mäßigung** innerhalb ruhiger Horizonte; — man hat aus der Unendlichkeit eine
 Art Betrunkenheit gemacht.
 
-Es fehlt die Feinheit in der Beurtheilung.
+Es fehlt die **Feinheit** in der Beurtheilung.
 
 Es herrscht ein Chaos von widersprechenden Werthschätzungen.
 
@@ -79,19 +79,19 @@ Manchen, eine gewisse Geistigkeit bei Anderen, die Liebe zu einem Ideal ohne Fle
 Demüthigung an Stelle des Selbstgefühls, ängstliche Vorsicht vor den Begierden, die Lostrennung von den
 gewöhnlichen Pflichten (wodurch wieder ein höheres Ranggefühl geschaffen wird) die Aufregung eines beständigen
 Kampfes um ungeheure Dinge, die Gewohnheit der Gefühls-Effusion — alles einen Typus zusammensetzt: in ihm
-überwiegt die Reizbarkeit eines verkümmernden Leibes, aber die Nervosität und ihre
-Inspiration wird anders interpretirt. Der Geschmack dieser Art
+überwiegt die **Reizbarkeit** eines verkümmernden Leibes, aber die Nervosität und ihre
+Inspiration wird anders **interpretirt**. Der **Geschmack** dieser Art
 Naturen geht einmal 1) auf das Spitzfindige 2) auf das Blumige 3) auf die extremen Gefühle. — Die natürlichen
-Hänge befriedigen sich doch, aber unter einer neuen Form der Interpretation z.B. als
-„Rechtfertigung vor Gott“, „Erlösungsgefühl in der Gnade“ (— jedes unabweisbare Wohlgefühl wird so interpretirt! —) der Stolz, die Wollust usw. — Allgemeines Problem: was wird aus
+Hänge befriedigen sich **doch**, aber unter einer neuen Form der Interpretation z.B. als
+„Rechtfertigung vor Gott“, „Erlösungsgefühl in der Gnade“ (— jedes unabweisbare **Wohlgefühl** wird so interpretirt! —) der Stolz, die Wollust usw. — Allgemeines Problem: was wird aus
 dem Menschen, der sich das Natürliche verlästert und praktisch verleugnet und verkümmert? Thatsächlich erweist
-sich der Christ als eine übertreibende Form der Selbstbeherrschung: um seine Begierden zu
+sich der Christ als eine **übertreibende** Form der Selbstbeherrschung: um seine Begierden zu
 bändigen, scheint er nöthig zu haben, sie zu vernichten oder zu kreuzigen. —
 
-Die epikureische Art des Christen und die stoische Art — zur ersteren gehört François de
+Die **epikureische Art des Christen und die stoische Art** — zur ersteren gehört François de
 Sales, zur letzteren Pascal
 
-Sieg Epicurs — aber gerade diese Art Mensch wird schlecht verstanden und muß schlecht verstanden werden. Die stoische Art (welche es sehr nöthig hat zu kämpfen und folglich den Werth des Kämpfenden über die Gebühr schätzt —) verleumdet immer den
+Sieg Epicurs — aber gerade diese Art Mensch wird schlecht verstanden und **muß** schlecht verstanden werden. Die stoische Art (welche es sehr nöthig hat zu kämpfen und **folglich** den Werth des Kämpfenden über die Gebühr schätzt —) verleumdet immer den
 „Epicur“!
 
 [44[7]](javascript:;)
@@ -100,26 +100,26 @@ Sieg Epicurs — aber gerade diese Art Mensch wird schlecht verstanden und muß 
 Das griechisch-römische Altherthum hatte eine tyrannische und übertreibende Anti-Natur-Moral nöthig; die
 Germanen ebenfalls, in anderer Hinsicht.
 
-Unsre jetzige Art Mensch entbehrt eigentlich der Zucht und der
+**Unsre** jetzige Art Mensch **entbehrt** eigentlich der Zucht und der
 strengen Disciplin; die Gefahr ist dabei nicht groß, weil die Art Mensch schwächer ist als frühere und
 andrerseits, weil die unbewußten Zuchtmeister (wie Fleiß, der Ehrgeiz im Vorwärtskommen, die bürgerliche
-Achtbarkeit) sehr hemmend wirken und im Zaume halten. — Aber wie Menschen aus der Zeit
+Achtbarkeit) sehr hemmend wirken und im Zaume halten. — Aber **wie** Menschen aus der Zeit
 Pacals zusammengehalten werden mußten!
 
-Das überflüssige
+Das **überflüssige**
 
-*Erratum:*überflüßige  
-*lies:*überflüssige  
+*Erratum:***überflüßige**  
+*lies:***überflüssige**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Christenthum: dort, wo keine
-extremen Mittel mehr nöthig sind! Da wird alles falsch, und jedes Wort, jede christliche
+extremen Mittel mehr **nöthig** sind! Da wird alles falsch, und jedes Wort, jede christliche
 Perspective eine Tartüfferie und Schönrednerei.
 
 [44[8]](javascript:;)
 ---------------------
 
-Das neue Japan.
+**Das neue Japan.**
 
 Ich las mit vieler Bosheit der Hintergedanken, was ein deutscher Anarchist unter dem Begriff „freie
 Gesellschaft“ — — —
@@ -150,9 +150,11 @@ Guckkästen steht. — — —
 [44[9]\*](javascript:;)
 -----------------------
 
-Man erwäge, wie alles Leiden den M<enschen> auf sich zurückdrängt, ein Schaden gesetzt daß es
+Man erwäge, wie alles Leiden den M&amp;lt;enschen&amp;gt; auf sich zurückdrängt, ein Schaden gesetzt daß es
 klug macht sicherlich in eben dem Grade auch schlecht macht (eng, kleinlich, argwöhnisch, lieblos — — —
 
-Denn deren Zahl ist immer klein: die Anderen aber, die Leidenden, haben nichts, was sie in dem Maaße von den schlimmen Folgen vielen Leidens heilt und — — —
+Denn deren Zahl ist immer klein: die Anderen aber, die Leidenden, haben nichts, was sie in **dem** Maaße von den schlimmen Folgen vielen Leidens heilt und — — —
 
 \* Februar 1886 entstanden
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

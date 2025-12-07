@@ -19,9 +19,9 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 Das von Vorn Anfangen ist immer eine Täuschung: selbst das was uns zu diesem angeblichen „Anfang“ trieb, ist
 Wirkung und Resultat des Vorhergehenden. Aber ein so starkes und entscheidendes Abbrechen wird ein Zeichen
 sein von einem starken und übermässigen ehemaligen Fördern. Der Radikalismus unserer Meinungen und unsrer
-Wahrheit ist die Folge vom Radikalismus unsrer Irrthümer und Fehler. Das grosse Gesetz der Umsetzung — darin liegt aller sogenannte „Fortschritt“. Die moralische Beurtheilung müsste im Grund
+Wahrheit ist die Folge vom Radikalismus unsrer Irrthümer und Fehler. Das grosse Gesetz der **Umsetzung** — darin liegt aller sogenannte „Fortschritt“. Die moralische Beurtheilung müsste im Grund
 immer dieselbe sein. Nun nimmt aber der Verstand und die Erfahrung zu, die moralische Qualität setzt sich
-immer nur um. Zuletzt schätzen wir eine Lehre doch nach ihren Wirkungen, ob sie z.B. viel
+immer nur um. Zuletzt schätzen wir eine Lehre doch nach ihren **Wirkungen**, ob sie z.B. viel
 Menschen getödtet oder verdreht gemacht; das ist nicht gerecht. —
 
 [5[2]](javascript:;)
@@ -39,16 +39,16 @@ doch immer getrennter. Die Feindseligkeit zeigt sich dann bei kleinen Differenze
 [5[4]](javascript:;)
 --------------------
 
-Es ist genau neben einander zu stellen, weshalb Griechen und Philologen sich schwer verstehen müssen: dabei ist die Characteristik der Griechen mit zu geben.
+Es ist genau neben einander zu stellen, weshalb Griechen und Philologen sich schwer verstehen **müssen**: dabei ist die Characteristik der Griechen mit zu geben.
 
 [5[5]](javascript:;)
 --------------------
 
-Alle Religionen beruhen zuletzt doch auf gewissen physikalischen Annahmen, die vorher da
+Alle Religionen beruhen zuletzt doch auf gewissen physikalischen Annahmen, die **vorher** da
 sind und sich die Religion anpassen. Z.B. im Christenthum Gegensatz von Leib und Seele, unbedingte Wichtigkeit
 der Erde als der „Welt“, wunderhaftes Geschehen in der Natur. Sind erst die entgegengesetzten Anschauungen zur
 Herrschaft gekommen, z.B. strenges Naturgesetz, Hülflosigkeit und Überflüssigkeit aller Götter, engste
-Auffassung des Seelischen als eines leiblichen Prozesses — so ist es vorbei. Nun ruht das ganze Griechenthum auf solchen Anschauungen.
+Auffassung des Seelischen als eines leiblichen Prozesses — **so ist es vorbei**. Nun **ruht das ganze Griechenthum auf solchen Anschauungen**.
 
 [5[6]](javascript:;)
 --------------------
@@ -66,7 +66,7 @@ Auch die Tyrannen des Geistes sind fast immer ermordet worden und haben nur spä
 [5[8]](javascript:;)
 --------------------
 
-Übertragung der Bewegung ist Vererbung: das sage man sich bei der Wirkung der Griechen
+**Übertragung der Bewegung** ist Vererbung: das sage man sich bei der Wirkung der Griechen
 auf Philologen.
 
 [5[9]](javascript:;)
@@ -77,18 +77,18 @@ Wie man nur ein ganzes Volk verherrlichen und preisen kann! Die Einzelnen sind e
 [5[10]](javascript:;)
 ---------------------
 
-Es ist sehr viel Carikatur auch bei den Griechen, z.B. die Sorge um’s eigne Glück bei
+Es ist sehr viel **Carikatur** auch bei den Griechen, z.B. die Sorge um’s eigne Glück bei
 den Cynikern.
 
 [5[11]](javascript:;)
 ---------------------
 
 Mich interessirt allein das Verhältniss des Volkes zur Erziehung des Einzelnen; und da ist allerdings bei den
-Griechen Einiges sehr günstig für die Entwicklung des Einzelnen, doch nicht aus Güte des
+Griechen Einiges sehr günstig für die Entwicklung des Einzelnen, doch nicht aus **Güte** des
 Volkes, sondern aus dem Kampf der bösen Triebe.
 
-Man kann durch glückliche Erfindungen das grosse Individuum noch ganz anders und höher
-erziehen, als es bis jetzt durch die Zufälle erzogen wurde. Da liegen meine Hoffnungen: Züchtung der
+**Man kann durch glückliche Erfindungen das grosse Individuum noch ganz anders und höher
+erziehen, als es bis jetzt durch die Zufälle erzogen wurde.** Da liegen meine Hoffnungen: Züchtung der
 bedeutenden Menschen.
 
 [5[12]](javascript:;)
@@ -126,7 +126,7 @@ Geschichte kennen heisst jetzt: zu erkennen, wie es alle Menschen sich zu leicht
 eine Vorsehung glauben. Es giebt keine. Wenn die menschlichen Dinge wild und unordentlich gehen, so glaube
 nicht, dass ein Gott damit etwas bezweckt oder dass er sie zulässt. Wir können ungefähr übersehn, dass die
 Geschichte des Christenthums auf Erden einer der schrecklichsten Theile der Geschichte ist und dass es damit
-einmal vorbei sein muss. Freilich ragte im Christenthum gerade auch das Alterthum in
+einmal vorbei sein **muss**. Freilich ragte im Christenthum gerade auch das Alterthum in
 unsre Zeit hinein; und wenn es schwindet, schwindet das Verständniss des Alterthums noch mehr. Jetzt ist die
 beste Zeit es zu erkennen; uns leitet kein Vorurtheil zu Gunsten des Christenthums mehr, aber wir verstehen es
 noch und in ihm auch noch das Alterthum, soweit es auf einer Linie steht.
@@ -143,7 +143,7 @@ Philologen-Gelehrten nach. Die ganze Art hebt an mit der Sophistik des zweiten J
 
 Am Ausgange des Alterthums stehen noch ganz unchristliche Gestalten, die schöner reiner und harmonischer sind
 als alle christlichen, z.B. Proklos; die Mystik sein Synkretismos sind Dinge, die ihm gerade das Christenthum
-nicht vorwerfen darf. Jedenfalls wäre es mein Wunsch, mit denen zusammenzuleben. Denen gegenüber erscheint das Christenthum nur wie die roheste Vergröberung für den Haufen
+nicht vorwerfen darf. Jedenfalls wäre es mein Wunsch, mit **denen** zusammenzuleben. **Denen** gegenüber erscheint das Christenthum nur wie die roheste Vergröberung für den Haufen
 und die Ruchlosen hergerichtet.
 
 [5[19]](javascript:;)
@@ -155,35 +155,35 @@ ist allein noch übrig. Nur muss man darunter nicht Conjectural- und litterarhis
 [5[20]](javascript:;)
 ---------------------
 
-Die Unvernunft in den menschlichen Dingen ans Licht zu bringen, ohne jede Verschämtheit — das ist das Ziel unserer Brüder und Genossen. Dann
+**Die Unvernunft in den menschlichen Dingen ans Licht zu bringen**, ohne jede **Verschämtheit** — das ist das Ziel **unserer Brüder und Genossen**. Dann
 wird man zu unterscheiden haben, was davon fundamental und unverbesserlich ist, was noch verbessert werden
 kann. Aber jede „Vorsehung“ ist fernzuhalten: denn das ist ein Begriff, wodurch man es sich zu leicht macht.
-Den Athem dieser Absicht wünsche ich der Wissenschaft einzuflössen. Die Kenntniss des Menschen vorwärts zu bringen! Das Gute und Vernünftige im Menschen ist zufällig oder
+Den Athem **dieser** Absicht wünsche ich der Wissenschaft einzuflössen. Die **Kenntniss des Menschen** vorwärts zu bringen! Das Gute und Vernünftige im Menschen ist zufällig oder
 scheinbar oder die Gegenseite von etwas sehr Unvernünftigem. Es wird irgendwann einmal gar keinen Gedanken
-geben als Erziehung.
+geben als **Erziehung**.
 
 [5[21]](javascript:;)
 ---------------------
 
-Ergebung in die Nothwendigkeit lehre ich nicht — denn man müsste sie erst als nothwendig
+Ergebung in die **Nothwendigkeit** lehre ich nicht — denn man müsste sie erst als nothwendig
 kennen. Vielleicht giebt es vielfache Nothwendigkeiten; aber so im Allgemeinen ist es doch auch ein
 Faulbett.
 
 [5[22]](javascript:;)
 ---------------------
 
-Zeichen und Wunder werden nicht geglaubt; nur eine „Vorsehung“
+**Zeichen** und **Wunder** werden nicht geglaubt; nur eine „Vorsehung“
 braucht so etwas. Es giebt keine Hülfe weder im Gebet, noch in der Askese, noch in der Vision. Wenn dies alles
 Religion ist, so giebt es keine Religion mehr für mich.
 
 Meine Religion, wenn ich irgendetwas noch so nennen darf, liegt in der Arbeit für die Erzeugung des Genius;
-Erziehung ist alles zu Hoffende, alles Tröstende heisst Kunst. Erziehung ist Liebe zum Erzeugten, ein Überschuss von Liebe über die Selbstliebe hinaus. Religion ist „Lieben über uns hinaus“. Das Kunstwerk ist das Abbild einer solchen Liebe
-über sich hinaus und ein volkommnes.
+Erziehung ist alles zu Hoffende, alles Tröstende heisst Kunst. **Erziehung** ist **Liebe zum Erzeugten**, ein Überschuss von Liebe über die Selbstliebe hinaus. Religion ist **„Lieben über uns hinaus“**. **Das Kunstwerk ist das Abbild einer solchen Liebe
+über sich hinaus und ein volkommnes.**
 
 [5[23]](javascript:;)
 ---------------------
 
-Die Dummheit des Willens ist der grösste Gedanke Schopenhauer’s, wenn man Gedanken nach
+Die **Dummheit des Willens** ist der grösste Gedanke Schopenhauer’s, wenn man Gedanken nach
 der Macht beurtheilt. Man kann an Hartmann sehen, wie er sofort diesen Gedanken wieder eskamotirt. Etwas
 Dummes wird niemand Gott nennen.
 
@@ -191,7 +191,7 @@ Dummes wird niemand Gott nennen.
 ---------------------
 
 Also das ist das Neue alles zukünftigen Welttreibens: man darf die Menschen nicht mehr mit religiösen
-Vorstellungen beherrschen. Ob sie sich schlechter zeigen werden? Ich
+Vorstellungen **beherrschen**. Ob sie sich **schlechter** zeigen werden? Ich
 finde nicht, dass sie sich unter dem Joche der Religionen gut und sittlich ausnehmen; ich stehe nicht auf
 Seite von Demopheles. Die Furcht vor dem Jenseits und dann überhaupt die religiöse Furcht vor göttlichen
 Strafen werden die Menschen schwerlich besser gemacht haben.
@@ -202,16 +202,16 @@ Strafen werden die Menschen schwerlich besser gemacht haben.
 Wo etwas Grosses erscheint, mit etwas längerer Dauer, da können wir vorher eine sorgfältige Züchtung
 wahrnehmen z.B. bei den Griechen. Wie erlangten so viele Menschen bei ihnen Freiheit?
 
-Erzieher erziehn! Aber die ersten müssen sich selbst erziehn! Und für diese schreibe
+**Erzieher erziehn! Aber die ersten müssen sich selbst erziehn!** Und für diese schreibe
 ich.
 
 [5[26]](javascript:;)
 ---------------------
 
-Die Verneinung des Lebens ist nicht mehr so leicht zu erreichen: man mag Einsiedler oder
-Mönch sein — was ist da verneint! Dieser Begriff wird jetzt tiefer: es ist vor allem erkennende Verneinung, gerecht sein wollende Verneinung, nicht mehr in Bausch und Bogen.
+**Die Verneinung des Lebens ist** nicht mehr so leicht zu erreichen: man mag Einsiedler oder
+Mönch sein — was ist da verneint! Dieser Begriff wird jetzt tiefer: es ist vor allem **erkennende Verneinung, gerecht sein wollende Verneinung, nicht mehr in Bausch und Bogen**.
 
-Wer heute gut und heilig sein wollte, hätte es schwerer: er dürfte, um gut zu sein, nicht so ungerecht gegen das Wissen sein, wie es die frühern Heiligen waren. Es müsste ein
+Wer heute gut und heilig sein wollte, hätte es schwerer: er dürfte, um gut zu sein, nicht so **ungerecht** gegen das **Wissen** sein, wie es die frühern Heiligen waren. Es müsste ein
 Wissender-Heiliger sein: Liebe und Weisheit verbindend; und mit einem Glauben an Götter oder Halbgötter oder
 Vorsehungen dürfte er nichts mehr zu schaffen haben; wie damit auch die indischen Heiligen nichts zu thun
 hatten. Auch müsste er gesund sein und sich gesund erhalten; sonst würde er gegen sich misstrauisch werden
@@ -236,24 +236,24 @@ Die deutsche Reformation entfernte uns vom Alterthum: musste sie das? Sie entdec
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  von neuem; sie war zugleich ein Protest gegen
-die dekorative Cultur der Renaissance; es war ein Sieg über dieselbe Cultur, die beim
+die **dekorative Cultur** der Renaissance; es war ein Sieg über dieselbe Cultur, die beim
 Beginn des Christenthums besiegt wurde.
 
 [5[29]](javascript:;)
 ---------------------
 
 Das Christenthum hat in Betreff der „weltlichen Dinge“ gerade die gröberen Ansichten der Alten conservirt.
-Alles Edlere in Ehe, Sklaverei Staat ist unchristlich. Es brauchte die entstellenden Züge
-der Weltlichkeit, um sich zu beweisen.
+Alles Edlere in Ehe, Sklaverei Staat ist unchristlich. Es **brauchte** die entstellenden Züge
+der Weltlichkeit, um **sich** zu beweisen.
 
 [5[30]](javascript:;)
 ---------------------
 
-Ich träume eine Genossenschaft von Menschen, welche unbedingt sind, keine Schonung kennen und
+**Ich träume eine Genossenschaft von Menschen, welche unbedingt sind, keine Schonung kennen und
 „Vernichter“ heissen wollen: sie halten an alles den Maassstab ihrer Kritik und opfern sich der Wahrheit.
 Das Schlimme und Falsche soll an’s Licht! Wir wollen nicht vorzeitig bauen, wir wissen nicht, ob wir je
 bauen können und ob es nicht das Beste ist, nicht zu bauen. Es giebt faule Pessimisten, Resignisten — zu
-denen wollen wir nicht gehören.
+denen wollen wir nicht gehören.**
 
 [5[31]](javascript:;)
 ---------------------
@@ -261,16 +261,16 @@ denen wollen wir nicht gehören.
 Eigenthümlich bedeutende Stellung der Philologen: ein ganzer Stand, dem die Jugend anvertraut ist und der ein
 spezielles Alterthum zu erforschen hat. Offenbar legt man den höchsten Werth auf dies Alterthum. Wenn man das
 Alterthum aber falsch abgeschätzt hätte, so fehlte plötzlich das Fundament für die erhabene Stellung der
-Philologen. Jedenfalls hat man das Alterthum sehr verschieden abgeschätzt: und darnach
+Philologen. Jedenfalls hat man das Alterthum sehr **verschieden** abgeschätzt: und darnach
 hat sich jedesmal die Würdigung der Philologen gerichtet. Dieser Stand hat seine Kraft aus starken
 Vorurtheilen zu Gunsten des Alterthums geschöpft. — Dies ist zu schildern. — Jetzt fühlt er, daß wenn endlich
 diesen Vorurtheilen gründlich widersprochen würde und das Alterthum rein geschildert würde, sofort jenes
-günstige Vorurtheil für die Philologen schwände. Es ist also ein Standesinteresse, reinere
+günstige Vorurtheil für die Philologen schwände. **Es ist also ein Standesinteresse, reinere
 Einsichten über das Alterthum nicht aufkommen zu lassen: zumal die Einsicht, daß das Alterthum im tiefsten
-Sinne unzeitgemäß macht.
+Sinne unzeitgemäß macht.**
 
-Es ist zweitens ein Standesinteresse der Philologen, keine höhere Anschauung über den
-Lehrerberuf aufkommen zu lassen als die, welcher sie entsprechen können.
+**Es ist zweitens ein Standesinteresse der Philologen, keine höhere Anschauung über den
+Lehrerberuf aufkommen zu lassen als die, welcher sie entsprechen können.**
 
 [5[32]](javascript:;)
 ---------------------
@@ -279,36 +279,36 @@ Hoffentlich giebt es einige, die es als Problem empfinden, warum gerade die Phil
 edleren Jugend sein sollen. Es wird vielleicht nicht immer so sein. — An sich wäre es ja viel natürlicher, daß
 man der Jugend geographische naturwissenschaftliche national-ökonomische gesellige Grundsätze beibrächte, daß
 man sie allmählich zur Betrachtung des Lebens führte und endlich, spät, die merkwürdigsten Vergangenheiten
-vorführte. So daß Kenntniß des Alterthums zum letzten gehörte, was einer erwürbe; ist diese Stellung des Alterthums in der Erziehung die für das Alterthum
-ehrenvollere oder die gewöhnliche? — Jetzt wird es als Propädeutik benutzt, für Denken,
-Sprechen und Schreiben; es gab eine Zeit, wo es der Inbegriff der weltlichen Kenntnisse war
+vorführte. So daß **Kenntniß des Alterthums** zum letzten gehörte, was einer erwürbe; ist **diese Stellung** des **Alterthums** in der Erziehung die für das Alterthum
+**ehrenvollere** oder die gewöhnliche? — Jetzt wird es als Propädeutik benutzt, für Denken,
+Sprechen und Schreiben; **es gab eine Zeit, wo es der Inbegriff der weltlichen Kenntnisse war
 und wo man eben das durch seine Erlernung erreichen wollte, was man jetzt durch jenen eben beschriebenen
 Studienplan erreichen würde (der sich eben den vorgerückten Kenntnissen der Zeit entsprechend verwandelt
-hat). Also hat sich die innere Absicht im philologischen Lehrerthum ganz
-umgeändert, einst war dies die materiale Belehrung, jetzt nur noch die
-formale. —
+hat)**. Also hat sich die innere **Absicht** im philologischen Lehrerthum ganz
+umgeändert, einst war dies die **materiale** Belehrung, **jetzt nur noch die
+formale**. —
 
 [5[33]](javascript:;)
 ---------------------
 
-Die Verbindung von Humanismus und religiösem Rationalismus ist als
-sächsisch gut von Köchly hervorgehoben: der Typus dieses Philologen ist G. Hermann.
+Die Verbindung von **Humanismus** und **religiösem Rationalismus** ist als
+sächsisch gut von Köchly hervorgehoben: der Typus dieses Philologen ist **G. Hermann**.
 
 [5[34]](javascript:;)
 ---------------------
 
-Ist es wahr, daß der Philolog, insofern er das Alterthum zur formalen Bildung verwendet,
-selber formal gebildet ist?
+Ist es wahr, daß der Philolog, insofern er das Alterthum zur **formalen Bildung** verwendet,
+selber **formal gebildet** ist?
 
 Aber was für ein Gegensatz! formal und material! Hier ist Material Kenntnisse, Fakta. Formal die Art, wie man
-denkt spricht schreibt, also wie man Kenntnisse sich verschafft und sie verbreitet.
+denkt spricht schreibt, also **wie** man Kenntnisse sich verschafft und sie verbreitet.
 
 [5[35]](javascript:;)
 ---------------------
 
-Wäre die Aufgabe des Philologen formal zu erziehen, so müßte er gehen, tanzen, sprechen,
+Wäre die Aufgabe des Philologen **formal zu erziehen**, so müßte er gehen, tanzen, sprechen,
 singen, sich gebaren, sich unterreden lehren: und das lernte man auch ungefähr bei den formalen Erziehern des
-zweiten und dritten Jahrhunderts. Aber so denkt man immer nur an die Erziehung des wissenschaftlichen Menschen und da heißt „formal“: denken und schreiben, kaum reden.
+zweiten und dritten Jahrhunderts. Aber so denkt man immer nur an die Erziehung des **wissenschaftlichen Menschen** und da heißt „formal“: denken und schreiben, kaum reden.
 
 [5[36]](javascript:;)
 ---------------------
@@ -322,7 +322,7 @@ Geschlechtsliebe.
 [5[37]](javascript:;)
 ---------------------
 
-Ich beklage eine Erziehung, bei der es nicht erreicht ist, Wagner
+Ich **beklage** eine **Erziehung**, bei der es nicht erreicht ist, Wagner
 zu verstehen, bei der Schopenhauer rauh und mißtönend klingt; diese Erziehung ist verfehlt.
 
 [5[38]](javascript:;)
@@ -336,13 +336,13 @@ und edleren. Gegen diese sträubt sich der Deutsche mit Unrecht.
 [5[39]](javascript:;)
 ---------------------
 
-Ich sehe in den Philologen eine verschworene Gesellschaft, welche die Jugend an der antiken
-Cultur erziehn will; ich würde es verstehen, wenn man diese Gesellschaft und ihre Absichten von allen
-Seiten kritisirte. Da käme nun viel darauf an, zu wissen, was diese Philologen unter antiker Cultur verstehen. — Sähe ich z.B. daß sie gegen die deutsche Philosophie und Musik erzögen, so
-würde ich sie bekämpfen oder auch die antike Cultur bekämpfen,
+Ich sehe in den Philologen eine **verschworene Gesellschaft, welche die Jugend an der antiken
+Cultur erziehn will**; ich würde es verstehen, wenn man diese Gesellschaft und ihre Absichten von allen
+Seiten kritisirte. Da käme nun viel darauf an, zu wissen, was diese Philologen unter antiker Cultur **verstehen**. — Sähe ich z.B. daß sie gegen die deutsche Philosophie und Musik erzögen, so
+würde ich **sie** bekämpfen oder auch die **antike Cultur** bekämpfen,
 ersteres vielleicht, indem ich zeigte, daß die Philologen die antike Cultur nicht verstanden haben. Nun sehe
 ich 1) großen Wechsel in der Schätzung der antiken Cultur bei den Philologen 2) etwas tief Unantikes in ihnen
-selbst, Unfreies 3) Unklarheit darüber, welche antike Cultur sie meinen 4) in den Mitteln
+selbst, Unfreies 3) Unklarheit darüber, **welche** antike Cultur sie meinen 4) in den Mitteln
 vieles Verkehrte z.B. Gelehrsamkeit 5) Verquickung mit Christenthum.
 
 [5[40]](javascript:;)
@@ -366,14 +366,14 @@ Ein Colleg über „System der Cultur“.
 [5[42]](javascript:;)
 ---------------------
 
-Pläne für das Leben.
+**Pläne für das Leben.**
 
-Unzeitgemässe Betrachtungen. Für die dreissiger Jahre meines
+**Unzeitgemässe Betrachtungen.** Für die dreissiger Jahre meines
 Lebens.
 
-Die Griechen. Für die vierziger Jahre meines Lebens.
+**Die Griechen.** Für die vierziger Jahre meines Lebens.
 
-Reden an die Menschheit. Für die fünfziger Jahre meines
+**Reden an die Menschheit.** Für die fünfziger Jahre meines
 Lebens.
 
 [5[43]](javascript:;)
@@ -381,7 +381,7 @@ Lebens.
 
 Wenn das Gymnasium zur Wissenschaft erziehn soll, so sagt man jetzt: es kann die Vorbereitung zu keiner
 Wissenschaft mehr geben, so umfassend sind die Wissenschaften geworden. Folglich muß man allgemein d.h. für
-alle Wissenschaften d.h. für die Wissenschaftlichkeit vorbereiten — und dazu dienen die klassischen Studien! — Wunderlicher Sprung! Eine sehr verzweifelte
+alle Wissenschaften d.h. für die **Wissenschaftlichkeit** vorbereiten — und dazu **dienen** die klassischen Studien! — Wunderlicher Sprung! Eine sehr verzweifelte
 Rechtfertigung! Das Bestehende soll Recht behalten, auch nachdem klar eingesehn ist, daß das bisherige Recht,
 auf dem es ruhte, zum Unrecht geworden ist.
 
@@ -411,12 +411,12 @@ Winckelmann entdeckt hatte.
 [5[47]](javascript:;)
 ---------------------
 
-Unsre Stellung zum klassischen Alterthum ist im Grunde die tiefe Ursache
-der Unproduktivität der modernen Cultur: denn diesen ganzen modernen Culturbegriff haben wir von den
-hellenisirten Römern. Wir müssen im Alterthum selbst scheiden: indem wir seine einzig
-produktive Zeit kennen lernen, verurtheilen wir auch die ganze alexandrinisch-romanische
-Cultur. Aber zugleich verurtheilen wir unsre ganze Stellung zum Alterthum und unsre Philologie
-zugleich!
+Unsre **Stellung zum klassischen Alterthum ist im Grunde die tiefe****Ursache
+der Unproduktivität der modernen Cultur**: denn diesen ganzen modernen Culturbegriff haben wir von den
+hellenisirten Römern. Wir müssen im Alterthum selbst **scheiden**: indem wir seine einzig
+produktive Zeit kennen lernen, **verurtheilen** wir auch die ganze alexandrinisch-romanische
+Cultur. Aber **zugleich verurtheilen wir unsre ganze Stellung zum Alterthum und unsre Philologie
+zugleich**!
 
 [5[48]](javascript:;)
 ---------------------
@@ -453,15 +453,15 @@ gemacht.
 
 Wie man die jungen Leute mit den Alten bekannt macht, hat was Respektwidriges: noch schlimmer, es ist
 unpädagogisch; denn was soll die Bekanntschaft mit Dingen, die der Jüngling unmöglich mit Bewußtsein verehren
-kann! Vielleicht soll er lernen zu glauben; und desshalb wünsche ich es nicht.
+kann! Vielleicht soll er lernen zu **glauben**; und desshalb wünsche ich es nicht.
 
 [5[53]](javascript:;)
 ---------------------
 
 Denen, welche sagen: „aber immer bleibt doch noch das Alterthum übrig als Objekt reiner Wissenschaft, wenn
 auch alle seine erziehenden Absichten geleugnet werden“, ist zu antworten: was ist hier reine Wissenschaft! Es
-sollen Handlungen und Eigenschaften beurtheilt werden, und der Urtheilende muß darüber
-stehen: also hättet ihr erst dafür zu sorgen, das Alterthum zu überwinden. Bevor ihr das
+sollen Handlungen und Eigenschaften **beurtheilt** werden, und der Urtheilende muß darüber
+stehen: also hättet ihr erst dafür zu sorgen, **das Alterthum zu überwinden**. Bevor ihr das
 nicht thut, ist eure Wissenschaft nicht rein, sondern unrein und beschränkt: wie es zu spüren ist.
 
 [5[54]](javascript:;)
@@ -476,9 +476,9 @@ starkes Bedürfniß: sonst hätten sie ein Gefühl, wo ihre Nahrung zu finden is
 
 Plan zu Capitel 1.
 
-Philologie von allen Wissenschaften bis jetzt die begünstigtste: grösste Zahl, seit
+**Philologie** von allen Wissenschaften bis jetzt die begünstigtste: grösste Zahl, seit
 Jahrhunderten, bei allen Völkern gefördert, die Obhut der edlern Jugend und somit den schönsten Anlass sich
-fortzupflanzen und Achtung vor sich zu erwecken. Wodurch hat sie diese Macht erlangt?
+fortzupflanzen und **Achtung** vor sich zu erwecken. Wodurch hat sie diese Macht erlangt?
 
 Aufzählung der verschiedenen Vorurtheile zu ihren Gunsten.
 
@@ -504,8 +504,8 @@ würden die Philologen nicht mehr zu Erziehern bestellt.
 
 Cap. 4.
 
-Nur das Bündniss zwischen den Philologen, die das Alterthum nicht verstehen wollen oder
-nicht können, und der öffentlichen Meinung, die von Vorurtheilen über dasselbe geleitet
+Nur das Bündniss zwischen den Philologen, die das Alterthum nicht verstehen **wollen** oder
+nicht **können**, und der öffentlichen Meinung, die von Vorurtheilen über dasselbe geleitet
 ist, giebt der Philologie jetzt noch ihre Kraft.
 
   
@@ -539,7 +539,7 @@ Historiker, die nicht von allgemeinen Flausen beherrscht die Dinge ansehn? Ich s
 eingetreten wäre“ wird fast einstimmig abgelehnt, und doch ist sie gerade die kardinale Frage, wodurch alles
 zu einem ironischen Dinge wird. Man sehe nur sein Leben an. Wenn man nach Plan in der Geschichte sucht, so
 suche man ihn in den Absichten eines gewaltigen Menschen, vielleicht in denen eines Geschlechtes, einer
-Partei. Alles Übrige ist ein Wirrsal. — Auch in der Naturwissenschaft ist diese Vergötterung des Nothwendigen. —
+Partei. Alles Übrige ist ein Wirrsal. — Auch in der Naturwissenschaft ist diese Vergötterung des **Nothwendigen**. —
 
 Deutschland ist die Brutstätte für den historischen Optimismus geworden: daran mag Hegel mit Schuld sein.
 Aber durch nichts hat die deutsche Cultur verhängnissvoller gewirkt. Alles durch den Erfolg Unterdrückte bäumt
@@ -577,42 +577,42 @@ Griechen und Philologen.
 
 Es ist wahr, der Humanismus und die Aufklärung haben das Alterthum als Bundesgenossen in’s Feld geführt: und
 so ist es natürlich, dass die Gegner des Humanismus das Alterthum anfeinden. Nur war das Alterthum des
-Humanismus ein schlecht erkanntes und ganz gefälschtes: reiner gesehn ist es ein Beweis gegen den Humanismus, gegen die grundgütige Menschen-Natur usw. Die Bekämpfer des Humanismus sind im
+Humanismus ein schlecht erkanntes und ganz gefälschtes: reiner gesehn ist es ein Beweis **gegen** den Humanismus, gegen die grundgütige Menschen-Natur usw. Die Bekämpfer des Humanismus sind im
 Irrthum, wenn sie das Alterthum mit bekämpfen: sie haben da einen starken Bundesgenossen.
 
 [5[61]](javascript:;)
 ---------------------
 
-Religionen verstehe ich als Narkosen: aber werden sie solchen Völkern gegeben wie den
-Germanen, so sind es reine Gifte.
+Religionen verstehe ich als **Narkosen**: aber werden sie solchen Völkern gegeben wie den
+Germanen, so sind es reine **Gifte**.
 
 [5[62]](javascript:;)
 ---------------------
 
 Welchen Zustand nahmen nur die Griechen als Vorbild für ihr Leben im Hades? Blutlos, traumhaft, schwach: es
-ist die nochmalige Steigerung des Greisenalters: wo das Gedächtniß noch mehr schwindet
+ist die nochmalige Steigerung des **Greisenalters**: wo das Gedächtniß noch mehr schwindet
 und der Leib auch noch mehr. Das Greisenalter des Greisenalters — so leben wir in den Augen des Hellenen.
 
 [5[63]](javascript:;)
 ---------------------
 
-Wie wirklich die Griechen selbst in reinen Erfindungen waren, wie sie an der
+Wie **wirklich** die Griechen selbst in reinen Erfindungen waren, wie sie an der
 Wirklichkeit fortdichteten, nicht sich aus ihr hinaus sehnten.
 
 [5[64]](javascript:;)
 ---------------------
 
-Erziehung ist erst Lehre vom Nothwendigen, dann vom Wechselnden und
-Veränderlichen. Man führt den Jüngling in die Natur, zeigt ihm überall das Walten von
-Gesetzen; dann die Gesetze der bürgerlichen Gesellschaft: hier wird schon die Frage rege: mußte dies so sein? Allmählich braucht er Geschichte, um zu hören, wie das so geworden ist. Aber damit
+Erziehung ist erst Lehre vom **Nothwendigen**, dann vom **Wechselnden und**
+**Veränderlichen**. Man führt den Jüngling in die Natur, zeigt ihm überall das Walten von
+Gesetzen; dann die Gesetze der bürgerlichen Gesellschaft: hier wird schon die Frage rege: **mußte** dies so sein? Allmählich braucht er Geschichte, um zu hören, wie das so geworden ist. Aber damit
 lernt er, daß es auch anders werden kann. Wie viel Macht über die Dinge hat der Mensch? dies ist die Frage bei
 aller Erziehung. Um nun zu zeigen, wie ganz anders es sein kann, zeige man z.B. die Griechen. Die Römer
-braucht man, um zu zeigen wie es so wurde.
+braucht man, um zu zeigen wie es so **wurde**.
 
 [5[65]](javascript:;)
 ---------------------
 
-Die Griechen als das einzig geniale Volk der Weltgeschichte; auch als Lernende sind sie
+Die Griechen als das einzig **geniale** Volk der Weltgeschichte; auch als Lernende sind sie
 dies, sie verstehen dies am besten und wissen nicht bloß zu schmücken und zu putzen mit dem Entlehnten: wie es
 die Römer thun.
 
@@ -623,7 +623,7 @@ leugnen auch gar nicht das Eingewanderte und Nicht-Ursprüngliche ab.
 [5[66]](javascript:;)
 ---------------------
 
-Die Aegypter sind vielmehr ein litterarisches Volk als die
+Die Aegypter sind **vielmehr** ein **litterarisches** Volk als die
 Griechen. Dies gegen Wolf.
 
 [5[67]](javascript:;)
@@ -639,13 +639,13 @@ Aegypten hatte seinen Mythus wesentlich verloren.
 [5[69]](javascript:;)
 ---------------------
 
-Das leibhafte Erscheinen von Göttern, wie bei Sappho’s Anrufung der Aphrodite, ist nicht als poetische Lizenz zu verstehen, es sind häufige Hallucinationen. Vieles, wie auch
-den Wunsch zu sterben, fassen wir flach auf, als rhetorisch.
+Das **leibhafte Erscheinen** von Göttern, wie bei Sappho’s Anrufung der Aphrodite, ist **nicht** als poetische Lizenz zu verstehen, es sind häufige Hallucinationen. Vieles, wie auch
+den **Wunsch zu sterben**, fassen wir flach auf, als rhetorisch.
 
 [5[70]](javascript:;)
 ---------------------
 
-Griechen das Genie unter den Völkern.
+Griechen das **Genie** unter den Völkern.
 
 Kindes-Natur. Leichtgläubig.
 
@@ -667,8 +667,8 @@ Spartaners — aber was ist er Großes, daß seine Erzeugung einen so brutalen S
 ---------------------
 
 Die griechische Cultur ruht auf dem Herrschafts-Verhältniß einer wenig zahlreichen Classe gegen 4-5mal so
-viel Unfreie. Der Masse nach war Griechenland ein von Barbaren bewohntes Land. Wie kann
-man die Alten nur human finden! Gegensatz des Genie’s gegen den Broderwerber, das halbe
+viel Unfreie. Der **Masse** nach war Griechenland ein von Barbaren bewohntes Land. Wie kann
+man die Alten nur **human** finden! Gegensatz des Genie’s gegen den Broderwerber, das halbe
 Zug- und Lastthier. Die Griechen glaubten an eine Verschiedenheit der Rasse: Schopenhauer wundert sich, daß es
 der Natur nicht beliebt habe, zwei getrennte Species zu erfinden.
 
@@ -683,32 +683,32 @@ gekittete Muschel, welche abwarten muß, was der Zufall ihr zuführt“. Schopen
 
 „Im Einzelnen stets das Allgemeine zu sehen ist gerade der Grundzug des Genie’s“ Schopenhauer. Man denke an
 Pindar, an die Προμηϑεῖα usw. Die „Besonnenheit“, nach Schopenhauer, hat
-zunächst ihre Wurzel in der Deutlichkeit, mit welcher die Griechen der Welt und ihrer
+zunächst ihre Wurzel in der **Deutlichkeit**, mit welcher die Griechen der Welt und ihrer
 selbst inne werden und dadurch zur Besinnung darüber kommen.
 
 [5[75]](javascript:;)
 ---------------------
 
-Das „weite Auseinandertreten des Willens und des Intellektes“ bezeichnet die Genies, und
+Das **„weite Auseinandertreten des Willens und des Intellektes“** bezeichnet die Genies, und
 auch die Griechen.
 
 [5[76]](javascript:;)
 ---------------------
 
-„Die dem Genie beigegebene Melancholie beruht darauf, daß der Wille zum
-Leben, von je hellerem Intellekte er sich beleuchtet findet, desto deutlicher das Elend seines Zustandes wahrnimmt.“ Schopenhauer. Cf. die Griechen!
+„Die dem Genie beigegebene **Melancholie** beruht darauf, **daß der Wille zum
+Leben**, von je **hellerem Intellekte er sich beleuchtet findet**, desto deutlicher **das Elend seines Zustandes wahrnimmt**.“ Schopenhauer. Cf. die Griechen!
 
 [5[77]](javascript:;)
 ---------------------
 
 Wie stechen die Römer durch ihren trockenen Ernst gegen die genialen Griechen ab! Schopenhauer: „der feste
-praktische Lebensernst, welchen die Römer als gravitas bezeichneten, setzt voraus, daß der Intellekt nicht den Dienst des Willens verlasse, um hinauszuschweifen zu dem, was diesen nicht
+praktische Lebensernst, welchen die Römer als gravitas bezeichneten, setzt voraus, daß der Intellekt **nicht** den Dienst des Willens verlasse, um hinauszuschweifen zu dem, was diesen nicht
 angeht.“
 
 [5[78]](javascript:;)
 ---------------------
 
-Die Mäßigkeit der Griechen in ihrem sinnlichen Aufwand, Essen und Trinken und ihre Lust
+Die **Mäßigkeit** der Griechen in ihrem sinnlichen Aufwand, Essen und Trinken und ihre Lust
 daran: die olympischen Spiele und ihre Vergötterung — das zeigt, was sie waren.
 
 [5[79]](javascript:;)
@@ -753,13 +753,13 @@ philologos, laus est, mediarum admiratio, supremarum sensus nullus.
 [5[84]](javascript:;)
 ---------------------
 
-Der kindliche Charakter der Griechen von den Aegyptern empfunden.
+Der **kindliche Charakter** der Griechen von den Aegyptern empfunden.
 
 [5[85]](javascript:;)
 ---------------------
 
-Das Steigern des Gegenwärtigen ins Ungeheure und
-Ewige z.B. bei Pindar.
+Das **Steigern** des **Gegenwärtigen** ins **Ungeheure und
+Ewige** z.B. bei Pindar.
 
 [5[86]](javascript:;)
 ---------------------
@@ -773,23 +773,23 @@ Belebtheit an Stelle eines maschinenhaften Bewegtseins.
 Es ist das Werk aller Erziehung, bewußte Thätigkeiten in mehr oder weniger unbewußte umzubilden: und die
 Geschichte der Menschheit ist in diesem Sinne ihre Erziehung. Der Philologe nun übt eine Menge Thätigkeiten so
 unbewußt: das will ich einmal untersuchen, wie seine Kraft, d.h. sein instinktives Handeln, das Resultat von
-ehemals bewußten Thätigkeiten ist, die er allmählich als solche kaum mehr fühlt: aber jenes
-Bewußtsein bestand in Vorurtheilen. Seine jetzige Kraft beruht auf jenen
-Vorurtheilen, z.B. die Schätzung der ratio wie bei Bentley, Hermann. Die Vorurtheile sind, wie
-Lichtenberg sagt, die Kunsttriebe des Menschen.
+ehemals bewußten Thätigkeiten ist, die er allmählich als solche kaum mehr fühlt: aber **jenes
+Bewußtsein bestand in Vorurtheilen. Seine jetzige** Kraft beruht **auf jenen
+Vorurtheilen**, z.B. die Schätzung der ratio wie bei Bentley, Hermann. Die Vorurtheile sind, wie
+Lichtenberg sagt, die **Kunsttriebe des Menschen**.
 
 [5[88]](javascript:;)
 ---------------------
 
-Fertigkeiten erwartet man von der Beschäftigung mit den Alten: früher z.B. Schreiben und
-Sprechen können. Aber welche erwartet man jetzt! — Denken und Schließen: aber dies erlernt man nicht von den Alten, sondern höchstens an den Alten, vermittelst der
+**Fertigkeiten** erwartet man von der Beschäftigung mit den Alten: früher z.B. Schreiben und
+Sprechen können. Aber welche erwartet man jetzt! — Denken und Schließen: aber dies erlernt man nicht **von** den Alten, sondern höchstens **an** den Alten, vermittelst der
 Wissenschaft. Zudem ist aber alles historische Schließen sehr bedingt und unsicher: man sollte das
 naturwissenschaftliche vorziehn.
 
 [5[89]](javascript:;)
 ---------------------
 
-Proklos, der den aufgehenden Mond in feierlicher Weise anbetet.
+**Proklos**, der den aufgehenden Mond in feierlicher Weise anbetet.
 
 [5[90]](javascript:;)
 ---------------------
@@ -811,16 +811,16 @@ werfen.
 [5[92]](javascript:;)
 ---------------------
 
-Sicher steht im Ganzen Großen das Wachsen der militärischen Kraft der
-Menschheit. Der Sieg der kräftigeren Nation: allmählich ist es nicht nur der
-Maaßstab des körperlichen, sondern noch mehr des geistigen Kräftiger-seins.
+Sicher steht im Ganzen Großen das **Wachsen** der **militärischen Kraft der
+Menschheit**. Der Sieg der **kräftigeren** Nation: allmählich ist es nicht nur der
+Maaßstab des körperlichen, sondern noch mehr des **geistigen Kräftiger-seins**.
 
 [5[93]](javascript:;)
 ---------------------
 
-In Sokrates haben wir einen Vorgang des Bewußtseins gleichsam vor
-uns offen liegen, aus dem später die Instinkte des theoretischen
-Menschen entstanden sind. Daß jemand lieber sterben will als alt und schwach im Geiste werden.
+In **Sokrates** haben wir einen **Vorgang des Bewußtseins** gleichsam vor
+uns offen **liegen**, aus dem später die **Instinkte des theoretischen
+Menschen** entstanden sind. Daß jemand lieber sterben will als alt und schwach im Geiste werden.
 
 [5[94]](javascript:;)
 ---------------------
@@ -833,13 +833,13 @@ selber zum Tummelplatz guter und böser Geister und ihrer Kämpfe geworden.
 [5[95]](javascript:;)
 ---------------------
 
-Es wäre viel glücklicher noch gewesen, daß die Perser als daß
-gerade die Römer über die Griechen Herr wurden.
+Es wäre viel **glücklicher** noch gewesen, daß die **Perser** als daß
+gerade die **Römer** über die Griechen Herr wurden.
 
 [5[96]](javascript:;)
 ---------------------
 
-Der herrliche Sinn für Ordnung und Gliederung hat den Staat der Athener unsterblich
+Der herrliche Sinn für **Ordnung** und Gliederung hat den Staat der Athener unsterblich
 gemacht. — Die zehn Strategen in Athen! toll! gar zu sehr ein Opfer auf dem Altar der Eifersucht.
 
 [5[97]](javascript:;)
@@ -899,7 +899,7 @@ griechischen Orakel.
 ----------------------
 
 Zu einem griechischen Polytheismus gehört viel Geist; es ist freilich sparsamer mit dem Geist umgegangen,
-wenn man nur einen <Gott> hat.
+wenn man nur einen &amp;lt;Gott&amp;gt; hat.
 
 [5[104]](javascript:;)
 ----------------------
@@ -918,7 +918,7 @@ schwer es sich lebt.
 [5[106]](javascript:;)
 ----------------------
 
-Ob es viele begabte Philologen gegeben hat? Ich zweifle; denn zu langsam bricht sich die
+Ob es **viele begabte Philologen** gegeben hat? Ich zweifle; denn zu langsam bricht sich die
 Vernunft bei ihnen Bahn (Handschriften zählen usw.) — Wort- und Sach-philologie — dummer Streit! — und dann
 die übertriebene Schätzung irgend eines klugen Mannes unter ihnen!
 
@@ -929,50 +929,50 @@ Das Humanistische ist von Karl dem Großen mächtig angepflanzt worden, während
 härtesten Zwangsmitteln vorgieng. Die antike Mythologie wurde verbreitet, die deutsche wie ein Verbrechen
 behandelt. Ich glaube, hier lag das Gefühl zu Grunde, daß das Christenthum eben schon fertig geworden sei mit
 der antiken Religion: man fürchtete sie nicht, aber benutzte die auf ihr ruhende Cultur des Alterthums. Die
-deutsche Götterwelt fürchtete man. — Eine große Äußerlichkeit in der Auffassung des
-Alterthums, fast nur die Schätzung seiner formalen Fertigkeiten und seiner Kenntnisse, muß hier gepflanzt worden sein. Es sind die Mächte zu nennen, die einer Vertiefung der Einsicht ins
-Alterthum im Wege gestanden haben. Zunächst 1) wird die alterthümliche Cultur als Reizmittel zur Annahme des Christenthums benutzt: es ist gleichsam das Draufgeld
+deutsche Götterwelt fürchtete man. — Eine große **Äußerlichkeit** in der Auffassung des
+Alterthums, fast nur die Schätzung seiner formalen Fertigkeiten und seiner Kenntnisse, **muß** hier gepflanzt worden sein. Es sind die Mächte zu nennen, die einer Vertiefung der Einsicht ins
+Alterthum im Wege gestanden haben. Zunächst 1) wird die alterthümliche Cultur als **Reizmittel** zur **Annahme des Christenthums** benutzt: es ist gleichsam das Draufgeld
 für die Bekehrung. Die Versüßung beim Einschlürfen jenes Giftes. Dann war man der Hülfsmittel der antiken
-Cultur benöthigt, 2) als Waffen zum geistigen Schutz des Christenthums. Selbst die
+Cultur benöthigt, 2) als **Waffen** zum geistigen Schutz des Christenthums. Selbst die
 Reformation konnte die klassischen Studien in diesem Sinne nicht entbehren. Dagegen beginnt nun die
-Renaissance mit reinerem Sinne die klassischen Studien, aber durchaus auch im
-christenfeindlichen; sie zeigt ein Erwachen der Ehrlichkeit im Süden, wie die Reformation
+Renaissance mit **reinerem** Sinne die klassischen Studien, aber durchaus auch im
+christenfeindlichen; sie zeigt ein Erwachen der **Ehrlichkeit** im Süden, wie die Reformation
 im Norden. Vertragen konnten sie sich freilich nicht, denn ernstliche Neigung zum Alterthum macht
-unchristlich. Es ist der Kirche im Ganzen gelungen, den klassischen Studien eine unschädliche Wendung zu geben: der Philologe wurde
-erfunden, als Gelehrter, der im Übrigen Priester oder sonst so etwas ist: und auch im
+unchristlich. Es ist der Kirche im Ganzen **gelungen**, den klassischen Studien eine **unschädliche** Wendung zu geben: **der Philologe wurde**
+**erfunden**, als Gelehrter, der im Übrigen Priester oder sonst so etwas ist: und auch im
 Bereiche der Reformation gelang es, den Gelehrten ebenfalls zu castriren. Deshalb ist Friedrich August Wolf
-merkwürdig, weil er den Stand von der Zucht der Theologie befreite: aber seine That wurde
+merkwürdig, weil er den Stand von der Zucht der Theologie **befreite**: aber seine That wurde
 nicht völlig verstanden, denn ein angreifendes aktives Element, wie es den Poeten-Philologen der Renaissance
 anhaftet, wurde nicht entwickelt. Die Befreiung kam der Wissenschaft, nicht den Menschen zu Gute.
 
 [5[108]](javascript:;)
 ----------------------
 
-Das Unvolksthümliche der neuen Renaissance-Kultur! Eine furchtbare Thatsache!
+Das **Unvolksthümliche** der neuen Renaissance-Kultur! Eine furchtbare Thatsache!
 
 [5[109]](javascript:;)
 ----------------------
 
-Was ist nun jetzt noch das Alterthum, gegenüber moderner Kunst und Wissenschaft und
+Was ist nun **jetzt** noch das Alterthum, gegenüber moderner Kunst und Wissenschaft und
 Philosophie? Nicht mehr die Schatzkammer aller Kenntnisse, in Natur- und Geschichtskenntniß ist es überwunden.
-Die Unterdrückung durch die Kirche ist gebrochen. Es ist jetzt eine reinere Kenntniß des
-Alterthums möglich, aber auch wohl eine wirkungslosere, schwächere? — Das ist richtig:
-wenn man die Wirkung nur als Massenwirkung kennt; aber für die Erzeugung der größten
-Geister ist das Alterthum mehr wie je kräftig. Goethe als deutscher
-Poet-Philolog; Wagner als noch höhere Stufe: Hellblick für die einzig würdige
-Stellung der Kunst; nie hat ein antikes Werk so mächtig gewirkt, wie die Oresteia auf Wagner. Der objektive-kastrirte Philolog, der im übrigen Bildungsphilister und Kulturkämpfer ist, und
+Die Unterdrückung durch die Kirche ist gebrochen. Es ist jetzt eine **reinere** Kenntniß des
+Alterthums möglich, aber auch wohl eine **wirkungslosere**, schwächere? — Das ist richtig:
+wenn man die Wirkung nur als **Massenwirkung** kennt; aber für die Erzeugung der größten
+Geister ist das Alterthum **mehr wie je** kräftig. Goethe als **deutscher
+Poet-Philolog**; **Wagner** als noch höhere Stufe: Hellblick für die einzig würdige
+Stellung der Kunst; nie hat ein antikes Werk so mächtig gewirkt, wie die Oresteia auf Wagner. Der **objektive-kastrirte Philolog**, der im übrigen Bildungsphilister und Kulturkämpfer ist, und
 daneben reine Wissenschaft treibt, ist freilich eine traurige Erscheinung.
 
 [5[110]](javascript:;)
 ----------------------
 
-Bentley war zugleich defensor fidei; und Scaliger war freilich ein Feind der Jesuiten,
+**Bentley** war zugleich defensor fidei; und Scaliger war freilich ein Feind der Jesuiten,
 und sehr angegriffen.
 
 [5[111]](javascript:;)
 ----------------------
 
-Zwischen unsrer höchsten Kunst und Philosophie und zwischen dem wahrhaft erkannten ältern Alterthum ist kein Widerspruch: sie stützen und tragen
+Zwischen **unsrer** höchsten Kunst und Philosophie und zwischen dem **wahrhaft** erkannten ältern Alterthum ist kein Widerspruch: sie stützen und tragen
 sich. Hier liegen meine Hoffnungen.
 
 [5[112]](javascript:;)
@@ -1017,7 +1017,7 @@ sagen würde, wenn er uns sähe? —
 [5[117]](javascript:;)
 ----------------------
 
-Die Götter machen den Menschen noch böser; so ist Menschennatur. Wen wir nicht mögen,
+Die Götter machen den Menschen noch **böser**; so ist Menschennatur. Wen wir nicht mögen,
 von dem wünschen wir, daß er schlechter werde und freuen uns dann. Es gehört dies in die düstere Philosophie
 des Hasses, die noch nicht geschrieben ist, weil sie überall das pudendum ist, das jeder fühlt.
 
@@ -1030,18 +1030,18 @@ wieder Würde geben kann. Dieses ungeheure Sich-Aufschwingen ist aber griechisch
 [5[119]](javascript:;)
 ----------------------
 
-Thukydides über den Staat.
+**Thukydides** über den **Staat**.
 
-Das tyrannische Element in jedem Aristokraten großgenährt: das verräth sich in den
+Das **tyrannische** Element in jedem Aristokraten großgenährt: das verräth sich in den
 Gebeten (Xenophon Socrates). Sie hielten sich gegenseitig in Schranken: das Volk hielt wieder alle zusammen in
 Schranken, so gut es gieng.
 
 [5[120]](javascript:;)
 ----------------------
 
-Woher stammt nun der Neid der Götter? man glaubt nicht an ein ruhend stilles Glück,
+Woher stammt nun der **Neid der Götter**? man glaubt nicht an ein ruhend stilles Glück,
 sondern nur an ein übermüthiges. Es muß den Griechen schlecht zu Muthe gewesen sein, allzu leicht verwundet
-war ihre Seele: es erbitterte sie, den Glücklichen zu sehen. Das ist griechisch. Wo es
+war ihre Seele: es erbitterte sie, den Glücklichen zu sehen. Das ist **griechisch**. Wo es
 ein ausgezeichnetes Talent gab, da mag die Schaar der Eifersüchtigen ungeheuer groß gewesen sein: traf jenes
 ein Unglück, so sagte man „aha! der war auch zu übermüthig“. Und jeder hätte ebenso sich benommen, wenn er das
 Talent gehabt hätte, übermüthig; und jeder hätte gern etwas den Gott gespielt, der das Unglück schickt.
@@ -1061,7 +1061,7 @@ Elend zum Genuße werden könne, vide tragoediam.
 [5[122]](javascript:;)
 ----------------------
 
-Das eigentlich wissenschaftliche Volk, das Volk der Litteratur, sind die Aegypter und
+Das eigentlich **wissenschaftliche Volk**, das Volk der Litteratur, sind die Aegypter und
 nicht die Griechen. Was wie Wissenschaft bei den Griechen aussieht, stammt daher und später kehrt es nach
 Aegypten zurück, um sich mit dem alten Strome wieder zu vereinigen. Alexandrinische Cultur ist eine
 Verquickung von Hellenisch und Aegyptisch: und wenn die neuere Welt an die Cultur der Alten anknüpft, dann hat
@@ -1070,7 +1070,7 @@ sie — — —
 [5[123]](javascript:;)
 ----------------------
 
-Der Seher muß liebevoll sein, sonst hat er kein Vertrauen bei den Menschen: v.
+Der **Seher** muß liebevoll sein, sonst hat er kein Vertrauen bei den Menschen: v.
 Kassandra.
 
 [5[124]](javascript:;)
@@ -1101,7 +1101,7 @@ der Todes- und Höllenangst. Aber keine Reue und Zerknirschung.
 
 „Die frevelhafte gegenseitige Zernichtung (unvermeidlich, so lange noch eine einzige πόλις leben wollte), ihr Neid gegen alles Höhere, ihre Habsucht, die Zerrüttung ihrer Sitte, die
 Sklavenstellung für die Frau, die Gewissenlosigkeit im Eidschwur, in Mord und Todschlag.“
-B<urckhardt>.
+B&amp;lt;urckhardt&amp;gt;.
 
 [5[128]](javascript:;)
 ----------------------
@@ -1119,13 +1119,13 @@ die gefährlichsten Eigenschaften des Gemüths und des Charakters.
 
 Der „Dulder“ ist hellenisch. Prometheus, Herakles.
 
-Der Heroenmythus ist panhellenisch geworden; dazu gehörte freilich
+Der **Heroenmythus** ist **panhellenisch** geworden; dazu gehörte freilich
 ein Dichter.
 
 [5[131]](javascript:;)
 ----------------------
 
-Wagner bildet die innere Phantasie des Menschen aus; spätere Generationen werden Zeugen
+**Wagner** bildet die innere Phantasie des Menschen aus; spätere Generationen werden Zeugen
 von Bildwerken sein. Die Poesie muß der bildenden Kunst voran gehen.
 
 [5[132]](javascript:;)
@@ -1142,14 +1142,14 @@ Den Stand der Philologen als Problem zu empfinden.
 [5[134]](javascript:;)
 ----------------------
 
-Wagner ehrt seine Kunst viel zu hoch, um sich in einen Winkel zu stecken wie Schumann.
+**Wagner** ehrt seine Kunst viel zu hoch, um sich in einen Winkel zu stecken wie Schumann.
 Entweder unterwirft er sich dem Publikum (Rienzi) oder er unterwirft es sich. Er züchtet es heran. Auch die
 Kleinen wollen ein Publikum, aber sie suchen es durch unkünstlerische Mittel, etwa Presse, Hanslick usw.
 
 [5[135]](javascript:;)
 ----------------------
 
-Philologen, die von ihrer Wissenschaft reden, rühren nie an die Wurzeln, sie stellen nie die Philologie als Problem hin. Schlechtes Gewissen? oder
+**Philologen**, die von ihrer Wissenschaft reden, rühren nie an die **Wurzeln**, sie stellen nie die Philologie als Problem hin. Schlechtes Gewissen? oder
 Gedankenlosigkeit?
 
 [5[136]](javascript:;)
@@ -1161,7 +1161,7 @@ Hellenenthum.
 [5[137]](javascript:;)
 ----------------------
 
-Die Consequenz, die man am Gelehrten schätzt, ist den Griechen gegenüber Pedanterie.
+Die **Consequenz**, die man am Gelehrten schätzt, ist den Griechen gegenüber Pedanterie.
 
 [5[138]](javascript:;)
 ----------------------
@@ -1171,15 +1171,15 @@ verherrlichte — es war nicht gar zu viel. Aber nun das ganze unwahre Christent
 oder mitten darunter — das ist mir zu viel und ich muß mir helfen, indem ich meinen Ekel einmal darüber
 auslasse. — Man glaubt förmlich an Zauberei, in Betreff dieser „klassischen Bildung“; aber natürlich müßten
 doch die, welche das Alterthum noch am meisten haben, auch diese Bildung am meisten haben, die Philologen:
-aber was ist an ihnen klassisch!
+aber **was** ist an ihnen klassisch!
 
 [5[139]](javascript:;)
 ----------------------
 
 Früher schrieb man dem Teufel oder bösen Geistern seine Anfechtungen und Lüste zu: das gilt jetzt als
 Mährchen. So wird es auch ein Mährchen sein, einem Gotte seine guten Regungen und Erfolge zu danken. Beides
-sind Erleichterungen, man machte sich’s damit bequem. Zu beweisen, wie bei der Religion
-ganz vornehmlich für die Bequemlichkeit gesorgt worden ist: nahe und bereite Ausreden und
+sind Erleichterungen, man machte sich’s damit bequem. Zu beweisen, wie bei der **Religion**
+ganz vornehmlich für die **Bequemlichkeit** gesorgt worden ist: nahe und bereite Ausreden und
 Ausflüchte.
 
 [5[140]](javascript:;)
@@ -1190,7 +1190,7 @@ Fünfjähriges Schweigen. Schüler Pfleger Erzieher.
 [5[141]](javascript:;)
 ----------------------
 
-Was ist Begabung? — Ein hohes Ziel und die Mittel dazu zu wollen.
+**Was ist Begabung? — Ein hohes Ziel und die Mittel dazu zu wollen.**
 
 [5[142]](javascript:;)
 ----------------------
@@ -1212,14 +1212,14 @@ ihre Geschichte ist falsch!
 ----------------------
 
 Wir behandeln unsre Jünglinge als seien sie unterrichtete gereifte Männer, wenn wir ihnen die Griechen
-vorführen. Was eignet sich denn vom griechischen Wesen überhaupt für die Jugend? Zuletzt
-bleibt’s gar beim Formalen, Einzelnes vorzuführen. Sind das
+vorführen. **Was** eignet sich denn vom griechischen Wesen überhaupt für die Jugend? Zuletzt
+bleibt’s gar beim **Formalen**, **Einzelnes** vorzuführen. Sind das
 Betrachtungen für junge Leute? —
 
 Die beste und höchste Gesammtvorstellung von den Alten bringen wir doch den jungen Leuten entgegen? Oder
-nicht? Das Lesen der Alten wird so betont.
+nicht? Das **Lesen** der Alten wird so betont.
 
-Ich glaube, die Beschäftigung mit dem Alterthum ist in eine falsche Stufe des Lebens
+Ich glaube, die Beschäftigung mit dem Alterthum ist in eine **falsche** Stufe des Lebens
 verlegt. Ende der zwanziger fängt es an zu dämmern.
 
 [5[145]](javascript:;)
@@ -1227,30 +1227,30 @@ verlegt. Ende der zwanziger fängt es an zu dämmern.
 
 |  |  |
 | --- | --- |
-| Alle Schwierigkeiten des historischen Studiums einmal durch das größte Beispiel zu verdeutlichen.  In wiefern unsre Jünglinge nicht zu den Griechen passen. | |
+| Alle Schwierigkeiten des historischen Studiums einmal durch das größte Beispiel zu **verdeutlichen**.  In wiefern unsre Jünglinge nicht zu den Griechen passen. | |
 | Folgen der Philologie: | hochmüthige Anticipation  Bildungsphilisterei  Überschätzung von Lesen und Schreiben  Ungründlichkeit  Entfremdung vom Volk und Volks-Noth. |
-| Die Philologen selbst (und Historiker und Philosophen <und> Juristen, alles durchräuchert vom Dunste).  Es sind wirkliche Wissenschaften der Jugend beizubringen.  Ebenso wirkliche Kunst.  So wird auch, in höherem Leben, Verlangen nach wirklicher Historie dasein.   Philologe, Entstehung überhaupt und jetzt.  Die Jugend und der Philologe.  Die Folgen der Philologie.  Aufgabe für die Philologie: Untergang.   Die Inhumanität: selbst aus der Antigone, selbst aus der goethischen Iphigenie.  Der Mangel an Aufklärung.  Das Politische ist nicht für Jünglinge verständlich.  Das Dichterische — eine schlimme Anticipation. | |
+| Die Philologen selbst (und Historiker und Philosophen &amp;lt;und&amp;gt; Juristen, alles durchräuchert vom Dunste).  Es sind **wirkliche** Wissenschaften der Jugend beizubringen.  Ebenso **wirkliche** Kunst.  So wird auch, in höherem Leben, Verlangen nach **wirklicher** Historie dasein.   **Philologe**, Entstehung überhaupt und jetzt.  **Die Jugend und der Philologe.**  **Die Folgen der Philologie.**  **Aufgabe für die Philologie:** Untergang.   Die **Inhumanität**: selbst aus der Antigone, selbst aus der goethischen Iphigenie.  Der Mangel an **Aufklärung**.  Das Politische ist nicht für Jünglinge verständlich.  Das Dichterische — eine schlimme Anticipation. | |
 
 [5[146]](javascript:;)
 ----------------------
 
-Kritik der Entwicklung.
+**Kritik der Entwicklung.**
 
-Falsche Annahme einer naturgemässen Entwicklung.
+Falsche Annahme einer **naturgemässen** Entwicklung.
 
-Die Entartung ist hinter jeder grossen Erscheinung her; in jedem
+Die **Entartung** ist hinter **jeder** grossen Erscheinung her; in jedem
 Augenblick ist der Ansatz zum Ende da. Die Entartung liegt in dem leichten Nachmachen und Äusserlich-Verstehen
 der grossen Vorbilder: d.h. das Vorbild reizt die eitlern Naturen zum Nachmachen und Gleichmachen oder
 Überbieten.
 
 Die Kette von einem Genius zum andern ist selten eine gerade Linie: so zwischen Aeschylus und Sophocles
-keineswegs. Es lagen eine Masse Entwicklungswege nach Aeschylus noch offen; Sophocles
-schlug einen von ihnen ein.
+keineswegs. Es lagen eine Masse Entwicklungswege **nach** Aeschylus noch offen; Sophocles
+schlug **einen** von ihnen ein.
 
 Das Verhängnissvolle aller grossen Begabungen: sie reissen mit sich fort und veröden um sich, wie Rom in
 einer Einöde liegt. Viele Kräfte, embryonisch noch, werden so erdrückt.
 
-Zu zeigen, wie überwiegend auch in Hellas die Entartung ist, wie selten und kurz das
+Zu zeigen, wie **überwiegend** auch in Hellas die Entartung ist, wie selten und kurz das
 Grosse, wie mangelhaft (von der falschen Seite) geschätzt.
 
 Wie steif müssen die Anfänge der Tragödie bei Thespis gewesen sein! d.h. die kunstmässigen Nachformungen der
@@ -1265,26 +1265,26 @@ glücklichste Fall in der Entwicklung, wenn sich mehrere Genie’s gegenseitig i
 Ob nicht sehr viele herrliche Möglichkeiten im Keime erstickt sind? Wer würde z.B. Theocrit noch zu seiner
 Zeit für möglich halten, wenn er nicht da wäre?
 
-Die grösste Thatsache bleibt immer der frühzeitig panhellenische
+Die grösste Thatsache bleibt immer der frühzeitig **panhellenische**
 Homer. Alles Gute stammt doch von ihm her: aber zugleich ist er die gewaltigste Schranke
-geblieben, die es gab. Er verflachte, und deshalb kämpften die Ernstern so gegen ihn,
+geblieben, die es gab. Er **verflachte**, und deshalb kämpften die Ernstern so gegen ihn,
 umsonst. Homer siegte immer.
 
-Das Unterdrückende der grossen geistigen Mächte ist auch hier sichtbar, aber welcher
+Das **Unterdrückende** der grossen geistigen Mächte ist auch hier sichtbar, aber welcher
 Unterschied: Homer oder eine Bibel als solche Macht!
 
-Die Lust am Rausche, die Lust am Listigen, an der Rache, am Neide, an der Schmähung, an der Unzüchtigkeit —
-alles das wurde von den Griechen anerkannt, als menschlich, und darauf hin eingeordnet in
+Die Lust am **Rausche**, die Lust am **Listigen**, an der **Rache**, am Neide, an der **Schmähung**, an der **Unzüchtigkeit** —
+alles das wurde von den Griechen **anerkannt**, als menschlich, und darauf hin eingeordnet in
 das Gebäude der Gesellschaft und Sitte. Die Weisheit ihrer Institutionen liegt in dem Mangel einer Scheidung
 zwischen gut und böse, schwarz und weiss. Die Natur, wie sie sich zeigt, wird nicht weggeleugnet, sondern nur
-eingeordnet, auf bestimmte Culte und Tage beschränkt. Dies ist die Wurzel aller
+**eingeordnet**, auf bestimmte Culte und Tage beschränkt. Dies ist die Wurzel aller
 Freisinnigkeit des Alterthums; man suchte für die Naturkräfte eine mässige Entladung, nicht eine Vernichtung
-und Verneinung. — Das ganze System von neuer Ordnung ist dann der Staat. Er war nicht auf
+und Verneinung. — Das ganze System von neuer Ordnung ist dann der **Staat**. Er war nicht auf
 bestimmte Individuen, sondern auf die regulären menschlichen Eigenschaften hin construirt: es zeigt sich in
-seiner Gründung die Schärfe der Beobachtung und der Sinn für das Thatsächliche, besonders
+seiner Gründung die **Schärfe der Beobachtung und der Sinn für das Thatsächliche**, besonders
 für das Typisch-Thatsächliche, was die Griechen zur Wissenschaft Historie Geographie usw. befähigte. Es war
-nicht ein beschränktes priesterliches Sittengesetz, welches bei der Gründung des Staates
-befahl. Woher haben die Griechen diese Freiheit? Wohl schon von Homer; aber woher hat
+nicht ein beschränktes priesterliches **Sittengesetz**, welches bei der Gründung des Staates
+befahl. Woher haben die Griechen diese Freiheit? Wohl schon von **Homer**; aber woher hat
 er’s? — Die Dichter sind nicht die weisesten und logisch gebildetsten Wesen; aber sie haben die Lust am
 einzeln Wirklichen jeder Art und wollen es nicht verneinen, aber doch so mässigen, dass es nicht alles todt
 macht.
@@ -1295,7 +1295,7 @@ macht.
 Die Nothwendigkeit der Entladung, der κάϑαρσις, ein Grundgesetz des
 griechischen Wesens.
 
-Ansammlung und Entladung in gewaltsamen, zeitlich getrennten Stössen. Ob die Tragödie
+Ansammlung und Entladung in gewaltsamen, zeitlich getrennten Stössen. Ob die **Tragödie**
 daher zu erklären?
 
 [5[148]](javascript:;)
@@ -1304,15 +1304,15 @@ daher zu erklären?
 Es müssen philosophische Köpfe darüber kommen und einmal die Gesammtabrechnung des Alterthums vorlegen:
 Sobald diese vorliegt, so wird es überwunden sein. Man ist viel zu stark mit allem Fehlerhaften, was uns
 quält, vom Alterthum abhängig, als dass man es noch lange milde behandeln wird. Die ungeheuerste Frevelthat
-der Menschheit, dass das Christenthum möglich werden konnte, so wie es möglich wurde, ist die Schuld des Alterthums. Mit dem Christenthum wird auch das Alterthum abgeräumt werden. — Jetzt ist es
+der Menschheit, dass das Christenthum möglich werden konnte, so wie es möglich wurde, ist die **Schuld** des Alterthums. Mit dem Christenthum wird auch das Alterthum abgeräumt werden. — Jetzt ist es
 sehr nahe hinter uns, und gerecht zu sein gewiss nicht möglich. Es ist in der scheusslichsten Weise zur
 Unterdrückung benutzt worden und hat die religiöse Unterdrückung unterstützt, dadurch dass es sie mit
 „Bildung“ maskirte. Der Hauptwitz war: „das Alterthum ist durch das Christenthum überwunden worden“! Dies war
-eine historische Thatsache und so wurde die Beschäftigung mit ihm unschädlich. Ja es ist
+eine **historische** Thatsache und so wurde die Beschäftigung mit ihm unschädlich. Ja es ist
 so plausibel, die christliche Ethik „tiefer“ zu finden als Socrates! Mit Plato konnte man es schon aufnehmen!
-Es ist eine nochmalige Wiederkäuung desselben Kampfes, der <sich> in den ersten Jahrhunderten
+Es ist eine nochmalige Wiederkäuung desselben Kampfes, der &amp;lt;sich&amp;gt; in den ersten Jahrhunderten
 schon abspielte. Nur dass jetzt ein ganz blasses Gespenst an Stelle des damals recht sichtbaren Alterthums
-getreten ist, und freilich auch das Christenthum recht gespenstisch geworden ist. Es ist ein Kampf nach der Entscheidungsschlacht, ein Nachzittern. Zuletzt sind alle die Mächte, aus denen
+getreten ist, und freilich auch das Christenthum recht gespenstisch geworden ist. Es ist ein Kampf **nach** der Entscheidungsschlacht, ein Nachzittern. Zuletzt sind alle die Mächte, aus denen
 das Alterthum besteht, im Christenthum in der rohesten Gestalt zu Tage getreten, es ist nichts Neues, nur
 quantitativ extraordinär.
 
@@ -1325,21 +1325,21 @@ unthätiges Beiseitesitzen, ängstliches Unterwerfen. — Wer hat denn etwas Fre
 [5[150]](javascript:;)
 ----------------------
 
-Der religiöse Cultus ist auf das Erkaufen oder das Erbetteln der Gunst der Gottheiten zurückzuführen. Es kommt darauf an, wo man ihre Ungunst fürchtet. —
-Also dort, wo man nicht einen Erfolg durch eigne Kraft erringen kann oder will, sucht man
-übernatürliche Kräfte: also zur Erleichterung der Lebensmühe. Wo man etwas nicht durch die That wieder gut machen will oder kann, bittet man die Götter um Gnade und
-Verzeihung, also zur Erleichterung des bedrängten Gewissens. Die Götter sind zur Bequemlichkeit der Menschen erfunden: zuletzt noch ihr Cultus die Summe aller Erholungen und Ergötzlichkeiten.
+Der **religiöse Cultus** ist auf das **Erkaufen** oder das **Erbetteln** der Gunst der Gottheiten zurückzuführen. Es kommt darauf an, wo man ihre Ungunst fürchtet. —
+Also dort, wo man nicht einen Erfolg **durch eigne Kraft** erringen kann oder will, sucht man
+übernatürliche Kräfte: also zur **Erleichterung der Lebensmühe**. Wo man etwas **nicht durch die That** wieder gut machen will oder kann, bittet man die Götter um Gnade und
+Verzeihung, also zur **Erleichterung des bedrängten Gewissens**. Die Götter sind zur **Bequemlichkeit** der Menschen erfunden: zuletzt noch ihr Cultus die Summe aller **Erholungen und Ergötzlichkeiten**.
 
 Man nehme sie hinweg: alle Lasten sind dann schwerer, und es giebt viel weniger Leichtigkeit. — Wo die
-Olympier zurücktraten, da war das griechische Leben düsterer. — Wo wir forschen und
-arbeiten, da feiern die Griechen Feste. Sie sind die Festefeiernden.
+Olympier zurücktraten, da war das griechische Leben düsterer. — Wo wir **forschen** und
+arbeiten, da feiern die Griechen Feste. Sie sind die **Festefeiernden**.
 
 Sie sehen über sich die Götter nicht als Herren, sich nicht als Knechte, wie die Juden. Es ist die Conception
 von einer glücklicheren und mächtigeren Kaste, ein Spiegelbild der gelungensten Exemplare der eignen Kaste,
 also ein Ideal, kein Gegensatz des eignen Wesens. Man fühlt sich durchaus verwandt. Es besteht gegenseitiges
-Interesse, eine Art Symmachie. Man denkt vornehm von sich, wenn man sich solche Götter
-dichtet. Und so hat auch das Erbetteln und Erkaufen ihrer Gunst
-etwas Vornehmes. Es ist ein Verhältniss, wie von niederem zu höherem Adel; während die
+Interesse, eine Art Symmachie. Man denkt **vornehm** von sich, wenn man sich solche Götter
+dichtet. Und so hat auch das **Erbetteln** und **Erkaufen ihrer Gunst**
+etwas **Vornehmes**. Es ist ein Verhältniss, wie von niederem zu höherem Adel; während die
 Römer eine rechte Bauernreligion haben, Ängstlichkeit gegen Kobolde und Spukereien.
 
 [5[151]](javascript:;)
@@ -1354,28 +1354,28 @@ die Prologe im Drama usw.
 [5[152]](javascript:;)
 ----------------------
 
-Entwurf für 18 Vorlesungen
+**Entwurf für 18 Vorlesungen**
 
 |  |  |  |
 | --- | --- | --- |
-| 9. |  | Ehren bei Städten, Fürsten, Festen, Opfern usw. Tyrannen. |
-| 18. | Todesarten. |
-| 10. | Gruppen des Umgangs, des gleichen Strebens. |
-| 11. | Verbreitung durch Schülerthum. |
-| 12. | Abtrünnige Schüler. |
-| 6. | Nichtgriechen und Griechen, geographische Betheiligung. |
-| 7. | Sklaven und ganz niedere Leute. |
-| 8. | Sehr vornehme Leute. |
-| 13. | Persönliche Feindschaften, Wettkämpfe. |
-| 17. | Einfluß auf den Staat und bei Seite stehen. |
-| 14. | Verschweigen. |
-| 15. | Geringschätzen und Nichtverstehen vom Früheren. |
-| 16. | Verbreitung durch Vortrag, Reisen, Buchhandel, Bibliotheken. |
-| 2. | Unsre Verluste, Größe, Gründe des Verlustes. |
-| 5. | Die Kunstwerke für alle und die für einen bestimmten Kreis. |
-| 3. | Einige Grundsätze für das Studium der Litteratur. |
-| 1. | Kritik der Entwicklung, absoluter Werth. |
-| 4. | Fälschungen. Litterarhistorische Mythologie. |
+| 9. |  | **Ehren** bei Städten, Fürsten, Festen, Opfern usw. Tyrannen. |
+| 18. | **Todesarten.** |
+| 10. | **Gruppen des Umgangs**, des gleichen Strebens. |
+| 11. | **Verbreitung durch Schülerthum.** |
+| 12. | **Abtrünnige Schüler.** |
+| 6. | **Nichtgriechen** und Griechen, geographische Betheiligung. |
+| 7. | **Sklaven und ganz niedere** Leute. |
+| 8. | **Sehr vornehme Leute.** |
+| 13. | **Persönliche Feindschaften**, Wettkämpfe. |
+| 17. | **Einfluß auf den Staat** und bei Seite stehen. |
+| 14. | **Verschweigen.** |
+| 15. | **Geringschätzen und Nicht**verstehen vom Früheren. |
+| 16. | **Verbreitung durch Vortrag, Reisen**, Buchhandel, Bibliotheken. |
+| 2. | **Unsre Verluste**, Größe, Gründe des Verlustes. |
+| 5. | **Die Kunstwerke für alle** und die für einen bestimmten Kreis. |
+| 3. | **Einige Grundsätze** für das Studium der Litteratur. |
+| 1. | **Kritik der Entwicklung**, absoluter Werth. |
+| 4. | **Fälschungen.** Litterarhistorische Mythologie. |
 
 [5[153]](javascript:;)
 ----------------------
@@ -1395,42 +1395,41 @@ fördern. Nun sehe man die Philologen an, um diese „Freiheit“ richtig zu tax
 [5[155]](javascript:;)
 ----------------------
 
-Im religiösen Cultus
-ist ein früherer Culturgrad festgehalten, es sind „Überlebsel“. Die
+**Im religiösen Cultus**
+**ist** ein **früherer** Culturgrad festgehalten, es sind „Überlebsel“. Die
 Zeiten, welche ihn feiern, sind nicht die, welche ihn erfinden. Der Gegensatz ist oft sehr bunt. Der
 griechische Cultus führt uns in eine vorhomerische Gesinnung und Gesittung zurück, ist fast das älteste, was
 wir von den Griechen wissen; älter als die Mythologie, welche die Dichter wesentlich umgebildet haben, so wie
-wir sie kennen. — Kann man diesen Cult griechisch nennen? Ich
-zweifle. Sie sind Vollender, nicht Erfinder. Sie conserviren durch diese schöne
+wir sie kennen. — **Kann** man diesen Cult **griechisch** nennen? Ich
+zweifle. Sie sind Vollender, nicht Erfinder. Sie **conserviren** durch diese schöne
 Vollendung.
 
 [5[156]](javascript:;)
 ----------------------
 
-Auf immer trennt uns von der alten Cultur, dass ihre Grundlage durch und durch für uns hinfällig geworden ist. Eine Kritik
+Auf immer **trennt uns** von der **alten Cultur**, dass ihre **Grundlage** durch und durch für uns **hinfällig** geworden ist. Eine Kritik
 der Griechen ist insofern zugleich eine Kritik des Christenthums, denn die Grundlage im Geisterglauben, im
-religiösen Cultus, in der Naturverzauberung ist dieselbe. — Es giebt jetzt noch zahlreiche rückständige Stufen; aber sie sind schon im Begriff zu verfallen.
+religiösen Cultus, in der Naturverzauberung ist dieselbe. — Es giebt jetzt noch zahlreiche **rückständige** Stufen; aber sie sind schon im Begriff zu **verfallen**.
 
-Dies wäre eine Aufgabe, das
-Griechenthum als unwiederbringlich zu kennzeichnen und damit auch das Christenthum und
-die bisherigen Fundamente unsrer Societät und Politik.
+**Dies wäre**eine Aufgabe**,**das**Griechenthum als unwiederbringlich zu kennzeichnen**und**damit auch das Christenthum und
+die bisherigen****Fundamente unsrer Societät und Politik.**
 
 [5[157]](javascript:;)
 ----------------------
 
-Aufgabe: der Tod der alten Cultur unvermeidlich: die griechische ist als Urbild zu
+Aufgabe: **der Tod der alten Cultur** unvermeidlich: die griechische ist als Urbild zu
 kennzeichnen und zu zeigen, wie alle Cultur auf Vorstellungen ruht, die hinfällig sind.
 
-Gefährliche Bedeutung der Kunst: als Bewahrerin und Galvanisirung abgestorbener und
-absterbender Vorstellungen. Der Historie, insofern sie uns in überwundene Gefühle
+Gefährliche Bedeutung der **Kunst**: als Bewahrerin und Galvanisirung abgestorbener und
+absterbender Vorstellungen. Der **Historie**, insofern sie uns in überwundene Gefühle
 zurückversetzen will. „Historisch“ empfinden, „gerecht sein gegen Vergangenes“ ist nur möglich, wenn wir
-zugleich darüber hinaus sind. Aber die Gefahr bei der hier geforderten Anempfindung ist
+zugleich darüber **hinaus** sind. Aber die Gefahr bei der hier geforderten Anempfindung ist
 gross: lassen wir doch die Todten ihre Todten begraben: so nehmen wir nicht selber Leichengeruch an.
 
 [5[158]](javascript:;)
 ----------------------
 
-Der Tod der alten Cultur.
+**Der Tod der alten Cultur.**
 
 |  |  |
 | --- | --- |
@@ -1440,12 +1439,12 @@ Der Tod der alten Cultur.
 | 4. | Die christliche ist mit verneint. |
 | 5. | Kunst und Historie — gefährlich. |
 | 6. | Ersetzung der Alterthumsstudien, die für die Jugenderziehung hinfällig geworden sind. |
-| So ist die Aufgabe der Wissenschaft der Geschichte gelöst, und sie selber ist überflüssig geworden: wenn der ganze innerlich zusammenhängende Kreis vergangner Bestrebungen verurtheilt worden ist. An ihre Stelle muss die Wissenschaft um die Zukunft treten. | |
+| So ist die Aufgabe der Wissenschaft der **Geschichte** gelöst, und sie selber ist überflüssig geworden: wenn der ganze innerlich zusammenhängende Kreis vergangner Bestrebungen **verurtheilt** worden ist. An ihre Stelle muss die Wissenschaft um die **Zukunft** treten. | |
 
 [5[159]](javascript:;)
 ----------------------
 
-Der Lese- und Schreiblehrer und der Corrector sind die ersten Typen
+Der **Lese- und Schreiblehrer** und der **Corrector** sind die ersten Typen
 des Philologen.
 
 [5[160]](javascript:;)
@@ -1476,19 +1475,19 @@ Alles mit Kritik.
 ----------------------
 
 Die Dichter sind rückständige Wesen und eine Brücke zu ganz fernen Zeiten, eigentlich immer Epigonen. Sind
-sie also nöthig? Es ist ihnen vorzuwerfen, was der Religion vorzuwerfen ist, dass sie vorläufige Beruhigungen geben und etwas Palliativisches haben. Sie halten die Menschen ab, an einer
+sie also nöthig? Es ist ihnen vorzuwerfen, was der Religion vorzuwerfen ist, dass sie **vorläufige Beruhigungen** geben und etwas Palliativisches haben. Sie halten die Menschen ab, an einer
 wirklichen Verbesserung zu arbeiten, indem sie selbst die Leidenschaft der Unbefriedigung aufheben und
 ableiten.
 
 [5[163]](javascript:;)
 ----------------------
 
-Die Mittel gegen Schmerz, welche die Menschen anwenden, sind vielfach Betäubungen. Religion und Kunst gehören zu den Betäubungen durch Vorstellungen. Sie gleichen aus und
-beschwichtigen; es ist eine Stufe der niedrigen Heilkunst seelischer Schmerzen. Beseitigung der Ursache des Leidens durch eine Annahme, z.B. wenn ein
+**Die Mittel gegen Schmerz**, welche die Menschen anwenden, sind vielfach **Betäubungen**. Religion und Kunst gehören zu den Betäubungen durch Vorstellungen. Sie gleichen aus und
+beschwichtigen; es ist eine Stufe der **niedrigen Heilkunst** seelischer Schmerzen. **Beseitigung** der **Ursache des Leidens** durch eine Annahme, z.B. wenn ein
 Kind gestorben, anzunehmen, es lebe noch, schöner, und es gebe einmal eine Vereinigung. So soll die Religion
 für den Armen da sein, mit ihrer Vertröstung.
 
-Ist die Tragödie für den noch möglich, der keine metaphysische Welt glaubt? Man muss zeigen, wie auch das Höchste der bisherigen Menschheit auf dem Grund jener niederen Heilkunst gewachsen ist.
+Ist die Tragödie für den noch möglich, der keine metaphysische Welt glaubt? Man muss zeigen, wie auch das **Höchste** der bisherigen Menschheit auf dem Grund jener niederen Heilkunst gewachsen ist.
 
 [5[164]](javascript:;)
 ----------------------
@@ -1496,7 +1495,7 @@ Ist die Tragödie für den noch möglich, der keine metaphysische Welt glaubt? M
 Wir sehen auf eine ziemliche Zeit Menschheit zurück; wie wird eine Menschheit einmal aussehen, welche auf uns
 ebenso fernher hinsieht? Welche uns noch ganz ertränkt findet in den Überbleibseln der alten Cultur. Welche
 nur im „Hülfreich- und Gutsein“ ihren Trost findet und alle andern Tröstungen abweist! — Wächst auch die
-Schönheit aus der alten Cultur heraus? Ich glaube, unsre Hässlichkeit hängt von unsern
+Schönheit aus der alten Cultur heraus? Ich glaube, unsre **Hässlichkeit** hängt von unsern
 metaphysischen Überbleibseln ab; unsere Verworrenheit der Sitte, unsre Schlechtigkeit der Ehen usw. ist die
 Ursache. Der schöne Mensch, der gesunde und mässige und unternehmende Mensch formt um sich dann auch zum
 Schönen, zu seinem Abbild.
@@ -1505,8 +1504,8 @@ Schönen, zu seinem Abbild.
 ----------------------
 
 Im griechischen Götterwesen und Cultus findet man alle Anzeichen eines rohen und düstern uralten Zustandes,
-in dem die Griechen etwas sehr verschiedenes geworden wären, wenn sie drin verharren mussten. Homer hat sie befreit, mit der eigenthümlichen Frivolität seiner Götter. Die Umbildung einer wilden düstern Religion zu einer homerischen ist doch das grösste
-Ereigniss. Nun beachte man die Gegenströmungen, das Sich-offenbaren der alten Vorstellungen, das
+in dem die Griechen etwas sehr verschiedenes geworden wären, wenn sie drin verharren mussten. **Homer** hat sie befreit, mit der eigenthümlichen Frivolität seiner Götter. Die Umbildung einer **wilden düstern Religion zu einer homerischen** ist doch das **grösste
+Ereigniss**. Nun beachte man die Gegenströmungen, das Sich-offenbaren der alten Vorstellungen, das
 Ergreifen verwandter, ausländischer.
 
 |  |  |  |
@@ -1521,15 +1520,15 @@ Ergreifen verwandter, ausländischer.
 | 8. | Die Kunst als rückständig und gegen die Aufklärung, im Ganzen wirkend. |
 | 9. | Der Staat sucht sein Fundament, im Religiösen. Ebenso die Gesellschaft. |
 | 10. | Die Religion, um das Volk zu unterhalten, gegen Noth und Langeweile zu bewahren. |
-| Cultus. | | |
+| **Cultus.** | | |
 | 1. | Gebet. (Fluch, Eid.) |
 | 2. | Opfer. |
 | 3. | Ekstase und ihre Mittel. Mantik. Orakel. Beschwörung. Zauberei. Der Priester. |
-| 4. | Orientirung. (Tempelf<orm>) |
+| 4. | Orientirung. (Tempelf&amp;lt;orm&amp;gt;) |
 | 5. | Reinigung. (Mysterie.) |
 | 6. | Complicirte Formen: Feste mit Schauspielen. |
 |  | a) Staatsculte. |
-|  | b) Gent<ile> Culte |
+|  | b) Gent&amp;lt;ile&amp;gt; Culte |
 |  | c) Häuslicher Cult |
 |  | d) Todtencult. |
 
@@ -1540,10 +1539,10 @@ Ergreifen verwandter, ausländischer.
 
 |  |  |  |
 | --- | --- | --- |
-| I |  | Die Liebe der Kunstgriff des Christenthums in seiner Vieldeutigkeit. (Die Geschlechtsliebe im Alterthum bei Empedokles rein gefaßt.) |
+| I |  | Die Liebe der **Kunstgriff** des Christenthums in seiner Vieldeutigkeit. (Die Geschlechtsliebe im Alterthum bei Empedokles rein gefaßt.) |
 | II | Die christliche Liebe, auf Grund der Verachtung. |
 | III | Die Thätigkeit des Christen im Gegensatz zu der buddhistischen Ruhe. |
-| IV | Keine Religion der Rache und Gerechtigkeit! die Juden das schlechteste Volk. |
+| IV | Keine Religion der Rache und Gerechtigkeit! die Juden das **schlechteste** Volk. |
 | V | Eingeschmuggelte Begriffe: stellvertretender Tod. |
 | VI | Der Priesterstaat. Heuchler. Abneigung gegen ernste Fassung aller Probleme. (Cultus Opfer, Zwingung der Götter.) |
 | VII | Die größte Versündigung am Verstand der Menschheit ist das historische Christenthum. |
@@ -1555,23 +1554,23 @@ Ergreifen verwandter, ausländischer.
 [5[167]](javascript:;)
 ----------------------
 
-Das Griechenthum durch die That zu überwinden wäre die Aufgabe. Aber dazu müßte man es
+Das Griechenthum durch die That zu **überwinden** wäre die Aufgabe. Aber dazu müßte man es
 erst kennen! — es giebt eine Gründlichkeit, welche nur der Vorwand der Thatenlosigkeit ist. Man denke, was
 Goethe vom Alterthum verstand; gewiß nicht soviel als ein Philologe und doch genug, um fruchtbar mit ihm zu
-ringen. Man sollte sogar nicht mehr von einer Sache wissen, als man auch schaffen könnte.
-Überdies ist es selbst das einzige Mittel, etwas wahrhaft zu erkennen, wenn man versucht
-es zu machen. Man versuche alterthümlich zu leben — man kommt sofort hundert Meilen den
+ringen. Man **sollte** sogar nicht mehr von einer Sache wissen, als man auch schaffen könnte.
+Überdies ist es selbst das einzige Mittel, etwas wahrhaft zu **erkennen**, wenn man versucht
+es zu **machen**. Man versuche alterthümlich zu leben — man kommt sofort hundert Meilen den
 Alten näher als mit aller Gelehrsamkeit. — Unsre Philologen zeigen nicht, daß sie irgend worin dem Alterthum
-nacheifern — deshalb ist ihr Alterthum ohne Wirkung auf die
+**nacheifern** — deshalb ist **ihr** Alterthum ohne Wirkung auf die
 Schüler.
 
-Studium des Wetteifers (Renaissance, Goethe) und Studium der
+**Studium** des Wetteifers (Renaissance, Goethe) und **Studium der**
 Verzweiflung!
 
 [5[168]](javascript:;)
 ----------------------
 
-Es liegt nicht viel an einem richtig emendirten Autor.
+Es liegt **nicht viel** an einem richtig emendirten Autor.
 
 [5[169]](javascript:;)
 ----------------------
@@ -1581,54 +1580,54 @@ Das falsche Bild der Beschäftigung mit den Alten hemmt selbst die Besseren.
 [5[170]](javascript:;)
 ----------------------
 
-Die Wissenschaften werden vielleicht einmal von den Frauen betrieben: die Männer sollen geistig schaffen, Staaten Gesetze Kunstwerke usw.
+Die Wissenschaften werden vielleicht einmal von den Frauen betrieben: die Männer sollen geistig **schaffen**, Staaten Gesetze Kunstwerke usw.
 
 [5[171]](javascript:;)
 ----------------------
 
-Man soll das vorbildliche Alterthum nur studiren, wie man einen vorbildlichen Menschen studirt: also so viel man begreift, nachahmend, und wenn das Vorbild sehr fern
-ist, über die Wege und Vorbereitungen sinnend, und Mittelstadien erfindend.
+Man soll das **vorbildliche** Alterthum nur studiren, wie man einen **vorbildlichen Menschen** studirt: also so viel man begreift, nachahmend, und wenn das Vorbild sehr fern
+ist, über die Wege und Vorbereitungen sinnend, und Mittelstadien **erfindend**.
 
-Das Maaß des Studiums liegt darin: nur
-was zur Nachahmung reizt, was mit Liebe ergriffen wird und fortzuzeugen verlangt, soll
-studirt werden. Da wäre das Richtigste: ein fortschreitender Kanon
-des Vorbildlichen, angepaßt für jüngere junge
-und ältere Menschen.
+Das **Maaß** des Studiums liegt darin: **nur**
+**was zur Nachahmung reizt, was** mit Liebe ergriffen wird und fortzuzeugen verlangt, soll
+studirt werden. Da wäre das **Richtigste**: ein **fortschreitender** Kanon
+des **Vorbildlichen**, **angepaßt** für **jüngere junge**
+und **ältere** Menschen.
 
 [5[172]](javascript:;)
 ----------------------
 
-In der Art hat Goethe das Alterthum ergriffen: immer mit wetteifernder Seele. Aber wer
+In **der** Art hat Goethe das Alterthum ergriffen: immer mit wetteifernder Seele. Aber wer
 sonst? Man sieht nichts von einer durchdachten Pädagogik dieser Art: wer weiß, daß es Erkenntnisse des
 Alterthums giebt, die Jünglingen unmittheilbar sind!
 
 [5[173]](javascript:;)
 ----------------------
 
-Der knabenhafte Charakter der Philologie: für Schüler von Lehrern erdacht.
+Der **knabenhafte** Charakter der Philologie: für Schüler von Lehrern erdacht.
 
 [5[174]](javascript:;)
 ----------------------
 
-Immer allgemeinere Gestalt des Vorbildlichen: erst Menschen, dann
+Immer **allgemeinere** Gestalt des **Vorbildlichen**: erst Menschen, dann
 Institutionen, endlich Richtungen Absichten oder deren Mangel.
 
-Höchste Gestalt: Überwindung des Vorbildes mit dem Rückgange von Tendenzen zu
+Höchste Gestalt: **Überwindung des Vorbildes** mit dem Rückgange von Tendenzen zu
 Institutionen, von Institutionen zu Menschen.
 
 [5[175]](javascript:;)
 ----------------------
 
-Die Förderung einer Wissenschaft auf Unkosten der Menschen ist die schädlichste Sache
+Die **Förderung einer Wissenschaft auf Unkosten der Menschen** ist die schädlichste Sache
 von der Welt. Der verkümmerte Mensch ist ein Rückschritt der Menschheit; er wirft in alle Zeit hinaus seinen
-Schatten. Es entartet die Gesinnung, die natürliche Absicht der einzelnen Wissenschaft:
+**Schatten**. Es entartet die Gesinnung, die natürliche Absicht der einzelnen Wissenschaft:
 sie selber geht daran endlich zu Grunde; sie steht gefördert da, wirkt aber nicht, oder unmoralisch auf das
 Leben.
 
 [5[176]](javascript:;)
 ----------------------
 
-Menschen nicht als Sache benutzen!
+Menschen nicht als **Sache** benutzen!
 
 [5[177]](javascript:;)
 ----------------------
@@ -1641,29 +1640,29 @@ hochentwickelte knechtet und dient dem Staatsgötzen.
 
 Je besser der Staat eingerichtet ist, desto matter die Menschheit.
 
-Das Individuum unbehaglich zu machen: meine Aufgabe!
+Das Individuum **unbehaglich** zu machen: meine Aufgabe!
 
 Reiz der Befreiung des Einzelnen im Kampfe!
 
-Die geistige Höhe hat ihre Zeit in der Geschichte, vererbte Energie gehört dazu. Im
+Die geistige Höhe hat ihre **Zeit** in der Geschichte, vererbte Energie gehört dazu. Im
 idealen Staat ist es damit vorbei.
 
 [5[179]](javascript:;)
 ----------------------
 
 Die geistige Cultur Griechenlands eine Aberration des ungeheuren politischen Triebes nach ἀριστεύειν. — Die πόλις höchst ablehnend gegen
-neue Bildung. Trotzdem existirte die Cultur.
+neue Bildung. **Trotzdem** existirte die Cultur.
 
 [5[180]](javascript:;)
 ----------------------
 
 Höchstes Urtheil über das Leben nur aus der höchsten Energie des Lebens, der Geist muß am weitesten von der
-Mattheit entfernt sein.
+**Mattheit** entfernt sein.
 
-In der mittleren Weltgeschichte wird das Urtheil am richtigsten sein, weil da die
-größten Genien existiren.
+In der **mittleren** Weltgeschichte wird das Urtheil am richtigsten sein, weil da die
+größten **Genien** existiren.
 
-Erzeugung des Genius als des Einzigen, der das Leben wahrhaft schätzen und verneinen kann.
+**Erzeugung des Genius** als des Einzigen, der das Leben wahrhaft **schätzen** und **verneinen** kann.
 
 [5[181]](javascript:;)
 ----------------------
@@ -1674,13 +1673,13 @@ Klavier übt.
 [5[182]](javascript:;)
 ----------------------
 
-Rettet euren Genius! soll den Leuten zugerufen werden, befreit ihn! Thut alles, um ihn
+**Rettet euren Genius!** soll den Leuten zugerufen werden, befreit ihn! Thut alles, um ihn
 zu entfesseln!
 
 [5[183]](javascript:;)
 ----------------------
 
-Die Matten, geistig Armen dürfen über das Leben nicht urtheilen.
+Die Matten, geistig Armen **dürfen** über das Leben nicht urtheilen.
 
 [5[184]](javascript:;)
 ----------------------
@@ -1695,73 +1694,73 @@ durch Lob eine Freude machen und man würde sie betrüben, wenn man sich über i
 
 Man muß von der Zukunft der Menschheit nicht erwarten, was bestimmte Vergangenheiten erzeugten z.B. die
 Wirkungen des religiösen Gefühls. Vielleicht ist der Typus des Heiligen nur bei einer gewissen Befangenheit
-des Intellekts möglich, mit der es vorbei ist. Selbst die Höhe der Intelligenz ist
+des Intellekts möglich, mit der es vorbei ist. Selbst die **Höhe** der Intelligenz ist
 vielleicht einem Zeitalter der Menschheit aufgespart gewesen. Ungeheure Energie des Willens, auf geistige
 Bestrebungen übertragen (aberration) — nur möglich, so lange jene Wildheit und Energie groß gezüchtet war. Dem
 Ziel der Menschheit kommt sie vielleicht auf der Mitte ihres Weges näher als am Ende. — Es könnten Kräfte, von
 denen die Kunst bedingt ist, aussterben z.B. die Lust am Lügen, am Undeutlichen Symbolischen usw., auch der
 Rausch könnte in Mißachtung kommen. Und im Grunde: ist das Leben im idealen Staate geordnet, dann ist keine
-Dichtung der Gegenwart mehr möglich: besten Falls blickt sie mit Sehnsucht zurück, nach
+Dichtung der **Gegenwart** mehr möglich: besten Falls blickt sie mit Sehnsucht zurück, nach
 den Zeiten des unidealen Staates.
 
 [5[186]](javascript:;)
 ----------------------
 
-Kindheit und Knabenalter hat sein Ziel in sich, ist nicht Stufe.
+Kindheit und Knabenalter hat sein Ziel in sich, ist nicht **Stufe**.
 
 [5[187]](javascript:;)
 ----------------------
 
-Ich wünsche ein Buch über die Lebensweise der Gelehrten.
+Ich wünsche ein Buch über die **Lebensweise der Gelehrten**.
 
 [5[188]](javascript:;)
 ----------------------
 
-Ziele.
+**Ziele.**
 
-Der Werth des Lebens kann nur durch den höchsten Intellekt und das wärmste Herz gemessen
+Der Werth des Lebens kann nur durch den **höchsten Intellekt** und das wärmste Herz gemessen
 werden.
 
 Wie sind die höchsten Intelligenzen zu erzeugen? —
 
-Die Ziele der menschlichen Wohlfahrt im Groben sind ganz andre: als
+Die Ziele der **menschlichen Wohlfahrt** im Groben sind ganz **andre**: als
 die höchste Intelligenz zu erzeugen. Das Wohlleben gilt viel zu hoch und ist ganz äußerlich genommen, auch die
 Schule und die Erziehung.
 
-Der ideale Staat, den die Socialisten träumen, zerstört das Fundament der großen
+Der ideale Staat, den die Socialisten träumen, zerstört das **Fundament** der großen
 Intelligenzen, die starke Energie.
 
-Wir müssen wünschen, daß das Leben seinen gewaltsamen Charakter behalte, daß wilde Kräfte und Energien hervorgerufen werden. Das Urtheil über den Werth des Daseins ist
-das höchste Resultat der kräftigsten Spannung im Chaos.
+Wir müssen wünschen, daß das Leben seinen **gewaltsamen** Charakter behalte, daß **wilde** Kräfte und Energien hervorgerufen werden. Das Urtheil über den Werth des Daseins ist
+das höchste Resultat der kräftigsten **Spannung** im Chaos.
 
 Nun will das wärmste Herz Beseitigung jenes gewaltsamen, wilden Charakters; während es doch selbst aus ihm
 hervorgieng! Es will Beseitigung seines Fundaments! Das heißt, es ist nicht intelligent.
 
 Die höchste Intelligenz und das wärmste Herz können nicht in Einer Person zusammen sein. Die höchste
-Intelligenz ist höher als alle Güte, auch diese ist nur etwas bei
-der Gesammtrechnung des Lebens Abzuschätzendes, der Weise steht darüber.
+Intelligenz ist **höher** als alle Güte, auch **diese** ist nur etwas bei
+der Gesammtrechnung des Lebens **Abzuschätzendes**, der Weise steht darüber.
 
-Der Weise muß den Gedanken der unintelligenten Güte widerstreben,
-weil ihm an der Wiedererzeugung seines Typus liegt. Mindestens kann er nicht den idealen
-Staat fördern. — Christus förderte die Verdummung der Menschen, er hielt die Erzeugung
+Der **Weise** muß den Gedanken der unintelligenten Güte **widerstreben**,
+weil ihm an der Wiedererzeugung seines Typus liegt. Mindestens kann er **nicht** den idealen
+Staat **fördern**. — Christus förderte die Verdummung der Menschen, er hielt die Erzeugung
 des großen Intellekts auf. Consequent! Sein Gegenbild würde vielleicht der Erzeugung von Christus’ hinderlich
-sein. — Fatum tristissimum generis humani!
+sein. — **Fatum tristissimum generis humani!**
 
 [5[189]](javascript:;)
 ----------------------
 
-Proœmium
+**Proœmium**
 
-Wäre ich schon frei, so würde ich das ganze Ringen nicht nöthig haben, sondern mich zu
+Wäre ich schon **frei**, so würde ich das ganze Ringen nicht nöthig haben, sondern mich zu
 einem Werke oder Thun wenden, an dem ich meine ganze Kraft erproben könnte. — Jetzt darf ich nur hoffen,
 allmählich frei zu werden; und ich spüre bis jetzt, daß ich es immer mehr werde. So kommt auch wohl mein Tag
-der eigentlichen Arbeit noch, und die Vorbereitung zu den
-olympischen Spielen ist vorüber. —
+der eigentlichen **Arbeit** noch, und die **Vorbereitung** zu den
+olympischen Spielen ist **vorüber**. —
 
 [5[190]](javascript:;)
 ----------------------
 
-Es steht mir noch bevor, Ansichten zu äußern, welche als schmählich für den gelten, welcher sie hegt; da werden auch die Freunde und Bekannten scheu und ängstlich
+Es steht mir noch bevor, Ansichten zu äußern, welche als **schmählich** für den **gelten**, welcher sie hegt; da werden auch die Freunde und Bekannten scheu und ängstlich
 werden. Auch durch dies Feuer muß ich hindurch. Ich gehöre mir dann immer mehr. —
 
 [5[191]](javascript:;)
@@ -1784,14 +1783,14 @@ Platon’s Sokrates ist im eigentlichen Sinne eine Carricatura, eine Überladung
 [5[194]](javascript:;)
 ----------------------
 
-Mißhandelt die Menschen, treibt sie zum Äußersten, und das durch Jahrtausende — da springt, durch eine Verirrung der Natur, durch einen abspringenden Funken der dadurch entzündeten furchtbaren
+Mißhandelt die Menschen, treibt sie zum Äußersten, und das durch Jahrtausende — da springt, durch eine **Verirrung** der Natur, durch einen abspringenden Funken der dadurch entzündeten furchtbaren
 Energie, auf einmal der Genius hervor. — So redet die Geschichte zu mir. Schreckliches Gesicht! Weh! Ich
 ertrag’ dich nicht! —
 
 [5[195]](javascript:;)
 ----------------------
 
-Die Griechen der Kaiserzeit sind matt und
+Die **Griechen** der **Kaiserzeit** sind **matt** und
 nehmen sich ganz gut als Typen der zukünftigen Menschheit aus. Sie erscheinen menschenfreundlich, namentlich
 gegen Rom, verabscheuen Gladiatorenkämpfe usw. — Es ist ganz falsch, von da aus Schlüsse auf ihre Jugendzeit
 zu machen.
@@ -1799,7 +1798,7 @@ zu machen.
 [5[196]](javascript:;)
 ----------------------
 
-Homer ist in der vermenschlichten Götterwelt so zu Hause und hat als Dichter ein solches
+**Homer** ist in der vermenschlichten Götterwelt so zu Hause und hat als Dichter ein solches
 Behagen, daß er tief unreligiös gewesen sein muß. Er verkehrt wie der Bildhauer mit seinem Thon und
 Marmor.
 
@@ -1807,30 +1806,32 @@ Marmor.
 ----------------------
 
 Die griechische Polis ist ausschließend gegen die Bildung, ihr politischer Trieb war auf dieser Seite höchst
-lähmend und stabilisirend. Es sollte keine Geschichte kein Werden in
-der Bildung sein, sie sollte ein für allemal fest sein. So wollte es später auch Plato. Trotz der Polis entstand die höhere Bildung: indirekt sogar durch sie, weil der Ehrgeiz des
+lähmend und stabilisirend. Es sollte keine **Geschichte** kein **Werden** in
+der Bildung sein, sie sollte ein für allemal fest sein. So wollte es später auch Plato. **Trotz** der Polis entstand die höhere Bildung: indirekt sogar durch sie, weil der Ehrgeiz des
 Individuums durch sie auf’s Höchste gehoben wurde. Gerieth ein Grieche auf die geistige Auszeichnung, so ging
 er bis in’s letzte Extrem.
 
 [5[198]](javascript:;)
 ----------------------
 
-Urbevölkerung griechischen Bodens: mongolischer Abkunft mit Baum- und Schlangenkult. Die
+**Urbevölkerung** griechischen Bodens: mongolischer Abkunft mit Baum- und Schlangenkult. Die
 Küste mit einem semitischen Streifen verbrämt. Hier und da Thrakier. Die Griechen haben alle diese
 Bestandtheile in ihr Blut aufgenommen, auch alle Götter und Mythen mit (in den Odysseusfabeln manches
-Mongolische). Die dorische Wanderung ist ein Nachstoß, nachdem schon früher alles
+Mongolische). Die dorische Wanderung ist ein **Nachstoß**, nachdem schon früher alles
 allmählich überfluthet war. Was sind „Rassegriechen“? Genügt es nicht anzunehmen, daß Italiker mit thrakischen
-und semitischen Elementen gepaart Griechen geworden sind?
+und semitischen Elementen gepaart **Griechen** geworden sind?
 
 [5[199]](javascript:;)
 ----------------------
 
-Denkt man an die ungeheure Masse von Sklaven auf dem Festlande, so waren Griechen immer
-nur sporadisch zu finden. Eine höhere Kaste von Nichtthuern Politikern usw. Ihre Feindschaften hielten sie in leiblicher und geistiger Spannung. Sie mußten ihre Superiorität an Qualität festhalten — das war ihr Zauber über die
+Denkt man an die ungeheure Masse von Sklaven auf dem Festlande, so waren **Griechen** immer
+nur sporadisch zu finden. Eine **höhere** Kaste von Nichtthuern Politikern usw. Ihre **Feindschaften** hielten sie in leiblicher und geistiger Spannung. Sie mußten ihre **Superiorität** an **Qualität** festhalten — das war ihr Zauber über die
 Massen.
 
 [5[200]](javascript:;)
 ----------------------
 
-Die Rede des Perikles ein großes optimistisches Trugbild, die
+Die **Rede** des **Perikles** ein großes optimistisches Trugbild, die
 Abendröthe, bei der man den schlimmen Tag vergißt — die Nacht kommt hinterdrein.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -27,5 +27,7 @@ cogitat.
 [46[3]](javascript:;)
 ---------------------
 
-Kurzer Sommer. — Manchen Naturen ist nur ein Augenblick Sommerzeit beschieden: sie
+**Kurzer Sommer. —** Manchen Naturen ist nur ein Augenblick Sommerzeit beschieden: sie
 hatten einen späten Frühling und sollen einen langen Herbst haben. Es sind die geistigern Geschöpfe.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

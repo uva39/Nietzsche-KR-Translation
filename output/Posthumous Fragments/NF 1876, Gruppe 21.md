@@ -21,12 +21,12 @@ Gletscher Steinchen Blümchen
 [21[2]](javascript:;)
 ---------------------
 
-Alle Schriftsteller erleben zu bewusst, zu unsicher.
+Alle Schriftsteller **erleben** zu bewusst, zu unsicher.
 
 [21[3]](javascript:;)
 ---------------------
 
-Kamm, Halsband, Ohrringe Broche — Ein Stil es ist Filigran.
+Kamm, Halsband, Ohrringe Broche — **Ein** Stil es ist Filigran.
 
 [21[4]](javascript:;)
 ---------------------
@@ -49,14 +49,14 @@ Eitelkeit verträgt sich mit Selbstverachtung — höhere Warte des Selbstmordes
 [21[6]](javascript:;)
 ---------------------
 
-Periode der grossartigen Mot<ive> [— — —] das Persönliche nicht das Unpersönliche.
+Periode der grossartigen Mot&amp;lt;ive&amp;gt; [— — —] das Persönliche nicht das Unpersönliche.
 
 [21[7]](javascript:;)
 ---------------------
 
-Offenheit Verstecktheit — als Ausgangspuncte der Tugenden niederer Bevölkerung.
+**Offenheit Verstecktheit** — als Ausgangspuncte der Tugenden niederer Bevölkerung.
 
-Vornehm — vulgär für die höhere Kaste.
+**Vornehm** — **vulgär** für die höhere Kaste.
 
 [21[8]](javascript:;)
 ---------------------
@@ -100,7 +100,7 @@ Schopenhauer zur Welt wie Blinder zur Schrift.
 [21[14]](javascript:;)
 ----------------------
 
-Das Ahnungsvolle Intuitiv-Unlogische im deutschen Wesen ist Zeichen, dass es
+Das Ahnungsvolle Intuitiv-Unlogische im **deutschen** Wesen ist Zeichen, dass es
 zurückgeblieben, noch mittelalterlich-bestimmt ist — manche Vorzüge liegen darin, wie in allen Dingen.
 
 [21[15]](javascript:;)
@@ -169,7 +169,7 @@ Der Freund der moralischste Mensch. Aristoteles.
 [21[27]](javascript:;)
 ----------------------
 
-Auf That kommt alles an — Nutz.
+Auf **That** kommt alles an — Nutz.
 
 [21[28]](javascript:;)
 ----------------------
@@ -187,12 +187,12 @@ Viertel steht.
 ----------------------
 
 Wer an den Vergnügungen erst vorsichtig herumkostet, behält nachher kaum einen Mund voll
-Annehml<ich>k<eit> übrig.
+Annehml&amp;lt;ich&amp;gt;k&amp;lt;eit&amp;gt; übrig.
 
 [21[31]](javascript:;)
 ----------------------
 
-Das Egoistische gilt als böse, in den meisten Fallen mit Unrecht; denn dass es schädigt, giebt ihm nicht diesen Character. Es will sich erhalten, Character der Nothwehr
+Das Egoistische gilt als **böse**, in den meisten Fallen mit Unrecht; denn dass es **schädigt**, giebt ihm nicht diesen Character. Es will sich erhalten, Character der Nothwehr
 (selber Emotion der Nerven zu haben kann Bedürfniss sein). Ohne Bedürfniss schädigen und mit Absicht ist
 Unsinn.
 
@@ -279,13 +279,13 @@ Cynismus die Hinrichtung erfrischt.
 [21[43]](javascript:;)
 ----------------------
 
-Der Socialismus beruht auf dem Entschluss die Menschen gleich zu
+Der Socialismus beruht auf dem **Entschluss** die Menschen **gleich** zu
 setzen und gerecht gegen jeden zu sein: es ist die höchste Moralität.
 
 [21[44]](javascript:;)
 ----------------------
 
-Der Reiz der Wissenschaft hebt sich jetzt noch durch den Contrast.
+Der Reiz der Wissenschaft hebt sich **jetzt** noch durch den Contrast.
 
 [21[45]](javascript:;)
 ----------------------
@@ -335,7 +335,7 @@ Mitleid schweigt
 [21[53]](javascript:;)
 ----------------------
 
-Die Wissenschaft macht dem, welcher sie fördert, Lust: sehr wenig dem, welcher Resultate
+Die Wissenschaft macht dem, welcher sie fördert, Lust: **sehr wenig** dem, welcher Resultate
 empfängt.
 
 Aber anders mit Kunst Religion usw. Wir müssen das Reich der Unwahrheit in uns halten: dies ist die
@@ -344,7 +344,7 @@ Tragödie.
 [21[54]](javascript:;)
 ----------------------
 
-Violette (mehr roth als blau) Tapeten Vorhänge nervenberuhigend,
+**Violette** (mehr roth als blau) Tapeten Vorhänge **nerven**beruhigend,
 ein amerikanischer Arzt hat Wahnsinn damit kurirt.
 
 [21[55]](javascript:;)
@@ -364,7 +364,7 @@ A. Bedingungen der Erzieher.
 
 3. eine Wissenschaft.
 
-<B.> Themata:
+&amp;lt;B.&amp;gt; Themata:
 
 C. Erholungen — — —
 
@@ -376,7 +376,7 @@ nicht sind?
 
 Pflüger.
 
-Richter zugl<eich> Seelsorger.
+Richter zugl&amp;lt;eich&amp;gt; Seelsorger.
 
 Vorrede hinterdrein.
 
@@ -394,7 +394,7 @@ unwissenschaftlichen).
 [21[60]](javascript:;)
 ----------------------
 
-Wenn der Mensch sofort mit Einsicht in die Wahrheit begabt wäre,
+Wenn der Mensch **sofort** mit **Einsicht** in die Wahrheit begabt wäre,
 die Schule des Irrthums nicht durchgemacht hätte?
 
 [21[61]](javascript:;)
@@ -412,7 +412,7 @@ Die Wahrheit einflusslos wie die gehende Sonne.
 
 Anfang: unsere Erzieher sind selber nicht erzogen.
 
-Schluss: Tod so lange wie möglich zu verscheuchen. Aeternität.
+Schluss: **Tod** so lange wie möglich zu verscheuchen. Aeternität.
 
 [21[64]](javascript:;)
 ----------------------
@@ -422,7 +422,7 @@ Auferstehung je 300 Jahre.
 [21[65]](javascript:;)
 ----------------------
 
-F<rage>. Wenn man etwas nimmt hat man es?
+F&amp;lt;rage&amp;gt;. Wenn man etwas nimmt hat man es?
 
 Ja.
 
@@ -451,12 +451,12 @@ Frauen Heirathen Trauung
 [21[70]](javascript:;)
 ----------------------
 
-Optim<ismus> Pessim<ismus> nichts [—]
+Optim&amp;lt;ismus&amp;gt; Pessim&amp;lt;ismus&amp;gt; nichts [—]
 
 [21[71]](javascript:;)
 ----------------------
 
-Graugrün Oberkleid und blau hell Unterkleid
+**Grau**grün **Oberkleid** und blau hell **Unter**kleid
 [—] mit weissen Spitzen
 
 [21[72]](javascript:;)
@@ -469,12 +469,12 @@ Grausamkeit, soweit Triumph der Macht.
 ----------------------
 
 Alle bösen Eigenschaften gehen auf den Erhaltungstrieb des Einzelnen zurück, der doch gewiss nicht böse ist.
-Missgunst bei Hunger, wenn ein anderer — — —
+**Missgunst** bei Hunger, wenn ein anderer — — —
 
 [21[74]](javascript:;)
 ----------------------
 
-Aus einem metaphysischen Zeitalter in ein realistisches [+] ist ein tödtlicher S<prung>
+Aus einem metaphysischen Zeitalter in ein realistisches [+] ist ein tödtlicher S&amp;lt;prung&amp;gt;
 Übergänge [+]
 
 [21[75]](javascript:;)
@@ -533,9 +533,11 @@ Vergleichung ein Hauptmittel zur Lust an uns.
 [21[83]](javascript:;)
 ----------------------
 
-Moralität hängt oft vom Erfolg <ab>.
+Moralität hängt oft vom Erfolg &amp;lt;ab&amp;gt;.
 
 [21[84]](javascript:;)
 ----------------------
 
-Schlussgelöbniss über Wissenschaft. Wenn ihr es könnt, werdet ihr müssen.
+Schlus**sgelöbniss** über Wissenschaft. Wenn ihr es könnt, werdet ihr müssen.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

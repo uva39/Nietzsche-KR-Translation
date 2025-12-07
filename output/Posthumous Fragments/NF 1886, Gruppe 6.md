@@ -19,12 +19,12 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 Wenn man eine tapfere und wohlgerathene Seele im Leibe hat, kann man sich schon diesen artigen Luxus von
 Immoralität erlauben.
 
-Nachspiel und Abgesang
+**Nachspiel und Abgesang**
 
 [6[2]](javascript:;)
 --------------------
 
-Jenseits von Gut und Schlecht?
+**Jenseits von Gut und Schlecht?**
   
 Eine  
 philosophische Streitschrift.
@@ -42,7 +42,7 @@ Friedrich Nietzsche.
 [6[3]](javascript:;)
 --------------------
 
-Sieben Vorreden
+**Sieben Vorreden**
 
   
 
@@ -58,7 +58,7 @@ Lieder des Prinzen Vogelfrei.
   
 
 Von  
-Friedrich Nietzsche.
+**Friedrich Nietzsche.**
 
   
 
@@ -68,38 +68,38 @@ Verlag von E. W. Fritzsch.
 [6[4]](javascript:;)
 --------------------
 
-Vorreden und Nachreden.
+**Vorreden und Nachreden.**
 
 Meine Schriften reden nur von meinen eignen Erlebnissen — glücklicherweise habe ich Viel erlebt —: ich bin
-darin, mit Leib und Seele — wozu es verhehlen?, ego ipsissimus, und wenn es hoch kommt, ego ipsissimum. Aber es bedurfte bei mir immer erst einiger Jahre Distanz, um jene gebieterische Lust
-und Kraft zu verspüren, welche jedes solches Erlebniß, jeden solchen überlebten Zustand
+darin, mit Leib und Seele — wozu es verhehlen?, ego ipsissimus, und wenn es hoch kommt, ego ipsissim**um**. Aber es bedurfte bei mir immer erst einiger Jahre Distanz, um jene gebieterische Lust
+und Kraft zu verspüren, welche jedes solches Erlebniß, jeden solchen **überlebten** Zustand
 darstellen heißt. Insofern sind alle meine Schriften, mit einer einzigen, allerdings sehr wesentlichen
-Ausnahme zurückdatirt. Manche sogar wie die ersten Unzeitgemäßen Betrachtungen, sogar
+Ausnahme **zurückdatirt**. Manche sogar wie die ersten Unzeitgemäßen Betrachtungen, sogar
 hinter die Entstehungs- und Erlebnißzeit eines früher herausgegebenen Buches, der „Geburt der Tragödie“: wie
 es einem feineren Beobachter und Vergleicher nicht verborgen bleiben wird. Jener zornige Ausbruch gegen die
-Deutschthümelei, Behäbigkeit und Selbstbewunderung des alten David Strauß machte
+Deutschthümelei, Behäbigkeit und Selbstbewunderung des alten David **Strauß** machte
 Stimmungen Luft, mit denen ich als Student inmitten deutscher Bildung und Bildungs-Philisterei gesessen hatte;
-und was ich gegen die „historische Krankheit“ gesagt habe, das sagte ich als Einer, der von ihr genesen lernte und welcher ganz und gar nicht Willens war, fürderhin auf „Historie“ zu
+und was ich gegen die „historische Krankheit“ gesagt habe, das sagte ich als Einer, der von ihr **genesen** lernte und welcher ganz und gar nicht Willens war, fürderhin auf „Historie“ zu
 verzichten. (Quod demonstratum est —). Als ich meine Dankbarkeit gegen meinen ersten und einzigen Erzieher,
 gegen Arthur Schopenhauer ausdrückte — ich würde sie jetzt noch viel stärker ausdrücken — war ich für meine
 eigne Person mitten in der moralistischen Scepsis und Auflösung drin und glaubte bereits an „gar nichts mehr“,
 wie das Volk sagt, auch an Schopenhauer nicht: eben in jener Zeit entstand ein geheim gehaltenes Schriftstück
 „über Wahrheit und Lüge im außermoralischen Sinne“, — aber schon in der „Geburt der Tragödie“ und ihrer Lehre
-vom Dionysischen erscheint der Schopenhauerische Pessimismus als überwunden. Meine
+vom **Dionysischen** erscheint der Schopenhauerische Pessimismus als überwunden. Meine
 Festrede zu Ehren Richard Wagners, bei Gelegenheit seiner Bayreuther Siegesfeier — Bayreuth bedeutet den
 größten Sieg, den je ein Künstler errungen hat — war zugleich ein Lossage- und Entfremdungs-Akt. Wagner selbst
 täuschte sich darüber nicht: so lange man liebt, malt man keine solchen „Porträts“ und „betrachtet“ überhaupt
-nicht — „jeder, der sich genau prüft, weiß, daß selbst zum Betrachten eine geheimnißvolle Gegnerschaft, die des Entgegenschauens gehört“, heißt es p. 46 der genannten
-Schrift. Die Gelassenheit, um über lange Jahre innerlichsten Alleinseins und Entbehrens reden zu können, kam mir erst mit dem Buche „Menschliches, Allzumenschliches“, auf ihm liegt die
+nicht — „jeder, der sich genau prüft, weiß, daß selbst zum Betrachten eine geheimnißvolle **Gegnerschaft**, die des **Entgegenschauens** gehört“, heißt es p. 46 der genannten
+Schrift. Die Gelassenheit, um über lange Jahre innerlichsten Alleinseins und Entbehrens reden zu **können**, kam mir erst mit dem Buche „Menschliches, Allzumenschliches“, auf ihm liegt die
 heitere und neugierige Kälte des Psychologen, der eine Menge schmerzlicher Dinge, lauter facta, richtiger
-fata, seiner Vergangenheit für sich feststellt und mit der Nadel gleichsam fest sticht: —
+fata, seiner Vergangenheit für sich feststellt und mit der Nadel gleichsam fest **sticht**: —
 bei einer solchen Arbeit hat man wie bekannt immer etwas Blut an den Fingern… Um es schließlich zu sagen,
 worauf ich mit den eben gegebenen Winken die Leser dieses Buches vorzubereiten für nöthig finde: es steht auch
 mit diesem Buche, dessen letzter Theil hiermit ans Licht gegeben wird, nicht anders als es bisher mit meinen
-Schriften stand, — es ist ein Stück meines Hinter-mir. Was ihm zu Grunde liegt, Gedanken,
+Schriften stand, — es ist ein Stück meines **Hinter-mir**. Was ihm zu Grunde liegt, Gedanken,
 erste Niederschriften und Hinwürfe aller Art, das gehört meiner Vergangenheit an: nämlich jener räthselreichen
-Zeit, in der „Also sprach Zarathustra“ entstand: es dürfte schon um dieser
-Gleichzeitigkeit willen nützliche Fingerzeige zum Verständnisse des eben genannten schwerverständlichen Werkes abgeben. Namentlich auch zum Verständnisse seiner Entstehung: mit der es
+Zeit, in der **„Also sprach Zarathustra“** entstand: es dürfte schon um dieser
+Gleichzeitigkeit willen nützliche Fingerzeige zum Verständnisse des eben genannten **schwerverständlichen** Werkes abgeben. Namentlich auch zum Verständnisse seiner Entstehung: mit der es
 etwas auf sich hat. Damals dienten mir solcherlei Gedanken sei es zur Erholung, sei es als Selbstverhör und
 Selbstrechtfertigung inmitten eines unbegrenzt gewagten und verantwortlichen Unterfangens: möge man sich des
 aus ihnen erwachsenen Buches zu einem ähnlichen Zwecke bedienen! Oder auch als eines vielverschlungenen
@@ -108,11 +108,11 @@ genannte Zarathustra-Evangelium entsprungen. So gewiß auch dies „Vorspiel ein
 keinen Commentar zu den Reden Zarathustra’s abgiebt und abgeben soll, so vielleicht doch eine Art vorläufiges
 Glossarium, in dem die wichtigsten Begriffs- und Werth-Neuerungen jenes Buchs — eines Ereignisses ohne
 Vorbild, Beispiel, Gleichniß in aller Litteratur — irgendwo einmal vorkommen und mit Namen genannt sind.
-Gesetzt endlich, meine Herrn Leser, daß gerade diese Namen euch nicht gefallen, euch nicht verführen, gesetzt sogar daß vestigia terrent…, wer sagt
-euch, daß ich’s anders — will? Für meinen Sohn Zarathustra verlange ich Ehrfurcht; und
-es soll nur den Wenigsten erlaubt sein, ihm zuzuhören. Über mich dagegen seinen „Vater“ —
+Gesetzt endlich, meine Herrn Leser, daß gerade diese Namen **euch** nicht gefallen, **euch** nicht verführen, gesetzt sogar daß vestigia **terrent**…, wer sagt
+**euch**, daß ich’s anders — will? Für meinen Sohn Zarathustra verlange ich Ehrfurcht; und
+es soll nur den Wenigsten **erlaubt** sein, ihm zuzuhören. Über mich dagegen seinen „Vater“ —
 darf man lachen, wie ich selbst es thue: das gehört Beides sogar zu meinem Glücke. Oder, um einer Redensart
-<mich> zu bedienen, <die> über meiner Hausthür steht, und alles Gesagte noch
+&amp;lt;mich&amp;gt; zu bedienen, &amp;lt;die&amp;gt; über meiner Hausthür steht, und alles Gesagte noch
 einmal kurz zu sagen:
 
   
@@ -133,7 +133,7 @@ der nicht sich selber — ausgelacht.
 --------------------
 
 Poètes et Mélodes. Étude sur les origines du rhythme tonique dans l’hymnographie de l’église grecque. Par le
-P. Edmond Bouvy
+P. Edmond **Bouvy**
 
 XVI, 384 p.
 
@@ -141,14 +141,14 @@ Nîmes, Maison de l’Assomption 1886.
 
   
 
-W. Meyer Anfang und Ursprung der lateinischen und griechischen rhythmischen Dichtung.
+**W. Meyer** Anfang und Ursprung der lateinischen und griechischen rhythmischen Dichtung.
 Abhandlung der königlichen bairischen Akademie der Wissenschaften 1884.
 
   
 
 Barbey d’Aurevilly
 
-Oeuvres et hommes.
+**Oeuvres et hommes.**
 
 |  |
 | --- |
@@ -204,16 +204,16 @@ Wenn wir unsere Sinne um das Zehnfache verschärften oder abstumpften, würden w
 Sinnes steht im Verhältniß zu einem Mittler von Erhaltungs-Möglichkeit. Ebenso was wir als groß, als klein,
 als nah, als fern empfinden. Unsre „Formen“ — daran ist nichts, was andere Wesen wahrnehmen könnten als der
 Mensch: — unsre Existenz-Bedingungen schreiben die allgemeinsten Gesetze vor, innerhalb derer wir Formen,
-Gestalten, Gesetze sehn, sehn dürfen…
+Gestalten, Gesetze sehn, sehn **dürfen**…
 
 [6[9]](javascript:;)
 --------------------
 
 Wenn kein Ziel in der ganzen Geschichte der menschlichen Geschicke liegt, so müssen wir eins hineinstecken:
-gesetzt nämlich, daß ein Ziel uns nöthig ist, und uns andrerseits die Illusion eines
+gesetzt nämlich, daß ein Ziel uns **nöthig** ist, und uns andrerseits die Illusion eines
 immanenten Zieles und Zwecks durchsichtig geworden ist. Und wir haben Ziele deshalb nöthig, weil wir einen
 Willen nöthig haben — der unser Rückgrat ist. „Wille“ als Schadenersatz für „Glaube“, d.h. für die
-Vorstellung, daß es einen göttlichen Willen giebt, Einen, der etwas mit uns vorhat…
+Vorstellung, daß es einen **göttlichen** Willen giebt, Einen, der etwas mit uns vorhat…
 
 [6[10]](javascript:;)
 ---------------------
@@ -242,7 +242,7 @@ noch in Fesseln gelassen werden müssen. (Schluß von M. Allz. 2.)
 [6[13]](javascript:;)
 ---------------------
 
-Wir werden am letzten den ältesten Bestand von Metaphysik los werden, gesetzt daß wir ihn loswerden können — jenen Bestand, welcher in der Sprache und den grammatischen Kategorien sich
+Wir werden am letzten den ältesten Bestand von Metaphysik los werden, gesetzt daß wir ihn loswerden **können** — jenen Bestand, welcher in der Sprache und den grammatischen Kategorien sich
 einverleibt und dermaaßen unentbehrlich gemacht hat, daß es scheinen möchte, wir würden aufhören, denken zu
 können, wenn wir auf diese Metaphysik Verzicht leisteten. Gerade die Philosophen wissen sich am schwersten vom
 Glauben frei zu machen, daß die Grundbegriffe und Kategorien der Vernunft ohne Weiteres schon ins Reich der
@@ -267,12 +267,12 @@ festesten Sitz hat. Muß ich umgekehrt noch hinzufügen, daß Quantitäten „an
 vorkommen, daß unsere Welt der Erfahrung nur eine qualitative Welt ist, daß folglich Logik und angewandte
 Logik (wie Mathematik) zu den Kunstgriffen der ordnenden, überwältigenden, vereinfachenden, abkürzenden Macht
 gehört, die Leben heißt, also etwas Praktisches und Nützliches, nämlich Leben-Erhaltendes, aber ebendarum auch
-nicht im Entferntesten etwas „Wahres“ <ist>?
+nicht im Entferntesten etwas „Wahres“ &amp;lt;ist&amp;gt;?
 
 [6[15]](javascript:;)
 ---------------------
 
-Den Sinn nicht in den Dingen suchen: sondern ihn hineinstecken!
+Den Sinn nicht in den Dingen suchen: sondern ihn **hineinstecken**!
 
 [6[16]](javascript:;)
 ---------------------
@@ -311,17 +311,17 @@ thörichte Handlung ersten Ranges, die gegen jede Vernunft gefeit ist.
 [6[22]](javascript:;)
 ---------------------
 
-Unter Künstlern der Zukunft. — Ich sehe hier einen Musiker, der die Sprache Rossini’s
+**Unter Künstlern der Zukunft. —** Ich sehe hier einen Musiker, der die Sprache Rossini’s
 und Mozart’s wie seine Muttersprache redet, jene zärtliche, tolle, bald zu weiche, bald zu lärmende
 Volkssprache der Musik mit ihrer schelmischen Indulgenz gegen Alles, auch gegen das „Gemeine“, — welcher sich
 aber dabei ein Lächeln entschlüpfen läßt, das Lächeln des Verwöhnten, Raffinirten, Spätgeborenen, der sich
 zugleich aus Herzensgrunde beständig noch über die gute alte Zeit und ihre sehr gute, sehr alte, altmodische
-Musik lustig macht: aber ein Lächeln voll Liebe, voll Rührung selbst… Wie? ist das nicht
-die beste Stellung, die wir heute zum Vergangnen überhaupt haben können — auf diese Weise
+Musik **lustig macht**: aber ein Lächeln voll Liebe, voll Rührung selbst… Wie? ist das nicht
+die beste Stellung, die wir heute zum Vergangnen überhaupt haben **können** — auf diese Weise
 dankbar zurückblicken und es selbst „den Alten“ nachmachen, mit viel Lust und Liebe für die ganze
 großväterliche Ehrbarkeit und Unehrbarkeit, aus der wir herstammen, und ebenso mit jenem sublimen Körnchen
 eingemischter Verachtung, ohne welches alle Liebe zu schnell verdirbt und modrig wird, „dumm“ wird… Vielleicht
-dürfte man sich etwas Ähnliches auch für die Welt des Worts versprechen und ausdenken,
+dürfte man sich etwas Ähnliches auch für die Welt des **Worts** versprechen und ausdenken,
 nämlich daß einmal ein verwegener Dichter-Philosoph käme, raffinirt und „spätgeboren“ bis zum Exceß, aber
 befähigt, die Sprache der Volks-Moralisten und heiligen Männer von Ehedem zu reden, und dies so unbefangen, so
 ursprünglich, so begeistert, so lustig-geradewegs, als wenn er selbst einer der „Primitiven“ wäre; dem aber,
@@ -357,11 +357,11 @@ bewiesen
 
 Dies Schicksal liegt nunmehr über Europa, daß gerade seine stärksten Söhne spät und selten zu ihrem Frühling
 kommen —, daß sie zumeist schon jung verekelt, verwintert, verdüstert zu Grunde gehn, gerade weil sie den
-Becher der Enttäuschung — und das ist heute der Becher der Erkenntniß — mit der ganzen
+Becher der Enttäuschung — und das ist heute der Becher der **Erkenntniß** — mit der ganzen
 Leidenschaft ihrer Stärke getrunken, ausgetrunken haben: — und sie würden nicht die Stärksten sein, wenn sie
 nicht auch die Enttäuschtesten gewesen wären! Denn das ist die Probe ihrer Kraft: erst aus der ganzen
-Krankheit der Zeit heraus müssen sie zu ihrer Gesundheit kommen. Der späte Frühling ist ihr Abzeichen; fügen wir hinzu: auch die späte Thorheit, die späte Narrheit, die
-späte Übermüthigkeit! Unsere Jugend kommt, wenn sie nicht mehr vermuthet wird, wir
+Krankheit der Zeit heraus müssen sie zu **ihrer** Gesundheit kommen. Der **späte** Frühling ist ihr Abzeichen; fügen wir hinzu: auch die späte Thorheit, die späte Narrheit, die
+späte Übermüthigkeit! Unsere **Jugend** kommt, wenn sie nicht mehr vermuthet wird, wir
 verschieben die Jahreszeiten des Lebens. Mag uns darin begreifen, wer sich gleich uns über sich selbst am
 meisten verwundert hat. Denn so gefährlich steht es heute: alles, was wir geliebt haben, als wir jung waren,
 hat uns betrogen; unsere letzte Liebe — die, welche uns dies gestehen macht — unsere Liebe zur Wahrheit —
@@ -372,29 +372,29 @@ sehen wir zu, daß uns nicht auch diese Liebe noch betrügt! —
 
 Kritik des bisherigen Pessimismus
 
-Abwehr der eudämonologischen Gesichtspunkte als letzte Reduktion auf die Frage: welchen Sinn hat es? Reduktion der Verdüsterung. — Unser Pessimismus: die Welt ist nicht
-das werth, was wir glaubten, — unser Glaube selber hat unsre Triebe nach Erkenntniß so
-gesteigert, daß wir dies heute sagen müssen. Zunächst gilt sie damit als weniger werth:
-sie wird so zunächst empfunden — nur in diesem Sinne sind wir Pessimisten, nämlich mit
+Abwehr der eudämonologischen Gesichtspunkte als letzte Reduktion auf die Frage: welchen **Sinn** hat es? Reduktion der Verdüsterung. — **Unser** Pessimismus: die Welt ist nicht
+**das** werth, was wir glaubten, — unser Glaube selber hat unsre Triebe nach Erkenntniß so
+gesteigert, daß wir dies heute sagen **müssen**. Zunächst gilt sie damit als weniger werth:
+sie wird so **zunächst empfunden** — nur in diesem Sinne sind wir Pessimisten, nämlich mit
 dem Willen, uns rückhaltlos diese Umwerthung einzugestehn und uns nichts nach alter Weise vorzuleiern,
-vorzulügen… Gerade damit finden wir das Pathos, welches uns vielleicht treibt, neue
-Werthe zu suchen. In summa: die Welt könnte viel mehr werth sein, als wir glaubten, — wir müssen hinter
-die Naivetät unsrer Ideale kommen, und daß wir vielleicht im Bewußtsein, ihr die höchste
+vorzulügen… Gerade damit finden wir das Pathos, welches uns vielleicht treibt, **neue
+Werthe** zu suchen. In summa: die Welt könnte viel mehr werth sein, als wir glaubten, — wir müssen hinter
+die **Naivetät unsrer Ideale** kommen, und daß wir vielleicht im Bewußtsein, ihr die höchste
 Interpretation zu geben, unserem menschlichen Dasein nicht einmal einen mäßig-billigen Werth gegeben
 haben.
 
-was ist vergöttert worden? die Werthinstinkte innerhalb der Gemeinde (das, was deren Fortdauer ermöglichte);
+was ist **vergöttert** worden? die Werthinstinkte innerhalb der **Gemeinde** (das, was deren Fortdauer ermöglichte);
 
-was ist verleumdet worden? das, was die höheren Menschen abtrennte von den niederen, die
+was ist **verleumdet** worden? das, was die höheren Menschen abtrennte von den niederen, die
 Klüfte-schaffenden Triebe.
 
   
 
 Kritik des Causalismus.
 
-Er ist eine Auslegung noch nicht einmal, nur eine Formulirung,
+Er ist eine Auslegung **noch nicht einmal**, nur eine Formulirung,
 
-Beschreibung; „das Nacheinander“ erwartet immer noch die Auslegung.
+Beschreibung; „das Nacheinander“ **erwartet** immer noch die Auslegung.
 
   
 
@@ -407,12 +407,12 @@ Gegen „Erscheinung“.
 Unsere große Bescheidung: das Unbekannte nicht vergöttern; wir fangen eben an, wenig zu
 wissen. Die falschen und verschwendeten Bemühungen.
 
-Unsere „neue Welt“: wir müssen erkennen, bis zu welchem Grade wir die
-Schöpfer unserer Werthgefühle sind, — also „Sinn“ in die Geschichte legen können…
+Unsere „neue Welt“: wir müssen erkennen, bis zu welchem **Grade wir die
+Schöpfer unserer Werthgefühle sind**, — also „Sinn“ in die Geschichte legen **können**…
 
 Dieser Glaube an die Wahrheit geht in uns zu seiner letzten Consequenz — ihr wißt, wie
 sie lautet: — daß, wenn es überhaupt etwas anzubeten giebt, es der Schein ist, der angebetet werden muß, daß
-die Lüge — und nicht die Wahrheit — göttlich ist…?
+die Lüge — und **nicht** die Wahrheit — göttlich ist…?
 
 [6[26]](javascript:;)
 ---------------------
@@ -429,7 +429,7 @@ Von der Rangordnung.
 
   
 
-Kritik der höchsten Werthgefühle
+**Kritik der höchsten Werthgefühle**
 
 |  |  |  |
 | --- | --- | --- |
@@ -438,14 +438,14 @@ Kritik der höchsten Werthgefühle
 
 |  |  |
 | --- | --- |
-| Ansätze | entgegengesetzter Werthe: —  weshalb unterlegen? |
-| Kritik | des „guten Menschen“ (Kritik Gottes). |
+| Ansätze | **entgegengesetzter** Werthe: —  weshalb unterlegen? |
+| Kritik | des „guten Menschen“ (Kritik **Gottes**). |
 | Kritik | der bisherigen Affekt-Beurtheilung (der Rangordnung). |
 | Kritik | der bisherigen Philosophien (als Consequenzen theils krankhafter, theils heerdenhafter Wünschbarkeiten). |
 
   
 
-Der Wille zur Wahrheit
+**Der Wille zur Wahrheit**
 
 Furcht, Faulheit Sinnlichkeit, Herrschsucht, Habsucht — und deren Metamorphosen.
 
@@ -453,31 +453,31 @@ Krankheit, Alter, Müdigkeit —
 
   
 
-Morphologie der Affecte: Reduction derselben auf den Willen zur Macht.
+**Morphologie der Affecte:** Reduction derselben auf den **Willen zur Macht**.
 
-Die organischen Funktionen, betrachtet als Ausgestaltung des Willens
+**Die organischen Funktionen**, betrachtet als Ausgestaltung des Willens
 zur Macht.
 
-Theorie der Herrschaftsgebilde:
+**Theorie der Herrschaftsgebilde:**
   
 Entwicklung der Organismen.
 
-Die Heerde: eine Übergangsform, ein Mittel zur Erhaltung des vielfacheren stärkeren Typus.
+**Die Heerde:** eine Übergangsform, ein Mittel zur Erhaltung des **vielfacheren stärkeren** Typus.
 
-„Vervollkommnung“: Reduction auf das Mächtiger-werden des
-Typus.
+**„Vervollkommnung“:** Reduction auf das **Mächtiger-werden des**
+**Typus**.
 
   
 
 |  |  |  |
 | --- | --- | --- |
 | Bedingungen: Sklaverei, Stände. | | |
-| — in wiefern ist auch der Rückgang und Auseinandergang ein „Wille zur Macht“? |  | Im menschlichen Organismus erscheint die höchste Wesens-Gattung als vergeistigter Affekt, befehlend, vorherrschend. |
+| — in wiefern ist auch der Rückgang und Auseinandergang ein „Wille zur Macht“? |  | Im menschlichen Organismus erscheint die höchste Wesens-Gattung als **vergeistigter Affekt**, **befehlend**, **vorherrschend**. |
 |  | Was ist „Geistigkeit“? |
 
-Kosmologische Perspective.
+**Kosmologische Perspective.**
 
-Die herrschaftlichen Typen und ihre Psychologie
+Die **herrschaftlichen** Typen und ihre Psychologie
   
 der Mann (Folge eines Siegs)
   
@@ -487,9 +487,11 @@ der Eroberer
   
 der Priester
 
-der „Hirt“ im Gegensatz zum „Herrn“ (ersterer Mittel zur Erhaltung
-der Heerde, letzterer Zweck, weshalb die Heerde da ist.
+der „Hirt“ im Gegensatz zum „Herrn“ (ersterer **Mittel** zur Erhaltung
+der Heerde, letzterer **Zweck**, weshalb die Heerde da ist.
 
 die noblesse
   
-was ist Schönheit? Ausdruck des Siegreichen und Herrgewordenen.
+was ist **Schönheit**? Ausdruck des **Siegreichen** und **Herrgewordenen**.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

@@ -16,7 +16,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [16[1]](javascript:;)
 ---------------------
 
-Fortsetzung der „Morgenröthe“.
+Fortsetzung der **„Morgenröthe“**.
 
   
 
@@ -38,7 +38,7 @@ Alle Einen Rang! Da können wir Alle miteinander lustig sein!
 
 Ihr beklagt euch darüber, daß ich schreiende Farben gebrauche? Nun, ich nehme die Farben aus der Natur — was
 kann ich für die Natur! — Aber ihr sagt, es sei dies meine Natur und nicht die eure und die aller Welt! Und
-ihr habt vielleicht Recht: vielleicht habe ich eine Natur, welche schreit — „wie der
+ihr habt vielleicht Recht: vielleicht habe ich eine Natur, welche **schreit** — „wie der
 Hirsch schreit nach frischem Wasser.“ Wäret ihr selber dieses frische Wasser, wie gefällig würde euch meine
 Stimme klingen! Aber ihr seid verdrießlich darüber, mir nicht von meinem Durste helfen zu können — und ihr
 möchtet vielleicht mir so gerne helfen? — —
@@ -46,12 +46,12 @@ möchtet vielleicht mir so gerne helfen? — —
 [16[5]](javascript:;)
 ---------------------
 
-Bin ich denn ein Forscher? Ich bin nur schwer: ich falle, falle, immerfort — bis ich auf den Grund komme.
+Bin ich denn ein Forscher? Ich bin nur **schwer**: ich falle, falle, immerfort — bis ich **auf den Grund** komme.
 
 [16[6]](javascript:;)
 ---------------------
 
-Unsere Tugenden müssen gleich den Versen Homer’s kommen und gehen.
+Unsere Tugenden müssen gleich den Versen Homer’s kommen **und gehen**.
 
 [16[7]](javascript:;)
 ---------------------
@@ -78,12 +78,12 @@ keinen Ozean?“ — Sei dieser Ozean: so giebt es einen.
 ----------------------
 
 Wenn man über Jemand hinweg steigt, so ist es schwer, ihm dabei nicht zu hart zu erscheinen. Niemand wird dir
-das Recht einräumen, in ihm nichts als eine Stufe zu sehen. — Aber du mußt die ganze Treppe hinauf!
+das Recht einräumen, in ihm nichts als eine **Stufe** zu sehen. — Aber du **mußt** die ganze Treppe hinauf!
 
 [16[11]](javascript:;)
 ----------------------
 
-Recept wider die Medizin. — „Das sind lauter neue Lehren und lauter neue Medizinen —
+**Recept wider die Medizin**. — „Das sind lauter neue Lehren und lauter neue Medizinen —
 sagt ihr mir; das will uns nicht schmecken!“ Nun, macht es nur so, wie es alle klugen Kranken machen — trinkt
 den Trank in einem langen Zuge hinunter und dann schnell noch etwas Süßes und Würziges hinterdrein, das euch
 den Gaumen wieder rein spüle und euer Gedächtniß betrüge! Die „Wirkung“ wird trotzdem nicht ausbleiben —
@@ -116,20 +116,20 @@ also!
 [16[16]](javascript:;)
 ----------------------
 
-Nachwirkung der ältesten Religiosität. — Wir glauben alle steif und fest an Ursache und
+**Nachwirkung der ältesten Religiosität. —** Wir glauben alle steif und fest an Ursache und
 Wirkung; und manche Philosophen nennen diesen Glauben wegen seiner Steif- und Festigkeit eine „Erkenntniß a
 priori“ — zweifelnd und erwägend, ob nicht hier vielleicht eine Erkenntniß und Weisheit übermenschlicher
 Herkunft anzunehmen sei: jedenfalls finden sie den Menschen in diesem Punkte unbegreiflich-weise. Nun scheint
 mir aber die Herkunft dieses unbezwinglichen Glaubens ziemlich durchsichtig und eher ein Gegenstand zum Lachen
-als zum Stolz-thun. Der Mensch meint, wenn er etwas thut, zum Beispiel einen Schlag ausführt, er sei es, der da schlage, und er habe geschlagen weil er schlagen wollte, kurz,
-sein Wille sei die Ursache. Er merkt gar nichts von einem Problem daran, sondern das Gefühl des Willens genügt ihm, um die Verknüpfung von Ursache und Wirkung sich verständlich zu machen.
+als zum Stolz-thun. Der Mensch meint, wenn er etwas thut, zum Beispiel einen Schlag ausführt, **er** sei es, der da schlage, und er habe geschlagen weil er schlagen **wollte**, kurz,
+sein Wille sei die Ursache. Er merkt gar nichts von einem Problem daran, sondern das Gefühl des **Willens** genügt ihm, um die Verknüpfung von Ursache und Wirkung sich verständlich zu machen.
 Von dem Mechanismus des Geschehens und der hundertfältigen feinen Arbeit, die abgethan werden muß, damit es zu
 dem Schlage kommt, ebenso von der Unfähigkeit des Willens an sich, auch nur den geringsten Theil dieser Arbeit
 zu thun, weiß er nichts. Der Wille ist ihm eine magisch wirkende Kraft: der Glaube an den Willen als an die
 Ursache von Wirkungen ist der Glaube an magisch wirkende Kräfte, an den unmittelbaren Einfluß von Gedanken auf
 unbewegte oder bewegte Stoffe. Nun hat ursprünglich der Mensch überall, wo er ein Geschehen sah, einen Willen
 als Ursache gedacht, kurz: persönlich wollende Wesen im Hintergrunde wirkend geglaubt — der Begriff der
-Mechanik liegt ihm ganz ferne. Weil aber der Mensch ungeheure Zeiten lang nur an Personen
+Mechanik liegt ihm ganz ferne. Weil aber der Mensch ungeheure Zeiten lang **nur an Personen**
 geglaubt hat (und nicht an Stoffe, Kräfte, Sachen usw.), ist ihm der Glaube an Ursache und Wirkung zum
 Grundglauben geworden, den er überall, wo etwas geschieht, anwendet — auch jetzt noch, instinktiv und als ein
 Stück Atavismus ältester Abkunft. Die Sätze „keine Wirkung ohne Ursache“, „jede Wirkung wieder Ursache“
@@ -141,7 +141,7 @@ zweiten Erläuterungen der ersten: alle auf der Grundlage des Gedankens „Natur
 Wäre hingegen der Menschheit die ganze Natur von vornherein als etwas Unpersönliches, folglich Nicht-Wollendes
 vorgekommen, so würde sich der umgekehrte Glaube — des fieri e nihilo, der Wirkung ohne Ursache — gebildet
 haben: und vielleicht hätte er dann den Ruf übermenschlicher Weisheit. — Jene „Erkenntniß a priori“ ist also
-keine Erkenntniß, sondern eine eingefleischte Urmythologie aus der Zeit der tiefsten
+keine Erkenntniß, sondern eine eingefleischte **Urmythologie** aus der Zeit der tiefsten
 Unkenntniß!
 
 [16[17]](javascript:;)
@@ -155,8 +155,8 @@ nöthig, dich zu verleumden.“
 ----------------------
 
 Wer den Fleiß seines Vaters erheblich überbieten will, wird krank; und ebenso steht es mit allen Tugenden —
-unsere Aufgabe ist immer, eine Tugend auf der Höhe, in der sie uns vererbt ist, zu
-erhalten, denn in dieser Höhe gehört sie zu unserer Gesundheit: sie zu steigern — — —
+unsere Aufgabe ist immer, eine Tugend auf der Höhe, in der sie uns **vererbt** ist, zu
+erhalten, denn **in dieser Höhe** gehört sie zu unserer Gesundheit: sie zu steigern — — —
 
 [16[19]](javascript:;)
 ----------------------
@@ -190,19 +190,20 @@ Grazien.“ — Er ist toll! —
 [16[23]](javascript:;)
 ----------------------
 
-Ihr Selbsteigenen! Ihr Selbstherrlichen! Jene Alle, deren Wesen die
-Zugehörigkeit ist, jene Ungezählten Unzähligen arbeiten nur für euch, wie es auch dem Oberflächlichen
+Ihr Selbsteigenen! Ihr Selbstherrlichen! Jene Alle, deren **Wesen**die**Zugehörigkeit** ist, jene Ungezählten Unzähligen arbeiten nur für euch, wie es auch dem Oberflächlichen
 anders erscheinen möge! Jene Fürsten Kaufleute Beamte Ackerbauer Soldaten, die sich vielleicht über euch
-hinaus glauben — sie Alle sind Sklaven und arbeiten mit einer ewigen Nothwendigkeit nicht
-für sich selber: niemals gab es Sklaven ohne Herren — und ihr werdet immer diese Herren
+hinaus glauben — sie Alle sind **Sklaven** und arbeiten mit einer ewigen Nothwendigkeit nicht
+für sich selber: niemals gab es Sklaven ohne Herren — und **ihr** werdet immer diese Herren
 sein, für die da gearbeitet wird: ein späteres Jahrhundert wird schon das Auge für dieses Schauspiel haben!
 Laßt jenen doch ihre Ansichten und Einbildungen, mit denen sie ihre Sklaven-Arbeit vor sich selber
 rechtfertigen und verhehlen — kämpft nicht gegen Meinungen, welche eine Barmherzigkeit für Sklaven sind! Aber
 haltet immer fest, daß diese ungeheure Bemühung, dieser Schweiß Staub und Arbeitslärm der Civilisation für die
-da sind, die dies Alles zu benutzen wissen, ohne mit zu arbeiten: daß es Überschüssige
+da sind, die dies Alles zu benutzen wissen, ohne mit zu arbeiten: daß es **Überschüssige**
 geben muß, welche mit der allgemeinen Überarbeit erhalten werden, und daß die Überschüssigen der Sinn und die
 Apologie des ganzen Treibens sind! So seid denn die Müller und laßt von diesen Bächen euch die Räder umdrehen!
 Und beunruhigt euch nicht über ihre Kämpfe und das wilde Tosen dieser Wasserstürze! Was für Staats- und
-Gesellschaftsformen sich auch ergeben mögen, alle werden ewig nur Formen der Sklaverei
-sein — und unter allen Formen werdet ihr die Herrschenden sein, weil ihr allein euch selber gehört, und
-jene immer Zubehöre sein müssen!
+Gesellschaftsformen sich auch ergeben mögen, **alle werden ewig nur Formen der Sklaverei
+sein** — und unter allen Formen werdet ihr die Herrschenden sein, weil ihr allein euch selber gehört, und
+jene immer **Zubehöre** sein müssen!
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

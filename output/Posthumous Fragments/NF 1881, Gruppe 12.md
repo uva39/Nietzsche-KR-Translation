@@ -24,112 +24,112 @@ Nachts, vor dem bestirnten Himmel:
 
 Wortspiele:
 
-Ridicultur eines Menschen
+**Ridicultur** eines Menschen
 
-der geistige Nachtisch jetzt für Viele: Gorgon-Zola
+der **geistige Nachtisch** jetzt für Viele: Gorgon-Zola
 
-— in der Grotte seiner Nymphe Ärgeria.
+— in **der Grotte seiner Nymphe Ärgeria**.
 
 [12[3]](javascript:;)
 ---------------------
 
-Genua, dieser entfärbte Süden.
+Genua, **dieser entfärbte Süden**.
 
 [12[4]](javascript:;)
 ---------------------
 
 Künstler, die mit ihrem Antreiben und ihrem Verlangen zu wirken wissen, während sie nicht im Stande sind,
-selber ihre Ziele zu erreichen. Aber sie theilen den Impuls mit — und mitunter hat der
-Andere die mächtigere Thatkraft im Erreichen oder wenigstens Voraussehen des Ziels.
+selber **ihre** Ziele zu erreichen. Aber sie theilen den Impuls mit — und mitunter hat der
+Andere die mächtigere Thatkraft im Erreichen oder wenigstens **Voraussehen** des Ziels.
 
 [12[5]](javascript:;)
 ---------------------
 
-die Wissensch<aft> stellt auf, worin der Mensch festgeworden ist (nicht
-worin die Dinge — obschon sie sich so ausdrückt, jetzt!) Die Polypen werden sich des
-ungeheuren Gebirgs bewußt, das sie gebaut haben das aus ihnen besteht, daß sie ein lebendiges Gebirge von furchtbarer Festigkeit sind.
+die Wissensch&amp;lt;aft&amp;gt; stellt auf, **worin der Mensch festgeworden ist** (nicht
+**worin** die Dinge — obschon sie sich so ausdrückt, jetzt!) Die Polypen werden sich des
+ungeheuren Gebirgs **bewußt**, das sie gebaut haben das aus ihnen besteht, daß sie ein **lebendiges** Gebirge von furchtbarer Festigkeit sind.
 
 [12[6]](javascript:;)
 ---------------------
 
-Diese furchtbare Realität, diese Furchtbarkeit der Realität ist
+Diese furchtbare **Realität**, diese **Furchtbarkeit** der Realität ist
 ebenso ersichtlich bei den moralischen Phänomenen wie den physikalischen, ja deutlicher: wie hier [+] im
 Grunde alles Dichtung! Dies habe ich zu beweisen! — Es ist wie im Traum, es übt die ganz
-reale Macht aus, der Glaube daß hier wirkliches ist (z.B. bei einem Mord, einer
+reale Macht aus, der Glaube daß hier **wirkliches** ist (z.B. bei einem Mord, einer
 Hinrichtung, einem Leichenbegängniß)
 
 [12[7]](javascript:;)
 ---------------------
 
 Ohne die Vorstellung anderer Wesen als Menschen sind bleibt alles Kleinstädterei, Klein-Menschelei. Die
-Erfindung der Götter und Heroen war unschätzbar. Wir brauchen Wesen zur Vergleichung,
+Erfindung der Götter und Heroen war unschätzbar. Wir **brauchen** Wesen zur Vergleichung,
 selbst die falsch ausgelegten Menschen, die Heiligen und Heroen sind ein mächtiges Mittel gewesen. Freilich:
-dieser Trieb verbrauchte einen Theil der Kraft, welche auf die Findung des eigenen Ideals verwendet werden konnte. — Aber eigene-Ideale-suchen war nichts für frühere
-Zeiten, das Wichtigste war den Menschen nicht mehr unter ein Mittelmaaß hinabsinken zu lassen und dazu diente, daß er wie angeschmiedet wurde an ein allgemeines Menschenbild,
+dieser Trieb **verbrauchte** einen Theil der Kraft, welche auf die Findung des **eigenen** Ideals verwendet werden konnte. — Aber eigene-Ideale-suchen war nichts für frühere
+Zeiten, das Wichtigste war den Menschen nicht mehr **unter** ein Mittelmaaß **hinabsinken** zu lassen und dazu diente, daß er wie angeschmiedet wurde an ein allgemeines Menschenbild,
 daß Selbstlosigkeit ihm gepredigt wurde.
 
 [12[8]](javascript:;)
 ---------------------
 
 Wie habe ich den Menschen gesucht, der höher ist als ich, und der mich wirklich übersieht! Ich fand ihn
-nicht. Ich darf mich nicht mit W<agner> vergleichen — aber ich gehöre einem höheren Range an,
+nicht. Ich darf mich nicht mit W&amp;lt;agner&amp;gt; vergleichen — aber ich gehöre einem höheren Range an,
 abgesehen von der „Kraft“.
 
 [12[9]](javascript:;)
 ---------------------
 
-Wenn wir nicht aus dem Tode Gottes eine großartige Entsagung und
-einen fortwährenden Sieg über uns machen, so haben wir den Verlust zu
-tragen.
+Wenn wir nicht aus dem **Tode Gottes** eine großartige **Entsagung** und
+einen fortwährenden **Sieg über uns** machen, so haben wir den **Verlust zu
+tragen**.
 
 [12[10]](javascript:;)
 ----------------------
 
-Das neue Problem: ob nicht ein Theil der Menschen auf Kosten des anderen zu einer
+Das neue Problem: ob nicht **ein Theil der Menschen** auf Kosten des anderen zu einer
 höheren Rasse zu erziehen ist. Züchtung — — — —
 
 [12[11]](javascript:;)
 ----------------------
 
-Zuletzt: unsere idealistische Phantasterei gehört auch zum Dasein
-und muß in seinem Charakter erscheinen! Es ist nicht die Quelle,
+Zuletzt: unsere idealistische Phantasterei gehört **auch** zum **Dasein**
+und muß in **seinem Charakter** erscheinen! Es ist nicht die **Quelle**,
 aber deshalb ist es doch vorhanden. Unsere höchsten und verwegensten Gedanken sind Charakterstücke der
 „Wirklichkeit“. Unser Gedanke ist von gleichem Stoffe wie alle Dinge.
 
 [12[12]](javascript:;)
 ----------------------
 
-Wir verachten den Besitzlosen — darum auch den, der sich selber nicht beherrschen kann,
+Wir verachten den Besitzlosen — **darum** auch den, der sich selber nicht beherrschen kann,
 der sich selber nicht besitzt. Er ist, nach unserer Empfindung, nicht als Egoist verächtlich, sondern als
 Wetterfahne von Impulsen und Mangel an Selbst.
 
 [12[13]](javascript:;)
 ----------------------
 
-An einem klugen rücksichtslosen Spitzbuben und Verbrecher tadeln wir nicht seinen Egoismus als solchen, der sich auf die feinste Weise äußert, sondern daß dieser sich auf so niedere Ziele richtet und auf sie beschränkt. Sind die Ziele groß, so
-hat die Menschheit einen anderen Maaßstab und schätzt „Verbrechen“ nicht als solche,
+An einem klugen rücksichtslosen Spitzbuben und Verbrecher tadeln wir nicht seinen **Egoismus** als solchen, der sich auf die feinste Weise äußert, sondern daß dieser sich auf so **niedere Ziele** richtet und auf sie **beschränkt**. Sind die Ziele groß, so
+hat die Menschheit einen anderen Maaßstab und schätzt „Verbrechen“ **nicht** als solche,
 selbst die furchtbarsten Mittel. — Das Ekelhafte ist, ein guter Intellekt im Dienste einer erbärmlichen
-Anspruchslosigkeit des Geschmacks — wir ekeln uns vor der Art ego,
+Anspruchslosigkeit des Geschmacks — wir **ekeln** uns vor der Art ego,
 nicht an sich vor dem ego.
 
 [12[14]](javascript:;)
 ----------------------
 
-Die Musik repräsentirt jetzt Gefühle — sie erregt
-sie nicht!
+Die Musik **repräsentirt** jetzt Gefühle — sie **erregt**
+**sie nicht**!
 
 [12[15]](javascript:;)
 ----------------------
 
-unorganische Materie, ob sie gleich meist organisch war, hat nichts gelernt, ist immer
-ohne Vergangenheit! Wäre es anders, so würde es nie eine Wiederholung geben können — denn
-es enstände immer etwas aus Stoff mit neuen Qualitäten, mit neuen
+unorganische Materie, ob sie gleich meist organisch war, **hat nichts gelernt**, ist immer
+ohne Vergangenheit! **Wäre es anders**, so würde es nie eine Wiederholung geben können — denn
+es enstände immer etwas aus Stoff mit **neuen** Qualitäten, mit **neuen**
 Vergangenheiten.
 
 [12[16]](javascript:;)
 ----------------------
 
-Verschiedenes bei gleicher Musik erleben!
+Verschiedenes bei gleicher **Musik** erleben!
 
 [12[17]](javascript:;)
 ----------------------
@@ -140,28 +140,28 @@ Ein Ding, ganz allein, würde gar nicht existiren — es hätte gar keine Relati
 ----------------------
 
 Ich stelle mich vor mir selber erzürnt über die Kälte und Vernachlässigung, die ich von Freunden erfahre — im
-tiefsten Grunde läßt mich dies unbewegt, und ich wünschte fast, es zu einem Motiv zu
+tiefsten Grunde läßt mich dies unbewegt, und ich **wünschte** fast, es zu einem Motiv zu
 machen, das mich etwas erregte. Ich suche Gründe gegen die Langeweile und finde nicht viel.
 
 [12[19]](javascript:;)
 ----------------------
 
-Daß ein Mensch manche Dinge nicht begehrt, nicht liebt, das rechnen wir ihm an als Zeichen seiner Niedrigkeit und Gemeinheit. „Selbstlosigkeit“ als Gegenstück — er
-liebt manche Dinge und bringt andere Triebe zum Opfer, die den meisten Menschen nicht
-begreiflich als Gegenstand solcher Liebe sind — deshalb nehmen sie das Wunder der
+Daß ein Mensch manche Dinge nicht begehrt, nicht liebt, das rechnen wir ihm an als Zeichen seiner **Niedrigkeit** und Gemeinheit. „Selbstlosigkeit“ als **Gegenstück** — er
+liebt manche Dinge und bringt andere Triebe zum Opfer, die den meisten Menschen **nicht
+begreiflich** als Gegenstand solcher Liebe sind — deshalb nehmen sie das **Wunder** der
 „Selbstlosigkeit“ an!
 
 [12[20]](javascript:;)
 ----------------------
 
 Die Menschen haben die Liebe immer mißverstanden — sie glauben hier selbstlos zu sein, weil sie den Vortheil
-eines anderen Wesens wollen, oft wider ihren eigenen. Wollen sie dafür jenes andere Wesen
+eines anderen Wesens wollen, oft wider ihren eigenen. Wollen sie **dafür** jenes andere Wesen
 besitzen? Oft nicht einmal!
 
 [12[21]](javascript:;)
 ----------------------
 
-Das erste Buch als Grabrede auf den Tod Gottes. —
+Das erste Buch als **Grabrede** auf den Tod **Gottes**. —
 
 [12[22]](javascript:;)
 ----------------------
@@ -171,14 +171,14 @@ Hundert Tannhäuser. — An Wotan nicht zu glauben! Ausdeutung der Vergangenheit
 [12[23]](javascript:;)
 ----------------------
 
-Dieser einsamste der Einsamen, der Mensch, sucht nun nicht mehr einen Gott, sondern einen Genossen. Dies wird der mythenbildende Trieb der Zukunft sein. Er sucht den Freund des Menschen.
+Dieser einsamste der Einsamen, der Mensch, sucht nun nicht mehr einen Gott, sondern einen **Genossen**. Dies wird der **mythenbildende** Trieb der Zukunft sein. Er sucht den **Freund des Menschen**.
 
 [12[24]](javascript:;)
 ----------------------
 
-Diese Welt die wir geschaffen haben, oh wie haben wir sie geliebt!
+Diese Welt die wir geschaffen haben, oh wie haben wir sie **geliebt**!
 
-Wie tief-fremd ist uns die durch die Wissenschaft entdeckte Welt!
+Wie tief-**fremd** ist uns die durch die Wissenschaft entdeckte Welt!
 
 [12[25]](javascript:;)
 ----------------------
@@ -189,17 +189,17 @@ Du würdest erstaunen, wenn ich vorrechnete, wie viel Opfer jeder Tag mich koste
 [12[26]](javascript:;)
 ----------------------
 
-Alles was der Mensch aus sich heraus gelegt hat, in die Außenwelt, hat er dadurch sich
-fremd gemacht und immer mehr: so daß es nun wie ein Nicht-Ich wirkt, und alle
+Alles was der Mensch aus sich heraus gelegt hat, **in** die Außenwelt, hat er dadurch sich
+**fremd** gemacht und immer mehr: so daß es nun wie ein Nicht-Ich wirkt, und alle
 moralischen Prädikate trägt und erträgt, die der Mensch sich selber nicht beizulegen wagt. „Natur“. So hat er
-sich erniedrigt und verarmt: je reicher sein Außer-sich wurde (Farbe
+sich **erniedrigt** und **verarmt**: je reicher sein Außer-sich wurde (Farbe
 Bewegung ebenso wie Schönheit Linie Erhabenheit).
 
 [12[27]](javascript:;)
 ----------------------
 
 Während es dem Melancholiker allzusehr an phosphorsaurem Kali in Blut und Gehirn gebricht, sieht er den Grund
-seines Mangelgefühls und seiner Depression in den moralischen Zuständen der Menschen, der
+seines Mangelgefühls und seiner Depression in den **moralischen** Zuständen der Menschen, der
 Dinge, seiner selber!!!
 
 [12[28]](javascript:;)
@@ -212,22 +212,22 @@ so bleiben sie in der Unschuld.
 ----------------------
 
 Wir kommen über die Ästhetik nicht hinaus — ehemals glaubte ich, ein Gott mache sich das Vergnügen, die Welt
-anzusehen: aber wir haben das Wesen einer Welt, welche die Menschen allmählich geschaffen haben: ihre Ästhetik.
+anzusehen: aber wir haben das Wesen einer Welt, welche die **Menschen** allmählich **geschaffen** haben: **ihre** Ästhetik.
 
 [12[30]](javascript:;)
 ----------------------
 
-Musik — eine verkappte Befriedigung der religiosi. Vom Worte absehen! Das ist ihr Vortheil! Ja auch von Bildern! Damit sich der Intellekt nicht schäme! So ist es gesund und eine Erleichterung für jene Triebe, welche doch befriedigt sein wollen!
+**Musik** — eine verkappte Befriedigung der religiosi. Vom Worte **absehen**! Das ist ihr Vortheil! Ja auch von Bildern! Damit sich der Intellekt nicht **schäme**! So ist es **gesund** und eine Erleichterung für jene Triebe, welche **doch befriedigt sein wollen**!
 
 [12[31]](javascript:;)
 ----------------------
 
-nach der Wahrheit jagen — es ist auch nur eine Form der Jagd nach dem Glücke
+nach der Wahrheit jagen — es ist auch nur eine Form der **Jagd nach dem Glücke**
 
 [12[32]](javascript:;)
 ----------------------
 
-Ach, nun müssen wir die Unwahrheit umarmen und der Irrthum wird jetzt erst zur Lüge, und die Lüge vor uns wird zur Lebensnothwendigkeit!
+Ach, **nun** müssen wir die Unwahrheit umarmen und der Irrthum wird jetzt erst zur **Lüge**, und die Lüge vor uns wird zur **Lebensnothwendigkeit**!
 
 [12[33]](javascript:;)
 ----------------------
@@ -240,57 +240,57 @@ als Lärm und Anlaß zu Lachen und Herzbrechen.
 ----------------------
 
 Meine Aufgabe: alle die Schönheit und Erhabenheit, die wir den Dingen und den Einbildungen geliehen,
-zurückfordern als Eigenthum und Erzeugniß des Menschen und als schönsten Schmuck,
+zurückfordern als **Eigenthum und Erzeugniß des Menschen**und als schönsten Schmuck,
 schönste Apologie dessen. Der Mensch als Dichter, als Denker, als Gott, als Macht, als Mitleid. O über seine
-königliche Freigebigkeit, womit er die Dinge beschenkt hat, um sich zu verarmen und elend
+königliche Freigebigkeit, womit er die Dinge beschenkt hat, **um sich zu verarmen**und elend
 zu fühlen! Das ist seine größte „Selbstlosigkeit“, wie er bewundert und anbetet und nicht weiß und wissen
-will, daß er schuf, was er bewundert. — Es sind die Dichtungen und
-Gemälde der Urmenschheit, diese „wirklichen“ Naturscenen — damals
-wußte man noch nicht anders zu dichten und zu malen, als indem man in die Dinge etwas hineinsah. Und diese Erbschaft haben wir gemacht. — Es ist diese erhabene Linie,
-die Gefühl von trauernder Größe, dies Gefühl des bewegten Meeres alles erdichtet von
-unseren Vorfahren. Dieses Fest- und Bestimmtsehen überhaupt!
+will, daß er **schuf**, was er bewundert. — Es sind die **Dichtungen**und
+**Gemälde**der **Ur**menschheit, diese „wirklichen“ Naturscenen — damals
+wußte man noch nicht anders zu dichten und zu malen, als indem man in die Dinge etwas **hineinsah**. Und **diese Erbschaft**haben wir gemacht. — Es ist diese erhabene Linie,
+die Gefühl von trauernder Größe, dies Gefühl des bewegten Meeres alles **erdichtet**von
+unseren Vorfahren. Dieses Fest- und Bestimmt**sehen**überhaupt!
 
 [12[35]](javascript:;)
 ----------------------
 
 Wie kommt es, daß wir unsere stärkeren Neigungen auf Unkosten unserer schwächeren Neigungen befriedigen? — An
 sich, wenn wir eine Einheit wären, könnte es diesen Zwiespalt nicht geben. Thatsächlich sind wir eine
-Vielheit, welche sich eine Einheit eingebildet hat. Der Intellekt als das Mittel der
-Täuschung mit seinen Zwangsformen „Substanz“ „Gleichheit“ „Dauer“ — er erst hat die
+Vielheit, **welche sich eine Einheit eingebildet hat**. Der Intellekt als das Mittel der
+Täuschung mit seinen Zwangsformen „Substanz“ „Gleichheit“ „Dauer“ — **er** erst hat die
 Vielheit sich aus dem Sinne geschlagen.
 
 [12[36]](javascript:;)
 ----------------------
 
-Die Musik ist mein und unser Vorläufer — so persönlich sprechen und so gut und edel!
-Unsäglich <vieles> hat noch kein Wort gefunden und keinen Gedanken — das beweist unsere Musik — nicht, daß kein Gedanke und kein Wort da zu finden
+Die Musik ist mein und unser **Vorläufer** — so persönlich sprechen und so gut und edel!
+Unsäglich &amp;lt;vieles&amp;gt; hat noch kein Wort gefunden und keinen Gedanken — das **beweist** unsere Musik — **nicht**, daß kein Gedanke und kein Wort da zu finden
 wäre.
 
 [12[37]](javascript:;)
 ----------------------
 
-nox intemp<esta> wo Ursache und Wirkung aus den Fugen gekommen zu sein scheinen und jeden
+nox intemp&amp;lt;esta&amp;gt; wo Ursache und Wirkung aus den Fugen gekommen zu sein scheinen und jeden
 Augenblick etwas aus dem Nichts entstehen kann. (Richard Wagner hat es in „Hagens Wacht“ in Musik gesetzt)
 
 [12[38]](javascript:;)
 ----------------------
 
-Diese Schönheit und Erhabenheit der Natur, vor der jeder Mensch klein erscheint, haben
-wir erst in die Natur hineingetragen — und folglich um diesen Theil die Menschheit beraubt. Sie muß es büßen.
+Diese Schönheit und Erhabenheit der **Natur**, vor der jeder Mensch klein erscheint, haben
+wir erst in die Natur **hineingetragen** — und folglich um diesen Theil die Menschheit **beraubt**. Sie muß es büßen.
 
 [12[39]](javascript:;)
 ----------------------
 
-Wo wir etwas ganz Schätzenwerthes zu erkennen glauben und es erwerben und erhalten wollen, also im Eigenthum-Verlangen, erwachen unsere edelsten Triebe. Der Liebende ist ein höherer Mensch: obschon er mehr Egoist ist als je. Aber 1. sein Egoismus ist concentrirt, 2. der Eine
-Trieb ist entschieden siegreich über die anderen und bringt das Außergewöhnliche hervor.
+Wo wir etwas ganz Schätzenwerthes zu erkennen glauben und es erwerben und erhalten wollen, also im **Eigenthum**-Verlangen, erwachen unsere edelsten Triebe. Der Liebende ist ein **höherer** Mensch: obschon er mehr Egoist ist als je. Aber 1. sein Egoismus ist concentrirt, 2. der Eine
+Trieb ist entschieden **siegreich** über die anderen und bringt das **Außergewöhnliche** hervor.
 
 [12[40]](javascript:;)
 ----------------------
 
 Das Bollwerk der Wissenschaft und ihrer Vernunft-Allgemeinheit muß erst errichtet sein, dann kann die
-Entfesselung der Indi<viduen> vor sich gehen: es darf keinen Irrthum dabei
-geben, weil die Grenzen der Vernünftigkeit vorher festgesetzt und ins Gewissen und den
-Leib einverleibt wurden. Erst Einverleibung der Wissenschaft — dann:
+Entfesselung der **Indi&amp;lt;**viduen&amp;gt; vor sich gehen: es darf keinen Irrthum dabei
+geben, weil die **Grenzen** der Vernünftigkeit vorher festgesetzt und ins Gewissen und den
+Leib einverleibt wurden. **Erst** Einverleibung der Wissenschaft — dann:
 
 [12[41]](javascript:;)
 ----------------------
@@ -306,7 +306,7 @@ Eins ist immer nöthiger als das Andre.
 [12[43]](javascript:;)
 ----------------------
 
-Handlungen durch welche wir einen Affekt befriedigen (sei es der der Liebe Neigung
+Handlungen durch welche wir einen Affekt **befriedigen** (sei es der der Liebe Neigung
 Abneigung gegen Jemanden) nennt man nicht „selbstlos“, es sei denn im ungenauen Sprachgebrauch. Der Liebende
 bejaht ersichtlich sich selbst mehr als je — und wenn er auf die Handlungen der Liebe und Aufopferung
 verzichten muß, so leidet er sehr — Das Problem ist hier nicht — wir thun auch anscheinend selbstlose
@@ -324,12 +324,12 @@ weiß!
 [12[45]](javascript:;)
 ----------------------
 
-Wie viele verschiedene Lebensalter haben unsere moralischen Qualitäten!
+Wie viele verschiedene **Lebensalter** haben unsere moralischen Qualitäten!
 
 [12[46]](javascript:;)
 ----------------------
 
-Was wird aus dem Überschuß von göttlichen Gefühlen? Oder giebt es den nicht?
+Was wird aus dem Überschuß von göttlichen Gefühlen? Oder giebt es **den** nicht?
 
 [12[47]](javascript:;)
 ----------------------
@@ -344,22 +344,22 @@ Gespräche in der Einsamkeit.
 [12[49]](javascript:;)
 ----------------------
 
-Spott bei dem ruhig Genießenden, als Zeichen daß der Geist nicht einschlummert! Haß aber
+Spott bei dem **ruhig** Genießenden, als Zeichen daß der Geist nicht einschlummert! Haß aber
 — — —
 
 [12[50]](javascript:;)
 ----------------------
 
-Aber die Welt, die die Wissenschaft entdeckt — woher stammt die? Wäre alles von uns, so dürfte es so etwas gar nicht geben! Oder ist es nur unsere vergessene Welt? War alles einmal Oberfläche und Haut und Gegenstand
+Aber die Welt, die die Wissenschaft entdeckt — woher stammt **die**? Wäre alles von **uns**, so dürfte es so **etwas** gar nicht geben! Oder ist es nur unsere **vergessene** Welt? War alles einmal Oberfläche und Haut und **Gegenstand**
 des Bewußtseins, bis es eine neue Oberfläche und Haut gab und die alte vergessen wurde?
 
 [12[51]](javascript:;)
 ----------------------
 
-ästhetische Urtheile sind Überreste unserer Urtheile über glücklich-unglücklich z.B. in
-einer Landschaft der Reichthum an Farben, an Genießbarem, an Ruhe, an festen Linien — es
+ästhetische Urtheile sind **Überreste** unserer Urtheile über glücklich-unglücklich z.B. in
+einer Landschaft der **Reichthum** an Farben, an Genießbarem, an Ruhe, an festen Linien — es
 sind alles die Abzeichen und Symbole eines Menschen, der uns einst als der Glückliche galt. So andere Male die
-leidenschaftliche Gegend — wir hielten auch die Leidenschaft für den Zustand des
+**leidenschaftliche** Gegend — wir hielten auch die Leidenschaft für den Zustand des
 Glückes. Die fromme Gegend, die heilige Gegend, die verehrte Gegend, die alterthümliche, die kindliche, die
 weibliche, die stolze, die schlafende
 
@@ -367,9 +367,9 @@ weibliche, die stolze, die schlafende
 ----------------------
 
 Wenn ich von Plato Pascal Spinoza und Goethe rede, so weiß ich, daß ihr Blut in dem meinen rollt — ich bin
-stolz, wenn ich von ihnen die Wahrheit sage — die Familie ist gut genug, daß sie nicht
-nöthig hat, zu dichten oder zu verhehlen; und so stehe ich zu allem Gewesenen, ich bin stolz
-auf die Menschlichkeit, und stolz gerade in der unbedingten Wahrhaftigkeit
+**stolz**, wenn ich von ihnen die Wahrheit sage — die Familie ist gut genug, daß sie nicht
+nöthig hat, zu dichten oder zu verhehlen; und so stehe ich zu allem Gewesenen, ich **bin stolz
+auf die Menschlichkeit**, und stolz gerade in der unbedingten Wahrhaftigkeit
 
 [12[53]](javascript:;)
 ----------------------
@@ -389,12 +389,12 @@ Viele dumme Frauen halten Milch für keine Nahrung, wohl aber Rüben.
 [12[55]](javascript:;)
 ----------------------
 
-Ein Weib ist das Geschöpf, welches seinen Feind und Räuber lieben soll — und liebt.
+Ein Weib ist das Geschöpf, welches seinen Feind und Räuber **lieben****soll** — und liebt.
 
 [12[56]](javascript:;)
 ----------------------
 
-An einem schlechten Hange zu Grunde gehen — nicht so schlimm! Phantasterei über das Böse wie über den Schmerz aufzudecken!!
+An einem schlechten Hange zu Grunde gehen — nicht so schlimm! Phantasterei über das Böse wie über den **Schmerz aufzudecken**!!
 
 [12[57]](javascript:;)
 ----------------------
@@ -405,24 +405,24 @@ Inwiefern jeder hellere Gesichtskreis als Nihilism erscheint
 ----------------------
 
 Wir Aesthetiker höchsten Ranges möchten auch die Verbrechen und das Laster und die Qualen der Seele und die
-Irrthümer nicht missen — und eine Gesellschaft von Weisen würde sich
-wahrscheinlich eine böse Welt hinzuerschaffen. Ich meine, es ist kein Beweis gegen die
-Künstlerschaft Gottes, daß das Böse und der Schmerz existirt — wohl aber gegen seine „Güte“? — Aber was ist denn Güte? Das Helfenwollen und Wohlthunwollen, welches ebenfalls solche
-voraussetzt, denen es schlechter geht! und die schlechter sind!
+Irrthümer nicht **missen** — und eine Gesellschaft von **Weisen** würde sich
+wahrscheinlich eine böse Welt **hinzuerschaffen**. Ich meine, es ist kein Beweis gegen die
+Künstlerschaft Gottes, daß das Böse und der Schmerz existirt — wohl aber gegen seine **„Güte“**? — Aber was ist denn Güte? Das Helfenwollen und Wohlthunwollen, welches ebenfalls solche
+voraussetzt, denen es **schlechter** geht! und die **schlechter** sind!
 
 [12[59]](javascript:;)
 ----------------------
 
-Es genügen außerordentlich kleine Veränderungen der Werthschätzung, um ganz ungeheuer
-verschiedene
-Werthbilder zu bekommen (Anordnung der Güter)
+Es genügen außerordentlich **kleine** Veränderungen der Werthschätzung, um ganz ungeheuer
+**verschiedene**
+**Werthbilder** zu bekommen (Anordnung der Güter)
 
 [12[60]](javascript:;)
 ----------------------
 
-Wir sind nicht die Reste und Überbleibsel der Menschheit (wie wir dies gewiß von der
-organisch werdenden Welt sind) Vieles Neue kann von uns noch ausgehen, was den Charakter
-der Menschheit verändert.
+Wir sind **nicht** die Reste und Überbleibsel der Menschheit (wie wir dies gewiß von der
+organisch **werdenden** Welt sind) Vieles Neue kann von uns noch ausgehen, was den Charakter
+der Menschheit **verändert**.
 
 [12[61]](javascript:;)
 ----------------------
@@ -438,27 +438,27 @@ die sich durch die dramatische Musik die Kehlen gebrochen haben!
 [12[63]](javascript:;)
 ----------------------
 
-Ursache und Wirkung. Wir verstehen darunter im Grunde eben das, was wir denken, wenn wir uns
-selber als Ursache eines Schlages usw. denken. „Ich will“ ist Voraussetzung, eigentlich ist es der
-Glaube an eine magisch wirkende Kraft, dieser Glaube an Ursache und Wirkung — der Glaube, daß alle Ursachen so persönlich-wollend sind, wie der Mensch. Kurz, dieser Satz a
+Ursache und Wirkung. Wir verstehen darunter im Grunde eben das, was wir denken, wenn wir **uns
+selber** als Ursache eines Schlages usw. denken. „Ich will“ ist Voraussetzung, eigentlich ist es der
+Glaube an eine magisch wirkende Kraft, dieser Glaube an Ursache und Wirkung — der Glaube, daß **alle** Ursachen so **persönlich-wollend** sind, wie der Mensch. Kurz, dieser Satz a
 priori ist ein Stück Urmythologie — nichts mehr!
 
 [12[64]](javascript:;)
 ----------------------
 
-Wir dürfen nicht wider den Strich die Vernunft der Menschheit entwickeln, aber es ist
+Wir dürfen nicht **wider den Strich** die Vernunft der Menschheit entwickeln, aber es ist
 auch dafür gesorgt, daß wir es nicht können.
 
 [12[65]](javascript:;)
 ----------------------
 
-die versöhnenden Menschen sind mir fatal
+die **versöhnenden** Menschen sind mir fatal
 
 [12[66]](javascript:;)
 ----------------------
 
-das aschgraue
-Licht, das der Mond von der erleuchteten Erde erhält
+das **aschgraue**
+**Licht**, das der Mond von der erleuchteten Erde erhält
 
 [12[67]](javascript:;)
 ----------------------
@@ -477,25 +477,25 @@ steht mir zu nahe.
 [12[69]](javascript:;)
 ----------------------
 
-Die Masken fallen einem bei der ital<ienischen> Musik ein.
+Die Masken fallen einem bei der ital&amp;lt;ienischen&amp;gt; Musik ein.
 
 [12[70]](javascript:;)
 ----------------------
 
-Ich will das Ganze als eine Art Manfred und ganz persönlich schreiben. Von den Menschen suche ich weder
-„Lob noch Mitleid noch Hülfe“ — ich will sie vielmehr „durch mich überwältigen“.
+Ich will das Ganze als eine Art Manfred und ganz persönlich schreiben. Von den Menschen suche ich **weder**
+**„Lob noch Mitleid noch Hülfe“** — ich will sie vielmehr „durch mich **überwältigen**“.
 
 [12[71]](javascript:;)
 ----------------------
 
 durch Alcohol bringt man sich auf Stufen der Cultur zurück, die man überwunden hat. Alle Speisen haben irgend
-eine Offenbarung über die Vergangenheit, aus der wir wurden.
+eine Offenbarung über die Vergangenheit, aus der wir **wurden**.
 
 [12[72]](javascript:;)
 ----------------------
 
 Nein! Ich will nicht älter sein als ich bin. Es wird vielleicht einmal noch die Zeit kommen, wo auch die
-Adler scheu zu mir aufblicken müssen (wie zum h<eiligen> Johannes)
+Adler scheu zu mir aufblicken müssen (wie zum h&amp;lt;eiligen&amp;gt; Johannes)
 
 [12[73]](javascript:;)
 ----------------------
@@ -505,77 +505,77 @@ Schriftgelehrte — Naturgelehrte
 [12[74]](javascript:;)
 ----------------------
 
-Daß alles und jedes Geschehen die Folge von Willensakten sei und damit erklärt oder
+Daß alles und jedes Geschehen die Folge von Willensakten sei und **damit** erklärt oder
 nicht weiter erklärbar — diesen Glauben haben die Wilden mit Schopenhauer gemeinsam: er hat ehemals alle
-Menschen beherrscht, und es war ein bloßer Atavismus, ihn noch im 19. Jahrhundert in der
+Menschen beherrscht, und es war ein bloßer **Atavismus**, ihn noch im 19. Jahrhundert in der
 Mitte Europas, zu haben und zu predigen. Das Gegentheil — daß bei allem Geschehen der Wille nicht betheiligt
-ist, so sehr er es scheint — ist nahezu bewiesen! (Und das für das unsäglich kleine Stück
+ist, so sehr er es scheint — ist **nahezu** bewiesen! (Und das für das unsäglich kleine Stück
 Geschehens, wo überhaupt ein Wille betheiligt sein könnte!)
 
 [12[75]](javascript:;)
 ----------------------
 
-Ich wehre mich dagegen, Vernunft und Liebe, Gerechtigkeit und Liebe
+Ich **wehre mich dagegen**, Vernunft **und Liebe**, Gerechtigkeit und Liebe
 von einander zu trennen, oder gar sich entgegenzustellen und der Liebe den höheren Rang zu geben! Liebe ist
 comes, bei Vernunft und Gerechtigkeit, sie ist die Freude an der Sache, Lust an ihrem Besitz, Begierde sie
-ganz zu besitzen und in ihrer ganzen Schönheit — die aesthetische Seite der Gerechtigkeit
+ganz zu besitzen und in ihrer ganzen Schönheit — die **aesthetische Seite** der Gerechtigkeit
 und Vernunft, ein Nebentrieb.
 
   
 
-Nachdem wir Vernunft und Gerechtigkeit
-haben, müssen wir die Leitern zerbrechen, die uns dazu führten; es
+Nachdem wir **Vernunft** und **Gerechtigkeit**
+**haben**, müssen wir die Leitern **zerbrechen**, die uns dazu führten; es
 ist die traurige Pflicht, daß diese höchsten Ergebnisse uns zwingen, gleichsam die Eltern und Voreltern vor
-Gericht zu laden. Gegen die Vergangenheit gerecht zu sein, sie wissen wollen, in aller
-Liebe! Hier wird unsere Vornehmheit auf die höchste Probe gestellt! Ich merke es, wer mit rachsüchtigem
+Gericht zu laden. **Gegen die Vergangenheit gerecht zu sein, sie wissen wollen, in aller
+Liebe!** Hier wird unsere Vornehmheit auf die höchste Probe gestellt! Ich merke es, wer mit rachsüchtigem
 Herzen vom Christenthum redet — das ist gemein!
 
 [12[76]](javascript:;)
 ----------------------
 
-Die Wissenschaft giebt uns unseren adeligen Stammbaum, unsere Heraldik: sie giebt uns
-die Vorfahren. Im Vergleich zu uns waren alle bisherigen Menschen „Eintagsfliegen“ und Pöbel, der nur ein kurzes Gedächtniß hatte.
+Die Wissenschaft giebt uns unseren **adeligen** Stammbaum, unsere Heraldik: sie giebt uns
+die Vorfahren. Im Vergleich zu uns waren alle bisherigen Menschen „Eintagsfliegen“ und Pöbel, der nur ein **kurzes** Gedächtniß hatte.
 
-Das historische Gefühl ist das Neue, da wächst etwas ganz Großes!
-Zunächst schädlich, wie alles Neue! Es muß sich lange einleben, ehe es gesund wird und
-große Blüthe treibt! Wir hören, was unsere Vorfahren — Helden alles besaßen — wir müssen
-vieles fahren lassen, aber allen Verlusten höhere Erwerbungen entgegenstellen.
+Das **historische Gefühl** ist das Neue, da wächst etwas **ganz Großes**!
+Zunächst schädlich, wie alles Neue! Es muß sich lange einleben, ehe es **gesund** wird und
+große Blüthe treibt! Wir hören, was unsere Vorfahren — Helden alles **besaßen** — wir müssen
+vieles fahren lassen, aber allen Verlusten **höhere Erwerbungen** entgegenstellen.
 
-Vernunft und Gerechtigkeit sind am schwersten zu würdigen, weil jung und schwach und oft schädigend!
+**Vernunft** und **Gerechtigkeit** sind am schwersten zu würdigen, weil **jung** und **schwach** und oft schädigend!
 
 [12[77]](javascript:;)
 ----------------------
 
-Gott ist todt — wer hat ihn denn getödtet? Auch dies Gefühl den Heiligen
-Mächtigsten getödtet zu haben, muß noch über einzelne Menschen kommen — jetzt ist
+Gott ist todt — wer hat ihn denn **getödtet**? Auch dies Gefühl den **Heiligen
+Mächtigsten getödtet zu haben**, muß noch über **einzelne** Menschen kommen — jetzt ist
 es noch zu früh! zu schwach! Mord der Morde! Wir erwachen als Mörder! Wie tröstet sich ein solcher? Wie
-reinigt er sich? Muß er nicht der allmächtigste und heiligste Dichter selber werden?
+reinigt er sich? **Muß er nicht der allmächtigste und heiligste Dichter selber werden?**
 
 [12[78]](javascript:;)
 ----------------------
 
 Unsere Gesetze sind Versuche, aus Papier den weisen Mann zu machen, der allen Umständen gewachsen ist und
 dessen Gerechtigkeit so groß ist wie seine Unerschrockenheit — ach, wo ist das ehrfurchterweckende Gesicht des
-Gesetzgebers hin, welcher mehr bedeuten muß als das Gesetz, nämlich den Wunsch, es aus Liebe
-und Ehrfurcht heilig zu halten?
+Gesetzgebers hin, welcher mehr bedeuten muß als das Gesetz, nämlich den Wunsch, es **aus Liebe
+und Ehrfurcht heilig zu halten**?
 
 [12[79]](javascript:;)
 ----------------------
 
-Ich habe eine Herkunft — das ist der Stolz, entgegengesetzt der cupido gloriae. Es ist
+Ich habe eine **Herkunft** — das ist der Stolz, entgegengesetzt der cupido gloriae. Es ist
 mir nicht fremd, daß Zarathustra — — —
 
 [12[80]](javascript:;)
 ----------------------
 
-Das Originelle des Menschen ist, daß er ein Ding sieht, das alle nicht sehen.
+Das Originelle des Menschen ist, daß er ein Ding **sieht**, das alle nicht **sehen**.
 
 [12[81]](javascript:;)
 ----------------------
 
-Die Unbefriedigten müssen etwas haben, an das sie ihr Herz hängen: z.B. Gott. Jetzt, wo dieser fehlt, bekommt z.B. der Socialismus viele solche, die ehemals sich an
-Gott geklammert hätten — oder patria (wie Mazzini). Ein Anlaß zu großartiger Aufopferung, und einer öffentlichen (weil sie disciplinirt und fest hält, auch Muth macht!) soll immer da sein!
-Hier ist zu erfinden!
+Die Unbefriedigten müssen etwas haben, an das sie ihr Herz hängen: z.B. Gott. Jetzt, wo dieser **fehlt**, bekommt z.B. der **Socialismus** viele solche, die ehemals sich an
+Gott geklammert hätten — oder patria (wie Mazzini). Ein Anlaß zu großartiger Aufopferung, und einer **öffentlichen** (weil sie disciplinirt und fest hält, auch Muth macht!) soll immer da sein!
+Hier ist zu **erfinden**!
 
 [12[82]](javascript:;)
 ----------------------
@@ -586,14 +586,14 @@ wir sie geschaffen haben.
 [12[83]](javascript:;)
 ----------------------
 
-Man überträgt fälschlich Empfindungen (die bei jetzigen Zuständen z.B. Ehe erklärlich
-sind) auf Urzeiten, wo die Ehe anders war und gar nicht Liebe der Gatten unter sich
+Man überträgt fälschlich Empfindungen (die bei jetzigen Zuständen z.B. **Ehe** erklärlich
+sind) auf Urzeiten, wo die Ehe anders war und gar nicht **Liebe** der Gatten unter sich
 hervorbringen konnte!
 
 [12[84]](javascript:;)
 ----------------------
 
-R<ichard> W<agner> wollte eine große Cultur, um einen Platz für seine Kunst zu
+R&amp;lt;ichard&amp;gt; W&amp;lt;agner&amp;gt; wollte eine große Cultur, um einen Platz für seine Kunst zu
 haben — aber es fehlte ihm der neue Gedanke. So machte er Anleihen überall: zuletzt christliche Empfindungen,
 wenn auch noch nicht christliche Gedanken etc.
 
@@ -605,14 +605,14 @@ Aufgeben die niederen Grade der Macht, um zu höheren zu kommen
 [12[86]](javascript:;)
 ----------------------
 
-Mir als Mann ist die träumerische Beschaffenheit der Welt zuwider —
-aber ich sage als Mann die Wahrheit, auch die zuwidere.
+Mir als **Mann** ist die träumerische Beschaffenheit der Welt **zuwider** —
+aber ich sage als **Mann** die Wahrheit, auch die zuwidere.
 
 [12[87]](javascript:;)
 ----------------------
 
-Jene Art von Egoism, welche uns treibt, etwas um des Nächsten Willen zu thun oder zu
-lassen.
+Jene Art von Egoism, welche uns treibt, **etwas um des Nächsten Willen zu thun oder zu
+lassen**.
 
 [12[88]](javascript:;)
 ----------------------
@@ -622,15 +622,15 @@ Situationen zu sammeln
 [12[89]](javascript:;)
 ----------------------
 
-Erster Satz meiner Moral: man soll keine Zustände erstreben, weder
-sein Glück, noch seine Ruhe, noch seine Herrschaft über sich. Der Zustand soll immer nur comes, nie dux virtutis sein! Warum? — Auch nicht „das Ideal“ — sondern jede kleine und große Handlung so erhaben und so schön wie möglich und auch sichtbar ausführen! Die Art und Weise soll uns unterscheiden!
+Erster Satz **meiner** Moral: man soll keine **Zustände** erstreben, weder
+sein Glück, noch seine Ruhe, noch seine Herrschaft über sich. Der **Zustand** soll immer **nur comes**, nie dux virtutis sein! Warum? — Auch nicht „das Ideal“ — sondern **jede kleine und große Handlung** so erhaben und so schön wie möglich und auch sichtbar ausführen! **Die Art und Weise soll uns unterscheiden!**
 
 [12[90]](javascript:;)
 ----------------------
 
-Die Wissensch<aft> fliegt auf einmal so rasch aufwärts, daß ihre Jünger kaum Athem holen können
-— und eben in der allzu dünnen Luft wird es ihnen wehe, so weit und rein ihr Blick auch
-reicht. Die Menschheit muß es nachholen — sie muß es, wie sie es bisher gethan hat! Alle
+Die Wissensch&amp;lt;aft&amp;gt; fliegt auf einmal so rasch aufwärts, daß ihre Jünger kaum Athem holen können
+— und eben in der allzu dünnen Luft wird es ihnen **wehe**, so weit und rein ihr Blick auch
+reicht. Die Menschheit muß es nachholen — sie muß es, wie sie es **bisher** gethan hat! Alle
 Klugheit und Vernunft auf der unser Leben jetzt ruht, ist die Entdeckung Einzelner gewesen und ganz allmählich
 der Menschheit aufgedrungen, aufgezwungen, angeübt, einverleibt worden — so daß es jetzt wie zum
 unverrückbaren Wesen des Menschen zu gehören scheint!
@@ -653,7 +653,7 @@ Wir alten eingefleischten Wagnerianer sind doch die dankbarsten Bellini- und Ros
 
 Ich sehe das Mißverhältniß von Wissenschaft und Mensch fortwährend — es schwindet nie aus meinem Gesichte:
 gab es etwas Ähnliches? Priester und Mensch, Prophet und Mensch, Fürst und Mensch, Richter und Mensch.
-Jedesmal schien die Forderung das Individuum aufzuheben
+Jedesmal schien die Forderung das Individuum **aufzuheben**
 
 [12[94]](javascript:;)
 ----------------------
@@ -665,7 +665,7 @@ Die Fiorituren und Cadenzen in der Musik sind wie süßes Eis im Sommer.
 
 Nach dem periodischen Stile greifen alle, wie nach einem Gewande, welche sich nicht nackt zeigen wollen — sei
 es nun, daß sie ungestaltet sind, sei es, daß sie sich allzu schamhaft gewöhnt haben. Ihre Gedanken sind scheu
-und linkisch ohne Hülle — das Wenige von Anmuth, dessen sie fähig sind, zeigt sich erst,
+und linkisch ohne Hülle — das Wenige von **Anmuth**, dessen sie fähig sind, zeigt sich erst,
 wenn die Falten der Periode ihnen Muth und Glauben an die eigene Würde geben. Dies wollen wir an ihnen
 ertragen und selbst gutheißen: nur bitten wir diese Mantelträger und Faltenreichen aus sich kein Gesetz der
 Moral und Schönheit zu machen: der periodische Stil ist und bleibt ein Nothbehelf und — — —
@@ -673,17 +673,17 @@ Moral und Schönheit zu machen: der periodische Stil ist und bleibt ein Nothbehe
 [12[96]](javascript:;)
 ----------------------
 
-M<eine> Brüder! Verbergen wir es uns nicht! Die Wiss<enschaft> oder, ehrlicher
-geredet, die Leidenschaft der Erkenntniß ist da; eine ungeheure neue wachsende Gewalt,
+M&amp;lt;eine&amp;gt; Brüder! Verbergen wir es uns nicht! Die Wiss&amp;lt;enschaft&amp;gt; oder, ehrlicher
+geredet, die **Leidenschaft der Erkenntniß** ist da; eine ungeheure neue wachsende Gewalt,
 dergleichen noch nie gesehen worden ist, mit Adlersschwung, Eulenaugen und den Füßen des Lindwurms — ja sie
-ist schon jetzt so stark, daß sie sich selber als Problem faßt und fragt: „wie bin ich
-nur möglich unter Menschen! Wie ist der Mensch fürderhin möglich mit
-mir!“
+ist schon jetzt so stark, daß sie sich selber als Problem faßt und fragt: „wie bin **ich**
+nur möglich unter **Menschen**! Wie ist der Mensch fürderhin möglich **mit**
+**mir**!“
 
 [12[97]](javascript:;)
 ----------------------
 
-Diese Leidenschaft der Erk<enntniß> fällt sich selber an, sie fragt nach ihrem Warum? Nach
+Diese Leidenschaft der Erk&amp;lt;enntniß&amp;gt; fällt sich selber an, sie fragt nach ihrem Warum? Nach
 ihrem „Woher?“ — und — — —
 
 [12[98]](javascript:;)
@@ -710,27 +710,27 @@ Hier bin ich dies lebende Muschelthier, unter all den Felsen am Gestade
 [12[102]](javascript:;)
 -----------------------
 
-Wer die Tragödie moralisch genießt, der hat noch einige Stufen zu steigen.
+Wer die Tragödie **moralisch** genießt, der hat noch einige Stufen zu **steigen**.
 
 [12[103]](javascript:;)
 -----------------------
 
 Die beste Musik ist wenig, wenn nicht ein Sänger, eine Sängerin uns durch Stimme und Kunst in sanfte
-Trunkenheit versetzt — und in diesem Falle wird geringe Musik
+Trunkenheit versetzt — und in **diesem** Falle wird **geringe** Musik
 unsäglich gehoben!
 
 [12[104]](javascript:;)
 -----------------------
 
-Sind diese Dinge denn wichtig? Ich gehe durch große Städte und finde Keinen der sie
-dafür halten würde — oder solche die es heucheln — von Berufs wegen. Wichtig ist aber, daß sie
-es nicht mehr wichtig nehmen! Savonarola in Florenz ist vorüber! ganz!
+Sind diese Dinge denn **wichtig**? Ich gehe durch große Städte und finde Keinen der sie
+dafür halten würde — oder solche die es heucheln — von Berufs wegen. **Wichtig ist aber, daß sie
+es nicht mehr wichtig nehmen!**Savonarola in Florenz ist vorüber! ganz!
 
 [12[105]](javascript:;)
 -----------------------
 
-Der Bauende fragt: wer gilt dafür, den besten Geschmack als Baumeister zu haben? Dessen
-Geschmack will ich haben — und er gewöhnt sich daran, es wird sein Bedürfniß. So bekommen Städte endlich einen Geschmack
+Der Bauende fragt: wer **gilt** dafür, den besten Geschmack als Baumeister zu haben? Dessen
+Geschmack **will** ich haben — und er gewöhnt sich daran, es wird sein **Bedürfniß**. So bekommen Städte endlich einen Geschmack
 
 [12[106]](javascript:;)
 -----------------------
@@ -741,12 +741,12 @@ Das Glück, breite und langsame Treppe
 -----------------------
 
 Die Gedanken der Alten wirken ungeheuer, weil sich der Glaube an die Alten seit Jahrhunderten angesammelt
-hat. Meine Gedanken betreffen zu hohe und schwere Dinge als daß sie ohne den größten persönlichen Druck wirken können —
+hat. Meine Gedanken betreffen zu hohe und schwere Dinge als daß sie ohne den größten **persönlichen Druck** wirken können —
 
 [12[108]](javascript:;)
 -----------------------
 
-Wenn dieser M<ensch> nicht ein großer Tugendhafter wird, so wird er fürchterlich sein, sich und
+Wenn dieser M&amp;lt;ensch&amp;gt; nicht ein großer Tugendhafter wird, so wird er fürchterlich sein, sich und
 Anderen. Bei Anderen lohnt es sich nicht, wenn sie sich so heftig um die Tugend bemühen — sie werden durch
 ihre Mittelmäßigkeit sogar die Tugend um ihr Ansehen bringen.
 
@@ -758,21 +758,21 @@ Ist nicht Alles Alles bereit für diese Revolution? Die Lage ist zu schildern.
 [12[110]](javascript:;)
 -----------------------
 
-Paradoxie im Weibe und seiner Erziehung — sehr geheimnißvoll und interessant. — Diesen
+Paradoxie im Weibe und seiner Erziehung — sehr geheimnißvoll und interessant. — **Diesen**
 Sinn hat alle Moral
 
 [12[111]](javascript:;)
 -----------------------
 
 Es giebt keine Parteilichkeit für das Lebende oder gegen das Todte in der Natur. Wenn etwas lebend nicht
-erhalten bleibt, so ist kein Zweck verfehlt!
+erhalten bleibt, **so ist kein Zweck verfehlt**!
 
 der Charakter „nützlich“ „zweckmäßig“ ist accessorisch, menschlich
 
 [12[112]](javascript:;)
 -----------------------
 
-„Wenn Z<arathustra> die Menge bewegen will, da muß er der Schauspieler seiner selbst sein“
+„Wenn Z&amp;lt;arathustra&amp;gt; die Menge bewegen will, da muß er der Schauspieler seiner selbst sein“
 
   
 
@@ -793,37 +793,37 @@ Wenn ich recht beobachtet habe, so bin ich hier der einzige Müssiggänger.
 [12[115]](javascript:;)
 -----------------------
 
-Die Mittelstände streben mit allem Eifer die Arbeiter in ihre Lage zu bringen: sind sie
-denn glücklicher?
+Die Mittelstände streben mit allem Eifer die Arbeiter in **ihre** Lage zu bringen: sind sie
+denn **glücklicher**?
 
 [12[116]](javascript:;)
 -----------------------
 
-An den eigentlichen Misojuden (wie W<agner>) ist mir eher die Verwandtschaft mit dem Jüdischen
+An den eigentlichen Misojuden (wie W&amp;lt;agner&amp;gt;) ist mir eher die Verwandtschaft mit dem Jüdischen
 als die Unähnlichkeit aufgefallen — es ist eine ungeheure Eifersucht. Die Deutschen zerfielen jetzt in Juden
 und Misojuden, d.h. — — —
 
 [12[117]](javascript:;)
 -----------------------
 
-Eine neue Art Verdummung — durch die Lust am Thun und Unternehmen.
+Eine neue Art **Verdummung** — durch die Lust am Thun und Unternehmen.
 
 [12[118]](javascript:;)
 -----------------------
 
-Ein M<ensch> mit bleichem Gesicht, tief gebückt über meinem Tische. Diese Vorstellung dauerte
-einen Augenblick: im nächsten nahm ich eine Katze wahr, ein paar Schritte weiter
+Ein M&amp;lt;ensch&amp;gt; mit bleichem Gesicht, tief gebückt über meinem Tische. Diese Vorstellung dauerte
+einen Augenblick: im nächsten nahm ich eine Katze wahr, ein **paar Schritte weiter**
 
 [12[119]](javascript:;)
 -----------------------
 
-Die Musik als die Kunst der Morgenröthe!
+Die Musik als die **Kunst**der**Morgenröthe**!
 
 [12[120]](javascript:;)
 -----------------------
 
-Was R<ichard> W<agner> werth ist, das wird uns erst der sagen, der den besten
-Gebrauch von ihm macht. Einstweilen haben wir W<agner> geglaubt, was er gern geglaubt haben
+Was R&amp;lt;ichard&amp;gt; W&amp;lt;agner&amp;gt; werth ist, das wird uns erst der sagen, der den besten
+Gebrauch von ihm macht. Einstweilen haben wir W&amp;lt;agner&amp;gt; geglaubt, was er gern geglaubt haben
 möchte
 
 [12[121]](javascript:;)
@@ -860,7 +860,7 @@ Meine Kunst, das Pathetische zu mildern und zu brechen.
 [12[127]](javascript:;)
 -----------------------
 
-Ich nehme mir die Freiheit, mich zu vergessen. Warum nicht widersprechen!
+Ich nehme mir die Freiheit, mich zu **vergessen**. Warum nicht widersprechen!
 
 [12[128]](javascript:;)
 -----------------------
@@ -873,7 +873,7 @@ Zarathustra.
 
 Zum Äußersten bereit
 
-Alle Arten tapferer M<enschen> um — — —
+Alle Arten tapferer M&amp;lt;enschen&amp;gt; um — — —
 
 ein unsägliches Wehgefühl, daß das Leben so wegfließt.
 
@@ -883,7 +883,7 @@ Eroberers ist vielleicht das Schönste.
 Zu seinem Jünger sagte er: „das ist die purpurne Schwermuth, die schönste Muschel, die du am Meere des
 Daseins auflesen kannst
 
-das Gefühl des nahen Abschieds, die Abendbeleuchtung der Dinge
+das Gefühl des nahen **Abschieds**, die Abendbeleuchtung der Dinge
 
   
 
@@ -899,7 +899,7 @@ meinten, ich wolle mich auf ihr zur Ruhe setzen.
 [12[131]](javascript:;)
 -----------------------
 
-Man brachte 2 Jünglinge zu Z<arathustra>. „dieser wird jede Sache mittelmäßig machen — dieser
+Man brachte 2 Jünglinge zu Z&amp;lt;arathustra&amp;gt;. „dieser wird jede Sache mittelmäßig machen — dieser
 wird nicht wehethun wollen, er ist nicht heroisch-grausam genug.“
 
 [12[132]](javascript:;)
@@ -911,24 +911,24 @@ Nicht Gattungs- sondern Heerden-Egoismus
 -----------------------
 
 barbarisch, gerade die Schwäche einer Sache zu nehmen, das Gegentheil, eine Sache so zu nehmen, daß man an
-Stelle ihrer Schwäche die eigene Stärke zu stellen weiß und sie so beschenkt
+Stelle ihrer Schwäche die eigene Stärke zu stellen weiß und sie so **beschenkt**
 
 [12[134]](javascript:;)
 -----------------------
 
-die furchtbaren Schreie Zeichen Rätsel alles womit die Verdauung der Menschheit nicht fertig wird, — der „Koth des Daseins“ ist der fruchtbarste Dünger gewesen
+die furchtbaren Schreie Zeichen Rätsel alles womit die Verdauung der Menschheit nicht fertig wird, — der **„Koth des Daseins“** ist der fruchtbarste Dünger gewesen
 
 [12[135]](javascript:;)
 -----------------------
 
 Wer viel siegt, muß viel Gegner gehabt haben. Alle unsere Kräfte wollen fortwährend kämpfen. Die Moral will:
-zu allererst Gegner! und Krieg!
+**zu allererst Gegner! und Krieg!**
 
 [12[136]](javascript:;)
 -----------------------
 
-Wie vielen edlen und feinen Ziegen bin ich auf Reisen begegnet! sagte
-Z<arathustra>.
+Wie **vielen** edlen und feinen Ziegen bin ich auf Reisen begegnet! sagte
+Z&amp;lt;arathustra&amp;gt;.
 
 [12[137]](javascript:;)
 -----------------------
@@ -936,30 +936,30 @@ Z<arathustra>.
 Verdi ist arm an den Erfindungen schöner Sinnlichkeit und läßt gar noch merken, daß er äußerst sparsam mit
 ihnen umzugehen hat. Aber er hat sein Publikum mit seinen paar Einfällen fest — sie sind alle ärmer geworden
 wie er und wollen trotzdem nichts anderes, ganz wie er — so ist er ihr Mann und Meister. Auch
-W<agner> hat eine arme Sinnlichkeit und eine in Bezug auf Melodie an’s Verrückte streifende
+W&amp;lt;agner&amp;gt; hat eine arme Sinnlichkeit und eine in Bezug auf Melodie an’s Verrückte streifende
 Widerspenstigkeit in der Armut — aber wie hat er daraus sich eine Brücke zum Ideal zu bauen gewußt!
 
 [12[138]](javascript:;)
 -----------------------
 
-W<agners> Musik gleicht der Wolke — und man muß von der Art der Rosenkranz und Güldenstern
-sein, um, gleich einigen Aesthetikern, in dieser Wolke ein Kameel zu sehen und nicht
+W&amp;lt;agners&amp;gt; Musik gleicht der Wolke — und man muß von der Art der Rosenkranz und Güldenstern
+sein, um, gleich einigen Aesthetikern, in dieser Wolke ein **Kameel** zu sehen und nicht
 mehr
 
 [12[139]](javascript:;)
 -----------------------
 
-Von den deutschen Dichtern hat Clemens Brentano am meisten Musik im Leibe
+Von den deutschen Dichtern hat Clemens Brentano am meisten **Musik** im Leibe
 
 [12[140]](javascript:;)
 -----------------------
 
-Heroismus ist die Kraft, Schmerz zu leiden und zuzufügen.
+**Heroismus** ist die Kraft, Schmerz zu leiden und **zuzufügen**.
 
 [12[141]](javascript:;)
 -----------------------
 
-Der Stoicismus im gefaßten Ertragen ist ein Zeichen gelähmter Kraft, man stellt eine
+Der **Stoicismus** im gefaßten Ertragen ist ein Zeichen gelähmter Kraft, man stellt eine
 Trägheit gegen den Schmerz auf die Wage — Mangel an Heroismus, der immer kämpft (nicht leidet) der den Schmerz
 „freiwillig aufsucht“.
 
@@ -976,13 +976,13 @@ Es liegt wenig an Menschen, welche einen Gruß auf der Straße eher erwidern als
 [12[144]](javascript:;)
 -----------------------
 
-den Thee oder sein Wasser „mediterranisiren“ (durch Orangenwasser)
+den Thee oder sein Wasser **„mediterranisiren“** (durch Orangenwasser)
 
 [12[145]](javascript:;)
 -----------------------
 
 Jener Kaiser hält sich beständig die Vergänglichkeit aller Dinge vor, um sie nicht zu wichtig zu nehmen und
-ruhig zu bleiben. Auf mich wirkt die Vergänglichkeit ganz anders — mir scheint alles
+**ruhig** zu bleiben. Auf mich wirkt die Vergänglichkeit ganz anders — mir scheint alles
 viel mehr werth zu sein als daß es so flüchtig sein dürfte — mir ist als ob die kostbaren Weine und Salben ins
 Meer gegossen würden.
 
@@ -994,11 +994,11 @@ Wenn unser Glück uns nicht verleumden soll, müssen wir sichtbare Gebrechen an 
 [12[147]](javascript:;)
 -----------------------
 
-Edel: in wiefern ein anderes Maaß des Moralischen als das des Mitleids? der Höhere — der
-Grad von Verachtungsfähigkeit
+**Edel:** in wiefern ein anderes Maaß des Moralischen als das des Mitleids? der Höhere — der
+**Grad von Verachtungsfähigkeit**
 
-Man kann fragen: war die Moral ein Mittel der Veredelung des
-Menschen? Was ist da „Veredelung“? Eine feinere Art der Moralität selber? — „Höher von
+Man kann **fragen**: war die Moral ein Mittel der **Veredelung** des
+Menschen? Was ist da „Veredelung“? Eine feinere Art der Moralität selber? — „**Höher** von
 sich denken“? —
 
 vorausverkündende Verbrechen
@@ -1006,7 +1006,7 @@ vorausverkündende Verbrechen
 [12[148]](javascript:;)
 -----------------------
 
-Ohne das Gefühl „ich bin verantwortlich“ — was wird aus dem Menschen? Ohne den Glauben an das Gewissen — was wird aus ihm? Denn er kann Gewissensbisse haben, aber skeptisch gegen sie sein, wie gegen andere Triebe, die sich regen
+**Ohne** das Gefühl „ich bin verantwortlich“ — was wird aus dem Menschen? Ohne den **Glauben an das Gewissen** — was wird aus ihm? Denn er kann Gewissensbisse haben, aber **skeptisch** gegen sie sein, wie gegen andere Triebe, die sich regen
 
 [12[149]](javascript:;)
 -----------------------
@@ -1021,7 +1021,7 @@ Inschrift des Dichters-Zimmers
 [12[151]](javascript:;)
 -----------------------
 
-der gedankenreichste Autor dieses Jahrh<underts> ist bisher ein Amerikaner gewesen (leider
+der gedankenreichste Autor dieses Jahrh&amp;lt;underts&amp;gt; ist bisher ein Amerikaner gewesen (leider
 durch deutsche Philosophie verdunkelt — Milchglas)
 
 Drei Irrthümer 1) die Vergeltung — — —
@@ -1048,7 +1048,7 @@ Ich schwimme auf der obersten Welle.
 nicht schädlich. Speichel Schleim Schweiß Same Urin Koth Hautreste, Nasenschleimhäute usw. Es ist
 unzweckmäßig! — Der Ekel mit der Verfeinerung zunehmend. Die Verrichtungen, die daran sich knüpfen, auch
 ekelhaft. — Ekel als Brechreiz zu verstehen: die Ausscheidungen erregen Reiz, die Nahrung auszuscheiden
-unverdaut (wie ein Gift) Urtheil vom Standpunkte der Genießbarkeit
+unverdaut **(wie ein Gift)** Urtheil vom Standpunkte der **Genießbarkeit**
 aus: dies ist nicht zu essen! Grundurtheil der Moral.
 
 [12[156]](javascript:;)
@@ -1060,7 +1060,7 @@ Epikur — denken auch an ihre erotischen Erlebnisse zurück.
 [12[157]](javascript:;)
 -----------------------
 
-Hier schwieg Z<arathustra> von Neuem und versank in tiefes Nachsinnen. Endlich sagte er wie
+Hier schwieg Z&amp;lt;arathustra&amp;gt; von Neuem und versank in tiefes Nachsinnen. Endlich sagte er wie
 träumend: „Oder hat er sich selber getötet? Waren wir nur seine Hände?“
 
 [12[158]](javascript:;)
@@ -1095,7 +1095,7 @@ lieblichste Versündigung
 Jedes Ding an jedem Dinge meßbar: aber außerhalb der Dinge giebt es kein Maaß: weshalb an sich jede Größe
 unendlich groß und unendlich klein ist.
 
-Dagegen giebt es vielleicht eine Zeiteinheit, welche fest ist. Die Kräfte brauchen
+Dagegen giebt es vielleicht eine **Zeit**einheit, welche fest ist. Die Kräfte brauchen
 bestimmte Zeiten, um bestimmte Qualitäten zu werden.
 
 [12[161]](javascript:;)
@@ -1114,25 +1114,25 @@ den Horizont.
 
 der einfachste Organismus ist der vollkommene — alle complicirteren sind fehlerhafter und unzählige der
 höheren Art gehen zu Grunde. Heerden und Staaten sind die höchsten uns bekannten — sehr unvollkommenen
-Organismen. Endlich entsteht, hinter dem Staate, das menschliche Individuum — das höchste
-und unvollkommenste Wesen, welches in der Regel zu Grunde geht und
-die Gebilde aus denen es entsteht zu Grunde richtet. Das ganze Pensum der Heerden- und
-Staatentriebe ist in seinem Innern concentrirt. Er kann allein leben, nach eigenen Gesetzen — er ist kein Gesetzgeber und will nicht herrschen. Sein
-Machtgefühl schlägt nach innen. Die sokratischen Tugenden!
+Organismen. Endlich entsteht, **hinter** dem Staate, das menschliche Individuum — das höchste
+und **unvollkommenste** Wesen, welches **in der Regel** zu Grunde geht und
+die Gebilde aus denen es entsteht zu Grunde richtet. Das ganze **Pensum** der Heerden- und
+Staatentriebe ist in seinem Innern concentrirt. Er kann allein leben, nach eigenen Gesetzen — er ist **kein** Gesetzgeber und will**nicht** herrschen. Sein
+**Machtgefühl** schlägt nach **innen**. Die sokratischen **Tugenden**!
 
 [12[164]](javascript:;)
 -----------------------
 
-Trost für die welche zu Grunde gehen! ihre Leidenschaften als ein unglückliches
-Lotterieloos betrachten. Sehen, daß die meisten Würfe mißlingen müssen, daß das
-Zugrundegehen so nützlich ist als das Werden. Keine Reue. Selbstmord
+Trost für die welche zu **Grunde gehen**! ihre Leidenschaften als ein unglückliches
+Lotterieloos betrachten. Sehen, **daß** die meisten Würfe mißlingen müssen, daß das
+Zugrundegehen so **nützlich** ist als das Werden. **Keine** Reue. Selbstmord
 abkürzend.
 
 [12[165]](javascript:;)
 -----------------------
 
 Ein Wort für die, welche an Gott glauben — sie mögen erwägen, ob ein Gott die Vernichtung von irgend etwas
-wollen kann oder überhaupt kann — ob dies nicht eben das göttliche Unvermögen ist
+wollen kann oder überhaupt **kann** — ob dies nicht eben das göttliche Unvermögen ist
 
 [12[166]](javascript:;)
 -----------------------
@@ -1203,9 +1203,9 @@ Posilipp und all die Blinden, denen das Auge geöffnet wird.
 [12[178]](javascript:;)
 -----------------------
 
-Meine Gedanken sollen mir anzeigen, wo ich stehe, aber sie sollen nicht mir verrathen,
+Meine Gedanken sollen mir anzeigen, **wo ich stehe**, aber sie sollen nicht mir verrathen,
 wohin ich gehe — ich liebe die Unwissenheit um die Zukunft und will nicht an der Ungeduld und dem Vorwegnehmen
-verheißener Dinge zu Grunde gehen.
+**verheißener** Dinge zu Grunde gehen.
 
 Ich falle, bis ich auf den Grund komme — und will nicht mehr sagen: „ich forsche nach dem Grunde!“
 
@@ -1216,7 +1216,7 @@ zu kurz für sie, er errafft mit schnellem Blicke einige ihrer letzten Zipfel un
 [12[179]](javascript:;)
 -----------------------
 
-„aus diesem Kelche schäumt Unendlichkeit“.
+„aus diesem Kelche **schäumt** Unendlichkeit“.
 
 [12[180]](javascript:;)
 -----------------------
@@ -1229,7 +1229,7 @@ Sophokles giebt oder schafft jeder Person Recht.
 Ich habe nicht Kraft genug für den Norden: dort herrschen die schwerfälligen und künstlichen Seelen, die so
 beständig und nothwendig an Maßregeln der Vorsicht arbeiten als der Biber an seinem Bau. Unter ihnen habe ich
 meine ganze Jugend verlebt! das fiel über mich her, als ich zum 1. Male den Abend über Neapel heraufkommen
-sah, mit seinem sammtnen Grau und Roth <des> Himmels — wie ein Schauder Mitleid mit mir, daß ich
+sah, mit seinem sammtnen Grau und Roth &amp;lt;des&amp;gt; Himmels — wie ein Schauder Mitleid mit mir, daß ich
 mein Leben damit anfieng, alt zu sein, und Thränen und das Gefühl, noch gerettet zu sein, im letzten
 Augenblick.
 
@@ -1238,9 +1238,9 @@ ich habe Geist genug für den Süden
 [12[182]](javascript:;)
 -----------------------
 
-Ein M<ensch> der ohne alle Liebe und Theilnahme an Anderen ist, ist in meinen Augen einer, der
+Ein M&amp;lt;ensch&amp;gt; der ohne alle Liebe und Theilnahme an Anderen ist, ist in meinen Augen einer, der
 nicht erwerben will, sich einen Genuß verbietet oder der Klugheit ermangelt, es fehlt ihm an Abwechslung, ein
-armer M<ensch>
+armer M&amp;lt;ensch&amp;gt;
 
 [12[183]](javascript:;)
 -----------------------
@@ -1249,7 +1249,7 @@ Züchtung der Griechen.
 
   
 
-Die Männer schöner als die Frauen.
+**Die Männer schöner als die Frauen.**
 
 [12[184]](javascript:;)
 -----------------------
@@ -1262,15 +1262,15 @@ Unterscheidung der höheren Naturen
 -----------------------
 
 Spencer meint, das eigentlich Moralische sei, die wirklichen natürlichen Folgen einer Handlung in Betracht zu
-ziehen — nicht Lob Tadel Strafe. Aber dies „in Betracht ziehen“ war unmoralisch! Die That
-wird gethan, was dabei auch herauskommt! — Die Rücksicht auf die gesammten Folgen einer That ist nie bisher verlangt worden — und wer sie verlangte, würde die Menschen
+ziehen — nicht Lob Tadel Strafe. Aber **dies „in Betracht ziehen“ war unmoralisch**! Die That
+wird gethan, **was dabei auch herauskommt**! — Die Rücksicht auf die **gesammten Folgen** einer That ist nie bisher verlangt worden — und wer sie verlangte, würde die Menschen
 stille stehen machen. Die Folgen sind unsäglich und unerforschlich: die nächsten Folgen würden durch die
 ferneren überwogen werden: jedes Verbrechen ließe sich so begründen.
 
 [12[186]](javascript:;)
 -----------------------
 
-Das Individuum war lange „unmoralisch“ — es versteckte sich folglich, z.B. das Genie
+Das Individuum war lange **„unmoralisch“** — es versteckte sich folglich, z.B. das Genie
 (wie Homer) unter dem Namen eines Heros. Oder man machte einen Gott verantwortlich.
 
 [12[187]](javascript:;)
@@ -1304,7 +1304,7 @@ Lob Voltaires
 [12[191]](javascript:;)
 -----------------------
 
-Welches Erstaunen macht mir M<arc> Aurel und welches Grazian!
+Welches Erstaunen macht mir M&amp;lt;arc&amp;gt; Aurel und welches Grazian!
 
 [12[192]](javascript:;)
 -----------------------
@@ -1323,20 +1323,20 @@ Tiefe hinein legen, die ewige Wiederholbarkeit.
 Die lange Liebe ist deshalb möglich — auch wenn sie glücklich ist — weil ein Mensch nicht leicht zu Ende zu
 besitzen, zu Ende zu erobern ist — es thun sich immer neue, noch unentdeckte Gründe und Hinterräume der Seele
 auf, und auch nach diesen streckt sich die unendliche Habsucht der Liebe aus. — Aber die Liebe endet, sobald
-wir das Wesen als begrenzt empfinden.
+wir das Wesen als **begrenzt** empfinden.
 
 Der Conflikt der langen und der kurzen Leidenschaft entsteht, wenn der Eine den Anderen zu Ende zu besitzen
-glaubt und der Andere noch nicht — da wendet jener sich ab, entzieht sich und reizt nun durch die Ferne den Anderen noch mehr auf, neue Werthe zu suchen — zuletzt oft mit dem Entschluß, ihn
+glaubt und der Andere noch nicht — da wendet jener sich ab, entzieht sich und reizt nun durch die **Ferne** den Anderen noch mehr auf, neue Werthe zu suchen — zuletzt oft mit dem Entschluß, ihn
 lieber zu tödten, als einen Anderen in den Besitz kommen zu lassen. — Glücklicherweise haben die Dinge keine
 Seele; sonst sähen wir fortwährend diesen Conflikt: und die Natur, wenn sie den unendlichen
-M<enschen> wirklich geliebt hätte, würde ihn längst aus Liebe aufgezehrt haben — sei es auch nur
+M&amp;lt;enschen&amp;gt; wirklich geliebt hätte, würde ihn längst aus Liebe aufgezehrt haben — sei es auch nur
 um ihn nicht z.B. einem Gotte zur Beute zu lassen.
 
 [12[195]](javascript:;)
 -----------------------
 
-Zu jeder Moral gehört eine gewisse Art von Analyse der Handlungen:
-jede ist falsch. Aber jede Moral hat ihre Perspektiven und Beleuchtungen — ihre Lehre von den „Motiven“.
+Zu jeder Moral gehört eine gewisse Art von **Analyse** der **Handlungen**:
+jede ist **falsch**. Aber jede Moral hat ihre Perspektiven und Beleuchtungen — ihre **Lehre** von den „Motiven“.
 
 [12[196]](javascript:;)
 -----------------------
@@ -1346,7 +1346,7 @@ jede ist falsch. Aber jede Moral hat ihre Perspektiven und Beleuchtungen — ihr
 [12[197]](javascript:;)
 -----------------------
 
-Man nennt es Erkennen: in Wahrheit geht der lieb<ende> Mensch — — —
+Man nennt es Erkennen: in Wahrheit geht der lieb&amp;lt;ende&amp;gt; Mensch — — —
 
 [12[198]](javascript:;)
 -----------------------
@@ -1357,7 +1357,7 @@ fünfundzwanzig.
 [12[199]](javascript:;)
 -----------------------
 
-Der gute Mensch
+**Der gute Mensch**
 
   
 
@@ -1370,7 +1370,7 @@ Der gute Mensch
 | 5. | der fromme | 5. | der sich-selber gehorchende |
 | 6. | der Vornehme, Edle | 6. | der nicht-verachtende |
 | 7. | der gutmüthige | 7. | der Kämpfe- und Siegbegierige |
-|  | immer auch der Gegensatz dazu ist gut genannt worden | | | |
+|  | immer auch der Gegensatz dazu ist **gut** genannt worden | | | |
 
 [12[200]](javascript:;)
 -----------------------
@@ -1387,7 +1387,7 @@ Leben durch uns selber.
 [12[202]](javascript:;)
 -----------------------
 
-Gott
+**Gott**
 
   
 
@@ -1395,7 +1395,7 @@ Wir haben ihn mehr geliebt als uns und ihm nicht nur unseren „eingeborenen Soh
 
 Ihr macht es euch zu leicht, ihr Gottlosen! Gut, es mag so sein, wie ihr sagt: die Menschen haben Gott
 geschaffen — ist dies ein Grund, sich nicht mehr um ihn zu kümmern? Wir haben bisher umgekehrt geschlossen,
-Gott, weil er die — — —
+Gott, **weil** er die — — —
 
   
 
@@ -1413,7 +1413,7 @@ hinderte ihn zu sterben.
 -----------------------
 
 Logik im Diebstahl. Dieb sein können. — Jeder kauft so billig als er kann: d.h. Jeder bestiehlt seinen
-Nächsten, so lange als es dieser sich eben gefallen lassen muß.
+Nächsten, so lange als es dieser sich eben gefallen lassen **muß**.
 
 [12[205]](javascript:;)
 -----------------------
@@ -1421,10 +1421,10 @@ Nächsten, so lange als es dieser sich eben gefallen lassen muß.
 Ich stehe still, ich bin auf einmal müde. Voran, scheint es, geht es abwärts, blitzschnell, in irgend einen
 Abgrund — ich mag nicht hinsehen. Hinter mir ragt das Gebirge. Ich greife zitternd nach einem Halt. Wie! ist
 alles um mich plötzlich zum Gestein und Absturz geworden? Hier dies Gesträuch — es zerbricht in meiner Hand
-und vergilbte Blätter und ärmliche Würzelchen rieseln abwärts. Mich schaudert und <ich> schließe
+und vergilbte Blätter und ärmliche Würzelchen rieseln abwärts. Mich schaudert und &amp;lt;ich&amp;gt; schließe
 das Auge. — Wo bin ich? Ich sehe in eine purpurne Nacht, sie zieht mich an sich und winkt mir — wie ist mir
 doch? was geschah, daß die Stimme dir plötzlich versagt und du dich wie verschüttet fühlst unter einer Last
-trunkener und undurchsichtiger Gefühle? Woran leidest du jetzt? — ja ich leide — das ist
+trunkener und undurchsichtiger Gefühle? Woran leidest du jetzt? — ja ich **leide** — das ist
 das rechte Wort! — Welcher Wurm biß mich ins Herz?
 
 [12[206]](javascript:;)
@@ -1437,7 +1437,7 @@ mit einem Entrechat auswich.
 -----------------------
 
 Die Beängstigungen einer feigen furchtsamen und argwöhnischen Seele, die Unfähigkeit, irgend einen boshaften
-Einfall zurückzuhalten, wenn er Geist hatte, machen die Komödie in R<ousseau>’s Leben aus.
+Einfall zurückzuhalten, wenn er Geist hatte, machen die Komödie in R&amp;lt;ousseau&amp;gt;’s Leben aus.
 
 [12[208]](javascript:;)
 -----------------------
@@ -1476,19 +1476,19 @@ und hat einer so viel davon, so bekämpft er gewöhnlich die Vorurtheile.
 [12[212]](javascript:;)
 -----------------------
 
-Letzte Klugheit. Er fürchtet den Neid der Götter und der Guten: er versteht sich darauf,
+**Letzte Klugheit.** Er fürchtet den Neid der Götter und der Guten: er versteht sich darauf,
 sein Verdienst durch seine Thorheiten in Frage zu stellen und dergestalt wieder gut zu machen.
 
 [12[213]](javascript:;)
 -----------------------
 
-Ego als gefühlter Gegensatz der Heerde (Selbst — Heerde) und das Heerdenstück-Gefühl,
+Ego als gefühlter Gegensatz der Heerde (Selbst — Heerde) und das **Heerdenstück-Gefühl**,
 welches sich nicht zu unterscheiden vermag vom Interesse der Heerde — nicht zu verwechseln!
 
 [12[214]](javascript:;)
 -----------------------
 
-Die Menschen werden so reich, weil die Dinge nicht so viel werth sind, die ihnen gefallen, — sie sind nicht erfinderisch in der Freude.
+Die Menschen werden so reich, weil die Dinge nicht so viel werth sind, die ihnen **gefallen**, — sie sind nicht erfinderisch in der Freude.
 
 [12[215]](javascript:;)
 -----------------------
@@ -1516,9 +1516,9 @@ Grausamkeit ist das Heilmittel des verletzten Stolzes.
 [12[218]](javascript:;)
 -----------------------
 
-Der Irrthum beim Gelobtwerden besteht darin, daß der, welcher gelobt wird, dem Worte des Lobenden seinen Begriff dieses Wortes unterlegt und nicht den des Lobenden, — den er ja zumeist gar
+Der Irrthum beim Gelobtwerden besteht darin, daß der, welcher gelobt wird, dem Worte des Lobenden **seinen** Begriff dieses Wortes unterlegt und nicht den des Lobenden, — den er ja zumeist gar
 nicht kennen kann. Gewöhnlich aber ist der Begriff im Kopfe des Lobenden etwas viel Geringeres Matteres
-Ärmeres als im Kopfe des Gelobten: so daß der letztere sich oft genug sehr verdrießen müßte zu wissen, was eigentlich an ihm und seinem Werke gelobt worden ist.
+Ärmeres als im Kopfe des Gelobten: so daß der letztere sich oft genug sehr verdrießen müßte zu wissen, **was** eigentlich an ihm und seinem Werke gelobt worden ist.
 
 [12[219]](javascript:;)
 -----------------------
@@ -1527,7 +1527,7 @@ Der Magen, moralisch beschrieben
 
   
 
-Themata vorschlagen.
+**Themata** vorschlagen.
 
 [12[220]](javascript:;)
 -----------------------
@@ -1549,12 +1549,12 @@ Geburt der Tragödie
 |  |  |
 | --- | --- |
 | 1) | gegen Wagner’s Satz „die Musik ist Mittel zum Zweck“ und zugleich Apologie meines Geschmacks an Wagner |
-| 2. | gegen Schopenhauer und die moralische Deutung des Daseins — ich stelle darüber die aesthetische, ohne die moralische zu leugnen oder zu ändern. |
+| 2. | gegen Schopenhauer und die moralische Deutung des Daseins — ich stelle darüber die aesthetische, **ohne die moralische zu leugnen** oder zu ändern. |
 
 [12[221]](javascript:;)
 -----------------------
 
-Köselitz: Eckermann über Voltaire „zu vornehm war er — — —
+**Köselitz:** Eckermann über Voltaire „zu vornehm war er — — —
 
 [12[222]](javascript:;)
 -----------------------
@@ -1570,40 +1570,40 @@ Wie’s geschieht, zwei Mal oder drei.
 [12[223]](javascript:;)
 -----------------------
 
-Incipit tragoedia.
+**Incipit tragoedia.**
 
 [12[224]](javascript:;)
 -----------------------
 
-„Musik Dichter Denker et hoc genus omne.“  
+**„Musik Dichter Denker et hoc genus omne.“**  
 Gelegenheiten Beobachtungen und Fragen von F. N.
 
 [12[225]](javascript:;)
 -----------------------
 
-Zarathustra’s Müssiggang.
+**Zarathustra’s Müssiggang.**
   
 Von F.N.  
 flüssig feurig glühend — aber hell:  
 das letzte Buch —
 
-es soll majestätisch und selig einherrollen. — So sprach Z<arathustra>
-„ich klage nicht an, ich will selbst die Ankläger nicht anklagen“
+es soll majestätisch und selig einherrollen. — So sprach Z&amp;lt;arathustra&amp;gt;
+**„ich klage nicht an, ich will selbst die Ankläger nicht anklagen“**
 
 [12[226]](javascript:;)
 -----------------------
 
-Von dem Augenblicke an, wo dieser Gedanke da ist, verändert sich alle Farbe, und es giebt eine andere Geschichte.
+Von dem Augenblicke an, wo dieser Gedanke da ist, verändert sich alle Farbe, und es giebt eine andere **Geschichte**.
 
 [12[227]](javascript:;)
 -----------------------
 
-Stellen des Glückes zu sammeln z.B. Em<erson>
+Stellen des Glückes zu sammeln z.B. Em&amp;lt;erson&amp;gt;
 
 [12[228]](javascript:;)
 -----------------------
 
-Philosophie des Überflüssigen. Gegen die Aufopferung als schädlich auf die Dauer.
+Philosophie des **Überflüssigen**. Gegen die Aufopferung als schädlich auf die Dauer.
 
 [12[229]](javascript:;)
 -----------------------
@@ -1613,7 +1613,7 @@ Colonie — Corruption.
 [12[230]](javascript:;)
 -----------------------
 
-Form nur fürs Auge.
+**Form** nur fürs Auge.
 
 [12[231]](javascript:;)
 -----------------------
@@ -1622,3 +1622,5 @@ Form nur fürs Auge.
 | --- | --- | --- |
 | Friedrich Nietzsche am Ende seines zweiten Aufenthalts in Genua | | |
 |  | [lux mea crux] [crux mea lux] |  |
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

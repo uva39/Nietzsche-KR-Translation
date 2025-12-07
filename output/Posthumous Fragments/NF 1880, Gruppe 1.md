@@ -34,11 +34,11 @@ Monogamie
 
 Befinden die Menschen sich schlecht in Folge ihrer
 
-*Erratum:*ihrer  
+*Erratum:***ihrer**  
 *lies:*ihrer  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Unmoralität oder ihrer Moralität? — Oder in Folge von Beiden und
+**Unmoralität** oder ihrer **Moralität**? — Oder in Folge von Beiden und
 vielen anderen Dingen?
 
 [1[4]](javascript:;)
@@ -61,12 +61,12 @@ allgemeinsten Maaßstäbe für das Handeln gab es kein Nachdenken, geschweige de
 --------------------
 
 Was Freundlichkeit und Wohlwollen betrifft, steht Europa nicht auf der Höhe: es zeugt
-gegen das Christenthum.
+**gegen** das Christenthum.
 
 [1[6]](javascript:;)
 --------------------
 
-Das universale Glück zu erstreben ist eine Unverschämtheit, und Albernheit.
+Das **universale** Glück zu erstreben ist eine Unverschämtheit, und Albernheit.
 
 [1[7]](javascript:;)
 --------------------
@@ -77,8 +77,8 @@ Wirksamkeit beschneiden muß.
 [1[8]](javascript:;)
 --------------------
 
-Die schädlichste Tendenz ist die, immer an Andere zu denken (für
-sie thätig sein ist fast eben so schlimm als gegen sie, es ist eine Vergewaltigung ihrer
+Die schädlichste Tendenz ist die, immer **an Andere** zu denken (**für**
+sie thätig sein ist fast eben so schlimm als **gegen** sie, es ist eine Vergewaltigung ihrer
 Sphäre. Welche Brutalität ist die gewöhnliche Erziehung, der Eingriff der Eltern in die Sphäre der Kinder!
 
 [1[9]](javascript:;)
@@ -91,8 +91,8 @@ ist der ausgezeichnete Mensch immer unmoralisch.
 [1[10]](javascript:;)
 ---------------------
 
-Gesetzt, es wird mehr geschätzt, für Andere sich zu opfern, so thut man es: aber weil es
-geschätzt wird. Instinktiv
+Gesetzt, es wird **mehr geschätzt**, für Andere sich zu opfern, so thut man es: aber weil es
+**geschätzt** wird. Instinktiv
 
 *Erratum:*Instruktiv  
 *lies:*Instinktiv  
@@ -113,11 +113,11 @@ Erziehung Fortsetzung der Zeugung. Das ganze Leben ist Anpassung des Neuen an da
 [1[13]](javascript:;)
 ---------------------
 
-Napoleons präsentables Motiv: „ich will Allen überlegen sein“. Wahres Motiv: „ich will
-Allen überlegen erscheinen
+Napoleons **präsentables** Motiv: „ich will Allen überlegen sein“. Wahres Motiv: „ich will
+Allen überlegen **erscheinen**
 
 *Erratum:*erscheinen  
-*lies:*erscheinen  
+*lies:***erscheinen**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 “.
@@ -176,7 +176,7 @@ nicht mehr auf dem Richterstuhle
 [1[19]](javascript:;)
 ---------------------
 
-Wenn es nicht verboten ist: „du sollst nicht morden!” — in ganzen Perioden hat das
+Wenn es nicht verboten ist: „du **sollst** nicht morden!” — in ganzen Perioden hat das
 innere Gefühl nichts gegen den Mord einzuwenden.
 
 [1[20]](javascript:;)
@@ -184,11 +184,11 @@ innere Gefühl nichts gegen den Mord einzuwenden.
 
 Wer die Pein erfahren hat, die
 
-*Erratum:*<die>  
+*Erratum:*&amp;lt;die&amp;gt;  
 *lies:*die  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Wahrheit zu sagen trotz seiner Freundschaften und Verehrungen, scheut sich gewiß vor neuen.
+ Wahrheit zu sagen **trotz** seiner Freundschaften und Verehrungen, scheut sich gewiß vor neuen.
 
 [1[21]](javascript:;)
 ---------------------
@@ -200,7 +200,7 @@ dieselbe sei nicht mehr auf der Welt.
 ---------------------
 
 Giebt es etwas Wichtigeres und Wirksameres, als jeden Menschen seiner Bekanntschaft als einen schwierigen
-Prozeß anzusehen, vermöge dessen sich eine spezifische Art Wohlsein durchsetzen möchte:
+Prozeß anzusehen, vermöge dessen sich eine **spezifische Art Wohlsein** durchsetzen möchte:
 erst wenn dies Wohlsein erreicht ist, ist das Gleichgewicht zwischen ihm und uns Allen hergestellt; von da an
 theilt er von seiner Freude mit und drängt sich doch nicht in die Sphäre der Anderen, er steht als kräftiger
 Baum unter anderen Bäumen, in der Freiheit des Waldes.
@@ -209,7 +209,7 @@ Baum unter anderen Bäumen, in der Freiheit des Waldes.
 ---------------------
 
 NB.
-Dunkle und abergläubische Menschen glauben 1) — — — 2) — — — 3) — — — im Gegensatz zu den
+**Dunkle und abergläubische Menschen** glauben 1) — — — 2) — — — 3) — — — im Gegensatz zu den
 aufgeklärten
 
 [1[24]](javascript:;)
@@ -233,7 +233,7 @@ Dadurch daß das Christenthum entwurzelt ist, wächst unsere Jugend ohne Erziehu
 [1[27]](javascript:;)
 ---------------------
 
-Die Gesellschaft muß immer mehr Wahrheit
+Die Gesellschaft muß immer mehr **Wahrheit**
 vertragen
 
 *Erratum:*ertragen  
@@ -281,7 +281,7 @@ Christenthum zu versöhnen wieder aufgeführt, an Schopenhauer zu erinnern! ihm 
 ---------------------
 
 Das Bedürfniß, sich über alle Sachen auszusprechen, die uns quälen — ließ Gott dem Christen immer gegenwärtig
-erscheinen; für die gröberen phantasieärmeren Naturen schuf die Kirche seinen Vertreter, den Beichtvater. Warum will man sich aussprechen? Weil eine Lust dabei ist, eine Vergewaltigung des Anderen,
+erscheinen; für die gröberen phantasieärmeren Naturen schuf die Kirche seinen Vertreter, den Beichtvater. **Warum** will man sich aussprechen? Weil eine Lust dabei ist, eine Vergewaltigung des Anderen,
 dem wir unser Leid zu hören, mitzuempfinden, mitzutragen geben — Gott als Sündenbock muß auch Beichtvater
 sein.
 
@@ -289,7 +289,7 @@ sein.
 ---------------------
 
 Ich kenne einen, der sich durch den kleinen Windhauch seiner „Freiheit“ so verwöhnt hat, daß die Vorstellung
-zu einer Partei zu gehören, ihm Angstschweiß macht — selbst wenn es seine eigne Partei
+zu einer **Partei** zu gehören, ihm Angstschweiß macht — selbst wenn es seine eigne Partei
 wäre!
 
 [1[33]](javascript:;)
@@ -307,14 +307,14 @@ gefährdet die Seele für alle Ewigkeit. Die Murrköpfe stören das Behagen
 [1[35]](javascript:;)
 ---------------------
 
-Die unmoralischen Handlungen machen die moralische Lebensweise bestimmter
+Die unmoralischen Handlungen machen die **moralische** Lebensweise bestimmter
 roherer
 
 *Erratum:*roher  
 *lies:*roherer  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Culturen aus. — Sie sind auch noch in unseren Organen vorhanden. Wir morden, stehlen, lügen, verstellen uns
+ Culturen aus. — Sie sind auch noch in unseren **Organen** vorhanden. Wir morden, stehlen, lügen, verstellen uns
 usw. selbst
 
 *Erratum:*usw.selbst  
@@ -340,13 +340,13 @@ Man kann nicht leicht genug darüber nachdenken.
 [1[38]](javascript:;)
 ---------------------
 
-Freie Geister versuchen andere Arten des Lebens, unschätzbar! die moralischen Menschen
+Freie Geister versuchen **andere Arten** des Lebens, unschätzbar! die moralischen Menschen
 würden die Welt verdorren lassen. Die Versuchs-Stationen der Menschheit
 
 [1[39]](javascript:;)
 ---------------------
 
-Es wird erstaunlich viel Schmerz auf den Versuchsstationen neuer Lebensweisen und
+Es wird erstaunlich viel **Schmerz** auf den Versuchsstationen neuer Lebensweisen und
 Nützlichkeiten umsonst erlitten — es hilft nichts;
 
 *Erratum:*nichts:  
@@ -359,13 +359,13 @@ helfen! daß sie erkennen, was hier für ein verfehltes Experiment gemacht wurde
 [1[40]](javascript:;)
 ---------------------
 
-Nach Gewohnheit zu handeln ist „sich selber nachahmen“, das Nächste und Leichteste — ohne daß die Motive der ehemaligen Handlungen wieder wirken.
+Nach Gewohnheit zu handeln ist „sich selber nachahmen“, das Nächste und Leichteste — **ohne** daß die Motive der ehemaligen Handlungen wieder wirken.
 
 [1[41]](javascript:;)
 ---------------------
 
-Der erfinderische G<eist> muß Zeit haben und darf sich nicht zu sehr an
-Regelmäßigkeit gewöhnen.
+Der erfinderische G&amp;lt;eist&amp;gt; muß **Zeit** haben und darf sich nicht zu sehr an
+**Regelmäßigkeit** gewöhnen.
 
 [1[42]](javascript:;)
 ---------------------
@@ -379,7 +379,7 @@ Gewisse körperlichgeistige Zustände sollten von Gott und dem Teufel kommen, da
 [1[43]](javascript:;)
 ---------------------
 
-Moralität als Hinderniß der Erfindungen. Der Erfindsame, der zu faul ist, erfindet die
+Moralität als **Hinderniß** der Erfindungen. Der Erfindsame, der zu faul ist, erfindet die
 Maschine und das Thier:
 
 *Erratum:*Thier;  
@@ -393,7 +393,7 @@ Schauspiel usw. — Der vernünftige Mensch lebt von den Errungenschaften der Er
 
 Sittlich ist die vernünftige Handlung thun, deren Zwecke und Mittel gebilligt werden.
 
-Nur sittlich: da verarmt die Menschheit es
+**Nur** sittlich: da verarmt die Menschheit es
 
 *Erratum:*und  
 *lies:*es  
@@ -405,10 +405,10 @@ nichts erfunden.
 [1[44]](javascript:;)
 ---------------------
 
-Wo Erregungen noth thun, da ist das zwecklose
+Wo **Erregungen** noth thun, da ist das zwecklose
 Überströmen der Kraft
 
-*Erratum:*Überströmen der Kraft  
+*Erratum:***Überströmen der Kraft**  
 *lies:*Überströmen der Kraft  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -418,15 +418,15 @@ Wo Erregungen noth thun, da ist das zwecklose
 [1[45]](javascript:;)
 ---------------------
 
-Man ist thätig, weil alles was lebt sich bewegen muß — nicht
-um der Freude
-willen, also ohne Zweck: obschon Freude dabei ist. Diese Bewegung
-ist nicht Nachahmung der zweckmäßigen Bewegungen, es ist anders.
+Man ist thätig, weil alles was lebt sich bewegen muß — **nicht**
+um der **Freude**
+willen, also **ohne Zweck**: obschon Freude dabei ist. Diese Bewegung
+ist **nicht** Nachahmung der zweckmäßigen Bewegungen, es ist anders.
 
 [1[46]](javascript:;)
 ---------------------
 
-Gesetzt, es würde durch die Wissenschaft sehr vielen zufriedenen Vorstellungen und
+Gesetzt, es würde durch die Wissenschaft sehr vielen **zufriedenen** Vorstellungen und
 mancher angenehmen Faulheit ein Ende gemacht, so wirkt sie ungesund. Aber dagegen ist zu rechnen, daß sie sehr
 viele Unzufriedenheit beseitigt und namentlich die schrecklichen Vorstellungen aller bösen Philosophien und
 Religionen, daß wir durch und durch böse sind und harten Bußen entgegengehen.
@@ -434,7 +434,7 @@ Religionen, daß wir durch und durch böse sind und harten Bußen entgegengehen.
 [1[47]](javascript:;)
 ---------------------
 
-Die Handlungen der Gewohnheit hat man nur in Hinsicht auf ihren gemeinen Nutzen
+Die Handlungen der Gewohnheit hat man nur in Hinsicht auf ihren **gemeinen Nutzen**
 sittlich, also mit dem höchsten menschlichen Prädikat, nennen können — in sich sind sie sehr arm und fast
 „unter-thierisch“.
 
@@ -460,26 +460,26 @@ Motiven der Freude überleuchtet sind.
 [1[51]](javascript:;)
 ---------------------
 
-Ein zufälliges Zusammentreffen zweier Worte oder eines Wortes und eines Schauspiels ist
+Ein **zufälliges** Zusammentreffen zweier Worte oder eines Wortes und eines Schauspiels ist
 der Ursprung eines neuen Gedankens.
 
 [1[52]](javascript:;)
 ---------------------
 
-Menschen, welche viel Zufälliges haben und gerne herumschweifen, andere welche nur auf
-den bekannten Wegen nach Zwecken gehen.
+Menschen, welche viel **Zufälliges** haben und gerne herumschweifen, andere welche nur auf
+den **bekannten Wegen** nach Zwecken gehen.
 
 [1[53]](javascript:;)
 ---------------------
 
-Das Genie wie ein blinder Seekrebs, der fortwährend nach allen Seiten tastet und gelegentlich etwas fängt: er tastet aber nicht, um zu fangen, sondern weil seine Glieder sich tummeln
+Das Genie wie ein blinder Seekrebs, der fortwährend nach allen Seiten tastet und **gelegentlich** etwas fängt: er tastet aber nicht, um zu fangen, sondern weil seine Glieder sich tummeln
 müssen.
 
 [1[54]](javascript:;)
 ---------------------
 
-Die Handlungen mit einem unerwarteten Erfolg, zu einem anderen
-Zwecke unternommen — z.B. ein Thier das seine Eier bewacht, als Nahrung und plötzlich
+Die Handlungen mit einem **unerwarteten Erfolg**, zu einem **anderen**
+Zwecke unternommen — z.B. ein Thier das seine Eier bewacht, als **Nahrung** und plötzlich
 Wesen seines Gleichen vor sich sieht.
 
 [1[55]](javascript:;)
@@ -501,10 +501,10 @@ nichts als eine List.
 [1[56]](javascript:;)
 ---------------------
 
-Veränderung der Werthschätzung z.B. Verachtung
+Veränderung der Werthschätzung z.B. **Verachtung**
 
 *Erratum:*Verachtung  
-*lies:*Verachtung  
+*lies:***Verachtung**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  gegen
@@ -530,14 +530,14 @@ weiblicheren
 
  und künstlerischen Naturen gestehen und es da auch gelten
 lassen, weil diese Naturen ihr Bestes nicht aus Stolz, sondern aus Gründen der Eitelkeit thun. — Das ist das
-Rechte! Wenn wir es nur
+Rechte! Wenn wir es **nur**
 
 *Erratum:*nur  
-*lies:*nur  
+*lies:***nur**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  in Stunden der vollen Kraft
-ebenso als das Rechte empfänden, so ist dies gewiß kein Einwand dagegen. Für den Kranken
+ebenso als das **Rechte** empfänden, so ist dies gewiß kein Einwand dagegen. Für den Kranken
 und Müden mag etwas Lob als Würze oder Betäubung nöthig sein. — Zwischen gerechtem und ungerechtem Lobe mache
 ich hier keinen Unterschied und ebensowenig zwischen gerechtem und ungerechtem Tadel: letzteren sollen wir
 nicht nur gelten lassen, sondern herausfordern und ermuthigen; vermöge umfänglichen und jederzeit erklingenden
@@ -553,7 +553,7 @@ Man lernt die präsentablen Motive.
 ---------------------
 
 Ein ganz bewußter Egoismus würde jener Freuden entbehren, welche durch eingebildete Motive entstehen oder
-dadurch weil wir nur Ein Motiv von den vielen sehen wollen.
+dadurch weil wir nur **Ein** Motiv von den vielen sehen wollen.
 
 [1[60]](javascript:;)
 ---------------------
@@ -567,7 +567,7 @@ verlegte.
 [1[61]](javascript:;)
 ---------------------
 
-Die erfinderischen und die zweckthätigen Naturen — Gegensatz.
+Die **erfinderischen** und die **zweckthätigen** Naturen — Gegensatz.
 
 [1[62]](javascript:;)
 ---------------------
@@ -607,7 +607,7 @@ von denen, welche die Menschen kennen. Es ist nichts zu loben und zu tadeln.
 
 Willkürliche Handlungen — das ist eigentlich ein negativer Begriff — Handlungen welche nicht unwillkürlich,
 nicht automatisch, ohne Zwecke verlaufen. Das Positive, was man dabei empfindet, ist ein Irrthum.
-„Unwillkürlich“ das ist eigentlich der positive Begriff. Streng genommen, sind willkürliche Handlungen zwei unwillkürliche, welche zeitlich aneinander schließen, eine Gehirnbewegung, welcher
+„Unwillkürlich“ das ist eigentlich der positive Begriff. Streng genommen, sind willkürliche Handlungen **zwei unwillkürliche**, welche zeitlich aneinander schließen, eine Gehirnbewegung, welcher
 eine Muskelbewegung nachfolgt, ohne ihre Wirkung zu sein.
 
 [1[67]](javascript:;)
@@ -621,7 +621,7 @@ Die größte Mannichfaltigkeit
 
  der menschlichen Existenz-Bedingungen
 aufrecht erhalten und nicht mit einem moralischen Codex die Menschen uniformiren — dies ist das allgemeinste
-Mittel, den günstigen Zufall vorzubereiten. — Bisher hat sich die Menschheit keinen Zweck
+Mittel, den **günstigen** Zufall vorzubereiten. — Bisher hat sich die Menschheit keinen Zweck
 gesetzt, welchen sie als Ganzes erreichen will — vielleicht geschieht es einmal. Einstweilen, da der Zweck
 fehlt, sind auch keine Mittel dazu erkenntlich. Inzwischen ist die möglichst große Masse solcher Individuen
 herzustellen welche individuelles Wohlbefinden haben — was sich gegenseitig bedingt — das allgemeinste
@@ -642,7 +642,7 @@ Es giebt also keine tadelswürdigen
 *lies:*tadelswürdigen  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Handlungen, sondern Lob und Tadel trifft nur Menschen, nicht Dinge.
+**Handlungen**, sondern Lob und Tadel trifft nur Menschen, nicht Dinge.
 
 [1[70]](javascript:;)
 ---------------------
@@ -651,7 +651,7 @@ Alles, was lebt, bewegt sich; diese Thätigkeit ist nicht um bestimmter Zwecke w
 Leben selber. Die Menschheit als Ganzes ist in ihren Bewegungen ohne Zwecke und Ziele, es ist darin von
 vornherein kein Wille
 
-*Erratum:*kein Wille  
+*Erratum:***kein Wille**  
 *lies:*kein Wille  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -671,7 +671,7 @@ glücklich. Doch muß man zugeben daß es billigere
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Mittel
-<giebt>, sie glücklich und zwar sehr viel glücklicher
+&amp;lt;giebt&amp;gt;, sie glücklich und zwar sehr viel glücklicher
 
 *Erratum:*Glückliche  
 *lies:*glücklicher  
@@ -727,16 +727,16 @@ Sonntage
 
 , ihre Gewohnheiten, ihre Zeitgenossen, ihre Kriege, ihre kleinen
 und großen Schicksale in dem jüdischen Buche aufgezeichnet (prophezeit) fanden. — Was aber sagt der Europäer,
-welcher nach dem Vorzug der altjüdischen Litteratur vor allen anderen alten Litteraturen gefragt wird: „Es ist mehr Moral darin“. Das heißt aber: es ist mehr von der Moral darin, welche jetzt in
+welcher nach dem Vorzug der altjüdischen Litteratur vor allen anderen alten Litteraturen gefragt wird: **„Es ist mehr Moral darin“**. Das heißt aber: es ist mehr von der Moral darin, welche jetzt in
 Europa anerkannt wird: und dies heißt wiederum nichts anderes als: Europa hat die jüdische Moralität
 angenommen und hält diese für bessere, höhere, der gegenwärtigen Gesittung und Erkenntniß angemessenere als
 die arabische, griechische, indische, chinesische. — Was ist der Charakter dieser Moralität? Sind die Europäer
-wirklich vermöge dieses moralischen Charakters die ersten und herrschenden Menschen des
+wirklich **vermöge** dieses moralischen Charakters die ersten und herrschenden Menschen des
 Erdballs? Aber wonach bemißt man den Rang der verschiedenen Moralitäten? Zudem wollen es die Nicht-Europäer
-wie die Chinesen gar nicht Wort haben, daß die Europäer sich durch Moralität vor ihnen
+wie die Chinesen gar nicht Wort haben, daß die Europäer sich durch **Moralität** vor ihnen
 auszeichneten. Es gehört vielleicht mit zum Wesen der jüdischen Moralität, daß sie sich für die erste und
 höchste hält: es ist vielleicht eine Einbildung. Ja man kann fragen: giebt es überhaupt eine Rangordnung der
-Moralität<en>? Giebt es einen Kanon, der über allen waltet, das Sittliche definirt ohne
+Moralität&amp;lt;en&amp;gt;? Giebt es einen Kanon, der über allen waltet, das Sittliche definirt ohne
 Rücksicht auf Volk, Zeit, Umstände, Erkenntnißgrad? Oder ist eine Ingredienz aller Moralen, der Grad von
 Anpassung an die Erkenntniß, vielleicht das, was eine Rangordnung der Moralen ermöglicht?
 
@@ -755,7 +755,7 @@ gekränkt zu werden — wie kommt das
 [1[75]](javascript:;)
 ---------------------
 
-Die schädliche Seite der Religion ist oft hervorgehoben <worden>, ich möchte die schädliche
+Die schädliche Seite der Religion ist oft hervorgehoben &amp;lt;worden&amp;gt;, ich möchte die schädliche
 Seite der Moral zum ersten Male zeigen und dem Irrthum entgegnen, daß sie den Sinnen von Nützlichkeit ist.
 
 [1[76]](javascript:;)
@@ -788,7 +788,7 @@ arbeiteten eigentlich zur Erholung vom Müßiggang, und ihr Nachdenken kam aus f
 [1[79]](javascript:;)
 ---------------------
 
-„In den Augen liegt die Seele”: die gewöhnliche Art der Bewegungen und der
+„In den **Augen** liegt die Seele”: die gewöhnliche Art der Bewegungen und der
 Muskelcontraktionen herum verräth, wozu die Augen zumeist gebraucht
 werden:
 
@@ -797,7 +797,7 @@ werden:
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Denker haben einen vollen klaren oder durchdringenden Blick; das
-Auge des Ängstlichen scheut sich ganz hinzusehen; der Neidische streift von der Seite und
+Auge des Ängstlichen scheut sich **ganz** hinzusehen; der Neidische streift von der Seite und
 will etwas erhaschen. Auch wenn einer
 
 *Erratum:*wir  
@@ -817,7 +817,7 @@ Gewöhnung an.
 [1[80]](javascript:;)
 ---------------------
 
-Die erfinderischen Menschen leben ganz anders als die Thätigen; sie brauchen Zeit, damit sich die zwecklose ungereregelte Thätigkeit einstellt, Versuche, neue Bahnen,
+Die erfinderischen Menschen leben **ganz anders** als die Thätigen; sie brauchen **Zeit**, damit sich die zwecklose ungereregelte Thätigkeit einstellt, Versuche, neue Bahnen,
 sie tasten mehr als daß sie nur die bekannten Wege gehen, wie die nützlich-Thätigen.
 
 [1[81]](javascript:;)
@@ -836,7 +836,7 @@ dann in der ersten Reihe derer, welche in Bezug auf Freuden und Feste erfinderis
 [1[82]](javascript:;)
 ---------------------
 
-Schopenhauer, der letzte der die ethische Bedeut<ung> des Daseins vertritt: er fügt
+Schopenhauer, der letzte der die ethische Bedeut&amp;lt;ung&amp;gt; des Daseins vertritt: er fügt
 seinen kräftigen Trumpf
 
 *Erratum:*seine triftigen Trümpfe  
@@ -922,7 +922,7 @@ unwirklichen.
 [1[88]](javascript:;)
 ---------------------
 
-Das Individuum stand in manchen Epochen höher, war häufiger. Es sind die böseren Zeiten,
+Das Individuum stand in manchen Epochen höher, war häufiger. Es sind die **böseren** Zeiten,
 es wurde mehr sichtbar, man wagte mehr, man schadete mehr, aber log weniger.
 
 [1[89]](javascript:;)
@@ -934,26 +934,26 @@ vieler unegoistischer Handlungen.
 [1[90]](javascript:;)
 ---------------------
 
-Moralität, eine asiatische Erfindung. Wir
+**Moralität**, eine asiatische Erfindung. **Wir**
 
 *Erratum:*Wir  
-*lies:*Wir  
+*lies:***Wir**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-hängen von
+**hängen von**
 Asien
-ab.
+**ab**.
 
 [1[91]](javascript:;)
 ---------------------
 
-Den Zufall benützen und erkennen heißt Genie. Das Zweckmäßige und Bekannte benützen —
+Den Zufall benützen und **erkennen** heißt Genie. Das Zweckmäßige und Bekannte benützen —
 Moralität?
 
 [1[92]](javascript:;)
 ---------------------
 
-So nützlich und unangenehm wie ein eingeöltes Schlüsselloch
+So nützlich und unangenehm wie ein eingeöltes **Schlüsselloch**
 
 [1[93]](javascript:;)
 ---------------------
@@ -963,7 +963,7 @@ Die Ängstlichkeit vergiftet die Seele.
 [1[94]](javascript:;)
 ---------------------
 
-Man sollte keine neuen Wege gehen, <wenn> unser Herz nicht noch kühner ist als unser Kopf:
+Man sollte keine neuen Wege gehen, &amp;lt;wenn&amp;gt; unser Herz nicht noch kühner ist als unser Kopf:
 sonst frißt — — —
 
 [1[95]](javascript:;)
@@ -982,16 +982,16 @@ fortwährend im Verborgenen leiden und aus Furcht ruhig und sanft erscheinen —
 [1[96]](javascript:;)
 ---------------------
 
-Das ganze vergangene Zeitalter ist das der Furcht. Man lernt die Dinge wie sie in
+Das ganze vergangene Zeitalter ist das der **Furcht**. Man lernt die Dinge wie sie in
 anderen Köpfen sind, man lernt, wie sie geschätzt werden, man thut dasselbe in Betreff der Mittel. Man
-ängstigt sich, abzuweichen, aufzufallen. Unsere Fertigkeiten sind das, was Anderen nutzt
+ängstigt sich, abzuweichen, aufzufallen. Unsere Fertigkeiten sind das, was **Anderen** nutzt
 und Freude macht. — Unsere größte Freude ist Anderen zu gefallen, unsere beständige Furcht ist, ihnen nicht
-gefallen zu können. — Dies hat die einsiedlerische Thierheit gebändigt.
+gefallen zu **können**. — Dies hat die einsiedlerische Thierheit **gebändigt**.
 
 [1[97]](javascript:;)
 ---------------------
 
-Wer eine herrschende Leidenschaft hat, der empfindet bei der Ausnahmehandlung einen
+Wer eine herrschende **Leidenschaft** hat, der empfindet bei der Ausnahmehandlung einen
 Gewissensbiß
 
 *Erratum:*Gewissenbiß  
@@ -1016,7 +1016,7 @@ bannen mögen (Napoleon).
 [1[100]](javascript:;)
 ----------------------
 
-Die angelernten Werthschätzungen verringern die Freude und in Folge die Lebensfähigkeit.
+Die **angelernten** Werthschätzungen verringern die Freude und in Folge die Lebensfähigkeit.
 Zeiten der „Gleichheit“ sind matt und lassen vor der Zukunft
 erschrecken. —
 
@@ -1029,7 +1029,7 @@ Die Freude an fremden Urtheilen über uns ist jetzt beinahe die mächtigste alle
 [1[101]](javascript:;)
 ----------------------
 
-Was ist Gewohnheit? — Übung.
+Was ist Gewohnheit? — **Übung**.
 
 [1[102]](javascript:;)
 ----------------------
@@ -1042,10 +1042,10 @@ und
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  sodann wächst deine Gewohnheit des Verheimlichens und
-Für-sich
+Für-**sich**
 
 *Erratum:*sich  
-*lies:*sich  
+*lies:***sich**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 -Behaltens,
@@ -1060,7 +1060,7 @@ werden. Und diese schändliche wissenschaftliche Erziehung!
 [1[104]](javascript:;)
 ----------------------
 
-Die verborgenen d.h. die häufigsten Handlungen zwingen uns zuletzt zu unseren sichtbaren
+Die verborgenen **d.h.** die häufigsten Handlungen zwingen uns zuletzt zu unseren sichtbaren
 d.h. seltenen
 
 *Erratum:*seltenen  
@@ -1099,9 +1099,9 @@ Tragische Hanswürste
 [1[109]](javascript:;)
 ----------------------
 
-Es giebt bei jeder Handlung 1) das wirkliche Motiv das verschwiegen wird 2) das präsentable eingeständliche Motiv. Letzteres geht von uns aus, von unserer Freude, unserem Individuum,
-wir stellen uns individuell damit. Ersteres aber hat die Rücksicht auf das, was die
-Andern denken, wir handeln, wie jeder handelt, wir präsentiren uns als Individuen, aber
+Es giebt bei jeder Handlung 1) das wirkliche Motiv das verschwiegen wird 2) das **präsentable** eingeständliche Motiv. Letzteres geht von uns aus, von unserer Freude, unserem Individuum,
+wir **stellen uns individuell** damit. Ersteres aber hat die Rücksicht auf das, was die
+Andern denken, wir handeln, wie jeder handelt, wir **präsentiren** uns als Individuen, aber
 handeln als Gattungswesen. Komisch! Z.B. ich suche ein Amt 2) „ich bin es mir schuldig, mich nützlich zu
 machen“ 1) „Ich will meines Amtes wegen von den Andern respektirt werden“.
 
@@ -1128,7 +1128,7 @@ also auch
 [1[111]](javascript:;)
 ----------------------
 
-Dieselben Dinge werden immer wieder gethan, aber die Menschen umspinnen sie mit immer
+Dieselben Dinge werden immer wieder **gethan**, aber die Menschen umspinnen sie mit immer
 neuen Gedanken (Werthschätzungen)
 
 [1[112]](javascript:;)
@@ -1192,7 +1192,7 @@ wie als ob Zank, Verdruß, Verleumdung Verbitterung Niedertracht ihre nothwendig
 [1[117]](javascript:;)
 ----------------------
 
-Handlungen der Gewohnheit („sittlich“ unter Umständen genannt) sind Mechanismen ohne
+Handlungen der **Gewohnheit** („sittlich“ unter Umständen genannt) sind Mechanismen ohne
 Bewußtsein, so wenig moralisch wie die Thätigkeit
 
 *Erratum:*Themen  
@@ -1212,7 +1212,7 @@ deshalb mit dem höchsten Prädikate
 [1[118]](javascript:;)
 ----------------------
 
-Vor jedem Einzelnen sind wir voll 100 Rücksichten: aber wenn man schreibt, so verstehe ich nicht, warum man da nicht bis an den äußersten Rand seiner Ehrlichkeit
+Vor jedem Einzelnen sind wir voll 100 Rücksichten: aber **wenn** man **schreibt**, so verstehe ich nicht, warum man da nicht bis an den äußersten Rand seiner Ehrlichkeit
 vortritt. Das ist ja die Erholung!
 
 [1[119]](javascript:;)
@@ -1226,8 +1226,8 @@ Leuten in den Kopf gesetzt.
 [1[120]](javascript:;)
 ----------------------
 
-Versuche einer außermoralischen Weltbetrachtung früher zu leicht von mir versucht — eine
-aesthetische (die Verehrung des Genies —)
+**Versuche einer außermoralischen Weltbetrachtung** früher zu leicht von mir versucht — eine
+**aesthetische** (die Verehrung des Genies —)
 
 [1[121]](javascript:;)
 ----------------------
@@ -1236,7 +1236,7 @@ Wer so thut, ist abergläubisch usw.
 
 Wer so thut, ist abergläubisch
 
-Wer alles das thut, ist ein Christ.
+Wer **alles das thut**, ist ein **Christ**.
 
 [1[122]](javascript:;)
 ----------------------
@@ -1248,24 +1248,24 @@ muß den Blick abwenden. Nur glückliche Menschen sind zur Historie geeignet.
 [1[123]](javascript:;)
 ----------------------
 
-Falscher Begriff des Genie’s in jetziger Zeit: man verehrt den wilden Intellekt und
-verachtet den gezähmten d.h. man ist der Moralität müde.
+Falscher Begriff des **Genie’s** in jetziger Zeit: man verehrt den wilden Intellekt und
+verachtet den gezähmten d.h. man ist der Moralität **müde**.
 
-Die Consequenz der Moralität ist der Sand. Kritik der bisherigen Moralität, dadurch daß
+Die Consequenz der Moralität ist der **Sand**. Kritik der bisherigen Moralität, dadurch daß
 man ihre Resultate in der Zukunft aufzeigt.
 
-Nothwendigkeit antimoralischer Theorien.
+Nothwendigkeit **antimoralischer** Theorien.
 
 [1[124]](javascript:;)
 ----------------------
 
 Es giebt Musik, welche sosehr den Eindruck sichtbarer Dinge nachahmt, daß man sie allen denen empfehlen kann,
-welche Ohren haben, um zu sehen.
+welche Ohren haben, **um zu sehen**.
 
 [1[125]](javascript:;)
 ----------------------
 
-Wollen d.h. ich stelle mir den Erfolg einer Handlung vor
+**Wollen** d.h. ich stelle mir den Erfolg einer Handlung vor
 
 dieser Erfolg hat diesen oder jenen Werth für mich
 
@@ -1280,7 +1280,7 @@ der Erfolg bedingt diese oder jene Aktion als
  Mittel,
 
 die mir
-<aus> meiner Erfahrung bekannt und noch
+&amp;lt;aus&amp;gt; meiner Erfahrung bekannt und noch
 
 viele andre welche mir nicht bewußt sein können.
 
@@ -1302,7 +1302,7 @@ Das Motiv ist die Ursache der Werthschätzung
 ----------------------
 
 Wir vergessen immer das Wesentlichste, weil es am nächsten liegt z.B. beim Spielen die Spontaneität, das
-fortwährende Tasten und Tappen der Bewegung. Die Folgen
+fortwährende **Tasten und Tappen der Bewegung**. Die **Folgen**
 jeder
 
 *Erratum:*der  
@@ -1325,7 +1325,7 @@ Auge zahllose Figuren fortwährend — — —
 Die wenigsten Handlungen geschehen nach Zwecken, die meisten sind nur Thätigkeiten, Bewegungen, in denen sich eine Kraft entladet. Die Resultate, die sich am Ende ihrer
 Bahn ergeben
 
-*Erratum:*ergeben  
+*Erratum:***ergeben**  
 *lies:*ergeben  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -1333,7 +1333,7 @@ Bahn ergeben
 Ursache und Wirkung
 d.h.
 
-*Erratum:*d.h. wir tun etwas absichtlich und erwarten daß sich etwas ereignet —  
+*Erratum:*d.h. wir **tun etwas absichtlich** und erwarten daß sich etwas ereignet —  
 *lies:*d.h.  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -1344,39 +1344,41 @@ Resultat unserem Willen entspricht.
 [1[128]](javascript:;)
 ----------------------
 
-Es giebt viel höhere Schauspieler, die den Staatsmann, den
+Es giebt viel höhere **Schauspieler**, die den Staatsmann, den
 Culturbegründer,
 
 *Erratum:*Cultur begründenden  
 *lies:*Culturbegründer,  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- moral<ischen>
+ moral&amp;lt;ischen&amp;gt;
 Propheten
 
 *Erratum:*Prophenten  
 *lies:*Propheten  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- (Frauen, die die Hofdame usw.) spielen:
+ (Frauen, die die Hofdame usw.) **spielen**:
 kommt man dahinter, so hört man auf, sich über sie zu ärgern und hat einen Genuß mehr.
 
 [1[129]](javascript:;)
 ----------------------
 
-Das Moralische hat eine sehr sublime Art von Lustempfindungen
-geschaffen. Nützlich ist die Unmoralität sowohl als das M<oralische>.
+Das **Moralische** hat eine sehr sublime Art von Lustempfindungen
+geschaffen. Nützlich ist die Unmoralität sowohl als das M&amp;lt;oralische&amp;gt;.
 
 [1[130]](javascript:;)
 ----------------------
 
-Orient
+**Orient**
 
 Europa unmoralisch,
 
-Schopenhauer’s schlechter Geschmack für die Buddh<istischen> Heiligen — besser die
+Schopenhauer’s schlechter Geschmack für die Buddh&amp;lt;istischen&amp;gt; Heiligen — besser die
 Brahmanen
 
 Stoicism ist semitisch
 
 Europa arm in der Moralität
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

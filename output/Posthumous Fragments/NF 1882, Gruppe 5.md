@@ -51,7 +51,7 @@ daß er dabei einen Raub zu machen oder eine Rache zu nehmen beschließt.
 bisher erhalten hat — liegt darin, daß sie Jedermann das Recht giebt, ohne lange Prüfung, zu loben und zu
 tadeln. Und wer hielte das Leben aus, ohne zu loben und zu tadeln
 
-*Erratum:*loben und zu tadeln  
+*Erratum:***loben und zu tadeln**  
 *lies:*loben und zu tadeln  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -61,17 +61,17 @@ tadeln. Und wer hielte das Leben aus, ohne zu loben und zu tadeln
 
 8. Dies ist die crux der moralischen Pessimisten: wollten sie ernstlich den Nächsten
 in seiner Erlösung fördern, so müßten sie sich entschließen, ihm das Dasein zu verleiden, also sein Unglück
-<zu> sein; sie müßten aus Mitleid — böse werden!
+&amp;lt;zu&amp;gt; sein; sie müßten aus Mitleid — böse werden!
 
   
 
 Wäre es wahr, daß das Leben nicht verdient bejaht zu werden, so triebe der moralische Mensch gerade durch
-seine Selbstverleugnung und Hülfsbereitschaft Mißbrauch mit seinem Nächsten, — zu seinem
+seine Selbstverleugnung und Hülfsbereitschaft **Mißbrauch** mit seinem Nächsten, — zu seinem
 persönlichsten Vortheil.
 
   
 
-9. Ich will wissen, ob du ein schaffender oder ein umsetzender Mensch bist, in irgend einem Betrachte: als Schaffender gehörst du zu den
+9. Ich will wissen, ob du ein **schaffender** oder ein **umsetzender** Mensch bist, in irgend einem Betrachte: als Schaffender gehörst du zu den
 Freien, als Umsetzender bist du deren Sklave und deren Werkzeug.
 
   
@@ -83,7 +83,7 @@ Schwindsucht ist.
   
 
 11. Weib und Genie arbeiten nicht. Das Weib war bisher der höchste Luxus der
-Menschheit. In allen Augenblicken, wo wir unser Bestes thun, arbeiten wir nicht. Arbeit
+Menschheit. In allen Augenblicken, wo wir unser Bestes **thun**, arbeiten wir nicht. Arbeit
 ist nur ein Mittel zu diesen Augenblicken.
 
   
@@ -98,7 +98,7 @@ hinausgehen, erregen unsere Handlungen Mißtrauen. Die Tugend ruht nämlich „i
 
   
 
-14. Ihr sagt „das gefällt uns“ und meint mich zu loben. Oh ihr Narren! Wie sehr ihr mir damit gefallt!
+14. Ihr sagt „das gefällt uns“ und meint mich zu loben. Oh ihr Narren! Wie **sehr** ihr mir damit gefallt!
 
   
 
@@ -128,7 +128,7 @@ letztere gedacht als das Zeugniß der Reife, bei Mann und Weib.
   
 
 19. Wenn ein Weib einen Mann angreift, so ist es nur um sich vor einem Weibe zu
-verteidigen. Wenn ein Mann mit einem Weibe Freundschaft schließt, so meint es, er thue es, weil er nicht mehr erreichen könne.
+verteidigen. Wenn ein Mann mit einem Weibe Freundschaft schließt, so meint es, er thue es, **weil** er nicht mehr erreichen könne.
 
   
 
@@ -144,7 +144,7 @@ ein Zuviel dünkt!
   
 
 22. Das Leben ist schwer zu tragen: aber wozu hätte man auch
-Vormittag<s> seinen Trotz und Nachmittags seine Ergebung?
+Vormittag&amp;lt;s&amp;gt; seinen Trotz und Nachmittags seine Ergebung?
 
   
 
@@ -196,20 +196,20 @@ Hemmschuh: sie halten auf, sie erhalten.
 
   
 
-<33.> Die Biedermännerei geht mir wider den Geschmack.
+&amp;lt;33.&amp;gt; Die Biedermännerei geht mir wider den Geschmack.
 
   
 
-<34.> Nach 300 Jahren zum Leuchten kommen — ist meine Ruhmsucht.
+&amp;lt;34.&amp;gt; Nach 300 Jahren zum Leuchten kommen — ist meine Ruhmsucht.
 
   
 
-<35.> Liebe ich die Musik? Ich weiß es nicht: auch hasse ich sie zu
+&amp;lt;35.&amp;gt; Liebe ich die Musik? Ich weiß es nicht: auch hasse ich sie zu
 oft. Doch liebt mich die Musik, und sobald Jemand mich verläßt, springt sie herzu und will geliebt sein.
 
   
 
-<36.> Sie lieben mich nicht: ist dies ein Grund, sie nicht zu
+&amp;lt;36.&amp;gt; Sie lieben mich nicht: ist dies ein Grund, sie nicht zu
 segnen?
 
   
@@ -240,26 +240,26 @@ klein an uns ist: ihr müßt erst versuchen, ob ihr nicht groß werden könnt.
   
 
 42. Unser Zartgefühl hält uns in der Verstellung und macht uns gedrückt, sagen wir
-frei: „so gefällt es mir — was gehn mich Gründe an!“
+**frei**: „so gefällt es mir — was gehn mich Gründe an!“
 
   
 
 43. In Bezug auf die meisten Wahrheiten haben Frauen ein Gefühl, als ob einer ihnen
-unter die Haut gucken wolle.
+**unter die Haut** gucken wolle.
 
   
 
-44. Außer unserer Fähigkeit zu urtheilen besitzen wir auch noch unsere Meinung von unserer Fähigkeit zu urtheilen.
+44. Außer unserer Fähigkeit zu urtheilen besitzen wir auch noch unsere **Meinung** von unserer Fähigkeit zu urtheilen.
 
   
 
 45. Du hast den Muth nicht, dich zu verbrennen und zu Asche zu werden: so wirst du
-niemals neu, und niemals wieder jung!
+niemals neu, und niemals wieder **jung**!
 
   
 
 46. Die Ehe ist für die durchschnittlichen Menschen ausgedacht, welche weder der
-großen Liebe noch der großen Freundschaft fähig sind, die Meisten also: aber auch <für> jene
+großen Liebe noch der großen Freundschaft fähig sind, die Meisten also: aber auch &amp;lt;für&amp;gt; jene
 ganz Seltenen, welche sowohl der Liebe als der Freundschaft fähig sind.
 
   
@@ -276,7 +276,7 @@ von ihm stets zu ihrer Vertheidigung — sie waren stets zu sehr die Ausnahmen u
   
 
 49. Dicht an den Freund herantreten, aber nicht zu ihm übertreten! Man
-<soll> in seinem Freunde auch den Feind ehren.
+&amp;lt;soll&amp;gt; in seinem Freunde auch den Feind ehren.
 
   
 
@@ -300,8 +300,8 @@ Zweien.
 
   
 
-54. Man muß seinen Durst abwarten und voll werden lassen: sonst
-wird man nie seine Quelle entdecken, die nie die eines Anderen sein kann!
+54. Man muß **seinen** Durst abwarten und voll werden lassen: sonst
+wird man nie **seine** Quelle entdecken, die nie die eines Anderen sein kann!
 
   
 
@@ -342,7 +342,7 @@ doppelt belohnen.
   
 
 61. Heroismus — das ist die Gesinnung eines Menschen, welcher ein Ziel erstrebt gegen
-das gerechnet er gar nicht mehr in Betracht kommt. H<eroismus> ist der gute Wille zum
+das gerechnet er gar nicht mehr in Betracht kommt. H&amp;lt;eroismus&amp;gt; ist der gute Wille zum
 Selbst-Untergange.
 
   
@@ -503,7 +503,7 @@ man.
   
 
 90. Daß ihr mitleidig seid setze ich voraus: ohne Mitleid sein heißt krank im Geiste
-und Leibe sein. Aber man soll viel Geist haben, um mitleidig sein zu dürfen! Denn euer
+und Leibe sein. Aber man soll viel Geist haben, um mitleidig sein zu **dürfen**! Denn euer
 Mitleid ist euch und Allen schädlich.
 
   
@@ -601,7 +601,7 @@ Feindschaft auf Erden als die zwischen Göttern.
 
   
 
-107. Bekenne dich zu deinem Willen und sprich zu uns Allen „nur dies will ich sein“: hänge dein eigenes Gesetz der Strafe über dich auf: wir wollen ihre Vollstrecker
+107. Bekenne dich zu deinem Willen und sprich zu uns Allen „nur dies **will** ich sein“: hänge dein eigenes Gesetz der Strafe über dich auf: wir wollen ihre Vollstrecker
 sein!
 
   
@@ -692,8 +692,8 @@ opiatische Handlungen. Ich bin dazu da, daß ein Anderer vergessen wird.
   
 
 124. Ich thue mein Liebstes und eben deshalb scheue ich mich, es mit hohen Worten zu
-nennen: ich will nicht <zu> glauben wagen, es sei ein erhabener Zwang, ein Gesetz, dem ich
-gehorche: ich liebe mein Liebstes zu sehr als daß ich mich ihm gezwungen zeigen
+nennen: ich will nicht &amp;lt;zu&amp;gt; glauben wagen, es sei ein erhabener Zwang, ein Gesetz, dem ich
+gehorche: ich liebe mein Liebstes zu sehr als daß ich mich **ihm** gezwungen zeigen
 möchte.
 
   
@@ -726,7 +726,7 @@ verwandle ich Alles in Gold.
 
   
 
-131. Es kommt Niemand mehr zu mir. Und ich selber: ich gieng zu Allen, aber ich kam zu Niemand!
+131. Es kommt Niemand mehr zu mir. Und ich selber: ich gieng zu Allen, aber ich **kam zu Niemand**!
 
   
 
@@ -740,7 +740,7 @@ die Natur es ist!
 
   
 
-134. „Ich konnte nichts entbehren als ich den Übermenschen schuf. In seinem Samen ist noch alles euer Böses und Falsches, eure Lüge und eure
+134. „Ich konnte nichts **entbehren** als ich den Übermenschen **schuf**. In seinem Samen ist noch alles euer Böses und Falsches, eure Lüge und eure
 Unwissenheit.“
 
   
@@ -818,13 +818,13 @@ entsprang, die Wurzel ist unter der Erde.
 
   
 
-149. Die Liebe ist die Frucht des Gehorsams: aber oft liegen
+149. Die Liebe ist die **Frucht** des Gehorsams: aber oft liegen
 Geschlechter zwischen Frucht und Wurzel: und die Freiheit ist die Frucht der Liebe.
 
   
 
-150. Je freier und fester das Individuum ist, um so anspruchsvoller wird seine Liebe: endlich sehnt es sich nach dem Übermenschen weil Alles Andere seine
-Liebe nicht stillt.
+150. Je freier und fester das Individuum ist, um so **anspruchsvoller** wird seine Liebe: endlich sehnt es sich nach dem Übermenschen weil Alles Andere seine
+Liebe nicht **stillt**.
 
   
 
@@ -872,7 +872,7 @@ wenn ich diese Kunst euch zeigte? Wollt ihr einen Seiltänzer sehn?
   
 
 159. Ah, wie weich seid ihr gebettet! Ihr habt ein Gesetz — und einen bösen Blick
-gegen den, der gegen das Gesetz auch nur denkt. Wir aber sind frei: was wißt ihr von der
+gegen den, der gegen das Gesetz auch nur **denkt**. Wir aber sind frei: was wißt ihr von der
 Qual der Verantwortlichkeit gegen sich selber! —
 
   
@@ -883,7 +883,7 @@ sich zurück, und immer wieder steigt ihr in den gleichen Fluß, als die Gleiche
   
 
 161. Dies lehrte ich mich: die Menschen haben sich alle Moral gegeben: obschon sie
-jetzt glauben, sie hätten sie nur genommen. Wohlan! Auch wir können uns noch ein Gutes und ein Böses geben!
+jetzt glauben, sie hätten sie nur genommen. Wohlan! Auch wir können uns noch ein Gutes und ein Böses **geben**!
 
   
 
@@ -920,12 +920,12 @@ haben!
 
   
 
-168. Mitleid eine Höllen-Empfindung: Mitleid ist selbst das Kreuz, an das der geschlagen wird, der die Menschen liebt.
+168. Mitleid eine Höllen-Empfindung: **Mitleid** ist selbst das **Kreuz**, an das der geschlagen wird, der die Menschen liebt.
 
   
 
-169. Haltet euch die Seele frisch und kühl
-und rauh! Die laue Luft der Gefühlvollen, die matte schwüle Luft der Sentimentalen sei
+169. Haltet euch die Seele **frisch** und **kühl**
+und **rauh**! Die laue Luft der Gefühlvollen, die matte schwüle Luft der Sentimentalen sei
 ferne von euch!
 
   
@@ -970,7 +970,7 @@ sie ein Haß wird.
 
 177. Morden-Wollen, Hassen, Mißtrauen sind jetzt begleitende Phänomene körperlicher
 Erkrankung: so sehr sind die moralischen Urtheile uns einverleibt. — In wilden Zeitaltern erscheint vielleicht
-die Feigheit und das Mitleid als Symptom der Erkrankung. Vielleicht können auch Tugenden
+die Feigheit und das Mitleid als Symptom der Erkrankung. Vielleicht können auch **Tugenden**
 Symptome sein; — — —
 
   
@@ -990,8 +990,8 @@ Künstler der Töne an? Habt ihr die Musik damit erklärt — oder gar widerlegt
 
   
 
-181. Es giebt keine sittlichen Triebe, aber alle Triebe sind
-durch unsere Werthschätzungen gefärbt.
+181. Es giebt keine sittlichen Triebe, aber **alle** Triebe sind
+durch unsere Werthschätzungen **gefärbt**.
 
   
 
@@ -1016,7 +1016,7 @@ blicken sie in die Welt, um da ihre Beute zu machen.
   
 
 186. Man kann nicht leben, ohne zu schätzen: aber man kann leben ohne zu schätzen,
-was ihr schätzt.
+was ihr **schätzt**.
 
   
 
@@ -1028,12 +1028,12 @@ wenn sie nur den Kopf schütteln könnten, würde es herab rollen. Aber wer bewe
 188. Ich will euch zwingen, menschlich zu denken: eine Nothwendigkeit für die,
 welche Menschen
 
-*Erratum:*welche <als> Menschen  
+*Erratum:*welche &amp;lt;als&amp;gt; Menschen  
 *lies:*welche Menschen  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  denken können. Für euch würde eine Nothwendigkeit der
-Götter nicht wahr sein.
+Götter nicht **wahr** sein.
 
   
 
@@ -1110,14 +1110,14 @@ seinen Werth. Also schaffen!
 
   
 
-203. Ein höheres Wesen als wir selber sind zu schaffen, ist unser Wesen. Über uns hinaus schaffen! Das ist der Trieb der
-Zeugung, das ist der Trieb der That und des Werks. — Wie alles Wollen einen Zweck voraussetzt, so setzt der Mensch ein Wesen voraus, das nicht da <ist>, das aber den Zweck seines
-Daseins abgiebt. Dies ist die Freiheit alles Willens! Im Zweck liegt die Liebe, die
+203. Ein höheres Wesen als wir selber sind zu schaffen, ist **unser** Wesen. Über**uns hinaus schaffen!** Das ist der Trieb der
+Zeugung, das ist der Trieb der That und des Werks. — Wie alles Wollen einen Zweck voraussetzt, **so setzt der Mensch ein Wesen voraus**, das nicht da &amp;lt;ist&amp;gt;, das aber den Zweck seines
+Daseins abgiebt. Dies ist die Freiheit alles Willens! Im **Zweck** liegt die Liebe, die
 Verehrung, das Vollkommensehen, die Sehnsucht.
 
   
 
-Lob des Waldes. Heilig sei dieser Baum, wo ich dich dachte
+Lob des **Waldes**. Heilig sei dieser Baum, wo ich dich dachte
 
   
 
@@ -1140,25 +1140,25 @@ ich ihm den großen Schleier des Werdens und ließ den Mittag um ihn leuchten.
   
 
 205. Unsterblich ist der Augenblick, wo ich die Wiederkunft zeugte. Um dieses
-Augenblicks willen ertrage ich die Wiederkunft.
+Augenblicks willen **ertrage** ich die Wiederkunft.
 
   
 
 206. Was ist es, das den Dingen Sinn, Werth, Bedeutung verlieh? Das schaffende Herz,
-welches begehrte und aus Begehren schuf. Es schuf Lust und Weh. Es wollte sich auch mit
-dem Wehe sättigen. Wir müssen alles Leiden, das gelitten worden ist,
-von Menschen und Thieren, auf uns nehmen und bejahen, und ein Ziel haben, in dem es Vernunft erhält.
+welches begehrte und aus Begehren schuf. Es schuf Lust **und Weh**. Es wollte sich auch mit
+dem Wehe **sättigen**. Wir müssen **alles** Leiden, das gelitten worden ist,
+von Menschen und Thieren, auf uns nehmen und bejahen, **und ein** Ziel **haben**, **in dem**es**Vernunft erhält**.
 
   
 
 207. Es giebt keine Erlösung für den, der am Dasein leidet als
-nicht-mehr-an-seinem-Dasein-zu-leiden. Wie erreicht er das? Durch den schnellen Tod oder
-durch die lange Liebe.
+nicht-mehr-an-seinem-Dasein-zu-leiden. Wie erreicht er das? Durch den **schnellen Tod** oder
+**durch die lange Liebe**.
 
   
 
-208. Jede Handlung schafft uns selber
-weiter, sie webt unser buntes Gewand. Jede Handlung ist frei, aber das Gewand ist nothwendig. Unser Erlebniß — das ist unser Gewand.
+208. **Jede** Handlung schafft **uns** selber
+weiter, sie webt unser buntes Gewand. Jede Handlung ist frei, aber das Gewand ist nothwendig. Unser **Erlebniß** — das ist unser Gewand.
 
   
 
@@ -1167,30 +1167,30 @@ Begehrens. Ganz Wunsch sein ist Glück, und immer wieder ein neuer Wunsch.
 
   
 
-210. Ich rede mit dir, meine Weisheit, unter 4 Augen: ich will, ich
-begehre, ich liebe — und darum lobe ich das Leben. Wenn ich nicht schüfe, sondern
-nur erkannte, würde ich es hassen.
+210. Ich rede mit dir, meine Weisheit, unter 4 Augen: **ich will, ich
+begehre, ich liebe** — und darum **lobe** ich das Leben. Wenn ich nicht schüfe, sondern
+nur **erkannte**, würde ich es hassen.
 
   
 
-211. Die Nicht-That, das Gehen-Lassen, das Nicht-schaffen, das Nicht-Zerstören — das ist mein Böses.
-Der Erkennende als der Nicht-Begehrende auch.
+211. Die **Nicht**-That, das Gehen-Lassen, das **Nicht-schaffen**, das **Nicht-Zerstören** — das ist **mein** Böses.
+Der Erkennende als der Nicht-Begehrende **auch**.
 
   
 
 212. Das Leere, das Eine, das Unbewegte, das Volle, die Sättigung, das Nichts-Wollen
-— das wäre mein Böses: kurz: der Schlaf ohne Traum.
+— das wäre **mein** Böses: kurz: der Schlaf ohne Traum.
 
   
 
 213. Erkennen ist ein Begehren und Durst: Erkennen ist ein Zeugen. Liebe zum
 Leiblichen und zur Welt ist die Folge des Erkennens als eines Willens. Als ein Schaffen ist alles Erkennen ein
-Nicht-erkennen. Das Durch-schauen wäre der Tod, der Ekel, das Böse. Es giebt gar keine
+Nicht-erkennen. Das **Durch-schauen** wäre der Tod, der Ekel, das Böse. Es giebt gar keine
 Form des Erkennens als die des Erst-schaffens. Subjekt sein —
 
   
 
-214. Die größte Gefahr ist der Glaube an
+214. Die **größte Gefahr** ist der **Glaube** an
 das Wissen und Erkanntsein d.h. an das Ende des Schaffens. Dies ist die große Müdigkeit. „Es ist nichts.“
 
   
@@ -1201,8 +1201,8 @@ bekennen und schielen nach der Heerde.
 
   
 
-216. Unrecht wird erst recht dort gethan, wo wir Jemandem Wohl
-thun: Recht und Unrecht hat nicht mit Wohl und Wehe, sondern mit Nutzen und Schaden zu thun.
+216. Unrecht wird erst recht dort gethan, wo wir Jemandem **Wohl**
+thun: Recht und Unrecht hat nicht mit **Wohl** und **Wehe**, sondern mit **Nutzen** und Schaden zu thun.
 
   
 
@@ -1226,7 +1226,7 @@ der Wahnsinn des Menschen.
 
   
 
-221. Man thut immer Unrecht — sagt die Gerechtigkeit — und nicht
+221. **Man thut immer Unrecht** — sagt die Gerechtigkeit — und nicht
 nur wenn ihr euch wehethut, sondern auch wenn ihr euch wohlthut, liebt und nützt. Man vergilt nicht, man
 schadet durch Lob und Liebe, weil sie nicht vergelten.
 
@@ -1237,22 +1237,22 @@ Fieberkranker das Eis liebt!
 
   
 
-223. In der Wissenschaft, im Erkennen sind die Triebe heilig
+223. In der Wissenschaft, im Erkennen sind die Triebe **heilig**
 geworden: „der Durst nach Lüsten, der Durst nach Werden, der Durst nach Macht“. Der erkennende Mensch ist in
-der Heiligkeit weit über sich hinaus.
+der Heiligkeit **weit über sich hinaus**.
 
   
 
 224. Ich war in der Schule: ich lebte zur Erkenntniß. Da reinigte sich meine Seele,
-Alle Begierden wurden heilig. Es ist die Vorschule: die Einsamkeit des Erkennenden. So wie zu den Sachen sollt ihr euch zu den Menschen verhalten: eure Liebe soll über allen
+Alle Begierden wurden heilig. Es ist die **Vorschule**: die Einsamkeit des Erkennenden. **So wie zu den Sachen sollt ihr euch zu den Menschen verhalten:** eure Liebe soll über allen
 einzelnen Sachen und einzelnen Menschen sein.
 
   
 
-225. Der Wille zum Leiden: ihr müßt zeitweilig in der Welt
-leben, ihr Schaffenden. Ihr müßt beinahe zu Grunde gehen — und hinterdrein euer Labyrinth
-und eure Verirrung segnen. Ihr könnt sonst nicht schaffen, sondern
-nur absterben. Ihr müßt eure Auf- und Untergänge haben. Ihr müßt euer Böses haben und
+225. **Der Wille zum Leiden:** ihr müßt zeitweilig in der Welt
+leben, ihr Schaffenden. Ihr müßt **beinahe** zu Grunde gehen — und hinterdrein euer Labyrinth
+und eure Verirrung **segnen**. Ihr könnt sonst nicht **schaffen**, sondern
+nur **absterben**. Ihr müßt eure Auf- und Untergänge haben. Ihr müßt euer Böses haben und
 zeitweilig wieder auf euch nehmen. Ihr ewig Wiederkehrenden, ihr sollt selber aus euch eine Wiederkehr
 machen.
 
@@ -1265,7 +1265,7 @@ die Gebärerin sein: als der Schaffende.
   
 
 227. Man muß vergehen wollen, um wieder entstehen zu können — von einem Tage zum
-anderen. Verwandlung durch hundert Seelen — das sei dein Leben, dein Schicksal:
+anderen. **Verwandlung** durch hundert Seelen — das sei dein Leben, dein Schicksal:
 
 Und dann zuletzt: diese ganze Reihe noch einmal wollen!
 
@@ -1304,29 +1304,29 @@ heißt dies Lehren gut und sterbt frühe.
 
   
 
-234. Der Werth des Lebens liegt in den
-Werthschätzungen: Werthschätzungen sind Geschaffenes, nichts Genommenes, Gelerntes,
-Erfahrenes. Das Geschaffene muß vernichtet werden, um dem neu-Geschaffenen Platz zu machen: zum Lebenkönnen der Werthschätzungen gehört ihre Fähigkeit, vernichtet zu werden. Der Schöpfer
-muß immer ein Vernichter sein. Das Werthschätzen selber aber kann sich nicht vernichten: das
-aber ist das Leben.
+234. Der **Werth**des **Lebens**liegt in den
+Werthschätzungen: Werthschätzungen sind **Geschaffenes**, nichts Genommenes, Gelerntes,
+Erfahrenes. Das Geschaffene muß vernichtet werden, um dem neu-Geschaffenen Platz zu machen: zum **Lebenkönnen**der Werthschätzungen gehört ihre Fähigkeit, vernichtet zu werden. Der Schöpfer
+muß immer ein Vernichter sein. Das Werthschätzen selber aber kann sich nicht vernichten: **das
+aber ist das Leben**.
 
   
 
-234. „Das Leben ist ein Leiden?“ — Habt ihr Recht: nun, so ist euer Leben ein Leiden! — so sorgt, daß ihr aufhört; daß das Leben aufhört,
+234. „Das Leben ist ein Leiden?“ — Habt ihr Recht: nun, so ist **euer** Leben ein Leiden! — so **sorgt**, daß ihr aufhört; daß das Leben aufhört,
 welches nichts als Leiden ist. Eure Moral heißt: „du sollst dich selber tödten“, „du sollst dich selber davon
 stehlen“.
 
   
 
 235. Und auch jene, welche sich vom Leben abwandten und Freude und Frieden dadurch
-fanden - - - sie fanden es, indem sie ein Bild eines solchen Lebens schufen, als Schaffende! - - - als Schaffende machtet ihr eurem Leiden ein Ende!
-Und liebtet so euer Leben!
+**fanden** - - - sie fanden es, indem sie ein Bild eines solchen Lebens **schufen**, als **Schaffende**! - - - als Schaffende machtet ihr eurem Leiden ein Ende!
+Und liebtet **so** euer Leben!
 
   
 
 236. Ihr wähnt frei zu sein von den Sätzen der Erkennenden: aber ihr vermögt euch
-nicht zu bewegen ohne nach unseren Schätzungen zu greifen, ihr Hülflosen! Noch weniger
-daß ihr schaffen könntet! Es gehört zum Glück der Armut, dieser Wahn einer Freiheit! Ein
+nicht zu bewegen ohne nach **unseren** Schätzungen zu greifen, ihr Hülflosen! Noch weniger
+daß ihr schaffen könntet! Es gehört zum **Glück der Armut**, dieser Wahn einer Freiheit! Ein
 Trost für Gefangene! Eine Wohlthat für Blindgeborene!
 
   
@@ -1336,7 +1336,7 @@ Trost für Gefangene! Eine Wohlthat für Blindgeborene!
   
 
 238. Ich bin zu voll: so vergesse ich mich selber, und alle Dinge sind in mir, und
-nichts giebt es mehr als alle Dinge. Wo bin ich hin?
+nichts giebt es mehr als alle Dinge. Wo bin **ich hin**?
 
   
 
@@ -1355,16 +1355,16 @@ zusammenhalten“) werden von uns als die rohen Dinge und Wirklichkeiten angeseh
 
   
 
-242. Sollte ich das Alles geschaffen haben? War es die Bewegung meines Ich, die dies ordnete, wie sie die Bewegung eines Leibes geordnet hat? Bin ich nur ein Tropfen von dieser Kraft?
+242. Sollte ich das Alles geschaffen haben? War es die Bewegung **meines** Ich, die dies ordnete, wie sie die Bewegung eines Leibes geordnet hat? Bin ich nur ein **Tropfen** von dieser Kraft?
 
   
 
-243. Ich begreife nur ein Wesen, welches zugleich Eins ist und
-Vieles, sich verändert und bleibt, erkennt, fühlt, will — dies Wesen ist meine Urthatsache.
+243. Ich **begreife** nur ein Wesen, welches zugleich Eins ist und
+Vieles, sich verändert und bleibt, erkennt, fühlt, will — dies Wesen ist meine **Urthatsache**.
 
   
 
-244. Als ich die Lust an der Wahrheit haben wollte, erfand ich die Lüge und den Schein — das Nahe und Ferne, Vergangene
+244. Als ich die **Lust an der Wahrheit** haben wollte, **erfand ich die Lüge** und **den Schein** — das Nahe und Ferne, Vergangene
 und Künftige, das Perspektivische. Da legte ich in mich selber die Dunkelheit und den Trug und machte mich zu
 einer Täuschung vor mir selber.
 
@@ -1437,7 +1437,7 @@ bekommt ihr Ohren.
 
   
 
-257. Sobald der Wille auftritt, hat das Gefühl den Eindruck der Befreiung. Das Gefühl ist nämlich leidend — und sobald der Wille auftritt, pausirt es und leidet
+257. Sobald der Wille auftritt, hat das Gefühl den Eindruck der **Befreiung**. Das Gefühl ist nämlich leidend — und sobald der Wille auftritt, pausirt es und leidet
 nicht. Das nennt man Freiheit des Willens.
 
   
@@ -1487,7 +1487,7 @@ Anwalt, sondern auch Gottes Anwalt vor dem Teufel sein.
 
   
 
-265. Rede an den Felsen. Ich liebe es, daß du nicht sprichst.
+265. Rede an den **Felsen**. Ich liebe es, daß du nicht sprichst.
 Deine Schweigsamkeit hat Würde. (Alles moralisch empfinden in der Natur: aller Werth liegt darin)
 
 Rede an einen König.
@@ -1514,19 +1514,19 @@ Mit unsichtbaren Fäden wird man am festesten gebunden.
 
   
 
-269. Was liegt an eurer Tugend, wenn ihr nicht den Moment erlebt habt, wo ihr den Menschen in euch tief verachtetet, aus Liebe zu dem Übermenschen? Und eure Tugend mit
+269. Was liegt an eurer Tugend, wenn ihr nicht den Moment erlebt habt, wo ihr **den Menschen in euch** tief verachtetet, aus Liebe zu dem Übermenschen? Und eure Tugend mit
 verachtetet?
 
   
 
-270. In der Geschichte der Menschheit sind die großen
-Verachtungen die Ereignisse: als die Quelle der großen Begehrung nach dem Übermenschen. Laßt euch nicht
+270. In der Geschichte der Menschheit sind die **großen
+Verachtungen** die Ereignisse: als die Quelle der großen Begehrung nach dem Übermenschen. Laßt euch nicht
 betrügen — ehemals wollte man denn wohl in das Jenseits oder Nichts oder mit Gott eins werden!? Alle diese
-bunten Worte dienten um auszudrücken, daß der Mensch seiner satt sei — nicht seiner Leiden, sondern seiner gewöhnlichen Art zu empfinden.
+bunten Worte dienten um auszudrücken, daß der Mensch **seiner**satt sei — **nicht seiner Leiden**, sondern seiner gewöhnlichen Art zu empfinden.
 
   
 
-271. Die Stunde der großen Verachtung erwarten: das ist die Auszeichnung. Die Anderen dienen nur zur Bildung des letzten Menschen.
+271. Die Stunde der großen Verachtung erwarten: das ist die **Auszeichnung**. Die Anderen dienen nur zur Bildung des **letzten Menschen**.
 
   
 
@@ -1541,8 +1541,8 @@ Heerde versteckt.
 [5[2]](javascript:;)
 --------------------
 
-Zweierlei lehre ich euch; ihr sollt den Menschen überwinden, und ihr sollt wissen, wenn
-ihr ihn überwunden habt: ich lehre euch den Krieg und den Sieg. (Cap<itel>)
+Zweierlei lehre ich euch; ihr sollt den Menschen überwinden, und ihr sollt wissen, **wenn**
+ihr ihn überwunden habt: ich lehre euch den Krieg und den Sieg. (Cap&amp;lt;itel&amp;gt;)
 
 [5[3]](javascript:;)
 --------------------
@@ -1593,7 +1593,7 @@ sich selber!
 [5[10]](javascript:;)
 ---------------------
 
-(cap<itel>) „die Bruderschaft
+(cap&amp;lt;itel&amp;gt;) „die Bruderschaft
 
 *Erratum:*Brüderschaft  
 *lies:*Bruderschaft  
@@ -1620,7 +1620,7 @@ Unsere Verachtung des Menschen trieb uns hinter die Sterne und ließ uns nach ei
 [5[14]](javascript:;)
 ---------------------
 
-Der Gelehrte soll ein Büßer des Geistes sein
+Der Gelehrte soll ein **Büßer**des**Geistes** sein
 
 [5[15]](javascript:;)
 ---------------------
@@ -1788,8 +1788,8 @@ der Leib böse und die Schönheit teuflisch scheint!
 [5[31]](javascript:;)
 ---------------------
 
-Hinter deinen Gedanken und Gefühlen steht dein Leib und dein Selbst im Leibe: die terra incognita. Wozu hast du diese Gedanken und diese Gefühle? Dein Selbst im Leibe
-will etwas damit.
+Hinter deinen Gedanken und Gefühlen steht dein Leib und dein Selbst im Leibe: die terra incognita. **Wozu** hast du **diese** Gedanken und diese Gefühle? Dein Selbst im Leibe
+**will** etwas damit.
 
 [5[32]](javascript:;)
 ---------------------
@@ -1876,8 +1876,8 @@ Große Entscheidung zwischen Tod und Leben
 
 Schauspieler und Schaffende.
 
-die neue Kunst als 1000 Arten zu leben (zuerst Unabhängigkeit! ein Gedanke, der sich
-seine Freien erzwingt)
+die neue Kunst als 1000 Arten zu leben (**zuerst**Unabhängigkeit! ein Gedanke, der sich
+seine Freien **erzwingt**)
 
 das Leben ein Versuch des Erkennenden
 
@@ -1885,13 +1885,13 @@ das Gemeine, Nächste, Irdische adeln! (Kost Küche)
 
 Einsamkeit und Leben — Schlaf und Wachen (Leben als Wille zum Leiden (— schaffen —)
 
-die höchste Erkenntniß: der neue Schätzer.
+die höchste Erkenntniß: der neue **Schätzer**.
 
 der langsame Ruhm
 
 Kritik der Moral und ihr Sinn: wir wollen uns über Lob und Tadel erheben!
 
-Wahnsinn als Vorzeichen.
+Wahnsinn als **Vor**zeichen.
 
 Vergeltung — ihr wollt Lohn?
 
@@ -1972,8 +1972,8 @@ die geistreichste Leidenschaft
 
 Antipathie gegen eine Person sich zur Tugend machen
 
-In der Flam<me> der Eifer<sucht> wendet man den vergifteten Stachel gegen sich
-selber, gleich dem Skorpion — doch ohne s<einen> Erfolg
+In der Flam&amp;lt;me&amp;gt; der Eifer&amp;lt;sucht&amp;gt; wendet man den vergifteten Stachel gegen sich
+selber, gleich dem Skorpion — doch ohne s&amp;lt;einen&amp;gt; Erfolg
 
 Wenn ich merke daß Jemand mich belügt, so jammerte
 
@@ -1983,3 +1983,5 @@ Wenn ich merke daß Jemand mich belügt, so jammerte
 
  mich nicht, daß er
 mich belügt, sondern daß er lügt.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

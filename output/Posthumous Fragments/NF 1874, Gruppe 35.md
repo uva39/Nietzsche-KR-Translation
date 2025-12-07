@@ -21,7 +21,7 @@ ist.
 
 Nun ist beobachtungswerth, wie in dieser gehandelt wird.
 
-Man wirft der Schopenh<auerischen> Ethik vor, daß sie keine imperativische Form habe, ja diese
+Man wirft der Schopenh&amp;lt;auerischen&amp;gt; Ethik vor, daß sie keine imperativische Form habe, ja diese
 eingeständlich zurückweise.
 
 [35[2]](javascript:;)
@@ -108,16 +108,16 @@ Conceptionen, der Wille (der uns mit Augustin, Pascal, den Indern verbündet), d
 Genius der Gattung; er hat in der Darstellung keine Unruhe, sondern die helle Tiefe des Sees, der unbewegt ist
 oder leicht seine Wellen schlägt, während die Sonne über ihm liegt. Er ist grob wie Luther. Er ist bis jetzt
 das strengste Muster eines deutschen Prosaschreibers, keiner hat es so ernst mit der Sprache und der Pflicht,
-die sie auferlegt, genommen. Wie viel Würde und Grösse <er> hat, kann man e contrario sehen,
-wenn man seinen Nachahmer Hartmann sieht (der sein eigentlicher Gegner ist). Seine Grösse
+die sie auferlegt, genommen. Wie viel Würde und Grösse &amp;lt;er&amp;gt; hat, kann man e contrario sehen,
+wenn man seinen Nachahmer Hartmann sieht (der sein eigentlicher **Gegner** ist). Seine Grösse
 ist ausserordentlich, wieder dem Dasein ins Herz gesehen zu haben, ohne gelehrtenhafte Abziehungen, ohne
 ermüdendes Verweilen und Abgesponnenwerden in der philosophischen Scholastik. Das Studium der
 Viertelsphilosophen nach ihm ist nur deshalb anziehend, um zu sehen, wie sie sofort auf die Stelle gerathen,
-wo das gelehrtenhafte Für und Wider, wo Grübeln, Widersprechen, aber nichts weiter, vor allem nicht zu leben erlaubt ist. Er zertrümmert die Verweltlichung, aber ebenso die barbarisirende Kraft
+wo das gelehrtenhafte Für und Wider, wo Grübeln, Widersprechen, aber nichts weiter, vor allem nicht zu **leben** erlaubt ist. Er zertrümmert die Verweltlichung, aber ebenso die barbarisirende Kraft
 der Wissenschaften, er erweckt das ungeheuerste Bedürfniss, wie Sokrates der Erwecker eines solchen
 Bedürfnisses war. Was die Religion war, ist vergessen gewesen, ebenso welche Bedeutung die Kunst für das Leben
 hat. Schopenhauer steht zu allem in Widerspruche, was jetzt als Cultur gilt: Plato zu allem, was damals in
-Griechenland Cultur war. Er ist vorausgeschleudert.
+Griechenland Cultur **war**. Er ist vorausgeschleudert.
 
 [35[12]](javascript:;)
 ----------------------
@@ -157,7 +157,7 @@ Welt; werden sie den unruhigen Schläfer wecken? Selten genug: gewöhnlich hört
 was seinen Traum zerstörte, er webt sie mit hinein und vermehrt die Unklarheit und das Gedränge seines
 Lebens.
 
-So giebt es eine Art von abgeirrter Cultur, welche welt- und werdefreundlich ist und
+So giebt es eine Art von **abgeirrter Cultur**, welche welt- und werdefreundlich ist und
 emsig beflissen, den Menschen recht streng im Bereiche seiner historischen Existenz einzuschliessen. Durch sie
 soll gerade die Aufgabe gelöst werden, die geistigen Kräfte einer Generation so weit zu entbinden, dass sie
 mit ihnen den bestehenden Institutionen, Staat, Verkehr, Kirche, Gesellschaft, am nützlichsten werden kann:
@@ -179,7 +179,7 @@ jetzt noch christliche Theologen sich gebärden, als ob die moderne Staatskultur
 werden müsste, so handelt es sich nur um Worte: denn das Christenthum existirt gar nicht mehr anders als in
 der Form jener Staatskultur.
 
-Und die Kunst des Tages? Sie soll gerade die moderne Art zu leben, rechtfertigen, als
+Und die **Kunst** des Tages? Sie soll gerade die moderne Art zu leben, rechtfertigen, als
 Abbild ihrer hastigen und überreizten Verweltlichung, als ein immer bereites Zerstreuungs- und
 Auseinanderstreuungsmittel, unerschöpflich in der Abwechslung des Reizenden und Prickelnden, gleichsam der
 Gewürzladen des ganzen Occidents und Orients, für jeden Geschmack eingerichtet, ob ihm nun nach Wohl- oder
@@ -245,7 +245,7 @@ Dinge zu grün vom Zweige bricht, jenes Rennens und Jagens, das den Menschen jet
 und alles, was sie thun, gleichsam tätowirt. Als ob ein Trank in ihnen wirkte, der sie nicht mehr ruhig athmen
 liesse, stürmen sie fort, in unanständiger Sorglichkeit: so dass freilich der Mangel an Würde allzu peinlich
 in die Augen springt und nun wieder eine lügnerische Eleganz nöthig wird, mit der die Krankheit der würdelosen
-Hast maskirt werden soll. Denn so hängt jene modische Gier nach der „schönen Form“, wie es heisst, mit dem hässlichen Inhalt des jetzigen Menschen zusammen: jene soll verstecken, dieser soll
+Hast maskirt werden soll. Denn so hängt jene modische Gier nach der „schönen Form“, wie es heisst, mit dem **hässlichen Inhalt** des jetzigen Menschen zusammen: jene soll verstecken, dieser soll
 versteckt werden, „Gebildet sein“ heisst nun: sich nicht merken lassen, wie elend und schlecht man ist, wie
 raubthierhaft im Streben, wie unersättlich im Sammeln, wie eigensüchtig und schamlos im Geniessen. So entsteht
 die entsetzliche Stufenleiter: je mehr Geld, desto mehr Bildung, oder anders ausgedrückt: je mehr Begierde und
@@ -263,7 +263,7 @@ gewesen: lassen Sie
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  unsre Landsleute nur erst reich werden, dann werden
-sie auch eine Cultur haben!“ Mag der Glaube immerhin selig machen: diese Art des Glaubens
+sie auch eine Cultur haben!“ Mag der Glaube immerhin selig machen: **diese** Art des Glaubens
 macht mich unselig, weil ich fühle, dass jene deutsche Cultur, an deren Zukunft hier geglaubt wird — die des
 Reichthums, der Politur und der manierlichen Verstellung — das feindlichste Gegenbild der deutschen Cultur
 ist, an die ich glaube. Gewiss, wer unter Deutschen zu leben hat, leidet sehr an der berüchtigten Grauheit
@@ -290,7 +290,7 @@ Ich pflege deshalb als die Wurzeln dieser jetzigen gesammten zeit- und werdefreu
 betrachten und zu unterscheiden: einmal die üppige Richtung der Gesellschaft auf Erwerb und Besitz, sodann die
 kluge Selbstsucht des modernen Staates. Erdenglück: so heisst in beiden Fällen der Köder, mit dem die Cultur
 in das Netz gelockt wird; der reiche und mächtige Mensch, die freie Persönlichkeit, der Culturstaat — das sind
-die Verheissungen, mit denen unsre Zeitgenossen betrogen werden sollen. Dass es sich nämlich hier um Betrug handelt, überkommt uns sofort wie eine Offenbarung, wenn wir nur einen Augenblick in
+die Verheissungen, mit denen unsre Zeitgenossen betrogen werden sollen. Dass es sich nämlich hier um **Betrug** handelt, überkommt uns sofort wie eine Offenbarung, wenn wir nur einen Augenblick in
 jene Höhle niedergestiegen sind, in welcher wir die Wurzeln der ächten, weltfeindlichen Cultur sehen
 können.
 
@@ -314,8 +314,8 @@ hinausgehoben, nur dass er mit mehr Bewusstsein will, was das Thier im blinden D
 verbringen Alle den grössten Theil unsres Daseins in der Thierheit, wir selbst sind die Thiere, welche sinnlos
 zu leiden scheinen.
 
-Aber es giebt Augenblicke, wo die Wolken zerreissen und wo wir uns, sammt aller Natur, zum
-Menschen hindrängen. Schaudernd blicken wir, in jener plötzlichen Helle, um uns, rückwärts: wir sehen
+Aber es giebt Augenblicke, wo die Wolken zerreissen und wo wir uns, sammt aller Natur, **zum
+Menschen hindrängen**. Schaudernd blicken wir, in jener plötzlichen Helle, um uns, rückwärts: wir sehen
 die verfeinerten Raubthiere rennen, uns mitten unter ihnen. Die ungeheure Bewegtheit der Menschen auf der
 grossen Erdwüste, ihr Städte- und Staatengründen, ihr Kriege-führen, ihr rastloses Sammeln und
 Auseinanderstreuen, ihr Durcheinander-Laufen, von einander Ablernen, Ablisten, ihr gegenseitiges Überlisten
@@ -348,3 +348,5 @@ seines Leidens fragend anblickt, als ob es sagen wollte: ist es dir nicht leicht
 begreifen? Jene scheinbar Beglückteren, die sich in Unruhe und Flucht vor sich selbst verzehren, um nur ja
 nicht die natürliche böse Beschaffenheit der Dinge, des Staates zum Beispiel oder der Arbeit oder des
 Eigenthums, zugeben zu [+ + +]
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

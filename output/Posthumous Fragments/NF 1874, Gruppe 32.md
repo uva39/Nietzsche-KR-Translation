@@ -18,7 +18,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 
 Ist noch Alles christlich, was sich so nennt? Oder, ausführlicher und zugleich bedenklicher gefragt, was ist
 überhaupt, in unserem jetzigen Leben, noch wirklich christlich, was dagegen nennt sich nur so, aus Angewöhnung
-oder Furchtsamkeit? Und giebt es etwas was sich nicht einmal mehr so nennt <und> vielmehr
+oder Furchtsamkeit? Und giebt es etwas was sich nicht einmal mehr so nennt &amp;lt;und&amp;gt; vielmehr
 eingestandenermaassen unchristlich ist? Um die letzte Frage zuerst zu beantworten, nenne ich, des Beispiels
 halber, die gesammte Wissenschaft: sie ist jetzt unchristlich und will so heissen.
 
@@ -43,22 +43,22 @@ Alle neueren Zeiten leiden an diesem Mangel: unser Stil verhüllt.
 
 Es ist nach der Art Cicero’s fortzuringen mit den Griechen. Leopardi.
 
-Die Stärke und Ehrlichkeit
+Die **Stärke****und Ehrlichkeit**
 
 *Erratum:*und Ehrlichkeit  
-*lies:*und Ehrlichkeit  
+*lies:***und Ehrlichkeit**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- seines Characters zeigt sich als Künstler. Aber die Reinheit seines Geschmacks ist nicht
+**seines Characters** zeigt sich als Künstler. Aber die Reinheit seines Geschmacks ist nicht
 so gross, dass er vermöchte Demosthenes nachzuahmen: ob er schon höchlichst mit ihm wetteifert.
-(W<agner> und Beethoven.) Er ist als Künstler ehrlich und giebt ganz, was ihm gefällt. Aber ihm
+(W&amp;lt;agner&amp;gt; und Beethoven.) Er ist als Künstler ehrlich und giebt ganz, was ihm gefällt. Aber ihm
 gefällt nicht das Beste am meisten, sondern das Asiatische. Das war ächt römisch.
 
 Civilisatorische Möglichkeit schwebt vor.
 
   
 
-Für die römische Cultur wesentlich die Separation der „Form“; der „Inhalt“ wird durch
+Für die römische Cultur wesentlich die Separation der **„Form“**; der „Inhalt“ wird durch
 sie versteckt oder übertüncht. Das Nachmachen einer fremden fertigen Cultur ist deutlich zu beobachten. Aber
 das haben die Griechen auch gethan. Ein neues Gebilde ist das Resultat. Die römische Beredsamkeit war da in
 grösster Kraft und vermochte deshalb sich das Fremde zu assimiliren. Das Prächtige, Brutale und Verführerische
@@ -83,7 +83,7 @@ Historiker (Kampf gegen das Mythische) — Thucydides.
 [32[4]](javascript:;)
 ---------------------
 
-Griechisch und Barbarisch.
+**Griechisch und Barbarisch.**
 
   
 
@@ -95,7 +95,7 @@ Griechisch und Barbarisch.
 
   
 
-Unzeitgemässe Betrachtungen.
+**Unzeitgemässe Betrachtungen.**
 
   
 
@@ -147,7 +147,7 @@ Zeitungs-Sklaverei.
 [32[7]](javascript:;)
 ---------------------
 
-Die Philosophen.
+**Die Philosophen.**
 
 Laertius Diogenes.
 
@@ -159,7 +159,7 @@ Die Sprache.
 ---------------------
 
 Wenn Goethe ein versetzter Maler, Schiller ein versetzter Redner ist, so ist Wagner ein versetzter
-Schauspieler. Er nimmt bes<onders> die Musik hinzu —
+Schauspieler. Er nimmt bes&amp;lt;onders&amp;gt; die Musik hinzu —
 
 [32[9]](javascript:;)
 ---------------------
@@ -173,10 +173,10 @@ nur
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  aus Einer Wurzel kommend, d.h. er setzte voraus, dass der Effect durch
-gleiche Portionen von Einzeleffecten zusammenaddirt sei. So und so viel Freude an der Musik, ebensoviel an der Schauspielkunst, ebensoviel am Drama.
+gleiche Portionen von Einzeleffecten zusammenaddirt sei. So und so viel Freude an der Musik, **ebenso**viel an der Schauspielkunst, ebensoviel am Drama.
 
 Nun lernt er, dass eine grosse Schauspielerin diese Rechnung in Verwirrung bringt — zugleich aber steigert
-sich sein Ideal — was wird die Wirkung erst für eine Höhe erreichen, wenn eine gleich
+sich sein Ideal — **was** wird die Wirkung erst für eine Höhe erreichen, wenn eine gleich
 grosse Musik usw. entspricht!
 
 *Erratum:*entspricht?  
@@ -188,7 +188,7 @@ grosse Musik usw. entspricht!
 
 Unmässigkeit und Schrankenlosigkeit galt ihm wohl als Natur.
 
-Goethe zweifelte auch nicht das zu können, was ihm gefiel. Sein Geschmack und sein
+Goethe zweifelte auch nicht das zu **können**, was ihm gefiel. Sein Geschmack und sein
 Können giengen parallel. Das Präsumptuöse.
 
 Was auf Wagner stark wirkte, das wollte er auch machen. Von seinen Vorbildern verstand er nicht mehr, als er
@@ -198,7 +198,7 @@ Wagner ist eine gesetzgeberische Natur: er übersieht viel Verhältnisse und ist
 ordnet alles im Grossen und ist nicht nach der isolirten Einzelheit zu beurtheilen — Musik Drama Poesie Staat
 Kunst usw.
 
-Die Musik ist nicht viel werth, die Poesie auch <nicht>, das Drama auch nicht, die
+Die Musik ist nicht viel werth, die Poesie auch &amp;lt;nicht&amp;gt;, das Drama auch nicht, die
 Schauspielkunst ist oft nur Rhetorik — aber alles ist im Grossen Eins und auf einer Höhe.
 
 Wagner als Denker ist gleich so hoch als Wagner als Musiker und Dichter.
@@ -206,16 +206,16 @@ Wagner als Denker ist gleich so hoch als Wagner als Musiker und Dichter.
 [32[11]](javascript:;)
 ----------------------
 
-Das erste Problem Wagner’s „warum bleibt die Wirkung aus, da ich sie empfange?“ Dies
+Das erste Problem Wagner’s „warum bleibt die Wirkung aus, da **ich** sie empfange?“ Dies
 treibt ihn zu einer Kritik des Publikums, des Staates, der Gesellschaft. Er setzt zwischen Künstler und
 Publikum das Verhältniss vom Subject und Object — ganz naiv.
 
-Wagners Begabung ist ein aufwachsender Wald, kein einzelner Baum.
+Wagners Begabung ist ein aufwachsender **Wald**, kein einzelner Baum.
 
 [32[12]](javascript:;)
 ----------------------
 
-Er hat das Gefühl der Einheit im Verschiedenen — deshalb halte ich ihn für einen Kulturträger.
+Er hat das Gefühl der **Einheit im Verschiedenen** — deshalb halte ich ihn für einen **Kulturträger**.
 
 [32[13]](javascript:;)
 ----------------------
@@ -235,7 +235,7 @@ mit Zeitgenossen.
 Jede Kunst hat eine Stufe der Rhetorik. Fundamentaler Unterschied zwischen Poesie und Rhetorik, oder Kunst
 und Rhetorik.
 
-Entstehung bei Empedocles characteristisch. Mittelwesen.
+Entstehung bei **Empedocles** characteristisch. Mittelwesen.
 
 Schauspieler und Redner: erster vorausgesetzt.
 
@@ -245,18 +245,18 @@ Alles aufzuzählen, wodurch die Rhetorik der unmoralischen Kunst entspricht.
 
 Entstehung der Kunstprosa als Nachklang der Rhetorik.
 
-Es ist sehr selten, dass einer als Künstler wirklich seine Subjectivität herausstellt:
+Es ist sehr selten, dass einer als Künstler wirklich seine **Subjectivität herausstellt**:
 die meisten verstecken sie durch eine angenommene Manier und Stil.
 
-Ehrliche Kunst und unehrliche Kunst — Hauptunterschied. Die
-sogenannte objective Kunst ist am häufigsten nur unehrliche Kunst. Die Rhetorik ist
-deshalb ehrlicher, weil sie das Täuschen als Ziel anerkennt. Sie will gar nicht die
+**Ehrliche Kunst** und **unehrliche Kunst** — Hauptunterschied. Die
+sogenannte objective Kunst ist am häufigsten nur **unehrliche** Kunst. Die Rhetorik ist
+deshalb ehrlicher, weil sie das **Täuschen** als Ziel anerkennt. Sie will gar nicht die
 Subjectivität ausdrücken, sondern einem gewissen Ideal von Subject, dem mächtigen Staatsmanne usw., wie ihn
-sich das Volk denkt <, entsprechen>.
+sich das Volk denkt &amp;lt;, entsprechen&amp;gt;.
 
 Jeder Künstler fängt unehrlich an, nämlich redend wie sein Meister (Sophocles Schwulst des Aeschylus). Am
 häufigsten Contrast zwischen Erkennen und Können ewig: dann stellen sich die Künstler auf Seite des Geschmacks
-und bleiben ewig unehrlich. Cicero der dekorative Mensch eines Weltreichs. Als
+und bleiben ewig unehrlich. Cicero **der dekorative Mensch eines Weltreichs**. Als
 vollendeter Mensch und Wonne der Natur empfindet er sich, daher sein Ruhmgefühl. Seine politischen Thaten sind
 Dekoration. Er verwendet Alles, Wissenschaften und Künste, nach ihrer dekorativen Kraft. Erfinder des „Pathos
 an sich“, der schönen Leidenschaft. Die Cultur als verhüllende Dekoration.
@@ -272,7 +272,7 @@ Kraft, seiner Empfindung.
 Die Heiterkeit Wagner’s ist das Sicherheitsgefühl dessen, der von den grössten Gefahren und Ausschweifungen
 zurückkehrt, in’s Begrenzte und Heimische: alle Menschen, mit denen er umgeht, sind solche begrenzte
 Abschnitte aus seinem eignen Laufe (wenigstens empfindet er nichts mehr an ihnen) deshalb kann er hier heiter
-und überlegen sein, denn hier kann er mit allen Nöthen Bedenken spielen.
+und überlegen sein, denn hier kann er mit allen Nöthen Bedenken **spielen**.
 
 Die andere Eigenschaft ist eine grosse schauspielerische Begabung, die versetzt ist, die sich in anderen
 Wegen Bahn bricht als auf dem ersten nächsten: dazu nämlich fehlt ihm Gestalt Stimme und die nöthige
@@ -377,7 +377,7 @@ das durch Zusammenaddiren einzelner Fertigkeiten und Kenntnisse nicht erreicht w
 [32[22]](javascript:;)
 ----------------------
 
-Nicht zu vergessen: es ist eine theatralische Sprache, die Wagner’s Kunst redet; sie
+Nicht zu vergessen: es ist eine **theatralische** Sprache, die Wagner’s Kunst redet; sie
 gehört nicht in’s Zimmer, in die camera. Es ist Volksrede, und die lässt sich ohne eine starke Vergröberung
 selbst des Edelsten nicht denken. Sie soll in die Ferne wirken und das Volkschaos zusammenkitten. Z.B. der
 Kaisermarsch.
@@ -445,7 +445,7 @@ Einwirkung der Geldkrisen.
 
 Allgemeine Unsicherheit der politischen Lage.
 
-Zweifel an der besonnenen Leitung der d<eutschen> Geschicke.
+Zweifel an der besonnenen Leitung der d&amp;lt;eutschen&amp;gt; Geschicke.
 
 Zeit der Kunstaufregungen (Liszt usw.) vorüber.
 
@@ -504,7 +504,7 @@ Die „falsche Allmacht“ entwirkt
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  etwas „Tyrannisches“ in Wagner. Das
-Gefühl ohne Erben zu sein — deshalb sucht er seiner Reformidee die möglichste Breite zu
+Gefühl ohne **Erben** zu sein — deshalb sucht er seiner Reformidee die möglichste Breite zu
 geben und sich gleichsam durch Adoption fortzupflanzen. Streben nach Legitimität.
 
 Der Tyrann lässt keine andre Individualität gelten als die seinige und die seiner Vertrauten. Die Gefahr für
@@ -521,7 +521,7 @@ den Gegnern aufbürdet.
 [32[34]](javascript:;)
 ----------------------
 
-Der Tyrannensinn für das Colossale.
+Der Tyrannensinn für das **Colossale**.
 
 Es kommt ihm gar keine Pietät entgegen, der ächte Musiker betrachtet ihn als einen Eindringling, als
 illegitim.
@@ -554,7 +554,7 @@ er sieht sie unterliegen und conspirirt mit ihnen gegen das, was jetzt siegt.
 ----------------------
 
 Er hat sich vom Nachdenken über politische Möglichkeiten nicht frei gehalten: zu seinem Unglücke auch mit dem
-K<önig> v<on> B<ayern>, der ihm erstens sein Werk nicht
+K&amp;lt;önig&amp;gt; v&amp;lt;on&amp;gt; B&amp;lt;ayern&amp;gt;, der ihm erstens sein Werk nicht
 ausführte
 
 *Erratum:*aufführte  
@@ -586,7 +586,7 @@ diskreditiren.
 [32[41]](javascript:;)
 ----------------------
 
-Seine Begabung als Schauspieler zeigt sich darin, dass er es nie im persönlichen Leben
+Seine Begabung als Schauspieler zeigt sich darin, dass er es **nie** im persönlichen Leben
 ist. Als Schriftsteller ist er Rhetor, ohne die Kraft zu überzeugen.
 
 [32[42]](javascript:;)
@@ -672,7 +672,7 @@ erscheint es ihm bereits gering und verharscht. Kann sich über Alles trösten, 
 [32[49]](javascript:;)
 ----------------------
 
-Die Goethische Stelle vom präsumptuösen Menschen steht 27, 507.
+Die **Goethische** Stelle vom präsumptuösen Menschen steht 27, 507.
 
 [32[50]](javascript:;)
 ----------------------
@@ -688,7 +688,7 @@ Musik als Abbild einer Existenz durch das Nacheinander.
 ----------------------
 
 Gefahr dass in den Bewegungen und Handlungen des Drama’s die Motive für die Bewegung der Musik liegen, dass
-sie geleitet wird. Es ist nicht nöthig, dass Eins von beiden leitet — im vollkommenen
+sie **geleitet** wird. Es ist nicht nöthig, dass Eins von beiden leitet — im vollkommenen
 Kunstwerk haben wir das Gefühl des nothwendigen Nebeneinanders.
 
 [32[52]](javascript:;)
@@ -696,16 +696,16 @@ Kunstwerk haben wir das Gefühl des nothwendigen Nebeneinanders.
 
 |  |  |  |
 | --- | --- | --- |
-| Wagner bezeichnet als den Irrthum im Kunstgenre der Oper, dass ein Mittel des Ausdrucks, die Musik, zum Zwecke, der Zweck des Ausdrucks aber zum Mittel gemacht war.  Also die Musik gilt ihm als Mittel des Ausdrucks — sehr characteristisch für den Schauspieler. Jetzt war man bei einer Symphonie gefragt: wenn die Musik hier Mittel des Ausdrucks ist, was ist der Zweck? Der kann also nicht in der Musik liegen: das, was seinem Wesen nach Mittel des Ausdrucks ist, muss nun etwas haben, was es ausdrücken soll: Wagner meint das Drama. Ohne dies hält er die Musik allein für ein Unding: es erweckt die Frage „warum der Lärm?“. Deshalb hielt er die 9te Symphonie für die eigentliche That Beethovens, weil er hier durch Hinzunahme des Wortes der Musik ihren Sinn gab, Mittel des Ausdrucks zu sein.  Mittel und Zweck — Musik und Drama — ältere Lehre.  Allgemeines und Beispiel — Musik und Drama — neuere Lehre.  Ist die letztere wahr, so darf das Allgemeine ganz und gar nicht abhängig vom Beispiel sein, d.h. die absolute Musik ist im Recht, auch die Musik des Drama’s muss absolute Musik sein.  Nun ist das immer noch mehr ein Gleichniss und Bild — es ist nicht völlig wahr, dass das Drama nur ein Beispiel zur Allgemeinheit der Musik ist: Gattung und Species, worin doch? Als Bewegung von Tönen gegenüber den Bewegungen von Gestalten (um hier nur vom mimischen Drama zu reden).  Nun können aber auch die Bewegungen einer Gestalt das Allgemeinere sein: denn sie drücken innerliche Zustände aus, die viel reicher und nuancirter sind als ihr Bewegungsresultat am äussern Menschen: weshalb wir so oft eine Gebärde missverstehen. Überdies ist unendlich viel Conventionelles an allen Gebärden — der völlig freie Mensch ist ein Phantasma. Lässt man aber die Bewegtheit der Gestalt fahren, und redet vom bewegten Gefühl, so sollte nun die Musik das Allgemeinere, das bewegte Gefühl der und jener Person das Specielle sein. Die Musik aber ist eben das bewegte Gefühl des Musikers in Tönen ausgedrückt, also jedenfalls eines Individuums. Und so war es immer (wenn man von der reinen formalistischen Ton-Arabesken-Lehre absieht). So hätte man den vollen Widerspruch: ein ganz specieller Ausdruck des Gefühls als Musik, ganz bestimmt — und daneben das Drama, ein Nebeneinander von Ausdrücken ganz bestimmter Gefühle, der dramatischen Personen, durch Wort und Bewegung. Wie können diese sich je decken? Wohl kann der Musiker den Vorgang des Dramas selbst nachempfinden und als reine Musik wiedergeben (Coriolanouvertüre). Dieses Abbild hat aber dann zum Drama selbst allerdings den Sinn einer Verallgemeinerung, die politischen Motive, Gründe, alles ist weggelassen und nur der dumme Wille redet. In jedem andern Sinne ist dramatische Musik schlechte Musik.  Nun aber die verlangte Gleichzeitigkeit und der genaueste Parallelismus! des ganzen Vorgangs, im Musiker und im Drama. Da stört nun die Musik den Dramatiker, denn sie braucht, um etwas auszudrücken, Zeit, oft zu einer einzigen Regung des Drama’s eine ganze Symphonie. Was macht währenddem das Drama? Wagner benutzt dazu den Dialog, überhaupt die Sprache.  Da kommt nun eine neue Macht und Schwierigkeit hinzu: die Sprache. Diese redet in Begriffen. Auch diese haben ihre eignen Zeitgesetze: kurz | | |
-| Mimus allein drückt das zu Grunde liegende Gefühl <aus> |  | jedes <drückt es> in andern Zeitmaassen aus. |
+| Wagner bezeichnet als den Irrthum im Kunstgenre der Oper, dass ein **Mittel des Ausdrucks**, die Musik, zum Zwecke, der Zweck des Ausdrucks aber zum Mittel gemacht war.  Also die Musik gilt ihm als Mittel des Ausdrucks — sehr characteristisch für den Schauspieler. Jetzt war man bei einer Symphonie gefragt: wenn die Musik hier **Mittel des Ausdrucks** ist, was ist der Zweck? Der kann also nicht in der Musik liegen: das, was seinem Wesen nach Mittel des Ausdrucks ist, muss nun etwas haben, was es ausdrücken soll: Wagner meint das Drama. Ohne dies hält er die Musik allein für ein Unding: es erweckt die Frage „warum der Lärm?“. Deshalb hielt er die 9te Symphonie für die eigentliche That Beethovens, weil er hier durch Hinzunahme des Wortes der Musik ihren Sinn gab, Mittel des Ausdrucks zu sein.  Mittel und Zweck — Musik und Drama — ältere Lehre.  **Allgemeines** und **Beispiel** — Musik und Drama — neuere Lehre.  Ist die letztere wahr, so darf das Allgemeine ganz und gar nicht abhängig vom Beispiel sein, d.h. die absolute Musik ist im Recht, auch die Musik des Drama’s muss absolute Musik sein.  Nun ist das immer noch mehr ein Gleichniss und Bild — es ist nicht völlig wahr, dass das Drama nur ein Beispiel zur Allgemeinheit der Musik ist: Gattung und Species, worin doch? Als Bewegung von Tönen gegenüber den Bewegungen von Gestalten (um hier nur vom mimischen Drama zu reden).  Nun können aber auch die Bewegungen einer Gestalt das Allgemeinere sein: denn sie drücken innerliche Zustände aus, die viel reicher und nuancirter sind als ihr Bewegungsresultat am äussern Menschen: weshalb wir so oft eine Gebärde missverstehen. Überdies ist unendlich viel Conventionelles an allen Gebärden — der völlig freie Mensch ist ein Phantasma. Lässt man aber die Bewegtheit der Gestalt fahren, und redet vom bewegten Gefühl, so sollte nun die Musik das Allgemeinere, das bewegte Gefühl der und jener Person das Specielle sein. Die Musik aber ist eben das bewegte Gefühl des Musikers in Tönen ausgedrückt, also jedenfalls eines Individuums. Und so war es immer (wenn man von der reinen formalistischen Ton-Arabesken-Lehre absieht). So hätte man den vollen Widerspruch: ein ganz specieller Ausdruck des Gefühls als Musik, ganz bestimmt — und daneben das Drama, ein Nebeneinander von Ausdrücken ganz bestimmter Gefühle, der dramatischen Personen, durch Wort und Bewegung. Wie können diese sich je decken? Wohl kann der Musiker den Vorgang des Dramas selbst nachempfinden und als reine Musik wiedergeben (Coriolanouvertüre). Dieses Abbild hat aber dann zum Drama selbst allerdings den Sinn einer Verallgemeinerung, die politischen Motive, Gründe, alles ist weggelassen und nur der dumme Wille redet. In jedem andern Sinne ist dramatische Musik schlechte Musik.  Nun aber die verlangte **Gleichzeitigkeit** und der genaueste Parallelismus! des ganzen Vorgangs, im Musiker und im Drama. Da stört nun die Musik den Dramatiker, denn sie braucht, um etwas auszudrücken, Zeit, oft zu einer einzigen Regung des Drama’s eine ganze **Symphonie**. Was macht währenddem das Drama? Wagner benutzt dazu den Dialog, überhaupt die **Sprache**.  Da kommt nun eine neue Macht und Schwierigkeit hinzu: die Sprache. Diese redet in Begriffen. Auch diese haben ihre eignen **Zeit**gesetze: kurz | | |
+| Mimus allein drückt das zu Grunde liegende Gefühl &amp;lt;aus&amp;gt; |  | jedes &amp;lt;drückt es&amp;gt; in andern Zeitmaassen aus. |
 | Begriffswelt |
 | Musik |
-| Im Wortdrama regiert die Macht, die die meiste Zeit braucht, der Begriff. Deshalb ist die Action oft ein Ruhen, plastisch, Gruppen. Besonders in der Antike: die ruhende Plastik drückt einen Zustand aus. Der Mimus wird also bedeutend durch das Wortdrama bestimmt.  Nun braucht der Musiker ganz andre Zeiten und eigentlich sind ihm gar keine Gesetze vorzuschreiben: eine angeschlagene Empfindung kann bei dem Einen Musiker lang, bei dem andern kurz sein. Welche Forderung nun, dass hier die Begriffssprache und die Tonsprache neben einander hergehen!  Nun enthält aber die Sprache selbst ein musikalisches Element. Der stark empfundene Satz hat eine Melodie, die auch ein Bild der allgemeinsten Willensregung dabei ist. Diese Melodie ist künstlerisch verwendbar und ausdeutbar, in’s Unendliche.  Die Vereinigung aller dieser Factoren scheint unmöglich: der eine Musiker wird einzelne durch das Drama erregte Stimmungen wiedergeben und mit dem grössten Theil des Dramas sich nicht zu helfen wissen: daher dann wohl das Recitativ und die Rhetorik. Der Dichter wird dem Musiker nicht zu helfen vermögen und dadurch sich selbst nicht helfen können: er wünscht nur so viel zu dichten, was man singen kann. Davon hat er aber nur ein theoretisches Bewusstsein, kein innerliches. Der Schauspieler muss vor allem wieder als Sänger eine Menge thun, was nicht dramatisch ist, den Mund aufsperren usw.; er braucht conventionelle Manieren. Nun würde sich alles verändern, wenn der Schauspieler einmal zugleich Musiker und Dichter wäre.  Er benutzt Gebärde Sprache Sprachmelodie und dazu noch die anerkannten Symbole des Musikausdrucks. Er setzt eine sehr reich entwickelte Musik voraus, die schon für eine Unzahl Regungen einen festeren erkennbaren und wiederkehrenden Ausdruck gewonnen hat. Durch diese Musikcitate erinnert er den Zuhörer an eine bestimmte Stimmung, in der der Schauspieler sich gedacht wissen will. Jetzt ist wirklich die Musik ein „Mittel des Ausdrucks“ geworden: steht deshalb künstlerisch auf einer niedern Stufe, denn sie ist nicht mehr organisch in sich. Nun wird der musikalische Meister immer noch die Symbole in der kunstvollsten Weise verflechten können: aber weil der eigentliche Zusammenhang und Plan jenseits und ausserhalb der Musik liegt, kann sie nicht organisch sein. Aber es würde unbillig sein, dies dem Dramatiker vorzuwerfen. Er darf zu Gunsten des Drama’s die Musik als Mittel gebrauchen, wie er die Malerei als Mittel gebraucht. Solche Musik, rein an sich, ist der gemalten Allegorie zu vergleichen: der eigentliche Sinn liegt nicht im Bilde, deshalb kann er sehr schön sein. | | |
+| Im Wortdrama regiert die Macht, die die meiste Zeit braucht, der Begriff. Deshalb ist die Action oft ein Ruhen, plastisch, Gruppen. Besonders in der Antike: die ruhende Plastik drückt einen Zustand aus. Der Mimus wird also bedeutend durch das Wortdrama bestimmt.  Nun braucht der Musiker ganz andre Zeiten und eigentlich sind ihm gar keine Gesetze vorzuschreiben: eine angeschlagene Empfindung kann bei dem Einen Musiker lang, bei dem andern kurz sein. Welche Forderung nun, dass hier die Begriffssprache und die Tonsprache neben einander hergehen!  Nun enthält aber die Sprache selbst ein musikalisches Element. Der stark empfundene Satz hat eine Melodie, die auch ein Bild der allgemeinsten Willensregung dabei ist. Diese Melodie ist künstlerisch verwendbar und ausdeutbar, in’s Unendliche.  Die Vereinigung aller dieser Factoren scheint unmöglich: der eine Musiker wird einzelne durch das Drama erregte Stimmungen wiedergeben und mit dem grössten Theil des Dramas sich nicht zu helfen wissen: daher dann wohl das Recitativ und die Rhetorik. Der Dichter wird dem Musiker nicht zu helfen vermögen und dadurch sich selbst nicht helfen können: er wünscht nur so viel zu dichten, was man singen kann. Davon hat er aber nur ein theoretisches Bewusstsein, kein innerliches. Der Schauspieler muss vor allem wieder als Sänger eine Menge thun, was nicht dramatisch ist, den Mund aufsperren usw.; er braucht conventionelle Manieren. Nun würde sich alles verändern, wenn der Schauspieler einmal zugleich Musiker und Dichter wäre.  Er benutzt Gebärde Sprache Sprachmelodie und dazu noch die **anerkannten Symbole** des Musikausdrucks. Er setzt eine sehr reich entwickelte Musik voraus, die schon für eine Unzahl Regungen einen festeren erkennbaren und wiederkehrenden Ausdruck gewonnen hat. Durch diese Musikcitate erinnert er den Zuhörer an eine bestimmte Stimmung, in der der Schauspieler sich gedacht wissen will. Jetzt ist wirklich die Musik ein „Mittel des Ausdrucks“ geworden: steht deshalb künstlerisch auf einer niedern Stufe, denn sie ist nicht mehr organisch in sich. Nun wird der musikalische Meister immer noch die Symbole in der kunstvollsten Weise verflechten können: aber weil der eigentliche Zusammenhang und Plan jenseits und ausserhalb der Musik liegt, kann sie nicht organisch sein. Aber es würde unbillig sein, dies dem Dramatiker vorzuwerfen. Er darf zu Gunsten des Drama’s die Musik als Mittel gebrauchen, wie er die Malerei als Mittel gebraucht. Solche Musik, rein an sich, ist der gemalten Allegorie zu vergleichen: der eigentliche Sinn liegt nicht im Bilde, deshalb kann er sehr schön sein. | | |
 
 [32[53]](javascript:;)
 ----------------------
 
-Gefahren der dramatischen Musik für die Musik.
+Gefahren der **dramatischen** Musik für die Musik.
 
 Gefahren des musikalischen Drama’s für den dramatischen Dichter.
 
@@ -736,8 +736,8 @@ Kräfte. Religiöse, philosophische Elemente mit hineingezogen, Sehnsucht nach d
 [32[57]](javascript:;)
 ----------------------
 
-Wagner schätzt das Einfache der dramatischen Anlage, weil es am stärksten wirkt. Er
-sammelt alle wirksamen Elemente, in einer Zeit, die sehr rohe und starke Mittel wegen
+Wagner schätzt das Einfache der dramatischen Anlage, weil es am stärksten **wirkt**. Er
+sammelt alle **wirksamen** Elemente, in einer Zeit, die sehr rohe und starke Mittel wegen
 ihrer Stumpfheit braucht. Das Prächtige Berauschende Verwirrende das Grandiose das Schreckliche Lärmende
 Hässliche Verzückte Nervöse Alles ist im Recht. Ungeheure Dimensionen, ungeheure Mittel.
 
@@ -764,13 +764,13 @@ Christenthum katholischer Art.
 ----------------------
 
 Die Sprache auf den stärksten Ausdruck gesteigert — Stabreim. Orchester ebenfalls. Die Deutlichkeit der
-Sprache ist nicht das Höchste, sondern die berauschende Kraft der Ahnung.
+Sprache ist nicht das Höchste, sondern die berauschende Kraft der **Ahnung**.
 
 [32[61]](javascript:;)
 ----------------------
 
 — Wagner versucht die Erneuerung der Kunst von der einzigen noch vorhandenen Basis aus, vom Theater aus: hier
-wird doch wirklich noch eine Masse aufgeregt und macht sich nichts vor wie in Museen und
+wird doch wirklich noch eine **Masse** aufgeregt und macht sich nichts vor wie in Museen und
 Concerten. Freilich ist es eine sehr rohe Masse, und die Theatrokratie wieder zu beherrschen hat sich bis
 jetzt noch als unmöglich erwiesen. Problem: soll die Kunst ewig sektirerisch und isolirt fortleben? Ist es
 möglich, sie zur Herrschaft zu bringen? Hier liegt Wagner’s Bedeutung: er versucht die Tyrannis mit Hülfe der
@@ -781,7 +781,7 @@ Theaterwesen nimmt er nicht ernst.
 [32[62]](javascript:;)
 ----------------------
 
-Krieg.
+**Krieg.**
 
   
 
@@ -806,7 +806,7 @@ oder der Minister, man muss nicht schwindeln mit Worten.
 
 Der Sinn des Staates kann nicht der Staat, noch weniger die Gesellschaft sein: sondern Einzelne.
 
-So verfährt die Natur, wie der Krieg verfährt, gleichgültig gegen den Werth der
+So verfährt die **Natur**, wie der Krieg verfährt, gleichgültig gegen den Werth der
 Einzelnen.
 
 Ich weiss dass so wie ich in nicht langer Zeit viele Deutsche empfinden werden: das Bedürfniss frei von
@@ -854,7 +854,7 @@ Versuch eines Gewaltstreichs.
 [32[66]](javascript:;)
 ----------------------
 
-Die Bedeutung, die Wagner der Kunst zuschreibt, ist nicht deutsch. Hier fehlt es selbst
+Die Bedeutung, die Wagner der Kunst zuschreibt, ist nicht **deutsch**. Hier fehlt es selbst
 an einer dekorativen Kunst. Alle öffentliche Schicklichkeit für Kunst fehlt. Im Wesentlichen gelehrtenhaft
 oder ganz gemein. Hier und da vereinzelte Begierde zum Schönen. Musik steht einzig da. Aber selbst diese hat
 nicht vermocht, eine Organisation zu schaffen: nicht einmal, die importirte Theatermusik abzuhalten.
@@ -867,7 +867,7 @@ Bach — da bleicht die Erinnerung.
 [32[67]](javascript:;)
 ----------------------
 
-Zur Zeit.
+**Zur Zeit.**
 
   
 
@@ -881,10 +881,10 @@ Wenn einer die Aufgabe der Gerechtigkeit übernimmt, so lehrt ihn das Dasein sei
 Nicht möglichst bequem und erträglich ist das Leben einzurichten, sondern streng. Auf jede Weise ist an dem
 metaphysischen Sinne festzuhalten.
 
-Die grosse Haltlosigkeit der Dinge erleichtert uns die Belehrung. Es ist nichts zu schonen, die Wahrheit ist zu sagen, mag dabei herauskommen, was da wolle.
+Die grosse Haltlosigkeit der Dinge erleichtert uns die Belehrung. Es ist nichts zu **schonen**, die Wahrheit ist zu sagen, mag dabei herauskommen, was da wolle.
 
 Unsre Aufgabe, aus all den Verdunkelungen und Halbheiten wieder herauszukommen und über das Dasein uns nicht
-zu betrügen. Denn die ganze Menschheit ist jetzt einer Verflachung verfallen (natürlich
+zu betrügen. Denn die ganze Menschheit ist jetzt einer **Verflachung verfallen** (natürlich
 die religiösen Parteien inbegriffen. Auch die Ultramontanen, denn sie vertheidigen mit Unredlichkeit einen
 mythischen Ausdruck als sensu proprio wahr und wollen ihre äussere Macht festhalten).
 
@@ -896,22 +896,22 @@ Mitleid ein grosser Stimulator.
 Wenn unsere Aufgabe wäre, über das Leben möglichst hinwegzugleiten, da gäbe es Recepte, das Goethische
 zumal.
 
-Es ist schön die Dinge zu betrachten, aber schrecklich sie zu sein.
+Es ist schön die Dinge zu **betrachten**, aber schrecklich sie zu **sein**.
 
-Das freiwillige Leiden der Wahrhaftigkeit, 
-die persönlichen Verletzungen
+**Das freiwillige Leiden der Wahrhaftigkeit,**
+**die persönlichen Verletzungen**
 
 *Erratum:*die persönlichen Verletzungen  
-*lies:*die persönlichen Verletzungen  
+*lies:***die persönlichen Verletzungen**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- auf uns nehmen.
+**auf uns nehmen.**
 
 Das Leiden ist der Sinn des Daseins.
 
 Die vielen Flausen, in die wir eingehüllt sind, insofern die Dunkelheit über unser eigenes Wesen, täuschen
-uns auch über den Sinn des Lebens: derselbe Muth, der dazu gehört sich selbst zu kennen, lehrt
-auch das Dasein ohne Flausen anzusehn: und umgekehrt.
+uns auch über den Sinn des Lebens: **derselbe Muth, der dazu gehört sich selbst zu kennen, lehrt
+auch das Dasein ohne Flausen anzusehn:** und umgekehrt.
 
 [32[68]](javascript:;)
 ----------------------
@@ -924,12 +924,12 @@ Das Religiöse nicht mehr rein, sondern versetzt möglich.
 
 Woher der Drang nach Erziehung, Kenntnissen usw.? Die Vortheile für den Kampf des Daseins?
 
-Unsterblichkeit des Genius, des Dranges nach dem Genius.
+**Unsterblichkeit** des Genius, des Dranges nach dem Genius.
 
 [32[69]](javascript:;)
 ----------------------
 
-Bach<’s> und Händel’s Sinn ist Deutsch.
+Bach&amp;lt;’s&amp;gt; und Händel’s Sinn ist Deutsch.
 
 [32[70]](javascript:;)
 ----------------------
@@ -941,7 +941,7 @@ Sollten sie die Grossstaaterei aushalten können! dünkelhaft, innerlich hohl.
 [32[71]](javascript:;)
 ----------------------
 
-Deutsche Cultur.
+**Deutsche Cultur.**
 
   
 
@@ -954,7 +954,7 @@ schneckenhaft abzuschliessen.
 
 Das politische Übergewicht ohne das eigentlich menschliche Übergewicht ist die grösste Schädigung.
 
-Man muss suchen, das politische Übergewicht wieder gut zu machen. Sich zu schämen seiner
+Man muss suchen, das politische Übergewicht wieder gut zu machen. Sich zu **schämen** seiner
 Macht. Sie auf das Heilvollste zu benützen.
 
 Alle glauben, die Deutschen dürften ausruhen in ihrer moralischen und intellectuellen Überlegenheit.
@@ -965,13 +965,13 @@ sollen zu Grunde gehen zu Gunsten des Staates! Was ist denn ein Staat!
 
 Das Zeitalter der Gelehrten ist vorbei. An ihre Stelle müssen die Philalethen treten. Ungeheure Macht.
 
-Die einzige Art, die jetzige deutsche Macht richtig anzuwenden, ist die ungeheure Verpflichtung zu begreifen, die in ihr liegt. Eine Erschlaffung der Culturaufgaben machte
+Die einzige Art, die jetzige deutsche **Macht** richtig anzuwenden, ist die ungeheure **Verpflichtung** zu begreifen, die in ihr liegt. Eine Erschlaffung der Culturaufgaben machte
 diese Macht zu der grässlichsten Tyrannei.
 
 [32[72]](javascript:;)
 ----------------------
 
-Zeit.
+**Zeit.**
 
   
 
@@ -983,20 +983,20 @@ Zeit.
 
 — Gegen die Gedanken der Revolution.
 
-— Nicht auf Glück gerichtet: die „Wahrheit“, nicht im bequemen
+— Nicht auf **Glück** gerichtet: die „Wahrheit“, nicht im bequemen
 Ausruhen, sondern heroisch und hart.
 
-— Gegen die Überschätzung des Staates, des Nationalen. J<acob>
-B<urckhardt>.
+— Gegen die Überschätzung des Staates, des Nationalen. J&amp;lt;acob&amp;gt;
+B&amp;lt;urckhardt&amp;gt;.
 
-Der missverstandene Schopenhauer.
+Der **missverstandene** Schopenhauer.
 
 Liebelos oder nur kurz in seiner Liebe.
 
 [32[73]](javascript:;)
 ----------------------
 
-Erziehung des Philosophen.
+**Erziehung des Philosophen.**
 
   
 
@@ -1017,12 +1017,12 @@ schreiben.
 ----------------------
 
 Nehmen wir an, es sei gegenwärtig eine recht schwache Generation solcher Philosophen — aber eine bessere wird
-es nicht an der Universität aushalten.
+es **nicht an der Universität aushalten**.
 
 [32[75]](javascript:;)
 ----------------------
 
-Universitätsphilosophie
+**Universitätsphilosophie**
 
 |  |  |
 | --- | --- |
@@ -1042,27 +1042,27 @@ Ihre Jugend und Erziehung für ihren Beruf.
 [32[76]](javascript:;)
 ----------------------
 
-1) Es giebt gar nicht soviel als der Staat braucht — daher Verschlechterung, zu jung usw.
+1) Es giebt gar nicht soviel als der Staat braucht — daher **Verschlechterung**, zu **jung** usw.
 
-2) Diese sind an Institutionen der Gelehrsamkeit eingeordnet.
+2) Diese sind an Institutionen der **Gelehrsamkeit** eingeordnet.
 
-3) Diese sollen jeden Jüngling unterrichten, der will, und zu bestimmten Stunden, wohl gar in bestimmten Disciplinen.
+3) Diese sollen jeden Jüngling unterrichten, der **will**, und zu **bestimmten** Stunden, wohl gar in bestimmten Disciplinen.
 
 4) Diese sind durch die Theologie gehemmt.
 
 5) Ebenfalls durch den Staatszweck.
 
-6) Sie sollen gelehrt sein und die Geschichte (und Urtheil) einer Wissenschaft kennen.
+6) Sie sollen gelehrt sein und die **Geschichte** (und **Urtheil**) einer Wissenschaft kennen.
 
-7) Soll man überhaupt junge Menschen vor aller Erfahrung damit
+7) Soll man überhaupt **junge Menschen** vor aller Erfahrung damit
 einweihen (oder verderben)? examiniren?
 
 Griechische Jünglinge waren erfahrener.
 
-8) Dürfen
+8) **Dürfen**
 sie
 
-*Erratum:*sie  
+*Erratum:***sie**  
 *lies:*sie  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -1079,7 +1079,7 @@ Das
  sind so viele feindliche Bedingungen, dass das Geschlecht auch
 wirklich verkrüppelt ist.
 
-Daraus entsteht: Missachtung der Philosophie.
+Daraus entsteht: **Missachtung der Philosophie.**
 
 Diese merkend werden sie böse und suchen den wahren Philosophen um keinen Preis gelten zu lassen. Tückisch
 arbeiten sie in ihrer Ecke, Kameradschaft usw.
@@ -1094,15 +1094,15 @@ somit ist es eigentlich keine freie Vergünstigung von Seiten des Staates.
 [32[77]](javascript:;)
 ----------------------
 
-Zum Capitel IV.
+**Zum Capitel IV.**
 
-Unterschied vom Menschen Rousseaus. Er will nicht weltliches Glück, er erstrebt es auch
+**Unterschied vom Menschen Rousseaus.** Er will nicht weltliches Glück, er erstrebt es auch
 nicht für die Menschen.
 
-<Unterschied vom Menschen> Goethe’s. Er will sich nicht hinwegtäuschen
+&amp;lt;Unterschied vom Menschen&amp;gt; **Goethe’s**. Er will sich nicht hinwegtäuschen
 über das Leben; er will auch nicht für sich allein, in einem edlen Egoismus, leben.
 
-Widerspruch gegen die Zeit durch seine Wahrhaftigkeit
+**Widerspruch gegen die Zeit durch seine Wahrhaftigkeit**
 
 gegen die gute Natur
 
@@ -1118,25 +1118,25 @@ gegen das Historische
 
 gegen die Hast.
 
-Herstellung des metaphysischen Sinns
+Herstellung des **metaphysischen Sinns**
 
-*Erratum:*Metaphysischen Sinnes.  
-*lies:*metaphysischen Sinns  
+*Erratum:***Metaphysischen Sinnes.**  
+*lies:***metaphysischen Sinns**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 .
 
-Die verzerrten Bilder des Schopenhauerischen Menschen
+**Die verzerrten Bilder des Schopenhauerischen Menschen**
   
 nach der Seite des Mephistopheles hin, ohne Güte  
-nach der bequemen Seite Goethe’s zu, Reiz am neu und anders Erkannten, ohne Folge.
+nach der bequemen Seite Goethe’s zu, Reiz am **neu** und **anders** Erkannten, ohne Folge.
 
-Abwesenheit des Heroischen. Schluss.
+Abwesenheit des **Heroischen**. Schluss.
 
 [32[78]](javascript:;)
 ----------------------
 
-Worin bestehen die Leiden der Wahrhaftigkeit?
+Worin bestehen die **Leiden der Wahrhaftigkeit**?
 
 Man vernichtet sein Erdenglück.
 
@@ -1162,7 +1162,7 @@ Verächtlichen
 
   
 
-Die Gesinnung der Wahrhaftigkeit
+Die **Gesinnung der Wahrhaftigkeit**
 
 rein, unpersönlich
 
@@ -1183,9 +1183,9 @@ Religion nichts zu thun.
 [32[80]](javascript:;)
 ----------------------
 
-Capitel V. Deutsche Cultur.
+Capitel V. **Deutsche Cultur.**
 
-Jede grosse Macht enthält eine grosse Schuld.
+Jede grosse Macht enthält eine grosse **Schuld**.
 
 Deshalb grosse Verpflichtungen, grosse Ziele.
 
@@ -1199,7 +1199,7 @@ Cultur wissen.
 Das Suchen darnach sollte aufhören, weil sie die politische Macht haben? Gerade die Macht (ihrer Bosheit
 wegen) sollte sie stärker als je dorthin führen.
 
-Er muss seine Macht zu seinem hohen Culturziele anwenden.
+Er muss seine Macht zu seinem hohen Culturziele **anwenden**.
 
 Die Verweltlichung zu bekämpfen.
 
@@ -1249,3 +1249,5 @@ Frage, ob diese national ist?
 Was die Deutschen jetzt als nationale Kultur ersehnen: Eleganz.
 
 Dubois-Reymond.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

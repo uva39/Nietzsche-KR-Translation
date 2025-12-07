@@ -21,7 +21,7 @@ von
 
   
 
-„Homer’s Wettkampf“.
+**„Homer’s Wettkampf“**.
 
   
 
@@ -30,7 +30,7 @@ Angefangen den 21. Juli 1872.
 [20[2]](javascript:;)
 ---------------------
 
-Zum Epilog.
+**Zum Epilog.**
 
   
 
@@ -47,3 +47,5 @@ Jesus im Tempel.
 Tüchtiger Bürger prophezeit.
 
 Ich konnte mich nicht verstellen, nur verbergen. Ich schweige, andre spötteln etc.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

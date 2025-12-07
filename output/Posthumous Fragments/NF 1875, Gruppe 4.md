@@ -16,24 +16,24 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 [4[1]](javascript:;)
 --------------------
 
-Sorgen:
+**Sorgen:**
 
 Bücher anzuschaffen und einzutauschen.
 
-Historiker z.B. den ganzen Ranke.
+**Historiker** z.B. den ganzen Ranke.
 
-Geographen z.B. Peschel Atlas.
+**Geographen** z.B. Peschel Atlas.
 
-Biographen z.B. Cardanus.
+**Biographen** z.B. Cardanus.
 
-Kirchliche Autoren in Übersetzung.  
+**Kirchliche** Autoren in Übersetzung.  
 Bibel in neuer Übersetzung.
 
-Griechisch-römische Classiker z.B. Aristoteles.
+**Griechisch-römische Classiker** z.B. Aristoteles.
 
-Schopenhauer.
+**Schopenhauer.**
 
-Naturwissenschaftliche Bibliothek.
+**Naturwissenschaftliche** Bibliothek.
 
 [4[2]](javascript:;)
 --------------------
@@ -46,7 +46,7 @@ Dann: Vom Meer bis nach den Alpen, von L. Rütimeyer, Bern 1854. Dalpsche Buchha
 [4[3]](javascript:;)
 --------------------
 
-Bis Herbst 1876.
+**Bis Herbst 1876.**
 
 |  |
 | --- |
@@ -58,7 +58,7 @@ Bis Herbst 1876.
 [4[4]](javascript:;)
 --------------------
 
-Schwierigkeit der Genesis des Künstlers.
+**Schwierigkeit der Genesis des Künstlers.**
 
 1) Das Unnaive der Erziehung — beschränkter Begriff der Natur.
 
@@ -67,17 +67,17 @@ Cultur verstanden werden kann. Unruhe des Künstlers in Ämtern.
 
 3) Wie schützt er sich gegen Missverstehen? Wenn er schreibt, wer ist sein Publikum?
 
-4) Er nimmt das Spiel ernst (Cervantes die Ritterromane, W<agner> das Theater), das Pathos
+4) Er nimmt das Spiel ernst (Cervantes die Ritterromane, W&amp;lt;agner&amp;gt; das Theater), das Pathos
 scheint verschwendet, wenn es nicht gleichartigen Kräften als Weckruf und Symbol gilt.
 
 5) Er haftet mit mehr Lust am Dasein als andre Menschen.
 
-6) Ein jetziger Künstler muss Absichten haben.
+6) Ein jetziger Künstler muss **Absichten** haben.
 
 [4[5]](javascript:;)
 --------------------
 
-Schule der Erzieher.
+**Schule der Erzieher.**
 
 Wo ist
 
@@ -94,3 +94,5 @@ der Kenner der Kirchengeschichte
 der Kenner der Griechen
 
 der Kenner des Staates.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

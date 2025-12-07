@@ -19,7 +19,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 Wir sind leider gewöhnt die Künste in der Vereinzelung zu genießen, was sich in seiner Thorheit am grellsten
 an der Gemäldegallerie und am sogenannten Conzert offenbart. Bei dieser traurigen modernen Unart der absoluten
 Künste fehlt jede Organisation, die die Künste als Gesammtkunst pflegt und ausbildet. Die letzten
-Erscheinungen dieser Art sind vielleicht die großen italienischen trionfi gewesen, in der
+Erscheinungen dieser Art sind vielleicht die großen italienischen **trionfi** gewesen, in der
 Gegenwart hat das antike Musikdrama nur ein verblasstes Analogon in der Vereinigung der Künste im Ritus der
 catholischen Kirche.
 
@@ -107,7 +107,7 @@ Dankbarkeiten, alles dies sind Schlingen des allmächtigen Willens, in denen er 
 
 Der Sokratismus ist das ununterbrochene Opferfest der alten Tragödie.
 
-Die Vollendung auf allen ihren Stufen in der griechischen Poesie.
+Die **Vollendung auf allen ihren Stufen** in der griechischen Poesie.
 
 Das wahre Zeichen der Gesundheit ist der schöne Tod, die Euthanasie: und das ist das Charakteristikum der
 griechischen Künste und Dichtarten. Und der Tod des Musikdramas ist schrecklich: es hat keine edle
@@ -125,7 +125,7 @@ Der tragische Untergang besteht in der Entartung.
 [3[7]](javascript:;)
 --------------------
 
-Gegen die Gedanken- und Gefühlslauheit der vergleichenden Philologie, aber auch der
+Gegen die Gedanken- und Gefühlslauheit der **vergleichenden** Philologie, aber auch der
 klassischen Philologie.
 
 Das zu Grunde liegende System von Anschauungen und Urtheilen in der klassischen Philologie (z.B. in der
@@ -175,7 +175,7 @@ Der Kosmopolitismus ist ein Ideal, für die Meisten eine Illusion.
 
 Die vollkommene Erkenntniß tödtet das Handeln: ja wenn sie sich auf das Erkennen selbst bezieht, so tödtet
 sie sich selbst. Man kann kein Glied rühren, wenn man vollkommen erst erkennen will, was zur Rührung eines
-Gliedes gehört. Nun ist die vollkommene Erkenntniß unmöglich und deshalb ist auch das
+Gliedes gehört. Nun ist die vollkommene Erkenntniß **unmöglich** und deshalb ist auch das
 Handeln möglich. Die Erkenntniß ist eine Schraube ohne Ende: in jedem Moment, wo sie eingesetzt wird, beginnt
 eine Unendlichkeit: deshalb kann es nie zum Handeln kommen. — Dies gilt alles nur von der bewußten Erkenntniß.
 Ich sterbe, sobald ich die letzten Gründe eines Athemzuges nachweisen will, bevor ich ihn thue.
@@ -202,7 +202,7 @@ Kriege dürfen nicht sein, damit endlich einmal das immer wieder neu angefachte 
 [3[12]](javascript:;)
 ---------------------
 
-Das Spiel mit dem Rausche: Apollo als Sühngott.
+**Das Spiel mit dem Rausche:** Apollo als Sühngott.
 
   
 
@@ -219,7 +219,7 @@ Die Musik ist nicht die ganz orgiastische, aber sie ist rauschvoller als die apo
 Der Chor ist nicht das Volk, aber ein Symbol der Masse. (Jetzt kommt nur noch der Einzelne zum dionysischen
 Rausche.)
 
-Das Ganze ist eine Entladung dieser Triebe: daß sie vorhanden sind, ist
+Das Ganze ist eine **Entladung** dieser Triebe: daß sie vorhanden sind, ist
 Voraussetzung.
 
 [3[13]](javascript:;)
@@ -232,20 +232,20 @@ wirkt hier sehr mit, z.B. — — —
 ---------------------
 
 In der Harmonie ist der Wille in der Vielheit, die zur Einheit zusammengeschmolzen ist. Dabei ist der
-Charakter jedes Tones ein wenig diskrepant in den mitklingenden Obertönen: so ist der
-Charakter jedes Einzelwesens ein wenig dem Gesammtwesen diskrepant.
+Charakter jedes Tones **ein wenig** diskrepant in den mitklingenden Obertönen: so ist der
+Charakter jedes Einzelwesens ein **wenig** dem Gesammtwesen diskrepant.
 
 [3[15]](javascript:;)
 ---------------------
 
-Aus dem Schrei mit der begleitenden Geberde ist die Sprache entstanden: hier wird durch
+Aus dem Schrei mit der begleitenden Geberde ist die **Sprache** entstanden: hier wird durch
 den Tonfall, die Stärke, den Rhythmus das Wesen des Dinges, durch die Mundgeberde die begleitende Vorstellung
 ausgedrückt, das Bild des Wesens, die Erscheinung.
 
 Unendlich mangelhafte Symbolik, nach festen Naturgesetzen gewachsen: in der Wahl des Symbols zeigt sich keine
 Freiheit, sondern der Instinkt.
 
-Ein gemerktes Symbol ist nun
+Ein **gemerktes** Symbol ist nun
 
 *Erratum:*immer  
 *lies:*nun  
@@ -267,7 +267,7 @@ die Symbole
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  der Erscheinungen festhält: der Wille, das Wesen wird wieder
-voller und sinnlicher dargestellt. In der Erhebung des Affekts
+**voller** und **sinnlicher** dargestellt. In der Erhebung des Affekts
 offenbart sich das Wesen deutlicher, darum tritt auch das Symbol, der Ton mehr hervor. Der Sprechgesang ist
 gewissermaßen eine Rückkehr zur Natur, immer das Erzeugniß einer höheren Erregung.
 
@@ -275,7 +275,7 @@ Nun aber ein neues Element: die Wortfolge soll Symbol eines Vorgangs sein: die R
 Harmonie werden wieder in der Potenz nöthig.
 
 Allmählich beherrscht der höhere Kreis immer den kleineren, d.h. es wird eine Wahl der Worte, eine Stellung
-der Worte nöthig. Die Poesie beginnt, ganz in der Herrschaft der Musik.
+der Worte nöthig. Die **Poesie** beginnt, ganz in der Herrschaft der Musik.
 
 |  |  |
 | --- | --- |
@@ -293,7 +293,7 @@ Lyrik und Epos: Weg zum Gefühl und zum Bild.
 [3[17]](javascript:;)
 ---------------------
 
-Wenn jede Lust Befriedigung des Willens und Förderung desselben ist, was ist die Lust an
+Wenn jede **Lust** Befriedigung des Willens und Förderung desselben ist, was ist die Lust an
 der Farbe?
 
 was die Lust am Ton?
@@ -312,7 +312,7 @@ Hartmann: p. 200.
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  Gedanken übersetzt werden können, nur so weit
-sind sie mittheilbar, wenn man von der immerhin höchst dürftigen instinktiven
+sind sie **mittheilbar**, wenn man von der immerhin höchst dürftigen instinktiven
 Geberdensprache absieht: denn nur so weit die Gefühle in
 
 *Erratum:*und  
@@ -324,12 +324,12 @@ Geberdensprache absieht: denn nur so weit die Gefühle in
 
 Wirklich?
 
-Geberde und Ton!
+**Geberde und Ton!**
 
 Mitgetheilte Lust ist Kunst.
 
 Was bedeutet die Geberdensprache: es ist Sprache durch allgemein verständliche Symbole, Formen von
-Reflexbewegungen. Das Auge schließt sofort auf den Zustand, der die Geberde erzeugt.
+Reflexbewegungen. Das **Auge** schließt sofort auf den Zustand, der die Geberde erzeugt.
 
 So steht es mit den instinktiven Tönen. Das Ohr schließt sofort. Diese Töne sind Symbole.
 
@@ -350,7 +350,7 @@ Lust oder
 
  Unlust und sinnliche Wahrnehmung sind zu sondern.
 
-Die Lust immer eine,
+Die Lust immer **eine**,
 
 |  |  |
 | --- | --- |
@@ -363,7 +363,7 @@ Die Lust immer eine,
 
 Nachahmungsbewegungen: Abbilder.
 
-Miene und Geberde: Symbole prästabilirt, vor allem der Blick.
+**Miene** und Geberde: Symbole prästabilirt, vor allem der Blick.
 
 Verstärkung der Miene und Geberde durch den Ton.
 
@@ -377,40 +377,40 @@ Wie ist Lust bei Mitleiden möglich?
 
 Mitleben Voraussetzung aller Lust: auch der aesthetischen Augenlust.
 
-Rhythmik schon symbolisch wirksam.
+Rhythmik schon **symbolisch** wirksam.
 
 Symbol die Übertragung eines Dinges in eine ganz verschiedene Sphaere.
 
 In der Musik fortwährender Übereinkommungsprozeß über die neue Symbolik: immerfort wird
-dieser wieder unbewußt.
+dieser wieder **unbewußt**.
 
 [3[21]](javascript:;)
 ---------------------
 
 In der dionysischen Musik und Lyrik will sich der Mensch als Gattungswesen aussprechen. Daß er aufhört
-individueller Mensch zu sein, symbolisch dargestellt durch die Satyrnschwärme; er wird
+individueller Mensch zu sein, **symbolisch** dargestellt durch die Satyrnschwärme; er wird
 Naturmensch unter Naturmenschen. Er redet jetzt durch die Mimik (Symbolik) und ahmt das allgemein Menschliche
 nach. Die deutlichste Sprache des Genius der Gattung ist der Ton als Lock- und Weh-Stimme: dies ist das
-wichtigste Mittel, das Individuelle loszuwerden.
+wichtigste **Mittel**, das Individuelle loszuwerden.
 
 [3[22]](javascript:;)
 ---------------------
 
-Die Geburt der Tragoedie.
+**Die Geburt der Tragoedie.**
 
-Die Philosophen des tragischen Zeitalters.
+**Die Philosophen des tragischen Zeitalters.**
 
-Über die Zukunft unserer Bildungsanstalten.
+**Über die Zukunft unserer Bildungsanstalten.**
 
 [3[23]](javascript:;)
 ---------------------
 
 |  |  |
 | --- | --- |
-| Die eine Seite der Welt ist rein mathematisch,  die andre ist nur Wille, Lust und Unlust.  Erkenntniß von absolutem Werthe rein in Zahl und Raum,  die andre ist ein Anerkennen von Trieben und deren Abschätzen.  Hier nur Ursache und Folge, absolute Logik,  dort nur Zweckursachen. | |
-| Gleichniß an der Musik: | auf der einen Seite reine Zahl |
-|  | auf der andern reiner Wille. |
-| Strenge Scheidung beider Welten. | |
+| Die eine Seite der Welt ist rein **mathematisch**,  die andre ist nur Wille, Lust und Unlust.  Erkenntniß von absolutem Werthe rein in Zahl und Raum,  die andre ist ein Anerkennen von Trieben und deren Abschätzen.  Hier nur **Ursache und Folge**, absolute Logik,  dort nur **Zweckursachen**. | |
+| Gleichniß an der Musik: | auf der einen Seite reine **Zahl** |
+|  | auf der andern reiner **Wille**. |
+| **Strenge Scheidung beider Welten.** | |
 
 [3[24]](javascript:;)
 ---------------------
@@ -422,7 +422,7 @@ die Kunst erfaßt.
 ---------------------
 
 In der Weltanschauung des Sophokles kam Apollo sowohl als Dionysus wieder zum Siege: sie versöhnten sich.
-Eine ungeheure Kluft war aufgethan zwischen der Welt der Schönheit (<des> Erhabenen) — die zur
+Eine ungeheure Kluft war aufgethan zwischen der Welt der Schönheit (&amp;lt;des&amp;gt; Erhabenen) — die zur
 tiefsten Weisheit gesteigert war — und der Welt der Erhobenen, der Menschen. Die Wahrheit, deren
 erschreckliches Bild Dionysus in die Welt gebracht hatte, war, als göttliche Weisheit, wieder unerkennbar
 geworden: der Schein jener Götterwelt war nicht mehr der schöne Schein, sie erschien ungerecht, entsetzlich
@@ -431,13 +431,13 @@ usw. Der Mensch glaubte an die Wahrheit der Götter; die Schönheit wurde wieder
 [3[26]](javascript:;)
 ---------------------
 
-Zu den
+**Zu den**
 
 *Erratum:*Zu den  
-*lies:*Zu den  
+*lies:***Zu den**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-Choephoren.
+**Choephoren**.
 
 [3[27]](javascript:;)
 ---------------------
@@ -459,18 +459,18 @@ Mit Erkenntniß und Wollen zusammen.
 [3[29]](javascript:;)
 ---------------------
 
-Die Schopenhauersche Hypothese:
+Die **Schopenhauersche** Hypothese:
 
-die Welt des Willens ist mit jener Welt der Zahl identisch: die Welt der Zahl ist die Erscheinungsform des Willens.
+die Welt des **Willens** ist mit jener Welt der **Zahl** identisch: die Welt der Zahl ist die Erscheinungsform des Willens.
 
 Vorstellungswelt des Ureinen — ohne eigentliche Realität,
 
-alle jene Zahlenwelt ohne eigentliche Realität.
+alle jene **Zahlenwelt** ohne eigentliche Realität.
 
 Der Wille aber — — —
 
-Unser Intellekt entspricht den Dingen d.h. er ist entstanden und
-immer den Dingen analoger geworden. Er ist aus gleichem Stoffe, wie
+Unser **Intellekt entspricht den Dingen** d.h. er ist entstanden und
+immer **den Dingen analoger geworden**. **Er ist aus gleichem Stoffe**, wie
 die Dinge, Logik usw.; er ist ein Diener des Willens unbedingt. Er gehört mit ins Reich der Zahl.
 
 [3[30]](javascript:;)
@@ -500,7 +500,7 @@ Das Verkehrte in grotesken Formen.
 [3[32]](javascript:;)
 ---------------------
 
-Die Tragödie ist die Naturheilkraft gegen das Dionysische. Es soll sich leben lassen:
+Die Tragödie ist die Naturheilkraft gegen das Dionysische. Es soll sich **leben** lassen:
 also ist der reine Dionysismus unmöglich. Denn Pessimismus
 
 *Erratum:*Pessismismus  
@@ -514,25 +514,25 @@ ist.
 [3[33]](javascript:;)
 ---------------------
 
-Welches war die Absicht des Willens? der doch zuletzt einer ist. Der tragische Gedanke,
+Welches war die Absicht des Willens? der doch zuletzt **einer** ist. Der tragische Gedanke,
 Rettung vor der Wahrheit durch die Schönheit, unbedingte Unterwerfung unter die Olympischen aus
 entsetzlichster Erkenntniß, wurde jetzt in die Welt gebracht. Damit gewann der Wille wieder eine neue
-Möglichkeit zu sein: das bewußte Wollen des Lebens im Individuum, nach dem tragischen
+Möglichkeit zu sein: das **bewußte** Wollen des Lebens im Individuum, nach dem tragischen
 Gedanken natürlich nicht direkt, sondern durch die Kunst.
 
 Darum kommt jetzt eine neue Kunst, die Tragödie.
 
 Die Lyrik bis zu Dionysus und der Weg zur apollinischen Musik.
 
-Verzauberung: das Leiden tönt, im Gegensatz zum Handeln des Epos:
+Verzauberung: das **Leiden** tönt, im Gegensatz zum **Handeln** des Epos:
 das „Bild“ der apollinischen Kultur wird durch Verzauberung vom Menschen dargestellt.
 
 Es giebt keine Bilder mehr, sondern Verwandlungen. Alles Übermäßige soll sich austönen.
 
-Der Mensch soll vor der Wahrheit schaudern: eine Heilung des Menschen soll erzielt
+Der Mensch soll vor der Wahrheit schaudern: eine **Heilung** des Menschen soll erzielt
 werden: Ruhigwerden durch Austobenlassen, Sehnsucht nach dem Scheine durch schreckliche Erschütterungen.
 
-Die olympische Götterwelt ändert sich zur ethischen Weltordnung. Der arme Mensch wirft
+Die olympische Götterwelt ändert sich zur **ethischen** Weltordnung. Der arme Mensch wirft
 sich vor ihr nieder.
 
 [3[34]](javascript:;)
@@ -574,11 +574,11 @@ Wie sich die Einzeldinge zum Willen verhalten, so die schönen Dinge zum Einzeld
 
 Der Ton stammt aus der Nacht:
 
-Die Welt des Scheins hält die Individuation fest.
+Die Welt des **Scheins** hält die Individuation fest.
 
 Die Welt des Tons knüpft aneinander: sie muß dem Willen verwandter sein.
 
-Der Ton: ist die Sprache des Genius der Gattung.
+Der Ton: ist die **Sprache des Genius der Gattung**.
 
 Der Ton als Lockstimme ins Dasein. Erkennungszeichen, Symbol des Wesens.
 
@@ -624,7 +624,7 @@ Das Schwelgen des Gemüths war niemals Ziel der apollinischen Musik, vielmehr di
 
 Dagegen die orgiastische Wirkung der Musik.
 
-In dem Charakter der versch<iedenen> Tonleiter zeigt sich instinktiv die
+In dem Charakter der versch&amp;lt;iedenen&amp;gt; **Tonleiter** zeigt sich instinktiv die
 HARMONIE.
 
 [3[41]](javascript:;)
@@ -663,7 +663,7 @@ Wunderbarer Idealismus der Griechen in der Verehrung des Narcotismus.
 [3[44]](javascript:;)
 ---------------------
 
-Das Sklaventhum der Barbaren (d.h. von uns).
+Das Sklaventhum der **Barbaren** (d.h. von uns).
 
 Arbeitstheilung ist Princip des Barbarenthums, Herrschaft des Mechanismus. Im Organismus giebt es keine
 trennbaren Theile.
@@ -671,7 +671,7 @@ trennbaren Theile.
 Individualismus der Neuzeit und der Gegensatz im Alterthum. Der ganz vereinzelte Mensch
 ist
 
-*Erratum:*<ist>  
+*Erratum:*&amp;lt;ist&amp;gt;  
 *lies:*ist  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -685,13 +685,13 @@ Naivetät der Alten in der Unterscheidung von Sklaven und Freien: wir sind prüd
 unser Charakter.
 
 Die Athener wurden fertig, weil sie allseitig beansprucht wurden, die Grenze der Bedürfnisse war nicht so
-eng. Aber alle diese Bedürfnisse waren allgemeine.
+eng. Aber alle diese Bedürfnisse waren **allgemeine**.
 
 [3[45]](javascript:;)
 ---------------------
 
 Die griechische Welt eine Blüthe des Willens. Wo kamen die auflösenden Elemente her? Aus der Blüthe selbst.
-Der ungeheure Schönheitssinn, der die Idee der Wahrheit in sich aufsaugte, ließ sie allmählich frei. Die tragische Weltansicht ist der Grenzpunkt: Schönheit und Wahrheit halten sich die Waage.
+Der ungeheure Schönheitssinn, der die Idee der Wahrheit in sich aufsaugte, ließ sie allmählich frei. Die **tragische** Weltansicht ist der Grenzpunkt: Schönheit und Wahrheit halten sich die Waage.
 Zunächst ist die Tragödie ein Sieg der Schönheit über die Erkenntniß: die Schauer einer sich nahenden
 jenseitigen Welt werden künstlerisch erzeugt und damit ihr auflösendes Übermaß vermieden. Die Tragödie ist das
 Ventil der mystisch-pessimistischen Erkenntniß, dirigirt vom Willen.
@@ -723,7 +723,7 @@ Repräsentanten.
 [3[50]](javascript:;)
 ---------------------
 
-Entstehung der Lesepoesie, durch Plato fixiert (durch den ἄνθρωπος θεωρητικός).
+Entstehung der **Lesepoesie**, durch Plato fixiert (durch den ἄνθρωπος θεωρητικός).
 
 [3[51]](javascript:;)
 ---------------------
@@ -741,7 +741,7 @@ Scheinbaren, nicht Wesentlichen. Das „Wirkliche“ ist nur eine ἰδέα.
 
 — Das „Dämonische“ Goethes! Es ist das „Wirkliche“, „der Wille“, ἀνάγκη.
 
-Der absterbende Wille (der sterbende Gott) zerbröckelt in die Individualitäten. Sein
+Der absterbende Wille (der **sterbende Gott**) zerbröckelt in die Individualitäten. Sein
 Bestreben ist immer die verlorene Einheit, sein τέλος immer weiteres
 Zerfallen. Jede errungene Einheit sein Triumph, vornehmlich die Kunst, die Religion.
 
@@ -760,7 +760,7 @@ ihm ist die Kunst verbannt. Diese will ihn jetzt bezwingen.
 
 §. Ursprung und Verhältniß zur Lyrik und Musik.
 
-§. Verfall und Übergang zum romantischen Drama.
+§. Verfall und Übergang zum **romantischen** Drama.
 
 §. Einheit.
 
@@ -781,7 +781,7 @@ ihm ist die Kunst verbannt. Diese will ihn jetzt bezwingen.
 [3[54]](javascript:;)
 ---------------------
 
-Die Schönheit ist ganz und gar im Gebiet der Musik
+Die **Schönheit** ist ganz und gar im Gebiet der **Musik**
 unbetheiligt.
 
 Rhythmik und Harmonie sind die Haupttheile, die Melodie ist nur eine Abbreviatur der Harmonie.
@@ -848,10 +848,10 @@ der Trieb der Wissenschaften: es würde Quietism
 Kunst.
 
 Deutschland als eigentlicher Orakelsitz der Kunst. — Ziel: eine staatliche Kunstorganisation — Kunst als
-Erziehungsmittel — Beseitigung der spezifisch wissenschaftlichen Ausbildungen.
+Erziehungsmittel — Beseitigung der **spezifisch** wissenschaftlichen Ausbildungen.
 
 Die Auflösung der noch lebenden religiösen Empfindungen in’s Bereich der Kunst — dies das praktische Ziel.
-Bewußte Vernichtung des Kriticismus der Kunst durch vermehrte Weihe der Kunst.
+Bewußte Vernichtung des Kriticismus der Kunst durch vermehrte **Weihe** der Kunst.
 
 Dies als Trieb des deutschen Idealism
 
@@ -865,7 +865,7 @@ dem Überherrschen des ἄνθρωπος θεωρητικός.
 [3[61]](javascript:;)
 ---------------------
 
-Feste setzen Triebe voraus: später versteinern
+**Feste** setzen Triebe voraus: später versteinern
 
 *Erratum:*verstimmen  
 *lies:*versteinern  
@@ -879,23 +879,23 @@ Frühlingsfeste als Freiheits- und Gleichheitsfeste, Wiedervereinigung mit der N
 [3[62]](javascript:;)
 ---------------------
 
-Der Hellene ist weder Optimist noch Pessimist. Er ist wesentlich Mann, der das
-Schreckliche wirklich schaut und es sich nicht verhehlt. Eine Theodicee war kein hellenisches Problem, weil das Erschaffen der Welt nicht die That der Götter war. Die
+Der Hellene ist weder Optimist noch Pessimist. Er ist wesentlich **Mann**, der das
+Schreckliche wirklich schaut und es sich nicht verhehlt. Eine **Theodicee** war **kein** hellenisches Problem, weil das Erschaffen der Welt nicht die That der Götter war. Die
 große Weisheit des Hellenismus, die auch die Götter mit als der ἀνάγκη
 unterwürfig verstand. Die griechische Götterwelt ist ein wehender Schleier, der das Furchtbarste
 verhüllte.
 
-Es sind die Künstler des Lebens; sie haben ihre Götter, um leben zu können, nicht um
+Es sind die Künstler des **Lebens**; sie haben ihre Götter, um leben zu können, nicht um
 sich dem Leben zu entfremden.
 
-Wichtig der Idealismus der Lebenden zum Leben.
+Wichtig der **Idealismus der Lebenden zum Leben**.
 
 Ein Kreuz mit Rosen umhüllt, wie Goethe in den Geheimnissen.
 
 [3[63]](javascript:;)
 ---------------------
 
-Wie die griechische Kunst das Weib idealisirt hat.
+Wie die griechische Kunst das **Weib** idealisirt hat.
 
 [3[64]](javascript:;)
 ---------------------
@@ -925,7 +925,7 @@ Wo war die Tragödie vor ihrer Geburt? — Z.B. in der Oedipus-, Achilles- usw. 
 [3[66]](javascript:;)
 ---------------------
 
-Gegen Aristoteles, der die ὄψις und das μέλος nur unter die ἡδύσματα der Tragödie
+**Gegen Aristoteles**, der die ὄψις und das μέλος nur unter die ἡδύσματα der Tragödie
 rechnet: und ganz bereits das Lesedrama sanktionirt.
 
 [3[67]](javascript:;)
@@ -953,7 +953,7 @@ durch erklärende Erzählungen unterbrochen, um Vorgeschichte und Ursachen der o
 thun. Daher δρᾶμα ὑποκρίνεσθαι vom Schauspieler. Aristoteles, Rhet. III 1,
 3.
 
-Curtius faßt es als ἀγωνιστής und zwar nach dem Chore.
+Curtius faßt es als ἀγωνιστής und zwar **nach** dem Chore.
 Rh. Mus. 22,515.
 
 [3[69]](javascript:;)
@@ -993,11 +993,11 @@ Die Erkenntnißlehre auf ihrem Höhepunkt bei den Eleaten.
 [3[73]](javascript:;)
 ---------------------
 
-SOCRATES UND DER INSTINCT.
+**SOCRATES UND DER INSTINCT.**
 
   
 
-I. Zur Ethik.
+**I. Zur Ethik.**
 
   
 
@@ -1012,7 +1012,7 @@ Der Stoicismus als Souveränität des Bewußtseins. Das Sprüchwort.
 
   
 
-II. Zur Aesthetik.
+**II. Zur Aesthetik.**
 
   
 
@@ -1034,7 +1034,7 @@ Ekstatische Künstlerschaft der Griechen.
 
   
 
-III. Religion und Mythologie.
+**III. Religion und Mythologie.**
 
   
 
@@ -1046,7 +1046,7 @@ principium individuationis als Schwächezustand des Willens.
 
   
 
-IV. Staatslehre, Gesetze, Volksbildung.
+**IV. Staatslehre, Gesetze, Volksbildung.**
 
   
 
@@ -1067,7 +1067,7 @@ Polemische Seite: gegen das Neu-Griechenthum (der Renaissance, Goethe, Hegel usw
 [3[75]](javascript:;)
 ---------------------
 
-Der platonische Dialog als Vater der Lesepoesie: Leseepos, Lesedrama, — — —
+Der platonische Dialog als Vater der **Lesepoesie**: Leseepos, Lesedrama, — — —
 
 [3[76]](javascript:;)
 ---------------------
@@ -1082,12 +1082,12 @@ Flachheit im Bunde, ja nothwendig! Skandaleuse Theorie! Judaea!
 ---------------------
 
 Die griechische Religion höher und tiefer als alle spätern; ihr Band mit der Kunst. Ihr Höhepunkt Sophocles:
-ihr Ziel Daseinsseligkeit bei pessimistischen Denkern. Die tragische Weltansicht nur einmal, z.B. bei Sophocles (dem pessimistischen εὔκολος).
+ihr Ziel Daseinsseligkeit bei pessimistischen Denkern. Die tragische Weltansicht nur **einmal**, z.B. bei Sophocles (dem pessimistischen εὔκολος).
 
 [3[78]](javascript:;)
 ---------------------
 
-Der Werth der Religionen von ihrem Ziel aus zu beurtheilen: ihr τέλος im unbewußten Willen.
+Der Werth der Religionen von ihrem **Ziel** aus zu beurtheilen: ihr τέλος im unbewußten Willen.
 
 [3[79]](javascript:;)
 ---------------------
@@ -1126,24 +1126,24 @@ Dionysus ist Hades nach Heraclit.
 
 Kuretenkult des Zeus ursprünglich.
 
-Ζόννυξος ist „der todte Zeus“ oder
+Ζόννυξος ist **„der todte Zeus“** oder
 der „tödtende Zeus“ — Zeusjäger = Ζαγρεύς und ὡμηστής.
 
 [3[83]](javascript:;)
 ---------------------
 
 Die Wirkungen der Etymologie im Volke als Ansatz zur Sagenbildung: „Mythus mit etymologischem Keim“ zu
-sammeln. Das ist aber nichts Vereinzeltes. Sondern in der Sprache scheint fortwährend die
-Bedeutung der Worte durch solche Etymologien
+sammeln. Das ist aber nichts Vereinzeltes. Sondern in der **Sprache scheint** fortwährend die
+**Bedeutung** der **Worte** durch **solche Etymologien**
 sich zu verschieben. „Die Bedeutungsentwicklung unter Einfluß falscher und richtiger Etymologie.“
 
-Besonders in der Syntax. Ich denke daß der Casus der Ursprung aller syntaktischen
-Verbindung ist: auch für das Verbum das eigentl<ich> Weiterzeugende.
+Besonders in der Syntax. Ich denke daß der **Casus** der Ursprung aller syntaktischen
+Verbindung ist: auch für das Verbum das eigentl&amp;lt;ich&amp;gt; Weiterzeugende.
 
 [3[84]](javascript:;)
 ---------------------
 
-Die vorplatonischen Philosophen.
+**Die vorplatonischen Philosophen.**
 
   
 
@@ -1165,7 +1165,7 @@ Die vorplatonischen Philosophen.
 [3[85]](javascript:;)
 ---------------------
 
-Zur Bildung. Die platonische Vorstellung.
+Zur **Bildung**. Die platonische Vorstellung.
 
 Das Zeugen — der Ruhm — die Bildung.
 
@@ -1173,7 +1173,7 @@ Fortpflanzung des Namens damit verknüpft.
 
 Der Drang nach Fortpflanzung, der umso heftiger wird, je reicher der Fortpflanzungsstoff sich entwickelt.
 
-Darum zeigt sich, wer Fortzeugungsdrang in sich fühlt, so beeifert um das Schöne, weil
+Darum zeigt sich, wer Fortzeugungsdrang in sich fühlt, so beeifert um das **Schöne**, weil
 es ihn, wenn es in seinen
 
 *Erratum:*seinem  
@@ -1274,7 +1274,7 @@ zum Siege kommen.
 [3[92]](javascript:;)
 ---------------------
 
-Die meisten „brennenden Fragen“ der klassischen Philologie sind leidlich unbedeutend
+Die meisten „brennenden Fragen“ der klassischen Philologie sind leidlich **unbedeutend**
 gegenüber den centralen, die freilich nur wenige sehen. Wie gleichgültig, in welcher Reihenfolge die
 platonischen Dialoge geschrieben sind! Wie resultatlos die Echtheitsfrage bei Aristoteles! Auch die metrische
 Feststellung eines carmen ist etwas Geringes.
@@ -1313,14 +1313,16 @@ Aristoteles und Plato wollen aber Praktiker sein.
 [3[95]](javascript:;)
 ---------------------
 
-Man kommt nicht über den Willen hinweg: die Moral, die Kunst stehen nur in seinem
+Man kommt nicht über den Willen hinweg: die Moral, die Kunst stehen nur in **seinem**
 Dienste und arbeiten nur für ihn. Vielleicht ist die Illusion, daß es gegen ihn geschehe, nothwendig.
 
 Der Pessimismus ist unpraktisch und ohne die Möglichkeit der Konsequenz! Das Nichtsein kann nicht Ziel
 sein.
 
-Der Pessimismus ist nur im Reiche des Begriffs möglich. Es ist nur erträglich zu
+Der Pessimismus ist nur im Reiche des **Begriffs** möglich. Es ist nur erträglich zu
 existieren mit dem Glauben an die Nothwendigkeit des Weltprozesses. Dies ist die große Illusion: der Wille
 hält uns am Dasein fest und wendet jede Überzeugung hin zu einer Ansicht, die das Dasein ermöglicht. Dies ist
 der Grund, weshalb der Glaube an eine Vorsehung so unvertilgbar ist, weil er über das Übel hinweghilft.
 Ebendaher der Unsterblichkeitsglaube.
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]

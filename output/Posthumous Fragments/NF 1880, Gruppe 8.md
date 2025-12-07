@@ -18,7 +18,7 @@ Digitale Kritische Gesamtausgabe (eKGWB)
 
 Religion der Tapferkeit
 
-*Erratum:*Religion der Tapferkeit  
+*Erratum:***Religion der Tapferkeit**  
 *lies:*Religion der Tapferkeit  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -35,11 +35,11 @@ Religion der Tapferkeit
 
 |  |  |
 | --- | --- |
-| 1) | das verschiedene Wachsthum der Triebe unter dem Klima der verschiedenen moralischen Grundurtheile |
+| 1) | das verschiedene **Wachsthum** der Triebe unter dem Klima der verschiedenen moralischen Grundurtheile |
 | 2) | Gründe der Verschiedenheit des moralischen Urtheils |
 | 3) | Irrthümlichkeit und Wahn aller moralischen Urtheile |
 | 4) | Kann die Wissenschaft Ziele geben? Nein |
-| 5) | Die individuelle Moral: unsere Triebe nach unserem Ideal formirt und mit Hülfe der Wissenschaft. (Als Künstler unser Ideal schaffen. |
+| 5) | Die individuelle Moral: unsere Triebe nach **unserem** Ideal formirt und mit Hülfe der Wissenschaft. (Als Künstler unser Ideal **schaffen**. |
 | 6) | die günstigen politischen und socialen Verhältnisse für diese Einsiedler! |
 
 [8[3]](javascript:;)
@@ -72,7 +72,7 @@ Weisheit „Klugheit“
 [8[4]](javascript:;)
 --------------------
 
-Wachsthum gegen das verwerfende Urtheil kann geleitet sein:
+Wachsthum **gegen** das verwerfende Urtheil kann geleitet sein:
 
 |  |  |
 | --- | --- |
@@ -84,7 +84,7 @@ darnach verschieden: es ist Sache des Temperaments
 [8[5]](javascript:;)
 --------------------
 
-Aufzählung der moralischen Vorurtheile.
+**Aufzählung** der moralischen **Vorurtheile**.
 
 [8[6]](javascript:;)
 --------------------
@@ -95,16 +95,16 @@ Aber es sind die jüdischen.
 [8[7]](javascript:;)
 --------------------
 
-NB wenn die jetzige Moralität sich fortentwickelt, geht die Menschheit daran zu Grunde.
-Aber das Gegentheil ist die Behauptung, ja der Anlaß, sie weiter zu entwickeln. Hier
+NB wenn die jetzige Moralität sich fortentwickelt, **geht die Menschheit daran zu Grunde**.
+Aber das Gegentheil ist die Behauptung, ja der **Anlaß**, sie weiter zu entwickeln. Hier
 stelle ich das große Fragezeichen hin! Ist die Civilisation der Weg zum Glück, zur höchsten Leidenschaft und
 Fruchtbarkeit?
 
 [8[8]](javascript:;)
 --------------------
 
-Wir bedürfen einer heroischen Erkenntniß! um die große praktische Frage vorzubereiten:
-ob noch mehr Gleichheit zu pflanzen!
+Wir bedürfen einer heroischen Erkenntniß! um die große **praktische** Frage vorzubereiten:
+ob noch **mehr** Gleichheit zu pflanzen!
 
 [8[9]](javascript:;)
 --------------------
@@ -115,15 +115,15 @@ Januarius: ich meine dann immer noch in einem halb wahnsinnigen Zeitalter zu leb
 [8[10]](javascript:;)
 ---------------------
 
-Aus Mitleid mit den Anderen uns religiös stellen? Pfui! Wir müssen sie zu unserer Tapferkeit
-erheben! Und dies ist möglich! Sei es selbst durch den Fatalism!
+Aus Mitleid mit den Anderen uns religiös stellen? Pfui! Wir müssen sie zu unserer **Tapferkeit
+erheben**! Und dies ist möglich! Sei es selbst durch den Fatalism!
 
 [8[11]](javascript:;)
 ---------------------
 
-Allmählich wächst die Einsicht und man läßt die Hand davon, die menschliche Cultur zu
-fördern und zu regieren: man müßte zu viel Böses
-thun!
+Allmählich wächst die Einsicht und man **läßt die Hand davon**, die menschliche Cultur zu
+fördern und zu regieren: **man müßte zu viel Böses
+thun**!
 
 *Erratum:*.  
 *lies:*!  
@@ -134,7 +134,7 @@ thun!
 [8[12]](javascript:;)
 ---------------------
 
-Das Glück wird auf entgegengesetzten Wegen erreicht, daher läßt sich keine Ethik
+Das Glück wird auf entgegengesetzten Wegen erreicht, **daher** läßt sich keine Ethik
 bestimmen (gegen Spencer)
 
 [8[13]](javascript:;)
@@ -146,14 +146,14 @@ sind, haben gar nichts mit dem Ursprunge, den Entstehungsgründen derselben zu t
 [8[14]](javascript:;)
 ---------------------
 
-der Klassicism und die Förderung
+der **Klassicism** und die Förderung
 
 *Erratum:*Forderung  
 *lies:*Förderung  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  der Gleichheit, die
-Lust der Unterwerfung unter eine absolute Norm: zur Zeit des Augustus: Rückkehr zu den
+Lust der Unterwerfung unter eine **absolute** Norm: zur Zeit des Augustus: Rückkehr zu den
 griechischen alten Mustern. (Moralischer Klassicism: Rückkehr zu Socrates und
 Stoa.
 
@@ -161,7 +161,7 @@ Stoa.
 *lies:*.  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- Christus als absolute Norm. Der Hof. Alles auf
+ Christus als **absolute** Norm. Der Hof. Alles auf
 die Ewigkeit gebaut. Vergil — Homer. Alle gleich unter Einem Herrn. Das neue ridiculum: „anders als Alle
 sein!“ Letzter Grund: die Individuen haben sich ausgetobt und der Hochmuth wendet sich gegen sich innerlich.
 (Pascal) (auch Goethe)
@@ -174,12 +174,12 @@ Ich bin glücklich, keine moralische Erziehung gehabt zu haben (außer der durch
 [8[16]](javascript:;)
 ---------------------
 
-Keine Erziehung, wirkliche Bedürfnisse erhalten Energie. Was soll aus der civilisirten Welt werden! Sand und Schleim!
+Keine Erziehung, wirkliche Bedürfnisse erhalten Energie. Was soll aus der civilisirten Welt werden! **Sand** und **Schleim**!
 
 [8[17]](javascript:;)
 ---------------------
 
-„alle großen Interessen mit Ironie behandeln“ weil man keine Zeit hat, sie tief zu nehmen — jetzt europäisch
+„alle großen Interessen mit Ironie behandeln“ weil man keine Zeit hat, sie tief zu nehmen — jetzt **europäisch**
 
 [8[18]](javascript:;)
 ---------------------
@@ -196,7 +196,7 @@ haben.
 [8[20]](javascript:;)
 ---------------------
 
-Wir gehen häßlichen schmerzhaften Scenen aus dem Wege, wir wollen nicht mitleiden. Das
+Wir gehen häßlichen schmerzhaften Scenen aus dem Wege, wir wollen nicht **mit**leiden. Das
 sind die feineren Naturen. Die gröbere geht allem nach, was aufregt und die Langeweile vertreibt; um jeden
 Zank, jede Prügelei sammelt sich ein Kreis. — Wo der Trieb zu helfen da ist, da wird das unangenehme Gefühl
 des Mitleidens überwunden: und weil dabei regelmäßig das angenehme Gefühl, seinen Trieb befriedigen zu können,
@@ -213,8 +213,8 @@ Aber Prometheus!
 [8[22]](javascript:;)
 ---------------------
 
-Manfred: niemandem das Recht geben ihn zu strafen, zu begnadigen,
-zu bemitleiden („es <ist> nicht so schwer zu sterben, alter Mann“).
+**Manfred**: niemandem das **Recht** geben ihn zu strafen, zu begnadigen,
+zu **bemitleiden** („es &amp;lt;ist&amp;gt; nicht so schwer zu sterben, alter Mann“).
 
 [8[23]](javascript:;)
 ---------------------
@@ -224,7 +224,7 @@ Schlau und fröhlich, wie eine Eidechse in der Sonne
 [8[24]](javascript:;)
 ---------------------
 
-Z<acharias> Werner und
+Z&amp;lt;acharias&amp;gt; Werner und
 
 *Erratum:*,  
 *lies:* und  
@@ -235,13 +235,13 @@ Z<acharias> Werner und
 [8[25]](javascript:;)
 ---------------------
 
-der Sitte folgen und endlich sich an sie gewöhnen — das heißt doch unredlich sein! NB
+der Sitte folgen und endlich sich an sie gewöhnen — das heißt doch **unredlich** sein! NB
 
 *Erratum:*NB,  
 *lies:*NB  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-feige sein! faul sein! Quelle der Moralität!!!
+**feige** sein! **faul** sein! Quelle der Moralität!!!
 
 [8[26]](javascript:;)
 ---------------------
@@ -260,7 +260,7 @@ gehoben:
 *lies:*:  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- sie hießen die Knabenliebe eben gut.
+ sie hießen die Knabenliebe eben **gut**.
 
 [8[27]](javascript:;)
 ---------------------
@@ -268,7 +268,7 @@ gehoben:
 Welche Gemeinheit! Gott will Liebe von den Menschen — und hat für die, welche sie versagen, die Hölle in
 Bereitschaft! Wie Tiberius und Nero! Ist es nicht achtbar, einem solchen Tyrannen sich zu weigern?
 
-Gott als der Gerechte und der Richter ist kein Gegenstand der Liebe! Es ist undelikat! Er hätte sich des Richtens begeben müssen! Christus
+Gott als der Gerechte und der Richter ist **kein** Gegenstand der **Liebe**! Es ist undelikat! Er hätte sich des Richtens begeben müssen! Christus
 empfand nicht fein genug! In diesen Dingen sind wir reifer! Wenn Gott der Gegenstand der Liebe sein wollte, so
 — — —
 
@@ -296,12 +296,12 @@ durch Beruf oder alltägliche Dinge: so machen sie sich mittelmäßig, sie bleib
 | 1) | sie verstehen nicht Muße zu haben |
 | 2) | sie nehmen ihre Erlebnisse nicht ernst, als wichtig genug des allgemeinen Nachdenkens |
 | 3) | sie lesen zu viel und sind eifrig servil gegen eine herrschende Partei oder Hof |
-| 4) | sie machen Musik, nicht um eine Passion zu ertragen und sich zu erleichtern, sondern um sich aufzuregen!!! Deshalb brauchen sie die leidenschaftlichste Musik. |
+| 4) | sie machen Musik, nicht um eine Passion zu ertragen und sich zu erleichtern, sondern um sich **aufzuregen**!!! Deshalb brauchen sie die leidenschaftlichste Musik. |
 
 [8[29]](javascript:;)
 ---------------------
 
-Die Deutschen möchten gar zu gern große Leidenschaften haben — nun, es thut nichts, wenn
+Die Deutschen **möchten** gar zu gern große Leidenschaften haben — nun, es thut nichts, wenn
 sie dieselben ohne Grimassen nicht darzustellen wissen, auf die Dauer werden sie sie haben! Dann werden sie
 auch erkennen, daß zwar Kraft das Erste ist, daß es aber Arten der Kraft giebt, welche ohne Grimassen
 sind.
@@ -310,13 +310,13 @@ sind.
 ---------------------
 
 Je weniger sie etwas durchdacht und sich selber zur Klarheit gebracht haben, um so unverschämter streichen
-sie die Farben des Gefühls auf, im Vertrauen, daß der Deutsche zuletzt immer an einen Gott glaubt, weil er jemanden unverständlich und erhaben sich gebärden sieht.
+sie die Farben des Gefühls auf, im Vertrauen, daß der Deutsche zuletzt immer an einen Gott **glaubt**, weil er jemanden unverständlich und erhaben sich gebärden sieht.
 
 [8[31]](javascript:;)
 ---------------------
 
 Pascal rieth, sich an das Christenthum zu gewöhnen, man werde spüren, daß die Leidenschaften schwinden. Dies
-heißt: seine Unredlichkeit sich bezahlt machen und sich ihrer freuen.
+heißt: seine **Unredlichkeit** sich bezahlt machen und sich ihrer freuen.
 
 [8[32]](javascript:;)
 ---------------------
@@ -330,7 +330,7 @@ Mitleiden predigen — das wäre etwas für Künstler an einen
  harten streng
 persönlichen, vom dunklen Ernst der Leidenschaft beherrschten Menschen
 
-*Erratum:*M<enschenthum>  
+*Erratum:*M&amp;lt;enschenthum&amp;gt;  
 *lies:*Menschen  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
@@ -340,10 +340,10 @@ wirkte die Musik in Neapel ehemals! — Aber auf diese allzubeweglichen Seelen! 
 [8[33]](javascript:;)
 ---------------------
 
-Mein früherer Stil: weite Perspektiven, viel Verhülltes, Geheimnißvolles Wunderbares.
+Mein früherer **Stil**: weite Perspektiven, viel Verhülltes, Geheimnißvolles Wunderbares.
 Die Thatsachen aufblitzend, wie scheinbare Erhellungen dieser Geheimnisse. Grundglaube: das Wesen nicht
-mittheilbar, eine gehobene ahnungsvolle Stimmung macht Offenbarungen. Die Nüchternheit
-schadet
+mittheilbar, eine gehobene ahnungsvolle Stimmung **macht** Offenbarungen. Die Nüchternheit
+**schadet**
 diesem Verständniß. Die contemplative Ruhe und die Erinnerung an Furchtbares und
 Sehnsüchtiges wechseln ab.
 
@@ -365,13 +365,13 @@ nur Schutzwehren
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  haben und Städte an den Vesuv gebaut: so ist die
-Fruchtbarkeit und der Genuß am größten!
+Fruchtbarkeit **und** der **Genuß** am größten!
 
 [8[35]](javascript:;)
 ---------------------
 
-Der Werth des Altruism ist nicht das Ergebniß der Wissenschaft; sondern die Menschen der
-Wissenschaft lassen sich durch den jetzt vorherrschenden Trieb verleiten, zu glauben, daß
+Der Werth des Altruism ist **nicht** das Ergebniß der Wissenschaft; sondern die Menschen der
+Wissenschaft lassen sich durch den **jetzt vorherrschenden Trieb** verleiten, zu glauben, daß
 die Wissenschaft den Wunsch ihres Triebes bestätige. (cf. Spencer)
 
 *Erratum:*bestätige! cf. Spencer  
@@ -383,8 +383,8 @@ die Wissenschaft den Wunsch ihres Triebes bestätige. (cf. Spencer)
 [8[36]](javascript:;)
 ---------------------
 
-Gesetzt die Wissenschaft kräftigt ihr Ansehen und herrscht: ihr sollt eine Schätzung der
-Lüge und der Fähigkeit zu erdichten erleben, wie noch nie! Ebenso wie das Christenthum vielleicht jetzt mehr gilt, als irgendwann! selbst bei seinen Gegnern!
+Gesetzt die Wissenschaft kräftigt ihr Ansehen und herrscht: ihr sollt eine **Schätzung** der
+Lüge und der Fähigkeit zu erdichten erleben, wie noch nie! Ebenso wie das Christenthum vielleicht jetzt **mehr gilt**, als irgendwann! selbst bei seinen Gegnern!
 
 [8[37]](javascript:;)
 ---------------------
@@ -410,13 +410,13 @@ Friede
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  zieht ganz andere Geschmäcke groß, anderes ist da angenehm und
-nützlich und folglich gelobt.
+nützlich und **folglich**gelobt.
 
 [8[40]](javascript:;)
 ---------------------
 
 Aber wenn wir unsere Leidenschaften wachsen lassen, so damit auch, wie wir wissen, die „Cristallisation“: ich
-meine, wir werden unredlich und begeben uns freiwillig in den Irrthum?
+meine, wir werden **unredlich** und begeben uns freiwillig in den Irrthum?
 
 [8[41]](javascript:;)
 ---------------------
@@ -427,22 +427,22 @@ Wenn wir nicht mehr moralisch loben und tadeln wollen, so werden die Triebe nich
 ---------------------
 
 immer melancholisch — aber ein Princip der Tapferkeit von Kindheit an macht, daß ich viele kleine Siege habe
-und in Folge dessen heiterer bin als es meiner M<elancholie> geziemt.
+und in Folge dessen heiterer bin als es meiner M&amp;lt;elancholie&amp;gt; geziemt.
 
 [8[43]](javascript:;)
 ---------------------
 
-Ich habe mein Ziel und meine Leidenschaft: ich will von der Kunst nichts als daß sie mir dasselbe verklärt zeige oder mich ergötze, ermuntere, zeitweilig abziehe. Das erste ist meine Art von Religion: ich sehe mein Ideal von anderen geliebt und verklärt und in die
-Wolken aufgetragen: ich bete mit ihnen!
+Ich habe mein Ziel und meine Leidenschaft: ich will von der Kunst nichts als daß sie mir dasselbe **verklärt** zeige oder mich ergötze, ermuntere, zeitweilig abziehe. Das **erste** ist meine Art von Religion: ich sehe mein Ideal von anderen geliebt und verklärt und in die
+Wolken aufgetragen: ich bete **mit** ihnen!
 
-Nicht soll die Kunst mich mir selber entführen, nicht mich vor dem
+**Nicht** soll die Kunst mich mir selber entführen, **nicht** mich vor dem
 Ekel retten.
 
 [8[44]](javascript:;)
 ---------------------
 
-Die Liebe bei R<ichard> W<agner> vampyrisch geschildert, mit dem Trumpf, die
-ganze Welt im Glück auszustechen — und gleichsam arm zu machen, alles mögliche Glück für
+Die Liebe bei R&amp;lt;ichard&amp;gt; W&amp;lt;agner&amp;gt; vampyrisch geschildert, mit dem Trumpf, die
+ganze Welt im Glück auszustechen — und gleichsam arm zu machen, alles **mögliche** Glück für
 sich in Besitz zu nehmen und gleichsam sich an allem, was ist, zu rächen (wofür? dafür daß es uns nicht ebenso
 liebt wie diese Senta Brünnhilde usw.)
 
@@ -469,7 +469,7 @@ Todtlachen
 [8[47]](javascript:;)
 ---------------------
 
-Nach der Civilisation verlangen die, welche sehr in Angst sind. In
+**Nach** der Civilisation verlangen die, welche sehr in Angst sind. **In**
 der Civilisation zufrieden sind die Schwachen, die Feigen, die Faulen, die
 Geächteten
 
@@ -478,13 +478,13 @@ Geächteten
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 , die Gewöhnlichen: Gleichheit als Ziel, endlich als Zustand.
-Der Sand. Die Moralität (christlich-jüdisch) ist jetzt die der Civilisation. Napoleon und
+Der **Sand**. Die Moralität (christlich-jüdisch) ist jetzt die der Civilisation. Napoleon und
 das französische Volk nach der Revolution. Wer war mit der Organisation zufrieden?
 
 [8[48]](javascript:;)
 ---------------------
 
-Wo Heroismus ist, da giebt es kein Verbrechen mehr. Denn der Glaube, daß etwas gut ist, ist beim Heroismus.
+Wo Heroismus ist, da giebt es kein **Verbrechen** mehr. Denn der Glaube, daß etwas **gut** ist, ist beim Heroismus.
 
 [8[49]](javascript:;)
 ---------------------
@@ -496,8 +496,8 @@ Alle empfindet
 ---------------------
 
 Die Deutschen haben Mißtrauen, daß man ihnen Leidenschaften zutraue — deshalb machen sie sofort Grimassen und
-Excesse, nicht aus der Stärke des Affektes, sondern um sich Glauben zu verschaffen.
-Derart sind selbst die Leidenschaften bei R<ichard> W<agner>: so, daß man im Leben
+Excesse, **nicht** aus der Stärke des Affektes, sondern um sich Glauben zu verschaffen.
+Derart sind selbst die Leidenschaften bei R&amp;lt;ichard&amp;gt; W&amp;lt;agner&amp;gt;: so, daß man im Leben
 Jeden für toll halten müßte, der dergestalt seinen Empfindungen nachläuft (Ekel genügt, um
 jemanden
 
@@ -507,34 +507,33 @@ jemanden
 
  zu tödten) Es fehlt ganz der Genuß, den man ehedem moralisch
 nannte: daß einer sein Pferd zu reiten verstehe, daß es schön kühn leidenschaftlich sei wie sein Reiter,
-letzterer aber die Schönheit Kühnheit Leidenschaft durch seine Vernunft hindurch leuchten
+letzterer aber die Schönheit Kühnheit Leidenschaft durch seine Vernunft **hindurch** leuchten
 lasse, welche alles mäßigt und zum Ansehen erträglich macht. Bei dem wahnsinnigen Jagen jener Rosse hat man
 Schwindel und Erschöpfung.
 
 [8[51]](javascript:;)
 ---------------------
 
-Klassicism: der Genuß, so viele Andere sich unterwerfen zu sehen und den innerlichen Kampf sich dazu zu denken macht die Unterwerfung leicht, man nimmt es scheinbar frivol, um den Genuß
-zu haben, die Ernstesten und Hochmüthigsten zu Kreuze kriechen zu sehen! nämlich auf ihre
-Individualität Verzicht leisten!
+Klassicism: der Genuß, so viele Andere sich unterwerfen zu sehen und den innerlichen **Kampf** sich dazu zu denken macht die Unterwerfung leicht, man nimmt es scheinbar frivol, um den Genuß
+zu haben, die Ernstesten und Hochmüthigsten zu Kreuze kriechen zu sehen! **nämlich auf ihre
+Individualität Verzicht leisten!**
 
 [8[52]](javascript:;)
 ---------------------
 
-Der Reiz aller Bußprediger, die große Macht öffentlich zu
+Der Reiz aller Bußprediger, die **große**Macht öffentlich zu
 verachten! der Reiz aller Hochmächtigen zur tiefsten Erniedrigung und Hingebung und Abstinenz — dämonischer
 Zauber!
 
 [8[53]](javascript:;)
 ---------------------
 
-Neue Tapferkeit: zur Verachtung der Ehre! des Ruhms! des Namens! — wir bezahlen uns selber
-und verachten das, was Andere uns an Ruhm geben könnten!
+Neue Tapferkeit: zur Verachtung der Ehre! des Ruhms! des Namens! — wir **bezahlen uns selber**und verachten das, was Andere uns an Ruhm geben könnten!
 
 [8[54]](javascript:;)
 ---------------------
 
-die völlige Unfähigkeit des Gesang<s> hat den Sinn für Melodie vernichtet — jetzt das
+die völlige Unfähigkeit des Gesang&amp;lt;s&amp;gt; hat den Sinn für Melodie vernichtet — jetzt das
 Dramatische und der Naturlaut!
 
 [8[55]](javascript:;)
@@ -547,19 +546,19 @@ der Moral sehr wohl möglich, wie die des Geschmacks: nur Übung!
 ---------------------
 
 Naivetät des Moralischen gieng durch das Christenthum (und vorher durch Socrates) verloren, wie die
-französische Naivetät unter L<ouis> 14. — aus gleichen Gründen.
+französische Naivetät unter L&amp;lt;ouis&amp;gt; 14. — aus gleichen Gründen.
 
 [8[57]](javascript:;)
 ---------------------
 
 Die Grausamkeit und ihre Lust bei dem Starken, der sich selber bricht und einem Gesetz (Fürst Christenthum)
 unterwirft. Vorher ließ er sie an Anderen aus, indem er ihr Schicksal gestaltete (gut oder schlimm — es ist
-Grausamkeit, Freude den Thon zu kneten.)
+Grausamkeit, Freude den Thon zu **kneten**.)
 
 [8[58]](javascript:;)
 ---------------------
 
-Heiligkeit: man kann das Bewußtsein daran gewöhnen, das was in den Eingeweiden, im Blute vor sich geht nicht mehr zu merken oder anders (himmlisch) auszulegen.
+Heiligkeit: man kann das Bewußtsein daran gewöhnen, das was in den Eingeweiden, im Blute vor sich geht **nicht mehr zu merken** oder anders (himmlisch) **auszulegen**.
 
 [8[59]](javascript:;)
 ---------------------
@@ -577,9 +576,9 @@ Folglich ist sie nicht an sich gut oder böse.
 [8[60]](javascript:;)
 ---------------------
 
-Ich habe keinen Begriff von mir aus von einem M<enschen> welcher so sein will, wie es der gute
-Ton
-verlangt und
+Ich habe keinen Begriff von mir aus von einem M&amp;lt;enschen&amp;gt; welcher so sein will, wie es der **gute**
+**T**on
+**verlangt** und
 
 *Erratum:*:  
 *lies:* und  
@@ -590,37 +589,37 @@ nicht zu lieben zu hassen zu urtheilen wagt, bevor er nicht weiß, wie hier der 
 also gewiß keinen guten Ton! Ja ich verachte jeden, der sein will wie ein Andrer! der hinblickt, um zu sehen,
 was die Andren zu seinem Thun sagen! der immer an die Anderen denkt, nicht um ihnen zu nützen, sondern um vor
 ihnen nicht lächerlich zu sein — wäre er lächerlich, so würde er ihnen Vergnügen machen! entsetzlich! — Aber
-warum sollten wir nicht zu lachen geben! Wir selber haben den Vortheil davon, wenn unsere
+warum sollten wir nicht zu **lachen** geben! Wir selber haben den Vortheil davon, wenn unsere
 Mitmenschen guter Dinge sind! — „Aber sie achten nicht mehr, wenn sie lachen!“ — Aber warum sollen sie mich
 
 *Erratum:*euch  
 *lies:*mich  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-fürchten? Und wehe mir, wenn etwas Lächerliches an mir genügt, um mir meine eigene
-Achtung vor mir zu nehmen! Dies aber geschieht bei den Eiteln, die sich vernichten
+**fürchten**? Und wehe mir, wenn etwas Lächerliches an mir genügt, um mir meine eigene
+Achtung vor mir zu nehmen! Dies aber geschieht bei den Eiteln, die sich **vernichten**
 möchten, nach einem Etikettefehler.
 
 [8[61]](javascript:;)
 ---------------------
 
 NB Ein Zeitalter der Barbarei beginnt, die Wissenschaften werden ihm dienen! — Sehen wir zu, wie wir das
-Höhere, den Extrakt unseres jetzigen Erkennens, doch erhalten: durch eine Gemeinschaft
+Höhere, den Extrakt unseres jetzigen Erkennens, **doch** erhalten: durch eine Gemeinschaft
 freier Einzelner welche sagen
 
 |  |  |
 | --- | --- |
 | 1) | es giebt keinen Gott |
 | 2) | keinen Lohn und Strafe für Gutes und Böses (sittliche Welt) |
-| 3) | gut und böse gelten *Erratum:*gilt *lies:*gelten [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  je nach dem Ideal und der Richtung, in der wir leben: der beste Theil davon ist uns vererbt, zudem *Erratum:*zu dem *lies:*zudem [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  ist es möglich, daß diese Urtheile selbst in *Erratum:*im *lies:*in [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Bezug auf die Förderung des jeweiligen Ideals falsch sein können. Das Ideal ist die Vorwegnahme der Hoffnungen unserer Triebe (der herrschenden Triebe) |
+| 3) | gut und böse gelten *Erratum:*gilt *lies:*gelten [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  je nach dem Ideal und der Richtung, in der wir leben: der beste Theil davon ist uns vererbt, zudem *Erratum:*zu dem *lies:*zudem [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  ist es möglich, daß diese Urtheile selbst in *Erratum:*im *lies:*in [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Bezug auf die Förderung des jeweiligen Ideals **falsch** sein können. Das Ideal ist die Vorwegnahme der Hoffnungen unserer Triebe (der herrschenden Triebe) |
 
-um sich in der Barbarei trotzdem zu erhalten, wird diese Gemeinde rauh und tapfer sein
+um sich in der Barbarei trotzdem zu **erhalten**, wird diese Gemeinde rauh und tapfer sein
 müssen — asketische Vorbereitung
 
 [8[62]](javascript:;)
 ---------------------
 
-„Gesundheit“ nicht zu definiren als fest. Ein Ideal von dem Zustand, in dem jeder am
+„**Gesundheit**“ nicht zu definiren als fest. Ein Ideal von dem Zustand, in dem jeder am
 besten thun kann, was er am liebsten thut: aber der Wilde ein Salonheld
 und
 
@@ -628,9 +627,9 @@ und
 *lies:*und  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- der Gelehrte werden einen ganz verschiedenen
+ der Gelehrte werden einen **ganz verschiedenen**
 Zustand wünschen! — Wir leiden immer noch an den „klassischen“ Begriffen, die wir kaum für die Poesie
-losgeworden sind. Man sagt der Apoll ist „schöner“ als ein Fresko in Athen!
+losgeworden sind. Man sagt der Apoll ist „**schöner**“ als ein Fresko in Athen!
 
 [8[63]](javascript:;)
 ---------------------
@@ -639,8 +638,8 @@ Der Zustand der Menschheit ist immer noch ein sehr früher, und einige der für 
 noch nicht einmal aufgeworfen worden. — Unsere jetzige Wissenschaft hantiert mit einigen Vorurtheilen, wie als
 ob die Menschheit darüber immer einig sein werde: z.B. über den Werth der sympathischen Handlung, über
 irdisches Wohlergehen in Bezug auf Gesundheit usw. Aber, wenn ein anderes Ideal entsteht, ein anderer Trieb
-zur Herrschaft kommt, so hat die Wissenschaft wieder diesem sich unterzuordnen! Ich versuche die Grundvorurtheile der jetzigen
-Wissenschaft zu errathen! Es ist das Europäerthum!
+zur Herrschaft kommt, so hat die Wissenschaft wieder **diesem** sich unterzuordnen! **Ich versuche** die **Grundvorurtheile** der **jetzigen**
+Wissenschaft **zu errathen**! Es ist das **Europäerthum**!
 
 [8[64]](javascript:;)
 ---------------------
@@ -659,14 +658,14 @@ Sache.
 ---------------------
 
 Mit den schönen Stimmen und deren Ausbildung und Genuß gieng der Genuß der Melodie verloren: und diese
-selber! Die Klaviervirtuosen kamen und führten die Harmonie ein. Jetzt ahmt das Orchester deren Leistungen nach: und daneben stellt sich die Barbarei des theatralischen
-Effekts auf die Leidenschaften und inspirirt die Componisten. Dies ist gröber als der
+selber! Die Klaviervirtuosen kamen und führten die Harmonie ein. Jetzt ahmt das Orchester **deren** Leistungen nach: und daneben stellt sich die **Barbarei des theatralischen**
+Effekts auf die Leidenschaften und **inspirirt** die Componisten. Dies ist gröber als der
 Zauber des Virtuosen.
 
 [8[66]](javascript:;)
 ---------------------
 
-Dieselben Eigenschaften der Passionen können für oder gegen sie
+Dieselben Eigenschaften der Passionen können **für** oder **gegen** sie
 gewendet werden, je nach unserem allgemeinen Hang, z.B. ihr tiefer Ernst, ihre Bezauberung über die Realität,
 ihr absolutes Vertrauen-verlangen usw.
 
@@ -712,7 +711,7 @@ Amour?
 [8[72]](javascript:;)
 ---------------------
 
-Der Genuß in Ceremonien und Formalitäten groß bei jungen Civilisationen: für die Künste
+Der Genuß in Ceremonien und Formalitäten **groß** bei jungen Civilisationen: für die Künste
 zu beachten!
 
 [8[73]](javascript:;)
@@ -728,12 +727,12 @@ Mitleiden
 , nicht
 damit
 
-*Erratum:*damit  
+*Erratum:***damit**  
 *lies:*damit  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  es angenehme Empfindungen errege (dies wäre
-nicht wahr, außer bei ganz einzelnen Menschen) sondern weil es immer angenehme
+nicht wahr, außer bei ganz einzelnen Menschen) sondern **weil** es immer angenehme
 Empfindungen erregt hat: so wie das Thier die Brut liebt usw. man bejaht es, wenn es bereits da ist!
 
 [8[74]](javascript:;)
@@ -744,7 +743,7 @@ Empfindungen erregt hat: so wie das Thier die Brut liebt usw. man bejaht es, wen
 [8[75]](javascript:;)
 ---------------------
 
-Was gehen mich die an, welche eine alberne Gereiztheit zeigen, wenn überhaupt das
+Was gehen mich die an, welche eine **alberne Gereiztheit** zeigen, wenn überhaupt das
 Mitleiden nicht ohne Weiteres angebetet wird!
 
 [8[76]](javascript:;)
@@ -761,13 +760,13 @@ Ich habe den Geist Europas in mich genommen — nun will ich den Gegenschlag thu
 [8[78]](javascript:;)
 ---------------------
 
-Die Edlen ἐσϑλοί die Wahrhaften die sich nicht zu
-verstellen brauchen! Als Mächtige und Individuen!
+Die Edlen ἐσϑλοί die Wahrhaften die sich **nicht zu
+verstellen brauchen**! Als Mächtige und Individuen!
 
 [8[79]](javascript:;)
 ---------------------
 
-die Existenz der Kirche giebt den Freigeistern noch Freiheit vor der Wissenschaft NB
+die Existenz der Kirche giebt den Freigeistern noch Freiheit **vor der Wissenschaft** NB
 jetzt noch!
 
 [8[80]](javascript:;)
@@ -780,25 +779,24 @@ nicht der Schlaftrunk, ein schwerer heißer überwürzter Wein vor ihnen stand.
 [8[81]](javascript:;)
 ---------------------
 
-Gegen Schopenhauer: er hat die Miene eines M<enschen> der zufrieden mit sich ist, so gut zu
+Gegen Schopenhauer: er hat die Miene eines M&amp;lt;enschen&amp;gt; der zufrieden mit sich ist, so gut zu
 reden wie die Personen Racines und Schillers (nach Stendhal) Gut, er ist voll von Leidenschaft, aber zunächst
 ist er zufrieden damit, schön zu sprechen.
 
 [8[82]](javascript:;)
 ---------------------
 
-Wie kommt man darauf, jemanden zu ehren, weil er eines tiefen und
+Wie kommt man darauf, jemanden zu **ehren**, **weil** er eines tiefen und
 mannichfaltigen Mitleids fähig ist und leicht dazu erregt wird? Er muß unglücklicher sein als die Anderen und
-immer darauf aus, die Anderen zu trösten, aufzuhelfen usw.— also sein Unglücklichsein ist angenehm 1) weil es eine Wirkung unserer Leiden zeigt 2) weil es die Aussicht auf
+immer darauf aus, die Anderen zu trösten, aufzuhelfen usw.— also sein Unglücklichsein ist **angenehm** 1) weil es eine Wirkung **unserer** Leiden zeigt 2) weil es die Aussicht auf
 Abhülfe des Leidens, auf Milderung zeigt. Wir ehren ihn, weil er anders ist als wir erwarten? — aber warum
-verachten wir ihn nicht? Weil, wenn wir ihn nicht
- ehrenwerth
+verachten wir ihn nicht? Weil, wenn wir ihn **nicht** **ehrenwerth**
 
-*Erratum:*ehrenswert  
-*lies:*ehrenwerth  
+*Erratum:***ehrenswert**  
+*lies:***ehrenwerth**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- empfinden,
+**empfinden**,
 unsere Wirkung auf ihn nichts Lustvolles für uns hat. Es ekelt uns, Eindruck auf erbärmliche Seelen zu machen.
 Es geht also unsere geheime Neigung dahin, ihn uns als tüchtigen guten achtungswerthen Menschen zu denken.
 Außerdem wollen wir nicht von schlechten Gesellen bemitleidet sein;
@@ -811,8 +809,8 @@ Außerdem wollen wir nicht von schlechten Gesellen bemitleidet sein;
 setzt uns vor uns herab! Also: wann demüthigt das Bemitleidetwerden nicht? Wenn es erhebt! Das thut es, wenn
 ein hochansehnlicher Mensch (durch Herz Geist Stellung usw.) oder ein Gott mit uns empfindet — also wenn eine
 Gleichsetzung stattfindet, die uns zu Ehren gereicht (wodurch wir uns höher gehoben fühlen!!) Also: wir ehren
-gern den Mitleidenden, damit wir den Genuß an unserer eigenen Erhebung haben können! oder
-weil!
+gern den Mitleidenden, **damit** wir den Genuß an unserer eigenen Erhebung haben können! oder
+**weil**!
 
 [8[83]](javascript:;)
 ---------------------
@@ -822,7 +820,7 @@ Die Begeisterung, welche in Deutschland sofort zur Verdummung und zur Servilitä
 [8[84]](javascript:;)
 ---------------------
 
-Das Ergebniß aller absoluten Moral wäre die äußerste Verkümmerung des Menschen ja Vernichtung. Sie wird nicht durch das Glück bewiesen!
+Das Ergebniß aller absoluten Moral wäre die äußerste Verkümmerung des Menschen ja Vernichtung. Sie wird **nicht** durch das Glück bewiesen!
 
 [8[85]](javascript:;)
 ---------------------
@@ -839,16 +837,16 @@ Anmaaßung, die Schauspielerei der Größe heraus.
 [8[87]](javascript:;)
 ---------------------
 
-Was heißt „wollen“? die Frauen können nach Willen weinen. Die Männer können auch weinen wollen, aber der Effekt bleibt aus. Was macht den Unterschied? Es fehlt die Übung des Mechanismus. —
-Man kann deutlich sprechen wollen, aber niemand versteht uns. — Also der Erfolg oder
-Nicht-Erfolg gehört nicht
+Was heißt „wollen“? die Frauen können nach Willen weinen. Die Männer können auch weinen **wollen**, aber der Effekt bleibt aus. Was macht den Unterschied? Es fehlt die Übung des Mechanismus. —
+Man kann deutlich sprechen **wollen**, aber niemand versteht uns. — Also der Erfolg oder
+Nicht-Erfolg gehört **nicht**
 
 *Erratum:*nicht  
-*lies:*nicht  
+*lies:***nicht**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  zum Begriff „Wille“ —
-restirt also: begehren d.h. Vorstellung und Werthschätzung haben.
+restirt also: **begehren** d.h. Vorstellung und Werthschätzung haben.
 
 [8[88]](javascript:;)
 ---------------------
@@ -859,10 +857,10 @@ Sehr gute Zeit für die Freigeister — und nicht benutzt!
 ---------------------
 
 Zeitalter der nachgemachten
-Originalität
+**Originalität**
 
 *Erratum:*Originalität  
-*lies:*Originalität  
+*lies:***Originalität**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 .
@@ -871,8 +869,8 @@ Originalität
 [8[90]](javascript:;)
 ---------------------
 
-Vortheil der Einsamkeit: wir lassen unsere ganze Natur, auch ihre Verstimmungen gegen unser
-Hauptobjekt los und nicht an anderen Dingen und Menschen: so leben wir es durch!
+Vortheil der Einsamkeit: wir lassen unsere ganze Natur, auch ihre Verstimmungen **gegen unser
+Hauptobjekt** los und nicht an anderen Dingen und Menschen: so leben wir es **durch**!
 
 [8[91]](javascript:;)
 ---------------------
@@ -882,21 +880,21 @@ Warum ich der Leidenschaft ins Wort falle?
 Ich könnte volltönend und heftig und hinreißend meine Sache vorbringen, wie ich sie empfinde — aber hinterher
 bin ich halbtodt und leidend, auch voller Verdruß, über Übertreibungen Auslassungen usw. Andere haben in der
 Leidenschaft erst ihren
-Geist ganz
+Geist**ganz**
 
-*Erratum:*Geist ganz  
-*lies:*Geist ganz  
+*Erratum:***Geist** ganz  
+*lies:*Geist**ganz**  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
 : ich
-in der unterdrückten und bekämpften Leidenschaft. Es thut mir alles wohl, was mich an diesen meinen Zustand erinnert!!
+in der **unterdrückten**und bekämpften Leidenschaft. Es thut mir alles **wohl**, was mich an **diesen meinen Zustand**erinnert!!
 
 [8[92]](javascript:;)
 ---------------------
 
-der Glaube an die Verwerflichkeit des Egoism hat die Menschen geschwächt. Die
-griechischen Philosophen lehrten den Glauben an die Dummheit der Nichtphilosophen als Ursache
-ihres Unglücks.
+der Glaube an die Verwerflichkeit des Egoism hat die Menschen **geschwächt**. Die
+griechischen Philosophen lehrten den Glauben an die Dummheit der Nichtphilosophen **als Ursache
+ihres Unglücks.**
 
 [8[93]](javascript:;)
 ---------------------
@@ -915,13 +913,13 @@ Religion nouvelle
 | 1) | für seltene Momente aufgespart |
 | 2) | Verehrung der Aufopferungslust |
 | 3) | kein Gott, kein Jenseits, keine Belohnung und Bestrafung |
-| 4) | kein Beschuldigen mehr, keine Gewissensbisse, aber Vernunftbisse *Erratum:*Vernunftsbisse *lies:*Vernunftbisse [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) |
+| 4) | kein Beschuldigen mehr, keine Gewissensbisse, aber **Vernunftbisse** *Erratum:***Vernunftsbisse** *lies:***Vernunftbisse** [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html) |
 | 5) | das Ich restituirt. |
 | 6) | das Schöne empfunden als das sich opfernde Ich |
 | 7) | keine allgemeine Menschenliebe, sondern Herrschaft der Triebe |
-| 8) | die höchste Klugheit als Norm genommen, als gemein und nicht verehrt deshalb, weil gewöhnlich |
+| 8) | die höchste Klugheit als Norm genommen, als **gemein** und nicht verehrt deshalb, weil gewöhnlich |
 | 9) | die Unklugheit der Großmuth bewundert. Das Mitleiden immer *Erratum:*eine *lies:*immer [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Schwäche und Erholung — concedirt |
-| 10) | nicht als Opferung für Andre verehrt, sondern als voller *Erratum:*als der volle *lies:*als voller [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Sieg des einen Affektes über die anderen, so daß wir das Leben, die Ehre usw. ihm weihen: also die Fülle der Passion ist das Wesentliche. |
+| 10) | nicht als Opferung **für Andre** verehrt, sondern als voller *Erratum:*als der volle *lies:*als voller [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)  Sieg des einen Affektes über die anderen, so daß wir das Leben, die Ehre usw. ihm weihen: also die Fülle der Passion ist das Wesentliche. |
 
 [8[95]](javascript:;)
 ---------------------
@@ -932,7 +930,7 @@ Gefühl.
 [8[96]](javascript:;)
 ---------------------
 
-W<agner> dessen Fehler ist, nicht stolz genug zu sein, um die Schmeichler zu verabscheuen.
+W&amp;lt;agner&amp;gt; dessen Fehler ist, nicht stolz genug zu sein, um die Schmeichler zu verabscheuen.
 
 [8[97]](javascript:;)
 ---------------------
@@ -941,7 +939,7 @@ Nie hat sich der Zorn zu so düsterer Majestät und solchem Reichthum erhabener 
 Juden. Was ist ein zürnender Zeus gegen einen zürnenden Jehova! Sie haben es von ihren Propheten auf ihn
 übertragen. Der Zorn wurde heilig und gut dadurch. Und mitunter brach durch diese Gewitterwolken ein Strahl
 väterlicher Güte — in einer solchen Landschaft hat Christus seinen Regenbogen, seine Himmelsleiter des Gottes
-zum Menschen geträumt: nirgends wo anders hätte man dies gekonnt als unter dem Volk der
+zum Menschen geträumt: **nirgends wo anders** hätte man dies gekonnt als unter dem Volk der
 Propheten!
 
 [8[98]](javascript:;)
@@ -954,15 +952,15 @@ Religionen
 *lies:*Religionen  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- und Verwandtes, <sich> ihr
-ganz unterwerfen. Aber Irrthum! Sie kann nicht befehlen, Weg
+ und Verwandtes, &amp;lt;sich&amp;gt; **ihr**
+ganz unterwerfen. Aber Irrthum! Sie kann **nicht befehlen**, Weg
 weisen!
 
 *Erratum:*weisen:  
 *lies:*weisen!  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
- sondern erst wenn man weiß wohin?, kann sie
+ sondern erst wenn man weiß wohin?, **kann** sie
 nützen. Im Allgemeinen ist es Mythologie zu glauben, daß die Erkenntniß immer das was der Menschheit am
 nützlichsten und unentbehrlichsten sei, erkennen werde — sie wird eben so sehr schaden können als nützen — die
 höchsten Formen der Moralität sind vielleicht unmöglich bei voller Helle.
@@ -970,20 +968,20 @@ höchsten Formen der Moralität sind vielleicht unmöglich bei voller Helle.
 [8[99]](javascript:;)
 ---------------------
 
-Mitleid empfinden und nicht helfen können ist äußerst bitter. Sublimirung der Grausamkeit: Mitleid erregen. Gott leidend zu machen Bestreben
+Mitleid empfinden und **nicht** helfen können ist äußerst bitter. **Sublimirung der Grausamkeit**: Mitleid erregen. Gott leidend zu **machen** Bestreben
 des Christen
 
 [8[100]](javascript:;)
 ----------------------
 
-Schön: jeder nennt das schön, was entweder der sichtbare Ausdruck dessen ist, was ihm
+**Schön**: jeder nennt das schön, was entweder der sichtbare Ausdruck dessen ist, was ihm
 angenehm (nützlich) ist oder die Erinnerung daran erweckt oder gewöhnlich mit ihm verbunden erscheint.
 
 [8[101]](javascript:;)
 ----------------------
 
-Derselbe Trieb entwickelt sich als Feigheit, unter dem Eindruck des Tadels, der dieser
-Handlung folgt: und als Demuth unter dem Eindruck des Lobes. NB. Vielleicht sollte ich
+Derselbe Trieb entwickelt sich als **Feigheit**, unter dem Eindruck des Tadels, der dieser
+Handlung folgt: und als **Demuth** unter dem Eindruck des Lobes. NB. Vielleicht sollte ich
 nicht von Sublimirung reden, es giebt zwei Arten der Entwicklung, eine verkümmernde mit Widersprüchen des
 Gefühls sich vollziehende und eine blühende
 
@@ -1003,8 +1001,8 @@ Feuer im Leibe, Schnee auf dem Haupte und den Mund voll schwarzer Dämpfe wie de
 ----------------------
 
 Die langen Nachschatten des Christenthums (auch die Philosophen wie Socrates haben mitgeholfen): sie haben
-die Menschen überzeugt vom Altruism als der Quelle des Glücks und ihre Sprungfedern matt gemacht (die persönliche Passion) indem sie das gute Zutrauen dazu genommen haben.
-Alle Moral ist seitdem auf Sympathie aus: das Christenthum überbieten mit allgemeiner Menschenliebe — das bringt Sand und Brei hervor! Sein Fundament zertrümmern — Aufgabe der Wissenschaft! D.h. freilich, nach jetzigem Begriff: die Menschen
+die Menschen **überzeugt** vom Altruism als der Quelle des Glücks und ihre **Sprungfedern** matt gemacht (die persönliche Passion) indem sie das gute Zutrauen dazu genommen haben.
+**Alle** Moral ist seitdem auf Sympathie aus: das Christenthum **überbieten** mit allgemeiner Menschenliebe — das bringt Sand und Brei hervor! Sein Fundament **zertrümmern** — Aufgabe der Wissenschaft! D.h. freilich, nach jetzigem Begriff: die Menschen
 böse machen, egoistisch usw.
 
 [8[104]](javascript:;)
@@ -1019,7 +1017,7 @@ Bekenntniß seines Erfolges publizirte.
 
 Eine einzige Idee bringt bei ihm 1000 andere hervor, das geringste Wort trieb seine Unterhaltung in hohe
 Regionen, wo die gesunde Logik ihm nicht immer folgte, aber der Geist unaufhörlich sich bemerkbar machte. Er
-hatte nicht das Bedürfniß des Zweiten, um sich zu erhitzen. Er gieng
+hatte **nicht das Bedürfniß des** Zweiten, **um sich zu erhitzen**. Er gieng
 sofort sehr weit, aber aufmerksam, ob man ihm gefolgt wäre.
 
 [8[106]](javascript:;)
@@ -1074,7 +1072,7 @@ Die Musik hat noch keinen zürnenden Gott dargestellt.
 *lies:*dargestellt.  
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
-W<agner>s Wotan leidet an der Schwäche des deutschen Charakters, er will zu vielerlei und nichts
+W&amp;lt;agner&amp;gt;s Wotan leidet an der Schwäche des deutschen Charakters, er will zu vielerlei und nichts
 völlig bestimmt. Sein Zorn ist gar nicht zu nennen neben dem des Michel Angelo’schen Gottes — dafür hatte
 dieser auch nur diesen Einen Gedanken im Kopfe.
 
@@ -1102,9 +1100,9 @@ geringste Reflexion auszutauschen. So wurden
 [Nach KGW/KGB Nachberichte](/documentation/de/corrections.html)
 
  die verschiedensten Personen
-gleichgestellt und endlich gleich. Der Despot mit Plänen nach außen, dedaignirt die
+gleichgestellt und endlich **gleich**. Der Despot mit Plänen nach außen, dedaignirt die
 kleinen Erfolge, die er auf seine Umgebung hätte erringen können; wenn er noch so viel Verführungskunst
-verwendet hat, sie sich zu unterwerfen: ist es geschehen, so denkt er nicht daran, sein
+verwendet hat, sie sich zu unterwerfen: ist es **geschehen**, so denkt er nicht daran, sein
 Joch und sich angenehm zu machen.
 
 [8[113]](javascript:;)
@@ -1185,7 +1183,7 @@ auszuführen;
 
  von Zeit zu Zeit die Basen für ihn legend. Durch diesen
 einzigen Gedanken bewegt: losgelöst von allen Eindrücken zweiten Ranges, die sein Projekt hätten aufhalten
-können. Durch die Weite seines durchdringenden Scharfsinns und die Zähigkeit seines Willens der außerordentl<ichste> Mensch. Im Falle sein Ziel das Wohl
+können. Durch die Weite seines **durchdringenden Scharfsinns** und die **Zähigkeit seines Willens** der außerordentl&amp;lt;ichste&amp;gt; Mensch. Im Falle sein Ziel das Wohl
 der Menschheit gewesen wäre, der größte Mensch.
 
 [8[119]](javascript:;)
@@ -1197,4 +1195,6 @@ selbst die, welche er geschaffen hatte.
 [8[120]](javascript:;)
 ----------------------
 
-Die grosse Frage.
+**Die grosse Frage.**
+
+[if !IE]&amp;gt;visore&amp;lt;![endif]
