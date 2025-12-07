@@ -1,0 +1,3 @@
+selenium
+markdownify
+webdriver-manager
