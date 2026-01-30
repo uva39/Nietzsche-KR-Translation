@@ -1,15 +1,14 @@
 # Nietzsche-KR-Translation
 
-# 무엇을 하는 레포인가요?
-http://www.nietzschesource.org/#eKGWB
-독일 철학자 프리드리히 니체(Friedrich Nietzsche)의 모든 1차자료 독일어 텍스트를 한국어로 번역하는 레포입니다. 현재 계획은 다음과 같습니다.
-- 1차자료 텍스트를 Markdown으로 정리
-- 텍스트를 AI번역
-- 번역 수정(어색한 표현 수정 등)
+# 무엇을 하는 저장소인가요?
 
-## 참고 자료
-스탠포드 철학 백과사전 중 니체
-https://plato.stanford.edu/entries/nietzsche/
+프리드리히 니체(Friedrich Nietzsche)의 모든 1차자료 독일어 텍스트를 한국어로 번역하는 저장소입니다. 
+개인 공부용으로 만든 저장소입니다. 
+현재 http://www.nietzschesource.org/#eKGWB 의 모든 텍스트는 복사가 완료되었습니다. 
+  
 
-## How to Contribute
-번역 수정, 오타 수정, 빠진 자료 추가에 한정해서 자유롭게 Pull Request를 보내주세요
+
+TODO:
+- 텍스트를 AI번역 후 적당히 번역 수정
+- 니체소스에 있는 기능 구현하기
+- 주요 철학 단어에 대해, 위키피디아처럼 하이퍼링크 기능 만들기. 철학소-번역어를 정리해놓은 인터넷 사전이 있는지 알아보면 좋을듯
